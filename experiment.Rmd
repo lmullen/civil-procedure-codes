@@ -111,5 +111,29 @@ compare_codes_by_shared_ngrams <- function(orig_code, dest_code) {
 }
 ```
 
+It sure would be nice to be able to take an n-gram that we know is a match and to find the context in two codes. I'm going to assume that you've found a interesting match elsewhere, probably using the `compare_codes_by_shared_ngrams()` function, and want to investigate it further. This function takes the n-gram as a string and the two codes to look for it in. (Technically, I suppose, we're just implementing a generic search function.) 
+
+```{r}
+kwic_ngram_match <- function(ngram, code_1, code_2, disp_chars = 100) {
+  require(stringr)
+  # The fixed() function from stringr indicates that we are using literal
+  # characters rather than a regex.
+  match_code_1 <- str_locate_all(code_1, fixed(ngram))[[1]]
+  match_code_2 <- str_locate_all(code_2, fixed(ngram))[[1]]
+  
+  match_code_1[,1] <- match_code_1[,1] - disp_chars
+  match_code_1[,2] <- match_code_1[,2] + disp_chars
+  match_code_2[,1] <- match_code_2[,1] - disp_chars
+  match_code_2[,2] <- match_code_2[,2] + disp_chars
+  
+  extract_code_1 <- str_sub(code_1, match_code_1[,1], match_code_1[,2])
+  extract_code_2 <- str_sub(code_2, match_code_2[,1], match_code_2[,2])
+  
+  data.frame(ngram = ngram,
+             orig_code = extract_code_1,
+             dest_code = extract_code_2)
+}
+```
+
 
 
