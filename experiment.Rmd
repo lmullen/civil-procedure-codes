@@ -1,0 +1,115 @@
+---
+title: "Experimenting with n-grams in Civil Procedure Codes"
+author: "Kellen Funk and Lincoln Mullen"
+date: "August 4, 2014"
+output: html_document
+---
+
+Some preliminary experimentation with the OCR files from the Field Code and with
+various text analysis packages.
+
+```{r}
+library(magrittr)
+library(RWeka)
+```
+
+First we need to load the codes into a useable format and clean them up. Load each code as a character vector with just words converted to lowercase into a list, with the filenames as the names of the list objects
+
+```{r}
+files <- dir("txt", "*.txt")
+raw <- file.path("txt", files) %>%
+  lapply(., scan, "character", sep = "\n")
+names(raw) <- files
+codes_texts <- lapply(raw, paste, collapse = " ") %>%
+  lapply(., tolower) %>%
+  lapply(., WordTokenizer) %>%
+  lapply(., paste, collapse = " ")
+```
+
+A helper function to create n-grams using the function provided in RWeka. Note that the documentation says that the maximum for an n-gram is 3, but apparently that is not the case. 
+
+```{r}
+ngrammify <- function(data, n) { 
+  NGramTokenizer(data, Weka_control(min = n, max = n))
+  }
+```
+
+Create the n-grams, then create a list of all the unique n-grams. We're going to create just 5-grams on the suspicion that that is a good length.
+
+```{r}
+codes_grams <- lapply(codes_texts, ngrammify, 5)
+every_grams <- codes_grams %>% unlist() %>% unique()
+```
+
+So far we have been comparing each code to the universe of codes, not one to another.
+How many unique n-grams are there in total, and how many in each code?
+
+```{r}
+length_all_ngrams <- every_grams %>% length()
+length_codes_ngrams <- codes_grams %>% lapply(., length)
+```
+
+How many fewer unique n-grams are there than the total of the n-grams in all the codes? I.e., how many matches are there?
+
+```{r}
+length_codes_ngrams %>% unlist %>% sum - length_all_ngrams
+```
+
+The n-grams in each code comprise what percentage of the total?
+
+```{r}
+length_codes_ngrams %>% lapply(., "/", length_all_ngrams)
+```
+
+Up till now we have been comparing codes with the total universe of codes. Now let's compare one code to another. The NC 1868 code is probably borrowed from the NY 1850 code. How many n-grams in the NC code are in the NY code? What is the percentage of matches to possible matches (i.e., the unique list of n-grams in both sets). What do these matches look like? (Save them to disk for Kellen to look at.)
+
+```{r}
+ny_to_nc_matches <- intersect(codes_grams$NC1868.txt, codes_grams$NY1850part2.txt) 
+ny_to_nc_possible <- unique(c(codes_grams$NC1868.txt, codes_grams$NY1850part2.txt))
+
+ny_to_nc_matches %>% length
+ny_to_nc_matches %>% length / ny_to_nc_possible %>% length
+ny_to_nc_matches %>% length / length_codes_ngrams$NC1868.txt
+
+sample(ny_to_nc_matches, 10)
+write.csv(ny_to_nc_matches, file = "out/ny_to_nc.matches.csv")
+```
+
+What if we do the same thing for New York to Michigan?
+
+```{r}
+ny_to_mi_matches <- intersect(codes_grams$MI1853.txt, codes_grams$NY1850part2.txt) 
+ny_to_mi_possible <- unique(c(codes_grams$MI1853.txt, codes_grams$NY1850part2.txt))
+
+ny_to_mi_matches %>% length
+ny_to_mi_matches %>% length / ny_to_nc_possible %>% length
+ny_to_mi_matches %>% length / length_codes_ngrams$MI1853.txt
+
+sample(ny_to_mi_matches, 10)
+write.csv(ny_to_mi_matches, file = "out/ny_to_mi.matches.csv")
+```
+
+That kind of analysis might be generally useful, so let's turn it into a function.
+
+```{r}
+#' Compare two codes using their list of n-grams.
+#' @param orig_code A vector of n-grams representing a code.
+#' @param dest_code A vectory of n-grams representing a code.
+#' @return A list containing data that might help to identify whether codes
+#'   match up.
+compare_codes_by_shared_ngrams <- function(orig_code, dest_code) {
+  require(magrittr)
+  
+  matches <- intersect(orig_code, dest_code)
+  shared_ngrams <- unique(c(orig_code, dest_code))
+  ratio_matches_to_possible <- length(matches) / length(shared_ngrams)
+  ratio_matches_to_destination <- length(matches) / length(dest_code)
+  list(matches = matches,
+       shared_ngrams = shared_ngrams,
+       ratio_matches_to_possible = ratio_matches_to_possible,
+       ratio_matches_to_destination = ratio_matches_to_destination)
+}
+```
+
+
+
