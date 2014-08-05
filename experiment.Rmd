@@ -135,5 +135,35 @@ kwic_ngram_match <- function(ngram, code_1, code_2, disp_chars = 100) {
 }
 ```
 
+Now that we've written a [KWIC](http://en.wikipedia.org/wiki/Key_Word_in_Context) function, we can apply it to the comparison of the NY and NC sample codes.
+
+First we get a comparison of the two codes:
+
+```{r}
+cf_ny_nc <- compare_codes_by_shared_ngrams(codes_grams$NY1850part2.txt,
+                                           codes_grams$NC1868.txt)
+str(cf_ny_nc)
+```
+
+Now let's get a random sample of matches:
+
+```{r}
+sample_matches <- sample(cf_ny_nc$matches, 20)
+sample_matches
+```
+
+Now let's apply our KWIC function to those sample matches and get a comparison of the two codes in tabular format. (If the length of this table is longer than the sample matches, it is because the match appears more than once in each code.)
+
+```{r}
+comparison_of_matches <- sample_matches %>% lapply(., kwic_ngram_match,
+                          codes_texts$NY1850part2.txt,
+                          codes_texts$NC1868.txt,
+                          disp_chars = 300) %>%
+                            do.call(rbind.data.frame, .)
+comparison_of_matches
+write.csv(comparison_of_matches, file = "out/matches_ny_nc_kwic.csv")
+```
+
+
 
 
