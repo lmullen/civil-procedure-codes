@@ -89,7 +89,19 @@ sample(ny_to_mi_matches, 10)
 write.csv(ny_to_mi_matches, file = "out/ny_to_mi.matches.csv")
 ```
 
-That kind of analysis might be generally useful, so let's turn it into a function.
+That kind of analysis might be generally useful, so let's turn it into a function. First a helper function that removes elements from the list of n-grams. A lot of the n-grams contain non-word characters, numbers, or gibberish from the OCR. We want to know the proportion of matches that could be reasonably matched, so we'll exclude n-grams containing any of those characters.
+
+```{r}
+#' Remove unreasonable n-grams containing characters other than letters and spaces
+#' @param ngrams A list of n-grams
+#' @return Returns a list of filtered n-grams
+filter_unreasonable_ngrams <- function(ngrams) {
+  require(stringr)
+  ngrams[!str_detect(ngrams, "[^a-z ]")]
+}
+```
+
+Now the main function for comparing two codes:
 
 ```{r}
 #' Compare two codes using their list of n-grams.
@@ -102,8 +114,8 @@ compare_codes_by_shared_ngrams <- function(orig_code, dest_code) {
   
   matches <- intersect(orig_code, dest_code)
   shared_ngrams <- unique(c(orig_code, dest_code))
-  ratio_matches_to_possible <- length(matches) / length(shared_ngrams)
-  ratio_matches_to_destination <- length(matches) / length(dest_code)
+  ratio_matches_to_possible <- length(matches) / length(filter_unreasonable_ngrams(shared_ngrams))
+  ratio_matches_to_destination <- length(matches) / length(filter_unreasonable_ngrams(dest_code))
   list(matches = matches,
        shared_ngrams = shared_ngrams,
        ratio_matches_to_possible = ratio_matches_to_possible,
