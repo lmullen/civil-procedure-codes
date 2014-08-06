@@ -1,19 +1,23 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 
-all : $(OCR_OUTPUTS)
-	@echo "OCRing all the PDFs in ./pdf"
+# all : $(OCR_OUTPUTS)
+all : text/test.txt
+	@echo "\n\nDone doing OCR for all the PDFs in ./pdf"
 
 text/%.txt : pdf/%.pdf
 	mkdir -p temp
-	@echo "\nConverting the PDF $^ to the image files"
-	convert -density 600 -depth 8 $^ temp/$*.page-%04d.png
-	@echo "\nDoing OCR for each page"
-	$(eval $@_PAGES := $(wildcard temp/$*.page-*.png))
-	for page in $($@_PAGES) ; do \
-		tesseract $$page $$page tesseract-config ; \
+	@echo "\nBursting $^ into separate files"
+	pdftk $^ burst output temp/$*.page-%04d.pdf
+	@echo "\nConverting the PDFs for $^ to the image files"
+	for pdf in temp/$*.page-*.pdf ; do \
+		convert -density 600 -depth 8 $$pdf $$pdf.png ; \
+	done
+	@echo "\nDoing OCR for each page in $^"
+	for png in temp/$*.page-*.pdf.png ; do \
+		tesseract $$png $$png tesseract-config ; \
 	done
 	@echo "\nConcatenating the text files into $@"
-	cat $(wildcard temp/$*.page-*.png.txt) > $@
+	cat temp/$*.page-*.pdf.png.txt > $@
 
 .PHONY : clean
 clean : 
