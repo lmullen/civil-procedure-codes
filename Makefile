@@ -1,7 +1,6 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 
-# all : $(OCR_OUTPUTS)
-all : text/test.txt
+all : $(OCR_OUTPUTS)
 	@echo "\n\nDone doing OCR for all the PDFs in ./pdf"
 
 text/%.txt : pdf/%.pdf
