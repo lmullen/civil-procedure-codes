@@ -1,0 +1,52 @@
+---
+title: "How many n-grams are we disregarding?"
+output: html_document
+---
+
+```{r, echo=FALSE}
+library(magrittr)
+library(RWeka)
+library(stringr)
+```
+
+```{r, echo=FALSE}
+codes_dir <- "text"
+files <- dir(codes_dir, "*.txt")
+raw <- file.path(codes_dir, files) %>%
+  lapply(., scan, "character", sep = "\n")
+names(raw) <- files
+codes_texts <- lapply(raw, paste, collapse = " ") %>%
+  lapply(., tolower) %>%
+  lapply(., WordTokenizer) %>%
+  lapply(., paste, collapse = " ")
+```
+
+```{r, echo=FALSE}
+ngrammify <- function(data, n) { 
+  NGramTokenizer(data, Weka_control(min = n, max = n))
+  }
+```
+
+```{r, echo=FALSE, cache=TRUE}
+codes_grams <- lapply(codes_texts, ngrammify, 5)
+```
+
+```{r, echo=FALSE}
+#' Remove unreasonable n-grams containing characters other than letters and spaces
+#' @param ngrams A list of n-grams
+#' @return Returns a list of filtered n-grams
+filter_unreasonable_ngrams <- function(ngrams) {
+  require(stringr)
+  ngrams[!str_detect(ngrams, "[^a-z ]")]
+}
+```
+
+We have a known problem of mistakes in the OCR coupled with section numbers, page numbers, and the occasional stray character. If we throw away any n-gram that includes a character outside the range of `a-z` (plus space), what proportion of the n-grams is left? This is a rough proxy for how good the OCR is.
+
+```{r}
+codes_grams %>% lapply(function(x) {
+  (x %>% filter_unreasonable_ngrams %>% length) / (x %>% length)
+}) 
+```
+
+Using tessaract instead of other OCR solutions, we're keeping about 80% of the NY 1850 code, instead of roughly 70% using our older method. Since that number is the denominator when we calculate the proportion of the code that has a match, this explains why the proportion grew less than we might have expected.
