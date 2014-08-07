@@ -1,9 +1,9 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 
 all : $(OCR_OUTPUTS)
-	@echo "\n\nDone doing OCR for all the PDFs in ./pdf"
+	@echo "\nDone doing OCR for all the PDFs in ./pdf"
 
-text/%.txt : pdf/%.pdf
+temp/%.txt : pdf/%.pdf
 	mkdir -p temp
 	@echo "\nBursting $^ into separate files"
 	pdftk $^ burst output temp/$*.page-%04d.pdf
@@ -16,11 +16,14 @@ text/%.txt : pdf/%.pdf
 		tesseract $$png $$png tesseract-config ; \
 	done
 	@echo "\nConcatenating the text files into $@"
-	cat temp/$*.page-*.pdf.png.txt > $@
+	cat temp/$*.page-*.pdf.png.txt > $*.txt
+
+text/%.txt : temp/%.txt
+	vim $^ -c ":%s/\v-\n+//g" -c ":w! $@" -c ":q"
 
 .PHONY : clean
 clean : 
-	rm -rf temp/*
+	rm -rf temp/
 
 .PHONY : clobber
 clobber : 
