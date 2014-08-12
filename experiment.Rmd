@@ -64,8 +64,8 @@ length_codes_ngrams %>% lapply(., "/", length_all_ngrams)
 Up till now we have been comparing codes with the total universe of codes. Now let's compare one code to another. The NC 1868 code is probably borrowed from the NY 1850 code. How many n-grams in the NC code are in the NY code? What is the percentage of matches to possible matches (i.e., the unique list of n-grams in both sets). What do these matches look like? (Save them to disk for Kellen to look at.)
 
 ```{r}
-ny_to_nc_matches <- intersect(codes_grams$NC1868.txt, codes_grams$NY1850c.txt) 
-ny_to_nc_possible <- unique(c(codes_grams$NC1868.txt, codes_grams$NY1850c.txt))
+ny_to_nc_matches <- intersect(codes_grams$NC1868.txt, codes_grams$NY1850.txt) 
+ny_to_nc_possible <- unique(c(codes_grams$NC1868.txt, codes_grams$NY1850.txt))
 
 ny_to_nc_matches %>% length
 ny_to_nc_matches %>% length / ny_to_nc_possible %>% length
@@ -78,8 +78,8 @@ write.csv(ny_to_nc_matches, file = "out/ny_to_nc.matches.csv")
 What if we do the same thing for New York to Michigan?
 
 ```{r}
-ny_to_mi_matches <- intersect(codes_grams$MI1853.txt, codes_grams$NY1850c.txt) 
-ny_to_mi_possible <- unique(c(codes_grams$MI1853.txt, codes_grams$NY1850c.txt))
+ny_to_mi_matches <- intersect(codes_grams$MI1853.txt, codes_grams$NY1850.txt) 
+ny_to_mi_possible <- unique(c(codes_grams$MI1853.txt, codes_grams$NY1850.txt))
 
 ny_to_mi_matches %>% length
 ny_to_mi_matches %>% length / ny_to_nc_possible %>% length
@@ -152,7 +152,7 @@ Now that we've written a [KWIC](http://en.wikipedia.org/wiki/Key_Word_in_Context
 First we get a comparison of the two codes:
 
 ```{r}
-cf_ny_nc <- compare_codes_by_shared_ngrams(codes_grams$NY1850c.txt,
+cf_ny_nc <- compare_codes_by_shared_ngrams(codes_grams$NY1850.txt,
                                            codes_grams$NC1868.txt)
 str(cf_ny_nc)
 ```
@@ -168,7 +168,7 @@ Now let's apply our KWIC function to those sample matches and get a comparison o
 
 ```{r}
 comparison_of_matches <- sample_matches %>% lapply(., kwic_ngram_match,
-                          codes_texts$NY1850c.txt,
+                          codes_texts$NY1850.txt,
                           codes_texts$NC1868.txt,
                           disp_chars = 300) %>%
                             do.call(rbind.data.frame, .)
@@ -195,7 +195,7 @@ title("Places in NC 1868 Code with Matches in NY 1850 Code",
 Let's try this with the California 1851 code.
 
 ```{r}
-cf_ny_ca <- compare_codes_by_shared_ngrams(codes_grams$NY1850c.txt,
+cf_ny_ca <- compare_codes_by_shared_ngrams(codes_grams$NY1850.txt,
                                            codes_grams$CA1851.txt)
 str(cf_ny_ca)
 ```
@@ -220,7 +220,7 @@ title("Places in CA 1851 Code with Matches in NY 1850 Code",
 We can do the same thing with the MI 1853 code and find that it's not a very good match to the NY 1850 code. The matches that are there are probably just noise or common legal terms and English phrases.
 
 ```{r, fig.height = 3, fig.width = 8}
-cf_ny_mi <- compare_codes_by_shared_ngrams(codes_grams$NY1850c.txt,
+cf_ny_mi <- compare_codes_by_shared_ngrams(codes_grams$NY1850.txt,
                                            codes_grams$MI1853.txt)
 mi_matches <- codes_grams$MI1853.txt %in% cf_ny_mi$matches  
 mi_matches %>% 
