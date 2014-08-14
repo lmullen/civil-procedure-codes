@@ -1,7 +1,6 @@
 ---
 title: "Experimenting with n-grams in Civil Procedure Codes"
 author: "Kellen Funk"
-date: "August 4, 2014"
 output: html_document
 ---
 
@@ -167,13 +166,14 @@ sample_matches
 Now let's apply our KWIC function to those sample matches and get a comparison of the two codes in tabular format. (If the length of this table is longer than the sample matches, it is because the match appears more than once in each code.)
 
 ```{r}
-comparison_of_matches <- sample_matches %>% lapply(., kwic_ngram_match,
-                          codes_texts$NY1850.txt,
-                          codes_texts$NC1868.txt,
-                          disp_chars = 300) %>%
-                            do.call(rbind.data.frame, .)
-comparison_of_matches
-write.csv(comparison_of_matches, file = "out/matches_ny_nc_kwic.csv")
+# TEMPORARILY REMOVED
+# comparison_of_matches <- sample_matches %>% lapply(., kwic_ngram_match,
+#                           codes_texts$NY1850.txt,
+#                           codes_texts$NC1868.txt,
+#                           disp_chars = 300) %>%
+#                             do.call(rbind.data.frame, .)
+# comparison_of_matches
+# write.csv(comparison_of_matches, file = "out/matches_ny_nc_kwic.csv")
 ```
 
 Now let's create a density map of where the matching n-grams are in a code. Interesting that the beginning and end of the code have fewer matches.
@@ -204,7 +204,7 @@ And the plot comparing California and New York:
 
 ```{r, fig.height = 3, fig.width = 8}
 density_plot_color <- rgb(0.5, 0.5, 0.5, 0.1)
-ca_matches <- codes_grams$NC1868.txt %in% cf_ny_nc$matches  
+ca_matches <- codes_grams$CA1851.txt %in% cf_ny_ca$matches  
 ca_matches %>% 
   plot(type = "h",
        col = density_plot_color,
@@ -214,7 +214,6 @@ ca_matches %>%
 title("Places in CA 1851 Code with Matches in NY 1850 Code",
       xlab = "Position in code",
       ylab = "")
-```
 ```
 
 We can do the same thing with the MI 1853 code and find that it's not a very good match to the NY 1850 code. The matches that are there are probably just noise or common legal terms and English phrases.
