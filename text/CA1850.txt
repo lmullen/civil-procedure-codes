@@ -170,8 +170,7 @@ care and control of such minor, or with whom he shall reside, or in whose servic
 his own ati‘airs, and for whom a guardian has been appointed, to such guardian, and to the defendant
 personally. '
 
-4th. In all other cases to the defendant personally. -
-§ 27. When the person on whom the service is to be made, cannot after due diligence be found I
+4th. In all other cases to the defendant personally. § 27. When the person on whom the service is to be made, cannot after due diligence be found I
 within the State, and that fact shall be shown by the Sheriff ’3 return upon the summons, and also be 1
 proved by affidavit to the satisfaction of the Ccurt, or that he is a non-resident of the State, and it shall
 appear by afiidavit that a cause of action exists against the defendant, in respect to whom the
@@ -351,9 +350,7 @@ thereof. .
 facts, for the purpose of showing the application to the plaintiff of the defamatory matter out of which
 the cause of action arose, but it‘shall be suliicient to state generally that the same was published or
 spoken concerning the plaintiff; and if such allegation be controverted, the plaintiff shall be bound to
-establish on the trial that it was so published or spoken. -
-
-§ 60. In the actions mentioned in the last section, the defendant may, in his answer, allege both the
+establish on the trial that it was so published or spoken. § 60. In the actions mentioned in the last section, the defendant may, in his answer, allege both the
 truth of the matter charged as defamatory, and any mitigating circumstances to reduce the amount of
 damages ; and whether he prove the justilication or not, he may give in evidence the mitigating
 
@@ -434,9 +431,7 @@ the pleading or proceeding may be amended accordingly.
 
 § 71. The Court shall, in every stage of an action, disregard any error or defect in the pleading or
 proceedings which shall not affect the substantial rights of the adverse party, and no judgment shall be
-reversed or affected by reason of such error or defect. -
-
-§ 72. The plaintiff and defendant respectively may be allowed on motion to make a supplemental
+reversed or affected by reason of such error or defect. § 72. The plaintiff and defendant respectively may be allowed on motion to make a supplemental
 complaint or answer, alleging facts material to the case, occurring after the former complaint or answer,
 or of which the party was ignorant when this former pleading was made.
 
@@ -543,9 +538,7 @@ expressed in the order, if the whole justification be equivalent to that of two 
 Peace, at the time and place mentioned in the notice, and may be examined on oath on the part of the
 plaintiff touching his sufiiciency in such manner as the Judge or J ustice of the Peace in his discretion
 may think proper. The examination shall be reduced to writing and subscribed by the bail, if required
-by the plaintiff. V 0' -
-
-§ 91. If the Judge or Justice of the Peace find the bail sufiicient, he shall annex the examination to
+by the plaintiff. V 0' § 91. If the Judge or Justice of the Peace find the bail sufiicient, he shall annex the examination to
 the undertaking, endorse his allowance thereon, and cause them to be filed with the Clerk, and the
 Sheriff shall thereupon be exonerated from liability.
 
@@ -553,8 +546,7 @@ Sheriff shall thereupon be exonerated from liability.
 the amount mentioned in the order. The Sheriff shall thereupon give the defendant a certiticate of the
 deposit, and the defendant shall be discharged out of custody.
 
-§ 93. The Sheriff shall, within four days after the deposit, pay the same into Court, and shall take -
-from the oflicer receiving the same two certificates of such payment, the one of which he shall deliver
+§ 93. The Sheriff shall, within four days after the deposit, pay the same into Court, and shall take from the oflicer receiving the same two certificates of such payment, the one of which he shall deliver
 to the plaintiff and the other to the deferfdant; for any default in making such payment, the same
 proceedings may be had on the ofiicial bond of the Sheriff, to collect the sum deposited, as in other
 
@@ -692,9 +684,7 @@ claim by an undertaking with two or more sufiicient sureties, accompanied by the
 are each worth double the value of the property as specified in the afiidavit of the plaintiffs, and
 freeholders or householders of the county; and no claim to such property by any other person than the
 defendant shall be valid against the Sheriff, unless made as aforesaid; and notwithstanding such claim
-when so made, he may retain the property a reasonable time to demand such indemnity; -
-
-§ 115. The Sheriff shall file the order and affidavit, with his proceedings thereon, with the Clerk
+when so made, he may retain the property a reasonable time to demand such indemnity; § 115. The Sheriff shall file the order and affidavit, with his proceedings thereon, with the Clerk
 of the Court in which the action is pending, within twenty days after taking the property mentioned
 therein.
 
@@ -951,8 +941,7 @@ any specific question of fact involved therein ; or,
 judgment, or for carrying a judgment or order into etl'ect ; or,
 
 3. Where a question of fact, other than upon the pleadings, shall arise upon motion, or otherwise,
-in any stage of the action. -
-§ 165. The report of the referees upon the whole issue shall stand as the decision of the Court, and
+in any stage of the action. § 165. The report of the referees upon the whole issue shall stand as the decision of the Court, and
 judgment may be entered thereon in the same manner as if the action had been tried by the Court, and
 their decision may be excepted to, and reviewed in like manner, or a rehearing may be granted by the
 Court in which the judgment is entered.
@@ -983,9 +972,7 @@ claim a return thereof, judgment for the defendant may be for a return of the pr
 thereof, in case a return cannot be had, and damages for taking and withholding the same.
 
 § 170. The Clerk shall keep among the records of the court a book for the entry of judgments, to be
-called the “Judgment Book.” -
-
-§ 171. The judgment shall be entered in the judgment book, and shall specify clearly the relief
+called the “Judgment Book.” § 171. The judgment shall be entered in the judgment book, and shall specify clearly the relief
 granted or other determination of the action; upon the expiration of four days the judgment shall be
 signed by the Judge, after which execution may issue. ‘
 
@@ -1058,9 +1045,7 @@ CHAPTER XVI.
 
 Levy of Execution and Sale.
 
-§ 164. The following property shall be liable to be seized and sold upon execution :— -
-
-1st. All goods and chattels not exempt by law.
+§ 164. The following property shall be liable to be seized and sold upon execution :— 1st. All goods and chattels not exempt by law.
 
 2d. The rights and shares of a defendant in the stock of any incorporated company or association.
 
@@ -1337,8 +1322,7 @@ proceeding to act they shall take and subscribe the oath of otlice and file it i
 their attendance by attachment, to administer all necessary oaths, and to take and certify the. depositions
 of witnesses or their answers to interrogatories. I
 
-§ 233. Any party to an action may take the deposition of a witness within the county in which the-
-action is pending, by giving reasonable notice to the opposite party or his attorney, of the time and place
+§ 233. Any party to an action may take the deposition of a witness within the county in which theaction is pending, by giving reasonable notice to the opposite party or his attorney, of the time and place
 at which the witness will be examined before a commissioner. The notice shall state the title of the
 cause in which the evidence of the witness will be used, and the name of the commissioner.
 
@@ -1388,8 +1372,7 @@ shall be attached to the commission.
 may be delivered. .
 
 § 241. When the witness appears before the commissioner, he shall, the witness having been first
-duly sworn, proceed to take and reduce to writing his answers to each interrogatory and cross-
-interrogatory ; when completed, the answers shall be read over to the witness, and corrected if necessary,
+duly sworn, proceed to take and reduce to writing his answers to each interrogatory and crossinterrogatory ; when completed, the answers shall be read over to the witness, and corrected if necessary,
 subscribed by him, and certified by the commissioner under his hand and seal, if he have one.
 
 § 242. The commissioner shall then seal up the commission, interrogatories, and cross-interrogatories
@@ -1442,9 +1425,7 @@ to attend as a witness any court held out of the county in which he resides.
 
 § “252. The party who believes himself aggrieved by the judgment against him, may, within four
 judicial days after such judgment has been rendered, pray for a new trial, which must be granted if there
-be good ground for the same. -
-
-§ 2.33. The party demanding a new trial must set forth the grounds on which he rests his demand,
+be good ground for the same. § 2.33. The party demanding a new trial must set forth the grounds on which he rests his demand,
 . and the same must be filed, entered on the records of the court, and notilied to the adverse party, in
 order that he may answer within the delay prescribed for answering.
 
