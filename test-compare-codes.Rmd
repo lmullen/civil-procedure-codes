@@ -124,6 +124,9 @@ codes_all_names <- str_extract(names(codes_all_grams), "\\w+")
 comparison_of_all_codes <- outer_for_lists(codes_all_grams, codes_all_grams, compare_codes_by_shared_ngrams)
 colnames(comparison_of_all_codes) <- codes_all_names
 rownames(comparison_of_all_codes) <- codes_all_names
+
+# Normalize comparison of all codes to percentages
+comparison_of_all_codes <- round(comparison_of_all_codes * 100, digits = 1)
 print(comparison_of_all_codes)
 ```
 
