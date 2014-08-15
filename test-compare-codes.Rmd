@@ -176,11 +176,11 @@ distance %>% hclust() %>% plot()
 
 I wouldn't put any stock in that chart, but it does show what should be possible. And apart from the problem of the chronological arrow, it is interesting that western states are close to one another, the New York codes are close together, the two Ohio codes are at least close together, etc. Time to learn some statistics.
 
-And now for k-means with a plot that I kind of get. Obviously this would make more sense with names on the plot.
+And now for k-means with a plot that I kind of get. 
 
 ```{r}
 cluster <- kmeans(comparison_of_all_codes, centers = 5)
 library(cluster)
-clusplot(comparison_of_all_codes, cluster$cluster)
+clusplot(comparison_of_all_codes, cluster$cluster, labels = 2)
 ```
 
