@@ -77,8 +77,8 @@ compare_codes_by_shared_ngrams <- function(orig_code, dest_code) {
   
   matches <- intersect(orig_code, dest_code)
   shared_ngrams <- unique(c(orig_code, dest_code))
-  ratio_matches_to_possible <- length(matches) / length(shared_ngrams)
-  ratio_matches_to_destination <- length(matches) / length(dest_code)
+  ratio_matches_to_possible <- length(matches) / length(unique(shared_ngrams))
+  ratio_matches_to_destination <- length(matches) / length(unique(dest_code))
   return(ratio_matches_to_destination)
 }
 ```
@@ -110,16 +110,7 @@ rownames(comparison_of_codes) <- code_names
 print(comparison_of_codes)
 ```
 
-A big surprise is why the diagonal is not all `1`, since presumably a code is perfectly derived for itself. The reason is that the `intersect` function that we use to find matches must return only unique matches not duplicated matches. In other words, the intersection of a vector with itself is the same thing as the unique values of the vector. Proof:
-
-```{r}
-identical(intersect(codes_grams$NY1850.txt, codes_grams$NY1850.txt),
-          unique(codes_grams$NY1850.txt))
-```
-
-That's a useful thing to know: maybe there is a better way to find matches. But for now let's not get sidetracked. The important point is that we can compare all of the codes into a matrix, and that it's pretty fast. Now we can run this analysis on the whole shebang.
-
-First we get all the codes as n-grams:
+Now we can run this analysis on the whole shebang. First we get all the codes as n-grams:
 
 ```{r}
 codes_all_grams <- lapply(codes_texts, ngrammify, 5)
