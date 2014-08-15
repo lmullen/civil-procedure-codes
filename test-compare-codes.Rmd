@@ -136,6 +136,12 @@ rownames(comparison_of_all_codes) <- codes_all_names
 print(comparison_of_all_codes)
 ```
 
+Let's write that comparison to disk for someone who know about the history of codes to make sense of it.
+
+```{r}
+write.csv(comparison_of_all_codes, "out/comparison_of_all_codes.csv")
+```
+
 What we really care about is just the triangular comparison.
 
 ```{r}
@@ -144,17 +150,28 @@ triangle[upper.tri(triangle, diag = TRUE)]  <- NA
 print(triangle)
 ```
 
-Let's write that file to disk for someone who know about the history of codes to make sense of it.
-
-```{r}
-write.csv(triangle, "out/comparison_of_all_codes.csv")
-```
 
 What is the distribution of comparisons?
 
 ```{r}
 triangle %>% hist()
 ```
+
+For each code we can get a sorted list of the codes that it is most like.
+
+```{r}
+for(i in 1:ncol(comparison_of_all_codes)) {
+  x <- comparison_of_all_codes[,i]
+  title <- colnames(comparison_of_all_codes)[i]
+  cat("\n\n", title, " is most like:\n", sep = "")
+  cat("---------\n")
+  y <- sort(x, decreasing = TRUE)
+  for(j in 2:length(y)) {
+    cat(names(y)[j], y[j], "\n", sep = " ") 
+    }
+}
+```
+
 
 *********
 
