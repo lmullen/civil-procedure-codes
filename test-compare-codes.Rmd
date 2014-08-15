@@ -1,0 +1,186 @@
+---
+title: "First Attempt at a Comparison Matrix"
+output: html_document
+---
+
+Let's do a quick and dirty test to see if we can get a comparison matrix.
+
+```{r}
+library(magrittr)
+library(RWeka)
+library(stringr)
+```
+
+Load the codes.
+
+```{r, echo=FALSE}
+codes_dir <- "text"
+files <- dir(codes_dir, "*.txt")
+raw <- file.path(codes_dir, files) %>%
+  lapply(., scan, "character", sep = "\n")
+names(raw) <- files
+codes_texts <- lapply(raw, paste, collapse = " ") %>%
+  lapply(., tolower) %>%
+  lapply(., WordTokenizer) %>%
+  lapply(., paste, collapse = " ")
+
+```
+
+Keep a random sample of three plus NY 1850 to keep computation time low for the test.
+
+```{r}
+codes_sample <- c(sample(codes_texts, 3), NY1850.txt = codes_texts[["NY1850.txt"]])
+```
+
+Function for n-grams:
+
+```{r}
+ngrammify <- function(data, n) { 
+  NGramTokenizer(data, Weka_control(min = n, max = n))
+  }
+```
+
+Create the n-grams:
+
+```{r}
+codes_grams <- lapply(codes_sample, ngrammify, 5)
+```
+
+Function to remove unreasonable n-grams:
+
+```{r}
+#' Remove unreasonable n-grams containing characters other than letters and spaces
+#' @param ngrams A list of n-grams
+#' @return Returns a list of filtered n-grams
+filter_unreasonable_ngrams <- function(ngrams) {
+  require(stringr)
+  ngrams[!str_detect(ngrams, "[^a-z ]")]
+}
+```
+
+Now apply that function to `codes_grams` so we get a list of clean n-grams. This might not be the best strategy: we'll think about that later.
+
+```{r}
+codes_grams <- lapply(codes_grams, filter_unreasonable_ngrams)
+```
+
+Function to compare two codes. Note that this function (unlike earlier versions and just for the purpose of this test) only returns one number for simplicity's sake instead of a list. (And it no longer applies the filter for unreasonable n-grams inside this function. Instead that is applied globally earlier.)
+
+```{r}
+#' Compare two codes using their list of n-grams.
+#' @param orig_code A vector of n-grams representing a code.
+#' @param dest_code A vectory of n-grams representing a code.
+#' @return A list containing data that might help to identify whether codes
+#'   match up.
+compare_codes_by_shared_ngrams <- function(orig_code, dest_code) {
+  require(magrittr)
+  
+  matches <- intersect(orig_code, dest_code)
+  shared_ngrams <- unique(c(orig_code, dest_code))
+  ratio_matches_to_possible <- length(matches) / length(shared_ngrams)
+  ratio_matches_to_destination <- length(matches) / length(dest_code)
+  return(ratio_matches_to_destination)
+}
+```
+
+Now we use a function to create a matrix of comparisons (This is inefficient because it compares each code to itself. And for each possible pairing it does the comparison twice, swapping origin and destination codes. Good enough for now.)
+
+This is to help us understand the comparisons (pretty sure I have the arrow pointing the right way!):
+
+```{r}
+code_names <- str_extract(names(codes_grams), "\\w+")
+names_of_comparisons <- outer(code_names, code_names, function(x, y){
+  paste(y, "from", x)
+}) 
+colnames(names_of_comparisons) <- code_names
+rownames(names_of_comparisons) <- code_names
+print(names_of_comparisons)
+```
+
+These are the comparisons themselves. The way to read this matrix is "the proportion of ngrams that COLUMN borrows from ROW." In other words the ROW is the origin code and the COLUMN is the destination code.
+
+```{r}
+# From http://stackoverflow.com/questions/1719447/outer-equivalent-for-non-vector-lists-in-r
+outer_for_lists <- function(a,b, fun) {
+  outer(a, b, function(x,y) vapply(seq_along(x), function(i) fun(x[[i]], y[[i]]), numeric(1)))
+}
+comparison_of_codes <- outer_for_lists(codes_grams, codes_grams, compare_codes_by_shared_ngrams)
+colnames(comparison_of_codes) <- code_names
+rownames(comparison_of_codes) <- code_names
+print(comparison_of_codes)
+```
+
+A big surprise is why the diagonal is not all `1`, since presumably a code is perfectly derived for itself. The reason is that the `intersect` function that we use to find matches must return only unique matches not duplicated matches. In other words, the intersection of a vector with itself is the same thing as the unique values of the vector. Proof:
+
+```{r}
+identical(intersect(codes_grams$NY1850.txt, codes_grams$NY1850.txt),
+          unique(codes_grams$NY1850.txt))
+```
+
+That's a useful thing to know: maybe there is a better way to find matches. But for now let's not get sidetracked. The important point is that we can compare all of the codes into a matrix, and that it's pretty fast. Now we can run this analysis on the whole shebang.
+
+First we get all the codes as n-grams:
+
+```{r}
+codes_all_grams <- lapply(codes_texts, ngrammify, 5)
+codes_all_grams <- lapply(codes_all_grams, filter_unreasonable_ngrams)
+```
+
+Here is the matrix of comparisons for all the codes:
+
+```{r}
+codes_all_names <- str_extract(names(codes_all_grams), "\\w+")
+comparison_of_all_codes <- outer_for_lists(codes_all_grams, codes_all_grams, compare_codes_by_shared_ngrams)
+colnames(comparison_of_all_codes) <- codes_all_names
+rownames(comparison_of_all_codes) <- codes_all_names
+print(comparison_of_all_codes)
+```
+
+What we really care about is just the triangular comparison.
+
+```{r}
+triangle <- comparison_of_all_codes
+triangle[upper.tri(triangle, diag = TRUE)]  <- NA
+print(triangle)
+```
+
+Let's write that file to disk for someone who know about the history of codes to make sense of it.
+
+```{r}
+write.csv(triangle, "out/comparison_of_all_codes.csv")
+```
+
+What is the distribution of comparisons?
+
+```{r}
+triangle %>% hist()
+```
+
+*********
+
+Now this is more than we can figure out meaningfully today, but it's possible to run standard distance and clustering functions on that matrix. I'm not sure what this even means just yet.
+
+Let's see the standard distance function:
+
+```{r}
+distance <- comparison_of_all_codes %>% dist
+print(distance)
+```
+
+And we can then pass that distance matrix to hierarchical clustering or k-means clustering (obviously we need to read up on all these) and plot each.
+
+```{r}
+distance %>% hclust() %>% str()
+distance %>% hclust() %>% plot()
+```
+
+I wouldn't put any stock in that chart, but it does show what should be possible. And apart from the problem of the chronological arrow, it is interesting that western states are close to one another, the New York codes are close together, the two Ohio codes are at least close together, etc. Time to learn some statistics.
+
+And now for k-means with a plot that I kind of get. Obviously this would make more sense with names on the plot.
+
+```{r}
+cluster <- kmeans(comparison_of_all_codes, centers = 5)
+library(cluster)
+clusplot(comparison_of_all_codes, cluster$cluster)
+```
+
