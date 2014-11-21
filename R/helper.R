@@ -17,8 +17,6 @@ filter_unreasonable_ngrams <- function(ngrams) {
 #'   match up.
 compare_codes_by_shared_ngrams <- function(orig_code, dest_code) {
   matches <- intersect(orig_code, dest_code)
-  shared_ngrams <- unique(c(orig_code, dest_code))
-  ratio_matches_to_possible <- length(matches) / length(unique(shared_ngrams))
   ratio_matches_to_destination <- length(matches) / length(unique(dest_code))
   return(ratio_matches_to_destination)
 }
