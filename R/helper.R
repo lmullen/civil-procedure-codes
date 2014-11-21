@@ -7,7 +7,7 @@ ngrammify <- function(data, n) {
 #' @param ngrams A list of n-grams
 #' @return Returns a list of filtered n-grams
 filter_unreasonable_ngrams <- function(ngrams) {
-  ngrams[!stringi::stri_detect_fixed(ngrams, "[^a-z ]")]
+  ngrams[!stringi::stri_detect_regex(ngrams, "[^a-z ]")]
 }
 
 #' Compare two codes using their list of n-grams.
