@@ -1,12 +1,23 @@
 PackratFormat: 1.4
-PackratVersion: 0.4.0.5
-RVersion: 3.1.1
-Repos: CRAN=http://cran.rstudio.com
+PackratVersion: 0.4.1.1
+RVersion: 3.1.2
+Repos: CRAN=http://cran.r-project.org
+
+Package: bitops
+Source: CRAN
+Version: 1.0-6
+Hash: cb26464a8321628636b547518994c931
+
+Package: caTools
+Source: CRAN
+Version: 1.17.1
+Hash: bb5fdc266f716b8a289a4f92007d53e3
+Requires: bitops
 
 Package: cluster
 Source: CRAN
-Version: 1.15.2
-Hash: 7036bc656de12bbe8de1c6e1c5490d80
+Version: 1.15.3
+Hash: 1b770a6153049f0078bb7cd809825dc6
 
 Package: digest
 Source: CRAN
@@ -21,24 +32,24 @@ Requires: stringr
 
 Package: formatR
 Source: CRAN
-Version: 0.10
-Hash: 20331f0a1a9c5f31541b34ecd9aed520
+Version: 1.0
+Hash: a90c211d7df7e61a72b8ab6c99c2e848
 
 Package: highr
 Source: CRAN
-Version: 0.3
-Hash: 7c85a9b7d07a75e2d8ca74f9467fee21
+Version: 0.4
+Hash: 8c77cca8556e1501621b4a5ccb7999bd
 
 Package: htmltools
 Source: CRAN
-Version: 0.2.4
-Hash: 88df1d8bc3728256408aab4d416959d1
+Version: 0.2.6
+Hash: 2c87108d130de261ac3c468d3316ae42
 Requires: digest
 
 Package: knitr
 Source: CRAN
-Version: 1.6
-Hash: 0f6457facba94bccad17a7c67c2f4168
+Version: 1.8
+Hash: d00d7b314ca4c34f8a56ceacefb31b4f
 Requires: digest, evaluate, formatR, highr, markdown, stringr
 
 Package: magrittr
@@ -48,23 +59,19 @@ Hash: 576e5bf21e3801499cebc27af6ad1627
 
 Package: markdown
 Source: CRAN
-Version: 0.7.2
-Hash: 332b974ddd4ef62aff5c251b711d0b04
+Version: 0.7.4
+Hash: 01d7f71ed6e3d9b1c17ba51cff91be72
 Requires: mime
 
 Package: mime
 Source: CRAN
-Version: 0.1.2
-Hash: 08ae994b18677717b786ade9c113b6ea
+Version: 0.2
+Hash: 9179db921fcb2e5be44e217042ed06bc
 
 Package: packrat
-Source: github
-Version: 0.4.0.5
-Hash: 76abbefacf6fda8859f3bb3ac0ab63ca92384829
-GithubRepo: packrat
-GithubUsername: rstudio
-GithubRef: master
-GithubSha1: 76abbefacf6fda8859f3bb3ac0ab63ca92384829
+Source: CRAN
+Version: 0.4.1-1
+Hash: 5716097644904b9c1b4be2692de16005
 
 Package: rJava
 Source: CRAN
@@ -72,14 +79,10 @@ Version: 0.9-6
 Hash: 5ea21341e7c1d6a40cdde6ef470fec92
 
 Package: rmarkdown
-Source: github
-Version: 0.2.54
-Hash: c62a723734dbb0c93b5d773cb4c4dfde78309ec0
-Requires: htmltools, knitr, yaml
-GithubRepo: rmarkdown
-GithubUsername: rstudio
-GithubRef: master
-GithubSha1: c62a723734dbb0c93b5d773cb4c4dfde78309ec0
+Source: CRAN
+Version: 0.3.3
+Hash: fe7b370d7022b58c2b71469681c0431f
+Requires: caTools, htmltools, knitr, yaml
 
 Package: RWeka
 Source: CRAN
