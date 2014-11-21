@@ -30,3 +30,22 @@ outer_for_lists <- function(a,b, fun) {
   colnames(mat) <- names(a)
   return(mat)
 }
+
+# Get the year from a code name
+get_year <- function(s) {
+  year <- stringi::stri_extract_first_regex(s, "\\d{4}")
+  as.integer(year)
+}
+# Remove anachronistic comparisons of earlier codes to later codes
+rm_anachronism <- function(m) {
+  rows <- rownames(m)
+  cols <- colnames(m)
+  for(i in seq_along(m)) {
+    ind <- arrayInd(i, dim(m))
+    row <-  rows[ind[1,1]]
+    col <-  cols[ind[1,2]]
+    test <- get_year(row) > get_year(col)
+    if(test) m[i] <- NA
+  }
+  return(m)
+}
