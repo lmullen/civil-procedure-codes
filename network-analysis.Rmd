@@ -81,7 +81,7 @@ title("Largest family of codes")
 Neighborhood of NY 1850
 
 ```{r}
-ny <- which(V(g)$name == "IA851")
+ny <- which(V(g)$name == "NY1850")
 neighbors(g, ny)
 graph.neighborhood(g, order = 1, nodes = ny)[[1]] %>%
   plot_graph()
