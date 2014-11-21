@@ -1,0 +1,36 @@
+---
+title: "Network Analysis of Code Similarity"
+author: "Kellen Funk and Lincoln Mullen"
+date: "November 21, 2014"
+output: html_document
+---
+
+```{r echo=FALSE}
+packrat::on()
+library(magrittr)
+library(RWeka)
+library(stringi)
+source("R/helper.R")
+
+# Load the data if it doesn't exist already.
+if(file.exists("out/codes.rda")) {
+  load("out/codes.rda")
+  } else {
+  source("R/load-data.R")
+  save(codes, file = "out/codes.rda")
+  }
+```
+
+There are the codes that we currently have:
+
+```{r}
+names(codes)
+```
+
+Create the comparison matrix:
+
+```{r}
+cf <- outer_for_lists(codes, codes, compare_codes_by_shared_ngrams)
+diag(cf) <- NA   # remove codes compared to themselves
+```
+
