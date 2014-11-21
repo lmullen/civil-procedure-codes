@@ -52,3 +52,12 @@ plot_graph <- function(g) {
   plot(g, edge.width = E(g)$weight * 5, layout = layout.fruchterman.reingold,
        edge.arrow.size= 0.25, vertex.size = 5)
 }
+
+# Given a comparison matrix, return the codes that most INFLUENCE
+get_influences <- function(m, state, n = NULL) {
+  influences <- sort(m[, state], decreasing = TRUE)
+  if(is.null(n))
+    return(influences)
+  else
+    return(influences[1:n])
+}

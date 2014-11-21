@@ -41,7 +41,7 @@ cf2  <- cf
 diag(cf2) <- NA                 # remove codes compared to themselves
 cf2 <- rm_anachronism(cf2)       # remove anachronistic comparisons
 
-significance_threshold <- 0.15
+significance_threshold <- 0.03
 cf2[cf2 < significance_threshold] <- NA
 cf2[is.na(cf2)] <- 0
 ```
@@ -81,9 +81,19 @@ title("Largest family of codes")
 Neighborhood of NY 1850
 
 ```{r}
-ny <- which(V(g)$name == "NY1850")
+ny <- which(V(g)$name == "IA851")
 neighbors(g, ny)
-graph.neighborhood(g, order = 2, nodes = ny)[[1]] %>%
+graph.neighborhood(g, order = 1, nodes = ny)[[1]] %>%
   plot_graph()
 ```
+
+Get all the influences for people who need words.
+
+```{r}
+influences <- colnames(cf2) %>%
+  lapply(., function(name) { get_influences(cf2, name, 10) })
+names(influences) <- colnames(cf2)
+print(influences)
+```
+
 
