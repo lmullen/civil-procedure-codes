@@ -52,6 +52,17 @@ Now we can create a graph object from the comparison matrix, which we will treat
 g <- graph.adjacency(cf2, mode = "directed", weighted = TRUE, diag = FALSE) 
 set.seed(4821)
 l <- layout.fruchterman.reingold(g, weights = E(g)$weight)
-par(mar=c(0,0,0,0))
-plot(g, edge.width = E(g)$weight * 12, layout = l, edge.arrow.size= 0.25, vertex.size = 5)
+par(mar=c(0,0,1,0))
+plot(g, edge.width = E(g)$weight * 10, layout = l,
+     edge.arrow.size= 0.15, vertex.size = 5)
+title("Codes of Civil Procedure")
 ```
+
+Community detection
+
+```{r}
+g %>%
+  walktrap.community() %>%
+  plot(., g, vertex.label = NA, layout = l, vertex.size = 3)
+```
+
