@@ -10,6 +10,7 @@ packrat::on()
 library(magrittr)
 library(RWeka)
 library(stringi)
+library(igraph)
 source("R/helper.R")
 
 # Load the data if it doesn't exist already.
@@ -31,7 +32,26 @@ Create the comparison matrix:
 
 ```{r}
 cf <- outer_for_lists(codes, codes, compare_codes_by_shared_ngrams)
-diag(cf) <- NA                 # remove codes compared to themselves
-cf <- rm_anachronism(cf)       # remove anachronistic comparisons
 ```
 
+Remove obviously incorrect values:
+
+```{r}
+cf2  <- cf
+diag(cf2) <- NA                 # remove codes compared to themselves
+cf2 <- rm_anachronism(cf2)       # remove anachronistic comparisons
+
+significance_threshold <- 0.15
+cf2[cf2 < significance_threshold] <- NA
+cf2[is.na(cf2)] <- 0
+```
+
+Now we can create a graph object from the comparison matrix, which we will treat as an adjacency matrix.
+
+```{r}
+g <- graph.adjacency(cf2, mode = "directed", weighted = TRUE, diag = FALSE) 
+set.seed(4821)
+l <- layout.fruchterman.reingold(g, weights = E(g)$weight)
+par(mar=c(0,0,0,0))
+plot(g, edge.width = E(g)$weight * 12, layout = l, edge.arrow.size= 0.25, vertex.size = 5)
+```
