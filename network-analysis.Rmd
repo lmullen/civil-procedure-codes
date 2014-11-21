@@ -66,3 +66,24 @@ g %>%
   plot(., g, vertex.label = NA, layout = l, vertex.size = 3)
 ```
 
+
+Get just the component graphs
+
+```{r}
+sub <- decompose.graph(g, mode = "weak", min.vertices = 3)[[1]]
+l2 <- layout.fruchterman.reingold(sub, weights = E(sub)$weight)
+par(mar=c(0,0,1,0))
+plot(sub, edge.width = E(sub)$weight * 10, layout = l2,
+     edge.arrow.size= 0.15, vertex.size = 5)
+title("Largest family of codes")
+```
+
+Neighborhood of NY 1850
+
+```{r}
+ny <- which(V(g)$name == "NY1850")
+neighbors(g, ny)
+graph.neighborhood(g, order = 2, nodes = ny)[[1]] %>%
+  plot_graph()
+```
+

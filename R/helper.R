@@ -47,3 +47,8 @@ rm_anachronism <- function(m) {
   }
   return(m)
 }
+
+plot_graph <- function(g) {
+  plot(g, edge.width = E(g)$weight * 5, layout = layout.fruchterman.reingold,
+       edge.arrow.size= 0.25, vertex.size = 5)
+}
