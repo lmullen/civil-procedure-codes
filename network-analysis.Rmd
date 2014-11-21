@@ -31,6 +31,7 @@ Create the comparison matrix:
 
 ```{r}
 cf <- outer_for_lists(codes, codes, compare_codes_by_shared_ngrams)
-diag(cf) <- NA   # remove codes compared to themselves
+diag(cf) <- NA                 # remove codes compared to themselves
+cf <- rm_anachronism(cf)       # remove anachronistic comparisons
 ```
 
