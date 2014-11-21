@@ -46,6 +46,11 @@ Version: 0.2.6
 Hash: 2c87108d130de261ac3c468d3316ae42
 Requires: digest
 
+Package: igraph
+Source: CRAN
+Version: 0.7.1
+Hash: e82d8e897ee5f480edb6a68b3d949dba
+
 Package: knitr
 Source: CRAN
 Version: 1.8
@@ -99,6 +104,7 @@ Requires: rJava
 Package: stringi
 Source: CRAN
 Version: 0.3-1
+Hash: 6795f234a744d2458b1f43fd482c0f5a
 
 Package: stringr
 Source: CRAN
