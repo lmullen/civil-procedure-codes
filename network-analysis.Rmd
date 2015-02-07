@@ -11,6 +11,7 @@ library(magrittr)
 library(RWeka)
 library(stringi)
 library(igraph)
+library(d3Network)
 source("R/helper.R")
 
 # Load the data if it doesn't exist already.
@@ -41,22 +42,23 @@ cf2  <- cf
 diag(cf2) <- NA                 # remove codes compared to themselves
 cf2 <- rm_anachronism(cf2)       # remove anachronistic comparisons
 
-significance_threshold <- 0.03
+significance_threshold <- 0.25
 cf2[cf2 < significance_threshold] <- NA
 cf2[is.na(cf2)] <- 0
 ```
 
 Now we can create a graph object from the comparison matrix, which we will treat as an adjacency matrix.
 
-```{r}
+```{r fig.width=10, fig.height=10}
 g <- graph.adjacency(cf2, mode = "directed", weighted = TRUE, diag = FALSE) 
 set.seed(4821)
 l <- layout.fruchterman.reingold(g, weights = E(g)$weight)
 par(mar=c(0,0,1,0))
-plot(g, edge.width = E(g)$weight * 10, layout = l,
+plot(g, edge.width = E(g)$weight * 8, layout = l,
      edge.arrow.size= 0.15, vertex.size = 5)
 title("Codes of Civil Procedure")
 ```
+
 
 Community detection
 
