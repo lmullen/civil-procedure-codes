@@ -19,6 +19,11 @@ Source: CRAN
 Version: 1.15.3
 Hash: 1b770a6153049f0078bb7cd809825dc6
 
+Package: d3Network
+Source: CRAN
+Version: 0.5.2.1
+Requires: plyr, rjson, whisker
+
 Package: digest
 Source: CRAN
 Version: 0.6.4
@@ -78,10 +83,23 @@ Source: CRAN
 Version: 0.4.1-1
 Hash: 5716097644904b9c1b4be2692de16005
 
+Package: plyr
+Source: CRAN
+Version: 1.8.1
+Requires: Rcpp
+
+Package: Rcpp
+Source: CRAN
+Version: 0.11.5
+
 Package: rJava
 Source: CRAN
 Version: 0.9-6
 Hash: 5ea21341e7c1d6a40cdde6ef470fec92
+
+Package: rjson
+Source: CRAN
+Version: 0.2.15
 
 Package: rmarkdown
 Source: CRAN
@@ -110,6 +128,10 @@ Package: stringr
 Source: CRAN
 Version: 0.6.2
 Hash: cdde0cfa0f52cffeaca23a11a3899779
+
+Package: whisker
+Source: CRAN
+Version: 0.3-2
 
 Package: yaml
 Source: CRAN
