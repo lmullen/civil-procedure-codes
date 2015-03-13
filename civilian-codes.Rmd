@@ -1,0 +1,14 @@
+---
+title: "Civilian Codes"
+author: "kfunk"
+date: "3/13/2015"
+output: html_document
+---
+
+Comparison of OCR French codes for borrowings.
+
+```{r}
+fr1806 <- readLines("text/FR1806.txt")
+head(fr1806, 100)
+```
+
