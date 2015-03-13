@@ -3,6 +3,23 @@ PackratVersion: 0.4.1.1
 RVersion: 3.1.2
 Repos: CRAN=http://cran.r-project.org
 
+Package: RWeka
+Source: CRAN
+Version: 0.4-23
+Hash: 620c63ec825f30b07925377eac7c9246
+Requires: RWekajars, rJava
+
+Package: RWekajars
+Source: CRAN
+Version: 3.7.11-1
+Hash: 034b6348d37c8d1d0637107490f30623
+Requires: rJava
+
+Package: Rcpp
+Source: CRAN
+Version: 0.11.5
+Hash: 3e452cb48f3ec8a7cf27fb9ab8624639
+
 Package: bitops
 Source: CRAN
 Version: 1.0-6
@@ -22,6 +39,7 @@ Hash: 1b770a6153049f0078bb7cd809825dc6
 Package: d3Network
 Source: CRAN
 Version: 0.5.2.1
+Hash: 40805bc3243ace919f6198fd093aa548
 Requires: plyr, rjson, whisker
 
 Package: digest
@@ -86,11 +104,8 @@ Hash: 5716097644904b9c1b4be2692de16005
 Package: plyr
 Source: CRAN
 Version: 1.8.1
+Hash: 6a4457c04af4cf5e4a8166ff59bcfd96
 Requires: Rcpp
-
-Package: Rcpp
-Source: CRAN
-Version: 0.11.5
 
 Package: rJava
 Source: CRAN
@@ -100,24 +115,13 @@ Hash: 5ea21341e7c1d6a40cdde6ef470fec92
 Package: rjson
 Source: CRAN
 Version: 0.2.15
+Hash: f78059fac4af154bfe46bf547ae12be9
 
 Package: rmarkdown
 Source: CRAN
-Version: 0.3.3
-Hash: fe7b370d7022b58c2b71469681c0431f
+Version: 0.5.1
+Hash: 2d87f70c12c5558c50c4b3587fc6f499
 Requires: caTools, htmltools, knitr, yaml
-
-Package: RWeka
-Source: CRAN
-Version: 0.4-23
-Hash: 620c63ec825f30b07925377eac7c9246
-Requires: rJava, RWekajars
-
-Package: RWekajars
-Source: CRAN
-Version: 3.7.11-1
-Hash: 034b6348d37c8d1d0637107490f30623
-Requires: rJava
 
 Package: stringi
 Source: CRAN
@@ -132,6 +136,7 @@ Hash: cdde0cfa0f52cffeaca23a11a3899779
 Package: whisker
 Source: CRAN
 Version: 0.3-2
+Hash: 186ab2937fec1694c8a63009a2389c4e
 
 Package: yaml
 Source: CRAN
