@@ -3,3 +3,7 @@
 .RData
 packrat/lib*/
 packrat/src/
+temp
+plots
+out
+*.html
