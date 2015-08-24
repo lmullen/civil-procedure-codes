@@ -29,10 +29,3 @@ clean :
 clobber : 
 	rm -rf text/*
 
-.PHONY : up
-up :
-	rsync -avL --progress -e "ssh -i /Users/lmullen/dev/ami/AmazonOCRMachine.pem" pdf text Makefile tesseract-config ubuntu@ec2-54-210-183-92.compute-1.amazonaws.com:~/legal-codes/
-
-.PHONY : down
-down :
-	rsync -avL --progress --exclude /temp --exclude Makefile -e "ssh -i /Users/lmullen/dev/ami/AmazonOCRMachine.pem" ubuntu@ec2-54-210-183-92.compute-1.amazonaws.com:~/legal-codes/ ./
