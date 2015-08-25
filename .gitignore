@@ -2,9 +2,9 @@
 .Rhistory
 .RData
 packrat/lib*/
-packrat/src/
 temp
 plots
 out
 *.html
 codes
+packrat/src/
