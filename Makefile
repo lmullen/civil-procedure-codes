@@ -1,7 +1,7 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
+CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(OCR_OUTPUTS))
 
-all : $(OCR_OUTPUTS)
-	@echo "\nDone doing OCR for all the PDFs in ./pdf"
+all : $(CLEAN_CODES)
 
 temp/%.txt : pdf/%.pdf
 	mkdir -p temp
@@ -19,7 +19,10 @@ temp/%.txt : pdf/%.pdf
 	cat temp/$*.page-*.pdf.png.txt > temp/$*.txt
 
 text/%.txt : temp/%.txt
-	awk -vRS="-\n+" -vORS="" '1' $^ > $@
+	cp $^ $@
+
+legal-codes/%.txt : text/%.txt
+	Rscript --vanilla scripts/clean-text.R $^ $@
 
 .PHONY : clean
 clean : 
@@ -28,4 +31,5 @@ clean :
 .PHONY : clobber
 clobber : 
 	rm -rf text/*
+	rm -rf legal-codes/*
 
