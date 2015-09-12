@@ -1,7 +1,14 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(OCR_OUTPUTS))
 
+
 all : $(CLEAN_CODES)
+
+legal-codes/%.txt : text/%.txt
+	Rscript --vanilla scripts/clean-text.R $^ $@
+
+text/%.txt : temp/%.txt
+	cp $^ $@
 
 temp/%.txt : pdf/%.pdf
 	mkdir -p temp
@@ -17,12 +24,6 @@ temp/%.txt : pdf/%.pdf
 	done
 	@echo "\nConcatenating the text files into $@"
 	cat temp/$*.page-*.pdf.png.txt > temp/$*.txt
-
-text/%.txt : temp/%.txt
-	cp $^ $@
-
-legal-codes/%.txt : text/%.txt
-	Rscript --vanilla scripts/clean-text.R $^ $@
 
 .PHONY : clean
 clean : 
