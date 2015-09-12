@@ -1,0 +1,50 @@
+---
+title: "Check OCR quality of specific codes"
+author: "Lincoln Mullen"
+date: "September 11, 2015"
+output: html_document
+---
+
+We have multiple versions of several codes, so we want to see whether any of them have better quality than others. The codes we are interested in:
+
+> For Iowa 1859, I have a, b, and c versions, and for New Mexico 1897 I have an a and b.
+
+```{r, message=FALSE, warning=FALSE}
+library(ocrquality)
+library(stringr)
+library(dplyr)
+set.seed(33532)
+```
+
+Load the files.
+
+```{r}
+paths <- Sys.glob("legal-codes/*.txt")
+docs <- paths %>% 
+  lapply(readLines) %>% 
+  lapply(str_c, collapse = " ")
+```
+
+Check the OCR quality:
+
+```{r}
+quality <- sapply(docs, ocr_dictionary, sample_size = 10e3)
+```
+
+Turn that into a data frame and print it.
+
+```{r}
+results <- data_frame(file = paths,
+                      quality = quality) %>% 
+  arrange(desc(quality))
+relevant <- results %>% 
+  filter(str_detect(file, "IA1859") | str_detect(file, "NM1897"))
+relevant
+```
+
+Write to CSV.
+
+```
+write.csv(results, "out/ocr-quality.csv")
+write.csv(relevant, "out/ocr-quality-relevant.csv")
+```
