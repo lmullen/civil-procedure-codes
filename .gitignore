@@ -5,6 +5,6 @@ packrat/lib*/
 temp
 plots
 out
-*.html
 codes
 packrat/src/
+cache

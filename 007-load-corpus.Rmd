@@ -1,0 +1,33 @@
+---
+title: "Load and tokenize all codes"
+author: "Lincoln Mullen"
+date: "September 21, 2015"
+output: html_document
+---
+
+We are going to tokenize the codes and save a cached version. For our initial analysis, we will use skip n-grams with a moderate value for `k` so that we have many features.
+
+```{r}
+library("textreuse")
+
+cache <- "cache/corpus-skip-ngrams-n7k3.rds"
+if (!file.exists(cache)) {
+  description <- "General purpose tokenization of codes for comparing pairwise."
+  corpus <- TextReuseCorpus(dir = "legal-codes/",
+                            meta = list("description" = description,
+                                        "title" = "Field codes"),
+                            tokenizer = tokenize_skip_ngrams, n = 7 , k = 3,
+                            hash_func = hash_string,
+                            keep_tokens = TRUE)
+  dir.create("cache", showWarnings = FALSE)
+  corpus
+  saveRDS(corpus, file = cache)
+}
+```
+
+Session info:
+
+```{r}
+sessionInfo()
+```
+
