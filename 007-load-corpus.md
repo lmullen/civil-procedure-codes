@@ -1,19 +1,16 @@
----
-title: "Load and tokenize all codes"
-author: "Lincoln Mullen"
-date: "September 21, 2015"
-output: 
-  html_document:
-    keep_md: true
----
+# Load and tokenize all codes
+Lincoln Mullen  
+September 21, 2015  
 
-```{r}
+
+```r
 library("textreuse")
 ```
 
 We are going to tokenize the codes and save cached versions. For our initial analysis, we will use skip n-grams with a moderate value for `k` so that we have many features.
 
-```{r}
+
+```r
 cache_skip <- "cache/corpus-skip-ngrams-n7k3.rds"
 if (!file.exists(cache_skip)) {
   description <- "General purpose tokenization of codes for comparing pairwise."
@@ -29,7 +26,8 @@ if (!file.exists(cache_skip)) {
 }
 ```
 
-```{r}
+
+```r
 cache_shingle <- "cache/corpus-shingle-ngrams-n7.rds"
 if (!file.exists(cache_shingle)) {
   description <- "General purpose tokenization of codes for comparing pairwise."
@@ -47,7 +45,29 @@ if (!file.exists(cache_shingle)) {
 
 Session info:
 
-```{r}
+
+```r
 sessionInfo()
+```
+
+```
+## R version 3.2.2 (2015-08-14)
+## Platform: x86_64-apple-darwin14.4.0 (64-bit)
+## Running under: OS X 10.10.5 (Yosemite)
+## 
+## locale:
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## other attached packages:
+## [1] textreuse_0.0.1.9001
+## 
+## loaded via a namespace (and not attached):
+##  [1] assertthat_0.1  magrittr_1.5    tools_3.2.2     htmltools_0.2.6
+##  [5] NLP_0.1-8       yaml_2.1.13     Rcpp_0.12.1     stringi_0.5-5  
+##  [9] rmarkdown_0.8   knitr_1.11      stringr_1.0.0   digest_0.6.8   
+## [13] evaluate_0.8
 ```
 

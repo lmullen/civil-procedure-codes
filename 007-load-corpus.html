@@ -74,21 +74,33 @@ img {
 </div>
 
 
-<p>We are going to tokenize the codes and save a cached version. For our initial analysis, we will use skip n-grams with a moderate value for <code>k</code> so that we have many features.</p>
-<pre class="r"><code>library(&quot;textreuse&quot;)
-
-cache &lt;- &quot;cache/corpus-skip-ngrams-n7k3.rds&quot;
-if (!file.exists(cache)) {
+<pre class="r"><code>library(&quot;textreuse&quot;)</code></pre>
+<p>We are going to tokenize the codes and save cached versions. For our initial analysis, we will use skip n-grams with a moderate value for <code>k</code> so that we have many features.</p>
+<pre class="r"><code>cache_skip &lt;- &quot;cache/corpus-skip-ngrams-n7k3.rds&quot;
+if (!file.exists(cache_skip)) {
   description &lt;- &quot;General purpose tokenization of codes for comparing pairwise.&quot;
-  corpus &lt;- TextReuseCorpus(dir = &quot;legal-codes/&quot;,
-                            meta = list(&quot;description&quot; = description,
-                                        &quot;title&quot; = &quot;Field codes&quot;),
-                            tokenizer = tokenize_skip_ngrams, n = 7 , k = 3,
-                            hash_func = hash_string,
-                            keep_tokens = TRUE)
+  corpus_skip &lt;- TextReuseCorpus(dir = &quot;legal-codes/&quot;,
+                                 meta = list(&quot;description&quot; = description,
+                                             &quot;title&quot; = &quot;Field codes&quot;),
+                                 tokenizer = tokenize_skip_ngrams, n = 7, k = 3,
+                                 hash_func = hash_string,
+                                 keep_tokens = FALSE)
   dir.create(&quot;cache&quot;, showWarnings = FALSE)
-  corpus
-  saveRDS(corpus, file = cache)
+  corpus_skip
+  saveRDS(corpus_skip, file = cache_skip)
+}</code></pre>
+<pre class="r"><code>cache_shingle &lt;- &quot;cache/corpus-shingle-ngrams-n7.rds&quot;
+if (!file.exists(cache_shingle)) {
+  description &lt;- &quot;General purpose tokenization of codes for comparing pairwise.&quot;
+  corpus_shingle &lt;- TextReuseCorpus(dir = &quot;legal-codes/&quot;,
+                                    meta = list(&quot;description&quot; = description,
+                                                &quot;title&quot; = &quot;Field codes&quot;),
+                                    tokenizer = tokenize_ngrams, n = 7,
+                                    hash_func = hash_string,
+                                    keep_tokens = FALSE)
+  dir.create(&quot;cache&quot;, showWarnings = FALSE)
+  corpus_shingle
+  saveRDS(corpus_shingle, file = cache_shingle)
 }</code></pre>
 <p>Session info:</p>
 <pre class="r"><code>sessionInfo()</code></pre>
