@@ -25,7 +25,7 @@ if (!file.exists(cache)) {
 Here is the comparison matrix:
 
 ```{r}
-m
+round(m, digits = 4)
 ```
 
 Session info:

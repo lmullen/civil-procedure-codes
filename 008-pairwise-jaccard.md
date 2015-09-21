@@ -22,3174 +22,1705 @@ Here is the comparison matrix:
 
 
 ```r
-m
+round(m, digits = 4)
 ```
 
 ```
-##                AK1900       AL1852       AR1868       AR1874       AZ1865
-## AK1900             NA 0.0005020974 0.0030152678 0.0022796998 0.0191818540
-## AL1852             NA           NA 0.0003974775 0.0002197575 0.0007742861
-## AR1868             NA           NA           NA 0.0994228730 0.0049560414
-## AR1874             NA           NA           NA           NA 0.0050347929
-## AZ1865             NA           NA           NA           NA           NA
-## AZ1887             NA           NA           NA           NA           NA
-## BI1859             NA           NA           NA           NA           NA
-## CA1850             NA           NA           NA           NA           NA
-## CA1851             NA           NA           NA           NA           NA
-## CA1858             NA           NA           NA           NA           NA
-## CA1868             NA           NA           NA           NA           NA
-## CA1868extended     NA           NA           NA           NA           NA
-## CA1872             NA           NA           NA           NA           NA
-## CO1868             NA           NA           NA           NA           NA
-## CO1877             NA           NA           NA           NA           NA
-## CT1854             NA           NA           NA           NA           NA
-## CT1879             NA           NA           NA           NA           NA
-## CT1879extended     NA           NA           NA           NA           NA
-## DC1857             NA           NA           NA           NA           NA
-## DE1852             NA           NA           NA           NA           NA
-## DT1862             NA           NA           NA           NA           NA
-## DT1868             NA           NA           NA           NA           NA
-## DT1887             NA           NA           NA           NA           NA
-## FL1847             NA           NA           NA           NA           NA
-## FL1870             NA           NA           NA           NA           NA
-## FL1892             NA           NA           NA           NA           NA
-## FR1806             NA           NA           NA           NA           NA
-## GA1851             NA           NA           NA           NA           NA
-## GA1860             NA           NA           NA           NA           NA
-## GB1852             NA           NA           NA           NA           NA
-## GB1854             NA           NA           NA           NA           NA
-## GB1873             NA           NA           NA           NA           NA
-## GB1875             NA           NA           NA           NA           NA
-## HI1859             NA           NA           NA           NA           NA
-## HI1897             NA           NA           NA           NA           NA
-## IA1839             NA           NA           NA           NA           NA
-## IA1851             NA           NA           NA           NA           NA
-## IA1859             NA           NA           NA           NA           NA
-## ID1864             NA           NA           NA           NA           NA
-## ID1881             NA           NA           NA           NA           NA
-## IL1866             NA           NA           NA           NA           NA
-## IL1933             NA           NA           NA           NA           NA
-## IN1843             NA           NA           NA           NA           NA
-## IN1852             NA           NA           NA           NA           NA
-## KS1859             NA           NA           NA           NA           NA
-## KS1868             NA           NA           NA           NA           NA
-## KY1851             NA           NA           NA           NA           NA
-## KY1854             NA           NA           NA           NA           NA
-## LA1825             NA           NA           NA           NA           NA
-## LA1825french       NA           NA           NA           NA           NA
-## LC1867             NA           NA           NA           NA           NA
-## LC1867french       NA           NA           NA           NA           NA
-## MA1836             NA           NA           NA           NA           NA
-## MA1851             NA           NA           NA           NA           NA
-## MA1858             NA           NA           NA           NA           NA
-## MD1855             NA           NA           NA           NA           NA
-## MD1859             NA           NA           NA           NA           NA
-## ME1840             NA           NA           NA           NA           NA
-## MI1853             NA           NA           NA           NA           NA
-## MN1851             NA           NA           NA           NA           NA
-## MN1859             NA           NA           NA           NA           NA
-## MO1835             NA           NA           NA           NA           NA
-## MO1849             NA           NA           NA           NA           NA
-## MO1856             NA           NA           NA           NA           NA
-## MO1879             NA           NA           NA           NA           NA
-## MS1848             NA           NA           NA           NA           NA
-## MS1850             NA           NA           NA           NA           NA
-## MS1857             NA           NA           NA           NA           NA
-## MT1865             NA           NA           NA           NA           NA
-## MT1895             NA           NA           NA           NA           NA
-## NC1868             NA           NA           NA           NA           NA
-## ND1877             NA           NA           NA           NA           NA
-## ND1877extended     NA           NA           NA           NA           NA
-## NE1857             NA           NA           NA           NA           NA
-## NE1859             NA           NA           NA           NA           NA
-## NE1866             NA           NA           NA           NA           NA
-## NH1842             NA           NA           NA           NA           NA
-## NJ1847             NA           NA           NA           NA           NA
-## NM1865             NA           NA           NA           NA           NA
-## NM1897             NA           NA           NA           NA           NA
-## NV1861             NA           NA           NA           NA           NA
-## NV1869             NA           NA           NA           NA           NA
-## NY1848             NA           NA           NA           NA           NA
-## NY1849             NA           NA           NA           NA           NA
-## NY1850             NA           NA           NA           NA           NA
-## NY1851             NA           NA           NA           NA           NA
-## NY1853             NA           NA           NA           NA           NA
-## NY1876             NA           NA           NA           NA           NA
-## NY1879             NA           NA           NA           NA           NA
-## OH1853             NA           NA           NA           NA           NA
-## OH1853extended     NA           NA           NA           NA           NA
-## OH1879             NA           NA           NA           NA           NA
-## OK1891             NA           NA           NA           NA           NA
-## OK1893             NA           NA           NA           NA           NA
-## OR1854             NA           NA           NA           NA           NA
-## OR1862             NA           NA           NA           NA           NA
-## SC1870             NA           NA           NA           NA           NA
-## TN1858             NA           NA           NA           NA           NA
-## UT1853             NA           NA           NA           NA           NA
-## UT1870             NA           NA           NA           NA           NA
-## UT1884             NA           NA           NA           NA           NA
-## VA1841             NA           NA           NA           NA           NA
-## VA1860             NA           NA           NA           NA           NA
-## WA1855             NA           NA           NA           NA           NA
-## WA1873             NA           NA           NA           NA           NA
-## WI1849             NA           NA           NA           NA           NA
-## WI1856             NA           NA           NA           NA           NA
-## WI1858             NA           NA           NA           NA           NA
-## WOOD1857           NA           NA           NA           NA           NA
-## WV1868             NA           NA           NA           NA           NA
-## WY1870             NA           NA           NA           NA           NA
-## WY1886             NA           NA           NA           NA           NA
-##                     AZ1887       BI1859       CA1850       CA1851
-## AK1900         0.003004714 1.401236e-04 0.0110915578 0.0192014567
-## AL1852         0.000291271 1.188659e-04 0.0002047100 0.0007317406
-## AR1868         0.002197310 1.593905e-04 0.0052901187 0.0055357768
-## AR1874         0.002858479 9.562782e-05 0.0070871372 0.0059512802
-## AZ1865         0.013426940 1.642214e-04 0.0355083575 0.3182212258
-## AZ1887                  NA 1.771547e-04 0.0044261451 0.0130030917
-## BI1859                  NA           NA 0.0001772712 0.0001874897
-## CA1850                  NA           NA           NA 0.0450658434
-## CA1851                  NA           NA           NA           NA
-## CA1858                  NA           NA           NA           NA
-## CA1868                  NA           NA           NA           NA
-## CA1868extended          NA           NA           NA           NA
-## CA1872                  NA           NA           NA           NA
-## CO1868                  NA           NA           NA           NA
-## CO1877                  NA           NA           NA           NA
-## CT1854                  NA           NA           NA           NA
-## CT1879                  NA           NA           NA           NA
-## CT1879extended          NA           NA           NA           NA
-## DC1857                  NA           NA           NA           NA
-## DE1852                  NA           NA           NA           NA
-## DT1862                  NA           NA           NA           NA
-## DT1868                  NA           NA           NA           NA
-## DT1887                  NA           NA           NA           NA
-## FL1847                  NA           NA           NA           NA
-## FL1870                  NA           NA           NA           NA
-## FL1892                  NA           NA           NA           NA
-## FR1806                  NA           NA           NA           NA
-## GA1851                  NA           NA           NA           NA
-## GA1860                  NA           NA           NA           NA
-## GB1852                  NA           NA           NA           NA
-## GB1854                  NA           NA           NA           NA
-## GB1873                  NA           NA           NA           NA
-## GB1875                  NA           NA           NA           NA
-## HI1859                  NA           NA           NA           NA
-## HI1897                  NA           NA           NA           NA
-## IA1839                  NA           NA           NA           NA
-## IA1851                  NA           NA           NA           NA
-## IA1859                  NA           NA           NA           NA
-## ID1864                  NA           NA           NA           NA
-## ID1881                  NA           NA           NA           NA
-## IL1866                  NA           NA           NA           NA
-## IL1933                  NA           NA           NA           NA
-## IN1843                  NA           NA           NA           NA
-## IN1852                  NA           NA           NA           NA
-## KS1859                  NA           NA           NA           NA
-## KS1868                  NA           NA           NA           NA
-## KY1851                  NA           NA           NA           NA
-## KY1854                  NA           NA           NA           NA
-## LA1825                  NA           NA           NA           NA
-## LA1825french            NA           NA           NA           NA
-## LC1867                  NA           NA           NA           NA
-## LC1867french            NA           NA           NA           NA
-## MA1836                  NA           NA           NA           NA
-## MA1851                  NA           NA           NA           NA
-## MA1858                  NA           NA           NA           NA
-## MD1855                  NA           NA           NA           NA
-## MD1859                  NA           NA           NA           NA
-## ME1840                  NA           NA           NA           NA
-## MI1853                  NA           NA           NA           NA
-## MN1851                  NA           NA           NA           NA
-## MN1859                  NA           NA           NA           NA
-## MO1835                  NA           NA           NA           NA
-## MO1849                  NA           NA           NA           NA
-## MO1856                  NA           NA           NA           NA
-## MO1879                  NA           NA           NA           NA
-## MS1848                  NA           NA           NA           NA
-## MS1850                  NA           NA           NA           NA
-## MS1857                  NA           NA           NA           NA
-## MT1865                  NA           NA           NA           NA
-## MT1895                  NA           NA           NA           NA
-## NC1868                  NA           NA           NA           NA
-## ND1877                  NA           NA           NA           NA
-## ND1877extended          NA           NA           NA           NA
-## NE1857                  NA           NA           NA           NA
-## NE1859                  NA           NA           NA           NA
-## NE1866                  NA           NA           NA           NA
-## NH1842                  NA           NA           NA           NA
-## NJ1847                  NA           NA           NA           NA
-## NM1865                  NA           NA           NA           NA
-## NM1897                  NA           NA           NA           NA
-## NV1861                  NA           NA           NA           NA
-## NV1869                  NA           NA           NA           NA
-## NY1848                  NA           NA           NA           NA
-## NY1849                  NA           NA           NA           NA
-## NY1850                  NA           NA           NA           NA
-## NY1851                  NA           NA           NA           NA
-## NY1853                  NA           NA           NA           NA
-## NY1876                  NA           NA           NA           NA
-## NY1879                  NA           NA           NA           NA
-## OH1853                  NA           NA           NA           NA
-## OH1853extended          NA           NA           NA           NA
-## OH1879                  NA           NA           NA           NA
-## OK1891                  NA           NA           NA           NA
-## OK1893                  NA           NA           NA           NA
-## OR1854                  NA           NA           NA           NA
-## OR1862                  NA           NA           NA           NA
-## SC1870                  NA           NA           NA           NA
-## TN1858                  NA           NA           NA           NA
-## UT1853                  NA           NA           NA           NA
-## UT1870                  NA           NA           NA           NA
-## UT1884                  NA           NA           NA           NA
-## VA1841                  NA           NA           NA           NA
-## VA1860                  NA           NA           NA           NA
-## WA1855                  NA           NA           NA           NA
-## WA1873                  NA           NA           NA           NA
-## WI1849                  NA           NA           NA           NA
-## WI1856                  NA           NA           NA           NA
-## WI1858                  NA           NA           NA           NA
-## WOOD1857                NA           NA           NA           NA
-## WV1868                  NA           NA           NA           NA
-## WY1870                  NA           NA           NA           NA
-## WY1886                  NA           NA           NA           NA
-##                      CA1858       CA1868 CA1868extended       CA1872
-## AK1900         0.0161264899 0.0124888504   5.904264e-03 0.0159757573
-## AL1852         0.0007078532 0.0005296283   2.781987e-04 0.0007913198
-## AR1868         0.0037288700 0.0031797931   1.579574e-03 0.0050737051
-## AR1874         0.0038010804 0.0027390345   1.103137e-03 0.0044736304
-## AZ1865         0.2368712092 0.1572153577   5.497965e-02 0.0821948121
-## AZ1887         0.0091225975 0.0061072286   3.074239e-03 0.1077575788
-## BI1859         0.0001642544 0.0001676754   9.591102e-05 0.0001394140
-## CA1850         0.0298112243 0.0177051397   6.271382e-03 0.0131285854
-## CA1851         0.3146349579 0.1795043813   6.163478e-02 0.0852826106
-## CA1858                   NA 0.1806814348   6.809771e-02 0.0803903750
-## CA1868                   NA           NA   2.211987e-01 0.0797507301
-## CA1868extended           NA           NA             NA 0.0399837230
-## CA1872                   NA           NA             NA           NA
-## CO1868                   NA           NA             NA           NA
-## CO1877                   NA           NA             NA           NA
-## CT1854                   NA           NA             NA           NA
-## CT1879                   NA           NA             NA           NA
-## CT1879extended           NA           NA             NA           NA
-## DC1857                   NA           NA             NA           NA
-## DE1852                   NA           NA             NA           NA
-## DT1862                   NA           NA             NA           NA
-## DT1868                   NA           NA             NA           NA
-## DT1887                   NA           NA             NA           NA
-## FL1847                   NA           NA             NA           NA
-## FL1870                   NA           NA             NA           NA
-## FL1892                   NA           NA             NA           NA
-## FR1806                   NA           NA             NA           NA
-## GA1851                   NA           NA             NA           NA
-## GA1860                   NA           NA             NA           NA
-## GB1852                   NA           NA             NA           NA
-## GB1854                   NA           NA             NA           NA
-## GB1873                   NA           NA             NA           NA
-## GB1875                   NA           NA             NA           NA
-## HI1859                   NA           NA             NA           NA
-## HI1897                   NA           NA             NA           NA
-## IA1839                   NA           NA             NA           NA
-## IA1851                   NA           NA             NA           NA
-## IA1859                   NA           NA             NA           NA
-## ID1864                   NA           NA             NA           NA
-## ID1881                   NA           NA             NA           NA
-## IL1866                   NA           NA             NA           NA
-## IL1933                   NA           NA             NA           NA
-## IN1843                   NA           NA             NA           NA
-## IN1852                   NA           NA             NA           NA
-## KS1859                   NA           NA             NA           NA
-## KS1868                   NA           NA             NA           NA
-## KY1851                   NA           NA             NA           NA
-## KY1854                   NA           NA             NA           NA
-## LA1825                   NA           NA             NA           NA
-## LA1825french             NA           NA             NA           NA
-## LC1867                   NA           NA             NA           NA
-## LC1867french             NA           NA             NA           NA
-## MA1836                   NA           NA             NA           NA
-## MA1851                   NA           NA             NA           NA
-## MA1858                   NA           NA             NA           NA
-## MD1855                   NA           NA             NA           NA
-## MD1859                   NA           NA             NA           NA
-## ME1840                   NA           NA             NA           NA
-## MI1853                   NA           NA             NA           NA
-## MN1851                   NA           NA             NA           NA
-## MN1859                   NA           NA             NA           NA
-## MO1835                   NA           NA             NA           NA
-## MO1849                   NA           NA             NA           NA
-## MO1856                   NA           NA             NA           NA
-## MO1879                   NA           NA             NA           NA
-## MS1848                   NA           NA             NA           NA
-## MS1850                   NA           NA             NA           NA
-## MS1857                   NA           NA             NA           NA
-## MT1865                   NA           NA             NA           NA
-## MT1895                   NA           NA             NA           NA
-## NC1868                   NA           NA             NA           NA
-## ND1877                   NA           NA             NA           NA
-## ND1877extended           NA           NA             NA           NA
-## NE1857                   NA           NA             NA           NA
-## NE1859                   NA           NA             NA           NA
-## NE1866                   NA           NA             NA           NA
-## NH1842                   NA           NA             NA           NA
-## NJ1847                   NA           NA             NA           NA
-## NM1865                   NA           NA             NA           NA
-## NM1897                   NA           NA             NA           NA
-## NV1861                   NA           NA             NA           NA
-## NV1869                   NA           NA             NA           NA
-## NY1848                   NA           NA             NA           NA
-## NY1849                   NA           NA             NA           NA
-## NY1850                   NA           NA             NA           NA
-## NY1851                   NA           NA             NA           NA
-## NY1853                   NA           NA             NA           NA
-## NY1876                   NA           NA             NA           NA
-## NY1879                   NA           NA             NA           NA
-## OH1853                   NA           NA             NA           NA
-## OH1853extended           NA           NA             NA           NA
-## OH1879                   NA           NA             NA           NA
-## OK1891                   NA           NA             NA           NA
-## OK1893                   NA           NA             NA           NA
-## OR1854                   NA           NA             NA           NA
-## OR1862                   NA           NA             NA           NA
-## SC1870                   NA           NA             NA           NA
-## TN1858                   NA           NA             NA           NA
-## UT1853                   NA           NA             NA           NA
-## UT1870                   NA           NA             NA           NA
-## UT1884                   NA           NA             NA           NA
-## VA1841                   NA           NA             NA           NA
-## VA1860                   NA           NA             NA           NA
-## WA1855                   NA           NA             NA           NA
-## WA1873                   NA           NA             NA           NA
-## WI1849                   NA           NA             NA           NA
-## WI1856                   NA           NA             NA           NA
-## WI1858                   NA           NA             NA           NA
-## WOOD1857                 NA           NA             NA           NA
-## WV1868                   NA           NA             NA           NA
-## WY1870                   NA           NA             NA           NA
-## WY1886                   NA           NA             NA           NA
-##                      CO1868       CO1877       CT1854       CT1879
-## AK1900         0.0004264428 0.0089493857 0.0001476674 1.613851e-04
-## AL1852         0.0003438073 0.0005108060 0.0001924880 3.053663e-05
-## AR1868         0.0003687182 0.0050612011 0.0002401888 8.999714e-05
-## AR1874         0.0002219212 0.0063604976 0.0001935403 1.457838e-04
-## AZ1865         0.0003827624 0.0930508104 0.0003366289 2.516478e-04
-## AZ1887         0.0004451086 0.0100824413 0.0001890322 7.837912e-05
-## BI1859         0.0002005010 0.0001294378 0.0001962497 3.777077e-05
-## CA1850         0.0003724341 0.0215380341 0.0002896981 4.053595e-04
-## CA1851         0.0003288585 0.0922963843 0.0003080210 2.270531e-04
-## CA1858         0.0003312647 0.0768874248 0.0002954286 1.430354e-04
-## CA1868         0.0003297392 0.0708202348 0.0002837394 1.081294e-04
-## CA1868extended 0.0001656252 0.0265442287 0.0001407825 3.620038e-05
-## CA1872         0.0003969031 0.0385170359 0.0002061913 1.059425e-04
-## CO1868                   NA 0.0072409869 0.0004234187 2.859430e-05
-## CO1877                   NA           NA 0.0003452327 1.061362e-04
-## CT1854                   NA           NA           NA 4.083609e-05
-## CT1879                   NA           NA           NA           NA
-## CT1879extended           NA           NA           NA           NA
-## DC1857                   NA           NA           NA           NA
-## DE1852                   NA           NA           NA           NA
-## DT1862                   NA           NA           NA           NA
-## DT1868                   NA           NA           NA           NA
-## DT1887                   NA           NA           NA           NA
-## FL1847                   NA           NA           NA           NA
-## FL1870                   NA           NA           NA           NA
-## FL1892                   NA           NA           NA           NA
-## FR1806                   NA           NA           NA           NA
-## GA1851                   NA           NA           NA           NA
-## GA1860                   NA           NA           NA           NA
-## GB1852                   NA           NA           NA           NA
-## GB1854                   NA           NA           NA           NA
-## GB1873                   NA           NA           NA           NA
-## GB1875                   NA           NA           NA           NA
-## HI1859                   NA           NA           NA           NA
-## HI1897                   NA           NA           NA           NA
-## IA1839                   NA           NA           NA           NA
-## IA1851                   NA           NA           NA           NA
-## IA1859                   NA           NA           NA           NA
-## ID1864                   NA           NA           NA           NA
-## ID1881                   NA           NA           NA           NA
-## IL1866                   NA           NA           NA           NA
-## IL1933                   NA           NA           NA           NA
-## IN1843                   NA           NA           NA           NA
-## IN1852                   NA           NA           NA           NA
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                CT1879extended       DC1857       DE1852       DT1862
-## AK1900           3.198138e-04 0.0093032583 1.735035e-04 0.0042067906
-## AL1852           9.535741e-05 0.0006466896 1.732810e-04 0.0003692529
-## AR1868           2.689980e-04 0.0117959526 1.671090e-04 0.0300071094
-## AR1874           2.883298e-04 0.0134840089 1.314317e-04 0.0354438061
-## AZ1865           2.884066e-04 0.0284072875 1.992569e-04 0.0095955746
-## AZ1887           1.459556e-04 0.0035409262 1.926797e-04 0.0031028116
-## BI1859           4.868807e-05 0.0001711903 8.102703e-05 0.0001718698
-## CA1850           3.607370e-04 0.0141351071 8.713765e-05 0.0141631967
-## CA1851           3.689370e-04 0.0280728232 1.934491e-04 0.0110571171
-## CA1858           2.916991e-04 0.0226812875 2.143004e-04 0.0084385410
-## CA1868           1.527795e-04 0.0157848712 1.489183e-04 0.0065527465
-## CA1868extended   1.974339e-04 0.0073441443 8.726647e-05 0.0026132589
-## CA1872           2.665416e-04 0.0148121250 1.985095e-04 0.0090484583
-## CO1868           1.375818e-04 0.0005952478 8.267315e-04 0.0005066491
-## CO1877           3.501154e-04 0.0180416770 1.323592e-04 0.0092634013
-## CT1854           2.928795e-04 0.0003639713 1.619549e-04 0.0003428062
-## CT1879           2.690215e-02 0.0002205776 2.870429e-05 0.0003850796
-## CT1879extended             NA 0.0003775474 7.586367e-05 0.0003179742
-## DC1857                     NA           NA 3.198235e-04 0.0334906198
-## DE1852                     NA           NA           NA 0.0002255251
-## DT1862                     NA           NA           NA           NA
-## DT1868                     NA           NA           NA           NA
-## DT1887                     NA           NA           NA           NA
-## FL1847                     NA           NA           NA           NA
-## FL1870                     NA           NA           NA           NA
-## FL1892                     NA           NA           NA           NA
-## FR1806                     NA           NA           NA           NA
-## GA1851                     NA           NA           NA           NA
-## GA1860                     NA           NA           NA           NA
-## GB1852                     NA           NA           NA           NA
-## GB1854                     NA           NA           NA           NA
-## GB1873                     NA           NA           NA           NA
-## GB1875                     NA           NA           NA           NA
-## HI1859                     NA           NA           NA           NA
-## HI1897                     NA           NA           NA           NA
-## IA1839                     NA           NA           NA           NA
-## IA1851                     NA           NA           NA           NA
-## IA1859                     NA           NA           NA           NA
-## ID1864                     NA           NA           NA           NA
-## ID1881                     NA           NA           NA           NA
-## IL1866                     NA           NA           NA           NA
-## IL1933                     NA           NA           NA           NA
-## IN1843                     NA           NA           NA           NA
-## IN1852                     NA           NA           NA           NA
-## KS1859                     NA           NA           NA           NA
-## KS1868                     NA           NA           NA           NA
-## KY1851                     NA           NA           NA           NA
-## KY1854                     NA           NA           NA           NA
-## LA1825                     NA           NA           NA           NA
-## LA1825french               NA           NA           NA           NA
-## LC1867                     NA           NA           NA           NA
-## LC1867french               NA           NA           NA           NA
-## MA1836                     NA           NA           NA           NA
-## MA1851                     NA           NA           NA           NA
-## MA1858                     NA           NA           NA           NA
-## MD1855                     NA           NA           NA           NA
-## MD1859                     NA           NA           NA           NA
-## ME1840                     NA           NA           NA           NA
-## MI1853                     NA           NA           NA           NA
-## MN1851                     NA           NA           NA           NA
-## MN1859                     NA           NA           NA           NA
-## MO1835                     NA           NA           NA           NA
-## MO1849                     NA           NA           NA           NA
-## MO1856                     NA           NA           NA           NA
-## MO1879                     NA           NA           NA           NA
-## MS1848                     NA           NA           NA           NA
-## MS1850                     NA           NA           NA           NA
-## MS1857                     NA           NA           NA           NA
-## MT1865                     NA           NA           NA           NA
-## MT1895                     NA           NA           NA           NA
-## NC1868                     NA           NA           NA           NA
-## ND1877                     NA           NA           NA           NA
-## ND1877extended             NA           NA           NA           NA
-## NE1857                     NA           NA           NA           NA
-## NE1859                     NA           NA           NA           NA
-## NE1866                     NA           NA           NA           NA
-## NH1842                     NA           NA           NA           NA
-## NJ1847                     NA           NA           NA           NA
-## NM1865                     NA           NA           NA           NA
-## NM1897                     NA           NA           NA           NA
-## NV1861                     NA           NA           NA           NA
-## NV1869                     NA           NA           NA           NA
-## NY1848                     NA           NA           NA           NA
-## NY1849                     NA           NA           NA           NA
-## NY1850                     NA           NA           NA           NA
-## NY1851                     NA           NA           NA           NA
-## NY1853                     NA           NA           NA           NA
-## NY1876                     NA           NA           NA           NA
-## NY1879                     NA           NA           NA           NA
-## OH1853                     NA           NA           NA           NA
-## OH1853extended             NA           NA           NA           NA
-## OH1879                     NA           NA           NA           NA
-## OK1891                     NA           NA           NA           NA
-## OK1893                     NA           NA           NA           NA
-## OR1854                     NA           NA           NA           NA
-## OR1862                     NA           NA           NA           NA
-## SC1870                     NA           NA           NA           NA
-## TN1858                     NA           NA           NA           NA
-## UT1853                     NA           NA           NA           NA
-## UT1870                     NA           NA           NA           NA
-## UT1884                     NA           NA           NA           NA
-## VA1841                     NA           NA           NA           NA
-## VA1860                     NA           NA           NA           NA
-## WA1855                     NA           NA           NA           NA
-## WA1873                     NA           NA           NA           NA
-## WI1849                     NA           NA           NA           NA
-## WI1856                     NA           NA           NA           NA
-## WI1858                     NA           NA           NA           NA
-## WOOD1857                   NA           NA           NA           NA
-## WV1868                     NA           NA           NA           NA
-## WY1870                     NA           NA           NA           NA
-## WY1886                     NA           NA           NA           NA
-##                      DT1868       DT1887       FL1847       FL1870
-## AK1900         0.0110215373 6.474839e-03 2.941449e-04 0.0132869817
-## AL1852         0.0004877082 4.092718e-04 5.460528e-04 0.0006297804
-## AR1868         0.0043632332 2.871955e-03 3.651559e-04 0.0051393756
-## AR1874         0.0047318729 2.304155e-03 1.710593e-04 0.0059683024
-## AZ1865         0.0248894135 1.782976e-02 3.072720e-04 0.0339849134
-## AZ1887         0.0034238440 4.538967e-02 4.471116e-04 0.0045536939
-## BI1859         0.0001244650 1.376503e-04 2.097335e-04 0.0002199561
-## CA1850         0.0497201003 1.250165e-02 2.292914e-04 0.0636120554
-## CA1851         0.0269950918 1.928519e-02 2.945930e-04 0.0371915628
-## CA1858         0.0202085942 1.824778e-02 3.083103e-04 0.0274693190
-## CA1868         0.0147713688 1.570548e-02 3.036305e-04 0.0210860254
-## CA1868extended 0.0059207500 8.015623e-03 1.847143e-04 0.0080968267
-## CA1872         0.0143169221 5.528299e-02 3.197408e-04 0.0169318398
-## CO1868         0.0003349468 3.652744e-04 1.251167e-03 0.0003263600
-## CO1877         0.0166987389 8.201002e-03 3.764662e-04 0.0204944114
-## CT1854         0.0002915452 1.783082e-04 3.203427e-04 0.0002942646
-## CT1879         0.0003352873 7.109316e-05 3.671623e-05 0.0004740288
-## CT1879extended 0.0003066494 2.146199e-04 1.468010e-04 0.0004383633
-## DC1857         0.0157075488 9.115607e-03 5.547778e-04 0.0195724554
-## DE1852         0.0001673457 1.718705e-04 5.232967e-04 0.0002066643
-## DT1862         0.0118124542 1.050185e-02 5.747190e-04 0.0140470825
-## DT1868                   NA 2.950883e-02 2.444848e-04 0.1421964843
-## DT1887                   NA           NA 4.153565e-04 0.0299939828
-## FL1847                   NA           NA           NA 0.0004005872
-## FL1870                   NA           NA           NA           NA
-## FL1892                   NA           NA           NA           NA
-## FR1806                   NA           NA           NA           NA
-## GA1851                   NA           NA           NA           NA
-## GA1860                   NA           NA           NA           NA
-## GB1852                   NA           NA           NA           NA
-## GB1854                   NA           NA           NA           NA
-## GB1873                   NA           NA           NA           NA
-## GB1875                   NA           NA           NA           NA
-## HI1859                   NA           NA           NA           NA
-## HI1897                   NA           NA           NA           NA
-## IA1839                   NA           NA           NA           NA
-## IA1851                   NA           NA           NA           NA
-## IA1859                   NA           NA           NA           NA
-## ID1864                   NA           NA           NA           NA
-## ID1881                   NA           NA           NA           NA
-## IL1866                   NA           NA           NA           NA
-## IL1933                   NA           NA           NA           NA
-## IN1843                   NA           NA           NA           NA
-## IN1852                   NA           NA           NA           NA
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      FL1892       FR1806       GA1851       GA1860
-## AK1900         6.617566e-04 2.973707e-05 1.711501e-04 1.987193e-04
-## AL1852         5.155750e-04 1.443805e-05 2.581219e-04 3.772709e-04
-## AR1868         3.582062e-04 2.394077e-05 2.302589e-04 2.599441e-04
-## AR1874         1.716520e-04 1.304104e-05 1.169103e-04 1.424853e-04
-## AZ1865         4.649072e-04 1.764188e-05 1.671987e-04 2.347886e-04
-## AZ1887         4.008959e-04 2.694946e-05 3.183484e-04 3.646021e-04
-## BI1859         3.201000e-04 1.432854e-05 1.058812e-04 1.489258e-04
-## CA1850         2.660514e-04 1.421414e-05 1.274451e-04 2.071963e-04
-## CA1851         5.022224e-04 1.510798e-05 1.517489e-04 2.502703e-04
-## CA1858         4.513410e-04 2.554393e-05 1.593026e-04 2.893588e-04
-## CA1868         4.641282e-04 2.360182e-05 1.851056e-04 2.871943e-04
-## CA1868extended 2.954684e-04 3.877632e-05 1.660966e-04 2.089845e-04
-## CA1872         1.896748e-03 3.133482e-05 2.146199e-04 2.829147e-04
-## CO1868         7.635613e-04 3.000555e-05 5.262577e-04 5.349248e-04
-## CO1877         4.581257e-04 2.577519e-05 1.888074e-04 2.667867e-04
-## CT1854         2.745864e-04 2.212903e-05 2.450865e-04 2.374753e-04
-## CT1879         2.232553e-05 4.660071e-06 1.732587e-05 2.431537e-05
-## CT1879extended 1.590890e-04 2.082789e-05 1.073157e-04 8.248719e-05
-## DC1857         1.264675e-03 4.049444e-05 2.459074e-04 4.473162e-04
-## DE1852         5.447579e-04 2.470586e-05 1.752057e-04 2.068429e-04
-## DT1862         6.101038e-04 3.295391e-05 2.511496e-04 3.637040e-04
-## DT1868         2.497002e-03 2.438350e-05 1.056422e-04 1.737494e-04
-## DT1887         1.582424e-03 4.332034e-05 2.381643e-04 2.661458e-04
-## FL1847         3.347494e-02 2.654724e-05 3.343281e-03 8.946411e-04
-## FL1870         2.259396e-03 1.623847e-05 1.610462e-04 2.004836e-04
-## FL1892                   NA 3.202881e-05 7.595150e-04 4.934159e-04
-## FR1806                   NA           NA 2.693099e-05 2.696955e-05
-## GA1851                   NA           NA           NA 1.379861e-02
-## GA1860                   NA           NA           NA           NA
-## GB1852                   NA           NA           NA           NA
-## GB1854                   NA           NA           NA           NA
-## GB1873                   NA           NA           NA           NA
-## GB1875                   NA           NA           NA           NA
-## HI1859                   NA           NA           NA           NA
-## HI1897                   NA           NA           NA           NA
-## IA1839                   NA           NA           NA           NA
-## IA1851                   NA           NA           NA           NA
-## IA1859                   NA           NA           NA           NA
-## ID1864                   NA           NA           NA           NA
-## ID1881                   NA           NA           NA           NA
-## IL1866                   NA           NA           NA           NA
-## IL1933                   NA           NA           NA           NA
-## IN1843                   NA           NA           NA           NA
-## IN1852                   NA           NA           NA           NA
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      GB1852       GB1854       GB1873       GB1875
-## AK1900         1.000640e-04 5.374502e-05 5.330884e-05 9.005982e-05
-## AL1852         9.286639e-05 3.066723e-05 4.629037e-05 5.613508e-05
-## AR1868         7.753632e-05 4.671710e-05 4.691679e-05 1.093967e-04
-## AR1874         8.221549e-05 6.082191e-05 4.229515e-05 6.062035e-05
-## AZ1865         1.463563e-04 7.562199e-05 4.656094e-05 8.030763e-05
-## AZ1887         8.927412e-05 9.074474e-05 5.492846e-05 8.391345e-05
-## BI1859         7.358621e-04 1.743188e-03 9.508826e-05 1.004914e-04
-## CA1850         4.859205e-05 5.706785e-05 3.051832e-05 4.998965e-05
-## CA1851         1.461938e-04 1.006809e-04 4.650148e-05 9.331997e-05
-## CA1858         1.293986e-04 8.359618e-05 5.110733e-05 9.861528e-05
-## CA1868         1.178568e-04 8.417530e-05 4.847377e-05 1.131363e-04
-## CA1868extended 6.958755e-05 3.541226e-05 3.105261e-05 1.047489e-04
-## CA1872         7.822890e-05 5.599796e-05 5.706926e-05 1.171875e-04
-## CO1868         2.035385e-04 1.368392e-04 4.958367e-05 8.540883e-05
-## CO1877         1.536870e-04 1.090708e-04 4.437952e-05 1.063389e-04
-## CT1854         1.469184e-04 7.397799e-05 6.559124e-05 5.397938e-05
-## CT1879         8.635019e-05 1.790735e-05 1.133950e-04 1.188987e-04
-## CT1879extended 1.591273e-04 2.436423e-05 6.820153e-05 1.739843e-04
-## DC1857         1.458475e-04 6.862681e-05 9.035152e-05 1.296387e-04
-## DE1852         1.177889e-04 3.892167e-05 4.458658e-05 5.964701e-05
-## DT1862         1.663778e-04 1.119832e-04 6.489082e-05 9.148676e-05
-## DT1868         9.540879e-05 5.704696e-05 7.554101e-05 9.256378e-05
-## DT1887         7.691670e-05 5.690283e-05 4.347021e-05 1.128449e-04
-## FL1847         2.222195e-04 9.669777e-05 8.599816e-05 5.888316e-05
-## FL1870         1.122995e-04 9.016106e-05 5.160512e-05 1.180793e-04
-## FL1892         8.510340e-03 2.117300e-03 6.307397e-05 1.421105e-04
-## FR1806         9.116380e-06 4.065983e-06 1.741481e-05 3.680774e-05
-## GA1851         1.793895e-04 8.269304e-05 8.814049e-05 9.007103e-05
-## GA1860         1.172605e-04 5.827651e-05 4.482887e-05 7.449492e-05
-## GB1852                   NA 1.049441e-02 5.724098e-04 2.494583e-03
-## GB1854                   NA           NA 7.561938e-04 1.137425e-03
-## GB1873                   NA           NA           NA 4.202543e-03
-## GB1875                   NA           NA           NA           NA
-## HI1859                   NA           NA           NA           NA
-## HI1897                   NA           NA           NA           NA
-## IA1839                   NA           NA           NA           NA
-## IA1851                   NA           NA           NA           NA
-## IA1859                   NA           NA           NA           NA
-## ID1864                   NA           NA           NA           NA
-## ID1881                   NA           NA           NA           NA
-## IL1866                   NA           NA           NA           NA
-## IL1933                   NA           NA           NA           NA
-## IN1843                   NA           NA           NA           NA
-## IN1852                   NA           NA           NA           NA
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      HI1859       HI1897       IA1839       IA1851
-## AK1900         4.420347e-04 6.605963e-04 8.140211e-05 1.315207e-03
-## AL1852         7.541354e-05 2.110166e-04 1.056672e-04 2.777171e-04
-## AR1868         1.230434e-03 1.120277e-03 1.360283e-04 6.804478e-04
-## AR1874         2.195528e-03 1.401187e-03 1.461693e-04 8.927872e-04
-## AZ1865         4.918967e-03 3.762115e-03 1.283576e-04 2.400305e-03
-## AZ1887         1.078533e-03 9.795003e-04 1.417374e-04 7.338473e-04
-## BI1859         3.547693e-05 6.010246e-04 9.682469e-05 1.041912e-04
-## CA1850         2.585790e-03 1.748067e-03 1.943339e-04 1.137610e-03
-## CA1851         6.106510e-03 4.697113e-03 1.025269e-04 2.638770e-03
-## CA1858         2.548189e-03 2.238723e-03 9.780812e-05 2.084074e-03
-## CA1868         2.870837e-03 2.618425e-03 9.026551e-05 1.913232e-03
-## CA1868extended 8.413531e-04 9.039749e-04 3.691103e-05 7.932021e-04
-## CA1872         1.613201e-03 1.711078e-03 7.298507e-05 2.655310e-03
-## CO1868         8.178435e-05 9.305128e-04 1.591849e-02 4.705846e-04
-## CO1877         2.953676e-03 2.321806e-03 1.422791e-04 2.041618e-03
-## CT1854         2.642488e-04 4.260824e-04 1.259693e-04 1.492242e-04
-## CT1879         2.589779e-04 1.847469e-04 5.819706e-05 2.480380e-05
-## CT1879extended 6.029302e-05 1.147004e-04 6.025928e-05 1.242521e-04
-## DC1857         1.814894e-03 2.070356e-03 2.539352e-04 2.461796e-03
-## DE1852         2.114658e-04 6.496368e-04 1.242347e-04 1.907609e-04
-## DT1862         2.370957e-03 1.971538e-03 3.033950e-04 7.390025e-03
-## DT1868         2.160170e-03 2.301986e-03 1.261848e-04 1.175181e-03
-## DT1887         6.051405e-04 1.020144e-03 9.381140e-05 1.415786e-03
-## FL1847         1.323281e-04 1.597172e-03 3.337835e-04 3.315532e-04
-## FL1870         2.934722e-03 2.800085e-03 1.307924e-04 1.525482e-03
-## FL1892         2.782543e-04 2.859872e-03 2.790198e-04 2.482382e-04
-## FR1806         0.000000e+00 1.316716e-05 0.000000e+00 2.553124e-05
-## GA1851         5.310469e-05 1.723641e-04 1.368814e-04 2.030960e-04
-## GA1860         4.715966e-05 1.650129e-04 1.432468e-04 2.865783e-04
-## GB1852         5.360349e-05 1.092080e-02 8.432262e-05 8.226494e-05
-## GB1854         6.050430e-05 1.484726e-02 6.031290e-05 6.869164e-05
-## GB1873         3.728422e-05 1.503848e-04 4.029853e-05 3.648250e-05
-## GB1875         3.851010e-05 1.921342e-04 3.418057e-05 5.468066e-05
-## HI1859                   NA 1.074769e-01 6.470503e-05 5.242105e-04
-## HI1897                   NA           NA 1.350074e-04 4.885685e-04
-## IA1839                   NA           NA           NA 1.968469e-04
-## IA1851                   NA           NA           NA           NA
-## IA1859                   NA           NA           NA           NA
-## ID1864                   NA           NA           NA           NA
-## ID1881                   NA           NA           NA           NA
-## IL1866                   NA           NA           NA           NA
-## IL1933                   NA           NA           NA           NA
-## IN1843                   NA           NA           NA           NA
-## IN1852                   NA           NA           NA           NA
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      IA1859       ID1864       ID1881       IL1866
-## AK1900         2.550458e-03 1.530234e-02 1.286643e-02 4.009760e-04
-## AL1852         5.917260e-04 4.783107e-04 7.618455e-04 4.015358e-04
-## AR1868         2.456812e-02 3.720614e-03 4.652826e-03 3.707727e-04
-## AR1874         2.016882e-02 3.704143e-03 4.763148e-03 2.463711e-04
-## AZ1865         3.677575e-03 1.442908e-01 7.294475e-02 3.816188e-04
-## AZ1887         1.474852e-03 7.644600e-03 5.529331e-03 4.136890e-04
-## BI1859         3.290320e-04 1.453879e-04 1.339324e-04 2.427498e-04
-## CA1850         3.715130e-03 2.103176e-02 1.279096e-02 2.752658e-04
-## CA1851         4.358545e-03 1.355055e-01 7.060330e-02 3.973915e-04
-## CA1858         3.364116e-03 1.356476e-01 6.381693e-02 3.740408e-04
-## CA1868         2.965512e-03 9.823066e-02 6.257019e-02 3.378700e-04
-## CA1868extended 1.580440e-03 3.785027e-02 2.702763e-02 1.887562e-04
-## CA1872         3.820400e-03 5.013719e-02 1.505629e-01 4.005035e-04
-## CO1868         4.069875e-04 4.051119e-04 3.258239e-04 8.931150e-02
-## CO1877         3.815836e-03 6.119465e-02 3.527416e-02 4.400710e-03
-## CT1854         1.757008e-04 2.844739e-04 2.229757e-04 5.329317e-04
-## CT1879         4.183532e-05 9.208917e-05 1.285588e-04 3.558072e-05
-## CT1879extended 2.399908e-04 2.701307e-04 2.533478e-04 1.218124e-04
-## DC1857         9.836011e-03 1.807422e-02 1.337152e-02 5.300772e-04
-## DE1852         1.823048e-04 1.353440e-04 1.510389e-04 2.831974e-04
-## DT1862         2.235584e-02 7.115642e-03 8.937942e-03 4.548403e-04
-## DT1868         3.164610e-03 1.562455e-02 1.422772e-02 2.921271e-04
-## DT1887         2.852832e-03 1.275062e-02 2.364361e-02 3.128069e-04
-## FL1847         3.544529e-04 3.239148e-04 2.591129e-04 2.245259e-03
-## FL1870         4.463643e-03 1.980489e-02 1.665082e-02 2.624112e-04
-## FL1892         7.718342e-04 6.156252e-04 1.591491e-03 1.071444e-03
-## FR1806         2.445184e-05 3.682970e-05 3.194321e-05 1.805678e-05
-## GA1851         2.310230e-04 1.597704e-04 1.434554e-04 8.370743e-04
-## GA1860         2.897508e-04 2.552606e-04 2.257326e-04 5.204660e-04
-## GB1852         1.116024e-03 1.476933e-04 7.993933e-05 3.130691e-04
-## GB1854         2.004872e-03 7.925212e-05 3.211788e-05 9.497612e-05
-## GB1873         5.055256e-05 5.523111e-05 2.690987e-05 7.066942e-05
-## GB1875         8.998900e-05 1.132905e-04 8.972455e-05 9.283215e-05
-## HI1859         4.687241e-04 2.693806e-03 1.832960e-03 6.458746e-05
-## HI1897         6.576742e-04 2.387159e-03 1.847260e-03 3.859390e-04
-## IA1839         1.318759e-04 1.105417e-04 7.991050e-05 2.036600e-02
-## IA1851         1.172776e-01 1.782046e-03 2.525823e-03 3.884760e-04
-## IA1859                   NA 3.001936e-03 3.706626e-03 3.422168e-04
-## ID1864                   NA           NA 4.531509e-02 3.721638e-04
-## ID1881                   NA           NA           NA 2.792019e-04
-## IL1866                   NA           NA           NA           NA
-## IL1933                   NA           NA           NA           NA
-## IN1843                   NA           NA           NA           NA
-## IN1852                   NA           NA           NA           NA
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      IL1933       IN1843       IN1852       KS1859
-## AK1900         3.378346e-04 8.564698e-04 3.408104e-03 4.880240e-03
-## AL1852         1.545587e-04 5.758203e-04 4.642992e-04 4.030756e-04
-## AR1868         3.454963e-04 4.593139e-04 9.293695e-03 2.899812e-02
-## AR1874         4.941875e-04 2.077597e-04 1.084171e-02 3.582717e-02
-## AZ1865         5.056585e-04 5.009173e-04 5.452626e-03 1.070678e-02
-## AZ1887         3.717744e-04 4.601358e-04 2.568303e-03 2.861010e-03
-## BI1859         1.545505e-04 1.597330e-04 1.954923e-04 1.652413e-04
-## CA1850         1.324212e-03 3.203661e-04 7.728905e-03 1.481443e-02
-## CA1851         6.159281e-04 5.145720e-04 6.775902e-03 1.204079e-02
-## CA1858         4.426656e-04 5.372747e-04 5.376830e-03 9.130959e-03
-## CA1868         2.844221e-04 5.388495e-04 3.575390e-03 6.937621e-03
-## CA1868extended 1.617364e-04 3.755553e-04 1.934609e-03 2.842897e-03
-## CA1872         3.152622e-04 6.078912e-04 4.964234e-03 8.619546e-03
-## CO1868         2.871043e-03 2.239674e-03 5.333540e-04 4.951681e-04
-## CO1877         5.643113e-04 4.210242e-04 7.245840e-03 1.010336e-02
-## CT1854         1.953075e-04 2.930867e-04 2.243773e-04 7.565091e-04
-## CT1879         2.133295e-03 2.619828e-05 1.177285e-04 3.648871e-04
-## CT1879extended 1.051224e-03 1.677222e-04 3.014242e-04 3.881615e-04
-## DC1857         5.996496e-04 5.836798e-03 3.954256e-02 3.369510e-02
-## DE1852         1.276645e-04 6.869090e-04 3.574821e-04 2.350820e-04
-## DT1862         7.449361e-04 6.659612e-04 8.845996e-03 2.998286e-01
-## DT1868         8.573437e-04 4.641075e-04 7.552962e-03 1.183824e-02
-## DT1887         4.781729e-04 5.995479e-04 3.629801e-03 9.724190e-03
-## FL1847         2.628305e-04 3.402597e-03 8.632077e-04 5.224343e-04
-## FL1870         9.995844e-04 6.534649e-04 9.509079e-03 1.468206e-02
-## FL1892         2.147019e-04 2.177793e-03 7.906279e-04 6.445809e-04
-## FR1806         6.357602e-06 4.370586e-05 3.657143e-05 2.124727e-05
-## GA1851         1.607328e-04 4.485592e-04 3.138156e-04 2.527301e-04
-## GA1860         1.538648e-04 4.875249e-04 3.448824e-04 3.545370e-04
-## GB1852         1.339220e-04 1.420433e-04 1.336947e-04 1.761587e-04
-## GB1854         1.732846e-04 7.631828e-05 6.441240e-05 8.265867e-05
-## GB1873         4.060811e-05 7.318287e-05 8.386018e-05 8.110206e-05
-## GB1875         2.692218e-04 9.580104e-05 1.108659e-04 8.929005e-05
-## HI1859         5.194805e-05 5.494036e-04 8.125027e-04 1.751938e-03
-## HI1897         2.246791e-04 5.374753e-04 8.550001e-04 1.617112e-03
-## IA1839         2.149144e-03 2.791601e-04 1.563326e-04 4.451859e-04
-## IA1851         2.321625e-04 4.177719e-04 3.797906e-03 1.763649e-03
-## IA1859         3.047788e-04 1.139913e-03 7.637925e-03 1.914530e-02
-## ID1864         4.012409e-04 4.980597e-04 4.561910e-03 8.011758e-03
-## ID1881         2.958117e-04 4.023830e-04 4.347715e-03 8.545286e-03
-## IL1866         2.858401e-03 9.720978e-04 6.172006e-04 4.509229e-04
-## IL1933                   NA 2.026471e-04 6.988380e-04 9.295596e-04
-## IN1843                   NA           NA 8.973307e-03 6.462215e-04
-## IN1852                   NA           NA           NA 9.506721e-03
-## KS1859                   NA           NA           NA           NA
-## KS1868                   NA           NA           NA           NA
-## KY1851                   NA           NA           NA           NA
-## KY1854                   NA           NA           NA           NA
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      KS1868       KY1851       KY1854       LA1825
-## AK1900         4.400150e-03 3.487542e-03 2.429101e-03 4.862197e-05
-## AL1852         3.948647e-04 3.257406e-04 2.835102e-04 2.819539e-05
-## AR1868         1.931883e-02 1.453980e-01 1.402358e-01 4.094046e-05
-## AR1874         1.932558e-02 9.738268e-02 6.648651e-02 3.140408e-05
-## AZ1865         8.627769e-03 5.981694e-03 3.894969e-03 3.916903e-05
-## AZ1887         2.039231e-03 2.409627e-03 2.007696e-03 4.157704e-05
-## BI1859         1.619646e-04 1.601934e-04 1.377309e-04 3.049964e-05
-## CA1850         8.413393e-03 7.367116e-03 4.622694e-03 1.125922e-04
-## CA1851         9.441937e-03 7.007515e-03 4.490188e-03 3.668881e-05
-## CA1858         8.055075e-03 4.415796e-03 3.042340e-03 4.361534e-05
-## CA1868         6.591200e-03 3.705762e-03 2.530105e-03 4.266621e-05
-## CA1868extended 2.893559e-03 1.552770e-03 1.237211e-03 4.904977e-05
-## CA1872         8.514007e-03 6.463586e-03 4.607861e-03 4.629505e-05
-## CO1868         5.003063e-04 2.959905e-04 2.836395e-04 3.886948e-05
-## CO1877         7.495506e-03 6.045673e-03 3.787094e-03 2.001581e-05
-## CT1854         5.903012e-04 2.417112e-04 2.008180e-04 2.947284e-05
-## CT1879         2.418477e-04 1.119525e-04 7.301668e-05 4.418893e-06
-## CT1879extended 3.742633e-04 2.353066e-04 2.342461e-04 4.075289e-05
-## DC1857         2.579659e-02 1.533915e-02 1.078769e-02 3.955641e-05
-## DE1852         2.244840e-04 1.588750e-04 1.397004e-04 1.861702e-05
-## DT1862         1.347211e-01 4.391614e-02 2.751495e-02 3.192704e-05
-## DT1868         7.660157e-03 5.925722e-03 3.685845e-03 1.838158e-05
-## DT1887         8.090008e-03 3.671192e-03 2.649201e-03 3.864616e-05
-## FL1847         6.328129e-04 2.905540e-04 2.897937e-04 4.986109e-05
-## FL1870         9.818953e-03 7.014427e-03 4.433994e-03 3.410301e-05
-## FL1892         5.907315e-04 5.340319e-04 2.736171e-04 5.124678e-05
-## FR1806         2.340628e-05 3.103807e-05 3.255957e-05 3.122081e-05
-## GA1851         3.020287e-04 1.597280e-04 1.718710e-04 4.456828e-05
-## GA1860         3.700803e-04 1.996159e-04 2.443442e-04 3.579428e-05
-## GB1852         1.418686e-04 1.028962e-04 9.620611e-05 1.760631e-05
-## GB1854         9.889408e-05 6.582614e-05 5.110323e-05 1.164357e-05
-## GB1873         6.833799e-05 3.345078e-05 3.744958e-05 1.338576e-05
-## GB1875         1.166874e-04 7.043715e-05 6.348430e-05 3.062627e-05
-## HI1859         9.863534e-04 1.850569e-03 9.733658e-04 4.227043e-06
-## HI1897         1.076937e-03 1.556311e-03 8.790814e-04 1.584801e-05
-## IA1839         3.146930e-04 1.476094e-04 1.126853e-04 1.184081e-05
-## IA1851         2.807585e-03 8.947299e-04 6.881535e-04 3.718541e-05
-## IA1859         1.359305e-02 2.517494e-02 2.035602e-02 4.963620e-05
-## ID1864         6.475940e-03 4.156583e-03 2.891617e-03 3.803125e-05
-## ID1881         7.981015e-03 5.988399e-03 4.136992e-03 3.650847e-05
-## IL1866         5.265356e-04 3.059767e-04 3.096536e-04 3.518409e-05
-## IL1933         6.203694e-04 3.204750e-04 3.389974e-04 2.451807e-05
-## IN1843         2.866759e-03 3.181954e-04 3.527703e-04 5.046067e-05
-## IN1852         1.346332e-02 1.073734e-02 7.873665e-03 4.296586e-05
-## KS1859         1.721735e-01 4.019511e-02 2.544918e-02 3.090975e-05
-## KS1868                   NA 2.425635e-02 1.715888e-02 3.051158e-05
-## KY1851                   NA           NA 1.835003e-01 4.518889e-05
-## KY1854                   NA           NA           NA 2.782631e-05
-## LA1825                   NA           NA           NA           NA
-## LA1825french             NA           NA           NA           NA
-## LC1867                   NA           NA           NA           NA
-## LC1867french             NA           NA           NA           NA
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                LA1825french       LC1867 LC1867french       MA1836
-## AK1900         3.469873e-05 9.569944e-05 5.407975e-05 5.632008e-04
-## AL1852         2.626092e-05 9.998627e-05 2.576421e-05 2.505725e-04
-## AR1868         3.914261e-05 1.220160e-04 4.009315e-05 2.779679e-04
-## AR1874         7.631762e-06 5.582416e-05 2.474641e-05 1.548530e-04
-## AZ1865         1.862776e-05 1.115456e-04 3.440223e-05 2.947267e-04
-## AZ1887         2.633336e-05 7.992023e-05 2.027052e-05 3.028086e-04
-## BI1859         1.608009e-05 4.402939e-05 1.568336e-05 1.900132e-04
-## CA1850         1.903332e-05 5.689238e-05 3.168041e-05 4.071226e-04
-## CA1851         2.068227e-05 1.134570e-04 2.831062e-05 3.067177e-04
-## CA1858         3.056768e-05 1.147770e-04 2.821093e-05 3.159186e-04
-## CA1868         4.394507e-05 1.127968e-04 3.085567e-05 2.930237e-04
-## CA1868extended 5.221755e-05 1.032801e-04 5.777420e-05 2.575078e-04
-## CA1872         4.223974e-05 1.216794e-04 4.170093e-05 6.037201e-04
-## CO1868         2.056357e-05 8.709474e-05 2.412996e-05 2.612695e-03
-## CO1877         1.897373e-05 9.528907e-05 3.502670e-05 2.186368e-04
-## CT1854         2.679283e-05 5.355590e-05 3.486682e-05 3.306799e-04
-## CT1879         3.322723e-06 3.126055e-06 3.205436e-06 3.149831e-05
-## CT1879extended 3.742911e-05 3.788907e-05 5.755451e-05 1.165002e-04
-## DC1857         2.757347e-05 8.678730e-05 3.382515e-05 1.722225e-03
-## DE1852         3.550443e-05 9.583583e-05 2.815907e-05 2.941836e-03
-## DT1862         2.441650e-05 8.947250e-05 3.250109e-05 3.740624e-04
-## DT1868         1.756420e-05 9.697113e-05 2.786835e-05 3.092504e-04
-## DT1887         4.484593e-05 9.360866e-05 4.784369e-05 3.269905e-04
-## FL1847         4.166298e-05 1.126160e-04 2.214372e-05 6.730321e-03
-## FL1870         1.316188e-05 1.221711e-04 3.641325e-05 3.724808e-04
-## FL1892         4.708846e-05 9.735565e-05 4.633759e-05 2.704763e-03
-## FR1806         3.258370e-05 3.333490e-05 3.585279e-05 2.851517e-05
-## GA1851         4.996605e-05 7.578173e-05 5.784794e-05 2.536377e-04
-## GA1860         3.963909e-05 1.089127e-04 2.757583e-05 2.421308e-04
-## GB1852         2.166373e-05 7.367297e-05 2.110432e-05 1.574593e-04
-## GB1854         3.009220e-06 4.270681e-05 2.912701e-06 8.078117e-05
-## GB1873         2.409787e-05 2.803198e-05 1.040328e-05 6.013941e-05
-## GB1875         5.240424e-05 8.016835e-05 3.901739e-05 9.441592e-05
-## HI1859         3.213068e-06 1.817312e-05 6.206554e-06 6.952386e-04
-## HI1897         7.689232e-06 8.067276e-05 1.246367e-05 4.983764e-03
-## IA1839         6.097208e-06 3.458781e-05 2.949574e-06 6.954683e-05
-## IA1851         1.882660e-05 1.086659e-04 2.453707e-05 3.782073e-04
-## IA1859         3.187053e-05 1.165549e-04 4.179597e-05 3.969406e-04
-## ID1864         4.014980e-05 1.058492e-04 3.935881e-05 2.752257e-04
-## ID1881         3.539202e-05 1.360788e-04 4.842124e-05 4.607295e-04
-## IL1866         2.644453e-05 9.666153e-05 3.330755e-05 9.929020e-04
-## IL1933         1.995276e-05 4.287031e-05 9.709610e-06 1.249664e-04
-## IN1843         4.057819e-05 1.081620e-04 4.564771e-05 4.935371e-03
-## IN1852         3.790032e-05 9.660576e-05 4.967062e-05 9.012042e-04
-## KS1859         2.160359e-05 9.132685e-05 2.321179e-05 3.777862e-04
-## KS1868         3.839470e-05 1.181373e-04 5.081592e-05 4.315234e-04
-## KY1851         2.748472e-05 9.961617e-05 2.272708e-05 2.900845e-04
-## KY1854         2.076915e-05 1.089396e-04 3.396831e-05 2.829245e-04
-## LA1825         2.585737e-05 4.025425e-05 2.530315e-05 5.457179e-05
-## LA1825french             NA 2.850699e-05 4.418658e-05 3.720080e-05
-## LC1867                   NA           NA 3.786937e-05 1.270193e-04
-## LC1867french             NA           NA           NA 4.059287e-05
-## MA1836                   NA           NA           NA           NA
-## MA1851                   NA           NA           NA           NA
-## MA1858                   NA           NA           NA           NA
-## MD1855                   NA           NA           NA           NA
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      MA1851       MA1858       MD1855       MD1859
-## AK1900         8.407782e-05 5.269531e-04 5.664389e-05 6.172554e-05
-## AL1852         5.533067e-05 2.413521e-04 7.385023e-05 1.380896e-04
-## AR1868         7.226337e-05 2.887461e-04 5.353002e-05 1.544972e-04
-## AR1874         4.234904e-05 1.736743e-04 5.609923e-05 1.354550e-04
-## AZ1865         5.091071e-05 3.024599e-04 7.585375e-05 1.509717e-04
-## AZ1887         6.253229e-05 3.979701e-04 4.013526e-05 2.112048e-04
-## BI1859         6.746435e-05 1.789676e-04 6.908258e-05 9.631665e-05
-## CA1850         1.071651e-04 3.598751e-04 1.332277e-04 2.004410e-04
-## CA1851         6.257259e-05 3.320156e-04 6.777201e-05 1.548271e-04
-## CA1858         4.568324e-05 3.257313e-04 5.255267e-05 1.226114e-04
-## CA1868         4.641267e-05 3.096463e-04 4.697041e-05 1.152599e-04
-## CA1868extended 2.332739e-05 2.728479e-04 2.615911e-05 5.044122e-05
-## CA1872         8.647430e-05 5.444536e-04 3.389092e-05 1.025711e-04
-## CO1868         9.284836e-05 1.134402e-03 1.104010e-04 2.457666e-04
-## CO1877         4.867364e-05 2.432259e-04 8.275714e-05 1.735340e-04
-## CT1854         8.178918e-05 2.991461e-04 2.323096e-05 2.049503e-04
-## CT1879         0.000000e+00 2.685270e-05 2.928301e-05 1.589446e-05
-## CT1879extended 6.723645e-05 1.307245e-04 1.519112e-04 1.514274e-04
-## DC1857         9.930430e-05 1.052491e-03 9.493862e-05 8.474279e-05
-## DE1852         4.038446e-05 1.688518e-03 5.504739e-05 1.458206e-04
-## DT1862         1.526752e-04 4.110785e-04 1.147615e-04 2.306599e-04
-## DT1868         1.142069e-04 3.057842e-04 7.181135e-05 1.149891e-04
-## DT1887         5.525287e-05 4.120865e-04 4.220114e-05 5.792094e-05
-## FL1847         1.033764e-04 4.258015e-03 1.019273e-04 2.396797e-04
-## FL1870         1.052415e-04 3.799477e-04 4.480287e-05 1.377442e-04
-## FL1892         8.411378e-05 2.005587e-03 5.686076e-03 2.126530e-03
-## FR1806         7.597052e-06 4.274155e-05 1.161000e-05 7.904701e-06
-## GA1851         4.859977e-05 2.409564e-04 4.912732e-05 1.763210e-04
-## GA1860         4.766040e-05 2.758116e-04 7.510709e-05 2.558868e-04
-## GB1852         5.862227e-05 1.322398e-04 3.274650e-02 8.877086e-03
-## GB1854         1.052581e-04 7.628062e-05 6.021134e-05 1.060895e-04
-## GB1873         5.491450e-05 6.021166e-05 0.000000e+00 4.430104e-05
-## GB1875         2.736693e-05 1.081914e-04 1.737921e-04 3.574200e-05
-## HI1859         1.198581e-05 6.332131e-04 2.545501e-05 2.732800e-05
-## HI1897         1.108757e-04 3.295699e-03 1.015970e-04 1.380716e-04
-## IA1839         2.993385e-05 6.147079e-05 1.048636e-05 1.667352e-04
-## IA1851         4.395640e-05 3.698451e-04 7.743124e-05 1.000046e-04
-## IA1859         1.033214e-03 8.899508e-04 1.157859e-03 2.281380e-04
-## ID1864         8.746037e-05 2.830888e-04 8.246481e-05 1.097153e-04
-## ID1881         5.212430e-05 3.924206e-04 5.512864e-05 7.284842e-05
-## IL1866         6.631146e-05 6.267560e-04 1.516576e-04 2.814977e-04
-## IL1933         7.508158e-05 1.913475e-04 8.319319e-05 1.289206e-04
-## IN1843         1.107164e-04 2.751967e-03 8.250573e-05 1.617714e-04
-## IN1852         2.022768e-04 9.538533e-04 9.736199e-05 1.822097e-04
-## KS1859         1.446408e-04 4.401323e-04 1.129394e-04 2.446641e-04
-## KS1868         7.003537e-05 4.682818e-04 9.280185e-05 2.022452e-04
-## KY1851         5.301946e-05 3.039264e-04 6.241418e-05 1.660133e-04
-## KY1854         6.000446e-05 2.705858e-04 4.056560e-05 1.324683e-04
-## LA1825         2.545760e-05 4.865905e-05 1.851111e-05 1.888767e-05
-## LA1825french   1.430100e-05 4.191356e-05 5.801002e-06 5.893047e-06
-## LC1867         2.441963e-05 1.276478e-04 3.024529e-05 4.465494e-05
-## LC1867french   1.663723e-05 2.600236e-05 1.405375e-05 2.568581e-05
-## MA1836         5.318094e-04 1.100955e-01 5.961412e-05 9.327470e-05
-## MA1851                   NA 1.125336e-02 5.046444e-04 5.110687e-04
-## MA1858                   NA           NA 1.909303e-04 2.395707e-04
-## MD1855                   NA           NA           NA 6.571406e-02
-## MD1859                   NA           NA           NA           NA
-## ME1840                   NA           NA           NA           NA
-## MI1853                   NA           NA           NA           NA
-## MN1851                   NA           NA           NA           NA
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      ME1840       MI1853       MN1851       MN1859
-## AK1900         4.701071e-04 1.967733e-04 1.314100e-02 2.222603e-02
-## AL1852         2.346753e-04 9.428719e-05 7.318921e-04 1.334465e-03
-## AR1868         2.430780e-04 1.335184e-04 2.872940e-03 5.014382e-03
-## AR1874         2.030991e-04 8.002312e-05 2.702004e-03 4.723817e-03
-## AZ1865         2.576047e-04 5.621939e-04 2.371937e-02 3.996505e-02
-## AZ1887         3.501105e-04 2.008574e-04 1.571468e-03 3.363698e-03
-## BI1859         1.475813e-04 1.048077e-04 1.433771e-04 1.962150e-04
-## CA1850         1.551275e-04 1.103205e-03 1.299972e-02 2.299966e-02
-## CA1851         2.436652e-04 6.028263e-04 2.331367e-02 4.217663e-02
-## CA1858         2.390271e-04 4.280005e-04 1.902917e-02 3.384339e-02
-## CA1868         2.520667e-04 3.839075e-04 1.566724e-02 2.650164e-02
-## CA1868extended 1.707047e-04 1.595297e-04 7.057744e-03 1.214663e-02
-## CA1872         3.532735e-04 1.651909e-04 1.921440e-02 3.107784e-02
-## CO1868         1.965521e-03 1.728973e-04 4.757117e-04 8.274213e-04
-## CO1877         2.061035e-04 4.116584e-04 1.103486e-02 1.874698e-02
-## CT1854         4.057447e-04 8.937381e-05 2.707290e-04 3.644486e-04
-## CT1879         2.756905e-05 0.000000e+00 1.054633e-04 1.530432e-04
-## CT1879extended 1.093834e-04 5.152895e-05 2.050648e-04 3.391077e-04
-## DC1857         6.987531e-04 2.863925e-04 8.300296e-03 1.566507e-02
-## DE1852         1.240598e-03 8.849714e-05 4.942024e-04 7.740314e-04
-## DT1862         4.308316e-04 3.188188e-04 7.751372e-03 1.160111e-02
-## DT1868         3.057175e-04 7.488132e-04 1.844673e-02 3.140671e-02
-## DT1887         3.587045e-04 2.679806e-04 1.008283e-02 1.684957e-02
-## FL1847         1.806849e-03 2.035072e-04 2.906371e-03 4.672954e-03
-## FL1870         3.615983e-04 8.626807e-04 2.243405e-02 3.835225e-02
-## FL1892         8.630246e-04 1.936010e-04 1.347836e-03 2.187403e-03
-## FR1806         3.291098e-05 1.858109e-05 2.763929e-05 2.953163e-05
-## GA1851         2.592744e-04 1.073596e-04 2.056807e-04 3.137796e-04
-## GA1860         2.964475e-04 1.234881e-04 2.163940e-04 3.319466e-04
-## GB1852         9.979384e-05 8.492226e-05 1.132669e-04 1.320011e-04
-## GB1854         8.943944e-05 4.873265e-05 3.094185e-05 7.435943e-05
-## GB1873         5.012921e-05 3.409063e-05 4.769058e-05 5.457645e-05
-## GB1875         6.715384e-05 6.499429e-05 1.073142e-04 1.372036e-04
-## HI1859         1.767126e-03 9.086271e-05 9.355405e-04 1.581410e-03
-## HI1897         7.641027e-03 1.711889e-04 1.395244e-03 2.400588e-03
-## IA1839         1.301354e-04 1.376247e-04 7.026460e-04 2.860502e-04
-## IA1851         3.695073e-04 1.323131e-04 1.938726e-03 3.377475e-03
-## IA1859         3.434643e-04 1.263421e-04 2.698820e-03 4.878781e-03
-## ID1864         2.441862e-04 4.161531e-04 1.506441e-02 2.611926e-02
-## ID1881         2.562139e-04 1.743972e-04 1.763582e-02 2.860780e-02
-## IL1866         3.911954e-04 1.993311e-04 5.040878e-04 7.709070e-04
-## IL1933         1.477503e-04 9.889028e-04 3.663386e-04 6.099685e-04
-## IN1843         3.109181e-03 3.130030e-04 1.820642e-03 2.900890e-03
-## IN1852         9.116227e-04 1.548227e-04 3.646552e-03 7.214473e-03
-## KS1859         3.912267e-04 3.359884e-04 7.861753e-03 1.168923e-02
-## KS1868         4.132569e-04 2.785515e-04 6.109243e-03 8.627557e-03
-## KY1851         2.347564e-04 1.049776e-04 3.747638e-03 6.109388e-03
-## KY1854         2.287962e-04 1.000959e-04 2.297816e-03 4.053173e-03
-## LA1825         3.218131e-05 3.287350e-05 3.894404e-05 3.915827e-05
-## LA1825french   2.487909e-05 1.710333e-05 4.359316e-05 3.021057e-05
-## LC1867         1.125773e-04 5.604936e-05 1.154758e-04 1.483390e-04
-## LC1867french   3.257738e-05 1.903457e-05 3.548936e-05 4.903279e-05
-## MA1836         3.309420e-02 2.498246e-04 6.902409e-03 1.049705e-02
-## MA1851         1.066399e-04 4.408224e-05 5.943564e-05 7.830331e-05
-## MA1858         1.946072e-02 2.039571e-04 3.875493e-03 5.946873e-03
-## MD1855         6.212019e-05 1.132349e-05 4.854459e-05 6.987274e-05
-## MD1859         1.507539e-04 1.168081e-04 8.895339e-05 9.670815e-05
-## ME1840                   NA 1.150121e-04 1.435232e-03 2.339862e-03
-## MI1853                   NA           NA 3.340302e-04 4.577957e-04
-## MN1851                   NA           NA           NA 1.508810e-01
-## MN1859                   NA           NA           NA           NA
-## MO1835                   NA           NA           NA           NA
-## MO1849                   NA           NA           NA           NA
-## MO1856                   NA           NA           NA           NA
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      MO1835       MO1849       MO1856       MO1879
-## AK1900         1.813769e-04 3.988799e-03 3.902515e-03 3.283441e-03
-## AL1852         1.593582e-04 2.133301e-04 2.265288e-04 2.469764e-04
-## AR1868         2.483123e-04 5.115696e-03 4.862471e-03 3.691961e-03
-## AR1874         1.213845e-03 7.479909e-03 7.247328e-03 6.546488e-03
-## AZ1865         2.197140e-04 1.032633e-02 7.230651e-03 5.355633e-03
-## AZ1887         8.866590e-04 2.472870e-03 2.544457e-03 1.811123e-03
-## BI1859         2.176093e-04 1.554816e-04 1.789528e-04 1.574365e-04
-## CA1850         2.697421e-04 2.465460e-02 1.608675e-02 1.012463e-02
-## CA1851         2.194364e-04 1.161771e-02 7.897178e-03 6.086164e-03
-## CA1858         1.886362e-04 7.413490e-03 5.445858e-03 4.013496e-03
-## CA1868         1.398396e-04 4.897392e-03 3.502757e-03 2.765358e-03
-## CA1868extended 7.478162e-05 1.835028e-03 1.602310e-03 1.201558e-03
-## CA1872         1.320404e-04 4.514722e-03 3.489451e-03 2.681935e-03
-## CO1868         1.828879e-03 4.057839e-04 6.658633e-04 4.876694e-04
-## CO1877         2.524070e-04 8.582937e-03 7.389112e-03 5.251820e-03
-## CT1854         2.510945e-04 3.492913e-04 3.895280e-04 4.867032e-04
-## CT1879         0.000000e+00 1.322154e-04 7.991519e-04 6.271943e-04
-## CT1879extended 4.352157e-05 2.275876e-04 5.297485e-04 3.604632e-04
-## DC1857         3.427890e-04 6.718748e-03 6.264548e-03 4.420049e-03
-## DE1852         1.481689e-04 1.039704e-04 1.798931e-04 1.629353e-04
-## DT1862         2.765032e-04 7.672634e-03 7.552155e-03 5.306001e-03
-## DT1868         1.728717e-04 1.460102e-02 9.382099e-03 5.853628e-03
-## DT1887         1.233787e-04 3.590676e-03 2.706528e-03 1.816470e-03
-## FL1847         3.066274e-04 2.050222e-04 2.815967e-04 3.939548e-04
-## FL1870         2.432384e-04 1.692095e-02 1.392130e-02 8.990285e-03
-## FL1892         2.925492e-04 3.239101e-04 3.531553e-04 3.905321e-04
-## FR1806         6.893105e-06 1.068110e-05 1.598348e-05 2.432409e-05
-## GA1851         1.126103e-04 8.293091e-05 1.453627e-04 1.640129e-04
-## GA1860         1.681059e-04 7.842740e-05 1.685456e-04 2.075644e-04
-## GB1852         2.610942e-04 9.257229e-05 1.138318e-04 1.184549e-04
-## GB1854         3.044210e-05 3.275386e-05 5.192310e-05 6.465150e-05
-## GB1873         5.215426e-05 5.511633e-05 5.633976e-05 6.151982e-05
-## GB1875         4.663951e-05 3.813601e-05 5.537135e-05 6.202346e-05
-## HI1859         5.439118e-05 2.042881e-03 1.596542e-03 9.064296e-04
-## HI1897         2.114087e-04 1.385458e-03 1.176309e-03 7.988833e-04
-## IA1839         6.455321e-04 1.103359e-04 4.274475e-04 3.498106e-04
-## IA1851         2.129311e-04 9.753035e-04 6.808602e-04 7.000849e-04
-## IA1859         4.674418e-04 2.549094e-03 4.408729e-03 3.577727e-03
-## ID1864         1.556178e-04 7.155976e-03 4.796535e-03 3.401794e-03
-## ID1881         1.225163e-04 4.746083e-03 3.779688e-03 2.856033e-03
-## IL1866         1.759495e-03 5.014448e-04 7.323273e-04 6.375483e-04
-## IL1933         2.600117e-04 1.149305e-03 1.285752e-03 5.446943e-04
-## IN1843         1.731099e-03 1.787548e-04 1.170653e-03 7.922935e-04
-## IN1852         2.683719e-04 4.546933e-03 3.106097e-03 2.348931e-03
-## KS1859         3.742086e-04 7.161845e-03 7.150338e-03 5.674826e-03
-## KS1868         3.090227e-04 3.721905e-03 4.194953e-03 3.417414e-03
-## KY1851         2.242400e-04 7.502108e-03 6.161103e-03 4.550214e-03
-## KY1854         1.937331e-04 4.728378e-03 3.934723e-03 3.222318e-03
-## LA1825         2.319017e-05 1.025354e-05 2.773233e-05 3.229585e-05
-## LA1825french   7.967852e-06 2.450760e-05 7.515143e-06 1.444867e-05
-## LC1867         7.333955e-05 9.323043e-05 8.371283e-05 7.831052e-05
-## LC1867french   1.548299e-05 1.321881e-05 3.413011e-05 2.580524e-05
-## MA1836         2.392796e-04 1.511710e-04 1.932593e-04 4.726715e-04
-## MA1851         8.069560e-05 1.577932e-04 5.355247e-03 2.416854e-03
-## MA1858         1.892580e-04 1.824622e-04 1.923444e-03 8.700916e-04
-## MD1855         1.529520e-04 8.917160e-05 4.803910e-05 7.119465e-05
-## MD1859         1.516771e-04 1.548239e-04 2.482714e-04 1.805930e-04
-## ME1840         2.040121e-04 1.426065e-04 2.237374e-04 2.133077e-04
-## MI1853         2.976333e-04 4.723523e-04 9.097092e-04 3.440738e-04
-## MN1851         6.550948e-04 4.704672e-03 3.556460e-03 2.696514e-03
-## MN1859         9.616115e-04 7.628787e-03 6.044891e-03 4.388212e-03
-## MO1835                   NA 4.717636e-03 6.353250e-02 3.280687e-02
-## MO1849                   NA           NA 5.407244e-02 2.318446e-02
-## MO1856                   NA           NA           NA 1.208583e-01
-## MO1879                   NA           NA           NA           NA
-## MS1848                   NA           NA           NA           NA
-## MS1850                   NA           NA           NA           NA
-## MS1857                   NA           NA           NA           NA
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      MS1848       MS1850       MS1857       MT1865
-## AK1900         2.542411e-04 1.988636e-03 5.299072e-04 1.470331e-02
-## AL1852         5.589262e-04 3.416748e-06 5.234618e-04 6.053083e-04
-## AR1868         4.001432e-04 2.471402e-03 1.392090e-03 4.762397e-03
-## AR1874         1.563269e-04 3.732193e-03 1.371252e-03 4.691016e-03
-## AZ1865         2.588436e-04 4.264800e-03 7.007450e-04 1.445229e-01
-## AZ1887         8.488141e-04 1.820556e-03 1.026310e-03 8.021480e-03
-## BI1859         1.669033e-04 3.188898e-05 1.893644e-04 2.122541e-04
-## CA1850         1.804315e-04 2.085073e-02 1.194764e-03 2.146331e-02
-## CA1851         2.479840e-04 5.193009e-03 6.952138e-04 1.312023e-01
-## CA1858         2.645058e-04 1.706608e-03 6.629447e-04 1.248340e-01
-## CA1868         2.875312e-04 1.488307e-03 4.226211e-04 9.346619e-02
-## CA1868extended 2.312880e-04 5.931797e-04 2.747494e-04 3.389839e-02
-## CA1872         3.532749e-04 1.183025e-03 5.169198e-04 4.727060e-02
-## CO1868         2.934429e-03 3.850412e-05 8.101295e-04 5.690618e-04
-## CO1877         4.285801e-04 3.119701e-03 6.357870e-04 7.488531e-02
-## CT1854         3.610845e-04 1.180902e-05 3.094609e-04 6.206205e-04
-## CT1879         2.123760e-05 1.697035e-03 4.448517e-06 1.917686e-04
-## CT1879extended 1.198463e-04 1.934961e-04 1.077474e-04 3.343119e-04
-## DC1857         4.187314e-04 3.762175e-03 8.219080e-04 2.049462e-02
-## DE1852         2.498296e-04 2.904781e-05 3.926775e-04 2.251287e-04
-## DT1862         4.434304e-04 3.020778e-03 1.924297e-03 1.115326e-02
-## DT1868         2.111115e-04 6.175191e-03 6.647954e-04 1.578424e-02
-## DT1887         3.176895e-04 1.036651e-03 4.475110e-04 1.237163e-02
-## FL1847         1.291279e-02 4.369263e-05 1.091384e-03 4.474128e-04
-## FL1870         2.765305e-04 8.398631e-03 7.959895e-04 2.061619e-02
-## FL1892         2.063062e-03 1.994679e-05 1.450464e-03 5.306470e-04
-## FR1806         4.236359e-05 4.705240e-06 3.615503e-05 1.466455e-05
-## GA1851         1.605329e-03 1.741467e-05 4.535988e-04 2.406220e-04
-## GA1860         6.736536e-04 1.223414e-05 5.216928e-04 3.381690e-04
-## GB1852         2.067517e-04 3.651874e-05 1.762679e-03 1.559244e-04
-## GB1854         1.035496e-04 3.718716e-05 1.054185e-04 8.786364e-05
-## GB1873         1.196315e-04 1.053119e-05 9.754686e-05 5.487589e-05
-## GB1875         1.075563e-04 5.694404e-06 8.310104e-05 1.058796e-04
-## HI1859         5.819802e-05 5.201322e-04 4.679756e-05 2.618831e-03
-## HI1897         3.214900e-04 2.060803e-04 3.600079e-04 2.386821e-03
-## IA1839         2.531091e-04 1.818806e-04 3.932348e-04 2.438449e-04
-## IA1851         2.392658e-04 5.012104e-05 3.410038e-04 2.302381e-03
-## IA1859         3.234438e-04 1.279210e-03 1.154439e-03 4.187057e-03
-## ID1864         3.427912e-04 2.436883e-03 5.110642e-04 1.444951e-01
-## ID1881         2.452416e-04 1.502153e-03 4.655981e-04 4.497185e-02
-## IL1866         4.511654e-03 7.174831e-05 9.761096e-04 5.410493e-04
-## IL1933         2.102500e-04 1.225380e-04 2.494534e-04 5.895931e-04
-## IN1843         9.364315e-04 9.857445e-06 8.144247e-04 6.809475e-04
-## IN1852         4.758369e-04 1.029997e-03 6.160677e-04 5.335181e-03
-## KS1859         4.236873e-04 1.961893e-03 1.896373e-03 1.384820e-02
-## KS1868         5.048205e-04 1.515388e-03 1.658896e-03 9.537846e-03
-## KY1851         3.345252e-04 3.193108e-03 1.385349e-03 5.563897e-03
-## KY1854         3.170700e-04 2.163306e-03 1.127603e-03 3.732454e-03
-## LA1825         5.946673e-05 0.000000e+00 4.219518e-05 5.465195e-05
-## LA1825french   5.754056e-05 3.345623e-06 2.194501e-05 1.816288e-05
-## LC1867         1.018014e-04 1.573178e-05 9.035838e-05 1.146967e-04
-## LC1867french   3.560469e-05 3.226743e-06 2.732976e-05 3.553667e-05
-## MA1836         3.838397e-04 2.530797e-05 3.548742e-04 3.310592e-04
-## MA1851         5.967115e-05 1.406450e-05 7.314032e-05 8.217970e-05
-## MA1858         3.852226e-04 2.156156e-05 3.783105e-04 3.586067e-04
-## MD1855         8.549666e-05 7.548765e-05 8.719240e-04 8.750438e-05
-## MD1859         2.121012e-04 3.286555e-05 4.256791e-04 1.553748e-04
-## ME1840         3.624291e-04 1.849591e-05 3.779189e-04 2.687718e-04
-## MI1853         1.536844e-04 1.835831e-04 1.981661e-04 5.684683e-04
-## MN1851         3.737095e-04 2.345550e-03 4.449388e-04 1.466951e-02
-## MN1859         4.942619e-04 4.818273e-03 7.874756e-04 2.617545e-02
-## MO1835         2.324717e-04 5.102978e-05 3.930268e-04 2.580321e-04
-## MO1849         1.973745e-04 8.457525e-03 7.460608e-04 8.001441e-03
-## MO1856         3.146246e-04 8.162686e-03 9.915931e-04 6.637014e-03
-## MO1879         3.914838e-04 5.337686e-03 8.618323e-04 4.998372e-03
-## MS1848                   NA 6.186218e-05 1.249519e-02 4.405048e-04
-## MS1850                   NA           NA 8.222797e-04 2.411375e-03
-## MS1857                   NA           NA           NA 7.373787e-04
-## MT1865                   NA           NA           NA           NA
-## MT1895                   NA           NA           NA           NA
-## NC1868                   NA           NA           NA           NA
-## ND1877                   NA           NA           NA           NA
-## ND1877extended           NA           NA           NA           NA
-## NE1857                   NA           NA           NA           NA
-## NE1859                   NA           NA           NA           NA
-## NE1866                   NA           NA           NA           NA
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      MT1895       NC1868       ND1877 ND1877extended
-## AK1900         1.422759e-02 1.243849e-02 1.343995e-02   1.134903e-02
-## AL1852         6.461708e-04 7.176644e-04 6.429355e-04   5.875062e-04
-## AR1868         4.411250e-03 4.896374e-03 6.314124e-03   4.888851e-03
-## AR1874         3.613446e-03 5.013998e-03 6.192649e-03   4.214194e-03
-## AZ1865         5.574758e-02 2.840264e-02 3.991346e-02   3.185520e-02
-## AZ1887         7.394618e-02 4.080526e-03 4.422212e-03   7.345341e-02
-## BI1859         1.458839e-04 1.885211e-04 1.638052e-04   1.622991e-04
-## CA1850         9.167605e-03 5.061781e-02 3.332885e-02   2.162103e-02
-## CA1851         5.400237e-02 3.121791e-02 4.307246e-02   3.344433e-02
-## CA1858         5.216768e-02 2.364756e-02 3.500593e-02   3.100857e-02
-## CA1868         5.059310e-02 1.824043e-02 2.920507e-02   2.759384e-02
-## CA1868extended 2.734214e-02 7.678656e-03 1.252849e-02   1.355364e-02
-## CA1872         1.920084e-01 1.606830e-02 4.246530e-02   9.249400e-02
-## CO1868         7.812240e-04 4.059522e-04 7.077081e-04   6.221127e-04
-## CO1877         3.075964e-02 1.733810e-02 2.037324e-02   1.486561e-02
-## CT1854         2.167467e-04 3.703539e-04 2.789658e-04   2.522121e-04
-## CT1879         7.700466e-05 4.455309e-04 4.323450e-04   2.712443e-04
-## CT1879extended 2.615762e-04 4.864264e-04 5.531867e-04   4.550554e-04
-## DC1857         1.201261e-02 1.736619e-02 1.915722e-02   1.585183e-02
-## DE1852         2.040921e-04 2.574577e-04 2.061634e-04   2.095031e-04
-## DT1862         7.233075e-03 1.200355e-02 3.092304e-02   2.154404e-02
-## DT1868         1.091705e-02 1.031717e-01 8.670704e-02   5.929494e-02
-## DT1887         4.302255e-02 2.735556e-02 7.531730e-02   1.140018e-01
-## FL1847         3.717237e-04 4.370523e-04 5.714520e-04   5.583599e-04
-## FL1870         1.261518e-02 1.421561e-01 8.484210e-02   5.830527e-02
-## FL1892         1.530031e-03 2.299274e-03 2.681543e-03   2.395819e-03
-## FR1806         3.643025e-05 1.561360e-05 2.096339e-05   2.403128e-05
-## GA1851         2.435369e-04 2.807438e-04 2.296208e-04   2.725086e-04
-## GA1860         3.355103e-04 3.110630e-04 3.247258e-04   3.371881e-04
-## GB1852         1.046429e-04 1.287979e-04 1.220807e-04   1.152273e-04
-## GB1854         6.531134e-05 6.906841e-05 1.131186e-04   9.072567e-05
-## GB1873         5.126109e-05 4.535202e-05 5.007776e-05   4.925075e-05
-## GB1875         1.474974e-04 9.710872e-05 1.266958e-04   1.355047e-04
-## HI1859         1.024533e-03 1.888067e-03 1.908056e-03   1.174251e-03
-## HI1897         1.197538e-03 2.325259e-03 2.094068e-03   1.467859e-03
-## IA1839         7.968373e-05 1.016591e-04 1.847510e-04   1.491938e-04
-## IA1851         2.441759e-03 1.391681e-03 2.852765e-03   2.319972e-03
-## IA1859         3.858852e-03 4.063756e-03 6.828656e-03   5.607664e-03
-## ID1864         3.713273e-02 1.736536e-02 2.480327e-02   2.216810e-02
-## ID1881         1.098935e-01 1.527353e-02 4.198860e-02   4.094122e-02
-## IL1866         9.673524e-04 3.658629e-04 6.581783e-04   5.967944e-04
-## IL1933         3.007301e-04 1.056303e-03 8.484221e-04   6.117919e-04
-## IN1843         6.288395e-04 7.335270e-04 6.543558e-04   7.189940e-04
-## IN1852         4.310960e-03 9.040612e-03 7.529991e-03   6.117491e-03
-## KS1859         7.049560e-03 1.259200e-02 2.675606e-02   1.884127e-02
-## KS1868         7.053462e-03 8.807178e-03 1.824546e-02   1.462900e-02
-## KY1851         5.310684e-03 6.175799e-03 8.503513e-03   6.119732e-03
-## KY1854         3.914112e-03 4.102229e-03 5.747998e-03   4.404416e-03
-## LA1825         4.718608e-05 4.999750e-05 3.273805e-05   3.542420e-05
-## LA1825french   4.249801e-05 2.244287e-05 3.905009e-05   4.387417e-05
-## LC1867         1.535216e-04 1.192259e-04 1.133497e-04   1.102417e-04
-## LC1867french   4.201840e-05 4.031571e-05 3.830144e-05   4.979310e-05
-## MA1836         6.012047e-04 4.241384e-04 5.648447e-04   5.761003e-04
-## MA1851         6.513358e-05 9.124147e-05 8.343862e-05   7.437808e-05
-## MA1858         5.966988e-04 4.078082e-04 4.922891e-04   5.865736e-04
-## MD1855         4.097778e-05 6.290849e-05 6.954523e-05   5.774828e-05
-## MD1859         9.770490e-05 1.618276e-04 1.014370e-04   9.531368e-05
-## ME1840         4.061045e-04 4.214511e-04 4.569895e-04   4.888673e-04
-## MI1853         1.481426e-04 6.770203e-04 3.821759e-04   3.082931e-04
-## MN1851         1.405429e-02 1.886187e-02 2.248627e-02   1.761631e-02
-## MN1859         2.273715e-02 3.310080e-02 4.007081e-02   3.119605e-02
-## MO1835         1.400940e-04 2.127532e-04 2.207451e-04   2.050225e-04
-## MO1849         3.465426e-03 1.469908e-02 9.205898e-03   6.054914e-03
-## MO1856         2.829123e-03 1.129104e-02 7.570446e-03   5.159306e-03
-## MO1879         2.150052e-03 7.469266e-03 5.102641e-03   3.559936e-03
-## MS1848         3.887980e-04 3.322056e-04 3.642326e-04   4.144444e-04
-## MS1850         7.334928e-04 6.640889e-03 4.325830e-03   2.626933e-03
-## MS1857         4.886320e-04 9.736014e-04 6.715820e-04   5.920488e-04
-## MT1865         3.588265e-02 1.739091e-02 2.717163e-02   2.213442e-02
-## MT1895                   NA 1.221263e-02 3.365032e-02   6.930232e-02
-## NC1868                   NA           NA 7.248628e-02   5.250673e-02
-## ND1877                   NA           NA           NA   5.926748e-01
-## ND1877extended           NA           NA           NA             NA
-## NE1857                   NA           NA           NA             NA
-## NE1859                   NA           NA           NA             NA
-## NE1866                   NA           NA           NA             NA
-## NH1842                   NA           NA           NA             NA
-## NJ1847                   NA           NA           NA             NA
-## NM1865                   NA           NA           NA             NA
-## NM1897                   NA           NA           NA             NA
-## NV1861                   NA           NA           NA             NA
-## NV1869                   NA           NA           NA             NA
-## NY1848                   NA           NA           NA             NA
-## NY1849                   NA           NA           NA             NA
-## NY1850                   NA           NA           NA             NA
-## NY1851                   NA           NA           NA             NA
-## NY1853                   NA           NA           NA             NA
-## NY1876                   NA           NA           NA             NA
-## NY1879                   NA           NA           NA             NA
-## OH1853                   NA           NA           NA             NA
-## OH1853extended           NA           NA           NA             NA
-## OH1879                   NA           NA           NA             NA
-## OK1891                   NA           NA           NA             NA
-## OK1893                   NA           NA           NA             NA
-## OR1854                   NA           NA           NA             NA
-## OR1862                   NA           NA           NA             NA
-## SC1870                   NA           NA           NA             NA
-## TN1858                   NA           NA           NA             NA
-## UT1853                   NA           NA           NA             NA
-## UT1870                   NA           NA           NA             NA
-## UT1884                   NA           NA           NA             NA
-## VA1841                   NA           NA           NA             NA
-## VA1860                   NA           NA           NA             NA
-## WA1855                   NA           NA           NA             NA
-## WA1873                   NA           NA           NA             NA
-## WI1849                   NA           NA           NA             NA
-## WI1856                   NA           NA           NA             NA
-## WI1858                   NA           NA           NA             NA
-## WOOD1857                 NA           NA           NA             NA
-## WV1868                   NA           NA           NA             NA
-## WY1870                   NA           NA           NA             NA
-## WY1886                   NA           NA           NA             NA
-##                      NE1857       NE1859       NE1866       NH1842
-## AK1900         1.349597e-03 4.367925e-03 3.834760e-03 1.509370e-04
-## AL1852         2.706971e-04 3.618126e-04 3.429457e-04 1.219804e-04
-## AR1868         4.942823e-04 2.757543e-02 1.847251e-02 1.524755e-04
-## AR1874         5.914144e-04 3.095152e-02 1.836148e-02 9.447724e-05
-## AZ1865         2.809569e-03 8.570621e-03 8.744105e-03 1.607246e-04
-## AZ1887         7.095873e-04 2.411504e-03 2.068905e-03 1.587550e-04
-## BI1859         1.092534e-04 1.764531e-04 1.593152e-04 8.473361e-05
-## CA1850         1.924152e-03 1.436941e-02 7.496990e-03 1.170094e-04
-## CA1851         3.103432e-03 1.031604e-02 9.042006e-03 1.549283e-04
-## CA1858         2.266338e-03 7.425411e-03 7.945377e-03 1.543369e-04
-## CA1868         1.878415e-03 5.853690e-03 6.230050e-03 1.435155e-04
-## CA1868extended 7.813927e-04 2.392070e-03 2.859056e-03 8.607660e-05
-## CA1872         2.421318e-03 8.727333e-03 6.685338e-03 1.533689e-04
-## CO1868         8.067992e-04 5.108632e-04 1.589279e-03 2.739335e-04
-## CO1877         2.022595e-03 8.289408e-03 6.079561e-03 1.330076e-04
-## CT1854         1.451715e-04 2.682052e-04 3.166050e-04 3.444766e-04
-## CT1879         3.392475e-05 3.763603e-04 2.229515e-04 1.159427e-05
-## CT1879extended 8.564699e-05 3.345874e-04 3.277846e-04 1.028785e-04
-## DC1857         4.569297e-03 3.046629e-02 2.173397e-02 3.276671e-04
-## DE1852         1.868231e-04 2.127955e-04 2.489430e-04 2.483500e-04
-## DT1862         1.280766e-02 3.487134e-01 1.871640e-01 2.298179e-04
-## DT1868         1.650330e-03 1.127234e-02 6.129086e-03 1.131550e-04
-## DT1887         2.578698e-03 1.063309e-02 8.282105e-03 1.234674e-04
-## FL1847         4.116884e-04 5.543823e-04 6.773859e-04 3.061589e-04
-## FL1870         1.920632e-03 1.364590e-02 7.954839e-03 1.588475e-04
-## FL1892         2.700936e-04 5.731518e-04 5.862624e-04 1.996240e-04
-## FR1806         2.180074e-05 3.167832e-05 3.228539e-05 2.206331e-05
-## GA1851         2.175148e-04 2.499494e-04 3.171361e-04 2.119869e-04
-## GA1860         3.012981e-04 3.468018e-04 4.213950e-04 2.012861e-04
-## GB1852         7.208123e-05 1.649289e-04 1.308485e-04 6.969321e-05
-## GB1854         8.645367e-05 1.090661e-04 9.244381e-05 4.905688e-05
-## GB1873         4.009864e-05 4.593565e-05 7.091002e-05 6.530292e-05
-## GB1875         5.735385e-05 9.469239e-05 1.037288e-04 5.984858e-05
-## HI1859         4.490658e-04 1.852756e-03 5.251616e-04 2.188567e-05
-## HI1897         3.534180e-04 1.647066e-03 6.723321e-04 2.904921e-04
-## IA1839         2.501484e-04 2.920466e-04 2.503838e-04 1.252894e-04
-## IA1851         1.780456e-01 9.052919e-03 2.133279e-02 1.602096e-04
-## IA1859         7.021212e-02 2.136524e-02 2.579522e-02 1.527155e-04
-## ID1864         1.959579e-03 6.588446e-03 6.845379e-03 1.144318e-04
-## ID1881         2.254996e-03 8.011249e-03 6.044496e-03 1.246730e-04
-## IL1866         3.677342e-04 4.700364e-04 1.489108e-03 3.043578e-04
-## IL1933         1.986930e-04 8.111425e-04 7.153420e-04 8.441172e-05
-## IN1843         1.034982e-03 6.740259e-04 2.418256e-03 3.058580e-04
-## IN1852         3.166091e-03 8.604669e-03 6.742466e-03 2.734471e-04
-## KS1859         5.618678e-03 2.655671e-01 1.761313e-01 2.093502e-04
-## KS1868         5.602051e-03 1.291235e-01 1.246223e-01 2.359217e-04
-## KY1851         6.022334e-04 4.502333e-02 2.411689e-02 1.393336e-04
-## KY1854         4.895486e-04 3.057960e-02 1.609876e-02 1.268705e-04
-## LA1825         4.225382e-05 3.072826e-05 4.830406e-05 4.007502e-05
-## LA1825french   1.985317e-05 2.364686e-05 3.099910e-05 2.004628e-05
-## LC1867         8.893990e-05 9.296023e-05 1.361216e-04 8.121984e-05
-## LC1867french   3.015065e-05 3.570049e-05 3.846598e-05 4.348185e-05
-## MA1836         3.676131e-04 3.576828e-04 5.382159e-04 8.385186e-04
-## MA1851         6.207710e-05 1.095355e-04 8.309293e-05 6.330287e-05
-## MA1858         3.615955e-04 3.861223e-04 5.516487e-04 6.839945e-04
-## MD1855         8.610532e-05 1.075241e-04 8.152510e-05 3.236171e-05
-## MD1859         1.114879e-04 2.465983e-04 2.054319e-04 9.957042e-05
-## ME1840         3.238038e-04 4.036747e-04 4.497333e-04 1.422544e-03
-## MI1853         1.507978e-04 3.165505e-04 3.148501e-04 7.478499e-05
-## MN1851         5.619188e-03 7.056270e-03 6.976296e-03 2.049551e-04
-## MN1859         1.032583e-02 1.085314e-02 1.172351e-02 2.868236e-04
-## MO1835         2.972063e-04 2.800877e-04 3.617567e-04 1.209541e-04
-## MO1849         1.268309e-03 6.902134e-03 3.815833e-03 8.376472e-05
-## MO1856         1.142682e-03 6.365227e-03 4.232149e-03 1.182090e-04
-## MO1879         1.072659e-03 4.558187e-03 3.173437e-03 1.255340e-04
-## MS1848         2.953133e-04 4.426438e-04 6.416549e-04 2.246483e-04
-## MS1850         6.293014e-05 2.755886e-03 1.299491e-03 2.933653e-05
-## MS1857         4.509248e-04 1.998717e-03 1.402922e-03 2.978307e-04
-## MT1865         2.466803e-03 9.290127e-03 9.462817e-03 1.362335e-04
-## MT1895         2.413325e-03 6.751012e-03 6.066750e-03 1.554645e-04
-## NC1868         1.524439e-03 1.169596e-02 7.242345e-03 1.600276e-04
-## ND1877         5.824629e-03 2.807857e-02 1.837767e-02 1.724661e-04
-## ND1877extended 4.495572e-03 1.979692e-02 1.477662e-02 1.635601e-04
-## NE1857                   NA 1.187799e-02 4.438624e-02 1.354534e-04
-## NE1859                   NA           NA 1.763568e-01 2.257504e-04
-## NE1866                   NA           NA           NA 2.167733e-04
-## NH1842                   NA           NA           NA           NA
-## NJ1847                   NA           NA           NA           NA
-## NM1865                   NA           NA           NA           NA
-## NM1897                   NA           NA           NA           NA
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      NJ1847       NM1865       NM1897       NV1861
-## AK1900         1.740576e-04 1.097697e-04 4.968813e-03 1.943022e-02
-## AL1852         2.079456e-04 3.761901e-04 4.749503e-04 6.286012e-04
-## AR1868         2.050496e-04 1.906616e-04 4.858806e-03 5.110688e-03
-## AR1874         1.227705e-04 1.529344e-04 6.100559e-03 5.301558e-03
-## AZ1865         1.826446e-04 2.065070e-04 4.848630e-03 2.528169e-01
-## AZ1887         2.547960e-04 3.520507e-04 3.361256e-03 1.112708e-02
-## BI1859         1.878164e-04 6.527022e-05 1.639643e-04 1.573119e-04
-## CA1850         1.829020e-04 3.647638e-04 5.946677e-03 3.240712e-02
-## CA1851         2.085479e-04 1.576815e-04 5.771973e-03 2.334492e-01
-## CA1858         1.950728e-04 2.062816e-04 3.459997e-03 2.263064e-01
-## CA1868         1.917160e-04 1.122197e-04 3.008787e-03 1.565825e-01
-## CA1868extended 1.166950e-04 4.968498e-05 1.587875e-03 5.658463e-02
-## CA1872         1.993798e-04 1.152410e-04 4.118846e-03 8.066108e-02
-## CO1868         2.570787e-03 4.038982e-04 1.423978e-03 4.464967e-04
-## CO1877         2.430380e-04 2.771479e-04 4.879269e-03 9.993591e-02
-## CT1854         1.925315e-04 2.976092e-04 3.099972e-04 3.478075e-04
-## CT1879         2.486041e-05 3.085753e-05 3.544295e-04 1.659529e-04
-## CT1879extended 8.355290e-05 4.757412e-05 3.866419e-04 3.336479e-04
-## DC1857         2.685687e-04 3.953431e-04 5.300584e-03 2.534217e-02
-## DE1852         2.508945e-04 1.258776e-04 3.279201e-04 2.192999e-04
-## DT1862         4.592992e-04 2.986203e-04 9.800436e-03 1.002987e-02
-## DT1868         1.574834e-04 1.504761e-04 9.021674e-03 2.323045e-02
-## DT1887         2.234202e-04 1.018882e-04 3.321214e-03 1.820890e-02
-## FL1847         5.399307e-04 4.414595e-04 9.613692e-04 4.329593e-04
-## FL1870         2.022671e-04 1.320006e-04 1.149820e-02 3.095628e-02
-## FL1892         6.454965e-04 3.722118e-04 1.227605e-03 7.132599e-04
-## FR1806         2.044885e-05 1.176872e-05 3.232931e-05 2.058602e-05
-## GA1851         4.031487e-04 1.890746e-04 5.336296e-04 1.819569e-04
-## GA1860         2.591365e-04 2.139385e-04 1.294854e-03 3.590671e-04
-## GB1852         8.625419e-04 8.924040e-05 1.955958e-04 1.438300e-04
-## GB1854         1.247564e-04 7.279307e-05 1.525330e-03 9.697370e-05
-## GB1873         1.169492e-04 3.640653e-05 5.565435e-05 5.318999e-05
-## GB1875         9.436241e-05 4.319183e-05 9.786049e-05 1.180914e-04
-## HI1859         6.622986e-05 5.327438e-05 7.972227e-04 4.429528e-03
-## HI1897         9.619064e-04 1.818324e-04 2.373502e-03 3.628952e-03
-## IA1839         9.343048e-04 2.503946e-04 1.958893e-04 1.459210e-04
-## IA1851         1.665953e-04 1.736463e-04 2.961517e-03 2.450615e-03
-## IA1859         1.860458e-04 1.845210e-04 7.420366e-03 4.308850e-03
-## ID1864         2.031032e-04 1.828271e-04 3.124801e-03 2.247938e-01
-## ID1881         1.691023e-04 8.943528e-05 4.630128e-03 7.205464e-02
-## IL1866         5.236864e-03 4.502830e-04 1.873036e-03 4.123121e-04
-## IL1933         1.561062e-04 1.577804e-04 6.426751e-04 5.159750e-04
-## IN1843         5.960006e-04 1.966384e-04 1.628773e-03 6.856545e-04
-## IN1852         3.488065e-04 3.342614e-03 4.189323e-03 5.853841e-03
-## KS1859         4.436435e-04 2.426135e-04 9.123535e-03 1.137887e-02
-## KS1868         4.308462e-04 2.397791e-04 7.013190e-03 8.992403e-03
-## KY1851         1.688515e-04 1.520116e-04 5.709043e-03 5.715506e-03
-## KY1854         1.925214e-04 1.580819e-04 4.151913e-03 4.078160e-03
-## LA1825         2.978200e-05 1.500240e-05 4.737363e-05 4.009864e-05
-## LA1825french   3.559613e-05 2.930111e-06 2.236448e-05 3.438067e-05
-## LC1867         5.035186e-05 3.609046e-05 1.316344e-04 1.198296e-04
-## LC1867french   3.274709e-05 1.135419e-05 4.220984e-05 3.554318e-05
-## MA1836         2.175488e-04 1.723243e-04 8.982848e-04 3.277933e-04
-## MA1851         4.403717e-05 1.762332e-05 4.131892e-04 8.115044e-05
-## MA1858         1.945279e-04 1.285761e-04 9.676188e-04 3.316397e-04
-## MD1855         1.143272e-04 5.523794e-05 9.179523e-05 7.906850e-05
-## MD1859         2.129410e-04 1.840675e-04 1.515165e-04 1.366092e-04
-## ME1840         2.027841e-04 1.799728e-04 5.622850e-04 2.933086e-04
-## MI1853         1.260447e-04 6.931248e-05 4.019546e-04 4.644499e-04
-## MN1851         1.103012e-03 1.211907e-04 5.829326e-03 2.173615e-02
-## MN1859         3.362870e-04 2.606943e-04 1.067892e-02 3.854810e-02
-## MO1835         4.483640e-04 2.850363e-04 5.822655e-03 2.107952e-04
-## MO1849         9.349779e-05 2.365184e-04 6.061756e-03 9.808660e-03
-## MO1856         3.140955e-04 3.558370e-04 2.435981e-02 7.509562e-03
-## MO1879         3.044314e-04 5.585781e-04 2.190673e-02 5.598266e-03
-## MS1848         1.165817e-03 4.383776e-04 7.246937e-04 3.404275e-04
-## MS1850         5.023434e-06 2.390781e-04 3.699689e-03 3.822110e-03
-## MS1857         1.549355e-03 4.188521e-04 9.273570e-04 7.761874e-04
-## MT1865         2.376138e-04 3.200938e-04 3.752598e-03 1.868631e-01
-## MT1895         2.278078e-04 1.084316e-04 3.562929e-03 5.697411e-02
-## NC1868         2.231039e-04 1.507462e-04 9.571459e-03 2.660216e-02
-## ND1877         2.395034e-04 1.894889e-04 8.033848e-03 3.678616e-02
-## ND1877extended 2.437925e-04 1.996364e-04 6.388028e-03 3.228305e-02
-## NE1857         2.291858e-04 2.118371e-04 2.660158e-03 2.600134e-03
-## NE1859         4.408579e-04 3.493969e-04 9.256570e-03 9.131345e-03
-## NE1866         4.601529e-04 1.990858e-04 6.300759e-03 9.371914e-03
-## NH1842         2.033988e-04 9.398187e-05 2.849538e-04 1.670700e-04
-## NJ1847                   NA 2.195517e-04 3.386675e-04 2.218849e-04
-## NM1865                   NA           NA 4.555437e-02 2.505629e-04
-## NM1897                   NA           NA           NA 5.360070e-03
-## NV1861                   NA           NA           NA           NA
-## NV1869                   NA           NA           NA           NA
-## NY1848                   NA           NA           NA           NA
-## NY1849                   NA           NA           NA           NA
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      NV1869       NY1848       NY1849       NY1850
-## AK1900         1.693256e-02 7.140434e-03 1.131492e-02 2.683580e-02
-## AL1852         6.681586e-04 1.979682e-04 5.043351e-04 1.311770e-03
-## AR1868         4.429668e-03 3.734309e-03 4.095505e-03 6.005774e-03
-## AR1874         4.641286e-03 5.001728e-03 4.492223e-03 4.178469e-03
-## AZ1865         2.362816e-01 2.111583e-02 2.990172e-02 4.861322e-02
-## AZ1887         1.084408e-02 2.679679e-03 3.218646e-03 3.361618e-03
-## BI1859         1.804418e-04 1.557668e-04 1.716910e-04 1.390462e-04
-## CA1850         2.712344e-02 5.349001e-02 7.635953e-02 2.235162e-02
-## CA1851         2.072296e-01 2.387731e-02 3.522889e-02 5.430098e-02
-## CA1858         1.912201e-01 1.680525e-02 2.475074e-02 4.637137e-02
-## CA1868         1.503774e-01 1.129547e-02 1.794364e-02 3.493825e-02
-## CA1868extended 5.329812e-02 4.097281e-03 6.997747e-03 1.853481e-02
-## CA1872         7.575279e-02 1.016040e-02 1.669854e-02 7.686598e-02
-## CO1868         4.248302e-04 2.323649e-04 3.178374e-04 2.891820e-04
-## CO1877         9.012480e-02 1.212097e-02 1.574692e-02 2.062575e-02
-## CT1854         3.595373e-04 2.865007e-04 2.733784e-04 2.103984e-04
-## CT1879         1.512330e-04 3.570320e-04 3.333925e-04 1.157074e-04
-## CT1879extended 3.432213e-04 3.708050e-04 3.223694e-04 2.945066e-04
-## DC1857         2.374415e-02 1.017322e-02 1.504394e-02 1.640566e-02
-## DE1852         1.863028e-04 1.579626e-04 1.400114e-04 2.201186e-04
-## DT1862         9.706654e-03 7.387550e-03 1.167235e-02 1.213896e-02
-## DT1868         2.111612e-02 4.572826e-02 8.668598e-02 3.245433e-02
-## DT1887         1.735283e-02 1.180053e-02 2.248548e-02 1.883270e-02
-## FL1847         3.277938e-04 1.807248e-04 2.407632e-04 2.869847e-04
-## FL1870         2.843553e-02 5.751208e-02 1.098314e-01 4.049781e-02
-## FL1892         6.888735e-04 1.153969e-03 3.795292e-03 1.545213e-03
-## FR1806         1.897722e-05 2.194502e-05 1.861098e-05 4.852261e-05
-## GA1851         1.980743e-04 9.835298e-05 1.273223e-04 1.933470e-04
-## GA1860         3.303367e-04 1.315313e-04 1.549499e-04 2.658033e-04
-## GB1852         1.474389e-04 9.040291e-05 1.031652e-04 9.476590e-05
-## GB1854         7.229805e-05 3.744524e-05 4.600387e-05 5.581343e-05
-## GB1873         4.605581e-05 3.475567e-05 8.122691e-05 5.829417e-05
-## GB1875         9.639311e-05 6.336706e-05 6.993184e-05 1.326461e-04
-## HI1859         3.499464e-03 1.576243e-03 1.704377e-03 1.563441e-03
-## HI1897         2.776926e-03 1.635053e-03 1.849149e-03 1.647353e-03
-## IA1839         1.315311e-04 5.130178e-05 8.917174e-05 5.618732e-05
-## IA1851         2.502803e-03 9.159217e-04 1.282189e-03 3.973821e-03
-## IA1859         4.098542e-03 2.821868e-03 3.628883e-03 5.285772e-03
-## ID1864         1.332329e-01 1.272995e-02 1.840725e-02 2.968467e-02
-## ID1881         7.037157e-02 1.041043e-02 1.540503e-02 4.273676e-02
-## IL1866         4.350370e-04 2.267193e-04 3.571894e-04 3.207096e-04
-## IL1933         4.738836e-04 9.183459e-04 9.833977e-04 4.289451e-04
-## IN1843         5.836704e-04 1.986022e-04 4.858098e-04 9.943700e-04
-## IN1852         5.922006e-03 4.815014e-03 7.336379e-03 7.912062e-03
-## KS1859         1.088219e-02 7.426934e-03 1.240904e-02 1.194569e-02
-## KS1868         8.756624e-03 4.216859e-03 8.085355e-03 1.296264e-02
-## KY1851         5.138910e-03 5.298252e-03 6.238531e-03 7.574776e-03
-## KY1854         3.530032e-03 3.760524e-03 3.529662e-03 5.597563e-03
-## LA1825         4.154549e-05 2.116780e-05 3.609857e-05 5.518392e-05
-## LA1825french   3.346997e-05 1.973618e-05 2.810902e-05 4.493791e-05
-## LC1867         1.195886e-04 6.128274e-05 7.893742e-05 1.397195e-04
-## LC1867french   4.432248e-05 3.122343e-05 2.534330e-05 4.216923e-05
-## MA1836         3.030747e-04 2.170539e-04 3.419329e-04 5.446782e-04
-## MA1851         6.068806e-05 9.011952e-05 6.817649e-05 4.378475e-05
-## MA1858         3.096594e-04 2.293087e-04 3.569940e-04 5.509142e-04
-## MD1855         6.902615e-05 5.790824e-05 9.572792e-05 4.106639e-05
-## MD1859         1.482294e-04 8.368301e-05 1.247622e-04 6.901110e-05
-## ME1840         2.812739e-04 1.949978e-04 3.156727e-04 3.594328e-04
-## MI1853         3.827346e-04 8.353972e-04 8.602487e-04 3.824108e-04
-## MN1851         1.994775e-02 1.246910e-02 2.187310e-02 5.623877e-02
-## MN1859         3.303893e-02 2.130928e-02 3.707902e-02 1.052229e-01
-## MO1835         2.345651e-04 1.418690e-04 1.605848e-04 1.465586e-04
-## MO1849         8.812528e-03 2.818474e-02 2.078285e-02 6.925872e-03
-## MO1856         7.277238e-03 1.408224e-02 1.173075e-02 4.581764e-03
-## MO1879         4.978739e-03 9.505782e-03 7.179793e-03 3.223277e-03
-## MS1848         2.774248e-04 1.599508e-04 2.404074e-04 2.915749e-04
-## MS1850         2.696808e-03 9.166574e-03 1.337439e-02 2.072537e-03
-## MS1857         6.767421e-04 6.261684e-04 7.019580e-04 4.633636e-04
-## MT1865         1.330729e-01 1.202407e-02 1.734535e-02 2.991026e-02
-## MT1895         5.505302e-02 7.195168e-03 1.129984e-02 5.262980e-02
-## NC1868         2.396087e-02 3.950420e-02 8.108672e-02 3.510351e-02
-## ND1877         3.648520e-02 3.006262e-02 5.763979e-02 3.785967e-02
-## ND1877extended 3.067456e-02 2.023908e-02 4.016505e-02 3.259084e-02
-## NE1857         2.803243e-03 1.245933e-03 1.524156e-03 3.672391e-03
-## NE1859         8.697780e-03 7.638521e-03 1.166015e-02 1.215890e-02
-## NE1866         8.523645e-03 4.177363e-03 7.085859e-03 1.194987e-02
-## NH1842         1.502293e-04 9.390655e-05 1.227549e-04 1.601939e-04
-## NJ1847         2.328380e-04 1.080228e-04 1.461609e-04 1.986917e-04
-## NM1865         1.913594e-04 6.501144e-05 7.510891e-05 7.186907e-05
-## NM1897         4.711434e-03 5.543501e-03 5.667042e-03 5.893452e-03
-## NV1861         2.324627e-01 1.906535e-02 2.721128e-02 4.467524e-02
-## NV1869                   NA 1.692852e-02 2.370645e-02 4.060266e-02
-## NY1848                   NA           NA 9.226679e-02 2.706236e-02
-## NY1849                   NA           NA           NA 4.618464e-02
-## NY1850                   NA           NA           NA           NA
-## NY1851                   NA           NA           NA           NA
-## NY1853                   NA           NA           NA           NA
-## NY1876                   NA           NA           NA           NA
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      NY1851       NY1853       NY1876       NY1879
-## AK1900         1.226681e-02 2.222498e-02 1.719259e-03 1.365472e-03
-## AL1852         7.065882e-04 1.227769e-03 2.529135e-04 2.181463e-04
-## AR1868         4.392682e-03 4.984112e-03 1.007446e-03 8.002023e-04
-## AR1874         5.068064e-03 3.713713e-03 7.606363e-04 5.921524e-04
-## AZ1865         2.990620e-02 4.441754e-02 2.123575e-03 1.679973e-03
-## AZ1887         3.876144e-03 3.184877e-03 6.233159e-04 5.467506e-04
-## BI1859         1.626930e-04 1.395418e-04 1.085734e-04 9.037080e-05
-## CA1850         6.273325e-02 2.123223e-02 2.273608e-03 1.662515e-03
-## CA1851         3.450012e-02 4.917600e-02 2.437974e-03 1.854951e-03
-## CA1858         2.595129e-02 4.201449e-02 2.072281e-03 1.603131e-03
-## CA1868         1.831378e-02 3.132749e-02 1.657086e-03 1.308944e-03
-## CA1868extended 7.229666e-03 1.584689e-02 1.131842e-03 9.164767e-04
-## CA1872         1.740170e-02 4.735668e-02 3.699580e-03 2.561610e-03
-## CO1868         2.734300e-04 2.760194e-04 2.134479e-04 1.900679e-04
-## CO1877         1.851433e-02 1.900725e-02 1.411975e-03 1.058417e-03
-## CT1854         2.778673e-04 1.929325e-04 1.259190e-04 1.165129e-04
-## CT1879         3.030414e-04 1.165131e-04 1.830218e-04 1.213005e-04
-## CT1879extended 3.862801e-04 2.921338e-04 3.306639e-04 2.218309e-04
-## DC1857         1.670918e-02 1.515891e-02 1.708567e-03 1.316901e-03
-## DE1852         2.169566e-04 2.156219e-04 1.368853e-04 1.186071e-04
-## DT1862         1.339633e-02 1.072160e-02 1.358071e-03 9.648203e-04
-## DT1868         1.012325e-01 3.178851e-02 4.255308e-03 3.179302e-03
-## DT1887         2.511296e-02 1.759351e-02 2.621356e-03 1.903267e-03
-## FL1847         2.486864e-04 2.924154e-04 2.307802e-04 1.921640e-04
-## FL1870         1.298130e-01 3.918063e-02 4.380208e-03 3.275135e-03
-## FL1892         2.835612e-03 1.536112e-03 8.366276e-04 5.196879e-04
-## FR1806         1.834651e-05 4.015163e-05 4.701934e-05 3.565384e-05
-## GA1851         1.208578e-04 1.886884e-04 1.688344e-04 1.620220e-04
-## GA1860         1.371214e-04 2.354989e-04 1.875525e-04 1.789244e-04
-## GB1852         1.078752e-04 1.036165e-04 7.428829e-05 7.835097e-05
-## GB1854         4.937296e-05 5.146260e-05 4.025573e-05 3.954995e-05
-## GB1873         6.819215e-05 6.615091e-05 4.354660e-05 2.762961e-05
-## GB1875         9.611780e-05 1.242917e-04 1.125952e-04 1.071382e-04
-## HI1859         2.011753e-03 1.330894e-03 1.724287e-04 1.451184e-04
-## HI1897         2.045859e-03 1.460148e-03 3.913223e-04 3.106748e-04
-## IA1839         6.865051e-05 6.258740e-05 3.601316e-05 2.211082e-05
-## IA1851         1.374843e-03 3.423553e-03 5.698411e-04 4.311105e-04
-## IA1859         3.763458e-03 4.785937e-03 9.494017e-04 7.594942e-04
-## ID1864         1.822987e-02 2.731908e-02 1.633991e-03 1.343127e-03
-## ID1881         1.624093e-02 3.565291e-02 3.210679e-03 2.326747e-03
-## IL1866         3.215963e-04 3.248252e-04 2.328133e-04 2.182743e-04
-## IL1933         1.085422e-03 4.763517e-04 3.219945e-04 2.662584e-04
-## IN1843         5.454920e-04 9.629773e-04 4.375146e-04 3.273516e-04
-## IN1852         8.470089e-03 7.135609e-03 9.662612e-04 7.895141e-04
-## KS1859         1.413349e-02 1.117330e-02 1.390887e-03 1.005571e-03
-## KS1868         9.189896e-03 1.179232e-02 1.284862e-03 9.583048e-04
-## KY1851         6.376110e-03 6.163553e-03 1.294454e-03 9.518426e-04
-## KY1854         3.923216e-03 4.406096e-03 8.990654e-04 7.104907e-04
-## LA1825         3.051486e-05 4.087344e-05 4.636465e-05 3.516438e-05
-## LA1825french   1.709723e-05 3.586308e-05 3.712520e-05 4.095776e-05
-## LC1867         8.627561e-05 1.450197e-04 1.187576e-04 1.140866e-04
-## LC1867french   3.758504e-05 3.782144e-05 4.855306e-05 5.432560e-05
-## MA1836         3.514960e-04 5.440326e-04 3.327946e-04 2.856417e-04
-## MA1851         9.995877e-05 4.648472e-05 2.616131e-05 2.142823e-05
-## MA1858         3.391546e-04 5.235695e-04 4.245470e-04 3.611650e-04
-## MD1855         8.076755e-05 4.166826e-05 3.952170e-05 3.596398e-05
-## MD1859         9.571251e-05 8.412655e-05 5.459047e-05 5.074339e-05
-## ME1840         2.757016e-04 3.561723e-04 2.560790e-04 2.213794e-04
-## MI1853         6.876523e-04 3.170325e-04 1.538266e-04 1.198018e-04
-## MN1851         2.088377e-02 5.076595e-02 2.110659e-03 1.515586e-03
-## MN1859         3.498709e-02 9.173261e-02 3.423088e-03 2.584606e-03
-## MO1835         1.648162e-04 1.398802e-04 2.210458e-04 1.898805e-04
-## MO1849         1.857458e-02 6.097366e-03 1.139225e-03 7.809482e-04
-## MO1856         1.171355e-02 4.389221e-03 1.091177e-03 7.356073e-04
-## MO1879         6.855924e-03 3.149870e-03 8.365812e-04 6.011469e-04
-## MS1848         2.101302e-04 2.678082e-04 2.229334e-04 2.195908e-04
-## MS1850         8.112122e-03 1.812265e-03 4.159734e-04 2.634324e-04
-## MS1857         8.609700e-04 4.438854e-04 3.371428e-04 3.136041e-04
-## MT1865         1.820019e-02 2.813389e-02 1.745350e-03 1.306793e-03
-## MT1895         1.220994e-02 3.313123e-02 1.200065e-02 9.299584e-03
-## NC1868         9.335545e-02 3.297158e-02 3.961209e-03 2.881407e-03
-## ND1877         6.674861e-02 3.574245e-02 5.094421e-03 3.820643e-03
-## ND1877extended 4.651439e-02 3.009151e-02 4.412338e-03 3.338763e-03
-## NE1857         2.165638e-03 3.144677e-03 5.155714e-04 3.684176e-04
-## NE1859         1.345745e-02 1.056681e-02 1.476764e-03 1.166168e-03
-## NE1866         7.651984e-03 1.068667e-02 1.248185e-03 9.174484e-04
-## NH1842         1.561538e-04 1.646841e-04 9.780026e-05 1.025919e-04
-## NJ1847         1.603130e-04 2.060159e-04 1.630122e-04 1.497823e-04
-## NM1865         7.335174e-05 8.210037e-05 5.296649e-05 5.060399e-05
-## NM1897         8.143632e-03 5.717256e-03 1.247589e-03 9.669237e-04
-## NV1861         2.750026e-02 4.039598e-02 2.185757e-03 1.789313e-03
-## NV1869         2.503235e-02 3.707658e-02 2.069587e-03 1.638415e-03
-## NY1848         7.558042e-02 2.327409e-02 2.690807e-03 2.031243e-03
-## NY1849         2.030155e-01 4.179776e-02 4.705378e-03 3.426666e-03
-## NY1850         4.763585e-02 3.980071e-01 5.447134e-03 3.932206e-03
-## NY1851                   NA 4.560791e-02 5.173299e-03 3.699256e-03
-## NY1853                   NA           NA 5.269602e-03 3.817617e-03
-## NY1876                   NA           NA           NA 3.106580e-01
-## NY1879                   NA           NA           NA           NA
-## OH1853                   NA           NA           NA           NA
-## OH1853extended           NA           NA           NA           NA
-## OH1879                   NA           NA           NA           NA
-## OK1891                   NA           NA           NA           NA
-## OK1893                   NA           NA           NA           NA
-## OR1854                   NA           NA           NA           NA
-## OR1862                   NA           NA           NA           NA
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      OH1853 OH1853extended       OH1879       OK1891
-## AK1900         4.394552e-03   4.355156e-03 1.904122e-03 3.806357e-03
-## AL1852         4.031286e-04   4.158865e-04 3.820887e-04 5.039317e-04
-## AR1868         2.960888e-02   2.473884e-02 7.569056e-03 8.349242e-03
-## AR1874         3.249808e-02   2.384697e-02 5.416547e-03 9.810374e-03
-## AZ1865         9.142234e-03   1.103301e-02 3.569330e-03 9.746918e-03
-## AZ1887         2.673366e-03   2.347960e-03 1.438318e-03 2.205813e-03
-## BI1859         1.715100e-04   2.001387e-04 1.339766e-04 2.126298e-04
-## CA1850         1.464719e-02   1.055168e-02 2.370146e-03 7.722076e-03
-## CA1851         1.127988e-02   1.215282e-02 3.690386e-03 1.022045e-02
-## CA1858         8.222081e-03   9.936373e-03 3.399154e-03 1.200718e-02
-## CA1868         6.347018e-03   7.819023e-03 3.000507e-03 1.006500e-02
-## CA1868extended 2.536414e-03   3.337830e-03 1.863278e-03 4.332344e-03
-## CA1872         8.613359e-03   9.176647e-03 3.920692e-03 1.595379e-02
-## CO1868         5.275639e-04   5.377041e-04 4.536442e-04 6.294168e-04
-## CO1877         8.151930e-03   6.475644e-03 2.326398e-03 7.982489e-03
-## CT1854         7.326073e-04   6.410835e-04 2.332374e-04 2.467876e-04
-## CT1879         3.596350e-04   2.523199e-04 5.530702e-05 1.479116e-04
-## CT1879extended 3.701918e-04   3.523879e-04 2.546681e-04 3.164346e-04
-## DC1857         3.173921e-02   2.814735e-02 8.885123e-03 3.247290e-02
-## DE1852         2.321470e-04   2.597606e-04 2.502209e-04 4.409125e-04
-## DT1862         3.005525e-01   2.237548e-01 3.503699e-02 9.520111e-03
-## DT1868         1.167518e-02   9.147691e-03 2.561787e-03 7.277040e-03
-## DT1887         9.692016e-03   9.442926e-03 3.622707e-03 1.633714e-02
-## FL1847         5.897518e-04   7.141072e-04 5.752751e-04 8.020358e-04
-## FL1870         1.482347e-02   1.182945e-02 3.432161e-03 9.343292e-03
-## FL1892         6.074355e-04   6.660368e-04 5.924688e-04 9.389446e-04
-## FR1806         2.921988e-05   3.364822e-05 3.785815e-05 2.685007e-05
-## GA1851         2.863496e-04   4.348009e-04 3.982404e-04 2.729814e-04
-## GA1860         3.810820e-04   4.459978e-04 3.748455e-04 6.782862e-04
-## GB1852         1.562443e-04   1.375481e-04 9.481859e-05 1.211401e-04
-## GB1854         8.268145e-05   9.786991e-05 6.745706e-05 1.158173e-04
-## GB1873         6.953136e-05   6.705278e-05 4.965198e-05 6.190724e-05
-## GB1875         9.706646e-05   9.932314e-05 1.269331e-04 1.151435e-04
-## HI1859         2.002599e-03   1.354578e-03 3.751607e-04 6.678950e-04
-## HI1897         1.708488e-03   1.325749e-03 5.075203e-04 8.139253e-04
-## IA1839         4.312426e-04   3.553421e-04 1.582177e-04 1.981475e-04
-## IA1851         1.774985e-03   1.717461e-03 6.948835e-04 3.727270e-03
-## IA1859         1.903680e-02   1.634134e-02 5.620046e-03 7.277233e-03
-## ID1864         6.575356e-03   7.472289e-03 2.705528e-03 9.925697e-03
-## ID1881         8.449351e-03   8.324392e-03 3.105226e-03 1.434005e-02
-## IL1866         4.823554e-04   5.704873e-04 5.126649e-04 5.630248e-04
-## IL1933         8.632862e-04   7.192134e-04 3.536401e-04 6.194076e-04
-## IN1843         7.253322e-04   3.256036e-03 1.943140e-03 8.319689e-03
-## IN1852         8.285220e-03   7.219946e-03 4.504532e-03 1.064275e-01
-## KS1859         2.951908e-01   2.218872e-01 3.483747e-02 9.894929e-03
-## KS1868         1.385223e-01   1.615014e-01 4.066278e-02 1.022206e-02
-## KY1851         4.775867e-02   3.748120e-02 8.878731e-03 1.009550e-02
-## KY1854         3.017350e-02   2.501759e-02 7.187348e-03 7.601400e-03
-## LA1825         2.060947e-05   3.899700e-05 5.120908e-05 4.126666e-05
-## LA1825french   1.944571e-05   2.669619e-05 5.228892e-05 3.948843e-05
-## LC1867         1.058709e-04   1.153661e-04 1.217364e-04 8.138125e-05
-## LC1867french   2.532522e-05   3.491102e-05 5.358244e-05 3.393731e-05
-## MA1836         4.248734e-04   7.792656e-04 9.634491e-04 6.887915e-04
-## MA1851         1.574455e-04   1.227343e-04 5.218529e-05 6.052998e-05
-## MA1858         4.387798e-04   6.043535e-04 9.186262e-04 7.006995e-04
-## MD1855         9.993265e-05   9.416654e-05 7.230877e-05 7.464457e-05
-## MD1859         2.669835e-04   2.254638e-04 1.267601e-04 1.352433e-04
-## ME1840         4.199666e-04   4.223807e-04 8.773826e-04 8.929489e-04
-## MI1853         2.749388e-04   2.667385e-04 1.735640e-04 1.364899e-04
-## MN1851         7.370347e-03   6.439181e-03 2.232483e-03 3.858775e-03
-## MN1859         1.142324e-02   9.922628e-03 3.306875e-03 7.094953e-03
-## MO1835         3.895777e-04   3.547151e-04 2.125858e-04 2.507479e-04
-## MO1849         7.207724e-03   5.230410e-03 1.285789e-03 3.285315e-03
-## MO1856         7.112652e-03   5.327163e-03 1.823649e-03 2.684307e-03
-## MO1879         5.195187e-03   3.983443e-03 1.275338e-03 2.127315e-03
-## MS1848         4.379634e-04   6.371857e-04 5.280280e-04 4.734075e-04
-## MS1850         3.069505e-03   2.061666e-03 5.498170e-04 8.480527e-04
-## MS1857         1.984939e-03   1.748883e-03 7.115583e-04 6.380648e-04
-## MT1865         1.062269e-02   1.131431e-02 3.646271e-03 9.368288e-03
-## MT1895         6.723330e-03   7.208771e-03 5.246951e-03 1.196879e-02
-## NC1868         1.296738e-02   1.075059e-02 3.358485e-03 7.964581e-03
-## ND1877         2.637230e-02   2.161963e-02 6.142730e-03 7.728914e-03
-## ND1877extended 1.858591e-02   1.731081e-02 6.052653e-03 2.170836e-02
-## NE1857         4.951406e-03   4.995110e-03 9.750063e-04 3.387454e-03
-## NE1859         3.385805e-01   2.520438e-01 3.568664e-02 9.188549e-03
-## NE1866         1.572453e-01   1.798565e-01 4.117371e-02 9.015608e-03
-## NH1842         2.572601e-04   2.838601e-04 2.496214e-04 2.211868e-04
-## NJ1847         4.961069e-04   4.806860e-04 2.989817e-04 3.308402e-04
-## NM1865         2.206113e-04   2.180061e-04 1.335056e-04 2.503196e-03
-## NM1897         1.050124e-02   8.929113e-03 2.914271e-03 4.291951e-03
-## NV1861         9.204286e-03   1.055846e-02 3.638611e-03 1.392196e-02
-## NV1869         9.084099e-03   1.015282e-02 3.510997e-03 1.263956e-02
-## NY1848         7.781144e-03   5.878073e-03 1.575324e-03 4.773391e-03
-## NY1849         1.303617e-02   1.045809e-02 2.651533e-03 7.172678e-03
-## NY1850         1.278179e-02   1.697158e-02 5.651617e-03 7.767418e-03
-## NY1851         1.455526e-02   1.166449e-02 2.952670e-03 8.102629e-03
-## NY1853         1.133340e-02   1.500122e-02 4.920466e-03 7.336857e-03
-## NY1876         1.603792e-03   1.528458e-03 1.105113e-03 1.208362e-03
-## NY1879         1.157221e-03   1.124812e-03 8.100693e-04 9.600187e-04
-## OH1853                   NA   6.373916e-01 3.813673e-02 8.549683e-03
-## OH1853extended           NA             NA 6.261674e-02 9.740022e-03
-## OH1879                   NA             NA           NA 3.765949e-03
-## OK1891                   NA             NA           NA           NA
-## OK1893                   NA             NA           NA           NA
-## OR1854                   NA             NA           NA           NA
-## OR1862                   NA             NA           NA           NA
-## SC1870                   NA             NA           NA           NA
-## TN1858                   NA             NA           NA           NA
-## UT1853                   NA             NA           NA           NA
-## UT1870                   NA             NA           NA           NA
-## UT1884                   NA             NA           NA           NA
-## VA1841                   NA             NA           NA           NA
-## VA1860                   NA             NA           NA           NA
-## WA1855                   NA             NA           NA           NA
-## WA1873                   NA             NA           NA           NA
-## WI1849                   NA             NA           NA           NA
-## WI1856                   NA             NA           NA           NA
-## WI1858                   NA             NA           NA           NA
-## WOOD1857                 NA             NA           NA           NA
-## WV1868                   NA             NA           NA           NA
-## WY1870                   NA             NA           NA           NA
-## WY1886                   NA             NA           NA           NA
-##                      OK1893       OR1854       OR1862       SC1870
-## AK1900         4.426745e-03 2.871988e-02 1.340541e-01 1.392364e-02
-## AL1852         4.002421e-04 8.213367e-04 6.429770e-04 4.684125e-04
-## AR1868         1.885635e-02 3.944730e-03 4.047598e-03 4.799381e-03
-## AR1874         1.756678e-02 4.019843e-03 3.038363e-03 5.399016e-03
-## AZ1865         8.630126e-03 6.469133e-02 3.136586e-02 2.924504e-02
-## AZ1887         2.113469e-03 3.426167e-03 2.950933e-03 4.359835e-03
-## BI1859         1.822220e-04 2.453814e-04 1.421767e-04 1.751620e-04
-## CA1850         7.639143e-03 2.933004e-02 1.819056e-02 5.382183e-02
-## CA1851         9.334155e-03 6.377295e-02 3.132948e-02 3.116186e-02
-## CA1858         8.045344e-03 4.903029e-02 2.662299e-02 2.282379e-02
-## CA1868         6.217898e-03 3.566375e-02 1.989862e-02 1.624006e-02
-## CA1868extended 2.950175e-03 1.439271e-02 9.738586e-03 6.512519e-03
-## CA1872         8.010047e-03 2.857237e-02 3.779747e-02 1.702540e-02
-## CO1868         5.691603e-04 8.811936e-04 3.771615e-04 3.215280e-04
-## CO1877         6.672572e-03 2.454400e-02 1.276408e-02 1.901082e-02
-## CT1854         5.115554e-04 3.310203e-04 1.823145e-04 3.077551e-04
-## CT1879         2.169403e-04 1.992497e-04 1.555455e-04 6.335742e-04
-## CT1879extended 3.566424e-04 3.203309e-04 3.234443e-04 4.718272e-04
-## DC1857         2.431951e-02 3.328623e-02 1.392215e-02 1.830201e-02
-## DE1852         2.395882e-04 3.945696e-04 1.847813e-04 2.201150e-04
-## DT1862         1.374681e-01 9.207279e-03 6.340936e-03 1.201641e-02
-## DT1868         7.224898e-03 3.139465e-02 1.879362e-02 1.322514e-01
-## DT1887         8.825161e-03 1.557071e-02 1.068030e-02 2.923396e-02
-## FL1847         6.132252e-04 1.404570e-03 3.623287e-04 2.553111e-04
-## FL1870         9.694011e-03 3.820963e-02 2.393727e-02 1.624805e-01
-## FL1892         7.089161e-04 1.468521e-03 9.084198e-04 2.832063e-03
-## FR1806         3.092557e-05 2.438376e-05 2.319777e-05 2.098674e-05
-## GA1851         3.153217e-04 2.342220e-04 2.009815e-04 1.489783e-04
-## GA1860         3.946437e-04 3.360637e-04 2.891552e-04 1.775837e-04
-## GB1852         1.392261e-04 1.598031e-04 1.068378e-04 1.407303e-04
-## GB1854         9.975981e-05 1.026150e-04 7.584361e-05 4.495493e-05
-## GB1873         8.793996e-05 5.996318e-05 3.402402e-05 5.690159e-05
-## GB1875         9.733406e-05 1.169975e-04 1.006057e-04 9.041104e-05
-## HI1859         8.387786e-04 1.639235e-03 4.565065e-04 2.354417e-03
-## HI1897         9.701398e-04 2.105896e-03 7.812170e-04 2.715156e-03
-## IA1839         3.104256e-04 1.498286e-03 9.513075e-05 1.100216e-04
-## IA1851         2.525361e-03 2.741858e-03 2.633070e-03 1.370705e-03
-## IA1859         1.298412e-02 4.211462e-03 4.134855e-03 4.360750e-03
-## ID1864         6.333597e-03 4.232987e-02 2.151966e-02 1.761794e-02
-## ID1881         7.241370e-03 2.974648e-02 2.300779e-02 1.729497e-02
-## IL1866         4.967701e-04 1.071636e-03 3.840924e-04 3.242496e-04
-## IL1933         6.466038e-04 5.764663e-04 3.846769e-04 8.802060e-04
-## IN1843         2.813757e-03 2.714825e-03 1.028116e-03 4.298474e-04
-## IN1852         1.282556e-02 5.759927e-03 5.187553e-03 8.615723e-03
-## KS1859         1.668084e-01 1.000771e-02 6.925947e-03 1.270768e-02
-## KS1868         2.359494e-01 7.452252e-03 5.655726e-03 8.408108e-03
-## KY1851         2.349936e-02 4.928635e-03 4.657489e-03 6.438078e-03
-## KY1854         1.699528e-02 3.541269e-03 3.481031e-03 4.042485e-03
-## LA1825         3.562421e-05 4.321306e-05 4.405206e-05 2.290636e-05
-## LA1825french   3.301513e-05 2.046554e-05 5.184458e-05 2.352644e-05
-## LC1867         1.221473e-04 1.240193e-04 1.236967e-04 1.130643e-04
-## LC1867french   3.245328e-05 4.011012e-05 4.704459e-05 3.970219e-05
-## MA1836         5.339535e-04 4.081000e-03 6.290632e-04 3.345642e-04
-## MA1851         7.348150e-05 2.196134e-04 4.948770e-05 8.759051e-05
-## MA1858         5.944777e-04 1.975829e-03 5.645906e-04 3.241406e-04
-## MD1855         6.692976e-05 1.082645e-04 5.796395e-05 5.960034e-05
-## MD1859         1.582966e-04 1.770183e-04 7.678055e-05 1.132893e-04
-## ME1840         5.005558e-04 1.100671e-03 5.355529e-04 3.469249e-04
-## MI1853         2.971292e-04 2.626882e-04 1.983206e-04 6.784238e-04
-## MN1851         6.004600e-03 4.074833e-02 2.074338e-02 2.053142e-02
-## MN1859         8.963996e-03 7.134530e-02 3.722470e-02 3.384540e-02
-## MO1835         3.103120e-04 2.406337e-03 1.860948e-04 2.100509e-04
-## MO1849         3.267219e-03 9.857491e-03 4.990235e-03 1.754122e-02
-## MO1856         3.927020e-03 8.613115e-03 5.123755e-03 1.379103e-02
-## MO1879         3.506409e-03 5.165876e-03 3.678261e-03 8.462991e-03
-## MS1848         5.250849e-04 5.417018e-04 3.379101e-04 2.463414e-04
-## MS1850         1.490063e-03 5.493951e-03 2.897457e-03 7.708095e-03
-## MS1857         1.378859e-03 1.021991e-03 6.306938e-04 8.489442e-04
-## MT1865         9.457229e-03 4.279469e-02 2.144887e-02 1.788377e-02
-## MT1895         6.847044e-03 2.259210e-02 3.159529e-02 1.277258e-02
-## NC1868         8.390109e-03 3.391747e-02 2.151737e-02 1.235778e-01
-## ND1877         1.906197e-02 3.943917e-02 2.323069e-02 8.348105e-02
-## ND1877extended 1.554792e-02 2.895793e-02 1.891680e-02 5.769585e-02
-## NE1857         5.066536e-03 7.847583e-03 2.078520e-03 1.922292e-03
-## NE1859         1.327528e-01 8.858270e-03 6.358244e-03 1.172508e-02
-## NE1866         1.156507e-01 9.373057e-03 4.866708e-03 7.356710e-03
-## NH1842         2.285629e-04 2.689934e-04 1.670971e-04 1.327171e-04
-## NJ1847         4.104156e-04 1.173494e-03 1.674404e-04 1.931090e-04
-## NM1865         2.676050e-04 6.773965e-04 1.227873e-04 8.642781e-05
-## NM1897         6.837515e-03 1.151719e-02 6.319010e-03 1.063296e-02
-## NV1861         8.508265e-03 6.213970e-02 2.894708e-02 2.767221e-02
-## NV1869         8.079223e-03 5.225681e-02 2.681936e-02 2.483324e-02
-## NY1848         4.233180e-03 2.091691e-02 1.232275e-02 5.071577e-02
-## NY1849         7.378041e-03 3.381040e-02 1.965339e-02 9.735339e-02
-## NY1850         1.271197e-02 3.743396e-02 6.418529e-02 3.648765e-02
-## NY1851         8.961350e-03 3.850549e-02 2.092813e-02 1.139241e-01
-## NY1853         1.164413e-02 3.438198e-02 4.213816e-02 3.574250e-02
-## NY1876         1.360467e-03 2.491562e-03 2.738423e-03 4.892329e-03
-## NY1879         1.033010e-03 1.896833e-03 2.095034e-03 3.556767e-03
-## OH1853         1.352798e-01 8.970578e-03 6.500524e-03 1.278251e-02
-## OH1853extended 1.549735e-01 7.421061e-03 5.861637e-03 1.006636e-02
-## OH1879         3.920943e-02 2.812044e-03 2.473746e-03 2.905502e-03
-## OK1891         1.083391e-02 6.267587e-03 4.975065e-03 8.157357e-03
-## OK1893                   NA 6.722573e-03 5.678404e-03 8.114958e-03
-## OR1854                   NA           NA 5.628372e-02 3.732650e-02
-## OR1862                   NA           NA           NA 2.332593e-02
-## SC1870                   NA           NA           NA           NA
-## TN1858                   NA           NA           NA           NA
-## UT1853                   NA           NA           NA           NA
-## UT1870                   NA           NA           NA           NA
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      TN1858       UT1853       UT1870       UT1884
-## AK1900         5.678280e-04 4.756401e-05 1.052179e-02 5.449694e-03
-## AL1852         3.124472e-03 2.666560e-05 4.678099e-04 2.741667e-04
-## AR1868         4.456959e-04 5.372691e-05 2.690372e-03 2.402768e-03
-## AR1874         2.677092e-04 7.382980e-05 2.858389e-03 2.262650e-03
-## AZ1865         6.044522e-04 5.189609e-05 1.154032e-01 2.630241e-02
-## AZ1887         3.797135e-04 3.839317e-05 6.339881e-03 3.042658e-03
-## BI1859         1.246844e-04 4.264782e-05 1.347981e-04 6.621150e-05
-## CA1850         2.782132e-04 5.176412e-05 1.581488e-02 5.675592e-03
-## CA1851         6.266841e-04 4.238865e-05 1.041036e-01 2.541411e-02
-## CA1858         6.097412e-04 3.158283e-05 9.691917e-02 2.168437e-02
-## CA1868         4.981156e-04 3.825272e-05 7.782942e-02 2.010700e-02
-## CA1868extended 3.449367e-04 1.980015e-05 2.877082e-02 9.347971e-03
-## CA1872         6.615484e-04 2.064992e-05 4.048588e-02 4.557595e-02
-## CO1868         5.207499e-04 9.297958e-05 2.868434e-04 2.072991e-04
-## CO1877         3.961017e-04 4.922398e-05 4.831233e-02 1.381945e-02
-## CT1854         2.428386e-04 6.225381e-05 2.138435e-04 1.159599e-04
-## CT1879         2.483161e-05 0.000000e+00 9.299023e-05 6.593766e-05
-## CT1879extended 1.393221e-04 5.825299e-06 1.945249e-04 1.313816e-04
-## DC1857         5.497440e-04 4.853065e-05 1.426052e-02 6.005515e-03
-## DE1852         1.880373e-04 1.671542e-05 1.190892e-04 9.644022e-05
-## DT1862         5.154085e-04 3.903353e-05 5.533163e-03 4.370893e-03
-## DT1868         4.188097e-04 5.426407e-05 1.169669e-02 5.869071e-03
-## DT1887         4.647819e-04 3.430352e-05 1.038367e-02 8.979544e-03
-## FL1847         6.029612e-04 7.216262e-05 2.423778e-04 1.360444e-04
-## FL1870         4.075772e-04 6.498078e-05 1.660785e-02 6.556716e-03
-## FL1892         4.852036e-04 3.183115e-05 4.601865e-04 5.968068e-04
-## FR1806         2.673205e-05 0.000000e+00 2.109225e-05 2.986365e-05
-## GA1851         3.304275e-04 6.596902e-05 1.509618e-04 1.225918e-04
-## GA1860         4.317707e-04 2.991406e-05 2.144106e-04 1.448215e-04
-## GB1852         9.369217e-05 1.386366e-05 1.481292e-04 6.482588e-05
-## GB1854         4.080839e-05 4.908056e-05 4.851706e-05 3.166777e-05
-## GB1873         4.858151e-05 9.775267e-06 4.205487e-05 3.985122e-05
-## GB1875         9.852447e-05 2.788887e-06 9.551673e-05 7.769349e-05
-## HI1859         8.510707e-05 9.990010e-05 2.159573e-03 1.300985e-03
-## HI1897         1.694708e-04 5.884034e-05 1.721774e-03 1.218467e-03
-## IA1839         1.156251e-04 1.055799e-04 9.103185e-05 5.662096e-05
-## IA1851         4.991751e-03 3.127652e-03 1.483938e-03 1.296018e-03
-## IA1859         4.372104e-03 1.490286e-03 2.816597e-03 1.845633e-03
-## ID1864         5.617454e-04 2.167802e-05 7.890498e-02 1.706582e-02
-## ID1881         5.807299e-04 2.904751e-05 3.960385e-02 5.925801e-02
-## IL1866         5.581055e-04 6.583508e-05 2.968170e-04 1.925866e-04
-## IL1933         1.731937e-04 3.853149e-05 3.358208e-04 1.962123e-04
-## IN1843         5.828438e-04 3.733748e-05 4.413395e-04 2.424393e-04
-## IN1852         5.594296e-04 2.209517e-05 3.416382e-03 1.872854e-03
-## KS1859         5.381038e-04 4.694811e-05 6.154934e-03 4.386120e-03
-## KS1868         9.133309e-04 5.185124e-05 5.318849e-03 3.932567e-03
-## KY1851         4.182970e-04 2.973079e-05 2.984532e-03 2.978649e-03
-## KY1854         4.080075e-04 2.935449e-05 2.295696e-03 2.411273e-03
-## LA1825         4.963178e-05 8.636213e-06 2.965295e-05 4.475374e-05
-## LA1825french   4.212167e-05 3.265402e-06 1.949071e-05 4.423355e-05
-## LC1867         9.247391e-05 1.845189e-05 1.033924e-04 8.005693e-05
-## LC1867french   5.319791e-05 3.152058e-06 3.434662e-05 4.350285e-05
-## MA1836         4.408322e-04 3.115271e-05 2.324949e-04 4.852446e-04
-## MA1851         3.383961e-05 1.274795e-05 5.608879e-05 2.103620e-05
-## MA1858         4.120058e-04 3.014804e-05 2.310020e-04 2.968146e-04
-## MD1855         5.312589e-05 2.718056e-05 6.062767e-05 2.600651e-05
-## MD1859         1.457008e-04 7.332023e-05 1.236373e-04 6.465982e-05
-## ME1840         3.567065e-04 5.426149e-05 2.098558e-04 1.600507e-04
-## MI1853         1.098851e-04 3.620748e-05 3.944373e-04 7.180062e-05
-## MN1851         6.410589e-04 5.075305e-05 1.097418e-02 7.620687e-03
-## MN1859         9.187112e-04 8.443763e-05 1.824776e-02 1.185933e-02
-## MO1835         3.562318e-04 6.646222e-05 1.569939e-04 9.017192e-05
-## MO1849         2.384337e-04 8.329169e-05 5.167058e-03 1.814923e-03
-## MO1856         2.132853e-04 2.343604e-05 4.599308e-03 1.277265e-03
-## MO1879         2.477282e-04 4.858547e-05 3.282176e-03 8.761807e-04
-## MS1848         6.264342e-04 7.351073e-05 2.196711e-04 1.478014e-04
-## MS1850         2.701613e-05 3.608545e-05 2.697561e-03 4.748867e-04
-## MS1857         5.576771e-04 5.650577e-05 5.541955e-04 2.209380e-04
-## MT1865         6.835260e-04 5.795137e-05 6.996943e-02 1.622994e-02
-## MT1895         6.341740e-04 2.162658e-05 2.987232e-02 3.857345e-02
-## NC1868         4.841878e-04 5.692556e-05 1.388419e-02 6.017244e-03
-## ND1877         5.877057e-04 3.422255e-05 2.056267e-02 1.673877e-02
-## ND1877extended 6.028296e-04 4.781953e-05 1.751804e-02 1.477070e-02
-## NE1857         4.884951e-03 3.813534e-03 1.727987e-03 1.192279e-03
-## NE1859         5.006389e-04 3.608322e-05 5.122959e-03 4.042771e-03
-## NE1866         1.366218e-03 4.389315e-05 5.727245e-03 2.758066e-03
-## NH1842         1.726954e-04 2.812481e-05 1.040104e-04 8.346960e-05
-## NJ1847         1.864252e-04 3.391407e-05 1.427932e-04 1.151607e-04
-## NM1865         1.738293e-04 1.426757e-04 1.047298e-04 6.675106e-05
-## NM1897         6.434205e-04 1.257793e-04 3.574077e-03 2.031399e-03
-## NV1861         6.520975e-04 3.962405e-05 1.217877e-01 2.671457e-02
-## NV1869         6.320609e-04 5.913785e-05 1.655359e-01 2.719275e-02
-## NY1848         3.115000e-04 3.726782e-05 9.326597e-03 4.061369e-03
-## NY1849         3.925201e-04 3.659078e-05 1.407988e-02 5.495067e-03
-## NY1850         1.007107e-03 6.947496e-05 2.342667e-02 1.751070e-02
-## NY1851         3.830893e-04 4.066570e-05 1.426012e-02 5.812412e-03
-## NY1853         9.383469e-04 4.837677e-05 2.164332e-02 1.483567e-02
-## NY1876         2.951255e-04 2.637086e-05 1.472510e-03 1.082588e-03
-## NY1879         2.567924e-04 9.137552e-06 1.128120e-03 9.043642e-04
-## OH1853         5.459125e-04 4.174450e-05 5.495767e-03 4.036201e-03
-## OH1853extended 6.252219e-04 6.536218e-05 6.744138e-03 3.658047e-03
-## OH1879         5.811014e-04 3.296941e-05 2.235438e-03 1.292359e-03
-## OK1891         5.381927e-04 6.239045e-05 7.291802e-03 3.930791e-03
-## OK1893         8.450429e-04 4.933007e-05 5.377346e-03 3.355733e-03
-## OR1854         8.467754e-04 1.164175e-04 2.809991e-02 1.201176e-02
-## OR1862         6.997090e-04 5.846877e-05 1.483447e-02 9.785286e-03
-## SC1870         3.971553e-04 5.601585e-05 1.423440e-02 6.402242e-03
-## TN1858                   NA 5.632072e-04 4.085749e-04 2.745554e-04
-## UT1853                   NA           NA 1.074989e-04 2.601159e-05
-## UT1870                   NA           NA           NA 1.800355e-02
-## UT1884                   NA           NA           NA           NA
-## VA1841                   NA           NA           NA           NA
-## VA1860                   NA           NA           NA           NA
-## WA1855                   NA           NA           NA           NA
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      VA1841       VA1860       WA1855       WA1873
-## AK1900         9.704134e-05 1.988233e-04 1.317280e-02 1.034326e-02
-## AL1852         1.501849e-04 1.876131e-04 3.568798e-04 3.663356e-04
-## AR1868         1.030488e-04 4.587810e-04 4.993638e-03 3.414292e-03
-## AR1874         9.686856e-05 1.197581e-04 5.397788e-03 3.274319e-03
-## AZ1865         1.347527e-04 2.089064e-04 3.459257e-02 1.772357e-02
-## AZ1887         3.682011e-04 2.290504e-04 3.588738e-03 1.207734e-02
-## BI1859         1.573093e-04 9.733426e-05 1.815731e-04 1.593007e-04
-## CA1850         1.466830e-04 1.221813e-04 2.650063e-02 1.410868e-02
-## CA1851         1.427127e-04 1.995293e-04 3.492177e-02 1.832317e-02
-## CA1858         1.258309e-04 2.199087e-04 2.784805e-02 1.386955e-02
-## CA1868         9.525815e-05 2.043427e-04 2.102113e-02 1.120774e-02
-## CA1868extended 4.146361e-05 1.411388e-04 8.425075e-03 4.847103e-03
-## CA1872         6.839956e-05 2.307768e-04 1.403057e-02 1.579342e-02
-## CO1868         5.687020e-04 2.554987e-04 5.182778e-04 5.780917e-04
-## CO1877         1.270723e-04 1.747720e-04 1.607314e-02 1.112933e-02
-## CT1854         2.719427e-04 1.067816e-04 2.800149e-04 2.837164e-04
-## CT1879         0.000000e+00 2.786951e-05 1.558306e-04 9.956033e-05
-## CT1879extended 4.518056e-05 9.519277e-05 2.525678e-04 2.064562e-04
-## DC1857         1.198795e-04 1.674821e-03 3.483330e-02 1.763867e-02
-## DE1852         1.318249e-04 2.242258e-04 2.756435e-04 2.624820e-04
-## DT1862         1.978789e-04 2.695497e-04 7.753553e-03 5.124101e-03
-## DT1868         1.104855e-04 1.578132e-04 2.064115e-02 1.320874e-02
-## DT1887         7.157354e-05 2.039036e-04 8.058228e-03 9.252716e-03
-## FL1847         8.709872e-04 2.445620e-04 1.478176e-03 9.539949e-04
-## FL1870         1.470568e-04 1.946912e-04 2.661060e-02 1.583743e-02
-## FL1892         4.646777e-04 9.229224e-04 9.089520e-04 1.122926e-03
-## FR1806         1.977684e-05 3.097058e-05 1.790426e-05 3.389945e-05
-## GA1851         7.172822e-04 2.831391e-04 2.641102e-04 3.112685e-04
-## GA1860         1.552300e-04 3.543864e-04 3.671680e-04 3.540628e-04
-## GB1852         2.370538e-04 1.584816e-04 1.427929e-04 1.127176e-04
-## GB1854         1.488317e-04 4.613480e-05 1.076195e-04 9.628823e-05
-## GB1873         6.654639e-05 5.564211e-05 4.555933e-05 7.814596e-05
-## GB1875         3.831369e-05 5.672067e-05 9.394194e-05 1.015420e-04
-## HI1859         6.850066e-05 4.335104e-05 2.090503e-03 8.525282e-04
-## HI1897         5.532066e-04 1.763605e-04 2.062471e-03 1.242180e-03
-## IA1839         2.785112e-04 9.589219e-05 2.361450e-04 1.684372e-04
-## IA1851         7.089064e-05 1.847625e-04 2.201570e-03 1.330332e-03
-## IA1859         8.795556e-05 2.749070e-04 4.154116e-03 2.909642e-03
-## ID1864         1.162411e-04 1.964614e-04 2.342080e-02 1.466917e-02
-## ID1881         9.231905e-05 2.035022e-04 1.412373e-02 9.757671e-03
-## IL1866         6.150949e-04 3.491828e-04 4.391925e-04 5.485860e-04
-## IL1933         1.229241e-04 1.307871e-04 5.665834e-04 4.377262e-04
-## IN1843         2.712688e-04 2.889485e-04 1.820667e-03 1.349779e-03
-## IN1852         9.620424e-05 2.547203e-04 3.135199e-02 2.342231e-02
-## KS1859         1.780762e-04 2.516177e-04 8.274932e-03 5.457040e-03
-## KS1868         1.441326e-04 2.954003e-04 1.154417e-02 7.621157e-03
-## KY1851         1.064985e-04 6.106928e-04 6.027630e-03 4.354438e-03
-## KY1854         8.541219e-05 4.548538e-04 4.257482e-03 2.924036e-03
-## LA1825         2.268157e-05 1.783717e-05 5.452372e-05 6.430505e-05
-## LA1825french   1.474100e-05 3.148248e-05 3.375971e-05 3.402234e-05
-## LC1867         4.747118e-05 8.254685e-05 1.376672e-04 1.087786e-04
-## LC1867french   1.713302e-05 3.094605e-05 3.307656e-05 2.170762e-05
-## MA1836         1.185834e-04 1.132590e-03 1.631520e-03 1.002129e-03
-## MA1851         3.590858e-05 2.208654e-05 3.406519e-04 2.138919e-04
-## MA1858         1.072404e-04 9.943210e-04 1.248305e-03 9.186128e-04
-## MD1855         3.754705e-05 1.440715e-04 9.317432e-05 7.320129e-05
-## MD1859         1.779817e-04 9.566656e-05 1.389294e-04 1.286519e-04
-## ME1840         1.234050e-04 3.269849e-04 7.845764e-04 7.782736e-04
-## MI1853         6.431244e-05 9.633808e-05 2.082317e-04 2.168556e-04
-## MN1851         1.030459e-04 1.576713e-04 1.311084e-02 8.912374e-03
-## MN1859         1.061917e-04 2.320286e-04 2.309460e-02 1.465673e-02
-## MO1835         3.978933e-04 1.036062e-04 3.191041e-04 1.912723e-04
-## MO1849         1.395446e-04 1.199839e-04 6.521895e-03 4.577590e-03
-## MO1856         2.796438e-04 1.312902e-04 4.576199e-03 3.080464e-03
-## MO1879         1.864375e-04 1.754564e-04 3.464428e-03 2.387590e-03
-## MS1848         1.164635e-02 6.984438e-04 4.353975e-04 5.334185e-04
-## MS1850         8.242528e-05 1.962114e-05 5.341155e-03 2.976441e-03
-## MS1857         6.177893e-03 7.965132e-04 8.540570e-04 6.961977e-04
-## MT1865         1.360507e-04 2.403942e-04 2.413193e-02 1.493621e-02
-## MT1895         7.983471e-05 2.347377e-04 1.106440e-02 1.270932e-02
-## NC1868         1.585572e-04 2.531992e-04 2.287999e-02 1.482368e-02
-## ND1877         1.261046e-04 2.527733e-04 1.919940e-02 1.341824e-02
-## ND1877extended 9.340284e-05 2.766026e-04 1.479286e-02 1.541311e-02
-## NE1857         8.368746e-05 1.663021e-04 3.069718e-03 1.805842e-03
-## NE1859         1.894999e-04 2.849461e-04 7.194606e-03 4.912266e-03
-## NE1866         1.628204e-04 2.490162e-04 5.742197e-03 3.638582e-03
-## NH1842         1.186454e-04 1.440516e-04 1.952251e-04 1.785213e-04
-## NJ1847         7.358229e-04 2.615244e-04 2.261874e-04 2.869452e-04
-## NM1865         4.562885e-04 1.327995e-04 4.715154e-04 5.262544e-04
-## NM1897         1.661798e-04 2.785690e-04 6.482347e-03 3.730065e-03
-## NV1861         1.507228e-04 2.425627e-04 3.332327e-02 1.755152e-02
-## NV1869         1.446250e-04 2.280473e-04 2.633652e-02 1.383923e-02
-## NY1848         8.976285e-05 1.122700e-04 1.313534e-02 8.831607e-03
-## NY1849         1.382484e-04 1.825978e-04 2.219279e-02 1.316644e-02
-## NY1850         7.823610e-05 2.268392e-04 1.915969e-02 1.177599e-02
-## NY1851         9.579170e-05 1.712016e-04 2.435592e-02 1.497550e-02
-## NY1853         7.363447e-05 2.181599e-04 1.798449e-02 1.097869e-02
-## NY1876         2.951590e-05 1.972208e-04 1.454574e-03 1.258200e-03
-## NY1879         2.755336e-05 1.603197e-04 1.162518e-03 9.654785e-04
-## OH1853         1.870316e-04 2.420396e-04 7.637814e-03 4.885599e-03
-## OH1853extended 1.730510e-04 2.566172e-04 7.097069e-03 4.311457e-03
-## OH1879         8.099999e-05 2.605163e-04 2.571793e-03 3.114353e-03
-## OK1891         1.461395e-04 3.140713e-04 2.380169e-02 1.603000e-02
-## OK1893         1.382587e-04 2.464730e-04 1.091253e-02 6.692244e-03
-## OR1854         1.503900e-04 2.536898e-04 6.993269e-02 4.247596e-02
-## OR1862         1.071330e-04 2.377712e-04 2.192311e-02 1.603235e-02
-## SC1870         1.133831e-04 1.827388e-04 2.431954e-02 1.568539e-02
-## TN1858         1.131473e-04 2.581384e-04 4.404418e-04 3.935709e-04
-## UT1853         4.411375e-05 2.471855e-05 4.580153e-05 5.052626e-05
-## UT1870         8.369145e-05 1.891972e-04 1.562940e-02 8.002157e-03
-## UT1884         4.552119e-05 1.373688e-04 7.819789e-03 5.346100e-03
-## VA1841                   NA 5.518569e-04 1.559750e-04 1.258610e-04
-## VA1860                   NA           NA 2.301465e-04 2.091078e-04
-## WA1855                   NA           NA           NA 1.098207e-01
-## WA1873                   NA           NA           NA           NA
-## WI1849                   NA           NA           NA           NA
-## WI1856                   NA           NA           NA           NA
-## WI1858                   NA           NA           NA           NA
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      WI1849       WI1856       WI1858     WOOD1857
-## AK1900         2.903409e-03 1.129014e-02 1.016369e-02 1.279672e-02
-## AL1852         4.770003e-04 6.684855e-04 5.729277e-04 6.353429e-04
-## AR1868         3.685501e-04 5.258783e-03 3.020426e-03 3.121165e-03
-## AR1874         1.892063e-04 6.190417e-03 2.487322e-03 3.107889e-03
-## AZ1865         1.324291e-03 3.210188e-02 1.478299e-02 1.624722e-01
-## AZ1887         4.298599e-04 4.174484e-03 2.307982e-03 8.042738e-03
-## BI1859         1.976334e-04 1.408717e-04 1.708820e-04 1.415449e-04
-## CA1850         1.089357e-03 6.700362e-02 2.379946e-02 2.153939e-02
-## CA1851         1.289449e-03 3.545912e-02 1.635260e-02 1.785226e-01
-## CA1858         1.175857e-03 2.592259e-02 1.384548e-02 1.709920e-01
-## CA1868         1.044301e-03 1.764084e-02 1.030497e-02 1.163909e-01
-## CA1868extended 6.874758e-04 6.328770e-03 5.421394e-03 4.502574e-02
-## CA1872         1.913312e-03 1.417359e-02 1.167974e-02 6.074413e-02
-## CO1868         7.945579e-03 2.650609e-04 4.285405e-03 3.417258e-04
-## CO1877         1.590346e-03 2.048518e-02 1.045117e-02 5.761146e-02
-## CT1854         3.471572e-04 2.550659e-04 3.332152e-04 2.239733e-04
-## CT1879         2.071816e-05 4.802258e-04 1.665204e-04 1.565149e-04
-## CT1879extended 1.165045e-04 4.456556e-04 3.300119e-04 3.008056e-04
-## DC1857         2.043679e-03 1.759693e-02 1.014312e-02 1.867309e-02
-## DE1852         8.100735e-04 1.438183e-04 5.648666e-04 2.033459e-04
-## DT1862         6.618161e-04 1.257795e-02 6.448503e-03 6.974912e-03
-## DT1868         1.997891e-03 8.828608e-02 4.121334e-02 1.679397e-02
-## DT1887         2.418512e-03 2.094701e-02 1.671732e-02 1.324292e-02
-## FL1847         4.440640e-03 2.265856e-04 3.848781e-03 3.055194e-04
-## FL1870         1.126419e-03 1.245488e-01 4.959407e-02 2.143021e-02
-## FL1892         3.340421e-03 4.885055e-04 2.966987e-03 4.221047e-04
-## FR1806         2.989766e-05 9.216165e-06 3.796138e-05 2.399253e-05
-## GA1851         4.059009e-04 9.710529e-05 3.055085e-04 1.806093e-04
-## GA1860         4.007299e-04 1.159368e-04 3.299852e-04 2.514094e-04
-## GB1852         1.816664e-04 1.160557e-04 1.269501e-04 1.123199e-04
-## GB1854         7.043119e-05 5.396881e-05 5.401988e-05 6.005545e-05
-## GB1873         7.058517e-05 5.771090e-05 5.545430e-05 3.520073e-05
-## GB1875         1.101433e-04 7.971132e-05 1.292054e-04 1.004821e-04
-## HI1859         7.464700e-05 3.436876e-03 9.847603e-04 2.572470e-03
-## HI1897         1.222292e-03 2.409875e-03 2.001527e-03 2.214144e-03
-## IA1839         5.627666e-04 8.617188e-05 1.453139e-04 8.123889e-05
-## IA1851         7.211227e-04 1.570387e-03 1.152218e-03 1.857607e-03
-## IA1859         6.983166e-04 4.568850e-03 2.733513e-03 3.336633e-03
-## ID1864         2.492201e-03 2.075521e-02 1.225314e-02 9.629292e-02
-## ID1881         1.696580e-03 1.427557e-02 1.050163e-02 5.057906e-02
-## IL1866         6.907789e-03 2.611411e-04 4.453322e-03 3.422713e-04
-## IL1933         1.914355e-04 1.088630e-03 3.730601e-04 4.589722e-04
-## IN1843         5.408049e-03 5.726106e-04 3.802057e-03 4.705948e-04
-## IN1852         1.361120e-03 9.261357e-03 5.161407e-03 4.209478e-03
-## KS1859         6.264454e-04 1.335210e-02 6.954472e-03 7.256147e-03
-## KS1868         9.423920e-04 9.568854e-03 5.745098e-03 6.538595e-03
-## KY1851         2.742819e-04 6.366258e-03 3.435473e-03 3.797021e-03
-## KY1854         3.283608e-04 4.507786e-03 2.600254e-03 2.823326e-03
-## LA1825         4.737583e-05 2.965423e-05 3.431412e-05 3.402930e-05
-## LA1825french   3.389220e-05 1.213940e-05 4.832721e-05 1.835381e-05
-## LC1867         1.360781e-04 9.749779e-05 1.139034e-04 1.224010e-04
-## LC1867french   3.230768e-05 2.837637e-05 4.365443e-05 2.338739e-05
-## MA1836         1.578126e-02 1.976005e-04 1.027700e-02 4.848711e-04
-## MA1851         8.760319e-05 8.692156e-05 9.862505e-05 4.415777e-05
-## MA1858         7.873118e-03 2.046581e-04 6.047622e-03 3.777056e-04
-## MD1855         1.220004e-04 7.811846e-05 7.418079e-05 4.804874e-05
-## MD1859         1.441177e-04 1.380739e-04 1.302163e-04 1.173491e-04
-## ME1840         3.413848e-03 1.829366e-04 2.609128e-03 2.192083e-04
-## MI1853         2.967985e-04 9.321769e-04 4.717783e-04 4.036541e-04
-## MN1851         3.427539e-02 1.942649e-02 4.327820e-02 1.561060e-02
-## MN1859         5.434450e-02 3.373760e-02 7.954937e-02 2.689643e-02
-## MO1835         2.896398e-03 2.038572e-04 8.554383e-04 1.773859e-04
-## MO1849         6.526363e-04 2.158641e-02 6.497026e-03 6.617138e-03
-## MO1856         2.161271e-03 1.454587e-02 5.858800e-03 4.774133e-03
-## MO1879         1.325429e-03 8.936796e-03 3.775359e-03 3.308558e-03
-## MS1848         7.640411e-04 1.787872e-04 5.763689e-04 2.854880e-04
-## MS1850         1.039595e-05 1.148327e-02 2.863919e-03 2.816488e-03
-## MS1857         6.238503e-04 9.660136e-04 7.571586e-04 5.913560e-04
-## MT1865         2.073353e-03 1.968710e-02 1.055893e-02 8.936269e-02
-## MT1895         1.768139e-03 1.046815e-02 9.373270e-03 3.894570e-02
-## NC1868         1.890504e-03 8.885140e-02 4.302770e-02 1.903392e-02
-## ND1877         4.251318e-03 6.127414e-02 3.761165e-02 2.830593e-02
-## ND1877extended 3.715086e-03 4.094633e-02 2.986300e-02 2.496275e-02
-## NE1857         4.580807e-03 2.134527e-03 4.778982e-03 1.974110e-03
-## NE1859         6.824266e-04 1.242009e-02 6.759262e-03 6.668978e-03
-## NE1866         2.703670e-03 6.916093e-03 5.967725e-03 6.307978e-03
-## NH1842         4.388463e-04 1.482072e-04 2.742033e-04 1.465159e-04
-## NJ1847         1.667122e-03 1.923102e-04 3.628509e-04 1.842933e-04
-## NM1865         2.890075e-04 9.104980e-05 1.513549e-04 1.198668e-04
-## NM1897         5.686292e-03 9.685183e-03 9.832360e-03 3.604945e-03
-## NV1861         3.100038e-03 3.066427e-02 1.743078e-02 1.571089e-01
-## NV1869         1.195796e-03 2.636706e-02 1.341133e-02 1.317358e-01
-## NY1848         6.499152e-04 6.086103e-02 2.215105e-02 1.335526e-02
-## NY1849         2.537631e-03 1.091038e-01 4.430473e-02 1.960589e-02
-## NY1850         4.869490e-03 3.374800e-02 2.690351e-02 3.422805e-02
-## NY1851         2.577067e-03 1.202168e-01 4.769316e-02 1.973663e-02
-## NY1853         4.707799e-03 3.283751e-02 2.589028e-02 3.137085e-02
-## NY1876         1.332472e-03 3.339057e-03 3.206716e-03 1.805623e-03
-## NY1879         9.859821e-04 2.779645e-03 2.669261e-03 1.514716e-03
-## OH1853         6.818924e-04 1.310620e-02 6.535489e-03 6.733959e-03
-## OH1853extended 1.096246e-03 1.024642e-02 5.835704e-03 7.785131e-03
-## OH1879         9.743416e-04 2.787289e-03 2.755480e-03 2.805742e-03
-## OK1891         1.036000e-03 8.006965e-03 5.065989e-03 8.598666e-03
-## OK1893         9.819903e-04 8.532463e-03 5.467605e-03 5.992406e-03
-## OR1854         1.530636e-02 3.719536e-02 3.385474e-02 3.909403e-02
-## OR1862         4.183548e-03 1.911044e-02 1.720095e-02 1.986360e-02
-## SC1870         3.119006e-03 1.073596e-01 4.736477e-02 1.918418e-02
-## TN1858         9.517803e-04 3.232307e-04 1.042859e-03 5.145916e-04
-## UT1853         5.646199e-05 6.396952e-05 8.443593e-05 4.750472e-05
-## UT1870         7.119670e-04 1.482818e-02 7.369462e-03 7.084945e-02
-## UT1884         4.895880e-04 5.836780e-03 4.294516e-03 1.858261e-02
-## VA1841         1.684631e-04 1.094249e-04 1.282912e-04 1.206839e-04
-## VA1860         7.536744e-04 1.596839e-04 2.504289e-04 1.908375e-04
-## WA1855         5.432001e-03 2.614935e-02 1.424401e-02 2.023448e-02
-## WA1873         1.411719e-03 1.574138e-02 1.001864e-02 1.212995e-02
-## WI1849                   NA 1.481598e-03 9.849742e-02 1.509971e-03
-## WI1856                   NA           NA 6.344120e-02 2.137451e-02
-## WI1858                   NA           NA           NA 1.192343e-02
-## WOOD1857                 NA           NA           NA           NA
-## WV1868                   NA           NA           NA           NA
-## WY1870                   NA           NA           NA           NA
-## WY1886                   NA           NA           NA           NA
-##                      WV1868       WY1870       WY1886
-## AK1900         2.705961e-04 4.617464e-03 1.327879e-03
-## AL1852         2.363767e-04 4.656175e-04 2.858745e-04
-## AR1868         9.284763e-04 2.049021e-02 7.978858e-03
-## AR1874         1.486438e-04 2.232154e-02 8.896768e-03
-## AZ1865         2.554266e-04 1.708684e-02 2.593081e-03
-## AZ1887         2.618200e-04 4.937839e-03 9.734927e-04
-## BI1859         1.060998e-04 1.788751e-04 7.381109e-05
-## CA1850         1.916934e-04 1.055799e-02 2.864244e-03
-## CA1851         2.504983e-04 1.829194e-02 2.982513e-03
-## CA1858         2.790868e-04 1.621180e-02 2.221859e-03
-## CA1868         2.388238e-04 1.212136e-02 1.851096e-03
-## CA1868extended 2.185106e-04 5.005461e-03 8.591792e-04
-## CA1872         3.144355e-04 1.205919e-02 2.902289e-03
-## CO1868         5.090525e-04 6.461484e-03 2.427993e-03
-## CO1877         2.204078e-04 1.544535e-02 3.717522e-03
-## CT1854         1.207799e-04 3.126275e-04 1.766262e-04
-## CT1879         2.314883e-05 1.637571e-04 1.470242e-04
-## CT1879extended 1.040090e-04 2.812383e-04 1.605276e-04
-## DC1857         2.473425e-03 2.543377e-02 8.740494e-03
-## DE1852         2.231911e-04 2.231710e-04 1.446361e-04
-## DT1862         3.399006e-04 1.735528e-01 3.761713e-02
-## DT1868         3.714696e-04 9.315312e-03 2.900861e-03
-## DT1887         3.063762e-04 7.970215e-03 2.739108e-03
-## FL1847         2.936584e-04 5.339972e-04 2.705311e-04
-## FL1870         2.329585e-04 1.174737e-02 3.334164e-03
-## FL1892         8.432640e-04 5.273554e-04 3.443373e-04
-## FR1806         4.772951e-05 1.767101e-05 3.029057e-05
-## GA1851         2.394657e-04 3.131022e-04 1.841844e-04
-## GA1860         3.759849e-04 4.039328e-04 2.116182e-04
-## GB1852         2.584318e-04 1.511692e-04 9.571655e-05
-## GB1854         4.121757e-05 1.156671e-04 5.931980e-05
-## GB1873         5.690635e-05 8.056647e-05 3.191922e-05
-## GB1875         8.600336e-05 1.200643e-04 6.823587e-05
-## HI1859         3.646070e-05 1.548760e-03 4.818611e-04
-## HI1897         1.302401e-04 1.483038e-03 5.372324e-04
-## IA1839         7.407320e-05 3.038664e-04 3.009269e-04
-## IA1851         1.539457e-04 2.041650e-02 5.568536e-04
-## IA1859         2.853771e-04 2.644319e-02 5.128680e-03
-## ID1864         2.604010e-04 1.231532e-02 2.140902e-03
-## ID1881         2.678956e-04 1.149845e-02 3.106077e-03
-## IL1866         6.644753e-04 5.536582e-03 3.677169e-04
-## IL1933         1.444074e-04 7.147509e-04 3.656268e-04
-## IN1843         3.720244e-04 1.586955e-03 4.977096e-04
-## IN1852         3.449110e-04 8.265331e-03 3.026959e-03
-## KS1859         3.705383e-04 1.914342e-01 3.801056e-02
-## KS1868         4.081568e-04 1.153075e-01 2.424229e-02
-## KY1851         4.990050e-04 2.588364e-02 1.086776e-02
-## KY1854         9.101850e-04 1.745359e-02 7.580666e-03
-## LA1825         2.471207e-05 3.014480e-05 3.587262e-05
-## LA1825french   5.300644e-05 2.225998e-05 1.822945e-05
-## LC1867         9.222823e-05 1.129099e-04 8.811240e-05
-## LC1867french   3.741547e-05 3.635782e-05 2.680630e-05
-## MA1836         1.192615e-03 4.159250e-04 2.114159e-04
-## MA1851         2.153152e-05 8.674086e-05 3.117537e-05
-## MA1858         9.593638e-04 4.545494e-04 2.444063e-04
-## MD1855         7.950826e-05 6.853406e-05 6.964384e-05
-## MD1859         8.013206e-05 1.926942e-04 9.339744e-05
-## ME1840         2.727151e-04 4.412156e-04 2.456724e-04
-## MI1853         8.066009e-05 3.047144e-04 1.814071e-04
-## MN1851         2.233021e-04 7.328344e-03 1.977454e-03
-## MN1859         3.182137e-04 1.061808e-02 2.869936e-03
-## MO1835         1.257841e-04 4.052691e-04 2.646956e-04
-## MO1849         1.246167e-04 5.213873e-03 1.782199e-03
-## MO1856         1.460881e-04 5.222987e-03 1.996732e-03
-## MO1879         1.731888e-04 4.022087e-03 1.700548e-03
-## MS1848         5.796598e-04 6.124960e-04 2.784402e-04
-## MS1850         1.857804e-05 1.899467e-03 6.521707e-04
-## MS1857         5.519955e-04 1.713766e-03 6.969158e-04
-## MT1865         3.205539e-04 1.805902e-02 2.955114e-03
-## MT1895         3.248429e-04 9.592909e-03 3.782671e-03
-## NC1868         3.085761e-04 1.071453e-02 2.932377e-03
-## ND1877         3.603960e-04 2.071289e-02 6.293263e-03
-## ND1877extended 3.840557e-04 1.533849e-02 4.743622e-03
-## NE1857         1.599508e-04 3.334039e-02 1.193464e-03
-## NE1859         3.399224e-04 1.590493e-01 3.627758e-02
-## NE1866         3.959996e-04 1.812248e-01 2.465839e-02
-## NH1842         1.231297e-04 1.972929e-04 1.142675e-04
-## NJ1847         1.770796e-04 4.395634e-04 1.916836e-04
-## NM1865         1.205976e-04 2.740450e-04 2.048879e-04
-## NM1897         4.892900e-04 7.588087e-03 2.691695e-03
-## NV1861         2.895377e-04 1.865863e-02 2.795266e-03
-## NV1869         2.737681e-04 2.404841e-02 2.607600e-03
-## NY1848         1.488807e-04 5.575526e-03 1.932012e-03
-## NY1849         2.162202e-04 9.890194e-03 2.802759e-03
-## NY1850         3.161377e-04 1.161578e-02 2.822287e-03
-## NY1851         2.037332e-04 1.098798e-02 3.058991e-03
-## NY1853         2.873551e-04 1.060288e-02 2.564894e-03
-## NY1876         2.455288e-04 1.305373e-03 7.649599e-04
-## NY1879         2.400840e-04 1.001574e-03 5.353444e-04
-## OH1853         3.495597e-04 1.549621e-01 3.679592e-02
-## OH1853extended 3.940249e-04 1.236565e-01 3.108909e-02
-## OH1879         5.527720e-04 2.427215e-02 5.084519e-02
-## OK1891         4.253857e-04 8.107845e-03 3.534390e-03
-## OK1893         4.263715e-04 1.126952e-01 2.430722e-02
-## OR1854         3.392756e-04 1.099159e-02 2.860838e-03
-## OR1862         3.371397e-04 7.061518e-03 1.890970e-03
-## SC1870         2.283831e-04 1.050912e-02 2.875711e-03
-## TN1858         4.013273e-04 8.393463e-04 2.997282e-04
-## UT1853         1.224607e-05 2.612886e-05 2.523614e-05
-## UT1870         2.093189e-04 1.197333e-02 1.764705e-03
-## UT1884         1.625912e-04 5.664426e-03 1.610797e-03
-## VA1841         3.236104e-04 1.662162e-04 9.345463e-05
-## VA1860         6.163515e-02 2.764759e-04 1.665738e-04
-## WA1855         3.125142e-04 7.059465e-03 2.301340e-03
-## WA1873         3.092176e-04 4.880520e-03 1.826181e-03
-## WI1849         8.887765e-04 8.706407e-04 3.835400e-04
-## WI1856         1.752788e-04 1.017326e-02 3.203172e-03
-## WI1858         6.396059e-04 6.138271e-03 1.989699e-03
-## WOOD1857       2.332662e-04 1.179944e-02 2.040975e-03
-## WV1868                   NA 3.962600e-04 2.255955e-04
-## WY1870                   NA           NA 2.666457e-02
-## WY1886                   NA           NA           NA
+##                AK1900 AL1852 AR1868 AR1874 AZ1865 AZ1887 BI1859 CA1850
+## AK1900             NA  5e-04  3e-03 0.0023 0.0192 0.0030  1e-04 0.0111
+## AL1852             NA     NA  4e-04 0.0002 0.0008 0.0003  1e-04 0.0002
+## AR1868             NA     NA     NA 0.0994 0.0050 0.0022  2e-04 0.0053
+## AR1874             NA     NA     NA     NA 0.0050 0.0029  1e-04 0.0071
+## AZ1865             NA     NA     NA     NA     NA 0.0134  2e-04 0.0355
+## AZ1887             NA     NA     NA     NA     NA     NA  2e-04 0.0044
+## BI1859             NA     NA     NA     NA     NA     NA     NA 0.0002
+## CA1850             NA     NA     NA     NA     NA     NA     NA     NA
+## CA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## CA1858             NA     NA     NA     NA     NA     NA     NA     NA
+## CA1868             NA     NA     NA     NA     NA     NA     NA     NA
+## CA1868extended     NA     NA     NA     NA     NA     NA     NA     NA
+## CA1872             NA     NA     NA     NA     NA     NA     NA     NA
+## CO1868             NA     NA     NA     NA     NA     NA     NA     NA
+## CO1877             NA     NA     NA     NA     NA     NA     NA     NA
+## CT1854             NA     NA     NA     NA     NA     NA     NA     NA
+## CT1879             NA     NA     NA     NA     NA     NA     NA     NA
+## CT1879extended     NA     NA     NA     NA     NA     NA     NA     NA
+## DC1857             NA     NA     NA     NA     NA     NA     NA     NA
+## DE1852             NA     NA     NA     NA     NA     NA     NA     NA
+## DT1862             NA     NA     NA     NA     NA     NA     NA     NA
+## DT1868             NA     NA     NA     NA     NA     NA     NA     NA
+## DT1887             NA     NA     NA     NA     NA     NA     NA     NA
+## FL1847             NA     NA     NA     NA     NA     NA     NA     NA
+## FL1870             NA     NA     NA     NA     NA     NA     NA     NA
+## FL1892             NA     NA     NA     NA     NA     NA     NA     NA
+## FR1806             NA     NA     NA     NA     NA     NA     NA     NA
+## GA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## GA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1852             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1854             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1873             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1875             NA     NA     NA     NA     NA     NA     NA     NA
+## HI1859             NA     NA     NA     NA     NA     NA     NA     NA
+## HI1897             NA     NA     NA     NA     NA     NA     NA     NA
+## IA1839             NA     NA     NA     NA     NA     NA     NA     NA
+## IA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## IA1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ID1864             NA     NA     NA     NA     NA     NA     NA     NA
+## ID1881             NA     NA     NA     NA     NA     NA     NA     NA
+## IL1866             NA     NA     NA     NA     NA     NA     NA     NA
+## IL1933             NA     NA     NA     NA     NA     NA     NA     NA
+## IN1843             NA     NA     NA     NA     NA     NA     NA     NA
+## IN1852             NA     NA     NA     NA     NA     NA     NA     NA
+## KS1859             NA     NA     NA     NA     NA     NA     NA     NA
+## KS1868             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1854             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825french       NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867             NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867french       NA     NA     NA     NA     NA     NA     NA     NA
+## MA1836             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1858             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1855             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ME1840             NA     NA     NA     NA     NA     NA     NA     NA
+## MI1853             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1859             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1835             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1849             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1856             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1879             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1848             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1850             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1857             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1865             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1895             NA     NA     NA     NA     NA     NA     NA     NA
+## NC1868             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877extended     NA     NA     NA     NA     NA     NA     NA     NA
+## NE1857             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1859             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1866             NA     NA     NA     NA     NA     NA     NA     NA
+## NH1842             NA     NA     NA     NA     NA     NA     NA     NA
+## NJ1847             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1865             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1897             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1861             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1869             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                CA1851 CA1858 CA1868 CA1868extended CA1872 CO1868 CO1877
+## AK1900         0.0192 0.0161 0.0125         0.0059 0.0160  4e-04 0.0089
+## AL1852         0.0007 0.0007 0.0005         0.0003 0.0008  3e-04 0.0005
+## AR1868         0.0055 0.0037 0.0032         0.0016 0.0051  4e-04 0.0051
+## AR1874         0.0060 0.0038 0.0027         0.0011 0.0045  2e-04 0.0064
+## AZ1865         0.3182 0.2369 0.1572         0.0550 0.0822  4e-04 0.0931
+## AZ1887         0.0130 0.0091 0.0061         0.0031 0.1078  4e-04 0.0101
+## BI1859         0.0002 0.0002 0.0002         0.0001 0.0001  2e-04 0.0001
+## CA1850         0.0451 0.0298 0.0177         0.0063 0.0131  4e-04 0.0215
+## CA1851             NA 0.3146 0.1795         0.0616 0.0853  3e-04 0.0923
+## CA1858             NA     NA 0.1807         0.0681 0.0804  3e-04 0.0769
+## CA1868             NA     NA     NA         0.2212 0.0798  3e-04 0.0708
+## CA1868extended     NA     NA     NA             NA 0.0400  2e-04 0.0265
+## CA1872             NA     NA     NA             NA     NA  4e-04 0.0385
+## CO1868             NA     NA     NA             NA     NA     NA 0.0072
+## CO1877             NA     NA     NA             NA     NA     NA     NA
+## CT1854             NA     NA     NA             NA     NA     NA     NA
+## CT1879             NA     NA     NA             NA     NA     NA     NA
+## CT1879extended     NA     NA     NA             NA     NA     NA     NA
+## DC1857             NA     NA     NA             NA     NA     NA     NA
+## DE1852             NA     NA     NA             NA     NA     NA     NA
+## DT1862             NA     NA     NA             NA     NA     NA     NA
+## DT1868             NA     NA     NA             NA     NA     NA     NA
+## DT1887             NA     NA     NA             NA     NA     NA     NA
+## FL1847             NA     NA     NA             NA     NA     NA     NA
+## FL1870             NA     NA     NA             NA     NA     NA     NA
+## FL1892             NA     NA     NA             NA     NA     NA     NA
+## FR1806             NA     NA     NA             NA     NA     NA     NA
+## GA1851             NA     NA     NA             NA     NA     NA     NA
+## GA1860             NA     NA     NA             NA     NA     NA     NA
+## GB1852             NA     NA     NA             NA     NA     NA     NA
+## GB1854             NA     NA     NA             NA     NA     NA     NA
+## GB1873             NA     NA     NA             NA     NA     NA     NA
+## GB1875             NA     NA     NA             NA     NA     NA     NA
+## HI1859             NA     NA     NA             NA     NA     NA     NA
+## HI1897             NA     NA     NA             NA     NA     NA     NA
+## IA1839             NA     NA     NA             NA     NA     NA     NA
+## IA1851             NA     NA     NA             NA     NA     NA     NA
+## IA1859             NA     NA     NA             NA     NA     NA     NA
+## ID1864             NA     NA     NA             NA     NA     NA     NA
+## ID1881             NA     NA     NA             NA     NA     NA     NA
+## IL1866             NA     NA     NA             NA     NA     NA     NA
+## IL1933             NA     NA     NA             NA     NA     NA     NA
+## IN1843             NA     NA     NA             NA     NA     NA     NA
+## IN1852             NA     NA     NA             NA     NA     NA     NA
+## KS1859             NA     NA     NA             NA     NA     NA     NA
+## KS1868             NA     NA     NA             NA     NA     NA     NA
+## KY1851             NA     NA     NA             NA     NA     NA     NA
+## KY1854             NA     NA     NA             NA     NA     NA     NA
+## LA1825             NA     NA     NA             NA     NA     NA     NA
+## LA1825french       NA     NA     NA             NA     NA     NA     NA
+## LC1867             NA     NA     NA             NA     NA     NA     NA
+## LC1867french       NA     NA     NA             NA     NA     NA     NA
+## MA1836             NA     NA     NA             NA     NA     NA     NA
+## MA1851             NA     NA     NA             NA     NA     NA     NA
+## MA1858             NA     NA     NA             NA     NA     NA     NA
+## MD1855             NA     NA     NA             NA     NA     NA     NA
+## MD1859             NA     NA     NA             NA     NA     NA     NA
+## ME1840             NA     NA     NA             NA     NA     NA     NA
+## MI1853             NA     NA     NA             NA     NA     NA     NA
+## MN1851             NA     NA     NA             NA     NA     NA     NA
+## MN1859             NA     NA     NA             NA     NA     NA     NA
+## MO1835             NA     NA     NA             NA     NA     NA     NA
+## MO1849             NA     NA     NA             NA     NA     NA     NA
+## MO1856             NA     NA     NA             NA     NA     NA     NA
+## MO1879             NA     NA     NA             NA     NA     NA     NA
+## MS1848             NA     NA     NA             NA     NA     NA     NA
+## MS1850             NA     NA     NA             NA     NA     NA     NA
+## MS1857             NA     NA     NA             NA     NA     NA     NA
+## MT1865             NA     NA     NA             NA     NA     NA     NA
+## MT1895             NA     NA     NA             NA     NA     NA     NA
+## NC1868             NA     NA     NA             NA     NA     NA     NA
+## ND1877             NA     NA     NA             NA     NA     NA     NA
+## ND1877extended     NA     NA     NA             NA     NA     NA     NA
+## NE1857             NA     NA     NA             NA     NA     NA     NA
+## NE1859             NA     NA     NA             NA     NA     NA     NA
+## NE1866             NA     NA     NA             NA     NA     NA     NA
+## NH1842             NA     NA     NA             NA     NA     NA     NA
+## NJ1847             NA     NA     NA             NA     NA     NA     NA
+## NM1865             NA     NA     NA             NA     NA     NA     NA
+## NM1897             NA     NA     NA             NA     NA     NA     NA
+## NV1861             NA     NA     NA             NA     NA     NA     NA
+## NV1869             NA     NA     NA             NA     NA     NA     NA
+## NY1848             NA     NA     NA             NA     NA     NA     NA
+## NY1849             NA     NA     NA             NA     NA     NA     NA
+## NY1850             NA     NA     NA             NA     NA     NA     NA
+## NY1851             NA     NA     NA             NA     NA     NA     NA
+## NY1853             NA     NA     NA             NA     NA     NA     NA
+## NY1876             NA     NA     NA             NA     NA     NA     NA
+## NY1879             NA     NA     NA             NA     NA     NA     NA
+## OH1853             NA     NA     NA             NA     NA     NA     NA
+## OH1853extended     NA     NA     NA             NA     NA     NA     NA
+## OH1879             NA     NA     NA             NA     NA     NA     NA
+## OK1891             NA     NA     NA             NA     NA     NA     NA
+## OK1893             NA     NA     NA             NA     NA     NA     NA
+## OR1854             NA     NA     NA             NA     NA     NA     NA
+## OR1862             NA     NA     NA             NA     NA     NA     NA
+## SC1870             NA     NA     NA             NA     NA     NA     NA
+## TN1858             NA     NA     NA             NA     NA     NA     NA
+## UT1853             NA     NA     NA             NA     NA     NA     NA
+## UT1870             NA     NA     NA             NA     NA     NA     NA
+## UT1884             NA     NA     NA             NA     NA     NA     NA
+## VA1841             NA     NA     NA             NA     NA     NA     NA
+## VA1860             NA     NA     NA             NA     NA     NA     NA
+## WA1855             NA     NA     NA             NA     NA     NA     NA
+## WA1873             NA     NA     NA             NA     NA     NA     NA
+## WI1849             NA     NA     NA             NA     NA     NA     NA
+## WI1856             NA     NA     NA             NA     NA     NA     NA
+## WI1858             NA     NA     NA             NA     NA     NA     NA
+## WOOD1857           NA     NA     NA             NA     NA     NA     NA
+## WV1868             NA     NA     NA             NA     NA     NA     NA
+## WY1870             NA     NA     NA             NA     NA     NA     NA
+## WY1886             NA     NA     NA             NA     NA     NA     NA
+##                CT1854 CT1879 CT1879extended DC1857 DE1852 DT1862 DT1868
+## AK1900          1e-04  2e-04         0.0003 0.0093  2e-04 0.0042 0.0110
+## AL1852          2e-04  0e+00         0.0001 0.0006  2e-04 0.0004 0.0005
+## AR1868          2e-04  1e-04         0.0003 0.0118  2e-04 0.0300 0.0044
+## AR1874          2e-04  1e-04         0.0003 0.0135  1e-04 0.0354 0.0047
+## AZ1865          3e-04  3e-04         0.0003 0.0284  2e-04 0.0096 0.0249
+## AZ1887          2e-04  1e-04         0.0001 0.0035  2e-04 0.0031 0.0034
+## BI1859          2e-04  0e+00         0.0000 0.0002  1e-04 0.0002 0.0001
+## CA1850          3e-04  4e-04         0.0004 0.0141  1e-04 0.0142 0.0497
+## CA1851          3e-04  2e-04         0.0004 0.0281  2e-04 0.0111 0.0270
+## CA1858          3e-04  1e-04         0.0003 0.0227  2e-04 0.0084 0.0202
+## CA1868          3e-04  1e-04         0.0002 0.0158  1e-04 0.0066 0.0148
+## CA1868extended  1e-04  0e+00         0.0002 0.0073  1e-04 0.0026 0.0059
+## CA1872          2e-04  1e-04         0.0003 0.0148  2e-04 0.0090 0.0143
+## CO1868          4e-04  0e+00         0.0001 0.0006  8e-04 0.0005 0.0003
+## CO1877          3e-04  1e-04         0.0004 0.0180  1e-04 0.0093 0.0167
+## CT1854             NA  0e+00         0.0003 0.0004  2e-04 0.0003 0.0003
+## CT1879             NA     NA         0.0269 0.0002  0e+00 0.0004 0.0003
+## CT1879extended     NA     NA             NA 0.0004  1e-04 0.0003 0.0003
+## DC1857             NA     NA             NA     NA  3e-04 0.0335 0.0157
+## DE1852             NA     NA             NA     NA     NA 0.0002 0.0002
+## DT1862             NA     NA             NA     NA     NA     NA 0.0118
+## DT1868             NA     NA             NA     NA     NA     NA     NA
+## DT1887             NA     NA             NA     NA     NA     NA     NA
+## FL1847             NA     NA             NA     NA     NA     NA     NA
+## FL1870             NA     NA             NA     NA     NA     NA     NA
+## FL1892             NA     NA             NA     NA     NA     NA     NA
+## FR1806             NA     NA             NA     NA     NA     NA     NA
+## GA1851             NA     NA             NA     NA     NA     NA     NA
+## GA1860             NA     NA             NA     NA     NA     NA     NA
+## GB1852             NA     NA             NA     NA     NA     NA     NA
+## GB1854             NA     NA             NA     NA     NA     NA     NA
+## GB1873             NA     NA             NA     NA     NA     NA     NA
+## GB1875             NA     NA             NA     NA     NA     NA     NA
+## HI1859             NA     NA             NA     NA     NA     NA     NA
+## HI1897             NA     NA             NA     NA     NA     NA     NA
+## IA1839             NA     NA             NA     NA     NA     NA     NA
+## IA1851             NA     NA             NA     NA     NA     NA     NA
+## IA1859             NA     NA             NA     NA     NA     NA     NA
+## ID1864             NA     NA             NA     NA     NA     NA     NA
+## ID1881             NA     NA             NA     NA     NA     NA     NA
+## IL1866             NA     NA             NA     NA     NA     NA     NA
+## IL1933             NA     NA             NA     NA     NA     NA     NA
+## IN1843             NA     NA             NA     NA     NA     NA     NA
+## IN1852             NA     NA             NA     NA     NA     NA     NA
+## KS1859             NA     NA             NA     NA     NA     NA     NA
+## KS1868             NA     NA             NA     NA     NA     NA     NA
+## KY1851             NA     NA             NA     NA     NA     NA     NA
+## KY1854             NA     NA             NA     NA     NA     NA     NA
+## LA1825             NA     NA             NA     NA     NA     NA     NA
+## LA1825french       NA     NA             NA     NA     NA     NA     NA
+## LC1867             NA     NA             NA     NA     NA     NA     NA
+## LC1867french       NA     NA             NA     NA     NA     NA     NA
+## MA1836             NA     NA             NA     NA     NA     NA     NA
+## MA1851             NA     NA             NA     NA     NA     NA     NA
+## MA1858             NA     NA             NA     NA     NA     NA     NA
+## MD1855             NA     NA             NA     NA     NA     NA     NA
+## MD1859             NA     NA             NA     NA     NA     NA     NA
+## ME1840             NA     NA             NA     NA     NA     NA     NA
+## MI1853             NA     NA             NA     NA     NA     NA     NA
+## MN1851             NA     NA             NA     NA     NA     NA     NA
+## MN1859             NA     NA             NA     NA     NA     NA     NA
+## MO1835             NA     NA             NA     NA     NA     NA     NA
+## MO1849             NA     NA             NA     NA     NA     NA     NA
+## MO1856             NA     NA             NA     NA     NA     NA     NA
+## MO1879             NA     NA             NA     NA     NA     NA     NA
+## MS1848             NA     NA             NA     NA     NA     NA     NA
+## MS1850             NA     NA             NA     NA     NA     NA     NA
+## MS1857             NA     NA             NA     NA     NA     NA     NA
+## MT1865             NA     NA             NA     NA     NA     NA     NA
+## MT1895             NA     NA             NA     NA     NA     NA     NA
+## NC1868             NA     NA             NA     NA     NA     NA     NA
+## ND1877             NA     NA             NA     NA     NA     NA     NA
+## ND1877extended     NA     NA             NA     NA     NA     NA     NA
+## NE1857             NA     NA             NA     NA     NA     NA     NA
+## NE1859             NA     NA             NA     NA     NA     NA     NA
+## NE1866             NA     NA             NA     NA     NA     NA     NA
+## NH1842             NA     NA             NA     NA     NA     NA     NA
+## NJ1847             NA     NA             NA     NA     NA     NA     NA
+## NM1865             NA     NA             NA     NA     NA     NA     NA
+## NM1897             NA     NA             NA     NA     NA     NA     NA
+## NV1861             NA     NA             NA     NA     NA     NA     NA
+## NV1869             NA     NA             NA     NA     NA     NA     NA
+## NY1848             NA     NA             NA     NA     NA     NA     NA
+## NY1849             NA     NA             NA     NA     NA     NA     NA
+## NY1850             NA     NA             NA     NA     NA     NA     NA
+## NY1851             NA     NA             NA     NA     NA     NA     NA
+## NY1853             NA     NA             NA     NA     NA     NA     NA
+## NY1876             NA     NA             NA     NA     NA     NA     NA
+## NY1879             NA     NA             NA     NA     NA     NA     NA
+## OH1853             NA     NA             NA     NA     NA     NA     NA
+## OH1853extended     NA     NA             NA     NA     NA     NA     NA
+## OH1879             NA     NA             NA     NA     NA     NA     NA
+## OK1891             NA     NA             NA     NA     NA     NA     NA
+## OK1893             NA     NA             NA     NA     NA     NA     NA
+## OR1854             NA     NA             NA     NA     NA     NA     NA
+## OR1862             NA     NA             NA     NA     NA     NA     NA
+## SC1870             NA     NA             NA     NA     NA     NA     NA
+## TN1858             NA     NA             NA     NA     NA     NA     NA
+## UT1853             NA     NA             NA     NA     NA     NA     NA
+## UT1870             NA     NA             NA     NA     NA     NA     NA
+## UT1884             NA     NA             NA     NA     NA     NA     NA
+## VA1841             NA     NA             NA     NA     NA     NA     NA
+## VA1860             NA     NA             NA     NA     NA     NA     NA
+## WA1855             NA     NA             NA     NA     NA     NA     NA
+## WA1873             NA     NA             NA     NA     NA     NA     NA
+## WI1849             NA     NA             NA     NA     NA     NA     NA
+## WI1856             NA     NA             NA     NA     NA     NA     NA
+## WI1858             NA     NA             NA     NA     NA     NA     NA
+## WOOD1857           NA     NA             NA     NA     NA     NA     NA
+## WV1868             NA     NA             NA     NA     NA     NA     NA
+## WY1870             NA     NA             NA     NA     NA     NA     NA
+## WY1886             NA     NA             NA     NA     NA     NA     NA
+##                DT1887 FL1847 FL1870 FL1892 FR1806 GA1851 GA1860 GB1852
+## AK1900         0.0065 0.0003 0.0133 0.0007      0 0.0002 0.0002 0.0001
+## AL1852         0.0004 0.0005 0.0006 0.0005      0 0.0003 0.0004 0.0001
+## AR1868         0.0029 0.0004 0.0051 0.0004      0 0.0002 0.0003 0.0001
+## AR1874         0.0023 0.0002 0.0060 0.0002      0 0.0001 0.0001 0.0001
+## AZ1865         0.0178 0.0003 0.0340 0.0005      0 0.0002 0.0002 0.0001
+## AZ1887         0.0454 0.0004 0.0046 0.0004      0 0.0003 0.0004 0.0001
+## BI1859         0.0001 0.0002 0.0002 0.0003      0 0.0001 0.0001 0.0007
+## CA1850         0.0125 0.0002 0.0636 0.0003      0 0.0001 0.0002 0.0000
+## CA1851         0.0193 0.0003 0.0372 0.0005      0 0.0002 0.0003 0.0001
+## CA1858         0.0182 0.0003 0.0275 0.0005      0 0.0002 0.0003 0.0001
+## CA1868         0.0157 0.0003 0.0211 0.0005      0 0.0002 0.0003 0.0001
+## CA1868extended 0.0080 0.0002 0.0081 0.0003      0 0.0002 0.0002 0.0001
+## CA1872         0.0553 0.0003 0.0169 0.0019      0 0.0002 0.0003 0.0001
+## CO1868         0.0004 0.0013 0.0003 0.0008      0 0.0005 0.0005 0.0002
+## CO1877         0.0082 0.0004 0.0205 0.0005      0 0.0002 0.0003 0.0002
+## CT1854         0.0002 0.0003 0.0003 0.0003      0 0.0002 0.0002 0.0001
+## CT1879         0.0001 0.0000 0.0005 0.0000      0 0.0000 0.0000 0.0001
+## CT1879extended 0.0002 0.0001 0.0004 0.0002      0 0.0001 0.0001 0.0002
+## DC1857         0.0091 0.0006 0.0196 0.0013      0 0.0002 0.0004 0.0001
+## DE1852         0.0002 0.0005 0.0002 0.0005      0 0.0002 0.0002 0.0001
+## DT1862         0.0105 0.0006 0.0140 0.0006      0 0.0003 0.0004 0.0002
+## DT1868         0.0295 0.0002 0.1422 0.0025      0 0.0001 0.0002 0.0001
+## DT1887             NA 0.0004 0.0300 0.0016      0 0.0002 0.0003 0.0001
+## FL1847             NA     NA 0.0004 0.0335      0 0.0033 0.0009 0.0002
+## FL1870             NA     NA     NA 0.0023      0 0.0002 0.0002 0.0001
+## FL1892             NA     NA     NA     NA      0 0.0008 0.0005 0.0085
+## FR1806             NA     NA     NA     NA     NA 0.0000 0.0000 0.0000
+## GA1851             NA     NA     NA     NA     NA     NA 0.0138 0.0002
+## GA1860             NA     NA     NA     NA     NA     NA     NA 0.0001
+## GB1852             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1854             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1873             NA     NA     NA     NA     NA     NA     NA     NA
+## GB1875             NA     NA     NA     NA     NA     NA     NA     NA
+## HI1859             NA     NA     NA     NA     NA     NA     NA     NA
+## HI1897             NA     NA     NA     NA     NA     NA     NA     NA
+## IA1839             NA     NA     NA     NA     NA     NA     NA     NA
+## IA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## IA1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ID1864             NA     NA     NA     NA     NA     NA     NA     NA
+## ID1881             NA     NA     NA     NA     NA     NA     NA     NA
+## IL1866             NA     NA     NA     NA     NA     NA     NA     NA
+## IL1933             NA     NA     NA     NA     NA     NA     NA     NA
+## IN1843             NA     NA     NA     NA     NA     NA     NA     NA
+## IN1852             NA     NA     NA     NA     NA     NA     NA     NA
+## KS1859             NA     NA     NA     NA     NA     NA     NA     NA
+## KS1868             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1854             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825french       NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867             NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867french       NA     NA     NA     NA     NA     NA     NA     NA
+## MA1836             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1858             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1855             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ME1840             NA     NA     NA     NA     NA     NA     NA     NA
+## MI1853             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1859             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1835             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1849             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1856             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1879             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1848             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1850             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1857             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1865             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1895             NA     NA     NA     NA     NA     NA     NA     NA
+## NC1868             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877extended     NA     NA     NA     NA     NA     NA     NA     NA
+## NE1857             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1859             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1866             NA     NA     NA     NA     NA     NA     NA     NA
+## NH1842             NA     NA     NA     NA     NA     NA     NA     NA
+## NJ1847             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1865             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1897             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1861             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1869             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                GB1854 GB1873 GB1875 HI1859 HI1897 IA1839 IA1851 IA1859
+## AK1900         0.0001  1e-04 0.0001 0.0004 0.0007 0.0001 0.0013 0.0026
+## AL1852         0.0000  0e+00 0.0001 0.0001 0.0002 0.0001 0.0003 0.0006
+## AR1868         0.0000  0e+00 0.0001 0.0012 0.0011 0.0001 0.0007 0.0246
+## AR1874         0.0001  0e+00 0.0001 0.0022 0.0014 0.0001 0.0009 0.0202
+## AZ1865         0.0001  0e+00 0.0001 0.0049 0.0038 0.0001 0.0024 0.0037
+## AZ1887         0.0001  1e-04 0.0001 0.0011 0.0010 0.0001 0.0007 0.0015
+## BI1859         0.0017  1e-04 0.0001 0.0000 0.0006 0.0001 0.0001 0.0003
+## CA1850         0.0001  0e+00 0.0000 0.0026 0.0017 0.0002 0.0011 0.0037
+## CA1851         0.0001  0e+00 0.0001 0.0061 0.0047 0.0001 0.0026 0.0044
+## CA1858         0.0001  1e-04 0.0001 0.0025 0.0022 0.0001 0.0021 0.0034
+## CA1868         0.0001  0e+00 0.0001 0.0029 0.0026 0.0001 0.0019 0.0030
+## CA1868extended 0.0000  0e+00 0.0001 0.0008 0.0009 0.0000 0.0008 0.0016
+## CA1872         0.0001  1e-04 0.0001 0.0016 0.0017 0.0001 0.0027 0.0038
+## CO1868         0.0001  0e+00 0.0001 0.0001 0.0009 0.0159 0.0005 0.0004
+## CO1877         0.0001  0e+00 0.0001 0.0030 0.0023 0.0001 0.0020 0.0038
+## CT1854         0.0001  1e-04 0.0001 0.0003 0.0004 0.0001 0.0001 0.0002
+## CT1879         0.0000  1e-04 0.0001 0.0003 0.0002 0.0001 0.0000 0.0000
+## CT1879extended 0.0000  1e-04 0.0002 0.0001 0.0001 0.0001 0.0001 0.0002
+## DC1857         0.0001  1e-04 0.0001 0.0018 0.0021 0.0003 0.0025 0.0098
+## DE1852         0.0000  0e+00 0.0001 0.0002 0.0006 0.0001 0.0002 0.0002
+## DT1862         0.0001  1e-04 0.0001 0.0024 0.0020 0.0003 0.0074 0.0224
+## DT1868         0.0001  1e-04 0.0001 0.0022 0.0023 0.0001 0.0012 0.0032
+## DT1887         0.0001  0e+00 0.0001 0.0006 0.0010 0.0001 0.0014 0.0029
+## FL1847         0.0001  1e-04 0.0001 0.0001 0.0016 0.0003 0.0003 0.0004
+## FL1870         0.0001  1e-04 0.0001 0.0029 0.0028 0.0001 0.0015 0.0045
+## FL1892         0.0021  1e-04 0.0001 0.0003 0.0029 0.0003 0.0002 0.0008
+## FR1806         0.0000  0e+00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0001  1e-04 0.0001 0.0001 0.0002 0.0001 0.0002 0.0002
+## GA1860         0.0001  0e+00 0.0001 0.0000 0.0002 0.0001 0.0003 0.0003
+## GB1852         0.0105  6e-04 0.0025 0.0001 0.0109 0.0001 0.0001 0.0011
+## GB1854             NA  8e-04 0.0011 0.0001 0.0148 0.0001 0.0001 0.0020
+## GB1873             NA     NA 0.0042 0.0000 0.0002 0.0000 0.0000 0.0001
+## GB1875             NA     NA     NA 0.0000 0.0002 0.0000 0.0001 0.0001
+## HI1859             NA     NA     NA     NA 0.1075 0.0001 0.0005 0.0005
+## HI1897             NA     NA     NA     NA     NA 0.0001 0.0005 0.0007
+## IA1839             NA     NA     NA     NA     NA     NA 0.0002 0.0001
+## IA1851             NA     NA     NA     NA     NA     NA     NA 0.1173
+## IA1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ID1864             NA     NA     NA     NA     NA     NA     NA     NA
+## ID1881             NA     NA     NA     NA     NA     NA     NA     NA
+## IL1866             NA     NA     NA     NA     NA     NA     NA     NA
+## IL1933             NA     NA     NA     NA     NA     NA     NA     NA
+## IN1843             NA     NA     NA     NA     NA     NA     NA     NA
+## IN1852             NA     NA     NA     NA     NA     NA     NA     NA
+## KS1859             NA     NA     NA     NA     NA     NA     NA     NA
+## KS1868             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1854             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825french       NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867             NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867french       NA     NA     NA     NA     NA     NA     NA     NA
+## MA1836             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1858             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1855             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ME1840             NA     NA     NA     NA     NA     NA     NA     NA
+## MI1853             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1859             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1835             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1849             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1856             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1879             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1848             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1850             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1857             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1865             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1895             NA     NA     NA     NA     NA     NA     NA     NA
+## NC1868             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877extended     NA     NA     NA     NA     NA     NA     NA     NA
+## NE1857             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1859             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1866             NA     NA     NA     NA     NA     NA     NA     NA
+## NH1842             NA     NA     NA     NA     NA     NA     NA     NA
+## NJ1847             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1865             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1897             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1861             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1869             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                ID1864 ID1881 IL1866 IL1933 IN1843 IN1852 KS1859 KS1868
+## AK1900         0.0153 0.0129 0.0004 0.0003 0.0009 0.0034 0.0049 0.0044
+## AL1852         0.0005 0.0008 0.0004 0.0002 0.0006 0.0005 0.0004 0.0004
+## AR1868         0.0037 0.0047 0.0004 0.0003 0.0005 0.0093 0.0290 0.0193
+## AR1874         0.0037 0.0048 0.0002 0.0005 0.0002 0.0108 0.0358 0.0193
+## AZ1865         0.1443 0.0729 0.0004 0.0005 0.0005 0.0055 0.0107 0.0086
+## AZ1887         0.0076 0.0055 0.0004 0.0004 0.0005 0.0026 0.0029 0.0020
+## BI1859         0.0001 0.0001 0.0002 0.0002 0.0002 0.0002 0.0002 0.0002
+## CA1850         0.0210 0.0128 0.0003 0.0013 0.0003 0.0077 0.0148 0.0084
+## CA1851         0.1355 0.0706 0.0004 0.0006 0.0005 0.0068 0.0120 0.0094
+## CA1858         0.1356 0.0638 0.0004 0.0004 0.0005 0.0054 0.0091 0.0081
+## CA1868         0.0982 0.0626 0.0003 0.0003 0.0005 0.0036 0.0069 0.0066
+## CA1868extended 0.0379 0.0270 0.0002 0.0002 0.0004 0.0019 0.0028 0.0029
+## CA1872         0.0501 0.1506 0.0004 0.0003 0.0006 0.0050 0.0086 0.0085
+## CO1868         0.0004 0.0003 0.0893 0.0029 0.0022 0.0005 0.0005 0.0005
+## CO1877         0.0612 0.0353 0.0044 0.0006 0.0004 0.0072 0.0101 0.0075
+## CT1854         0.0003 0.0002 0.0005 0.0002 0.0003 0.0002 0.0008 0.0006
+## CT1879         0.0001 0.0001 0.0000 0.0021 0.0000 0.0001 0.0004 0.0002
+## CT1879extended 0.0003 0.0003 0.0001 0.0011 0.0002 0.0003 0.0004 0.0004
+## DC1857         0.0181 0.0134 0.0005 0.0006 0.0058 0.0395 0.0337 0.0258
+## DE1852         0.0001 0.0002 0.0003 0.0001 0.0007 0.0004 0.0002 0.0002
+## DT1862         0.0071 0.0089 0.0005 0.0007 0.0007 0.0088 0.2998 0.1347
+## DT1868         0.0156 0.0142 0.0003 0.0009 0.0005 0.0076 0.0118 0.0077
+## DT1887         0.0128 0.0236 0.0003 0.0005 0.0006 0.0036 0.0097 0.0081
+## FL1847         0.0003 0.0003 0.0022 0.0003 0.0034 0.0009 0.0005 0.0006
+## FL1870         0.0198 0.0167 0.0003 0.0010 0.0007 0.0095 0.0147 0.0098
+## FL1892         0.0006 0.0016 0.0011 0.0002 0.0022 0.0008 0.0006 0.0006
+## FR1806         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0002 0.0001 0.0008 0.0002 0.0004 0.0003 0.0003 0.0003
+## GA1860         0.0003 0.0002 0.0005 0.0002 0.0005 0.0003 0.0004 0.0004
+## GB1852         0.0001 0.0001 0.0003 0.0001 0.0001 0.0001 0.0002 0.0001
+## GB1854         0.0001 0.0000 0.0001 0.0002 0.0001 0.0001 0.0001 0.0001
+## GB1873         0.0001 0.0000 0.0001 0.0000 0.0001 0.0001 0.0001 0.0001
+## GB1875         0.0001 0.0001 0.0001 0.0003 0.0001 0.0001 0.0001 0.0001
+## HI1859         0.0027 0.0018 0.0001 0.0001 0.0005 0.0008 0.0018 0.0010
+## HI1897         0.0024 0.0018 0.0004 0.0002 0.0005 0.0009 0.0016 0.0011
+## IA1839         0.0001 0.0001 0.0204 0.0021 0.0003 0.0002 0.0004 0.0003
+## IA1851         0.0018 0.0025 0.0004 0.0002 0.0004 0.0038 0.0018 0.0028
+## IA1859         0.0030 0.0037 0.0003 0.0003 0.0011 0.0076 0.0191 0.0136
+## ID1864             NA 0.0453 0.0004 0.0004 0.0005 0.0046 0.0080 0.0065
+## ID1881             NA     NA 0.0003 0.0003 0.0004 0.0043 0.0085 0.0080
+## IL1866             NA     NA     NA 0.0029 0.0010 0.0006 0.0005 0.0005
+## IL1933             NA     NA     NA     NA 0.0002 0.0007 0.0009 0.0006
+## IN1843             NA     NA     NA     NA     NA 0.0090 0.0006 0.0029
+## IN1852             NA     NA     NA     NA     NA     NA 0.0095 0.0135
+## KS1859             NA     NA     NA     NA     NA     NA     NA 0.1722
+## KS1868             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## KY1854             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825             NA     NA     NA     NA     NA     NA     NA     NA
+## LA1825french       NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867             NA     NA     NA     NA     NA     NA     NA     NA
+## LC1867french       NA     NA     NA     NA     NA     NA     NA     NA
+## MA1836             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MA1858             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1855             NA     NA     NA     NA     NA     NA     NA     NA
+## MD1859             NA     NA     NA     NA     NA     NA     NA     NA
+## ME1840             NA     NA     NA     NA     NA     NA     NA     NA
+## MI1853             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1859             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1835             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1849             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1856             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1879             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1848             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1850             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1857             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1865             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1895             NA     NA     NA     NA     NA     NA     NA     NA
+## NC1868             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877extended     NA     NA     NA     NA     NA     NA     NA     NA
+## NE1857             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1859             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1866             NA     NA     NA     NA     NA     NA     NA     NA
+## NH1842             NA     NA     NA     NA     NA     NA     NA     NA
+## NJ1847             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1865             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1897             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1861             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1869             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                KY1851 KY1854 LA1825 LA1825french LC1867 LC1867french
+## AK1900         0.0035 0.0024  0e+00        0e+00  1e-04        1e-04
+## AL1852         0.0003 0.0003  0e+00        0e+00  1e-04        0e+00
+## AR1868         0.1454 0.1402  0e+00        0e+00  1e-04        0e+00
+## AR1874         0.0974 0.0665  0e+00        0e+00  1e-04        0e+00
+## AZ1865         0.0060 0.0039  0e+00        0e+00  1e-04        0e+00
+## AZ1887         0.0024 0.0020  0e+00        0e+00  1e-04        0e+00
+## BI1859         0.0002 0.0001  0e+00        0e+00  0e+00        0e+00
+## CA1850         0.0074 0.0046  1e-04        0e+00  1e-04        0e+00
+## CA1851         0.0070 0.0045  0e+00        0e+00  1e-04        0e+00
+## CA1858         0.0044 0.0030  0e+00        0e+00  1e-04        0e+00
+## CA1868         0.0037 0.0025  0e+00        0e+00  1e-04        0e+00
+## CA1868extended 0.0016 0.0012  0e+00        1e-04  1e-04        1e-04
+## CA1872         0.0065 0.0046  0e+00        0e+00  1e-04        0e+00
+## CO1868         0.0003 0.0003  0e+00        0e+00  1e-04        0e+00
+## CO1877         0.0060 0.0038  0e+00        0e+00  1e-04        0e+00
+## CT1854         0.0002 0.0002  0e+00        0e+00  1e-04        0e+00
+## CT1879         0.0001 0.0001  0e+00        0e+00  0e+00        0e+00
+## CT1879extended 0.0002 0.0002  0e+00        0e+00  0e+00        1e-04
+## DC1857         0.0153 0.0108  0e+00        0e+00  1e-04        0e+00
+## DE1852         0.0002 0.0001  0e+00        0e+00  1e-04        0e+00
+## DT1862         0.0439 0.0275  0e+00        0e+00  1e-04        0e+00
+## DT1868         0.0059 0.0037  0e+00        0e+00  1e-04        0e+00
+## DT1887         0.0037 0.0026  0e+00        0e+00  1e-04        0e+00
+## FL1847         0.0003 0.0003  0e+00        0e+00  1e-04        0e+00
+## FL1870         0.0070 0.0044  0e+00        0e+00  1e-04        0e+00
+## FL1892         0.0005 0.0003  1e-04        0e+00  1e-04        0e+00
+## FR1806         0.0000 0.0000  0e+00        0e+00  0e+00        0e+00
+## GA1851         0.0002 0.0002  0e+00        0e+00  1e-04        1e-04
+## GA1860         0.0002 0.0002  0e+00        0e+00  1e-04        0e+00
+## GB1852         0.0001 0.0001  0e+00        0e+00  1e-04        0e+00
+## GB1854         0.0001 0.0001  0e+00        0e+00  0e+00        0e+00
+## GB1873         0.0000 0.0000  0e+00        0e+00  0e+00        0e+00
+## GB1875         0.0001 0.0001  0e+00        1e-04  1e-04        0e+00
+## HI1859         0.0019 0.0010  0e+00        0e+00  0e+00        0e+00
+## HI1897         0.0016 0.0009  0e+00        0e+00  1e-04        0e+00
+## IA1839         0.0001 0.0001  0e+00        0e+00  0e+00        0e+00
+## IA1851         0.0009 0.0007  0e+00        0e+00  1e-04        0e+00
+## IA1859         0.0252 0.0204  0e+00        0e+00  1e-04        0e+00
+## ID1864         0.0042 0.0029  0e+00        0e+00  1e-04        0e+00
+## ID1881         0.0060 0.0041  0e+00        0e+00  1e-04        0e+00
+## IL1866         0.0003 0.0003  0e+00        0e+00  1e-04        0e+00
+## IL1933         0.0003 0.0003  0e+00        0e+00  0e+00        0e+00
+## IN1843         0.0003 0.0004  1e-04        0e+00  1e-04        0e+00
+## IN1852         0.0107 0.0079  0e+00        0e+00  1e-04        0e+00
+## KS1859         0.0402 0.0254  0e+00        0e+00  1e-04        0e+00
+## KS1868         0.0243 0.0172  0e+00        0e+00  1e-04        1e-04
+## KY1851             NA 0.1835  0e+00        0e+00  1e-04        0e+00
+## KY1854             NA     NA  0e+00        0e+00  1e-04        0e+00
+## LA1825             NA     NA     NA        0e+00  0e+00        0e+00
+## LA1825french       NA     NA     NA           NA  0e+00        0e+00
+## LC1867             NA     NA     NA           NA     NA        0e+00
+## LC1867french       NA     NA     NA           NA     NA           NA
+## MA1836             NA     NA     NA           NA     NA           NA
+## MA1851             NA     NA     NA           NA     NA           NA
+## MA1858             NA     NA     NA           NA     NA           NA
+## MD1855             NA     NA     NA           NA     NA           NA
+## MD1859             NA     NA     NA           NA     NA           NA
+## ME1840             NA     NA     NA           NA     NA           NA
+## MI1853             NA     NA     NA           NA     NA           NA
+## MN1851             NA     NA     NA           NA     NA           NA
+## MN1859             NA     NA     NA           NA     NA           NA
+## MO1835             NA     NA     NA           NA     NA           NA
+## MO1849             NA     NA     NA           NA     NA           NA
+## MO1856             NA     NA     NA           NA     NA           NA
+## MO1879             NA     NA     NA           NA     NA           NA
+## MS1848             NA     NA     NA           NA     NA           NA
+## MS1850             NA     NA     NA           NA     NA           NA
+## MS1857             NA     NA     NA           NA     NA           NA
+## MT1865             NA     NA     NA           NA     NA           NA
+## MT1895             NA     NA     NA           NA     NA           NA
+## NC1868             NA     NA     NA           NA     NA           NA
+## ND1877             NA     NA     NA           NA     NA           NA
+## ND1877extended     NA     NA     NA           NA     NA           NA
+## NE1857             NA     NA     NA           NA     NA           NA
+## NE1859             NA     NA     NA           NA     NA           NA
+## NE1866             NA     NA     NA           NA     NA           NA
+## NH1842             NA     NA     NA           NA     NA           NA
+## NJ1847             NA     NA     NA           NA     NA           NA
+## NM1865             NA     NA     NA           NA     NA           NA
+## NM1897             NA     NA     NA           NA     NA           NA
+## NV1861             NA     NA     NA           NA     NA           NA
+## NV1869             NA     NA     NA           NA     NA           NA
+## NY1848             NA     NA     NA           NA     NA           NA
+## NY1849             NA     NA     NA           NA     NA           NA
+## NY1850             NA     NA     NA           NA     NA           NA
+## NY1851             NA     NA     NA           NA     NA           NA
+## NY1853             NA     NA     NA           NA     NA           NA
+## NY1876             NA     NA     NA           NA     NA           NA
+## NY1879             NA     NA     NA           NA     NA           NA
+## OH1853             NA     NA     NA           NA     NA           NA
+## OH1853extended     NA     NA     NA           NA     NA           NA
+## OH1879             NA     NA     NA           NA     NA           NA
+## OK1891             NA     NA     NA           NA     NA           NA
+## OK1893             NA     NA     NA           NA     NA           NA
+## OR1854             NA     NA     NA           NA     NA           NA
+## OR1862             NA     NA     NA           NA     NA           NA
+## SC1870             NA     NA     NA           NA     NA           NA
+## TN1858             NA     NA     NA           NA     NA           NA
+## UT1853             NA     NA     NA           NA     NA           NA
+## UT1870             NA     NA     NA           NA     NA           NA
+## UT1884             NA     NA     NA           NA     NA           NA
+## VA1841             NA     NA     NA           NA     NA           NA
+## VA1860             NA     NA     NA           NA     NA           NA
+## WA1855             NA     NA     NA           NA     NA           NA
+## WA1873             NA     NA     NA           NA     NA           NA
+## WI1849             NA     NA     NA           NA     NA           NA
+## WI1856             NA     NA     NA           NA     NA           NA
+## WI1858             NA     NA     NA           NA     NA           NA
+## WOOD1857           NA     NA     NA           NA     NA           NA
+## WV1868             NA     NA     NA           NA     NA           NA
+## WY1870             NA     NA     NA           NA     NA           NA
+## WY1886             NA     NA     NA           NA     NA           NA
+##                MA1836 MA1851 MA1858 MD1855 MD1859 ME1840 MI1853 MN1851
+## AK1900         0.0006  1e-04 0.0005 0.0001 0.0001 0.0005 0.0002 0.0131
+## AL1852         0.0003  1e-04 0.0002 0.0001 0.0001 0.0002 0.0001 0.0007
+## AR1868         0.0003  1e-04 0.0003 0.0001 0.0002 0.0002 0.0001 0.0029
+## AR1874         0.0002  0e+00 0.0002 0.0001 0.0001 0.0002 0.0001 0.0027
+## AZ1865         0.0003  1e-04 0.0003 0.0001 0.0002 0.0003 0.0006 0.0237
+## AZ1887         0.0003  1e-04 0.0004 0.0000 0.0002 0.0004 0.0002 0.0016
+## BI1859         0.0002  1e-04 0.0002 0.0001 0.0001 0.0001 0.0001 0.0001
+## CA1850         0.0004  1e-04 0.0004 0.0001 0.0002 0.0002 0.0011 0.0130
+## CA1851         0.0003  1e-04 0.0003 0.0001 0.0002 0.0002 0.0006 0.0233
+## CA1858         0.0003  0e+00 0.0003 0.0001 0.0001 0.0002 0.0004 0.0190
+## CA1868         0.0003  0e+00 0.0003 0.0000 0.0001 0.0003 0.0004 0.0157
+## CA1868extended 0.0003  0e+00 0.0003 0.0000 0.0001 0.0002 0.0002 0.0071
+## CA1872         0.0006  1e-04 0.0005 0.0000 0.0001 0.0004 0.0002 0.0192
+## CO1868         0.0026  1e-04 0.0011 0.0001 0.0002 0.0020 0.0002 0.0005
+## CO1877         0.0002  0e+00 0.0002 0.0001 0.0002 0.0002 0.0004 0.0110
+## CT1854         0.0003  1e-04 0.0003 0.0000 0.0002 0.0004 0.0001 0.0003
+## CT1879         0.0000  0e+00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001
+## CT1879extended 0.0001  1e-04 0.0001 0.0002 0.0002 0.0001 0.0001 0.0002
+## DC1857         0.0017  1e-04 0.0011 0.0001 0.0001 0.0007 0.0003 0.0083
+## DE1852         0.0029  0e+00 0.0017 0.0001 0.0001 0.0012 0.0001 0.0005
+## DT1862         0.0004  2e-04 0.0004 0.0001 0.0002 0.0004 0.0003 0.0078
+## DT1868         0.0003  1e-04 0.0003 0.0001 0.0001 0.0003 0.0007 0.0184
+## DT1887         0.0003  1e-04 0.0004 0.0000 0.0001 0.0004 0.0003 0.0101
+## FL1847         0.0067  1e-04 0.0043 0.0001 0.0002 0.0018 0.0002 0.0029
+## FL1870         0.0004  1e-04 0.0004 0.0000 0.0001 0.0004 0.0009 0.0224
+## FL1892         0.0027  1e-04 0.0020 0.0057 0.0021 0.0009 0.0002 0.0013
+## FR1806         0.0000  0e+00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0003  0e+00 0.0002 0.0000 0.0002 0.0003 0.0001 0.0002
+## GA1860         0.0002  0e+00 0.0003 0.0001 0.0003 0.0003 0.0001 0.0002
+## GB1852         0.0002  1e-04 0.0001 0.0327 0.0089 0.0001 0.0001 0.0001
+## GB1854         0.0001  1e-04 0.0001 0.0001 0.0001 0.0001 0.0000 0.0000
+## GB1873         0.0001  1e-04 0.0001 0.0000 0.0000 0.0001 0.0000 0.0000
+## GB1875         0.0001  0e+00 0.0001 0.0002 0.0000 0.0001 0.0001 0.0001
+## HI1859         0.0007  0e+00 0.0006 0.0000 0.0000 0.0018 0.0001 0.0009
+## HI1897         0.0050  1e-04 0.0033 0.0001 0.0001 0.0076 0.0002 0.0014
+## IA1839         0.0001  0e+00 0.0001 0.0000 0.0002 0.0001 0.0001 0.0007
+## IA1851         0.0004  0e+00 0.0004 0.0001 0.0001 0.0004 0.0001 0.0019
+## IA1859         0.0004  1e-03 0.0009 0.0012 0.0002 0.0003 0.0001 0.0027
+## ID1864         0.0003  1e-04 0.0003 0.0001 0.0001 0.0002 0.0004 0.0151
+## ID1881         0.0005  1e-04 0.0004 0.0001 0.0001 0.0003 0.0002 0.0176
+## IL1866         0.0010  1e-04 0.0006 0.0002 0.0003 0.0004 0.0002 0.0005
+## IL1933         0.0001  1e-04 0.0002 0.0001 0.0001 0.0001 0.0010 0.0004
+## IN1843         0.0049  1e-04 0.0028 0.0001 0.0002 0.0031 0.0003 0.0018
+## IN1852         0.0009  2e-04 0.0010 0.0001 0.0002 0.0009 0.0002 0.0036
+## KS1859         0.0004  1e-04 0.0004 0.0001 0.0002 0.0004 0.0003 0.0079
+## KS1868         0.0004  1e-04 0.0005 0.0001 0.0002 0.0004 0.0003 0.0061
+## KY1851         0.0003  1e-04 0.0003 0.0001 0.0002 0.0002 0.0001 0.0037
+## KY1854         0.0003  1e-04 0.0003 0.0000 0.0001 0.0002 0.0001 0.0023
+## LA1825         0.0001  0e+00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## LA1825french   0.0000  0e+00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## LC1867         0.0001  0e+00 0.0001 0.0000 0.0000 0.0001 0.0001 0.0001
+## LC1867french   0.0000  0e+00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## MA1836             NA  5e-04 0.1101 0.0001 0.0001 0.0331 0.0002 0.0069
+## MA1851             NA     NA 0.0113 0.0005 0.0005 0.0001 0.0000 0.0001
+## MA1858             NA     NA     NA 0.0002 0.0002 0.0195 0.0002 0.0039
+## MD1855             NA     NA     NA     NA 0.0657 0.0001 0.0000 0.0000
+## MD1859             NA     NA     NA     NA     NA 0.0002 0.0001 0.0001
+## ME1840             NA     NA     NA     NA     NA     NA 0.0001 0.0014
+## MI1853             NA     NA     NA     NA     NA     NA     NA 0.0003
+## MN1851             NA     NA     NA     NA     NA     NA     NA     NA
+## MN1859             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1835             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1849             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1856             NA     NA     NA     NA     NA     NA     NA     NA
+## MO1879             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1848             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1850             NA     NA     NA     NA     NA     NA     NA     NA
+## MS1857             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1865             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1895             NA     NA     NA     NA     NA     NA     NA     NA
+## NC1868             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877extended     NA     NA     NA     NA     NA     NA     NA     NA
+## NE1857             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1859             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1866             NA     NA     NA     NA     NA     NA     NA     NA
+## NH1842             NA     NA     NA     NA     NA     NA     NA     NA
+## NJ1847             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1865             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1897             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1861             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1869             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                MN1859 MO1835 MO1849 MO1856 MO1879 MS1848 MS1850 MS1857
+## AK1900         0.0222 0.0002 0.0040 0.0039 0.0033 0.0003 0.0020 0.0005
+## AL1852         0.0013 0.0002 0.0002 0.0002 0.0002 0.0006 0.0000 0.0005
+## AR1868         0.0050 0.0002 0.0051 0.0049 0.0037 0.0004 0.0025 0.0014
+## AR1874         0.0047 0.0012 0.0075 0.0072 0.0065 0.0002 0.0037 0.0014
+## AZ1865         0.0400 0.0002 0.0103 0.0072 0.0054 0.0003 0.0043 0.0007
+## AZ1887         0.0034 0.0009 0.0025 0.0025 0.0018 0.0008 0.0018 0.0010
+## BI1859         0.0002 0.0002 0.0002 0.0002 0.0002 0.0002 0.0000 0.0002
+## CA1850         0.0230 0.0003 0.0247 0.0161 0.0101 0.0002 0.0209 0.0012
+## CA1851         0.0422 0.0002 0.0116 0.0079 0.0061 0.0002 0.0052 0.0007
+## CA1858         0.0338 0.0002 0.0074 0.0054 0.0040 0.0003 0.0017 0.0007
+## CA1868         0.0265 0.0001 0.0049 0.0035 0.0028 0.0003 0.0015 0.0004
+## CA1868extended 0.0121 0.0001 0.0018 0.0016 0.0012 0.0002 0.0006 0.0003
+## CA1872         0.0311 0.0001 0.0045 0.0035 0.0027 0.0004 0.0012 0.0005
+## CO1868         0.0008 0.0018 0.0004 0.0007 0.0005 0.0029 0.0000 0.0008
+## CO1877         0.0187 0.0003 0.0086 0.0074 0.0053 0.0004 0.0031 0.0006
+## CT1854         0.0004 0.0003 0.0003 0.0004 0.0005 0.0004 0.0000 0.0003
+## CT1879         0.0002 0.0000 0.0001 0.0008 0.0006 0.0000 0.0017 0.0000
+## CT1879extended 0.0003 0.0000 0.0002 0.0005 0.0004 0.0001 0.0002 0.0001
+## DC1857         0.0157 0.0003 0.0067 0.0063 0.0044 0.0004 0.0038 0.0008
+## DE1852         0.0008 0.0001 0.0001 0.0002 0.0002 0.0002 0.0000 0.0004
+## DT1862         0.0116 0.0003 0.0077 0.0076 0.0053 0.0004 0.0030 0.0019
+## DT1868         0.0314 0.0002 0.0146 0.0094 0.0059 0.0002 0.0062 0.0007
+## DT1887         0.0168 0.0001 0.0036 0.0027 0.0018 0.0003 0.0010 0.0004
+## FL1847         0.0047 0.0003 0.0002 0.0003 0.0004 0.0129 0.0000 0.0011
+## FL1870         0.0384 0.0002 0.0169 0.0139 0.0090 0.0003 0.0084 0.0008
+## FL1892         0.0022 0.0003 0.0003 0.0004 0.0004 0.0021 0.0000 0.0015
+## FR1806         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0003 0.0001 0.0001 0.0001 0.0002 0.0016 0.0000 0.0005
+## GA1860         0.0003 0.0002 0.0001 0.0002 0.0002 0.0007 0.0000 0.0005
+## GB1852         0.0001 0.0003 0.0001 0.0001 0.0001 0.0002 0.0000 0.0018
+## GB1854         0.0001 0.0000 0.0000 0.0001 0.0001 0.0001 0.0000 0.0001
+## GB1873         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0000 0.0001
+## GB1875         0.0001 0.0000 0.0000 0.0001 0.0001 0.0001 0.0000 0.0001
+## HI1859         0.0016 0.0001 0.0020 0.0016 0.0009 0.0001 0.0005 0.0000
+## HI1897         0.0024 0.0002 0.0014 0.0012 0.0008 0.0003 0.0002 0.0004
+## IA1839         0.0003 0.0006 0.0001 0.0004 0.0003 0.0003 0.0002 0.0004
+## IA1851         0.0034 0.0002 0.0010 0.0007 0.0007 0.0002 0.0001 0.0003
+## IA1859         0.0049 0.0005 0.0025 0.0044 0.0036 0.0003 0.0013 0.0012
+## ID1864         0.0261 0.0002 0.0072 0.0048 0.0034 0.0003 0.0024 0.0005
+## ID1881         0.0286 0.0001 0.0047 0.0038 0.0029 0.0002 0.0015 0.0005
+## IL1866         0.0008 0.0018 0.0005 0.0007 0.0006 0.0045 0.0001 0.0010
+## IL1933         0.0006 0.0003 0.0011 0.0013 0.0005 0.0002 0.0001 0.0002
+## IN1843         0.0029 0.0017 0.0002 0.0012 0.0008 0.0009 0.0000 0.0008
+## IN1852         0.0072 0.0003 0.0045 0.0031 0.0023 0.0005 0.0010 0.0006
+## KS1859         0.0117 0.0004 0.0072 0.0072 0.0057 0.0004 0.0020 0.0019
+## KS1868         0.0086 0.0003 0.0037 0.0042 0.0034 0.0005 0.0015 0.0017
+## KY1851         0.0061 0.0002 0.0075 0.0062 0.0046 0.0003 0.0032 0.0014
+## KY1854         0.0041 0.0002 0.0047 0.0039 0.0032 0.0003 0.0022 0.0011
+## LA1825         0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000
+## LA1825french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000
+## LC1867         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0000 0.0001
+## LC1867french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## MA1836         0.0105 0.0002 0.0002 0.0002 0.0005 0.0004 0.0000 0.0004
+## MA1851         0.0001 0.0001 0.0002 0.0054 0.0024 0.0001 0.0000 0.0001
+## MA1858         0.0059 0.0002 0.0002 0.0019 0.0009 0.0004 0.0000 0.0004
+## MD1855         0.0001 0.0002 0.0001 0.0000 0.0001 0.0001 0.0001 0.0009
+## MD1859         0.0001 0.0002 0.0002 0.0002 0.0002 0.0002 0.0000 0.0004
+## ME1840         0.0023 0.0002 0.0001 0.0002 0.0002 0.0004 0.0000 0.0004
+## MI1853         0.0005 0.0003 0.0005 0.0009 0.0003 0.0002 0.0002 0.0002
+## MN1851         0.1509 0.0007 0.0047 0.0036 0.0027 0.0004 0.0023 0.0004
+## MN1859             NA 0.0010 0.0076 0.0060 0.0044 0.0005 0.0048 0.0008
+## MO1835             NA     NA 0.0047 0.0635 0.0328 0.0002 0.0001 0.0004
+## MO1849             NA     NA     NA 0.0541 0.0232 0.0002 0.0085 0.0007
+## MO1856             NA     NA     NA     NA 0.1209 0.0003 0.0082 0.0010
+## MO1879             NA     NA     NA     NA     NA 0.0004 0.0053 0.0009
+## MS1848             NA     NA     NA     NA     NA     NA 0.0001 0.0125
+## MS1850             NA     NA     NA     NA     NA     NA     NA 0.0008
+## MS1857             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1865             NA     NA     NA     NA     NA     NA     NA     NA
+## MT1895             NA     NA     NA     NA     NA     NA     NA     NA
+## NC1868             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877             NA     NA     NA     NA     NA     NA     NA     NA
+## ND1877extended     NA     NA     NA     NA     NA     NA     NA     NA
+## NE1857             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1859             NA     NA     NA     NA     NA     NA     NA     NA
+## NE1866             NA     NA     NA     NA     NA     NA     NA     NA
+## NH1842             NA     NA     NA     NA     NA     NA     NA     NA
+## NJ1847             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1865             NA     NA     NA     NA     NA     NA     NA     NA
+## NM1897             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1861             NA     NA     NA     NA     NA     NA     NA     NA
+## NV1869             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                MT1865 MT1895 NC1868 ND1877 ND1877extended NE1857 NE1859
+## AK1900         0.0147 0.0142 0.0124 0.0134         0.0113 0.0013 0.0044
+## AL1852         0.0006 0.0006 0.0007 0.0006         0.0006 0.0003 0.0004
+## AR1868         0.0048 0.0044 0.0049 0.0063         0.0049 0.0005 0.0276
+## AR1874         0.0047 0.0036 0.0050 0.0062         0.0042 0.0006 0.0310
+## AZ1865         0.1445 0.0557 0.0284 0.0399         0.0319 0.0028 0.0086
+## AZ1887         0.0080 0.0739 0.0041 0.0044         0.0735 0.0007 0.0024
+## BI1859         0.0002 0.0001 0.0002 0.0002         0.0002 0.0001 0.0002
+## CA1850         0.0215 0.0092 0.0506 0.0333         0.0216 0.0019 0.0144
+## CA1851         0.1312 0.0540 0.0312 0.0431         0.0334 0.0031 0.0103
+## CA1858         0.1248 0.0522 0.0236 0.0350         0.0310 0.0023 0.0074
+## CA1868         0.0935 0.0506 0.0182 0.0292         0.0276 0.0019 0.0059
+## CA1868extended 0.0339 0.0273 0.0077 0.0125         0.0136 0.0008 0.0024
+## CA1872         0.0473 0.1920 0.0161 0.0425         0.0925 0.0024 0.0087
+## CO1868         0.0006 0.0008 0.0004 0.0007         0.0006 0.0008 0.0005
+## CO1877         0.0749 0.0308 0.0173 0.0204         0.0149 0.0020 0.0083
+## CT1854         0.0006 0.0002 0.0004 0.0003         0.0003 0.0001 0.0003
+## CT1879         0.0002 0.0001 0.0004 0.0004         0.0003 0.0000 0.0004
+## CT1879extended 0.0003 0.0003 0.0005 0.0006         0.0005 0.0001 0.0003
+## DC1857         0.0205 0.0120 0.0174 0.0192         0.0159 0.0046 0.0305
+## DE1852         0.0002 0.0002 0.0003 0.0002         0.0002 0.0002 0.0002
+## DT1862         0.0112 0.0072 0.0120 0.0309         0.0215 0.0128 0.3487
+## DT1868         0.0158 0.0109 0.1032 0.0867         0.0593 0.0017 0.0113
+## DT1887         0.0124 0.0430 0.0274 0.0753         0.1140 0.0026 0.0106
+## FL1847         0.0004 0.0004 0.0004 0.0006         0.0006 0.0004 0.0006
+## FL1870         0.0206 0.0126 0.1422 0.0848         0.0583 0.0019 0.0136
+## FL1892         0.0005 0.0015 0.0023 0.0027         0.0024 0.0003 0.0006
+## FR1806         0.0000 0.0000 0.0000 0.0000         0.0000 0.0000 0.0000
+## GA1851         0.0002 0.0002 0.0003 0.0002         0.0003 0.0002 0.0002
+## GA1860         0.0003 0.0003 0.0003 0.0003         0.0003 0.0003 0.0003
+## GB1852         0.0002 0.0001 0.0001 0.0001         0.0001 0.0001 0.0002
+## GB1854         0.0001 0.0001 0.0001 0.0001         0.0001 0.0001 0.0001
+## GB1873         0.0001 0.0001 0.0000 0.0001         0.0000 0.0000 0.0000
+## GB1875         0.0001 0.0001 0.0001 0.0001         0.0001 0.0001 0.0001
+## HI1859         0.0026 0.0010 0.0019 0.0019         0.0012 0.0004 0.0019
+## HI1897         0.0024 0.0012 0.0023 0.0021         0.0015 0.0004 0.0016
+## IA1839         0.0002 0.0001 0.0001 0.0002         0.0001 0.0003 0.0003
+## IA1851         0.0023 0.0024 0.0014 0.0029         0.0023 0.1780 0.0091
+## IA1859         0.0042 0.0039 0.0041 0.0068         0.0056 0.0702 0.0214
+## ID1864         0.1445 0.0371 0.0174 0.0248         0.0222 0.0020 0.0066
+## ID1881         0.0450 0.1099 0.0153 0.0420         0.0409 0.0023 0.0080
+## IL1866         0.0005 0.0010 0.0004 0.0007         0.0006 0.0004 0.0005
+## IL1933         0.0006 0.0003 0.0011 0.0008         0.0006 0.0002 0.0008
+## IN1843         0.0007 0.0006 0.0007 0.0007         0.0007 0.0010 0.0007
+## IN1852         0.0053 0.0043 0.0090 0.0075         0.0061 0.0032 0.0086
+## KS1859         0.0138 0.0070 0.0126 0.0268         0.0188 0.0056 0.2656
+## KS1868         0.0095 0.0071 0.0088 0.0182         0.0146 0.0056 0.1291
+## KY1851         0.0056 0.0053 0.0062 0.0085         0.0061 0.0006 0.0450
+## KY1854         0.0037 0.0039 0.0041 0.0057         0.0044 0.0005 0.0306
+## LA1825         0.0001 0.0000 0.0000 0.0000         0.0000 0.0000 0.0000
+## LA1825french   0.0000 0.0000 0.0000 0.0000         0.0000 0.0000 0.0000
+## LC1867         0.0001 0.0002 0.0001 0.0001         0.0001 0.0001 0.0001
+## LC1867french   0.0000 0.0000 0.0000 0.0000         0.0000 0.0000 0.0000
+## MA1836         0.0003 0.0006 0.0004 0.0006         0.0006 0.0004 0.0004
+## MA1851         0.0001 0.0001 0.0001 0.0001         0.0001 0.0001 0.0001
+## MA1858         0.0004 0.0006 0.0004 0.0005         0.0006 0.0004 0.0004
+## MD1855         0.0001 0.0000 0.0001 0.0001         0.0001 0.0001 0.0001
+## MD1859         0.0002 0.0001 0.0002 0.0001         0.0001 0.0001 0.0002
+## ME1840         0.0003 0.0004 0.0004 0.0005         0.0005 0.0003 0.0004
+## MI1853         0.0006 0.0001 0.0007 0.0004         0.0003 0.0002 0.0003
+## MN1851         0.0147 0.0141 0.0189 0.0225         0.0176 0.0056 0.0071
+## MN1859         0.0262 0.0227 0.0331 0.0401         0.0312 0.0103 0.0109
+## MO1835         0.0003 0.0001 0.0002 0.0002         0.0002 0.0003 0.0003
+## MO1849         0.0080 0.0035 0.0147 0.0092         0.0061 0.0013 0.0069
+## MO1856         0.0066 0.0028 0.0113 0.0076         0.0052 0.0011 0.0064
+## MO1879         0.0050 0.0022 0.0075 0.0051         0.0036 0.0011 0.0046
+## MS1848         0.0004 0.0004 0.0003 0.0004         0.0004 0.0003 0.0004
+## MS1850         0.0024 0.0007 0.0066 0.0043         0.0026 0.0001 0.0028
+## MS1857         0.0007 0.0005 0.0010 0.0007         0.0006 0.0005 0.0020
+## MT1865             NA 0.0359 0.0174 0.0272         0.0221 0.0025 0.0093
+## MT1895             NA     NA 0.0122 0.0337         0.0693 0.0024 0.0068
+## NC1868             NA     NA     NA 0.0725         0.0525 0.0015 0.0117
+## ND1877             NA     NA     NA     NA         0.5927 0.0058 0.0281
+## ND1877extended     NA     NA     NA     NA             NA 0.0045 0.0198
+## NE1857             NA     NA     NA     NA             NA     NA 0.0119
+## NE1859             NA     NA     NA     NA             NA     NA     NA
+## NE1866             NA     NA     NA     NA             NA     NA     NA
+## NH1842             NA     NA     NA     NA             NA     NA     NA
+## NJ1847             NA     NA     NA     NA             NA     NA     NA
+## NM1865             NA     NA     NA     NA             NA     NA     NA
+## NM1897             NA     NA     NA     NA             NA     NA     NA
+## NV1861             NA     NA     NA     NA             NA     NA     NA
+## NV1869             NA     NA     NA     NA             NA     NA     NA
+## NY1848             NA     NA     NA     NA             NA     NA     NA
+## NY1849             NA     NA     NA     NA             NA     NA     NA
+## NY1850             NA     NA     NA     NA             NA     NA     NA
+## NY1851             NA     NA     NA     NA             NA     NA     NA
+## NY1853             NA     NA     NA     NA             NA     NA     NA
+## NY1876             NA     NA     NA     NA             NA     NA     NA
+## NY1879             NA     NA     NA     NA             NA     NA     NA
+## OH1853             NA     NA     NA     NA             NA     NA     NA
+## OH1853extended     NA     NA     NA     NA             NA     NA     NA
+## OH1879             NA     NA     NA     NA             NA     NA     NA
+## OK1891             NA     NA     NA     NA             NA     NA     NA
+## OK1893             NA     NA     NA     NA             NA     NA     NA
+## OR1854             NA     NA     NA     NA             NA     NA     NA
+## OR1862             NA     NA     NA     NA             NA     NA     NA
+## SC1870             NA     NA     NA     NA             NA     NA     NA
+## TN1858             NA     NA     NA     NA             NA     NA     NA
+## UT1853             NA     NA     NA     NA             NA     NA     NA
+## UT1870             NA     NA     NA     NA             NA     NA     NA
+## UT1884             NA     NA     NA     NA             NA     NA     NA
+## VA1841             NA     NA     NA     NA             NA     NA     NA
+## VA1860             NA     NA     NA     NA             NA     NA     NA
+## WA1855             NA     NA     NA     NA             NA     NA     NA
+## WA1873             NA     NA     NA     NA             NA     NA     NA
+## WI1849             NA     NA     NA     NA             NA     NA     NA
+## WI1856             NA     NA     NA     NA             NA     NA     NA
+## WI1858             NA     NA     NA     NA             NA     NA     NA
+## WOOD1857           NA     NA     NA     NA             NA     NA     NA
+## WV1868             NA     NA     NA     NA             NA     NA     NA
+## WY1870             NA     NA     NA     NA             NA     NA     NA
+## WY1886             NA     NA     NA     NA             NA     NA     NA
+##                NE1866 NH1842 NJ1847 NM1865 NM1897 NV1861 NV1869 NY1848
+## AK1900         0.0038 0.0002 0.0002 0.0001 0.0050 0.0194 0.0169 0.0071
+## AL1852         0.0003 0.0001 0.0002 0.0004 0.0005 0.0006 0.0007 0.0002
+## AR1868         0.0185 0.0002 0.0002 0.0002 0.0049 0.0051 0.0044 0.0037
+## AR1874         0.0184 0.0001 0.0001 0.0002 0.0061 0.0053 0.0046 0.0050
+## AZ1865         0.0087 0.0002 0.0002 0.0002 0.0048 0.2528 0.2363 0.0211
+## AZ1887         0.0021 0.0002 0.0003 0.0004 0.0034 0.0111 0.0108 0.0027
+## BI1859         0.0002 0.0001 0.0002 0.0001 0.0002 0.0002 0.0002 0.0002
+## CA1850         0.0075 0.0001 0.0002 0.0004 0.0059 0.0324 0.0271 0.0535
+## CA1851         0.0090 0.0002 0.0002 0.0002 0.0058 0.2334 0.2072 0.0239
+## CA1858         0.0079 0.0002 0.0002 0.0002 0.0035 0.2263 0.1912 0.0168
+## CA1868         0.0062 0.0001 0.0002 0.0001 0.0030 0.1566 0.1504 0.0113
+## CA1868extended 0.0029 0.0001 0.0001 0.0000 0.0016 0.0566 0.0533 0.0041
+## CA1872         0.0067 0.0002 0.0002 0.0001 0.0041 0.0807 0.0758 0.0102
+## CO1868         0.0016 0.0003 0.0026 0.0004 0.0014 0.0004 0.0004 0.0002
+## CO1877         0.0061 0.0001 0.0002 0.0003 0.0049 0.0999 0.0901 0.0121
+## CT1854         0.0003 0.0003 0.0002 0.0003 0.0003 0.0003 0.0004 0.0003
+## CT1879         0.0002 0.0000 0.0000 0.0000 0.0004 0.0002 0.0002 0.0004
+## CT1879extended 0.0003 0.0001 0.0001 0.0000 0.0004 0.0003 0.0003 0.0004
+## DC1857         0.0217 0.0003 0.0003 0.0004 0.0053 0.0253 0.0237 0.0102
+## DE1852         0.0002 0.0002 0.0003 0.0001 0.0003 0.0002 0.0002 0.0002
+## DT1862         0.1872 0.0002 0.0005 0.0003 0.0098 0.0100 0.0097 0.0074
+## DT1868         0.0061 0.0001 0.0002 0.0002 0.0090 0.0232 0.0211 0.0457
+## DT1887         0.0083 0.0001 0.0002 0.0001 0.0033 0.0182 0.0174 0.0118
+## FL1847         0.0007 0.0003 0.0005 0.0004 0.0010 0.0004 0.0003 0.0002
+## FL1870         0.0080 0.0002 0.0002 0.0001 0.0115 0.0310 0.0284 0.0575
+## FL1892         0.0006 0.0002 0.0006 0.0004 0.0012 0.0007 0.0007 0.0012
+## FR1806         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0003 0.0002 0.0004 0.0002 0.0005 0.0002 0.0002 0.0001
+## GA1860         0.0004 0.0002 0.0003 0.0002 0.0013 0.0004 0.0003 0.0001
+## GB1852         0.0001 0.0001 0.0009 0.0001 0.0002 0.0001 0.0001 0.0001
+## GB1854         0.0001 0.0000 0.0001 0.0001 0.0015 0.0001 0.0001 0.0000
+## GB1873         0.0001 0.0001 0.0001 0.0000 0.0001 0.0001 0.0000 0.0000
+## GB1875         0.0001 0.0001 0.0001 0.0000 0.0001 0.0001 0.0001 0.0001
+## HI1859         0.0005 0.0000 0.0001 0.0001 0.0008 0.0044 0.0035 0.0016
+## HI1897         0.0007 0.0003 0.0010 0.0002 0.0024 0.0036 0.0028 0.0016
+## IA1839         0.0003 0.0001 0.0009 0.0003 0.0002 0.0001 0.0001 0.0001
+## IA1851         0.0213 0.0002 0.0002 0.0002 0.0030 0.0025 0.0025 0.0009
+## IA1859         0.0258 0.0002 0.0002 0.0002 0.0074 0.0043 0.0041 0.0028
+## ID1864         0.0068 0.0001 0.0002 0.0002 0.0031 0.2248 0.1332 0.0127
+## ID1881         0.0060 0.0001 0.0002 0.0001 0.0046 0.0721 0.0704 0.0104
+## IL1866         0.0015 0.0003 0.0052 0.0005 0.0019 0.0004 0.0004 0.0002
+## IL1933         0.0007 0.0001 0.0002 0.0002 0.0006 0.0005 0.0005 0.0009
+## IN1843         0.0024 0.0003 0.0006 0.0002 0.0016 0.0007 0.0006 0.0002
+## IN1852         0.0067 0.0003 0.0003 0.0033 0.0042 0.0059 0.0059 0.0048
+## KS1859         0.1761 0.0002 0.0004 0.0002 0.0091 0.0114 0.0109 0.0074
+## KS1868         0.1246 0.0002 0.0004 0.0002 0.0070 0.0090 0.0088 0.0042
+## KY1851         0.0241 0.0001 0.0002 0.0002 0.0057 0.0057 0.0051 0.0053
+## KY1854         0.0161 0.0001 0.0002 0.0002 0.0042 0.0041 0.0035 0.0038
+## LA1825         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## LA1825french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## LC1867         0.0001 0.0001 0.0001 0.0000 0.0001 0.0001 0.0001 0.0001
+## LC1867french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## MA1836         0.0005 0.0008 0.0002 0.0002 0.0009 0.0003 0.0003 0.0002
+## MA1851         0.0001 0.0001 0.0000 0.0000 0.0004 0.0001 0.0001 0.0001
+## MA1858         0.0006 0.0007 0.0002 0.0001 0.0010 0.0003 0.0003 0.0002
+## MD1855         0.0001 0.0000 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+## MD1859         0.0002 0.0001 0.0002 0.0002 0.0002 0.0001 0.0001 0.0001
+## ME1840         0.0004 0.0014 0.0002 0.0002 0.0006 0.0003 0.0003 0.0002
+## MI1853         0.0003 0.0001 0.0001 0.0001 0.0004 0.0005 0.0004 0.0008
+## MN1851         0.0070 0.0002 0.0011 0.0001 0.0058 0.0217 0.0199 0.0125
+## MN1859         0.0117 0.0003 0.0003 0.0003 0.0107 0.0385 0.0330 0.0213
+## MO1835         0.0004 0.0001 0.0004 0.0003 0.0058 0.0002 0.0002 0.0001
+## MO1849         0.0038 0.0001 0.0001 0.0002 0.0061 0.0098 0.0088 0.0282
+## MO1856         0.0042 0.0001 0.0003 0.0004 0.0244 0.0075 0.0073 0.0141
+## MO1879         0.0032 0.0001 0.0003 0.0006 0.0219 0.0056 0.0050 0.0095
+## MS1848         0.0006 0.0002 0.0012 0.0004 0.0007 0.0003 0.0003 0.0002
+## MS1850         0.0013 0.0000 0.0000 0.0002 0.0037 0.0038 0.0027 0.0092
+## MS1857         0.0014 0.0003 0.0015 0.0004 0.0009 0.0008 0.0007 0.0006
+## MT1865         0.0095 0.0001 0.0002 0.0003 0.0038 0.1869 0.1331 0.0120
+## MT1895         0.0061 0.0002 0.0002 0.0001 0.0036 0.0570 0.0551 0.0072
+## NC1868         0.0072 0.0002 0.0002 0.0002 0.0096 0.0266 0.0240 0.0395
+## ND1877         0.0184 0.0002 0.0002 0.0002 0.0080 0.0368 0.0365 0.0301
+## ND1877extended 0.0148 0.0002 0.0002 0.0002 0.0064 0.0323 0.0307 0.0202
+## NE1857         0.0444 0.0001 0.0002 0.0002 0.0027 0.0026 0.0028 0.0012
+## NE1859         0.1764 0.0002 0.0004 0.0003 0.0093 0.0091 0.0087 0.0076
+## NE1866             NA 0.0002 0.0005 0.0002 0.0063 0.0094 0.0085 0.0042
+## NH1842             NA     NA 0.0002 0.0001 0.0003 0.0002 0.0002 0.0001
+## NJ1847             NA     NA     NA 0.0002 0.0003 0.0002 0.0002 0.0001
+## NM1865             NA     NA     NA     NA 0.0456 0.0003 0.0002 0.0001
+## NM1897             NA     NA     NA     NA     NA 0.0054 0.0047 0.0055
+## NV1861             NA     NA     NA     NA     NA     NA 0.2325 0.0191
+## NV1869             NA     NA     NA     NA     NA     NA     NA 0.0169
+## NY1848             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1849             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1850             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1851             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1853             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1876             NA     NA     NA     NA     NA     NA     NA     NA
+## NY1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853             NA     NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                NY1849 NY1850 NY1851 NY1853 NY1876 NY1879 OH1853
+## AK1900         0.0113 0.0268 0.0123 0.0222 0.0017 0.0014 0.0044
+## AL1852         0.0005 0.0013 0.0007 0.0012 0.0003 0.0002 0.0004
+## AR1868         0.0041 0.0060 0.0044 0.0050 0.0010 0.0008 0.0296
+## AR1874         0.0045 0.0042 0.0051 0.0037 0.0008 0.0006 0.0325
+## AZ1865         0.0299 0.0486 0.0299 0.0444 0.0021 0.0017 0.0091
+## AZ1887         0.0032 0.0034 0.0039 0.0032 0.0006 0.0005 0.0027
+## BI1859         0.0002 0.0001 0.0002 0.0001 0.0001 0.0001 0.0002
+## CA1850         0.0764 0.0224 0.0627 0.0212 0.0023 0.0017 0.0146
+## CA1851         0.0352 0.0543 0.0345 0.0492 0.0024 0.0019 0.0113
+## CA1858         0.0248 0.0464 0.0260 0.0420 0.0021 0.0016 0.0082
+## CA1868         0.0179 0.0349 0.0183 0.0313 0.0017 0.0013 0.0063
+## CA1868extended 0.0070 0.0185 0.0072 0.0158 0.0011 0.0009 0.0025
+## CA1872         0.0167 0.0769 0.0174 0.0474 0.0037 0.0026 0.0086
+## CO1868         0.0003 0.0003 0.0003 0.0003 0.0002 0.0002 0.0005
+## CO1877         0.0157 0.0206 0.0185 0.0190 0.0014 0.0011 0.0082
+## CT1854         0.0003 0.0002 0.0003 0.0002 0.0001 0.0001 0.0007
+## CT1879         0.0003 0.0001 0.0003 0.0001 0.0002 0.0001 0.0004
+## CT1879extended 0.0003 0.0003 0.0004 0.0003 0.0003 0.0002 0.0004
+## DC1857         0.0150 0.0164 0.0167 0.0152 0.0017 0.0013 0.0317
+## DE1852         0.0001 0.0002 0.0002 0.0002 0.0001 0.0001 0.0002
+## DT1862         0.0117 0.0121 0.0134 0.0107 0.0014 0.0010 0.3006
+## DT1868         0.0867 0.0325 0.1012 0.0318 0.0043 0.0032 0.0117
+## DT1887         0.0225 0.0188 0.0251 0.0176 0.0026 0.0019 0.0097
+## FL1847         0.0002 0.0003 0.0002 0.0003 0.0002 0.0002 0.0006
+## FL1870         0.1098 0.0405 0.1298 0.0392 0.0044 0.0033 0.0148
+## FL1892         0.0038 0.0015 0.0028 0.0015 0.0008 0.0005 0.0006
+## FR1806         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0001 0.0002 0.0001 0.0002 0.0002 0.0002 0.0003
+## GA1860         0.0002 0.0003 0.0001 0.0002 0.0002 0.0002 0.0004
+## GB1852         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0002
+## GB1854         0.0000 0.0001 0.0000 0.0001 0.0000 0.0000 0.0001
+## GB1873         0.0001 0.0001 0.0001 0.0001 0.0000 0.0000 0.0001
+## GB1875         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+## HI1859         0.0017 0.0016 0.0020 0.0013 0.0002 0.0001 0.0020
+## HI1897         0.0018 0.0016 0.0020 0.0015 0.0004 0.0003 0.0017
+## IA1839         0.0001 0.0001 0.0001 0.0001 0.0000 0.0000 0.0004
+## IA1851         0.0013 0.0040 0.0014 0.0034 0.0006 0.0004 0.0018
+## IA1859         0.0036 0.0053 0.0038 0.0048 0.0009 0.0008 0.0190
+## ID1864         0.0184 0.0297 0.0182 0.0273 0.0016 0.0013 0.0066
+## ID1881         0.0154 0.0427 0.0162 0.0357 0.0032 0.0023 0.0084
+## IL1866         0.0004 0.0003 0.0003 0.0003 0.0002 0.0002 0.0005
+## IL1933         0.0010 0.0004 0.0011 0.0005 0.0003 0.0003 0.0009
+## IN1843         0.0005 0.0010 0.0005 0.0010 0.0004 0.0003 0.0007
+## IN1852         0.0073 0.0079 0.0085 0.0071 0.0010 0.0008 0.0083
+## KS1859         0.0124 0.0119 0.0141 0.0112 0.0014 0.0010 0.2952
+## KS1868         0.0081 0.0130 0.0092 0.0118 0.0013 0.0010 0.1385
+## KY1851         0.0062 0.0076 0.0064 0.0062 0.0013 0.0010 0.0478
+## KY1854         0.0035 0.0056 0.0039 0.0044 0.0009 0.0007 0.0302
+## LA1825         0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000
+## LA1825french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## LC1867         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+## LC1867french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000
+## MA1836         0.0003 0.0005 0.0004 0.0005 0.0003 0.0003 0.0004
+## MA1851         0.0001 0.0000 0.0001 0.0000 0.0000 0.0000 0.0002
+## MA1858         0.0004 0.0006 0.0003 0.0005 0.0004 0.0004 0.0004
+## MD1855         0.0001 0.0000 0.0001 0.0000 0.0000 0.0000 0.0001
+## MD1859         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0003
+## ME1840         0.0003 0.0004 0.0003 0.0004 0.0003 0.0002 0.0004
+## MI1853         0.0009 0.0004 0.0007 0.0003 0.0002 0.0001 0.0003
+## MN1851         0.0219 0.0562 0.0209 0.0508 0.0021 0.0015 0.0074
+## MN1859         0.0371 0.1052 0.0350 0.0917 0.0034 0.0026 0.0114
+## MO1835         0.0002 0.0001 0.0002 0.0001 0.0002 0.0002 0.0004
+## MO1849         0.0208 0.0069 0.0186 0.0061 0.0011 0.0008 0.0072
+## MO1856         0.0117 0.0046 0.0117 0.0044 0.0011 0.0007 0.0071
+## MO1879         0.0072 0.0032 0.0069 0.0031 0.0008 0.0006 0.0052
+## MS1848         0.0002 0.0003 0.0002 0.0003 0.0002 0.0002 0.0004
+## MS1850         0.0134 0.0021 0.0081 0.0018 0.0004 0.0003 0.0031
+## MS1857         0.0007 0.0005 0.0009 0.0004 0.0003 0.0003 0.0020
+## MT1865         0.0173 0.0299 0.0182 0.0281 0.0017 0.0013 0.0106
+## MT1895         0.0113 0.0526 0.0122 0.0331 0.0120 0.0093 0.0067
+## NC1868         0.0811 0.0351 0.0934 0.0330 0.0040 0.0029 0.0130
+## ND1877         0.0576 0.0379 0.0667 0.0357 0.0051 0.0038 0.0264
+## ND1877extended 0.0402 0.0326 0.0465 0.0301 0.0044 0.0033 0.0186
+## NE1857         0.0015 0.0037 0.0022 0.0031 0.0005 0.0004 0.0050
+## NE1859         0.0117 0.0122 0.0135 0.0106 0.0015 0.0012 0.3386
+## NE1866         0.0071 0.0119 0.0077 0.0107 0.0012 0.0009 0.1572
+## NH1842         0.0001 0.0002 0.0002 0.0002 0.0001 0.0001 0.0003
+## NJ1847         0.0001 0.0002 0.0002 0.0002 0.0002 0.0001 0.0005
+## NM1865         0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0002
+## NM1897         0.0057 0.0059 0.0081 0.0057 0.0012 0.0010 0.0105
+## NV1861         0.0272 0.0447 0.0275 0.0404 0.0022 0.0018 0.0092
+## NV1869         0.0237 0.0406 0.0250 0.0371 0.0021 0.0016 0.0091
+## NY1848         0.0923 0.0271 0.0756 0.0233 0.0027 0.0020 0.0078
+## NY1849             NA 0.0462 0.2030 0.0418 0.0047 0.0034 0.0130
+## NY1850             NA     NA 0.0476 0.3980 0.0054 0.0039 0.0128
+## NY1851             NA     NA     NA 0.0456 0.0052 0.0037 0.0146
+## NY1853             NA     NA     NA     NA 0.0053 0.0038 0.0113
+## NY1876             NA     NA     NA     NA     NA 0.3107 0.0016
+## NY1879             NA     NA     NA     NA     NA     NA 0.0012
+## OH1853             NA     NA     NA     NA     NA     NA     NA
+## OH1853extended     NA     NA     NA     NA     NA     NA     NA
+## OH1879             NA     NA     NA     NA     NA     NA     NA
+## OK1891             NA     NA     NA     NA     NA     NA     NA
+## OK1893             NA     NA     NA     NA     NA     NA     NA
+## OR1854             NA     NA     NA     NA     NA     NA     NA
+## OR1862             NA     NA     NA     NA     NA     NA     NA
+## SC1870             NA     NA     NA     NA     NA     NA     NA
+## TN1858             NA     NA     NA     NA     NA     NA     NA
+## UT1853             NA     NA     NA     NA     NA     NA     NA
+## UT1870             NA     NA     NA     NA     NA     NA     NA
+## UT1884             NA     NA     NA     NA     NA     NA     NA
+## VA1841             NA     NA     NA     NA     NA     NA     NA
+## VA1860             NA     NA     NA     NA     NA     NA     NA
+## WA1855             NA     NA     NA     NA     NA     NA     NA
+## WA1873             NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA
+##                OH1853extended OH1879 OK1891 OK1893 OR1854 OR1862 SC1870
+## AK1900                 0.0044 0.0019 0.0038 0.0044 0.0287 0.1341 0.0139
+## AL1852                 0.0004 0.0004 0.0005 0.0004 0.0008 0.0006 0.0005
+## AR1868                 0.0247 0.0076 0.0083 0.0189 0.0039 0.0040 0.0048
+## AR1874                 0.0238 0.0054 0.0098 0.0176 0.0040 0.0030 0.0054
+## AZ1865                 0.0110 0.0036 0.0097 0.0086 0.0647 0.0314 0.0292
+## AZ1887                 0.0023 0.0014 0.0022 0.0021 0.0034 0.0030 0.0044
+## BI1859                 0.0002 0.0001 0.0002 0.0002 0.0002 0.0001 0.0002
+## CA1850                 0.0106 0.0024 0.0077 0.0076 0.0293 0.0182 0.0538
+## CA1851                 0.0122 0.0037 0.0102 0.0093 0.0638 0.0313 0.0312
+## CA1858                 0.0099 0.0034 0.0120 0.0080 0.0490 0.0266 0.0228
+## CA1868                 0.0078 0.0030 0.0101 0.0062 0.0357 0.0199 0.0162
+## CA1868extended         0.0033 0.0019 0.0043 0.0030 0.0144 0.0097 0.0065
+## CA1872                 0.0092 0.0039 0.0160 0.0080 0.0286 0.0378 0.0170
+## CO1868                 0.0005 0.0005 0.0006 0.0006 0.0009 0.0004 0.0003
+## CO1877                 0.0065 0.0023 0.0080 0.0067 0.0245 0.0128 0.0190
+## CT1854                 0.0006 0.0002 0.0002 0.0005 0.0003 0.0002 0.0003
+## CT1879                 0.0003 0.0001 0.0001 0.0002 0.0002 0.0002 0.0006
+## CT1879extended         0.0004 0.0003 0.0003 0.0004 0.0003 0.0003 0.0005
+## DC1857                 0.0281 0.0089 0.0325 0.0243 0.0333 0.0139 0.0183
+## DE1852                 0.0003 0.0003 0.0004 0.0002 0.0004 0.0002 0.0002
+## DT1862                 0.2238 0.0350 0.0095 0.1375 0.0092 0.0063 0.0120
+## DT1868                 0.0091 0.0026 0.0073 0.0072 0.0314 0.0188 0.1323
+## DT1887                 0.0094 0.0036 0.0163 0.0088 0.0156 0.0107 0.0292
+## FL1847                 0.0007 0.0006 0.0008 0.0006 0.0014 0.0004 0.0003
+## FL1870                 0.0118 0.0034 0.0093 0.0097 0.0382 0.0239 0.1625
+## FL1892                 0.0007 0.0006 0.0009 0.0007 0.0015 0.0009 0.0028
+## FR1806                 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851                 0.0004 0.0004 0.0003 0.0003 0.0002 0.0002 0.0001
+## GA1860                 0.0004 0.0004 0.0007 0.0004 0.0003 0.0003 0.0002
+## GB1852                 0.0001 0.0001 0.0001 0.0001 0.0002 0.0001 0.0001
+## GB1854                 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0000
+## GB1873                 0.0001 0.0000 0.0001 0.0001 0.0001 0.0000 0.0001
+## GB1875                 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+## HI1859                 0.0014 0.0004 0.0007 0.0008 0.0016 0.0005 0.0024
+## HI1897                 0.0013 0.0005 0.0008 0.0010 0.0021 0.0008 0.0027
+## IA1839                 0.0004 0.0002 0.0002 0.0003 0.0015 0.0001 0.0001
+## IA1851                 0.0017 0.0007 0.0037 0.0025 0.0027 0.0026 0.0014
+## IA1859                 0.0163 0.0056 0.0073 0.0130 0.0042 0.0041 0.0044
+## ID1864                 0.0075 0.0027 0.0099 0.0063 0.0423 0.0215 0.0176
+## ID1881                 0.0083 0.0031 0.0143 0.0072 0.0297 0.0230 0.0173
+## IL1866                 0.0006 0.0005 0.0006 0.0005 0.0011 0.0004 0.0003
+## IL1933                 0.0007 0.0004 0.0006 0.0006 0.0006 0.0004 0.0009
+## IN1843                 0.0033 0.0019 0.0083 0.0028 0.0027 0.0010 0.0004
+## IN1852                 0.0072 0.0045 0.1064 0.0128 0.0058 0.0052 0.0086
+## KS1859                 0.2219 0.0348 0.0099 0.1668 0.0100 0.0069 0.0127
+## KS1868                 0.1615 0.0407 0.0102 0.2359 0.0075 0.0057 0.0084
+## KY1851                 0.0375 0.0089 0.0101 0.0235 0.0049 0.0047 0.0064
+## KY1854                 0.0250 0.0072 0.0076 0.0170 0.0035 0.0035 0.0040
+## LA1825                 0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000
+## LA1825french           0.0000 0.0001 0.0000 0.0000 0.0000 0.0001 0.0000
+## LC1867                 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+## LC1867french           0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000
+## MA1836                 0.0008 0.0010 0.0007 0.0005 0.0041 0.0006 0.0003
+## MA1851                 0.0001 0.0001 0.0001 0.0001 0.0002 0.0000 0.0001
+## MA1858                 0.0006 0.0009 0.0007 0.0006 0.0020 0.0006 0.0003
+## MD1855                 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+## MD1859                 0.0002 0.0001 0.0001 0.0002 0.0002 0.0001 0.0001
+## ME1840                 0.0004 0.0009 0.0009 0.0005 0.0011 0.0005 0.0003
+## MI1853                 0.0003 0.0002 0.0001 0.0003 0.0003 0.0002 0.0007
+## MN1851                 0.0064 0.0022 0.0039 0.0060 0.0407 0.0207 0.0205
+## MN1859                 0.0099 0.0033 0.0071 0.0090 0.0713 0.0372 0.0338
+## MO1835                 0.0004 0.0002 0.0003 0.0003 0.0024 0.0002 0.0002
+## MO1849                 0.0052 0.0013 0.0033 0.0033 0.0099 0.0050 0.0175
+## MO1856                 0.0053 0.0018 0.0027 0.0039 0.0086 0.0051 0.0138
+## MO1879                 0.0040 0.0013 0.0021 0.0035 0.0052 0.0037 0.0085
+## MS1848                 0.0006 0.0005 0.0005 0.0005 0.0005 0.0003 0.0002
+## MS1850                 0.0021 0.0005 0.0008 0.0015 0.0055 0.0029 0.0077
+## MS1857                 0.0017 0.0007 0.0006 0.0014 0.0010 0.0006 0.0008
+## MT1865                 0.0113 0.0036 0.0094 0.0095 0.0428 0.0214 0.0179
+## MT1895                 0.0072 0.0052 0.0120 0.0068 0.0226 0.0316 0.0128
+## NC1868                 0.0108 0.0034 0.0080 0.0084 0.0339 0.0215 0.1236
+## ND1877                 0.0216 0.0061 0.0077 0.0191 0.0394 0.0232 0.0835
+## ND1877extended         0.0173 0.0061 0.0217 0.0155 0.0290 0.0189 0.0577
+## NE1857                 0.0050 0.0010 0.0034 0.0051 0.0078 0.0021 0.0019
+## NE1859                 0.2520 0.0357 0.0092 0.1328 0.0089 0.0064 0.0117
+## NE1866                 0.1799 0.0412 0.0090 0.1157 0.0094 0.0049 0.0074
+## NH1842                 0.0003 0.0002 0.0002 0.0002 0.0003 0.0002 0.0001
+## NJ1847                 0.0005 0.0003 0.0003 0.0004 0.0012 0.0002 0.0002
+## NM1865                 0.0002 0.0001 0.0025 0.0003 0.0007 0.0001 0.0001
+## NM1897                 0.0089 0.0029 0.0043 0.0068 0.0115 0.0063 0.0106
+## NV1861                 0.0106 0.0036 0.0139 0.0085 0.0621 0.0289 0.0277
+## NV1869                 0.0102 0.0035 0.0126 0.0081 0.0523 0.0268 0.0248
+## NY1848                 0.0059 0.0016 0.0048 0.0042 0.0209 0.0123 0.0507
+## NY1849                 0.0105 0.0027 0.0072 0.0074 0.0338 0.0197 0.0974
+## NY1850                 0.0170 0.0057 0.0078 0.0127 0.0374 0.0642 0.0365
+## NY1851                 0.0117 0.0030 0.0081 0.0090 0.0385 0.0209 0.1139
+## NY1853                 0.0150 0.0049 0.0073 0.0116 0.0344 0.0421 0.0357
+## NY1876                 0.0015 0.0011 0.0012 0.0014 0.0025 0.0027 0.0049
+## NY1879                 0.0011 0.0008 0.0010 0.0010 0.0019 0.0021 0.0036
+## OH1853                 0.6374 0.0381 0.0085 0.1353 0.0090 0.0065 0.0128
+## OH1853extended             NA 0.0626 0.0097 0.1550 0.0074 0.0059 0.0101
+## OH1879                     NA     NA 0.0038 0.0392 0.0028 0.0025 0.0029
+## OK1891                     NA     NA     NA 0.0108 0.0063 0.0050 0.0082
+## OK1893                     NA     NA     NA     NA 0.0067 0.0057 0.0081
+## OR1854                     NA     NA     NA     NA     NA 0.0563 0.0373
+## OR1862                     NA     NA     NA     NA     NA     NA 0.0233
+## SC1870                     NA     NA     NA     NA     NA     NA     NA
+## TN1858                     NA     NA     NA     NA     NA     NA     NA
+## UT1853                     NA     NA     NA     NA     NA     NA     NA
+## UT1870                     NA     NA     NA     NA     NA     NA     NA
+## UT1884                     NA     NA     NA     NA     NA     NA     NA
+## VA1841                     NA     NA     NA     NA     NA     NA     NA
+## VA1860                     NA     NA     NA     NA     NA     NA     NA
+## WA1855                     NA     NA     NA     NA     NA     NA     NA
+## WA1873                     NA     NA     NA     NA     NA     NA     NA
+## WI1849                     NA     NA     NA     NA     NA     NA     NA
+## WI1856                     NA     NA     NA     NA     NA     NA     NA
+## WI1858                     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857                   NA     NA     NA     NA     NA     NA     NA
+## WV1868                     NA     NA     NA     NA     NA     NA     NA
+## WY1870                     NA     NA     NA     NA     NA     NA     NA
+## WY1886                     NA     NA     NA     NA     NA     NA     NA
+##                TN1858 UT1853 UT1870 UT1884 VA1841 VA1860 WA1855 WA1873
+## AK1900         0.0006 0.0000 0.0105 0.0054 0.0001 0.0002 0.0132 0.0103
+## AL1852         0.0031 0.0000 0.0005 0.0003 0.0002 0.0002 0.0004 0.0004
+## AR1868         0.0004 0.0001 0.0027 0.0024 0.0001 0.0005 0.0050 0.0034
+## AR1874         0.0003 0.0001 0.0029 0.0023 0.0001 0.0001 0.0054 0.0033
+## AZ1865         0.0006 0.0001 0.1154 0.0263 0.0001 0.0002 0.0346 0.0177
+## AZ1887         0.0004 0.0000 0.0063 0.0030 0.0004 0.0002 0.0036 0.0121
+## BI1859         0.0001 0.0000 0.0001 0.0001 0.0002 0.0001 0.0002 0.0002
+## CA1850         0.0003 0.0001 0.0158 0.0057 0.0001 0.0001 0.0265 0.0141
+## CA1851         0.0006 0.0000 0.1041 0.0254 0.0001 0.0002 0.0349 0.0183
+## CA1858         0.0006 0.0000 0.0969 0.0217 0.0001 0.0002 0.0278 0.0139
+## CA1868         0.0005 0.0000 0.0778 0.0201 0.0001 0.0002 0.0210 0.0112
+## CA1868extended 0.0003 0.0000 0.0288 0.0093 0.0000 0.0001 0.0084 0.0048
+## CA1872         0.0007 0.0000 0.0405 0.0456 0.0001 0.0002 0.0140 0.0158
+## CO1868         0.0005 0.0001 0.0003 0.0002 0.0006 0.0003 0.0005 0.0006
+## CO1877         0.0004 0.0000 0.0483 0.0138 0.0001 0.0002 0.0161 0.0111
+## CT1854         0.0002 0.0001 0.0002 0.0001 0.0003 0.0001 0.0003 0.0003
+## CT1879         0.0000 0.0000 0.0001 0.0001 0.0000 0.0000 0.0002 0.0001
+## CT1879extended 0.0001 0.0000 0.0002 0.0001 0.0000 0.0001 0.0003 0.0002
+## DC1857         0.0005 0.0000 0.0143 0.0060 0.0001 0.0017 0.0348 0.0176
+## DE1852         0.0002 0.0000 0.0001 0.0001 0.0001 0.0002 0.0003 0.0003
+## DT1862         0.0005 0.0000 0.0055 0.0044 0.0002 0.0003 0.0078 0.0051
+## DT1868         0.0004 0.0001 0.0117 0.0059 0.0001 0.0002 0.0206 0.0132
+## DT1887         0.0005 0.0000 0.0104 0.0090 0.0001 0.0002 0.0081 0.0093
+## FL1847         0.0006 0.0001 0.0002 0.0001 0.0009 0.0002 0.0015 0.0010
+## FL1870         0.0004 0.0001 0.0166 0.0066 0.0001 0.0002 0.0266 0.0158
+## FL1892         0.0005 0.0000 0.0005 0.0006 0.0005 0.0009 0.0009 0.0011
+## FR1806         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0003 0.0001 0.0002 0.0001 0.0007 0.0003 0.0003 0.0003
+## GA1860         0.0004 0.0000 0.0002 0.0001 0.0002 0.0004 0.0004 0.0004
+## GB1852         0.0001 0.0000 0.0001 0.0001 0.0002 0.0002 0.0001 0.0001
+## GB1854         0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0001 0.0001
+## GB1873         0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0000 0.0001
+## GB1875         0.0001 0.0000 0.0001 0.0001 0.0000 0.0001 0.0001 0.0001
+## HI1859         0.0001 0.0001 0.0022 0.0013 0.0001 0.0000 0.0021 0.0009
+## HI1897         0.0002 0.0001 0.0017 0.0012 0.0006 0.0002 0.0021 0.0012
+## IA1839         0.0001 0.0001 0.0001 0.0001 0.0003 0.0001 0.0002 0.0002
+## IA1851         0.0050 0.0031 0.0015 0.0013 0.0001 0.0002 0.0022 0.0013
+## IA1859         0.0044 0.0015 0.0028 0.0018 0.0001 0.0003 0.0042 0.0029
+## ID1864         0.0006 0.0000 0.0789 0.0171 0.0001 0.0002 0.0234 0.0147
+## ID1881         0.0006 0.0000 0.0396 0.0593 0.0001 0.0002 0.0141 0.0098
+## IL1866         0.0006 0.0001 0.0003 0.0002 0.0006 0.0003 0.0004 0.0005
+## IL1933         0.0002 0.0000 0.0003 0.0002 0.0001 0.0001 0.0006 0.0004
+## IN1843         0.0006 0.0000 0.0004 0.0002 0.0003 0.0003 0.0018 0.0013
+## IN1852         0.0006 0.0000 0.0034 0.0019 0.0001 0.0003 0.0314 0.0234
+## KS1859         0.0005 0.0000 0.0062 0.0044 0.0002 0.0003 0.0083 0.0055
+## KS1868         0.0009 0.0001 0.0053 0.0039 0.0001 0.0003 0.0115 0.0076
+## KY1851         0.0004 0.0000 0.0030 0.0030 0.0001 0.0006 0.0060 0.0044
+## KY1854         0.0004 0.0000 0.0023 0.0024 0.0001 0.0005 0.0043 0.0029
+## LA1825         0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001
+## LA1825french   0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## LC1867         0.0001 0.0000 0.0001 0.0001 0.0000 0.0001 0.0001 0.0001
+## LC1867french   0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+## MA1836         0.0004 0.0000 0.0002 0.0005 0.0001 0.0011 0.0016 0.0010
+## MA1851         0.0000 0.0000 0.0001 0.0000 0.0000 0.0000 0.0003 0.0002
+## MA1858         0.0004 0.0000 0.0002 0.0003 0.0001 0.0010 0.0012 0.0009
+## MD1855         0.0001 0.0000 0.0001 0.0000 0.0000 0.0001 0.0001 0.0001
+## MD1859         0.0001 0.0001 0.0001 0.0001 0.0002 0.0001 0.0001 0.0001
+## ME1840         0.0004 0.0001 0.0002 0.0002 0.0001 0.0003 0.0008 0.0008
+## MI1853         0.0001 0.0000 0.0004 0.0001 0.0001 0.0001 0.0002 0.0002
+## MN1851         0.0006 0.0001 0.0110 0.0076 0.0001 0.0002 0.0131 0.0089
+## MN1859         0.0009 0.0001 0.0182 0.0119 0.0001 0.0002 0.0231 0.0147
+## MO1835         0.0004 0.0001 0.0002 0.0001 0.0004 0.0001 0.0003 0.0002
+## MO1849         0.0002 0.0001 0.0052 0.0018 0.0001 0.0001 0.0065 0.0046
+## MO1856         0.0002 0.0000 0.0046 0.0013 0.0003 0.0001 0.0046 0.0031
+## MO1879         0.0002 0.0000 0.0033 0.0009 0.0002 0.0002 0.0035 0.0024
+## MS1848         0.0006 0.0001 0.0002 0.0001 0.0116 0.0007 0.0004 0.0005
+## MS1850         0.0000 0.0000 0.0027 0.0005 0.0001 0.0000 0.0053 0.0030
+## MS1857         0.0006 0.0001 0.0006 0.0002 0.0062 0.0008 0.0009 0.0007
+## MT1865         0.0007 0.0001 0.0700 0.0162 0.0001 0.0002 0.0241 0.0149
+## MT1895         0.0006 0.0000 0.0299 0.0386 0.0001 0.0002 0.0111 0.0127
+## NC1868         0.0005 0.0001 0.0139 0.0060 0.0002 0.0003 0.0229 0.0148
+## ND1877         0.0006 0.0000 0.0206 0.0167 0.0001 0.0003 0.0192 0.0134
+## ND1877extended 0.0006 0.0000 0.0175 0.0148 0.0001 0.0003 0.0148 0.0154
+## NE1857         0.0049 0.0038 0.0017 0.0012 0.0001 0.0002 0.0031 0.0018
+## NE1859         0.0005 0.0000 0.0051 0.0040 0.0002 0.0003 0.0072 0.0049
+## NE1866         0.0014 0.0000 0.0057 0.0028 0.0002 0.0002 0.0057 0.0036
+## NH1842         0.0002 0.0000 0.0001 0.0001 0.0001 0.0001 0.0002 0.0002
+## NJ1847         0.0002 0.0000 0.0001 0.0001 0.0007 0.0003 0.0002 0.0003
+## NM1865         0.0002 0.0001 0.0001 0.0001 0.0005 0.0001 0.0005 0.0005
+## NM1897         0.0006 0.0001 0.0036 0.0020 0.0002 0.0003 0.0065 0.0037
+## NV1861         0.0007 0.0000 0.1218 0.0267 0.0002 0.0002 0.0333 0.0176
+## NV1869         0.0006 0.0001 0.1655 0.0272 0.0001 0.0002 0.0263 0.0138
+## NY1848         0.0003 0.0000 0.0093 0.0041 0.0001 0.0001 0.0131 0.0088
+## NY1849         0.0004 0.0000 0.0141 0.0055 0.0001 0.0002 0.0222 0.0132
+## NY1850         0.0010 0.0001 0.0234 0.0175 0.0001 0.0002 0.0192 0.0118
+## NY1851         0.0004 0.0000 0.0143 0.0058 0.0001 0.0002 0.0244 0.0150
+## NY1853         0.0009 0.0000 0.0216 0.0148 0.0001 0.0002 0.0180 0.0110
+## NY1876         0.0003 0.0000 0.0015 0.0011 0.0000 0.0002 0.0015 0.0013
+## NY1879         0.0003 0.0000 0.0011 0.0009 0.0000 0.0002 0.0012 0.0010
+## OH1853         0.0005 0.0000 0.0055 0.0040 0.0002 0.0002 0.0076 0.0049
+## OH1853extended 0.0006 0.0001 0.0067 0.0037 0.0002 0.0003 0.0071 0.0043
+## OH1879         0.0006 0.0000 0.0022 0.0013 0.0001 0.0003 0.0026 0.0031
+## OK1891         0.0005 0.0001 0.0073 0.0039 0.0001 0.0003 0.0238 0.0160
+## OK1893         0.0008 0.0000 0.0054 0.0034 0.0001 0.0002 0.0109 0.0067
+## OR1854         0.0008 0.0001 0.0281 0.0120 0.0002 0.0003 0.0699 0.0425
+## OR1862         0.0007 0.0001 0.0148 0.0098 0.0001 0.0002 0.0219 0.0160
+## SC1870         0.0004 0.0001 0.0142 0.0064 0.0001 0.0002 0.0243 0.0157
+## TN1858             NA 0.0006 0.0004 0.0003 0.0001 0.0003 0.0004 0.0004
+## UT1853             NA     NA 0.0001 0.0000 0.0000 0.0000 0.0000 0.0001
+## UT1870             NA     NA     NA 0.0180 0.0001 0.0002 0.0156 0.0080
+## UT1884             NA     NA     NA     NA 0.0000 0.0001 0.0078 0.0053
+## VA1841             NA     NA     NA     NA     NA 0.0006 0.0002 0.0001
+## VA1860             NA     NA     NA     NA     NA     NA 0.0002 0.0002
+## WA1855             NA     NA     NA     NA     NA     NA     NA 0.1098
+## WA1873             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1849             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1856             NA     NA     NA     NA     NA     NA     NA     NA
+## WI1858             NA     NA     NA     NA     NA     NA     NA     NA
+## WOOD1857           NA     NA     NA     NA     NA     NA     NA     NA
+## WV1868             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1870             NA     NA     NA     NA     NA     NA     NA     NA
+## WY1886             NA     NA     NA     NA     NA     NA     NA     NA
+##                WI1849 WI1856 WI1858 WOOD1857 WV1868 WY1870 WY1886
+## AK1900         0.0029 0.0113 0.0102   0.0128 0.0003 0.0046 0.0013
+## AL1852         0.0005 0.0007 0.0006   0.0006 0.0002 0.0005 0.0003
+## AR1868         0.0004 0.0053 0.0030   0.0031 0.0009 0.0205 0.0080
+## AR1874         0.0002 0.0062 0.0025   0.0031 0.0001 0.0223 0.0089
+## AZ1865         0.0013 0.0321 0.0148   0.1625 0.0003 0.0171 0.0026
+## AZ1887         0.0004 0.0042 0.0023   0.0080 0.0003 0.0049 0.0010
+## BI1859         0.0002 0.0001 0.0002   0.0001 0.0001 0.0002 0.0001
+## CA1850         0.0011 0.0670 0.0238   0.0215 0.0002 0.0106 0.0029
+## CA1851         0.0013 0.0355 0.0164   0.1785 0.0003 0.0183 0.0030
+## CA1858         0.0012 0.0259 0.0138   0.1710 0.0003 0.0162 0.0022
+## CA1868         0.0010 0.0176 0.0103   0.1164 0.0002 0.0121 0.0019
+## CA1868extended 0.0007 0.0063 0.0054   0.0450 0.0002 0.0050 0.0009
+## CA1872         0.0019 0.0142 0.0117   0.0607 0.0003 0.0121 0.0029
+## CO1868         0.0079 0.0003 0.0043   0.0003 0.0005 0.0065 0.0024
+## CO1877         0.0016 0.0205 0.0105   0.0576 0.0002 0.0154 0.0037
+## CT1854         0.0003 0.0003 0.0003   0.0002 0.0001 0.0003 0.0002
+## CT1879         0.0000 0.0005 0.0002   0.0002 0.0000 0.0002 0.0001
+## CT1879extended 0.0001 0.0004 0.0003   0.0003 0.0001 0.0003 0.0002
+## DC1857         0.0020 0.0176 0.0101   0.0187 0.0025 0.0254 0.0087
+## DE1852         0.0008 0.0001 0.0006   0.0002 0.0002 0.0002 0.0001
+## DT1862         0.0007 0.0126 0.0064   0.0070 0.0003 0.1736 0.0376
+## DT1868         0.0020 0.0883 0.0412   0.0168 0.0004 0.0093 0.0029
+## DT1887         0.0024 0.0209 0.0167   0.0132 0.0003 0.0080 0.0027
+## FL1847         0.0044 0.0002 0.0038   0.0003 0.0003 0.0005 0.0003
+## FL1870         0.0011 0.1245 0.0496   0.0214 0.0002 0.0117 0.0033
+## FL1892         0.0033 0.0005 0.0030   0.0004 0.0008 0.0005 0.0003
+## FR1806         0.0000 0.0000 0.0000   0.0000 0.0000 0.0000 0.0000
+## GA1851         0.0004 0.0001 0.0003   0.0002 0.0002 0.0003 0.0002
+## GA1860         0.0004 0.0001 0.0003   0.0003 0.0004 0.0004 0.0002
+## GB1852         0.0002 0.0001 0.0001   0.0001 0.0003 0.0002 0.0001
+## GB1854         0.0001 0.0001 0.0001   0.0001 0.0000 0.0001 0.0001
+## GB1873         0.0001 0.0001 0.0001   0.0000 0.0001 0.0001 0.0000
+## GB1875         0.0001 0.0001 0.0001   0.0001 0.0001 0.0001 0.0001
+## HI1859         0.0001 0.0034 0.0010   0.0026 0.0000 0.0015 0.0005
+## HI1897         0.0012 0.0024 0.0020   0.0022 0.0001 0.0015 0.0005
+## IA1839         0.0006 0.0001 0.0001   0.0001 0.0001 0.0003 0.0003
+## IA1851         0.0007 0.0016 0.0012   0.0019 0.0002 0.0204 0.0006
+## IA1859         0.0007 0.0046 0.0027   0.0033 0.0003 0.0264 0.0051
+## ID1864         0.0025 0.0208 0.0123   0.0963 0.0003 0.0123 0.0021
+## ID1881         0.0017 0.0143 0.0105   0.0506 0.0003 0.0115 0.0031
+## IL1866         0.0069 0.0003 0.0045   0.0003 0.0007 0.0055 0.0004
+## IL1933         0.0002 0.0011 0.0004   0.0005 0.0001 0.0007 0.0004
+## IN1843         0.0054 0.0006 0.0038   0.0005 0.0004 0.0016 0.0005
+## IN1852         0.0014 0.0093 0.0052   0.0042 0.0003 0.0083 0.0030
+## KS1859         0.0006 0.0134 0.0070   0.0073 0.0004 0.1914 0.0380
+## KS1868         0.0009 0.0096 0.0057   0.0065 0.0004 0.1153 0.0242
+## KY1851         0.0003 0.0064 0.0034   0.0038 0.0005 0.0259 0.0109
+## KY1854         0.0003 0.0045 0.0026   0.0028 0.0009 0.0175 0.0076
+## LA1825         0.0000 0.0000 0.0000   0.0000 0.0000 0.0000 0.0000
+## LA1825french   0.0000 0.0000 0.0000   0.0000 0.0001 0.0000 0.0000
+## LC1867         0.0001 0.0001 0.0001   0.0001 0.0001 0.0001 0.0001
+## LC1867french   0.0000 0.0000 0.0000   0.0000 0.0000 0.0000 0.0000
+## MA1836         0.0158 0.0002 0.0103   0.0005 0.0012 0.0004 0.0002
+## MA1851         0.0001 0.0001 0.0001   0.0000 0.0000 0.0001 0.0000
+## MA1858         0.0079 0.0002 0.0060   0.0004 0.0010 0.0005 0.0002
+## MD1855         0.0001 0.0001 0.0001   0.0000 0.0001 0.0001 0.0001
+## MD1859         0.0001 0.0001 0.0001   0.0001 0.0001 0.0002 0.0001
+## ME1840         0.0034 0.0002 0.0026   0.0002 0.0003 0.0004 0.0002
+## MI1853         0.0003 0.0009 0.0005   0.0004 0.0001 0.0003 0.0002
+## MN1851         0.0343 0.0194 0.0433   0.0156 0.0002 0.0073 0.0020
+## MN1859         0.0543 0.0337 0.0795   0.0269 0.0003 0.0106 0.0029
+## MO1835         0.0029 0.0002 0.0009   0.0002 0.0001 0.0004 0.0003
+## MO1849         0.0007 0.0216 0.0065   0.0066 0.0001 0.0052 0.0018
+## MO1856         0.0022 0.0145 0.0059   0.0048 0.0001 0.0052 0.0020
+## MO1879         0.0013 0.0089 0.0038   0.0033 0.0002 0.0040 0.0017
+## MS1848         0.0008 0.0002 0.0006   0.0003 0.0006 0.0006 0.0003
+## MS1850         0.0000 0.0115 0.0029   0.0028 0.0000 0.0019 0.0007
+## MS1857         0.0006 0.0010 0.0008   0.0006 0.0006 0.0017 0.0007
+## MT1865         0.0021 0.0197 0.0106   0.0894 0.0003 0.0181 0.0030
+## MT1895         0.0018 0.0105 0.0094   0.0389 0.0003 0.0096 0.0038
+## NC1868         0.0019 0.0889 0.0430   0.0190 0.0003 0.0107 0.0029
+## ND1877         0.0043 0.0613 0.0376   0.0283 0.0004 0.0207 0.0063
+## ND1877extended 0.0037 0.0409 0.0299   0.0250 0.0004 0.0153 0.0047
+## NE1857         0.0046 0.0021 0.0048   0.0020 0.0002 0.0333 0.0012
+## NE1859         0.0007 0.0124 0.0068   0.0067 0.0003 0.1590 0.0363
+## NE1866         0.0027 0.0069 0.0060   0.0063 0.0004 0.1812 0.0247
+## NH1842         0.0004 0.0001 0.0003   0.0001 0.0001 0.0002 0.0001
+## NJ1847         0.0017 0.0002 0.0004   0.0002 0.0002 0.0004 0.0002
+## NM1865         0.0003 0.0001 0.0002   0.0001 0.0001 0.0003 0.0002
+## NM1897         0.0057 0.0097 0.0098   0.0036 0.0005 0.0076 0.0027
+## NV1861         0.0031 0.0307 0.0174   0.1571 0.0003 0.0187 0.0028
+## NV1869         0.0012 0.0264 0.0134   0.1317 0.0003 0.0240 0.0026
+## NY1848         0.0006 0.0609 0.0222   0.0134 0.0001 0.0056 0.0019
+## NY1849         0.0025 0.1091 0.0443   0.0196 0.0002 0.0099 0.0028
+## NY1850         0.0049 0.0337 0.0269   0.0342 0.0003 0.0116 0.0028
+## NY1851         0.0026 0.1202 0.0477   0.0197 0.0002 0.0110 0.0031
+## NY1853         0.0047 0.0328 0.0259   0.0314 0.0003 0.0106 0.0026
+## NY1876         0.0013 0.0033 0.0032   0.0018 0.0002 0.0013 0.0008
+## NY1879         0.0010 0.0028 0.0027   0.0015 0.0002 0.0010 0.0005
+## OH1853         0.0007 0.0131 0.0065   0.0067 0.0003 0.1550 0.0368
+## OH1853extended 0.0011 0.0102 0.0058   0.0078 0.0004 0.1237 0.0311
+## OH1879         0.0010 0.0028 0.0028   0.0028 0.0006 0.0243 0.0508
+## OK1891         0.0010 0.0080 0.0051   0.0086 0.0004 0.0081 0.0035
+## OK1893         0.0010 0.0085 0.0055   0.0060 0.0004 0.1127 0.0243
+## OR1854         0.0153 0.0372 0.0339   0.0391 0.0003 0.0110 0.0029
+## OR1862         0.0042 0.0191 0.0172   0.0199 0.0003 0.0071 0.0019
+## SC1870         0.0031 0.1074 0.0474   0.0192 0.0002 0.0105 0.0029
+## TN1858         0.0010 0.0003 0.0010   0.0005 0.0004 0.0008 0.0003
+## UT1853         0.0001 0.0001 0.0001   0.0000 0.0000 0.0000 0.0000
+## UT1870         0.0007 0.0148 0.0074   0.0708 0.0002 0.0120 0.0018
+## UT1884         0.0005 0.0058 0.0043   0.0186 0.0002 0.0057 0.0016
+## VA1841         0.0002 0.0001 0.0001   0.0001 0.0003 0.0002 0.0001
+## VA1860         0.0008 0.0002 0.0003   0.0002 0.0616 0.0003 0.0002
+## WA1855         0.0054 0.0261 0.0142   0.0202 0.0003 0.0071 0.0023
+## WA1873         0.0014 0.0157 0.0100   0.0121 0.0003 0.0049 0.0018
+## WI1849             NA 0.0015 0.0985   0.0015 0.0009 0.0009 0.0004
+## WI1856             NA     NA 0.0634   0.0214 0.0002 0.0102 0.0032
+## WI1858             NA     NA     NA   0.0119 0.0006 0.0061 0.0020
+## WOOD1857           NA     NA     NA       NA 0.0002 0.0118 0.0020
+## WV1868             NA     NA     NA       NA     NA 0.0004 0.0002
+## WY1870             NA     NA     NA       NA     NA     NA 0.0267
+## WY1886             NA     NA     NA       NA     NA     NA     NA
 ```
 
 Session info:
