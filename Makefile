@@ -1,8 +1,11 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(OCR_OUTPUTS))
+NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
+all : $(CLEAN_CODES) $(NOTEBOOKS)
 
-all : $(CLEAN_CODES)
+%.html : %.Rmd
+	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
 
 legal-codes/%.txt : text/%.txt
 	Rscript --vanilla scripts/clean-text.R $^ $@
@@ -26,11 +29,11 @@ temp/%.txt : pdf/%.pdf
 	cat temp/$*.page-*.pdf.png.txt > temp/$*.txt
 
 .PHONY : clean
-clean : 
+clean :
 	rm -rf temp/
 
 .PHONY : clobber
-clobber : 
+clobber :
 	rm -rf text/*
 	rm -rf legal-codes/*
 
