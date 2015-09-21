@@ -1,0 +1,35 @@
+---
+title: "Compare pairwise with Jaccard similarity"
+author: "Lincoln Mullen"
+date: "September 21, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+We are going to load the corpus from the cache, and create a comparison matrix with Jaccard similarity. (We will do other comparisons in different notebook so we can do this in parallel.) We will cache the matrix for use in later analyses.
+
+```{r}
+library("textreuse")
+
+cache <- "cache/comparison-matrix-jaccard.rds"
+if (!file.exists(cache)) {
+  corpus <- readRDS("cache/corpus-skip-ngrams-n7k3.rds")
+  m <- pairwise_compare(corpus, jaccard_similarity)
+  saveRDS(m, cache)
+} else {
+  m <- readRDS(cache)
+}
+```
+
+Here is the comparison matrix:
+
+```{r}
+m
+```
+
+Session info:
+
+```{r}
+sessionInfo()
+```
