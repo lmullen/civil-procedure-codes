@@ -1,11 +1,20 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
+SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
-all : $(CLEAN_CODES) $(NOTEBOOKS)
+all : $(SPLIT_CODES) $(CLEAN_CODES) $(NOTEBOOKS)
 
-%.html : %.Rmd $(CLEAN_CODES)
+codes : $(CLEAN_CODES)
+
+splits : $(SPLIT_CODES)
+
+%.html : %.Rmd $(CLEAN_CODES) $(SPLIT_CODES)
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
+
+legal-codes-split/%-SPLIT.txt : legal-codes/%.txt 
+	Rscript --vanilla scripts/split-code.R $< 
+	touch $@
 
 legal-codes/%.txt : text/%.txt
 	Rscript --vanilla scripts/clean-text.R $^ $@
