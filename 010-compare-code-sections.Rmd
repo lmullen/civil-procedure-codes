@@ -1,0 +1,114 @@
+---
+title: "Test comparing sections of codes"
+author: "Lincoln Mullen"
+date: "September 22, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r}
+library("textreuse")
+library("stringr")
+library("dplyr")
+```
+
+Now we want to compare the sections of the codes to one another. Our hypothesis is that codes are borrowed section by section, so treating individual sections of codes as their own documents means that we should find higher similarities between two borrowed sections of a code than between codes as a whole. Since the sections will be of similar length, we can use the Jaccard similarity measure rather than the ratio-of-matches measure.
+
+We will begin by figuring out the Jaccard similarity scores of a single section that we know to be borrowed, though we do not know all the borrowings. The section involves people who are disqualified from being witnesses, most notably "Indians, or persons having one fourth or more of Indian blood" or "Negroes, or persons having one half or more Negro blood," both "in an action or proceeding to which a white person is a party" (CA 1851). We have identified obvious borrowings by searching the sections. We will create a small corpus of those borrowings and do a pairwise measure of the Jaccard similarity to figure out a good threshold for borrowings. To be clear, all of these sections disallow witnesses, but several of them are clearly not direct borrowings.
+
+## Comparing the sections
+
+Load the sections.
+
+```{r}
+witness_files <- c("NV1861-00003640.txt", "WOOD1857-00004280.txt",
+                   "CA1851-00004310.txt", "NV1861-00003900.txt", 
+                   "MT1865-00003240.txt", "IN1843-00002520.txt",
+                   "IL1866-00003330.txt", "CA1858-00000450.txt", 
+                   "CA1850-00003110.txt", "AZ1865-00003640.txt")
+witness_paths <- str_c("legal-codes-split/", witness_files)
+```
+
+We will load these as a corpus, tokenizing them with 4-grams.
+
+```{r}
+witness_corpus <- TextReuseCorpus(paths = witness_paths, 
+                                  tokenizer = tokenize_ngrams, n = 4)
+```
+
+Now we will do a pairwise comparison with Jaccard similarity.
+
+```{r}
+witness_comparison <- pairwise_compare(witness_corpus, jaccard_similarity)
+```
+
+What are the mean and median values for comparison, as well as the range?
+
+```{r}
+mean(witness_comparison, na.rm = TRUE)
+median(witness_comparison, na.rm = TRUE)
+range(witness_comparison, na.rm = TRUE)
+```
+
+## Matches
+
+Let's examine the highest and lowest scores, starting with the highest.
+
+```{r}
+witness_candidates <- pairwise_candidates(witness_comparison) %>% 
+  arrange(desc(score))
+head(witness_candidates, 10)
+```
+
+We can check the text of some of these codes to see that they are in fact matches.
+
+```{r}
+content(witness_corpus[["CA1851-00004310"]])
+content(witness_corpus[["AZ1865-00003640"]])
+content(witness_corpus[["NV1861-00003640"]])
+content(witness_corpus[["WOOD1857-00004280"]])
+content(witness_corpus[["CA1858-00000450"]])
+content(witness_corpus[["MT1865-00003240"]])
+```
+
+These are all valid matches, despite the presence in some cases of extraneous texts, such as tables of contents. Ideally this extra text would be removed by sectioning the codes, but since sectioning is an inexact process, it is good that we can detect matches even with OCR and sectioning problems.
+
+## Mismatches
+
+The mismatches are either matches with a score of `0`, or very low scores.
+
+```{r}
+tail(witness_candidates, 5)
+```
+
+Are these documents with a score of zero actually different documents?
+
+```{r}
+content(witness_corpus[["IL1866-00003330"]])
+content(witness_corpus[["IN1843-00002520"]])
+content(witness_corpus[["NV1861-00003900"]])
+content(witness_corpus[["WOOD1857-00004280"]])
+```
+
+While these sections do all disqualify witnesses on the basis of race, they are clearly not word-for-word borrowings. So we would not expect to detect them as borrowings.
+
+What about borrowings with low scores?
+
+```{r}
+witness_candidates %>% 
+  filter(score > 0) %>% 
+  tail()
+```
+
+```{r}
+content(witness_corpus[["NV1861-00003900"]])
+content(witness_corpus[["MT1865-00003240"]])
+content(witness_corpus[["IN1843-00002520"]])
+```
+
+These are also not borrowings from one another, as expected.
+
+## Conclusion
+
+We can conclude that measures of Jaccard similarity do work for detecting actual borrowings. We will want to set the threshold for LSH detection relatively low, but above about `0.1`.
