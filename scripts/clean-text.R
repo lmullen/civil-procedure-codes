@@ -18,7 +18,8 @@ cleaned <- text %>%
   stri_replace_all_fixed(corrections$pattern, corrections$replacement,
                          vectorize_all = FALSE) %>%
   str_replace_all("\r", "") %>%
-  str_replace_all("-\n+", "")
+  str_replace_all("-\n+", "") %>%
+  str_replace_all(regex("\\uFFFD((\\s)?)"), "")
 
 write(cleaned, file = out_file)
 
