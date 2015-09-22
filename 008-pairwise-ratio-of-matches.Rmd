@@ -1,5 +1,5 @@
 ---
-title: "Compare pairwise with Jaccard similarity"
+title: "Compare pairwise with ratio-of-matches similarity"
 author: "Lincoln Mullen"
 date: "September 21, 2015"
 output: 
@@ -11,15 +11,15 @@ output:
 library("textreuse")
 ```
 
-We are going to load the corpus from the cache, and create a comparison matrix with Jaccard similarity. (We will do other comparisons in different notebook so we can do this in parallel.) We will cache the matrix for use in later analyses.
+We are going to load the corpus from the cache, and create a comparison matrix with ratio-of-matches similarity. (We will do other comparisons in different notebook so we can do this in parallel.) We will cache the matrix for use in later analyses. Note that ratio of matches is directional when the other comparisons are not. 
 
 We are going to test this with both shingled and skip n-grams. Here are skip n-grams.
 
 ```{r}
-cache_skip <- "cache/comparison-matrix-skip-jaccard.rds"
+cache_skip <- "cache/comparison-matrix-skip-ratio-of-matches.rds"
 if (!file.exists(cache_skip)) {
   corpus_skip <- readRDS("cache/corpus-skip-ngrams-n7k3.rds")
-  m_skip <- pairwise_compare(corpus_skip, jaccard_similarity)
+  m_skip <- pairwise_compare(corpus_skip, ratio_of_matches, directional = TRUE)
   saveRDS(m_skip, cache_skip)
 } else {
   m_skip <- readRDS(cache_skip)
@@ -29,10 +29,11 @@ if (!file.exists(cache_skip)) {
 Here are shingled n-grams.
 
 ```{r}
-cache_shingles <- "cache/comparison-matrix-shingles-jaccard.rds"
+cache_shingles <- "cache/comparison-matrix-shingles-ratio-of-matches.rds"
 if (!file.exists(cache_shingles)) {
   corpus_shingles <- readRDS("cache/corpus-shingle-ngrams-n7.rds")
-  m_shingles <- pairwise_compare(corpus_shingles, jaccard_similarity)
+  m_shingles <- pairwise_compare(corpus_shingles, ratio_of_matches, 
+                                 directional = TRUE)
   saveRDS(m_shingles, cache_shingles)
 } else {
   m_shingles <- readRDS(cache_shingles)
