@@ -1,10 +1,10 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
-CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(OCR_OUTPUTS))
+CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
 all : $(CLEAN_CODES) $(NOTEBOOKS)
 
-%.html : %.Rmd
+%.html : %.Rmd $(CLEAN_CODES)
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
 
 legal-codes/%.txt : text/%.txt
