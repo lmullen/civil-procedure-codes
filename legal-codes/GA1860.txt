@@ -173,7 +173,7 @@ upon the property of the defendant in such county, and to return
 the same,- with his outings and doings entered thereon, to the court
 to which the original attachment invaluable.
 
-l §3194. When the amount sworn to shall exceed the sum of fifty
+§3194. When the amount sworn to shall exceed the sum of fifty
 dollars, the attachment shall be made returnable to the next term
 of the Sulam'ini' or l]lll.‘l'lrrl' (Hunt (’1' the mannty where the (toil-nil;mt. l'tgsithm. or whore lit! hut l't.‘r~.ll_ll‘tl, hut it" rlltflt {Hilli'l -.--h;1ll sit
 within twenty days next after issuing 511'le tiltitt'ltlllt_‘lli. it shall
@@ -356,7 +356,7 @@ $3207. It shall be the duty of the ofIicer levying such attachment, to return th
 thereon, together with the affidavit and bond, to the court to
 which the same is made returnable.
 
-: _ §3208. In all cases it shall be the duty of the officer levying
+§3208. In all cases it shall be the duty of the officer levying
 attachments, to levy them in the order in which they came into
 his hands, and it shall be his duty to enter upon the same the
 year, month, day of the month, and hour of the day on which he
@@ -829,7 +829,7 @@ good, and amended on motion.
 
 process, provided the same be in writing, signed by the defendant, or some one authorized by him.
 
-l §325L The original petition shall be deposited in the Clerk’s
+§325L The original petition shall be deposited in the Clerk’s
 Ioiiice, at least twenty days before the term to which it is returnable; and if delivered within the twenty days the Clerk shall make
 the same returnable to the next term thereafter.
 
@@ -1853,7 +1853,7 @@ a or subpoena in any case at law or equity, shall reside out 'of
 State, or shall remove therefrom during the pendency of said
 cause, and the plaintifff or complainant shall die, his legal representatives shall be made parties on motion and without notice.
 
-' §3366. When a fame sole, being plaintifff or defendant, shall
+§3366. When a fame sole, being plaintifff or defendant, shall
 
 fmarry pending any suit at law, or in equity, the same shall not
 abate by reason of such intermarriage, but the same being suggested of record, such cause shall proceed in the name of the husband and wife, either as plaintifffs or defendants as the case may
@@ -2097,7 +2097,7 @@ USURY.
 Sermon. Ssonox.
 3400. Pleas of usury. 3401. Examination of parties.
 
-.' § 3400. The plea of usury must set forth the sum upon which
+.§ 3400. The plea of usury must set forth the sum upon which
 it was paid, or to be paid; the time when the contract was made;
 when payable; and the amount of usury agreed upon, taken or
 reserved.
@@ -2288,7 +2288,7 @@ or otherwise.
 
 §3423. If a part of a verdict be legal and a part illegal, the
 court‘will construe such verdict, and order it amended by entering a remitter as to that part which is illegal, and give judgment for the balance.
-' §3424. A judgment may be amended by order of the court
+§3424. A judgment may be amended by order of the court
 in conformity to the verdict upon which it is predicated even
 after an execution issues.
 , §3425. A Jieri facich or capias ad satisfacz'endum may be
@@ -2894,7 +2894,7 @@ proceeding in the Supreme Court, but takes effect from the first‘
 
 § 3499. All judgments obtained in the Superior, Inferior, J ustices’, or other Courts of this State shall be of equal dignity and
 shallbind all the property of the defendant, both real and per, sonal from the date of such judgment, except as otherwise provided in this Code. 7
-.' §3500. In all cases where a verdict shall be rendered and judgment signed up thereon, and an appeal shall be entered from
+.§3500. In all cases where a verdict shall be rendered and judgment signed up thereon, and an appeal shall be entered from
 such verdict, the property of the defendant shall not be bound by
 the first verdict and judgment, except so far as to prevent the
 alienation by the defendant of his property between the signing
@@ -3589,7 +3589,7 @@ of such Sheriff, or other levying oilicer, upon application, to put
 the purchaser, his agent or attorney in possession of the real estate sold; Provided, that the provisions of this Code shall not
 authorize the officer to turn out any other person than the defendant, his heirs or their tenants or assignees since the judgment.
 
-' §357 9. If the purchaser of real estate at Sheriff ’s and other ,_ sales under execution, shall fail to make application for possession
+§357 9. If the purchaser of real estate at Sheriff ’s and other ,_ sales under execution, shall fail to make application for possession
 
 thereof until the next term of the Superior Court after such sale
 
@@ -3738,7 +3738,7 @@ twenty-five per cent., as may seem reasonable and just, upon the
 principal debt, provided it shall be made to appear that such
 illegality was interposed for delay only.
 
-“‘§ 3595. When an execution has been levied on property, and
+“§ 3595. When an execution has been levied on property, and
 an affidavit of illegality filed, to stay proceedings thereon, the
 property so levied on, shall be subject to levy and sale under
 other executions, and the officer making the first levy shall claim,
@@ -4568,7 +4568,7 @@ SECTION. | SECTION.
 
 § 3635. New trials can be granted by the Superior Courts only ;
 the Inferior Courts have no such power.
-' §3636. The several Superior Courts of this State shall have
+§3636. The several Superior Courts of this State shall have
 power to correct errors, and grant new trials in any cause depending in any of the said Superior Courts, in such manner and
 under such rules and regulations as they may establish according
 to law and the usuages and customs of courts.
@@ -4949,7 +4949,7 @@ sound discretion of the court.
 § 3683. The best evidence which exists of the fact sought to be
 proved must be produced, unless its absence is satisfactorily accounted for.
 
-l §3684. Primary evidence is such as in itself does not indicate
+§3684. Primary evidence is such as in itself does not indicate
 the existence of other and better proof. Secondary evidence is
 such as from necessity in some cases is substituted for stronger
 and better proof.
@@ -5829,7 +5829,7 @@ iiling of the interrogatories, shall authorize a commission to issue.
 have not a joint interest, but several independent interests are
 represented by different attorneys, copies must be served upon
 each, and the right to file cross interrogatories belongs to each.
-In every case the court should see that the party really to be effected by the evidence has an opportunity of cross examination.§8806. Commissions shall issue generally in blank, allowing
+In every case the court should see that the party really to be effected by the evidence has an opportunity of cross examination§8806. Commissions shall issue generally in blank, allowing
 
 - the party to select his commissioners; but in any case, the oppo~
 site party shall have the privilege of naming two competent commissioners, whose names shall be inserted in the commission, and
@@ -7396,7 +7396,7 @@ session, power, custody, or control, or that of his agent, friend or
 any other person for him, and the verdict of such jury shall be
 
 conclusive on the question.
-' §3939. Upon hearing the certz'orm'i the Judge may remand
+§3939. Upon hearing the certz'orm'i the Judge may remand
 the case or give final judgment and direction therein as he may
 
 see fit.
@@ -7566,7 +7566,7 @@ case shall stand for trial as other cases at common law.
 grounds in his petition, and the pleadings in the case shall be
 subject to amendment under the same rules as govern in other
 cases in the Superior Court.
-’ §3952. In suit for freedom the burden of proof shall always
+§3952. In suit for freedom the burden of proof shall always
 llie on the plaintili', and it shall be always presumed that every
 negro, Indian, mulatto or mustizoe, (except free Indians in amity
 with this State, and negroes, mulattoes, and mustizoes, who now
@@ -9073,7 +9073,7 @@ chosen by the parties shall choose another in his place, and the
 arbitrators so chosen shall have all the powens of the arbitrators
 first chosen.
 
-.§ 4141. Before the arbitrators enter upon a hearing of said case,
+§ 4141. Before the arbitrators enter upon a hearing of said case,
 to make up their award, they shall be sworn impartially to
 determine the matters submitted to them, according to law and
 the justice and equity of the case, without faVOr or affection to

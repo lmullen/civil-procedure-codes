@@ -384,8 +384,7 @@ by Her Majesty in. Council, or the Judicial Com�
 mittee of Her Majesty's Privy Council, upon appeal
 from any judgment or order of the High Court of
 Admiralty, or from any order in lunacy made by the
-Lord Chancellor, or any other person having juris-
-diction in lunacy. � 
+Lord Chancellor, or any other person having jurisdiction in lunacy. � 
 Appeals from High Court. 
 19. The said Court of Appeal shall have jurisdiction and
 power to hear and determine appeals from any judgment or
@@ -1023,8 +1022,7 @@ The partition or sale of real estates ;
 The wardship of infants and the care of infants' 
 estates.
 There shall be assigned ( subject as aforesaid) to the Queen's 
-Bench Division of the said Court-
-(1.) All causes and matters, civil and criminal, pending "in 
+Bench Division of the said Court(1.) All causes and matters, civil and criminal, pending "in 
 the Court of Queen's Bench at the commencement
 of this Act: 
 (2.) All causes and matters, civil and criminal, which
@@ -1057,8 +1055,7 @@ exclusive jurisdiction in respect to such matters has
 been given to the London Court of Bankruptcy. 
 There shall be assigned (subject as aforesaid) to the Pro�
 bate, Divorce, and Admiralty Division of the said High 
-Court-
-(1.) All causes and matters pending in the Court of Pro� 
+Court(1.) All causes and matters pending in the Court of Pro� 
 bate, or in the Court for Divorce and Matrimonial
 Causes, or in the High Court of Admiralty, at the
 commencement of this Act : 
@@ -1811,8 +1808,7 @@ and the said Court of Appeal : Provided, that all the duties
 with respect to Appeals from the Court of Chancery of the
 County Palatine of Lancaster which are now performed by
 the Clerk of the Council of the Duchy of Lancaster shall be
-performed by the Registrars, Taxing Masters,and otherofficers -
-by whom like duties are discharged in the Supreme Court;
+performed by the Registrars, Taxing Masters,and otherofficers by whom like duties are discharged in the Supreme Court;
 and the said Clerk of the Council of the Duchy of Lancaster
 shall not be an officer attached to the said Court. 
 The officers so attached shall have the same rank and hold
@@ -1925,8 +1921,7 @@ Act, shall have such officers as hereinafter mentioned, who
 shall be attached to his person as such Judge, and appointed
 and removeable by him at his pleasure, and who shall
 respectively receive the salaries hereinafter mentioned ( that 
-is to say):-
-To the Lord Chief Justice of England, the Master of the 
+is to say):To the Lord Chief Justice of England, the Master of the 
 Rolls, the Lord Chief Justice of the Common Pleas,
 and the Lord Chief Baron of the Exchequer, respectively,
 there shall be attached a Secretary, whose salary shall be

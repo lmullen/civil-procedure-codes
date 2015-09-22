@@ -530,7 +530,7 @@ held, shall be a perpetual bar against all persons; subject to
 the qualihcations in sections twenty-eight and twenty-nine of
 this title.
 
-.§21.—Provise in case of Jadgment for Platntll reversed, kc.
+§21.—Provise in case of Jadgment for Platntll reversed, kc.
 
 If in any action for real property, the plaintifff be non-suited,
 or judgment be given for him, and the same be reversed for
@@ -835,7 +835,7 @@ When a person shall be an alien, subject or citizen of a
 country, at war with the United States, the time of the continuance of the war shall not be part of the period limited
 for the‘commencement of the action.
 
-§§5.—Where judgment reversed arc; Plaintm‘ may commence new
+§5.—Where judgment reversed arc; Plaintm‘ may commence new
 action.
 
 If an action shall. be commenced within the time prescribed therefore, and the plaintifff be non-suited, or a judg.
@@ -918,7 +918,7 @@ TITLE,V.
 
 PARTIES T0 CIVIL ACTIONS.
 
-.§55.—Action to be by party in interest. Action by grantee of land held
+§55.—Action to be by party in interest. Action by grantee of land held
 adversely.—Assignment of thing in action.
 
 Every action must be prosecuted in the name of the real
@@ -1313,7 +1313,7 @@ expense, shall cause such copy to be served within sixty
 days; and the defendant shall not be required to answer
 until the twentieth day after such service.
 
-' §78.—Piaintil failing to me Complaint within the time for Defendants, appeara
+§78.—Piaintil failing to me Complaint within the time for Defendants, appeara
 cue, may be longslited.
 
 If the plaintifff shall fail to file his complaint within the
@@ -1808,7 +1808,7 @@ $109.—7Elther party may appeal.
 ' Any party may appeal from any decision of the Clerk to
 the Judge of the Court, Without bond.
 
-‘§110.——Duty of the Clerk on appeal prayed.
+§110.——Duty of the Clerk on appeal prayed.
 
 On such appeal being prayed, the Clerk, within three
 days thereafter, shall prepare a statement of the facts of the
@@ -3333,7 +3333,7 @@ in case the defendant or his representatives shall apply and
 be admitted to defend the action, and shall succeed in such
 defense.
 
-§218.—Jndgment on frivolous demurrer, answer or reply.
+§218.—Judgement on frivolous demurrer, answer or reply.
 
 . If a demurrer, answer or reply be frivolous, the party prejudiced thereby, upon a previous notice of five days may
 apply to the court or to the Judge thereof, either in or out of
@@ -3404,7 +3404,7 @@ specific question of 'fact involved therein, to be tried by a.
 jury, or may refer it, as provided in sections two hundred
 and forty-four and two hundred and fortyfive.
 
-:§226.—Issues of fact, when to be tried.
+§226.—Issues of fact, when to be tried.
 
 Every issue of fact joined on the pleadings, and inquiry
 I of damages required to be tried by a jury, shall be tried at
@@ -3572,13 +3572,13 @@ such matter being the true oHice and province of the jury;
 but he shall state in a plain and correct manner, the evidence given [in the case, and declare and explain the law
 arising thereon. '
 
-‘§288.—Jn‘dge to put his instructions in writingEvery Judge, at the request of any party to an action on
+§288.—Jn‘dge to put his instructions in writingEvery Judge, at the request of any party to an action on
 trial, made at or before the close of the evidence, before
 instructing the jury on the law, shall put his instructions in
 writing, and read them to the jury; he shall then sign and
 file them with the Clerk as a part of the record of the action.
 
-,§239-——Connsel to put their prayers for instruction in writing.
+§239-——Connsel to put their prayers for instruction in writing.
 
 Counsel praying of the Judge instructions to the jury,
 shall put their request in writing entitled of the cause, and
@@ -3673,7 +3673,7 @@ shall arise, upon motion or otherwise, in any stage of the
 
 action.
 
-.§246.—-Mode of trial—Erect of;eport—-—Review.'
+§246.—-Mode of trial—Erect of;eport—-—Review.'
 
 The trial by referees shall be conducted in the same
 manner, as a trial by the court. They shall have the same
@@ -3755,7 +3755,7 @@ damages, or both for such costs and for such damages, in
 the same manneras against other persons, to be levied and
 collected of her separate estate and not otherwise.
 
-§249.—Tlie relief to be awarded to the plaintifff.
+§249.—The relief to be awarded to the plaintifff.
 
 The relief granted to the plaintifff, if there be no answer,
 cannot exceed that which he shall have demanded in his.
@@ -3782,7 +3782,7 @@ defendant claim a return thereof, judgment for the defendant may be for a return
 in case a return cannot be had, and damages for taking and
 withholding the same.
 
-t§252.—Clerk to enter judgments on judgment book, also judgments rendered
+§252.—Clerk to enter judgments on judgment book, also judgments rendered
 In other courts, and index them,
 
 'The Clerk of the Superior Court shall enter every judgment of the court, on his judgment book; it shall specify
@@ -3791,7 +3791,7 @@ action; he shall also enter on said book all judgments rendered in any other cou
 entered, and shall keep an alphabetical index of the whole,
 with ‘thedates and numbers thereof.
 
-,§253.——Jndgment roll.
+§253.——Judgement roll.
 
 Unless the party or his attorney shall furnish a judgmentroll, the. clerk, immediately after entering the judgment,
 shall attach together, and file the following papers, which
@@ -4070,7 +4070,7 @@ be necessary to satisfy the execution; and the sheriff’s
 receipt, shall be a sufficient discharge, for the amount so
 paid.
 
-';§266.-—Existing suits. Examination of debtors of judgment debtor, or of
+§266.-—Existing suits. Examination of debtors of judgment debtor, or of
 those having property belonging to him. Joint debtor.
 
 After the issuing or return of an execution against pro;perty of the judgment debtor, or of any one of several debtors
@@ -4100,13 +4100,13 @@ any final judgment or decree, and not embraced in the
 Ordinance respecting the Jurisdiction of the Courts of this
 .State, ” ratilied fourteenth day of March 1868.
 
-‘§267.—Existing suits. Witnesses required to testify.
+§267.—Existing suits. Witnesses required to testify.
 
 Witnesses may be required to appear and testify on any
 proceedings under this chapter, in the same manner as upon
 .the trial of an issue.
 
-:§268.—Existtng suit. Compelling party or witnesses to attend.
+§268.—Existtng suit. Compelling party or witnesses to attend.
 
 _ The party or witness may be required to attend before the
 Judge, or before a referee appointed by the court or Judge;
@@ -4808,7 +4808,7 @@ the ' prOperty to be sold, and the proceeds thereof, to be
 deposited or invested, to abide the judgment of the, appellate
 'court. . "
 
-~.§3l2.—Existjng salts—Undertaking must be filed.
+~§3l2.—Existjng salts—Undertaking must be filed.
 
 The undertaking must be filed with the clerk with whom
 the judgment or order appealed from was entered. The
@@ -7007,7 +7007,7 @@ shall, within three months after his qualification or appointment, make return o
 but such time may be extended bygthe Probate Judge, on _
 good cause shown, not exceedingzsix months.
 
-.§178.—Annu.al accounts. .
+§178.—Annu.al accounts. .
 
 Every executor, administrator, collector and guardian,
 shall, within twelve months frOm the date of his qualification or'appointment, and annually, so long as any of the
@@ -7130,7 +7130,7 @@ furniture or implements 'of trade, as may be agreed on
 
 findenture. r
 
-.‘§487.—Duty of Probate Judge.
+§487.—Duty of Probate Judge.
 
 On application of any person to have an apprentice bound
 “to him, it is the duty of the Judge of Probate to inform
@@ -8012,7 +8012,7 @@ which might have been received by him, during the year
 next preceeding the first day of September exclusive. For
 this report no fee shall be allowed.
 
-§§59.—01erks to furnish blank writs. '
+§59.—01erks to furnish blank writs. '
 
 Clerks of Courts shall furnish to parties printed cepies of
 the formal parts of all writs required to be issued by them:

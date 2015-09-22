@@ -168,7 +168,7 @@ replication, documents, and proofs shall be read, the wits"
 nesses examined, and the court thereupon shall make such
 decree as they shall think equitable and just.
 
-' SEC. 35._ Any person having the possession of land, and S
+SEC. 35._ Any person having the possession of land, and S
 claiming title thereto, may institute a suit against any other;‘
 person.settin‘g up a claim thereto, for the purpose of (le- l
 termtnmg who is the real owner thereof.
@@ -444,7 +444,7 @@ SEC. 74. Any person who was a party to a decree of a
 court of chancery, his heirs, executors, or administrators,‘
 may file a petition for a review of the proceedings in’
 which such former decree was rendered, at any time within five years next after rendering such decree.
-‘ SEC. 75. If the petition for a review be brought upont
+SEC. 75. If the petition for a review be brought upont
 
 ‘ errors of law appearing in the body of the decree or pro-3
 
@@ -740,7 +740,7 @@ party making such denial be prosecuting, or sued as exe-1
 center or administrator, it shall be sufficient to state in such,
 affidavit the belief of the party making the same according
 to his or her best knowledge, that such instrument was
-not executed by the testator or intestate.SEC. 13. Wheneverjudgment shall be given against the.‘
+not executed by the testator or intestateSEC, 13. Wheneverjudgment shall be given against the.‘
 defendant or defendants by default in any action brought‘
 on any instrument of Writing for the payment of money:
 only, the court may direct the clerk to assess the damages]

@@ -218,7 +218,7 @@ swering interrogatories appended to a commission issuing from any
 which said interrogatories are intended to be taken, upon the application of the commissioners therein named, it shall and may be lawful for the party at whose instance said interrogatories are to be taken,
 his. her or their attorney, or for either of the commissioners, to make
 zltiidavit of such failure, refusal or neglect; and upon application a
-made to any Judge of the Superior or Justice of the Inferior Court,§
+made to any Judge of the Superior or Justice of the Inferior Court§
 of any Circuit or County in which said witness may be when applied
 to. to be examined, accompanied with such affidavit [for such Judge] to
 issue an order to all and singular the Sheriffs, Constables and Coroners
@@ -1567,7 +1567,7 @@ manner as that the same shall be ready for trial at furthest, at,  third:
 term from the filing such bill inclusive, unless very special cause be
 shown to induce the Court to continue the same, which shall not'
 extend to more than four terms; and all such bills shall be read and
-sanctioned by one of the Judges,§ and 3. copy thereof served“ on the
+sanctioned by one of the Judges§ and 3. copy thereof served“ on the
 opposite party at least thirty days before the filing of such bill in
 
 Court ;‘ and the party against whom such bill shall be filed, shall appear and answer to the same at the next Court ;’ and if he, she, or
@@ -1699,7 +1699,7 @@ same shall be made returnable, and shall be served on the defendant t
 or defendtints at least twenty days: before the return thereof, by de-l
 livering a copy of such petition and process to the defendant or de->
 fezidants, or leaving such copy at his, her, or their most notorious
-place or places of residence.§ And if any such process shall be
+place or places of residence§ And if any such process shall be
 delivered to the Sheriff or other officer, whose duty it shall be to execute the same, so late that it cannot be served in manner aforesaid,
 twenty days: before the sitting of the Court to which it shall be return-1
 able, such process shall not be executed, but the officer shall return
@@ -1748,7 +1748,7 @@ issue out of the Clerk’s office, returnable in the manner hereinbefore
 prescribed for the issuing and return of process; and in cases where
 the defendant shall die, it shall and may be lawful for the plaintiff to
 issue ascire facias in manner aforesaid, immediately after the expiration of twelve months, requiring such executor or administrator to
-appear and answer to the said cause.§
+appear and answer to the said cause§
 
 And where a feme sole, being plaintifff, shall marry pending any
 suit, the same shall not abate by reason of such intermarriage, but
@@ -1987,7 +1987,7 @@ to shall be endorsed on the petition and process. ‘
 85. Sec. XIV. When any civil process shall issue out of any of 1
 the said Courts, whereby bail shall be required to be taken in manner:
 aforesaid of any person or persons to answer any action in any of j
-the said Courts, the Sheriff or other officer shall take a bond,§° with
+the said Courts, the Sheriff or other officer shall take a bond§° with
 one or more sufficient security or securities, for double thesum sworn?
 to, and shall return such bond, with the petition and process; and in‘
 case the Sheriff or other officer shall fail or neglect to take such bail,
@@ -2386,7 +2386,7 @@ motion, shall cause the same to be amended without any additional
 cost at the first termi and shall proceed to give judgment according
 to the right of the cause and matter of law, as it shall appear to the
 said Court, without regard to such imperfections, in matter of form,
--clerical mistake or omission; and no dilatory answer shall be received or admitted, unless affidavit be made of the truth thereof.§5
+-clerical mistake or omission; and no dilatory answer shall be received or admitted, unless affidavit be made of the truth thereof§5
 ' 106. Sec. X. Where any defendant shall fail to appear and answer in manner aforesaid, the Court on motion of the plaintiti‘ or his
 counsel, shall enter a judgment by default, and the plaintitl"s claim,
 allegation or demand, shall be tried in all cases of judgment by default, by a Jury; but no such trial shall in any case be had at the
@@ -2807,7 +2807,7 @@ construed as to require the renewal of any judgment as heretofore
 practised, or in any other manner whatever.‘|'
 
 An Act to amend the 26th section of the Judiciary Act, passed 16th
-day of December, 1799; and also to prevent a fraudulent enforcement of Dormant Jndgments.1;—Approved- Dec. 19, 1822. Vol.
+day of December, 1799; and also to prevent a fraudulent enforcement of Dormant Judgements.1;—Approved- Dec. 19, 1822. Vol.
 IV. 209. ‘
 
 A confrariety of decisions having taken place in the different
@@ -5412,7 +5412,7 @@ out and facilitate the mode  the collection of the same, assented to
 Dec. 11th, 1841,’ so as to include all liens on personal property under certain regulations, and for other pu.rposes.—Approved Dec. 24,
 1847'. Pam. 214.
 
-l’ W'hereas,§in manycases, persons having liens upon personal property, created by the Common Law or the Statute Law of force in
+l’ W'hereas§in manycases, persons having liens upon personal property, created by the Common Law or the Statute Law of force in
 tin’: State, have no power to sell the same, whereby manifest injustice results to such persons, and frequently the delay works injury to
 both debtorgand creditor—for remedy whereof,
 
@@ -6493,7 +6493,7 @@ be divialed, and thereupon to issue a writ of partition, directed to any
 elevenf persons whom the Court shall think lit, requiring and commanding them, or a majority of them, to make partition accordIingly ; they being lirst sworn in Court, or before one of the Judges,
 or any Magistrate, or other person or persons for this purpose nominated and appointed by order of Court, duly and impartially to execute such writ :1 And such partitioners, or persons named in such
 lwrit, shall give eight days’ notice of the time of executing thereof,
-Z§’.Zi1' If3§c§Z3“f§ Z‘§3;i‘il.‘i§ Z§I§§1"f,§?t§§oa.§°§$?i‘ §§i3s§§‘§'Z'lp°a3
+Z§’.Zi1' If3§c§Z3“f§ Z§3;i‘il.‘i§ Z§I§1"f§?§oa§°§$?i‘ §i3s§§'Z'lp°a3
 such land and tenements, either in entire tracts or parcels, as they shall
 judge to be in proportion to the shares claimed and most beneficial
 to the several coparceners, joint tenants, or tenants in common, according to the best of their knowledge ; and shall make return there.of under their hands and seals to the said Court within three months
@@ -7019,7 +7019,7 @@ option of the plaintifff until he is satisfied ;‘ Provided nevertheless, if
 the execution against the security or securities be first paid by him
 or them, then the execution against the principal shall still be of
 force and under the control of the security or securities, until the
-same be satisfied by said principal.§
+same be satisfied by said principal§
 
 433. Sec. III. Where security shall have been given, or may
 hereafter be given for the stay of an execution after judgment, execution shall issue as in cases of appeal against the principal and security, jointly or severally, and proceed and be controlled in like
@@ -7639,7 +7639,7 @@ words of recor;ling such proceedings, to be taxed in the bill oft: f;~[S;
 and the said Clerk shall also keep regular and fair minutes of ail the
 proceedings in the said Court, which shzill be signed by the .::i».ge
 of the said Court: and the City Sheriif shall, in like I11'.1lllr{';', t:.l\'e
-the following oath : “ I do solezntily swear (or ailirin as t§;~~ ms.c
+the following oath : “ I do solezntily swear (or ailirin as §;~~ ms.c
 
 may be) that I will faithfully execute all writs, warrants, Pi('{.t_'ptS
 and processes, directed to me as Sheriff of the City of Augusta, and
@@ -8254,7 +8254,7 @@ until the next succeeding term.:[
 6. Sec. VI. In all cases in said Court in which bail is required,
 that the bail and proceedings thereon shall be conformable to the
 laws of this State, or to such Statutes upon the same subject, as may
-be hereafter enacted by the General Assembly.§
+be hereafter enacted by the General Assembly§
 
 7. -Sec. VII. The XIXth, XXth, XXIst, and XXIId sections of
 the Judicial Statute|| of this State, shall be in force in the said Court
@@ -8695,7 +8695,7 @@ dismiss the attachment.
 garnishment,1' as well when the debt of the garnishee to the defendant shall exceed, as when it shall fall short, of the jurisdictional
 amount of said Court, and that said Court shall also have jurisdic-J
 tion of all suits brought on bail or attachment, claim or other obli-E
-gations, or bonds given by parties to any proceedings issued from,§
+gations, or bonds given by parties to any proceedings issued from§
 or had in said Court, notwithstanding that the penalty of said bonds I
 shall or may exceed the jurisdiction of said Court, (in consequence
 of having been given in double the sum sworn to, attached, or of
@@ -9551,7 +9551,7 @@ company districts, and on a Court day, and that between the hours]
 of ten and three o’clock.I .
 _ 22. Sec. XVIII. No Constable shall be authorized to levy on1
 any negro or negroes, or real estate, unless there is no other person-;
-al estate to be found sufficient to satisfy the debt,§‘ and then and in}
+al estate to be found sufficient to satisfy the debt§‘ and then and in}
 that case, they are hereby authorized to levy on the same wherever!
 to be found, and deliver over the execution or executions to thel
 Sheriff of the County, with a return of the property levied on, who‘
@@ -9563,7 +9563,7 @@ executions issued from any J nstices’ Court after the passing of this:
 Act, shall bear equal dignity with judgments obtained in and executions issued from the Superior or Inferior Courts, and shall bind all
 the property of the defendant from the date of the said judgment;(
 and also all the property of his, her, or their securities from the time:
-of their entering themselves as such until the same shall be satisiied.§
+of their entering themselves as such until the same shall be satisiied§
 
 24. Sec. XX. A reasonable compensation shall be allowed to:
 C'0t1stab'3s, for carrying property levied on to the place of sale, when:

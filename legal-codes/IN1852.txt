@@ -73,7 +73,7 @@ Second. When the action is between herself and her
 husband, she may sue or be sued alone; but in no case shall
 
 she be required to sue or defend by guardian or next friend,
-except she be under the age of twenty-one years.‘ SEC. 9. If a husband and wife are sued together, and th
+except she be under the age of twenty-one yearsSEC, 9. If a husband and wife are sued together, and th
 action relates to her separate property, the wife may defend
 in her own right; and, if the husband neglect to defend, she
 may defend in his right also.
@@ -168,7 +168,7 @@ service. When the action is brought by the guardian, the
 damages recovered shall inure to the ward.‘|'
 
 Sac. 26. When a husband or father has deserted his family,‘
-or is imprisoned, the wife or mother may prosecute or defend,§
+or is imprisoned, the wife or mother may prosecute or defend§
 in his name, any action which he might have prosecuted or
 defended, and shall have the same powers and rights therein
 as he might have had.
@@ -5767,7 +5767,7 @@ attested by a subscribing witness.1
 the witnesses in such case, shall be the same as allowed before
 justices of the peace, and shall be ascertained and estimated bv
 the arbitrators, and returned with the award, including therein
-their own fees as allowed by law.§
+their own fees as allowed by law§
 
 Sec. 11. A true copy of the award, and of the costs afore-l
 said, shall be‘ delivered to each of the parties, or left at his}
@@ -9846,7 +9846,7 @@ or complainant, and the assignees thereo successively, on, or
 attached to, the entry of such judgment or decree, and the
 assignment when attested by the clerk of the court, or such
 justice of the peace, shall vest the title to such judgment or
-decree in each assignee thereof successively.§
+decree in each assignee thereof successively§
 
 V’-EESOBBNO amount of property from-seizure or sale, for
 the payment of any debt or liability hereafter contracted ”

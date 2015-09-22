@@ -1086,7 +1086,7 @@ Other actions according to the residence of the arties.
 Action may be tried in any county, unless the cfendant demand trial in the
 proper county.
 
-' SEC. 74. Certain Actions to be tried where the Subject, or
+SEC. 74. Certain Actions to be tried where the Subject, or
 some part thereof, is situated.
 
 Actions for the following causes must be tried in the
@@ -1447,7 +1447,7 @@ General rules of lcadi .
 
 Mistakes in plea ing an amendments.
 
-‘ SEC. 91. Forms of Pleadings.
+SEC. 91. Forms of Pleadings.
 
 All the forms of pleadings heretofore existing are abolished,
 and hereafter the forms of pleadings in civil actions, in courts of
@@ -2200,7 +2200,7 @@ may retain the property until that time; but if they, or others in
 their places, fail to justify at the time and place appointed, he
 shall deliver the property to the plaintifff
 
-' SEC. 162. Qualification and J ustilication of Sureties.
+SEC. 162. Qualification and J ustilication of Sureties.
 
 The qualification of sureties, and their justification, shall be
 
@@ -3012,7 +3012,7 @@ or both for such costs and such damages, in the same manner as
 against other persons, to be levied and collected of her separate
 estate, and not otherwise.
 
-- SEC. 221. The Relief to be Awarded to the Plaintiff.
+SEC. 221. The Relief to be Awarded to the Plaintiff.
 
 The relief granted the plaintifff, if there be no answer, cannot
 exceed that which he shall have demanded in his complaint; but
@@ -4193,7 +4193,7 @@ SEC. 313. Form of Summons.
 
 The summons provided in the last two sections shall be subscribed by the judgment creditor, his representatives, or attorney ; shall describe the judgment, and require the person summoned to show cause within twenty days after the service of
 
-the summons, and shall be served in like manner as the original summons. ' SEC. 314.. To be Accompanied by Aiiidavit of Amount Due.
+the summons, and shall be served in like manner as the original summons. SEC. 314.. To be Accompanied by Aiiidavit of Amount Due.
 
 The summons shall be accompanied by an affidavit of the person subscribing it, that the judgment has not been satisfied, to
 

@@ -67,7 +67,7 @@ changed into equitable proceedings, when it a pears
 
 - that, by the provisions of section four, the p aintifi'
 should have adepted equitable proceedings. ‘
-' §9. Where the action has been properly commenced by
+§9. Where the action has been properly commenced by
 ordinary proceedings, either party shall have the right, by
 ' motion, to have any issue, which, before the adoption of
 this code, was exclusively cognizable in chancery, tried in
@@ -872,7 +872,7 @@ liability by statute, the service must be upon the master,
 clerk, pilot, or other officer having, charge of the boat, or
 by posting a copy of the summons in a conspiCUOUS place
 on the boat. ' ‘
-' § 113. Where a defendant is out of this state, the plain- ,
+§ 113. Where a defendant is out of this state, the plain- ,
 tifl' may take a copy of the petition certified by the clerk,
 with a summons annexed thereto, warning such defendant
 to appear and answer the petition within sixty days after
@@ -1377,7 +1377,7 @@ such allegation is not coutroverted as stated in section one
 hundred and seventy-four in regard to judgments, it shall
 not be necessary to prove it on the trial.
 
-' §l77. In the actions mentioned in the last section, the
+§l77. In the actions mentioned in the last section, the
 defendant may, in his answer, alledge both the truth of the
 matter charged as defamatory and any mitigating "cir‘ cumstances legally admissible in evidence,'to reduce the
 amount of damages; and whether he proves the justitication or not, he may give in evidence the mitigating circumstances. . ‘ ,
@@ -1639,7 +1639,7 @@ the jailer where the defendant has been committed to jail,
 to the effect that, if judgment shall be rendered in the action against the defendant, he will render himself amenable to the process of the court thereupon. The bond, when
 accepted, shall be returned'to the clerk’s office, and the defendant discharged.
 
-{3212. The bail must be a resident of this state, and be
+§212. The bail must be a resident of this state, and be
 worth double the sum specified in the order of arrest, beyond the amount of his debts, and have property in this
 state, subject to execution, at least equal in value to that
 sum. If two or more become bail, they must, in the aggregate, possess the same qualifications. The bail, if it is required by the sheriff, shall make affidavit of their qualification before him.
@@ -2051,7 +2051,7 @@ plaintifff, to the effect that he shall pay to such person the
 damages he may sustain by the wrongful suing out of the
 order, not exceeding double the amount of the plaintifff ’3
 claim.
-’ § 254. An order of attachment binds the defendant's
+§ 254. An order of attachment binds the defendant's
 property in the county which might be seized under an execution against him, from the time of the delivery of the
 order to the sheriff, in the same manner as an execution
 would bind it; and the lien of the plaintifff is completed
@@ -2486,7 +2486,7 @@ or other property specifically attached, may, in all cases,
 be summarily enforced by rules and proceedings as in
 cases of contempt. 1
 
-‘§ 305 The provisions of the first article of this chapter
+§ 305 The provisions of the first article of this chapter
 not inconsistent with the foregoing sections of this article,
 may be applied, so far as shall be proper, to regulate the
 proceedings in cases of attachments against specific
@@ -3510,7 +3510,7 @@ may be adjudged, and pay to the defendant such sums
 
 of money as the court may award to him.
 
-' § 442. The attorney appointed pursuant to the last sec' tion, shall bea regular practicing attorney of the court;
+§ 442. The attorney appointed pursuant to the last sec' tion, shall bea regular practicing attorney of the court;
 and, before an order for his compensation is made, he must
 make a written statement of all that he has done in the
 case, which shall be signed by him, and filed with the papers of the action. , .
@@ -3738,7 +3738,7 @@ by the court of appeals, on by the court in which the judgment was rendered or o
 modified by the'court of appeals for errors appearing in
 the record. '
 
-:§ 477. The proceedings to obtain such reversal or modilfication shall be by appeal or writ of error prosecuted as
+§ 477. The proceedings to obtain such reversal or modilfication shall be by appeal or writ of error prosecuted as
 prescribed by law.
 
 § 478. A misprision of the clerk shall not he a ground for,
@@ -3925,14 +3925,14 @@ im risonment. - '
 presiding judge of the county court, who shall have power todiseharge him, if it appears that his imprisonment is
 illegal. .
 
-’ § 501. Every warrant of commitment to prison issued by
+§ 501. Every warrant of commitment to prison issued by
 a court or officer pursuant to this chapter, must specify particularly the cause of the commitment; and, if it is for refusing to answer a question, such question must be stated
 in the warrant. And every warrant to arrest or commit a
 witness must be directed to the sheriff or the county where
 he may be, and executed in the same manner as process
 from the court. ' ' ,
 
-' § 502. A person confined in any prison in this state for
+§ 502. A person confined in any prison in this state for
 any other cause than a sentence for felony, may, by order
 of court, be‘required to be produced for oral examination
 in the county where he is imprisoned ; but in all other cases, his examination must be taken by deposition.
@@ -3953,7 +3953,7 @@ AM. 1. AMauit.
 2. Deputies. '
 3. General rule: of rumination.
 
-' §505. The testimony of witnesses is taken in three
+§505. The testimony of witnesses is taken in three
 modes:
 1. By aliidavit.
 2. By‘ deposition.“ ' ‘ 4
@@ -4064,7 +4064,7 @@ discharge faithfully and impartially the duties of their of,fioe. ‘
 county seat; and if.there is more than one, the others at
 
 such place as the court may direct. . . l
-.' § 521. There shall riot be more than three examiners’ of,fices in a county, nor more than two examiners to each of.iicel
+.§ 521. There shall riot be more than three examiners’ of,fices in a county, nor more than two examiners to each of.iicel
 
 § 522. All depositions taken in this state to be used in
 the courts thereof, shall be taken before an examiner, exce t ‘ ' '
@@ -4571,7 +4571,7 @@ not appearing, shall be served on the attorney appointed
 
 to defend for him.
 
-' §596 Where it is not otherwise specially provided in
+§596 Where it is not otherwise specially provided in
 this code, a notice to a party in an action of any motion or
 proceeding to be made or taken therein in court, or before
 a judge, may be served upon such party or his attorney;
@@ -4745,7 +4745,7 @@ object that the property was not fairly a praised ; and,
 thereupon, the jury trying the facts shall hear evidence
 respecting and find the value of the property.
 
-‘§ 616. The giving of the bond mentioned in section six
+§ 616. The giving of the bond mentioned in section six
 hundred and twelve, shall not discharge the levy of the
 execution upon the pmperty claimed. But the officer may
 leave it, subject to the lieu of the levy, with the person in

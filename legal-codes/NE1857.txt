@@ -464,7 +464,7 @@ A. B., Principal,
 C. D., Surety,
 Attest: l
 
-E. F ., Justice.SEC. 47. Upon the appeal being taken in accordance with the
+E. F ., JusticeSEC, 47. Upon the appeal being taken in accordance with the
 
 foregoing proceedings In the case by him shall be suspended.
 Sac. 48. If in the meantime an execution has been issued,

@@ -805,7 +805,7 @@ be stricken out. 92. Material allegation not denied,when deemed
 
 87. Private statute, how pleaded.
 
-.SEC. 79. Every pleading shall be subscribed by the party or his
+SEC, 79. Every pleading shall be subscribed by the party or his
 attorney, and, except a demurrer, shall also be verified by the party,
 his agent or attorney, to the effect that he believes it to be true. The
 verification must be made by the affidavit of the party, or, if there be
@@ -2817,7 +2817,7 @@ L7 5.
 
 I.
 
-:§5§:§i§5§§
+§5§i§5§
 
 CHAPTER III.
 
@@ -2908,9 +2908,9 @@ sale to conveyance.
 
 293.
 
-.§
+§
 
-.§
+§
 
 SEC. 271. The party in whose favor a judgment is given, which
 requires the payment of money, the delivery of real or personal property, or either of them, may at any time after the entry thereof have a
@@ -3140,7 +3140,7 @@ proceeding in accordance therewith, but shall not preclude the claimant
 from maintaining an action at law for the recovery of the possesion of
 such property, or for damages for taking the same.
 
-' SEC. 285. The claimant at any time before the jury retire, may Withdraw his claim, or the plaintifff in the writ, may within the same time
+SEC. 285. The claimant at any time before the jury retire, may Withdraw his claim, or the plaintifff in the writ, may within the same time
 direct the sheriff to discharge the property from the execution, and
 
 thereupon, the trial shall proceed no further. The costs and disbursements of the trial shall be paid by the party against whom the verdict
@@ -4459,7 +4459,7 @@ Sec. 389. The counterclaim of. thevdefendant shall be one upon
 which a suit might be maint.ainec_l,by the defendant against the plaintifff
 in the suit; and in adgl_iti'gn,to the cases specified in .the subdivisions
 of section 72, it is sufhcient if it be connected with the subject of the
-suit. Sections.-.§§;_.8_.9-, 90, and 91, shall not apply to suits in equity.
+suit. Sections.-§;_.8_.9-, 90, and 91, shall not apply to suits in equity.
 
 SEC. _890.:°3_'.l2h°e. plaintiff in a suit may unite several causes of suit in
 the sa's3:e_bbmplaint, when they all arise out of:
@@ -9690,7 +9690,7 @@ SEC. 871. All actions, suits or proceedings by or against a county,
 are in the name of such county, but the county is represented by the
 county court, and such court has authority and power to control and
 direct the proceeding therein as if it were plaintiff or defeinlant as t.he
-case may be. - SEC. 872. The county court is held at such times as may be
+case may be. SEC. 872. The county court is held at such times as may be
 appointed by law, and at such other times  the court in term or the
 county judge in vacation may appoint, in like manner and with like
 effect as the circuit court or judge thereof is authori'/.ed by section 865.
@@ -10359,7 +10359,7 @@ those who did not appear, or were discharged for any other reason than
 those mentioned in the last subdivision ;
 
 3. Deposit in a box to be denominated, the box of drawn jurors,
-the ballots containing the names of those who attended and served.SEC. 935. The clerk of the court shall within one week after its
+the ballots containing the names of those who attended and servedSEC, 935. The clerk of the court shall within one week after its
 adjournment make and file in the office of the county clerk a certified
 list of all the jurors returned to the court, specifying:
 

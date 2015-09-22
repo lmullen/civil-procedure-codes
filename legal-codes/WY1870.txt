@@ -26,7 +26,7 @@ action, which shall be called the civil action.
 SEC. 4. Remedies, in courts of justice, are divided into.
 First, Actions; Second, Special proceedings.
 
-' SEC. 5. Anaction is an ordinary proceeding in a court
+SEC. 5. Anaction is an ordinary proceeding in a court
 of justice, by which a party prosecutes another party, for
 the enforcement or protection of a right, the redress or
 prevention of a wrong, or the punishment of a public offense.
@@ -927,7 +927,7 @@ Reply.
 SEC. 110. There shall be no reply, except upon the
 allegation of a counterclaim or set-oil‘, in the answer.
 
-' SEC. 111. When the answer contains new matter, constituting a counterclaim or set-oil’, the p‘laintif‘fn1a_v.reply
+SEC. 111. When the answer contains new matter, constituting a counterclaim or set-oil’, the p‘laintif‘fn1a_v.reply
 to such new matter, denying. generally or specifically, each
 allegation controverted by him, and he may allege, in
 ordinary and concise language and without repetition, any
@@ -3550,7 +3550,7 @@ V., , {“Et\ -"1
  ~ .  ..». _t;:;1t at a. r-i-:tr:1' :<t;1te inay he prmei hf: the
 :ztte=:.-iii-i‘: of the C‘-asrk 3:111 the Seal of the court, tmnexeui,
 it’ ti:~r:> he :1 .~:e:1‘.. t.\j;f:ti1e1' with :1. <:e‘~.‘ti;":C:tte of" a jzzzige,
-ehiet‘ _iu.~:tiee, or ])i"t,‘9itiil‘._‘.§ 1i1:1;,;i-rti';1te., that the ztttesttttion is
+ehiet‘ _iu.~:tiee, or ])i"t,‘9itiil‘._‘§ 1i1:1;,;i-rti';1te., that the ztttesttttion is
 
 ill (’!'..‘ F4y‘_‘\}\ nr la|.\V'o
 S.‘-, i. 409. The ofiieiai certificate of a justice of the

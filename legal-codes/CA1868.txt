@@ -369,7 +369,7 @@ the complaint, the plaintifff will apply to the Court for the
 
 relief demanded therein. .
 
-8eeantc,§94;N.Y.Code,§129.
+8eeantc§94;N.Y.Code§129.
 
 1. Where judgment by default is entered in an action against a for
 fraudulently converting money of the plaintifff, the summons must ve_apmed the defendant that, on failure to answer, judgment would be taken against
@@ -1101,7 +1101,7 @@ TITLE V.
 
 830-neat 72.
 
-53 3.8 8333333383 i8.3i$.‘r‘~‘3?-°§8sT3 9‘3.=13§»=‘§-‘.5’
+53 3.8 8333333383 i8.3i$.‘r‘~‘3?-°§8sT3 9‘3.=13§»=§-‘.5’
 
 CHAPTER I.—Arrest and Bail.
 
@@ -1289,13 +1289,13 @@ judgment therein; or that they will pay to the plaintifff the
 amount of any judgment which may be recovered in the
 action. . ' . .
 
-N. Y. Code,§ 187; Bancroft’: Forms, 493; Abb. F. 1338-1340.
+N. Y. Code§ 187; Bancroft’: Forms, 493; Abb. F. 1338-1340.
 
 \ § 82. Surrender of defendant. ,
 ,, At any time before judgment, or within ten days there‘alter, the bail may surrender the defendant in their ei:oneration: or he may surrender himself to the sherid of the
 county where he was arrested.
 
-N.Y.Code,§188.
+N.Y.Code§188.
 
 1. The suretles on the bail bond of a defendant, arrested in a civil action, are
 not bound to surrender the defendant within ten days after judgment against
@@ -1325,7 +1325,7 @@ delivery, or surrender, be not made within ten days after
 judgment, the bail shall be finally charged on their undertaking, and be bound to pay the amount of the judgment, within
 ten days thereafter. .
 
-N.Y.Code,§189; §§83snd84discussed.
+N.Y.Code§189; §83snd84discussed.
 
 5 84. ‘Bail, how proceeded against.
 
@@ -1397,7 +1397,7 @@ than‘ two sureties to ‘ justify severally; in amounts less than
 ‘that expressed in ‘the "order, ' if the whole justincation be
 
 equivalent to that of two sudicient 
-N.Y.Code,§194., Seepost, teso.
+N.Y.Code§194., Seepost, teso.
 
 5 89. Jushjicaaon and allowance of bail.
 
@@ -1408,7 +1408,7 @@ manner as the Judge, or County Clerk, in his discretion, may
 think proper. The examination shall be reduced to ifvriting,
 and subscribed by the bail, if required bythe plaintifff.’ _
 
-N.Y.C-ode,§l95. ' " - ' t — ’ a § 90.. Justification and allowance of bail.
+N.Y.C-ode§l95. ' " - ' t — ’ a § 90.. Justification and allowance of bail.
 
 If the Judge, or Clerk, find the .bail sudicient, he shall
 annex the examination to the undertaking, indorse his allowance thereon, and cause them to be ‘{i1ed,"and the‘ sheriff shall
@@ -1426,7 +1426,7 @@ amount instead of giving bail. ,In either case, the sheriff
 shall give the defendant a certificate of the deposit made, and
 the defendant shall be discharged, out of custody. ' 
 
-N.Y.Code,§l97'." ~ ‘ ‘ W . .2 t. 
+N.Y.Code§l97'." ~ ‘ ‘ W . .2 t. 
 
 § 92. -Payment of into ‘cm:  sherifg , _
 _ The sheriff shall immediately after the deposit pay the same
@@ -1818,7 +1818,7 @@ answered, unless upon notice-, or upon an order to show cause;
 but in 81101! case the defehdaht may be féétrhined lliltil H16
 decision. of the Court or Judge granting or refusing the injunction.
 
-N.Y.Code,§221. . _ . e ,
+N.Y.Code§221. . _ . e ,
 
 1. When thennswertohhillforanininnetion dMesm tz, ifan ,
 :ICt‘l:lel4>‘i11’l,apu-eliminaryinjunotion should newegmntea. ’ .W‘oo¢£
@@ -1859,7 +1859,7 @@ Nit on the part of the defendant, with or without the answer.
 If the application be made upon affidavits" on the part of
 the defendant, but not otherwise, the plaintifff may oppose
 the same by atiidayits, or other evidence, in addition to those
-99 -W1?i¢,h.‘.l!9.§"5P9€t.i°9 was grantedQ
+99 -W1?i¢,h.‘.l!9§"5P9€t.i°9 was grantedQ
 
 TITLE VIII.
 
@@ -2232,7 +2232,7 @@ attached remaining in the sheriii"s hands, shall be delivered
 to the defendant or his agent; the order of attachment shall
 be discharged, and the property released therefrom.
 
-,§ 136. Proceedings to release attachment, before whom taken.
+§ 136. Proceedings to release attachment, before whom taken.
 Whenever the defendant shall have appeared in the
 
 aet1'on,he may, upon reasonable notice to the plaintifff, apply
@@ -2303,7 +2303,7 @@ mine by affidavits or other evidence, in addition to those on
 
 which the attachment was made.
 
-.§ 140. ’ When the writ shall be discharged.
+§ 140. ’ When the writ shall be discharged.
 
 If, upon such application, it shall satisfactorily appear that
 he writ of attachment was ‘improperly or irregularly issued,
@@ -2393,7 +2393,7 @@ trial, and the defendant appears and asks for the dismissal:
 4th. By the Court, when upon the trial, and before the
 final submission of the case, the plaintifff abandons it:
 
-' § 149. Judgment on the merits, when.
+§ 149. Judgment on the merits, when.
 In every case, other than those mentioned in the last section, the judgment shall be rendered on the merits.
 
 T I T L E X I .
@@ -3051,7 +3051,7 @@ bed, when the limited duties ofthe relereeare considered. Adamsv.'
 
 Hsdadt, 7 ca. 137.
 
-§186. 0Iy'ect§'ons, how disposed of.
+§186. 0Iy'ec§'ons, how disposed of.
 
 The objections taken to the appointment of any person as
 referee shall be heard and‘ disposed of by the Court. Amdevits may be read, and any person examined as a witness,
@@ -3502,7 +3502,7 @@ When judgment to be revived. Petition for the purpose, how and by whom made.
 
 § 209. Within what time an execution may issue
 
-5?-.§§§.§§?3.§§§;§§
+5?-§§§?3§§;§
 
 The party in whose favor judgment is given, may, at any
 time within five years after the entry thereof, issue a writ of
@@ -4177,7 +4177,7 @@ exempt from execution. In default of entering into such
 
 undertaking he may be committed to prison.
 
-‘Amended 1854, 90. See N. Y. Code,§ 292. Applicable to Justices’ Courb.
+‘Amended 1854, 90. See N. Y. Code§ 292. Applicable to Justices’ Courb.
 
 1. A commitment for contem t, for refusing to obey an order of Court
 commanding the imprisonment o the party in contempt, until he shall comply with this order, Csh’<;;l.d6sEtalfo§tl§ that it is in the power of the party to
@@ -4557,7 +4557,7 @@ to his interest, may, after his estate becomes absolute, recover
 damages for injury to the property by the tenant in possession, after sale and before possession is delivered under the
 
 conveyance.
-Beeanie,§246,noteNo. 106.
+Beeanie§246,noteNo. 106.
 
 §'263. Action not to be prejudiced by alienation, pending suit.
 
@@ -4600,7 +4600,7 @@ property not so when not all sold. '
 284. Part holding other securities may be  drst to
 285.
 
- §.§.§
+ §§
 
 e ust them.
 Proceeds at sale, disposition of.
@@ -4658,7 +4658,7 @@ execute releases.
 308. Costs of partition a lien upon the shares of the parcenera
 309. The Court by consent may appoint a single referee.
 
-' § 264. ‘ Who may bring actions for partition.
+§ 264. ‘ Who may bring actions for partition.
 
 3 When several co-tenants hold and are in possession of real
 property as parceners‘, joint tenants, or tenants in common,
@@ -4975,7 +4975,7 @@ be a charge only on the share assigned to such party ;but such
 share shall be first charged with its just proportion of the costs
 of the partition, in preference to such lien.
 
-' § 282. Estate jhrli/is or years may beset of in a part of the
+§ 282. Estate jhrli/is or years may beset of in a part of the
 property not sold, when not all sold.
 
 When a part of the property only is ordered to be sold, if
@@ -5259,7 +5259,7 @@ by the respective parties. When, however, a litigation
 arises between some of the parties only, the Court may
 require the expense of such litigation to be paid by the parties thereto, or any of them.
 
-,§ 309. The Court by consent may appoint a single referee.
+§ 309. The Court by consent may appoint a single referee.
 
 The Court, with the consent of the parties, may appoint a
 single referee, instead of three referees, in the proceedings
@@ -6019,7 +6019,7 @@ from, and three hundred dollars in addition, shall be equivalent to filing the u
 or deposit may be Waived by the written consent of the
 respondent.
 
-' § 357. ‘Appeals may be brought to a hearing on notice.
+§ 357. ‘Appeals may be brought to a hearing on notice.
 
 Appeals in the Supreme Court may be brought to a hearing by either party, upon a notice of three days to the opposite party. Before the argument, each party shall furnish to
 the other, and each of the Justices, a copy of his points and
@@ -6828,7 +6828,7 @@ white persons are parties. amrmed. Spoor v. See Yup 00., 13 Cal. 73.
 a Chileno, and did not know “ the obligation of an oath ;" whereupon the
 Judge explained to him the nature of such obligation, and he was then permitted to testify—the other party objecting that he did not know the obhgatépp 235 an oath : Held, that the witness was competent. Fuller 7. Fuller, 17
 
-' § 395. ‘Husband and wife shall not be witnesses for or against
+§ 395. ‘Husband and wife shall not be witnesses for or against
 each other. A husband may be a witness for or against his wife, and a
 wife may be a witness for or against her husband, and where
 husband and Wife are parties to an action or proceeding
@@ -8327,7 +8327,7 @@ person may be imprisoned until performance.
 When the contempt consists in the omission to perform an
 act which is yet in the power of the person to perform, he
 may be imprisoned until he have performed it, and in that
-case the act shall be specif1ed in the warrant of commitment§ 490. Persons in contempt may also be indicted, if an indictable ofense.
+case the act shall be specif1ed in the warrant of commitmen§ 490. Persons in contempt may also be indicted, if an indictable ofense.
 
 Persons proceeded against according to the provisions of
 this chapter, shall also be liable to indictment for the same
@@ -11320,7 +11320,7 @@ in vacation. C ‘ A A i ‘
 
 1Amended 1854, § 65, p. 101.
 
-.§,654. ‘Property attached,nuzy.be sold as under execution, 
+§,654. ‘Property attached,nuzy.be sold as under execution, 
 the interests of the parties require.
 
 Whenever property has been taken by an officer _nndgr_a

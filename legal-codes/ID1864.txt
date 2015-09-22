@@ -1561,7 +1561,7 @@ Is Joine therein.
 Size. 154. An issue of law shall be tried~by the court, unless it be referred, upon consent, as provided in chapter six of
 this title. ' ' y
 
-' SEC. 155. An issue of fact shall be tried by a jury, unless
+SEC. 155. An issue of fact shall be tried by a jury, unless
 a  trial is waived or a reference ordered, as rovided in
 this act. Where there are issues both of law an fact to the
 same complaint, the issues of law shall be first di osed of.
@@ -3433,7 +3433,7 @@ Sac. 322. If, after the undertakin be filed, either party
 shall die, or, being a single woman, s all marry, the proper
 
 persons may, on motion, be made parties, and the causes shall
-proceed to judgment. ‘ SEC. 323. Any persons who may be a party or privy in any
+proceed to judgment. SEC. 323. Any persons who may be a party or privy in any
 judgment, order, or decision, ma prosecute a writ of error to
 reverse the same, and the reversa shall enure to the benefit of
 all arties and privies therein; and no other party or privy
@@ -5835,7 +5835,7 @@ Justices’ courts, certain provisions applicable to.
 SEC. 558. Those provisions‘ of this act which are referred.
 to in this title, and no other, shall, in addition to the provisions
 embraced in this title, be applicable to justices’ courts and
-proceedin therein.SEC. 55 . Every justice shall keep a book denominated a
+proceedin thereinSEC, 55 . Every justice shall keep a book denominated a
 docket, in which he shall enter: First. The title of every action or proceeding. Second. The object of the action or
 proceeding, and if a sum of money be claimed, the amount
 of the demand. Third. The date of the summons and the

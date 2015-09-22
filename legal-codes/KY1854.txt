@@ -19,8 +19,7 @@ IN
 ceeding. 
 TITLE I. 
 FORM OF CIVIL ACTION. 
-� 1. Forms of actions abolished, and one form, called a civil ac-
-tion, substituted. 
+� 1. Forms of actions abolished, and one form, called a civil action, substituted. 
 � 2. The plaintifff and defendant. 
 � 3. The proceedings in the action are either ordinary or equitable. 
 � 4. May be equitable where chancery bad jurisdiction, and must
@@ -50,8 +49,7 @@ and the redress or prevention of private wrongs, which shall
 be called a civil action. 
 � 2. In such action, the party complaining is known as
 the plaintifff, and the adverse party as the defendant. 
-� 3. The proceedings in a civil action may be of two kinds-
-1. Ordinary.
+� 3. The proceedings in a civil action may be of two kinds1. Ordinary.
 2. Equitable. 
 � 4. The plaintifff may prosecute his action by equitable
 proceedings, in allcases where courts of chancery, before the 
@@ -114,8 +112,7 @@ and await the decision of the action, and be paid to~~
 plaintifff or defendant according to such decision. But no 
 such security shall be required if the trial of the equita.~
 -defense takes place during the term at which it is put in, 
-nor until all defenses to the action, other than those of equi-
-table cognizance, are tried or disposed of in favor of the 
+nor until all defenses to the action, other than those of equitable cognizance, are tried or disposed of in favor of the 
 plaintifff. 
 � 12. An error as to the kind of proceedings adopted in
 the action, is waived by failure to move for its correction at 
@@ -1026,7 +1023,7 @@ CHAP. 1. The pleadings in general.
 2. The petition. 
 3. The demurrer.
 4. '!.'he answer. 
-G. Tlie re-pl!J. 
+G. The re-pl!J. 
 0. Time of pkading. 
 7. General, rules of pleading.
 8. J.fistakea and amendments.
@@ -1164,7 +1161,7 @@ ney appointed for a prisoner, to file an answer denying the
 material ullegat. ions _of ~e, rtition prejudicial to such de- 
 fendant. .;A [h ) 7; y; 'f''r�_J c- .:.:__. 
 0UAPTER 5.
-Tlie reply. 
+The reply. 
 � J 32. In what cases a reply to be filed. 
 � 133. W!iat the reply must contain. 
 � '134. If reply is insufficient, the defendant may demur .. 
@@ -1192,8 +1189,7 @@ fore commencement of the term.
 equivalent to filing in court. 
 � 135. The defense to an action prosecuted by ordinary
 proceedings, must be filed on the day of the term on which 
-the case is set for trial-
-1. Wher~ the summons has been served ten days 
+the case is set for trial1. Wher~ the summons has been served ten days 
 before the commencement of the term, in the county in
 which the action is brought, or in an adjoining county; 
 2. Where it.has been served twenty days, elsewhere
@@ -1438,8 +1434,7 @@ Interroqaiories
 � proceedings. � . 
 � 168. Party answering may state ~ew matter. 
 � 169. When interrogatories must be answered. 
-� 170. Interrogatories may be annexed to pleadings in ordin~ry pro-
-ceedings in certain cases. � 
+� 170. Interrogatories may be annexed to pleadings in ordin~ry proceedings in certain cases. � 
 � 171. When to be answered. 
 CHAPTER 9. 
 � 172. Trial not to be postponed on account of failure to answer in�
@@ -1555,8 +1550,7 @@ ART. 1. When and how cM order of arrest may be obtained.
 4. )fotirm to �acat� an order of arrest. 
 � 179. A defendant in a civil action, can be arrested and
 held to bail, only upon the conditions and in the manner pre- 
-scribed in this chapter. -
-� 180. An order for the arrest of the defendant, shall be 
+scribed in this chapter. � 180. An order for the arrest of the defendant, shall be 
 made by the clerk of the court in which the action is 
 brought, at its commencement or at any time before judg�
 ment, when there is filed in his office an affidavit of the 
@@ -1600,8 +1594,7 @@ ARTICLE II.
 Proceedings upon an order of arrest. 
 � 184. How executed. 
 � 185. The defendant to be committed to jail, unless bailed. 
-� 186. The defendant may deposit the amount in the order of ar-
-rest and be discharged. 
+� 186. The defendant may deposit the amount in the order of arrest and be discharged. 
 � 187. Sheriff to pay into court all deposits in his hands. 
 � 188. Court to make proper orders for keeping the money.
 � 189. Sheriff officially liable for money deposited with him. 
@@ -1792,8 +1785,7 @@ order of arrest was obtained.
 � 20Q. The writ of sci ref 'acia� against bail is abolished. 
 CHAPTER 2.
 Otaim uud deliver!J of personal propertu. 
-� 207. Plaintiff may claim immediate delivery, in any action to re-
-cover personal property. 
+� 207. Plaintiff may claim immediate delivery, in any action to recover personal property. 
 � 208. How and for what causes an order for delivery may be made. 
 � 209. Affidavit must state the value of each article. 
 � 210. To whom the order for delivery must be addressed, and how
@@ -1811,8 +1803,7 @@ be delivered to the plaintifff.
 bond is given. 
 � 217. The expenses of keeping the property to be taxed in the costs . 
 � 218. Proceedings where the property is claimed by a stranger. � 
-� 219. The order may be issued to another county at any time be-
-fore judgment, 
+� 219. The order may be issued to another county at any time before judgment, 
 ij 220. Defendant may be compelled to disclose the situation of pro�
 perty concealed or disposed of. 
 � 20i. The plaintifff in an action to recover the possession 
@@ -2854,20 +2845,16 @@ therefore, to the party enjoined.
 � 306. On the hearing of au application for an injunction
 of which notice has been given, each party may read affida- 
 vits, ; 
-� 307. In every case, the court or judge granting an in-
-junction shall specify in the order therefore an amount, for 
+� 307. In every case, the court or judge granting an injunction shall specify in the order therefore an amount, for 
 which the party obtaining it shall give security in a bond to
-the party enjoined, before the injunction shall become effect-
-ual; which amount shall be sufficient to cover all the prob-
-able damages and costs that� may be occasioned by the in- 
+the party enjoined, before the injunction shall become effectual; which amount shall be sufficient to cover all the probable damages and costs that� may be occasioned by the in- 
 junction. The court or judge may prescribe the effect of
 the bond, so as to secure to the party enjoined the damages
 to which he may become entitled, if it is finally decided that
 the injunction ought not to have been granted. Where the
 injunction is to stay proceedings upon a judgment or final
 order for money, the amount for which security is required
-shall be sufficient to cover, with other damages, the sum en-
-joined, with five years interest thereon. Where the injunc- 
+shall be sufficient to cover, with other damages, the sum enjoined, with five years interest thereon. Where the injunc- 
 tion is to stay proceedings upon a judgment for property, 
 the amount specifled in the order shall be sufficient to eover 
 also the rent, hire, or value of the use thereof for two years ;
@@ -3779,9 +3766,7 @@ of the property, or for . the value thereof, in case a delivery
 cannot be had, and damages for the detention. Where the
 property has been delivered to the plaintifff, and the defend�
 ant claims a return thereof, judgment for the defendant may
-be for the return of the property, or its value in case a re-
-turn cannot be had, and damages for the taking and with-
-holding of the property. 
+be for the return of the property, or its value in case a return cannot be had, and damages for the taking and withholding of the property. 
 � 419. Where special damages are given by statute, and
 it appears, by the verdict of the jury or other decision of the. 
 action, that such special damages are due and recoverable
@@ -3830,8 +3815,7 @@ court may, on motion and notice, compel an entry of satis�
 f�otion to be made. 
 ARTICLE V, 
 Conveyance bg commiBaioner,. 
-� 4H. Cases in which real property may be conveyed by commis-
-sioner. 
+� 4H. Cases in which real property may be conveyed by commissioner. 
 � 425. Deed to refer to judgment. 
 � 426. Commissioner's deed passes title of parties ordered to convey. 
 � 427. Conveyance made in pursuance of sale passes the title of all
@@ -3939,8 +3923,7 @@ the county court.
 12. Caveats. 
 13. Writs of mandamus and prohibition.
 14. For repealing and vacating charters, and pre� 
-venting the usurpation of an office or f ran-
-chiee. � 
+venting the usurpation of an office or f ranchiee. � 
 15. Proceedings for the sale of the real. propel'l!I
 and ,laves of infants, persons of unsound mind,
 and married women. 
@@ -4034,8 +4017,7 @@ of defense thereto, including matters of set-off or counter�
 claim, and may order the examination to be reduced to
 writing and filed with the papers of the action. 
 � 444. If, upon the examination provided in the last 
-section, any matters of set-off or counterclaim are dis-
-closed, the same may be adjusted and allowed in the jmlg�
+section, any matters of set-off or counterclaim are disclosed, the same may be adjusted and allowed in the jmlg�
 ment. 
 � 445. Where a judgment has been rendered against a
 defendant or defendants constructively summoned, and who
@@ -4069,8 +4051,7 @@ ty "sold under an attachment or judgment, shall not be affect�
 ed by the new trial permitted by section 445, except the title 
 of property obtained by the plaintifff and ~ot bought of him
 in good faith by others. 
-� 449. No lien on the property of a defendant construct-
-� 
+� 449. No lien on the property of a defendant construct� 
 ively summoned, shall be created otherwise than by an attach- �
 ment as provided in chapter 3 of title 8, or by judgment.
 Nor shall any other defendant be restrained from paying or
@@ -4353,8 +4334,7 @@ written pleadings, and judgment given accord~! to law and
 the mies of equity. tJ,;:{, ~Jf /'~ 
 CHAPTER 7.
 , , ~ ~ , �PivilJlwx:Jedin91 ~i behalf of the commonwealth. 
-;135," Ali debts d~e the stite recoverable by motion in Franklin cir-
-cuit court. 
+;135," Ali debts d~e the stite recoverable by motion in Franklin circuit court. 
 � 486. Notice is not required when the motion is made at the first
 court after debt became due. 
 � 487. Nor where made at the first court after certain penalties be� 
@@ -4362,8 +4342,7 @@ come due.
 � 488. Notice to be given ten days before motion, in all other cases. 
 � 489. Notice to be signed by attorney general, and specify the na�
 ture and grounds of the motion, and the day it will be made. 
-� 490. Certificate of balance by auditor, &c., to be evidence of in-
-debtedness. 
+� 490. Certificate of balance by auditor, &c., to be evidence of indebtedness. 
 � 491. All questions of law or fact to be decided by the court. 
 � 49~. Attorney general may bring an action when he thinks proper. 
 � 493. Precedence in all courts to be given to suits in which the
@@ -5158,8 +5137,7 @@ commonwealth.
 der of the legislature. 
 � 53!. Action to deprive usurper of an offico or franchise, may be
 in the name of the commonwealth or party entitled. 
-� 533. When the duty of commonwealth's attorney to institute ac-
-tion. 
+� 533. When the duty of commonwealth's attorney to institute action. 
 � 534. When by the attorney general. 
 � 535. A person holding an office after a forfeiture, is a usurper. 
 � 536. What judgment to be rendered again~t usurper. 
@@ -5318,8 +5296,7 @@ ment of dower in the county court.
 � 646. Petition to be filed-what it shall contain. 
 � 547. When it stands for hearing and decision. 
 � 5-18. Guardians, committees, and husbands to be parties. 
-� 649. A party may contest by answer, and proceeding may be re-
-moved into circuit court. 
+� 649. A party may contest by answer, and proceeding may be removed into circuit court. 
 � 550. When removed, the original papers to be filed in circuit court. 
 � 561. Parties may be constructively summoned. 
 � 55CZ. Court, after trial, may order division or allotment of dower. 
@@ -5678,8 +5655,7 @@ is begun.
 CIIJ.PTER 2.
 Jlfeans of production. 
 � 689. The subpoena, it.s object and form. 
-� 590. The clerk to issue subpoenas for witnesses at request of par-
-ties. 
+� 590. The clerk to issue subpoenas for witnesses at request of parties. 
 � 591. Officer authorized to take depositions may issue subpamas. 
 � 592. How a subpoena is served.
 ~ 593. By whom a subpoena may be served. 
@@ -5797,8 +5773,7 @@ CHAPTER 3.
 ART. 1. Affidavit.
 2. Deposition.
 3. General rules of examination. 
-� 604. Three modes of taking testimony, t. Affidavit. 2. Depo-
-sition. 3. Oral examination. 
+� 604. Three modes of taking testimony, t. Affidavit. 2. Deposition. 3. Oral examination. 
 � 605. Affidavit defined. 
 � 606. Deposition defined. 
 � 607. Oral examination defined. 
@@ -5826,8 +5801,7 @@ law.
 ARTICLE I. 
 Affidavit. 
 � 608. For what purpose an affidavit may be read. 
-� 609. In what cases an affiant must be produced for cross-exami-
-nation. 
+� 609. In what cases an affiant must be produced for cross-examination. 
 � 610. Before whom an affidavit out of the state must be made. 
 � 611. Before whom it must be made in this state. 
 � 612. Affidavit must be subscribed by affiant, followed by the cer�
@@ -6013,8 +5987,7 @@ tendance.
 � 642. Officer to decide all objections to questions. 
 � 643. Statements of the witness to be written in officer's presence
 by witness or officer. 
-� 644. Who to be present when deposition is taken on interroga-
-tories. 
+� 644. Who to be present when deposition is taken on interrogatories. 
 � 645. What shall be certified by officer. 
 � 646. � Deposition to be sealed up, directed, and mailed to the clerk. 
 � 647. Fees for taking depositions. 
@@ -6218,8 +6191,7 @@ General, rules of examination.
 � 661. �How a witness may be impeached by the adverse party. 
 � 662. Before evidence of a contradictory statement is admissible,
 witness must be questioned concerning the statement. 
-� 663. Evidence of good character inadmissible before general char-
-actef has been impeached. 
+� 663. Evidence of good character inadmissible before general charactef has been impeached. 
 � 664. Re-examination of witness. 
 � 665. Witnesses may be examined out of hearing of each other. 
 � 666. Persons present though not summoned may be compelled to
@@ -6476,8 +6448,7 @@ tion shall be dismissed.
 � 688. In an action in which a bond for costs has been
 given, the defendant may, at any time before judgment, after 
 reasonable notice to the plaintifff. move the court for addition- 
-al security on the part of the plaintifff; and if, on such mo-
-. tion, the court �is satisfied that the surety in the plaintifff's 
+al security on the part of the plaintifff; and if, on such mo. tion, the court �is satisfied that the surety in the plaintifff's 
 bond has removed from this state, or is not sufficient for the 
 amount thereof, it may dismiss the action, unless in a rea�
 sonable time to be �fixed by the court, sufficient security is 
@@ -7183,8 +7154,7 @@ notice.
 � 792. When cases may be placed on trial docket. 
 � 793. Upon the ans,rer being admitted to be true, action may at
 once be placed on trial docket. 
-� 794. When to be placed on the trial docket if answer is not admit-
-ted to be true. 
+� 794. When to be placed on the trial docket if answer is not admitted to be true. 
 � 795. When, if interrogatories are annexed to the pleadings. 
 � 796. Application for a new trial. to be in tifteen days. 
 � 797. In certain cases, may be made in two months after discovery
@@ -7201,8 +7171,7 @@ ance.
 � 805. Commissioner to be swom. 
 -�. 806. May appoint deputies with consent of the court. 
 � 807. May administer oaths. 
-� 808. Court may require all depositions to be taken on interroga-
-tories. 
+� 808. Court may require all depositions to be taken on interrogatories. 
 � 809. Manner of taking and certifying depositions. 
 � 810. Credits on sales of property ordered by court. 
 � 8 J J. Sales of property in Louisville and Jefferson county to be at
@@ -7514,8 +7483,7 @@ lars.
 � 828. Service of summons five days, authorizes judgment under
 fifty dollars, ten days, over that sum. 
 � 829. How pleadings to be completed and trial progress. 
-� 830. In equitable proceedings, may take depositions or orally ex-
-amine witness. 
+� 830. In equitable proceedings, may take depositions or orally examine witness. 
 ��831. Delivery of a copy of the summons not required. 
 � 832. In what district the summons is to be returned. 
 � 833. Where defendants reside in different districts, summons may
@@ -7650,8 +7618,7 @@ who refuses to attend and be examined when summoned two
 days before the trial, or to make proper responses to interrog� 
 atories where a copy shall have been delivered to him three
 days before the trial, where he resides within fifty miles of
-the place of trial, and one additional day for every addition-
-al thirty miles he may reside therefrom; but the court may
+the place of trial, and one additional day for every additional thirty miles he may reside therefrom; but the court may
 grant further time for attending ~r answering. 
 � 841. The last two sections shall apply to appeals from
 judgments of quarterly, justices', city, police, and mayors' 
@@ -7758,8 +7725,7 @@ shall deliver to him, upon application, a copy of the judg�
 ment and amount of costs, certified by him. 
 RULES OF CONSTRUCTION OF THIS CODE. 
 � 85li. Certain w~rds to have several different meanings. 
-� 856. Terms explained in following sections to be construed ac-
-cordingly. 
+� 856. Terms explained in following sections to be construed accordingly. 
 � 857. Actions for recoYery of money. 
 � 858. Real property. 
 � 859. Personal property. 
@@ -7843,8 +7809,7 @@ the word "sworn" includes "affirmed."
 course of judicial proceedings, 
 � 873. ,~writ" is an order or precept in writing, issued by 
 a court, clerk, or judicial officer. � 
-� 87 4. The rule of the common law that statutes in dero-
-gation thereof are to be strictly construed, shall uot be ap�
+� 87 4. The rule of the common law that statutes in derogation thereof are to be strictly construed, shall uot be ap�
 plied to this Code. The provisions of this Code, and all 
 proceedings under it, shall be liberally construed, with a view 
 to promote its object, and to assist the parties in obtaining
@@ -8060,8 +8025,7 @@ that no mandate shall issue, or decision become final, until
 after fifteen juridical days from the time the decision was 
 rendered, not including the days of recess, unless the court,
 in delay cases, and in cases involving no difficult question of 
-law or fact, otherwise direct. And if a petition for re-hear-
-ing shall be filed in vacation, within fifteen days after
+law or fact, otherwise direct. And if a petition for re-hearing shall be filed in vacation, within fifteen days after
 the decision is rendered, the maudate shall not issue, nor the 
 decision become final, until the court, at a subsequent term,
 shall so order. 

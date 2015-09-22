@@ -150,7 +150,7 @@ action.
 
 0f the Manner of commencing Civil Actions.
 
-, ~ SEC. 22. Civil. actions in the district courts shall :be commenced by the
+SEC. 22. Civil. actions in the district courts shall :be commenced by the
 filing. of a complaint with the clerk of the court in which the action is
 brought, and'the-issuance of a summons thereon. - /
 
@@ -307,7 +307,7 @@ part'of the defendant shall be the demurrer, or the answer; alcopy of all
 
 leadings, except the cemplaint,’shall be served on the o osite party or
 is attorney, if he has appeared within twentydays after a- ormerpleading:
-has been served.SEC. 39. The nonplaint shall contain:
+has been servedSEC, 39. The nonplaint shall contain:
 
 1st. The title of the action, specifying thername of thecourt'and thename of the county in which the actlon is brought, and the names of the
 parties to the action, plaintifff and defendant.
@@ -351,7 +351,7 @@ SEC. 42. The defendant may demur to the whole complaint, or to one
 ormore of several causes of action stated therein, and answer the residue;
 or may demur and answer at the same time.
 
-- SEC. 43. If- the complaint be amended, the amendments shall be filed,
+SEC. 43. If- the complaint be amended, the amendments shall be filed,
 and-acepy served upon-the defendant or his attorney, if he ,-has appeared
 by-attcrney; otherwise a new'summons shall issuethereon.
 
@@ -366,7 +366,7 @@ the defendant shall be deemed to have waived the same, excepting only the
 ' objection to the jurisdiction of the court, and the obj ection\that the complaint
 does not state :facts suiii’cient :to constitute a cause of action. ‘
 
-‘ SEC. 46.. The answer of the defendant shall contain : '
+SEC. 46.. The answer of the defendant shall contain : '
 
 1st. In respect to each allegation of the complaint controvert by the
 defendant, a general or s cilia denial thereof; or a denial thereof according
@@ -471,7 +471,7 @@ title.
 
  
 
-‘ SEC. 62. In an action for libel or slander, it shall not be necessary to .
+SEC. 62. In an action for libel or slander, it shall not be necessary to .
 state in the complaint any extrinsic facts for the purpose of showing the
 
 application to the plaintifff of the defamatory matter out of which the cause
@@ -661,7 +661,7 @@ SEC. 85. The bail shallalso be exOnerated :by the'dea'th of the defendant,
 or his imprisonment in a Territorial prison, or by his legal discharge from
 the obligation to render'himself amenable to the precess.
 
-' SEC. 86. Within the time limited for that purpose, the sheriff shall file
+SEC. 86. Within the time limited for that purpose, the sheriff shall file
 the order of arrest in the oiiice of the Clerk Of the court in which the action
 is pending, with his return endorsed thereon, together with a copy of the .
 undertaking of the bail. The original undertaking he shall retain in his
@@ -931,7 +931,7 @@ the proeeedino'.
 
  
 
-7 SEC. 118. If an injunction be granted without notice, the defendant, at
+ "SEC. 118." If an injunction be granted without notice, the defendant, at
 
 any time before the trial, may apply, upon reasonable notice to the judge
 who granted the injunction or to the court in which the action is brought,
@@ -1046,7 +1046,7 @@ any debt to the defendant, the sheriii' shall serve upon such person a copy
 of the writ, and a notice that such credits, or other property or debts, asthe
 case may be, are attached in pursuance of such writ.
 
-SEC. 12"]. All persons having in their possession, or under their control,
+SEC. 127. All persons having in their possession, or under their control,
 
  
 
@@ -1384,7 +1384,7 @@ main question involved in the action ;
 the merits of the action;  
 
 7th. The existence of a state of mind in‘ the juror evincing enmity.
-against or‘bias to either party. ‘ SEC. 165. Challenges for cause shall be tried by the court. The juror
+against or‘bias to either party. SEC. 165. Challenges for cause shall be tried by the court. The juror
 challenged, and any other person, may be examined as a witness .on the .
 trial of the challenge.
 
@@ -1481,7 +1481,7 @@ recovery of money, or for the defendant when a counterclaim for the
 recovery of money is established exceeding the amount of the plaintifff ’8
 7 claim as established, the jury shall also find the amount of the recovery.
 
-. ‘ SEC. 179. In an action, for the recovery of speciiic personal property, if
+. SEC. 179. In an action, for the recovery of speciiic personal property, if
 the property has not been delivered to the plaintifff, or the defendant, by
 his answer, claim a return thereof, the jury, if their verdict be in favor of
 the plaintifff, or if, being in favor of the defendant, they also find that he is
@@ -1584,7 +1584,7 @@ SEC. 188. The objections taken to the appointment of any person as
 referee shall be heard and disposed of by the court. Aiiidavits may be
 read, and any person examined as a witness, as to such objections.
 
-.- SEC. 189. The referees shall make their report within ten days after the
+SEC, 189. The referees shall make their report within ten days after the
 testimony before them is closed.‘ Their report upon the whole‘ issue shall
 ‘stand as the decision of the court, and upon filing the report with the clerk
 .of the court, judgment may be entered therein in the same manner as if
@@ -2158,7 +2158,7 @@ a rebate of interest where such rebate is proper.
 Actions, for Nuisance, Waste, and 'Wilful Yrespass in certain Cases
 on Real Property.
 
-.SEC. 251. Anything which is injurious to health, or indecent or offensive
+SEC, 251. Anything which is injurious to health, or indecent or offensive
 to-the senses, or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life or property,.is a nuisance and
 .the subject of an action. Such action may be brought by any person whose
 property is injurioust affected, or whose personal enjoyment is lessened by
@@ -3498,7 +3498,7 @@ thereof. ‘
 
 0f Depositions taken in this Territory.
 
-' SEC. 430. The testimony of a Witness in this Territory may be taken by
+SEC. 430. The testimony of a Witness in this Territory may be taken by
 deposition in an action at any time after the service of the summons or the ‘
 appearance of the defendant; and in a Special proceeding after a question
 of fact has arisen therein, in the following cases:
@@ -3546,7 +3546,7 @@ s all be made at the trial that the witnesscontinue‘s absent or infirm, to the
 best of the deponent’s knowledge or belief. The deposition thus taken
 may be also read in case of the death of the witness.
 
-‘ SEC. 433. When 'a deposition has been oboe “taken it may be read in any
+SEC. 433. When 'a deposition has been oboe “taken it may be read in any
 stage of the same action or proceeding by either party, and shall then be
 deemed the evidence of the party reading it.
 
@@ -4092,7 +4092,7 @@ appeal, ten dollars; , I ‘ '
 
 6. For proceedings subsequent to the argument of the appeal, until judgment is entered thereon, twenty dollars.
 
-.SEC. 504. In actions for the recovery of money or damages, or the possession of personal property, or for the recovery of real property, the
+SEC, 504. In actions for the recovery of money or damages, or the possession of personal property, or for the recovery of real property, the
 plaintifff shall be entitled to the additional allowance of five per cent. on the
 first one thousand dollars, and two per cent. on all ov that sum, u on the
 amount of the verdict, or the value of the property If overed; sue value
@@ -4105,7 +4105,7 @@ hundred dollars: Provided, that in any action, or special proceedingin'the
 nature of an action, which may be dismissed or discontinued at the instance .
 of either party, no percentage shall be allowed as herein provided.
 
-' SEC. 505. When recovery is had upon failure of the defendant togansw-er,
+SEC. 505. When recovery is had upon failure of the defendant togansw-er,
 the plaintifff shall be entitled to recover as follows:
 
 1'. In actions for the recovery of real property, and. in actions in which;
@@ -4704,7 +4704,7 @@ exhibited to the inspection of the adverse party, and a cepy to be furnished;
 or, if it be‘not so exhibited and a copy furnished, may prohibit its being
 afterwards given in evidence. ‘
 
-- SEC. 579. When the dd'endant, answers the complaint, every material allegation therein, not denied by the answer, shall, on the trial, be taken to be true.
+SEC. 579. When the dd'endant, answers the complaint, every material allegation therein, not denied by the answer, shall, on the trial, be taken to be true.
 
 SEC. 580. Either party may object to a pleading of his adversary, or to
 any part thereof, that it is not suiiiciently explicit to enable him to understand it, or that it contains no cause of action or defense, although it be
@@ -4743,7 +4743,7 @@ court upon the answer of the defendant, he shall file an undertaking with
 that they will payall costs of the action if it be decided against him by the
 district court. ' v
 
-‘ SEC. 584. If at any time before the trial it appear, to the satisfaction of
+SEC. 584. If at any time before the trial it appear, to the satisfaction of
 
 the justice before whom the action is brought by affidavit of either party,
 that such justice is a material witness for either party, or if either party
@@ -4890,7 +4890,7 @@ be adjudged against him, and if he recover, deducted from his recovery.
 But the offer and failure to accept it shall not be 'given in evidence to affect
 the recovery otherwise than as to costs, as above provided.
 
-.SEC. 599. When a judgment 'is rendered in a case Where the defendant
+SEC, 599. When a judgment 'is rendered in a case Where the defendant
 is. subject to arrest and imprisonment thereon, it shall be so stated in the
 judgment, and entered in the docket.
 
@@ -4899,7 +4899,7 @@ the justice shall add their amount to the verdict; or in case of a failure of
 the plaintifff to recover, or in case of a dismissal of the action, shall enter up
 judgment in favor of the defendant for the amount of such costs.
 
-' SEC. 601. The justice, on demand of the party in whose favor judgment
+SEC. 601. The justice, on demand of the party in whose favor judgment
 is rendered, shall give him a transcript thereof, which may be filed and
 docketed in the office of the district clerk of the county Where the judgment was rendered. The time of the receipt of the transcript by thedistrict clerk shall be noted by him thereon, and entered in the docket ; and
 from that time executions may be issued by the district clerk on such- judgments to the sheriff of any other county of the Territory in the same manner as upon judgments recovered in the higher courts. All process upon
@@ -5067,11 +5067,11 @@ The justice may thereupon discharge him, or may convict him of the
 offense. A justice may punish for contempt by fine or imprisonment, or
 both; such fine not to exceed in any case one hundred dollars, and such
 imprisonment one day. SEC. 620. The conviction, specifying particularly the oii'ence and the,
-judgment thereon, shall be entered by the justice in his docket. ' SEC. 621. J ustices. of I the peace may issue subpoenas in any action or
+judgment thereon, shall be entered by the justice in his docket. SEC. 621. J ustices. of I the peace may issue subpoenas in any action or
 proceeding in the courts held by them, and final process on any judgment
 recovered therein, to any part of the county.
 
-.SEC. 622. Justices of the peace may issue commissions to take the
+SEC, 622. Justices of the peace may issue commissions to take the
 depositions of witnesses out of this Territory, and settle interrogatories to
 be annexed thereto, and direct the manner in which the commissions shall
 be returned. The provisions of this chapter in relation to commissioners, so

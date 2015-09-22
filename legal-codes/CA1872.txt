@@ -3520,7 +3520,7 @@ property, or its value, to such person as the Court may
 direct; and the Court may, in its discretion, make the
 order. '
 
-387. (§§ 659, 660, 661.) Any person may, before
+387. (§ 659, 660, 661.) Any person may, before
 the trial, intervene in an action or proceeding, who
 has an interest in the matter in litigation, in the success of either of the parties, or an interest against
 
@@ -3746,7 +3746,7 @@ have summons issued. But at any time after the complaint is filed the defendant 
 appearing and answering or demurring, waive the
 issuing of summons.
 
-407. (§§ 23, 24, 25, 26.) The summons must be
+407. (§ 23, 24, 25, 26.) The summons must be
 directed to the defendant, signed by the Clerk, and
 issued under the seal of the Court, and must contain:
 
@@ -3901,7 +3901,7 @@ not on all of them, the plaintifff may proceed against
 the defendants served in the same manner as if they
 were the only defendants.
 
-415. (§§ 33, 34.) Proof of the service of summons
+415. (§ 33, 34.) Proof of the service of summons
 and complaint must be as follows:
 
 1. If served by the Sheriff, his certificate thereof;
@@ -4068,7 +4068,7 @@ to constitute a cause of action; or,
 7; That the complaint is ambiguous, unintelligible,
 or uncertain.
 
-431. (§§ 41, 42.) The demurrer must distinctly
+431. (§ 41, 42.) The demurrer must distinctly
 specify the grounds upon which any of the objections
 to the complaint are taken. Unless it do so it may be
 disregarded. It may be taken to the whole complaint
@@ -4197,7 +4197,7 @@ plaintifff under oath.
 
 449. Exceptions to rules prescribed by two preceding sections.
 
-446. (§§ 51, 52, 55.) Every pleading must be sub- '
+446. (§ 51, 52, 55.) Every pleading must be sub- '
 
 scribed by the party or his attorney; and when the
 
@@ -4290,7 +4290,7 @@ the purpose of determining its effect, its allegations
 must be liberally construed, with a view to substantial
 justice between the parties. '
 
-453. (§§ 50, 57.) Sham and irrelevant answers,
+453. (§ 50, 57.) Sham and irrelevant answers,
 and irrelevant and redundant matter inserted in a
 pleading, may be stricken out, upon such terms as the
 Court may, in its discretion, impose.
@@ -13129,7 +13129,7 @@ Court having jurisdiction of the estate, or to the executor named therein. A fai
 provisions of this section makes the‘ person failing
 responsible for all damages sustained by any one injured thereby.
 
-1299. (§§ 5, 9.) Any executor, devisee, or legatee
+1299. (§ 5, 9.) Any executor, devisee, or legatee
 named in any will, or any other person interested in
 the estate, may, at any time after the death of ‘the
 testator, petition the Court having jurisdiction to have
@@ -13164,7 +13164,7 @@ him, he may be held to have renounced his right to
 letters, and the Court may appoint any other competent person administrator, unless good cause for delay
 is shown.
 
-1302. (§§ 10, 11.) If it is alleged in any petition
+1302. (§ 10, 11.) If it is alleged in any petition
 that any will is in the possession of a third person,
 
 and the Court is satisfied that the allegation is correct, an order must be issued and served upon the
@@ -13173,7 +13173,7 @@ produce it at a time named in the order. If he has
 possession of the will and neglects or refuses to produce it in obedience to the order, he may by warrant from the Court be committed to the jail of the
 county, and be kept in close confinement until he produces it.
 
-1303. (§§ 13-16.) When’ the petition is filed and
+1303. (§ 13-16.) When’ the petition is filed and
 the will produced, the Probate J udge. must fix a day
 for hearing the petition, not less than ten nor more
 than thirty days from the production of the Will.
@@ -13190,7 +13190,7 @@ and the last day being included. If the notice is by
 posting, it must be given at least ten days before the
 hearing. .
 
-1304. (§§ 14, 15.) The heirs of the testator, resident in the county ‘hr State, must have written or
+1304. (§ 14, 15.) The heirs of the testator, resident in the county ‘hr State, must have written or
 printed copies of the notice of the time fixed for the
 probate of the will, addressed to them at their places
 of residence, postage paid, and placed in the Post
@@ -13304,7 +13304,7 @@ Code. A trial by the Court must be conducted as
 provided in Part II, Title VIII, Chapter V of this
 Code.
 
-1314. (§§ 20,23.) The jury, after hearing thecase,
+1314. (§ 20,23.) The jury, after hearing thecase,
 must return a special verdict upon the issues submit»
 ted to them by the Court, upon which the judgment
 of the Court must be rendered, either admitting the
@@ -13313,7 +13313,7 @@ proofs of the subscribing witnesses must be reduced
 to writing. If the will is admitted to probate, the
 judgment, will, and proofs must be recorded.
 
-1315. (§§ 21, 22.) If the Willis contested, all the
+1315. (§ 21, 22.) If the Willis contested, all the
 subscribing witnesses who are present in the county,
 and who are of sound mind, must be produced and
 examined; and the death, absence, or insanity of any
@@ -13604,7 +13604,7 @@ letters thereon to the persons named therein as executors, who are competent to 
 must appear and qualify, unless objection is made, as
 provided in Section 1351.
 
-1350. (§§ 42, 55.) No person is competent to serve
+1350. (§ 42, 55.) No person is competent to serve
 as executor who, at the time the will is admitted to
 probate, is:
 
@@ -13625,7 +13625,7 @@ of them; and the objections must be heard and determined by the Court. A petitio
 time, be filed for letters of administration, with the
 will annexed.
 
-1352. (§§ 44, 56.) When an unmarried iavoman,
+1352. (§ 44, 56.) When an unmarried iavoman,
 appointed executrix, marries, her authority is extinguished. When a married Woman is named as exect utrix, she may be appointed and serve in every respect
 
 as a feme sole.
@@ -13655,7 +13655,7 @@ from serving, or if he has given his co-executor or coadministrator authority,_ 
 and where there are more than two executors or
 administrators, the act of a majority is valid.
 
-1356. (§§ 48, 49.) Administrators with the will .
+1356. (§ 48, 49.) Administrators with the will .
 annexed have the same authority over 'the estates A
 
 which executors named in the Will would have, and
@@ -14124,7 +14124,7 @@ SECTION 1411. Special administrator, when appointed.
 granted, special administrator’s powers cease.
 1417. Special administrator to render account.
 
-1411. (§§ 88, 95, 282.) When there is delay in
+1411. (§ 88, 95, 282.) When there is delay in
 granting letters testamentary or of administration,
 from any cause, or when such letters are granted
 irregularly, or no sufiicient bond is filed as required,
@@ -15339,7 +15339,7 @@ bequeathed must not be sold to pay ‘debts or family
 allowance, until all other personal estate has been
 applied to the payment thereof.
 
-1526. (§§ 152, 153.) The sale of personal property must be made at public auction, and after public
+1526. (§ 152, 153.) The sale of personal property must be made at public auction, and after public
 notice, given for at least ten days, by notices posted
 in three public places in the county, or by publication
 in a newspaper, or both, containing the time and place
@@ -15548,7 +15548,7 @@ administrator to sell so much of the real estate of the
 
 decedent as is necessary.
 
-1539. (§§ 157, 159.) A copy of the order to show
+1539. (§ 157, 159.) A copy of the order to show
 cause must be personally served on all persons interested in the estate, and on any general guardian of any
 minor, devisee, or heir of the decedent resident in the
 county, at least ten days before the time appointed for
@@ -16471,7 +16471,7 @@ l by the Court, any person interested in the estate may
 appear and file his exceptions in writing to the account,
 and contest the same.
 
-1636. (§§ 235, 236.) All matters, including allowed
+1636. (§ 235, 236.) All matters, including allowed
 claims not passed upon on the settlement of any former
 account, or on rendering an exhibit, or on making a
 decree of sale, may be co_ntested by the heirs, for cause
@@ -16672,7 +16672,7 @@ time named and resist the application, or any other
 heir, devisee, or legatee may make a similar applica
 tion for himself.
 
-1661. (§§ 253, 254, 255, 256.) If at the hearing,
+1661. (§ 253, 254, 255, 256.) If at the hearing,
 it appears that the estate is but little indebted, and
 that the share of the party applying may be allowed
 to him without lossto the creditors of the estate, the
@@ -17498,7 +17498,7 @@ recorded.
 1759. Power of Courts to appoint guardians and next friend
 not impaired.
 
-1747. (§§ 1, 336.) The Probate Judge of each
+1747. (§ 1, 336.) The Probate Judge of each
 county, when it appears necessary or convenient, may
 appoint guardians for the persons and estates, or either
 of them, of minors who have‘ no guardian legally
@@ -17512,7 +17512,7 @@ deems reasonable to be given to the relatives of the
 minor residing in the county, and to any person under
 whose care such minor may be, as he deems reasonable.
 
-1748. (§§ 2, 337.) If the minor is under the age
+1748. (§ 2, 337.) If the minor is under the age
 of fourteen years, the Probate Judge may nominate
 and appoint his guardian. If he is above the age of
 
@@ -17520,36 +17520,36 @@ fourteen years, he may nominate his own guardian,
 who, if approved by the Judge, must be appointed
 accordingly.
 
-1749. (§§ 3, 338.) If the guardian nominated by
+1749. (§ 3, 338.) If the guardian nominated by
 the minor is not approved by the Judge, or if the
 minor resides out of the State, or if, after being duly
 cited by the Judge, he neglects for .ten days to nominate a suitable person, the Judge may nominate and
 appoint the guardian, in the same manner as if the
 minor were under the age of fourteen years.
 
-1750. (§§ 4, 339.) \Vhen a guardian has been
+1750. (§ 4, 339.) \Vhen a guardian has been
 appointed by the Court for a minor under the age of
 fourteen years, the minor, at any time after he attains
 that age, may appoint his own guardian, subject to
 the approval of the Probate Judge.
 
-1751. (§§ 5, 340.) The father of the minor, if
+1751. (§ 5, 340.) The father of the minor, if
 living, and in case of his decease the mother, while
 she remains umnarried, being themselves respectively
 competent to transact their own business and not otherwise unsuitable, must be entitled to the guardianship
 of the minor.
 
-1752. (§§ 6, 341.) If the minor has no father or
+1752. (§ 6, 341.) If the minor has no father or
 mother living, competent to have the custody and care
 of his education, the guardian appointed shall have
 the same.
 
-1753. (§§ 7, 342.) Every guardian appointed shall
+1753. (§ 7, 342.) Every guardian appointed shall
 have the custody and care of the education of the
 minor, and the care and management of his estate,
 until such minor arrives at the age of majority or marries, or until the guardian is legally discharged.
 
-1754. (§§ 8, 343.) Before the order appointing
+1754. (§ 8, 343.) Before the order appointing
 any person guardian under this Chapter takes effect,
 and before letters issue, the Judge must require of such
 
@@ -17589,7 +17589,7 @@ the letters of guardianship must be substantially the
 same as letters of administration; and the oath of the
 guardian must be indorsed thereon that he will perform the duties of his office, as such guardian, according to law.
 
-1755. (§§ 1, 342.) VVhen any person is appointed
+1755. (§ 1, 342.) VVhen any person is appointed
 guardian of a minor, the Probate Judge may, with the
 consent of such person, insert in the order of appointment conditions not otherwise obligatory, providing
 for the care, treatment, education, and welfare of the
@@ -17597,7 +17597,7 @@ minor. The performance of such conditions is a part
 of the duties of the guardian, for the faithful performance of which he and the sureties on his bond are
 responsible.
 
-‘I756. (§§ 15, 385.) All letters of guardianship‘
+‘I756. (§ 15, 385.) All letters of guardianship‘
 
 issued, and all guardians’ bonds executed under the
 
@@ -17605,7 +17605,7 @@ issued, and all guardians’ bonds executed under the
 Probate Court having jurisdiction of the persons and
 estates of the wards.
 
-1757. (§§ 9, 344.) If any minor, having a father
+1757. (§ 9, 344.) If any minor, having a father
 living, has property, the income of which is sufficient
 for his maintenance and education in a manner more
 expensive than his father can reasonably afford, regard
@@ -17617,7 +17617,7 @@ whole or in part, as judged reasonable, and must be
 directed by the Probate. Court; and the charges therefore may be allowed accordingly in the settlement of the
 accounts of his guardian.
 
-1758. (§§ 10, 345.) Every testamentary guardian
+1758. (§ 10, 345.) Every testamentary guardian
 must give bond and qualify, and has the same powers
 and must perform the same duties, with regard to the
 person and estate of his ward, as guardians appointed
@@ -17625,7 +17625,7 @@ by the Probate Court, except so far as their powers
 and duties are legally modified, enlarged, or changed
 by the will by which such guardian was appointed.
 
-1759. (§§ 11, 346.) Nothing contained in this
+1759. (§ 11, 346.) Nothing contained in this
 Chapter affects or impairs the power of any Court to
 appoint a guardian to defend the interests of any minor
 interested in any suit or matter pending therein.
@@ -17637,7 +17637,7 @@ SECTION 1763. Guardians of insane and other incompetent persons.
 1764. Appointment by Probate Judge after hearing.
 1765. Powers and duties of such guardians.
 
-1763. (§§ 12, 347.) When it is represented to the
+1763. (§ 12, 347.) When it is represented to the
 Probate Judge, upon verified petition of any relative
 or friend, that any person is insane, or from any cause
 mentally incompetent to manage his property, the
@@ -17647,13 +17647,13 @@ of hearing the case, not less than ‘rive days before the
 time so appointed, and such person, if able to attend,
 must be produced before him on the hearing.
 
-1764. (§§ 13, 348.) If, after a full hearing and
+1764. (§ 13, 348.) If, after a full hearing and
 examination upon such petition, it appears to the Probate Judge that the person in question is incapable of
 taking care of himself and managing his property, he
 must appoint a guardian of his person and estate, with
 the powers and duties in this Chapter specified.
 
-1765. (§§ 14, 349.) Every guardian appointed, as
+1765. (§ 14, 349.) Every guardian appointed, as
 provided in the preceding section, has the care and
 custody of the person of his ward, and the management of all his estate, until such guardian is legally
 discharged; and he must give bond to such Ward. in
@@ -17678,7 +17678,7 @@ other property acquired. °
 1775. Allowance of accounts of joint guardians.
 177 6. Expenses and compensation of guardians.
 
-1768. (§§ 15, 350.) Every guardian appointed
+1768. (§ 15, 350.) Every guardian appointed
 under the provisions of this Chapter, Whether for a
 minor or any other person, must pay all just debts due
 from the Ward, out of his personal estate and the
@@ -17686,7 +17686,7 @@ income of his real estate, if sufficient; if not, then out
 of his real estate, upon obtaining an order for the sale
 thereof, and disposing of the same in the manner provided in this Title for the sale of real estate of decedents.
 
-1769. (§§ 16, 351.) Every guardian must settle
+1769. (§ 16, 351.) Every guardian must settle
 all accounts of the Ward, and demand, sue for, and
 receive all debts due to him, or may, with the approbation of the Probate Judge, compound for the same
 and give discharges to the debtors on receiving a fair
@@ -17694,7 +17694,7 @@ and just dividend of his estate and effects; and he
 must appear for and represent his ward in all legal
 suits and proceedings, unless another person is appointed for that purpose as guardian or next friend.
 
-1770. (§§ 17, 352.) Every guardian must manage
+1770. (§ 17, 352.) Every guardian must manage
 the estate of his Ward frugally and without Waste, and
 apply the income and profits thereof, as far as may be
 necessary, for the comfortable and suitable maintenance and support of the ward and his family, if there
@@ -17720,11 +17720,11 @@ or neglect of the guardian to supply the same, the
 Court may direct the guardian to pay therefore out of
 the estate, and enforce such payment by due process.
 
-1772. (§§ 18, 353.) The guardian may join in and
+1772. (§ 18, 353.) The guardian may join in and
 assent to a partition of the real estate of the ward,
 wherever such assent may be given by any person.
 
-1773. (§§ 19, 354.) Every guardian must return
+1773. (§ 19, 354.) Every guardian must return
 to the Probate Court an inventory of the estate of his
 ward within three months after his appointment, and
 annually thereafter. VVhen the value of the estate
@@ -17748,18 +17748,18 @@ succeeded to or acquired by any ward, or for his benefit, the like proceedings m
 and appraisement thereof that are herein provided in
 relation to the first inventory and return.
 
-1774. (§§ 35, 370.) The guardian must, upon the
+1774. (§ 35, 370.) The guardian must, upon the
 expiration of a year from the time of his appointment,
 and as often thereafter as he may be required, present
 
 his account to the Probate Court for settlement and
 allowance.
 
-1775. (§§ 49, 384.) When an account is rendered
+1775. (§ 49, 384.) When an account is rendered
 
 by two or more joint guardians, the Probate Judge
 may, in his discretion, allow the same upon the oath
-of any of them. 1776. (§§ 47, 382.) Every guardian must be allowed the amount of his reasonable expenses incurred .
+of any of them. 1776. (§ 47, 382.) Every guardian must be allowed the amount of his reasonable expenses incurred .
 
 in the execution of his trust, and he must also have
 such compensation for his services as the Court in
@@ -17805,13 +17805,13 @@ Bond and mortgage to be given for deferred payments.
 1792. Probate Court may order the investment of money of
 the ward.
 
-1777. (§§ 20, 355.) When the income of an estate under guardianship is insufficient to maintain the
+1777. (§ 20, 355.) When the income of an estate under guardianship is insufficient to maintain the
 ward and his family, or to maintain and educate the
 ward when a minor, his guardian may sell his real or
 personal estate for that purpose, upon obtaining an
 order therefore.
 
-1778. (§§ 21, 356.) When it appears to the satisfaction of the Court, upon the petition of the guardian,
+1778. (§ 21, 356.) When it appears to the satisfaction of the Court, upon the petition of the guardian,
 that for the benefit of his ward his real estate, or some
 part thereof; should be sold, and the proceeds thereof
 put out at interest, or invested in some productive
@@ -17819,7 +17819,7 @@ stock, or in the improvement or security of any other
 real estate of the ward, his guardian may sell the
 same for such purpose, upon obtaining an order therefore.
 
-1779. (§§ 22, 357.) If the estate is sold for the
+1779. (§ 22, 357.) If the estate is sold for the
 purposes mentioned in this Article, the guardian must
 apply the proceeds of the sale to such purposes, as far
 as necessary, and put out the residue, if any, on interest, or invest it in the best manner in his power, until
@@ -17831,21 +17831,21 @@ the capital may be used for that purpose, as far as may
 be necessary, in like manner as if it had been personal
 estate of the ward. ‘
 
-1780. (§§ 23, 358.) If the estate is sold for the
+1780. (§ 23, 358.) If the estate is sold for the
 purpose of putting out or investing the proceeds, the
 guardian must make the investment according to his
 
 best judgment, or in pursuance of any order that may
 be made by the [Probate Court.
 
-1781. (§§ 24, 359.) To obtain an order for such
+1781. (§ 24, 359.) To obtain an order for such
 sale, the guardian must present to/the Probate Court
 of the county in which ‘he was appointed guardian, a
 verified petition therefoaj. settir'* forth the condition
 of the estate of his ward, “curt I flcts and circumstances on which the p’ I _.....}unded, tending to
 show the necessity or e Way of a sale.
 
-1782. (§§ 25, 360.) If it appears to the Court or
+1782. (§ 25, 360.) If it appears to the Court or
 Judge, from the petition, that it is necessary or would
 be beneficial to the ward that the real estate, or some
 part of it, should be sold, or that the real and personal
@@ -17859,7 +17859,7 @@ it appear that it is necessary or would be beneficial to
 the ward to sell the personal estate or some part of it,
 the Court must order the sale to be made.
 
-1783. (§§ 26, 361.) A copy of the order must be
+1783. (§ 26, 361.) A copy of the order must be
 personally served on the next of kin of the ward, and
 on all persons interested in the estate, at least fourteen
 days before the hearing of the petition, or must be
@@ -17869,7 +17869,7 @@ consent to making the orderof sale is subscribed by
 all persons interested therein, and the next of kin,
 notice need not be served or published.
 
-1784. (§§ 27, 362.) The Probate Court, at the
+1784. (§ 27, 362.) The Probate Court, at the
 time and place appointed in the order, or such other
 time to which thehearing is postponed, upon proof of
 the service or publication of the order, must hear and
@@ -17886,7 +17886,7 @@ by the Probate Court or Judge, in the same manner
 and with like effect as in other cases provided for in
 this Title.
 
-1786. (§§ 29, 364.) If any person appears and
+1786. (§ 29, 364.) If any person appears and
 objects to the granting of any order prayed for under
 the provisions of this Article, and it appears to the
 Court that either the petition or the objection thereto
@@ -17894,7 +17894,7 @@ is sustained, the Court may, in granting or refusing
 the order, award costs to the party prevailing, and
 enforce the payment thereof.
 
-1787. (§§ 30, 365.) If, after a full examination, it
+1787. (§ 30, 365.) If, after a full examination, it
 appears necessary, or for the benefit of the Ward, that
 his real estate, or some part thereof should be sold,
 the Court may grant an order therefore, specifying
@@ -17903,13 +17903,13 @@ or beneficial, and may, if the same has been prayed
 for in the petition, order such sale to be made either’
 at public or private sale.
 
-1788. (§§ 31, 366.) Every guardian authorized to
+1788. (§ 31, 366.) Every guardian authorized to
 sell real estate must, before the sale, give bond to the
 Probate Judge, with sufficient surety, to be approved
 by him, with condition to sell the same in the manner,
 and to account for the proceeds of the sale, as provided for in this Chapter and Chapter VII of this Title.
 
-1789. (§§ 32, 367.) .All the proceedings under
+1789. (§ 32, 367.) .All the proceedings under
 petition of guardians for sales of property of their
 wards, giving notice and the hearing of such petitions,
 granting or refusing the order of sale, directing the
@@ -17920,13 +17920,13 @@ property sold, accounting and the settlement of accounts,
 must be had and made as required by the provisions of
 this Title concerning estates of deeedents, unless otherwise specially provided in this Chapter.
 
-1790. (§§ 33, 368.) No order of sale granted in
+1790. (§ 33, 368.) No order of sale granted in
 pursuance of this Article continues in force more than
 
 one year after granting the same, Without a sale being
 had.
 
-1791 . (§§ 50, 385.) All sales of real estate of wards
+1791 . (§ 50, 385.) All sales of real estate of wards
 
 must be for cash, or for part cash and part deferred
 payments, not to exceed three years, hearing date from
@@ -17936,7 +17936,7 @@ must demand and receive from the purchasers bond
 and mortgage on the real estate sold, with such additional security as the Judge deems necessary and sufiicient to secure the faithful payment of the deferred
 payments and the interest thereon.
 
-1792. (§§ 36, 371.) The Probate Court, on the
+1792. (§ 36, 371.) The Probate Court, on the
 application of a guardian or any person interested in
 
 the estate of any Ward, after such notice to persons
@@ -17964,7 +17964,7 @@ SECTION 1793. Guardians of non-resident persons.
 1798. Proceedings on such removal.
 1799. Discharge of person in possession.
 
-1793. (§§ 43, 378.) When a person liable to be
+1793. (§ 43, 378.) When a person liable to be
 put under guardianship, according to the provisions of
 this Chapter, resides without this State, and has estate
 therein, any friend of such person, or any one interested in his estate, in expectancy or otherwise, may
@@ -17975,7 +17975,7 @@ to all interested, in such manner as the Judge orders,
 and a full hearing and examination, it appears proper,
 a guardian for such absent person may be appointed.
 
-1794. (§§ 44, 369.) Every guardian, appointed
+1794. (§ 44, 369.) Every guardian, appointed
 under the preceding section, has the same powers and
 performs the same duties, with respect to the estate
 
@@ -17985,20 +17985,20 @@ to the person of the Ward, if he shall come to reside
 therein, as are prescribed with respect to any other
 guardian appointed under this Chapter.
 
-1795. (§§ 45, 380.) Every guardian must give
+1795. (§ 45, 380.) Every guardian must give
 bond to the ward, in the manner and with the like
 conditions as hereinbefore provided for other guardians, except that the provisions respecting the inventory, the’ disposal of the estate and effects, and the
 account to be rendered by the guardian, must be conhned to such estate and effects as come to his hands
 in this State.
 
-1796. '(§§ 46, 381.) The guardianship which is
+1796. '(§ 46, 381.) The guardianship which is
 first lawfully granted, of any person residing Without
 this State, extends to all the estate of the Ward Within
 the same, and excludes the jurisdiction of the Probate
 
 Court of every other county.
 
-1797. (§§ 1, 386.) When the guardian and Ward
+1797. (§ 1, 386.) When the guardian and Ward
 are both non-residents, and the Ward is entitled to
 property in this State which may be removed to
 another State or foreign country without coniiict with
@@ -18009,7 +18009,7 @@ guardian to the Probate Judge of the county in
 which the estate of the ward, or the principal part
 thereof, is situated. T.
 
-1798. (§§ 2, 387.) The application must be made
+1798. (§ 2, 387.) The application must be made
 upon ten days notice to the resident, executor, administrator, or guardian, if there be such; and upon such
 application the non-resident guardian must produce
 and file a certihcate under the hand of the Clerk and
@@ -18032,7 +18032,7 @@ residence, which is authority to him to sue for and
 
 receive the same in his own name, for the use and benefit of his ward.
 
-1799. (§§' 3, 388.) Such order is a discharge of
+1799. (§' 3, 388.) Such order is a discharge of
 the executor, administrator, local guardian, or other
 person in whose possession the property may be at the
 time the order is made, on filing with the Probate
@@ -18056,7 +18056,7 @@ sold. '
 1808. Power of Probate Judge in chambers.
 1809. Provisions of Section 1057 apply to guardians.
 
-1800. (§§ 42, 377.) Upon complaint made to him
+1800. (§ 42, 377.) Upon complaint made to him
 by any guardian, Ward, creditor, or other person interested in the estate, or having a prospective interest‘
 
 therein as heir or otherwise, against any one suspected
@@ -18072,7 +18072,7 @@ Title with respect to persons suspected of, and charged
 
 ‘with, concealing or embezzling the effects of a decedent.
 
-1801. (§§ 37, 372.) When a guardian, appointed
+1801. (§ 37, 372.) When a guardian, appointed
 either by the testator or the Probate Judge, becomes
 insane or otherwise incapable of discharging his trust,
 or unsuitable therefore, or has wasted or mismanaged
@@ -18087,26 +18087,26 @@ the Probate Court or the Judge thereof may appoint
 another in the place of the guardian who has resigned
 or has been removed.
 
-1802. (§§ 38, 373.) The marriage of a minor ward
+1802. (§ 38, 373.) The marriage of a minor ward
 terminates the guardianship; and the guardian of an
 insane or other person may be discharged by the Probate Judge when it appears to him, on the application
 of the ward or otherwise, that the guardianship is no
 longer necessary.
 
-1803. (§§ 39, 374.) The Probate ,J udge may require a new bond to be given by a guardian Whenever
+1803. (§ 39, 374.) The Probate ,J udge may require a new bond to be given by a guardian Whenever
 he deems it necessary, and may discharge the existing
 sureties from further liability, after due notice given
 as he may direct, when it shall appear that no injury
 can result therefrom to those interested in the estate.
 
-1804. (§§ 40, 375.) Every bond given by a guardian must be filed and preserved in the office of the
+1804. (§ 40, 375.) Every bond given by a guardian must be filed and preserved in the office of the
 Clerk of the Probate Court of the county; and in case
 of a breach of a condition thereof; may be prosecuted
 
 for the use and beneht of the ward or of any person
 interested in the estate.
 
-1805. (§§ 41, 376.) No action can be maintained
+1805. (§ 41, 376.) No action can be maintained
 against the sureties on any bond given by a guardian,
 unless it be commenced within three years from the
 discharge or removal of the guardian; but if at the
@@ -18115,19 +18115,19 @@ such action is under any legal disability to sue, the
 action may be commenced at any time within three
 years after such disability is removed.
 
-1806. (§§ 37, 369.) No action for the recovery of
+1806. (§ 37, 369.) No action for the recovery of
 any estate, sold by_a guardian, can be maintained by
 the Ward, or by any person claiming under him, unless
 it is commenced Within three years next after the termination of the guardianship, or when a legal disability to sue exists by reason of minority or otherwise,
 at the time when the cause of action accrues, within
 three years next after the removal thereof.
 
-1807. (§§ 48, 383.) The Court, in its discretion,
+1807. (§ 48, 383.) The Court, in its discretion,
 whenever necessary, may appoint more than one guardian of any person subject to guardianship, who must
 give bond and be governed and liable in all respects
 as a sole guardian.
 
-1808. (§§ 16,- 385.) The power conferred upon the
+1808. (§ 16,- 385.) The power conferred upon the
 Probate Judge in relation to guardians and Wards may
 be exercised by him at chambers, or as the act of the
 Probate Court, when holding such Court; and any
@@ -18810,7 +18810,7 @@ their production for examination;
 2. Children under ten years of age, who appear incapable of receiving just impressions of the facts respecting which they are examined, or of relating them
 truly.
 
-1881. (§§ 395, 396, 397, 398, 399.) There are particular relations in which it is the policy of the law
+1881. (§ 395, 396, 397, 398, 399.) There are particular relations in which it is the policy of the law
 to encourage confidence and to preserve it inviolate;
 thereforee, a person cannot be examined as a witness in
 the following cases:
@@ -19041,7 +19041,7 @@ entry of the proceedings in a Court of justice, or of the
 official act of a judicial officer, in an action or special
 proceeding.
 
-1905. (§§ 449, 450.) A judicial record of this
+1905. (§ 449, 450.) A judicial record of this
 State, or of the United States, may be proved by the
 production of the original, or by a copy thereof, certified by the Clerk or other person having the legal custody thereof. That of a sister State may be proved
 by the attestation of the Clerk and the seal of the

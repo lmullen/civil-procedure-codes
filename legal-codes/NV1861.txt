@@ -75,7 +75,7 @@ promissory notes, and sureties on the same or separate instruments, may all, or 
 
 at the option of the plaintifff.
 
-' SEC. 16. An action shall not abate by the death, or other
+SEC. 16. An action shall not abate by the death, or other
 disability of the party, or by the transfer of any interest therein,"
 if the cause of action survive or continue. In case of the
 death, or other disability, of a party, the court, on motion, may
@@ -759,7 +759,7 @@ the amount of bail. If the application be made upon affidavits
 on the part of the defendant, but not otherwise, the plaintifff
 may oppose the same by affidavits or other proofs, in addition
 to those on which the order of arrest was made.
-- SEC. 98. If, upon such application, it shall satisfactorily
+SEC. 98. If, upon such application, it shall satisfactorily
 appear that there was not sufficient cause for the arrest, the
 order shall be vacated; or, if it satisfactorily appear that the
 bail was fixed too high, the amount shall be. reduced.
@@ -2299,7 +2299,7 @@ recover damages for withholding the property.
 SEC. 257. When damages are claimed for withholding the .
 property recovered, upon which permanent improvements have i
 
-een made by a defendant, or those under whom h: claims,§
+een made by a defendant, or those under whom h: claims§
 holding under color of title adversely to the claims of the
 plaintifff, in good faith, the value of such improvements shall
 be allowed as a set-off against such damages.
@@ -3055,7 +3055,7 @@ time of the offer.
 
 CHAPTER I.—0f le'tnesses.
 
-.SEC. 340. All persons, without exception, otherwise than.
+SEC, 340. All persons, without exception, otherwise than.
 as specified in this chapter [of this act], may be witnesses in
 any action or proceeding. No person offered as a witness shall 1
 be excluded on account of his opinions on matters of religious]
@@ -3320,7 +3320,7 @@ SEC. 371. An affidavit to be used before any court, judge,
 ' or officer of this territory, may be taken before any judge or
 clerk of any court, or any justice of the peace, or notary public
 in this territory.
-' SEC. 372. An aiiidavit taken in another state or territory
+SEC. 372. An aiiidavit taken in another state or territory
 of the United States, to be used in this territory, shall be taken
 before a commissioner appointed by the governor of this territory to take affidavits and depositions in such other state or
 territory, or before a judge of a court of record having a seal.

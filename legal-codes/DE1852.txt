@@ -680,7 +680,7 @@ suffer nonsuit and pay the costs.
 
 , SEC. 24. An action brought b , or in the name of any public ofjficer, shall not abate by his death, resignation, removal from office,
 {or the expiration of his term, but may be prosecuted by his successor, if there be a successor who might have originally commenced
-and prosecuted the like action. ' SEC. 25. A jury may, in any case, find a general or special verdict. , .
+and prosecuted the like action. SEC. 25. A jury may, in any case, find a general or special verdict. , .
 SEC. 26. Papers read in evidence to the jury, although not under
 seal, except depositions, may be carried from the bar by the jury.
 
@@ -1487,7 +1487,7 @@ lIl?,l*l('-9 r"-1' llJI.'|l'.".‘*.'-l. ]»"'l re’ 1 - 1'. - 59-   5  _\. l�
 lfl Jill (‘ii-"" i I ‘I I :ll‘!.'_ l  I I. l’ I
 I1: ~‘r ~'r'X ’ ‘H " I 1 ' ll.'l.'1l’1 I 'l,:~. T.<_r 43‘;<_-asiuium gal‘-;—._-_-_-.~'..~.. 1 ~I -i M '\ :1 -u .1
 
-_.'_:i1t.l'.'.'."4‘,§L...i'4'...
+_.'_:i1t.l'.'.'."4§L...i'4'...
 
 SEO. 3. When lands and tenements have been seized and taken
 in execution by virtue of any writ ofjierz'facz'as, the sheriff in office,
@@ -2341,7 +2341,7 @@ SEC. 6. In any proceeding before a judge, or the chancellor, out
 
 of court, there may be allowed for the service of process, or the at-tendance of witnesses, a reasonable fee, not exceeding what is allowable for like service, or attendance, in proceedings before a justice of the peace; and the judge, or chancellor, may make such order for the payment thereof as he shall consider just, and enforce
 obedience by attachment.
-‘ SEC. 7. If any person shall bring a suit in any court upon a cause
+SEC. 7. If any person shall bring a suit in any court upon a cause
 of action cognizable before a justice of the peace under chapter 99,
 "and shall not recover more than fifty dollars, besides costs, he shall
 _not recover costs; unless he, or some credible person, shall have previously filed in the office of the. prothonotary a written allidavit to
@@ -3363,7 +3363,7 @@ the court may exercise equitable powers; and if it shall consider
 that there was not sufficient ground for the attachment, the landlord
 shall pay the costs.
 
-' SEC. 57. The residue of the goods, or money, after satisfying the
+SEC. 57. The residue of the goods, or money, after satisfying the
 rent and costs, shall be restored, or paid, to the tenant without delay, or otherwise applied according to law.
 
 SEC. 58. If a landlord, or any credible person for him shall, in

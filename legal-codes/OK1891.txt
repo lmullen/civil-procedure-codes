@@ -1059,7 +1059,7 @@ cases upon motion, order a bill of particulars of the claim of either
 
 Part)’, and abstracts of title to be furnished.
 
-(4403) .§ 30. \Vhere a pleading is founded on a written instrument, or such instrument is therein referred to; when an assignment, in writing, of such instrument is specially alleged in a
+(4403) § 30. \Vhere a pleading is founded on a written instrument, or such instrument is therein referred to; when an assignment, in writing, of such instrument is specially alleged in a
 pleading, such instrument or assigement may be read in evidence
 on the trial of the cause without proving its execution, unless its
 execution be denied by pleading under oath, or by an affidavit
@@ -1471,7 +1471,7 @@ which the change of venue was first taken; and such county clerk
 shall issue his warrant on the treasurer of the county for the
 amount so allowed and certified.
 
-(4454)' § 4. No change of venue shall be granted in vacation
+(4454)§ 4. No change of venue shall be granted in vacation
 unless the opposite party has been given ten days notice of the,
 application therefore. C
 
@@ -3123,7 +3123,7 @@ SECTION. SECTION. .
 7. Time for appeal, supersedeas. - 33. Defect in form, etc., no ground for
 3. Appeals to Supreme Court, proviso. , T€_V’€I‘5a1_- _ _
 9. Appeals within one year, exception 34_ ()ne judge interested, others divided,
-10. Part only barred, proceedings. pr°°°°d"‘§5- _ '.
+10. Part only barred, proceedings. pr°°°°d"§5- _ '.
 Ii. A part may appeal, notice. ' 35. Reversal, remanding for new trial,
 12. Death of party, appeal, notice. msm|Ct10"S- ‘
 13. Death no abatement 36. Judgment of Supreme Lourt, dam14- A pea] durin term, Sta , bond, ages. _ _
@@ -4667,7 +4667,7 @@ from levy and sale under such execution.
 
 (4812) § 116. No execution shall be issued upon any judgment against the body of any execution-debtor, except as hereinafter provided.
 
-(4813) ‘§ 117. Before any such execution shall issue, the
+(4813) § 117. Before any such execution shall issue, the
 plaintifff shall file with theclerk an affidavit, charging the debtor
 with fraudulently concealing, removing, conveying, or transferring
 his property subject to execution, with intent to defraud and
@@ -5036,7 +5036,7 @@ the same, and if the award or umpirage shall have ordered any act
 to be done by either party, judgment may be entered that such
 act be done according to such award or umpirage.
 
-(4862)‘§ 20. The costs of the proceedings in court shall be
+(4862)§ 20. The costs of the proceedings in court shall be
 taxed as costs in suits, and if no provision for the fees and expenses of the arbitration shall have been made in the award or
 umpirage the court shall make the allowance therefore. But if
 there was a suit pending previous to such admission, the costs of
@@ -8491,7 +8491,7 @@ justice, and all motions filed with him by the parties during the
 trial and the notice of appeal, may be used on the hearing of the
 appeal before the district court. ‘
 
-(5253)' § 3. When a party appeals to the district court on
+(5253)§ 3. When a party appeals to the district court on
 questions of fact, or on question of both law and fact, and demands in his notice of appeal a new trial in the district court, no
 statement must be made, but the action must be tried anew in
 that court.

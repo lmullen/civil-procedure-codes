@@ -32,7 +32,7 @@ courts of justice, or by judicial officers empowered for that purpose, by the co
 
 2. Special proceedings.
 
-‘§ 7. An action is an ordinary proceeding in a court of justice,
+§ 7. An action is an ordinary proceeding in a court of justice,
 by which one party prosecutes another, for the enforcement or
 protection of a right, the redress or prevention of a wrong, or the
 punishment of a public offense.
@@ -661,7 +661,7 @@ of this code. ' ,
 first instance, a judgment rendered by the marine court of the
 city of N ew-York, or by a justice’s court in that city.
 
-,§ 81. The three judges of this court, elected as such, by the
+§ 81. The three judges of this court, elected as such, by the
 electors of the city and éounty of New York, and now in office,
 and their successors, are the only judges of this court. They
 shall be known as the chief justice and associate judges of the
@@ -2502,7 +2502,7 @@ of a person not stated thereon, to reside in the city in which the
 court is established, as provided in section 248, must be entered
 in the minute of the drawing, and the grand jury must be completed from the names of persons residing in that city.
 
-.§ 260. At least six days before the court, the sheriff must
+§ 260. At least six days before the court, the sheriff must
 summon the persons named in the panel delivered to him, to
 attend the court, by giving Written notice to each of them personally, or by leaving it at his place of residence, with some
 
@@ -2770,7 +2770,7 @@ drawing the jury. ' ‘
 § 293. A misdescription, however, of the title of the court,
 does not afect the validity of the order, if it can be plainly understood therefrom what court is intended.
 
-.§ 294. The number of jurors drawn for the courts mentioned
+§ 294. The number of jurors drawn for the courts mentioned
 in section 289, must be as follows:
 
 1 . For a circuit, in the city and county of New-York, seventytwo, and in every other county thirty-six:
@@ -3216,7 +3216,7 @@ general, in behalf of the people of this state, against several persons on the s
 
 same title, he must, upon the request of the defendants, consent to a consolidation of the actions into one.
 
-.§ 341. All monies received by the attorney general, for debts
+§ 341. All monies received by the attorney general, for debts
 aim or penalties forfeited to the people of this state, must be paid
 by him, immediately after the receipt thereof, into the treasury,
 
@@ -4309,7 +4309,7 @@ provision of this code,‘ the jury may be drawn from any justice’s
 jury box, in the presence of the justice, by drawing the names of
 eighteen jurors, summoning them, and at the time of appearance,
 drawing or selecting from those who appear, the number sufficient
-to complete the jury. - . .§466. A sheriff, or other ministerial oiiicer, is justified in the
+to complete the jury. - . §466. A sheriff, or other ministerial oiiicer, is justified in the
 execution of process, regular on its face, and appearing to have
 been issued by competent authority, whatever may be the defect
 in the proceedings upon which it was issued. W
@@ -4929,7 +4929,7 @@ court in a criminal action, except that the court may reverse or
 modify the judgment, as well upon the facts appearing ‘in the
 judgment roll as upon the law. _ '
 
-’ §532. Any court, except a justice’s court or a court of conciliation, may suspend an attorney and counsellor from practising
+§532. Any court, except a justice’s court or a court of conciliation, may suspend an attorney and counsellor from practising
 therein, for any of the causes mentioned in section 518, for a
 period not beyond the adjournment of the next general term of
 the supreme court in the district. The order of suspension must
@@ -5135,7 +5135,7 @@ was seized or possessed of the property in question, Within twenty
 
 years before the commencement of the action.
 
-“"‘§ 555. No cause of action or defense to an action arising out
+“"§ 555. No cause of action or defense to an action arising out
 of the title to real property, or to rents or services out of the
 same, can be eifectual, unless it appear that the person prosecuting the action, or making the defense, or under whose title
 the action is prosecuted, or the defense is made,_or the ancestor, predecessor or grantor of such person, was seized or pos.
@@ -8175,7 +8175,7 @@ disbursements must be stated in detail, and verified by aii'1davit, which must b
 code, the charges also are allowed, and when costs are not allow’ ed, the charges are not allowed, except where express provision
 
 is made therefore. '
-' § 868. When an application is made to a court or referees, to
+§ 868. When an application is made to a court or referees, to
 postpone a trial, the payment to the adverse party of a sum not
 exceeding ten dollars, besides the fees of witnesses, may be imposed, as the condition of granting the postponement. '
 
@@ -8492,7 +8492,7 @@ CHAPTER IV.
 
 . ACTIONS FOR THE PARTITION OF REAL PROPERTY.
 
-,§ 911. When several persons hold, and are in possession of
+§ 911. When several persons hold, and are in possession of
 real property, asjointtenants; or as tenants in common, in which
 
 one or more of them have an estate of inheritance, or for life or
@@ -8540,7 +8540,7 @@ publication, directed by the court or judge, in the manner prescribed by section
 
 summons, as published, must be accompanied by a brief description of the property, which is the subject of the action. °
 
-‘§917. The rights of the several parties, plaintiffs as well as
+§917. The rights of the several parties, plaintiffs as well as
 defendants, may be put in issue, tried and determined by such
 
 action; and where a defendant fails to answer, or where a sale of
@@ -8601,7 +8601,7 @@ allowed by the court ; and. the amount thereof, together with the
 fees allowed by law to the referees, must be paid by the plaintifff,
 and may be allowed as part of the charges.
 
-,§ 924. If the referees report to the court, that the property, of
+§ 924. If the referees report to the court, that the property, of
 which partition shall have been directed, or any distinct portion
 thereof, is so situated, that a partition thereof cannot be made,
 without great prejudice to the owners; and the court is satislied
@@ -8788,7 +8788,7 @@ _ § 948. The terms of the sale must be made known at the time 5
 and if the premises consist of distinct farms, or lots, they must
 
 be sold, separately.
-' § 949. Neither of the referees, nor any person for the benefit of
+§ 949. Neither of the referees, nor any person for the benefit of
 
 either ofthem, can be interested in the purchase; nor can a
 
@@ -9309,7 +9309,7 @@ all the devisees of the tcstator, in proportion to the value of the
 real property descended or devised, and such proportion only can
 be recovered of each heir or legatee.'
 
-‘§ 1007. Devisees made liable, by the foregoing provisions of ,
+§ 1007. Devisees made liable, by the foregoing provisions of ,
 this chapter, to the creditors of their testator, are not so liable,
 unless it appear that his personal assets and the real property of
 the testator descended to his heirs were insufficient to discharge
@@ -9934,7 +9934,7 @@ until duly discharged by order of the court, but in no case can
 such detention exceed ‘twelve hours from the time of his being
 tirst brought before the justice, unless within that time, the trial
 of the action be commenced, or unless it be delayed at the request
-of the defendant. ’ §1067. When the cause of action arises upon a judgment rendered within this state, or an order of a court of competent juris‘ diction, to pay a sum of money, or upon any other contract, an
+of the defendant. §1067. When the cause of action arises upon a judgment rendered within this state, or an order of a court of competent juris‘ diction, to pay a sum of money, or upon any other contract, an
 
 order toattach the property of the defendant, may be endorsed
 upon a summons issued by the justice, in the following cases:
@@ -10053,7 +10053,7 @@ of any other facts, constituting a defense, or a counterclaim upon
 Which an action might be brought by the defendant against the
 Dlaintiii‘ in a justice’s court.
 
-. ‘§ 1080. When the answer contains a counterclaim, the plaintifff may reply, denying any of the material allegations relating
+. § 1080. When the answer contains a counterclaim, the plaintifff may reply, denying any of the material allegations relating
 thereto. ~ ‘
 
 § 1081. A statement in an answer or reply, that the party has
@@ -11296,7 +11296,7 @@ be tried and judgment may be given, in the same manner as in
 an action, and enforced by execution, or the application of property charged, to the payment of the judgment, may, if necessary,
 be compelled by attachment. . .
 
-' § 1209. The answer and reply must be verified in the same
+§ 1209. The answer and reply must be verified in the same
 
 . manner, and are subject to the same rules, as. the answer and
 
@@ -11483,7 +11483,7 @@ served, at his place of residence, and the postage paid. . And in
 snehr case the time of service must be increased one day for every iifty miles distance between the place of the deposit and the’place
 
 of the address. .
-' §l229. A defendant appears in an action when he answers,
+§l229. A defendant appears in an action when he answers,
 
 demurs, or gives the plaintifff written notice of his appearance.
 
@@ -11557,7 +11557,7 @@ an alleged obligation ; and also against two or more persons, for
 the purpose of compelling one to satisfy a debt due to the other,
 
 for which the plaintifff is bound as surety.
-‘§ 1239. No natural person is subject to the jurisdiction of a
+§ 1239. No natural person is subject to the jurisdiction of a
 
 -court‘of this state, unless he appear in the court, or be found
 within the state, or be a resident thereof, or have property therein; and in the last case only to the extent of such property at
@@ -11741,7 +11741,7 @@ may be inserted, or omitted, in the sound discretion of the court.
 6; 1264. The eifect of the writ is to remove, not the record, but
 the transcript thereof; thereforee, the power of the inferior court
 or oiiicer is not suspended-, nor the proceedings stayed, unless an
-order to that effect be inserted in the writ. . ,§l265. The writ may be granted, wherever specially authorized by this code, and also in all cases where an inferior tribunal,
+order to that effect be inserted in the writ. . §l265. The writ may be granted, wherever specially authorized by this code, and also in all cases where an inferior tribunal,
 board, or officer, exercising judicial functions, is alleged to have
 exceeded the jurisdiction of such tribunal, board, or officer; and
 
@@ -12288,7 +12288,7 @@ except as provided in the last section, any person so discharged,
 or knowingly direct or assist therein, he shall forfeit to the party
 aggrieved one thousand dollars, and be also guilty of a misdemeanor. '
 
-.§«1-330. Any person, having in his custody or power, or under
+§«1-330. Any person, having in his custody or power, or under
 his restraint, a party, who, by the provisions of this chapter, would
 be entitled to a writ of a deliverance or for whose relief a writ of
 deliverance has been issued, who, with intent to elude the service
@@ -12409,7 +12409,7 @@ APPEA D8 .
 § 1345. An appeal may be taken to the general term of the supreme court from an order refusing a state writ. For that purpose, if the order have been made by a judge out of court, it must
 be first entered with the clerk.
 
-' § 1346. An appeal may be taken to the general term of the supreme court from the judgment after the allowance of a state
+§ 1346. An appeal may be taken to the general term of the supreme court from the judgment after the allowance of a state
 writ. .
 
 § 1347. The appeal mentioned in the last two sections, must be
@@ -12676,7 +12676,7 @@ was entitled to foreclose by reason of default in payment, and"that all the proc
 he must contirm the foreclosure and sa1e,by an order indorsed on
 'or attached to, the affidavits or certificate and to be filed and re-corded therewith in the onice of the county clerk.
 
-‘§ 1372. The order of confirmation must show:
+§ 1372. The order of confirmation must show:
 
 _I. The names of all the persons upon whom it appears that the
 notice was duly served:
@@ -12768,7 +12768,7 @@ only is due, and part of the property remains unsold, the mortgage may, for any 
 _the remainder of such property, anda sale thereof made as at
 Jirst.
 
-,§ 1381. When there is a surplus, arising on the sale, beyond
+§ 1381. When there is a surplus, arising on the sale, beyond
 the amount due, with costs, and there remains a sum, secured by
 the mortgage, yet to become due, the holder of the mortgage is
 entitled to receive such surplus, to be applied to the amount
@@ -13404,7 +13404,7 @@ CHAPTER VI.
 
 GEN ERAL PROVISIONS.
 
-‘§ Cl -14 I . When an officer is authorized by statute to distrain property for any purpose whatever,and no special provision is otherwise made, he must give, at least, six days’ notice of the sale of
+§ Cl -14 I . When an officer is authorized by statute to distrain property for any purpose whatever,and no special provision is otherwise made, he must give, at least, six days’ notice of the sale of
 the property, by posting the same in three public places of the
 town where the sale is to be made; and he must also, before
 making the sale, require three disinterested freeholders of the
@@ -13949,7 +13949,7 @@ in what respect it is erroneous_ or defective, and the parties objecting are the
 places of presenting the account, with the objection, to the court
 for decision.
 
-‘ .§ 1498. The judge must proceed to -examine the account and
+‘ § 1498. The judge must proceed to -examine the account and
 
 the objection, pursuant to the notice, on ,the day specified, or on‘
 
@@ -14171,7 +14171,7 @@ prior to the application, and that no order staying the entry of
 judgment has been served, the award may be entered in the
 judgment book, and shall thereupon have the effect of a judgment.
 
-' §l527. The county court, on motion, may vacate the award‘,
+§l527. The county court, on motion, may vacate the award‘,
 upon either of the fdllowing grounds, and may order a new hearing before the same arbitrators, or not, in its discretion:
 
 1. That it_was procured by corruption or fraud:
@@ -14402,7 +14402,7 @@ from a justicels jury box, of the town or city where the trial is to
 be had, to appear at the time and place appointed for the investigation, and to determine the truth of ' the allegations made in
 the application.
 
-‘§ 1548. The jury must be drawn by the sheriff, in the present»
+§ 1548. The jury must be drawn by the sheriff, in the present»
 of the justice, and summoned pursuant to the surrogate’s order,
 and a return thereof made, at the time and place speciiied, stating
 the time and manner of summoning each juror.
@@ -14422,7 +14422,7 @@ questions of law arising therein,and the trial must be conducted
 in all respects like a trial.in a civil action, except as otherwise
 
 provided in this chapter. ,
-' § 1551. Upon such trial, the alleged insane person or drunkard
+§ 1551. Upon such trial, the alleged insane person or drunkard
 
 may appear by counsel, and may produce witnesses on his part.
 But, whether he appear or not, the applicant must prove the
@@ -14538,7 +14538,7 @@ is restored to his original rights. If misconduct of the committee
 be established, he must be removed and another appointed in his
 place. _
 
-.§ 1567. The fees of the surrogate, on the appointment of a committee, are the same, as on the proof of a will, and for his removal, and the proceedings in relation thereto, the same as for similar services in case of administrators. Upon a trial before him,
+§ 1567. The fees of the surrogate, on the appointment of a committee, are the same, as on the proof of a will, and for his removal, and the proceedings in relation thereto, the same as for similar services in case of administrators. Upon a trial before him,
 
 the surrogate may order costs to be paid,eitl1er by a party, or out
 of the fund or estate, to any other party, not exceeding the costs
@@ -14805,7 +14805,7 @@ TITLE XI.
 
 01-‘ THE LDMEASUREMENT OF DOWER.
 
-,§ 1591. A widow’s dower in the realproperty of her deceased
+§ 1591. A widow’s dower in the realproperty of her deceased
 husband, may be admeasured and set on‘ to her, at any time after
 
 the death of her husband, by agreement -between her and the
@@ -15429,7 +15429,7 @@ document is a valid and subsisting document of such country,
 and that the copy is duly certined ‘by the officer having the legal
 custody of the original. ‘
 
-.~ ‘§ 1659. A public record of a private writing may be proved by
+.~ § 1659. A public record of a private writing may be proved by
 the original record, or by a copy thereof, certified by the legal
 keeper of the record-.
 
@@ -15501,7 +15501,7 @@ property, and the certificate of such acknowledgment or proof, is
 primary evidence, of the execution of the writing, in the same
 manner as if it were a conveyance of real property.
 
-' § 1668. Every surrogate must receive,and deposit in his oiiice,
+§ 1668. Every surrogate must receive,and deposit in his oiiice,
 any. last will and testament, delivered to him for that purpose,
 
 and give a written receipt therefore. Such will must be enclosed
@@ -15820,7 +15820,7 @@ forwarded to him by mail, or other usual channel of conveyance.
 {} 1700. A trial or other proceeding must not be postponed by
 reason of a commission not returned, except upon evidence satis-L
 ‘history to the court, that the testimony of the witness is necessary, and that proper diligence has been used to obtain it. '
-' § 1701. The deposition of a witness out of this state and in any
+§ 1701. The deposition of a witness out of this state and in any
 
 other of the United States, may also ‘be taken before a commissioner, appointed by the governor of this state to take depositions in
 
@@ -16155,7 +16155,7 @@ statute, law, or rule, to be deemed retained, because it is consistent wlth prov
 
 such repeal or abrogation does not revive any former law heretofore repealed, nor does it affect any right already existing or
 accrued, or any proceeding already taken, except as in this code
-provided. . ' § "1740, This code shall take eifect on the first day of October
+provided. . § "1740, This code shall take eifect on the first day of October
 
 1853.
 

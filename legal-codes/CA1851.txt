@@ -270,7 +270,7 @@ ordinary and concise language :
 3d. A demand of the'relief which the plaintifff claims. If the
 recovery of money, or damages be demanded, the amount thereof shall
 be stated. ‘ '
-' § 40. The defendant may demur to the complaint within the time I).
+§ 40. The defendant may demur to the complaint within the time I).
 required in the. summons to answer, when it appears upon the face 0
 thereof, either: a
 1st. That the Court has no jurisdiction of the person of the
@@ -1517,7 +1517,7 @@ before the Court for argument at the first special term.
 § 199. If a counterclaim, established at the trial, exceed the plaintiE’s demand, so established, judgment for the defendant shall be given
 for the excess; or if it appear that the defendant is entitled to any other
 ailirmative relief, judgment shall be given accordingly.
-’ § 200. In an action to recover the possession of personal property,
+§ 200. In an action to recover the possession of personal property,
 judgment for the plaintifff may be for the possession, or the value thereof,
 in case a delivery cannot be had, and damages for the detention. If
 the property have been delivered to the plaintifff, and the defendant
@@ -3012,7 +3012,7 @@ award is made.
 hearing, to adjourn from time to time, to administer oaths to witnesses,
 to hear the allegations and evidence of the parties, and to make an
 award thereon. ‘
-’ § 384. All the arbitrators shall meet and act together during the
+§ 384. All the arbitrators shall meet and act together during the
 investigation; but when met, a majority may determine any question.
 Before acting, they shall be sworn before an odicer authorized to administer oaths, faithfully and fairly to hear and examine the allegations
 and evidence of the parties, in relation to the matters in controversy,
@@ -3879,7 +3879,7 @@ in section 495, not united in interest, and making separate defenses by ‘
 separate answers, and the plaintiE fails to recover judgment against all,
 the Court shall award costs to such of the defendants as have judgment
 in their favor.
-' § 500. In the following cases the costs of an appeal shall be in the
+§ 500. In the following cases the costs of an appeal shall be in the
 discretion of the Court: .
 1st. When a new trial is ordered:
 2d. When a judgment is modified.
@@ -4697,7 +4697,7 @@ ll lstLlC'llet .
  
 
 § 591. may]:
-a new actio , ay 1» {3H
+a new actio , ay 1» §H
 lst. When [11»: I}
 it is dually submitted.
 2d. When «he fails to appear at the time specified in the summons, or upon adjournment, or within one hour thereafter:

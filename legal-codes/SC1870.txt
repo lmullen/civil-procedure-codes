@@ -2874,7 +2874,7 @@ Judge granting the same, at any time, on such security as he shall direct.
 SEC. 826. The Judge may, In his discretion, order a reference to a
 referee agreed upon by the parties, or appointed by him, to report the
 evidence or the facts, and may, in his discretion, appoint such referee in
-the first order, or at any time.SEC. 327. The Judge may allow to the judgment creditor, or to any
+the first order, or at any timeSEC, 327. The Judge may allow to the judgment creditor, or to any
 party so examined, whether a party to the actlon or not, witnesses’ fees
 and disbursements, and a fixed sum in addition, not exceeding thirty
 dollars, as costs.
@@ -3801,7 +3801,7 @@ describe the judgment, and require the person summoned to show cause
 
 -within twenty days after the service of the summons; and shall be served
 
-in like manner as the original summons.SEC. 395. The summons shall be accom nied b an aiiidavit of the
+in like manner as the original summonsSEC, 395. The summons shall be accom nied b an aiiidavit of the
 
 person subscribing it, that the judgment as not en satisfied, to his
 nowledge or information and belief, and shall specify the amount due
@@ -4301,7 +4301,7 @@ CHAPTER I.
 
 ACTIONS AGAINST FOREIGN CORPORATIONS.
 
-.SEC. 442. An action against a corporation created by or under the
+SEC, 442. An action against a corporation created by or under the
 laws of any other State, government, or country, may be brought in the
 Circuit Court:
 

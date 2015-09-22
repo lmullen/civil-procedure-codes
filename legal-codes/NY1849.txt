@@ -139,7 +139,7 @@ court of the city of New-York, or in an assistant justicea’ court.of
 that city, or the municipal court of the city of Brooklyn, or in a
 justice’s court of any of the cities of this state.
 
-l § 12. The court of appeals may reverse, affirm or modify the
+§ 12. The court of appeals may reverse, affirm or modify the
 judgment or order appealed from, in whole or in part, and as to
 any or all of the parties; and its judgment shall be remitted to
 the court below, to be enforced according to law.
@@ -1140,7 +1140,7 @@ such tenant may have acquired another title, or may have claimed
 to hold adversely to his landlord. But such presumption shall
 not be made after the periods herein limited.
 
-.§ 87. The right of a person to the possession of any real property, shall not be impaired or affected by a descent being cast in
+§ 87. The right of a person to the possession of any real property, shall not be impaired or affected by a descent being cast in
 consequence of the death of a person in possession of such
 property.
 
@@ -1396,7 +1396,7 @@ be brought in.
 party in interest, except as otherwise provided in section one
 hundred and thirteen. ‘
 
-I ‘§ 112. In the case of an assignment of a thing in action, the
+I § 112. In the case of an assignment of a thing in action, the
 ’action by the assignee shall be without prejudice to any set of or
 other defense existing at the time of or before notice of the assignment; but this section shall not apply to a negotiable promissory
 note or bill of exchange, transferred in good faith, and upon good
@@ -2348,7 +2348,7 @@ except.
 216. Claim of property by third person.
 217. .Notice and affidavit, when and where to be filed.
 
-31’ § 206. The plaintifff, in an action to recover the possession of
+31§ 206. The plaintifff, in an action to recover the possession of
 
 :personal property, may, at the time of issuing the summons, or at
 any time before answer, claim the immediate delivery of such property as provided in this chapter.
@@ -2846,7 +2846,7 @@ ty§ 255. All issues, whether of law or fact, triable by a jury or
 by the court, shall be tried before a single judge. Issues of fact
 in the supreme court, shall be tried at the circuit courts, issues of
 law in the first instance at a circuit court or special term.
-' § 256. At any time after issue, and at least ten days before the
+§ 256. At any time after issue, and at least ten days before the
 court, either party may give notice of trial. The party giving the
 notice shall furnish the clerk at least four days before the court
 with a note of the issue containing the title of the action, the names
@@ -2953,7 +2953,7 @@ or . .
 8. By oral consent in open court, entered in the minutes.
 I § 267. Upon a trial of a question of fact by the court, its de,cision shall be given in writing, and filed with the clerk, within
 { twenty days after the court at which the trial took place. Judgment upon the decision shall be entered accordingly.
-’ § 268. Either party may except to a decision on a matter of
+§ 268. Either party may except to a decision on a matter of
 law arising upon such trial, within ten days after notice of the
 'judgment in the same manner, and with the same efect as upon a
 trial by  And either party desiring a review upon the evidence appearing on trial, either of the questions of fact or of law,
@@ -3420,7 +3420,7 @@ plied, of the parties. But there may be allowed to the prevailing party, upon th
 for his expenses in the action; which allowances are in this act
 termed costs. .
 
-' § 304. Costs shall be allowed of course to the plaintifff upon a
+§ 304. Costs shall be allowed of course to the plaintifff upon a
 recovery, in the following cases: .
 
 1. In an action for the recovery of real property, or when a
@@ -3952,7 +3952,7 @@ him on the trial.
 § 856. The security shall be a written undertaking, executed
 by one or more schient sureties, approved by the county judge,
 or by the court below, to the eh‘ect that if judgment be rendered
-against the appellant, and execution thereon be returned unsatished,-in whole or in part, the’ sureties will pay the amount unsat§ 857. The delivery of the undertaking to the court below,
+against the appellant, and execution thereon be returned unsatished,-in whole or in part, the’ sureties will pay the amount unsa§ 857. The delivery of the undertaking to the court below,
 shall stay the issuing of execution; or if it have been issued, the
 service of a copy of the undertaking, certilied by the court below, upon‘the oihcer holding the execution, shall stay further proceedings thereon.
 
@@ -4221,7 +4221,7 @@ Storm! 388. A party may be required to admit a paper to be genuine, or
 pay expense of proving it. Inspection and copy of books,
 papers and documents, how obtained.
 
-l § 388. Either party may exhibit to the other, or to his attorney,
+§ 388. Either party may exhibit to the other, or to his attorney,
 at any time before the, trial, any paper, material to the action, and
 'request an admission in writing of its genuineness. If the adverse
 party or his attorney fail to give the admission, within four days
@@ -4384,7 +4384,7 @@ Mag Am
 
 Stator 406. Affidavits defectiver entitled, valid.
 
-' § 406. It shall not be necessary to entitle an affidavit intheacs
+§ 406. It shall not be necessary to entitle an affidavit intheacs
 tion; but an aiiidavit made without a title, or with a defective
 title, shall be as valid and effectual, for every purpose, as- if it}
 
@@ -4445,7 +4445,7 @@ by mai . ‘
 in the 'post odice, addressed to the person on whom it 'is to be
 served, at his place of residence, and the postage paid.
 
-‘§ 412. Where the service is by mail, is shall be double the
+§ 412. Where the service is by mail, is shall be double the
 time required in cases of personal service.
 
 § 413. Notice of a motion, or other proceeding, before a court
@@ -4683,7 +4683,7 @@ also in every other case, in which satisfactory security shall be
 given, to indemnify the people of this state, against the costs and
 expenses to be incurred thereby.
 
-.§ 431. Leave to bring the action may be granted, upon the application of the attorney-general; and the court or judge may, at
+§ 431. Leave to bring the action may be granted, upon the application of the attorney-general; and the court or judge may, at
 discretion, direct notice of such application to be given to the corporation or its oiiicers, previous to granting such leave, and may
 hear the corporation in opposition thereto. § 432. An action may be brought by the attorney-general in
 the name of the people of this state, upon his own information, or
@@ -4941,7 +4941,7 @@ Sac-mos. 462. Dehnition of “ real property.”
 § 462. The words “ real property,” as, used inthis act are coextensive with lands, tenements and hereditaments.
 
 § 463. The words “personal property,” as used in this act, include money, goods, chattels, things in action, and, evidences of
-debt§ 464. the .word “ property,” as used inthis set, includes property real and personal.
+deb§ 464. the .word “ property,” as used inthis set, includes property real and personal.
 
 § 465. The word “ district,” as used in this act, sipifies judicial districhexceptwhen otherwise specified.
 
@@ -5122,7 +5122,7 @@ of, it shall only be necessary to serve a notice in writing on the’
 adverse party, and on the clerk with whom the order or decree to
 be re-heard is entered, stating the application for a rezhearing of
 such order or decree, or some specified part thereof. '
-' § 9. Any party aggrieved by an order made at a special term.
+§ 9. Any party aggrieved by an order made at a special term.
 of the supreme court, in an action at. law, or in‘ a special proceed-‘
 ing, when it involves the merits of the action or special proceeding, or some part thereof, may appeal therefrom to the court at a'
 general term ; where, upon such appeal, the order may be reversed,amrmed or modified, according to law. '
@@ -5167,7 +5167,7 @@ January, from the first Monday to the third Saturday thereafter,
 inclusive, until the fourth Saturday in February, eighteen hundred
 and forty-nine, or until the suits and proceedings mentioned in the
 last section, ready for hearing at such courts, shall be sooner determined.
-' § 15. If the judges assigned to hold such general or special
+§ 15. If the judges assigned to hold such general or special
 terms or circuit courts, or any of them be unable, by reason of
 sickness, or judicial engagements elsewhere, to sit until the close
 thereof, the governor shall assign other judges, not actually engaged in holding court, to take their places respectively. ,

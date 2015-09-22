@@ -1236,7 +1236,7 @@ B30. 100. Sherif to furnish certain minute.
 108. Trial of claim of title by third person, to property seized by Sheriff.
 109. Expenses, how paid.
 
-' § 100. A Sheriif to Whom a mandate of any description,
+§ 100. A Sheriif to Whom a mandate of any description,
 is delivered" to be executed, must, Without compensation,
 give to the person delivering the same, if required, a minute in Writing, Signed by the Sheriff, Specifying the names
 of the parties, the general nature of the mandate, and the
@@ -2698,7 +2698,7 @@ Judges of superior court of Buiihlo may make orders.
 
 . Fees of such oilicers; how paid.
 
-e‘§:'*3§§§§§ §§§.§ §§
+e§:'*3§§§ §§ §
 
 § 217. The general jurisdiction in law and equity, which
 the supreme court of the State possesses, under the provisions of the constitution, includes all the jurisdiction which
@@ -2803,7 +2803,7 @@ upon the hearing of a cause upon the calendar thereof, the
 other may select any justice of the supreme court, to sit
 with him upon the hearing of that cause, as if the disqualified justice was absent.
 
-' § 230. A general term may be held by two justices; and
+§ 230. A general term may be held by two justices; and
 the concurrence of two justices is necessary to pronounce a
 decision. If two do not concur, a re-argument must be
 ' ordered.
@@ -4049,7 +4049,7 @@ assigned to a trial term or a special term, must remain in
 attendance, until the day calendar is disposed of, or for such
 other time as is reasonable.
 
-' § 321. Where it appears presumptively, to the satisfaction of the governor, that a justice of the court has
+§ 321. Where it appears presumptively, to the satisfaction of the governor, that a justice of the court has
 been guilty of corruption, or other gross misconduct in
 office; or habitually neglects to perform his share of the
 labors and duties appertaining to the office; or is incapable
@@ -4268,7 +4268,7 @@ service of any paper served by him, has the same force and
 effect, as the like return and certificate of a sheriff.
 
 TITLE V.
--Tlie cmmkq cowts.
+-The cmmkq cowts.
 
 Jurisdiction.
 
@@ -4307,7 +4307,7 @@ Notice of application, etc.; costs to be paid on remission.
 
 861. Btenographer for county courts of Monroe and Livingston counties.
 
-§§§lf§E§§E‘1‘;§§fE§E.§E.§
+§§lf§E§E‘1‘;§fE§E§E§
 
 § 340. The jurisdiction of each county court extends to
 the following actions and special proceedings, in addition
@@ -4483,7 +4483,7 @@ an order remitting the fine, wholly or partly, and discharging him from his impr
 this section must be exercised in the manner prescribed, and
 subject to the provisions contained, in the last three sections.
 
-' § 354. In an action or special proceeding in a county
+§ 354. In an action or special proceeding in a county
 court, an order may be made without notice, or an order to
 stay proceedings may be made upon notice, by a justice of
 the supreme court, or by the county judge of the county
@@ -4690,7 +4690,7 @@ and no others:
 
 2. Where it has been usually cultivated or improved.
 
-' § 373. Where the relation of landlord and tenant has
+§ 373. Where the relation of landlord and tenant has
 existed between any persons, the possession of the tenant
 ' is deemed the possession of the landlord, until the expiration of twenty years after the termination of the tenancy ;
 or, where there has been no written lease, until the expiration of twenty years after the last payment of rent; notwithstanding that the tenant has acquired another title, or
@@ -7513,7 +7513,7 @@ in the action.
 Wholly or partly unsatisfied, the official bond of the sheriff
 may be prosecuted, as in any other case of delinquency.
 
-' § 589. The bail taken upon the arrest, unless they justify,
+§ 589. The bail taken upon the arrest, unless they justify,
 or other bail are given and justify, are liable to the sheriff
 for all damages, which he sustains by reason thereof.
 
@@ -8562,7 +8562,7 @@ owner thereof, or that he is the agent of a person, naming
 him and his residence, whom he believes to be the owner of
 the vessel, share, or interest attached.
 
-' § 667. Notice of the application must be given to the
+§ 667. Notice of the application must be given to the
 plaintifff, as the court or judge deems reasonable.
 
 § 668. Within three days after the valuation is returned,
@@ -10654,7 +10654,7 @@ Admission by member of corporation.
 Seal, presumptive evidence of consideration.
 841. Presumption of death in certain cases.
 
-f§é§§f§§§§
+f§é§f§§
 
 § 828. Except as otherwise specially prescribed in this
 title, a person shall not be excluded or excused from being
@@ -15227,7 +15227,7 @@ are to be drawn; and the aperture must be provided with
 a cover, so arranged as to be conveniently sealed, when
 closed.
 
-' § 1140. The commissioner must seasonably notify the
+§ 1140. The commissioner must seasonably notify the
 justices of the supreme court, residing in the county, the
 judges of the city court of Brooklyn, the county judge, and
 the justices of sessions of the county, to attend, at his office,
@@ -16331,7 +16331,7 @@ after the expiration of four days from the entry of the order,
 and the service, upon the attorney for the adverse party, of
 a copy thereof, and notice of the entry; but not before.
 
-1:’ § 1228. Where the whole issue is an issue of fact, which
+1:§ 1228. Where the whole issue is an issue of fact, which
 was tried by a referee, the report stands as the decision of
 the court. Except where it is otherwise expressly prescribed
 by law, judgment upon such a report, or upon the decision

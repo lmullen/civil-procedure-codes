@@ -79,7 +79,7 @@ plaint ; and when the question is one of a common or general interest
 defend, or continue the prosecution or defense, of any action for the
 enforcement of the rights of such person or persons.
 
-- SEC. 15. Persons severally liable upon the same obligation or instrument, including the parties to bills of exchange and promissory
+SEC. 15. Persons severally liable upon the same obligation or instrument, including the parties to bills of exchange and promissory
 
 4
 
@@ -503,7 +503,7 @@ SEC. 57. If irrelevant or redundant matter be inserted in a plead- ;
 ing, it may be stricken out by the Court on motion of any person ag- 3
 grieved thereby.
 
-' ' SEC. 58. In an action for the recovery of real property, such prop. .
+' SEC. 58. In an action for the recovery of real property, such prop. .
 
 erty shall be described, with its metes and bounds, in the complaint, or 3
 with other equal certainty.
@@ -865,7 +865,7 @@ may retain the’property until tl time. If they or others in their
 placefail to justify at the time and ace appointed, he shall deliver the
 property to the plaintifff.
 
-' SEC. 106. The qualification of sureties and their justification shall
+SEC. 106. The qualification of sureties and their justification shall
 be such as are prescribed by this Act in respect to bail upon an order
 of arrest. ' . ..
 
@@ -1485,7 +1485,7 @@ they have agreed upon their verdict; and he shall not, before the
 verdict is rendered, communicate to any person the state of their
 deliberations, or the verdict agreed upon. »
 
-' SEC. 169. A Upon retiring for deliberation, the jury may take with
+SEC. 169. A Upon retiring for deliberation, the jury may take with
 them all papers (except depositions) which have been received as evidence in the cause, or copies of such papers as ought not, in the
 
 7opinion of the Court, to be taken from the person having them in
@@ -1713,7 +1713,7 @@ ision maybe vacated
 he party aggrieved for
 the substantial rights )
 
-‘ SEC. 194. A new trial is a re-examinati
+SEC. 194. A new trial is a re-examinati
 the same Court after a trial and decision by
 SEC. 195. The former verdict or other
 and a new trial granted on the application
@@ -1829,7 +1829,7 @@ to be reserved for argument or further consideration, or grant a stay of
 proceedings. ‘
 
 SEC. 200. When the case is reserved for argument or further consideration, as mentioned in the last Section, it may be brought by either
-party before the Court for argument.SEC. 201. If a counterclaim, established at the trial, exceed the 1
+party before the Court for argumentSEC, 201. If a counterclaim, established at the trial, exceed the 1
 plaintifff ’s demand, so established, judgment for the defendant shall be t
 given for the excess; or, if it appear that the defendant is entitled to
 any other affirmative relief, judgment shall be given accordingly.
@@ -2572,7 +2572,7 @@ cases. When publication is made the summons as published shall be
 accompanied by a brief description of the property which is the subject
 of the action.
 
-' SEC. 272. The defendants who have been personally served with
+SEC. 272. The defendants who have been personally served with
 the summons, and a certified c0py of the complaint, shall set forth in
 their answers, fully and particularly, the nature and \eXtent of their in-'
 terest in the property, and if such defendants claim a lien upon the
@@ -2737,7 +2737,7 @@ Sélch consent, the Clerk shall enter the same in the minutes of the
 
 ourt. -°
 
-.SEC. 293. If such consent be not given, filed and entered, as proVlded in the last section, at or before a judgment of sale is rendered,
+SEC, 293. If such consent be not given, filed and entered, as proVlded in the last section, at or before a judgment of sale is rendered,
 the Court shall ascertain and determine what proportion of the proceeds
 0f the sale, after deducting expenses, will be a just and reasonable sum
 ‘0 be allowed on account of such estate, and shall order the same to be
@@ -2881,7 +2881,7 @@ go upon the claim to be divided and proceed to make division of the
 same as hereinafter provided, and shall continue from day to day until
 the whole business is completed. .
 
-' SEC. 315. Two or more of the tenants in common, joint tenants,
+SEC. 315. Two or more of the tenants in common, joint tenants,
 c0partners or parceners may unite together for the purposes of such
 division, of which they shall give the referees written notice before
 they commence the business of division ; and all who do not unite as
@@ -3510,7 +3510,7 @@ of the failure of the witness, may issue a warrant to the Sheriff of j
 the county to arrest the witness and bring him before the Court or
 officer where his attendance was required. ‘
 
-.SEC. 398. If the witness be a prisoner, confined in a jail or
+SEC, 398. If the witness be a prisoner, confined in a jail or
 prison within this State for any other cause than a sentence for felony,
 an order for his examination in the prison upon deposition, or for his
 temporary removal and production before a Court or oilicer for the
@@ -3591,7 +3591,7 @@ unless, for a cause shown, a Judge by order prescribe a shorter time.
 When a shorter time is prescribed, a copy of the order shall be served
 with the notice. '.
 
-.SEC. 409. Either party may attend such examination and put such
+SEC, 409. Either party may attend such examination and put such
 questions, direct and cross, as may be proper. The deposition, when
 completed, shall be carefully read to the witness and corrected by him
 in any particular, if desired; it shall then be subscribed by the witness,
@@ -4164,7 +4164,7 @@ by the judgment, be made chargeable only upon the estate, fund, or
 party represented, unless the Court shall direct the same to be paid by
 the plaintifff or defendant, personally, for mismanagement or bad faith
 in the action or defen e. ' '
-. ' SEC. 485. When e decision of a Court of inferior jurisdiction in
+. SEC. 485. When e decision of a Court of inferior jurisdiction in
 aspecial proceeding is rought before a Court of higher jurisdiction for
 a review in any other way than by appeal, the same costs shall be
 allowed as in cases on appeal, and may be collected by execution, or
@@ -4601,7 +4601,7 @@ to understand it, or that it contains no cause of action or defense, although it
 founded, it shall order the pleading to be amended, and if the party refuse to amend, the defective pleading shall be disregarded.
 
 SEC. 537. A variance between the proof on the trial and the allegations in a pleading shall be disregarded as immaterial, unless the
-Court be satisfied that the adverse party has been misled to his prejudice thereby. ' SEC. 538. The pleadings may be amended at any time before the
+Court be satisfied that the adverse party has been misled to his prejudice thereby. SEC. 538. The pleadings may be amended at any time before the
 trial, to supply a deficiency or' omission, when by such amendment
 substantial justice will be promoted. If the amendment be made after
 the issue, and it be made to appear to the satisfaction of the Court, by

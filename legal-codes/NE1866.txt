@@ -3188,7 +3188,7 @@ printed in such county, and if not, in some newspa er
 printed in this territory, of general circulation in t at
 county. The publication must contain all that is required
 in a written notice, and may be proved in the manner
-prescribed in section eighty. ' SEC. 380. The deposition shall be written in the presence
+prescribed in section eighty. SEC. 380. The deposition shall be written in the presence
 of the officer taking the same, either by the officer, the
 vsilitness, or some disinterested person, and subscribed by
 1 e witness.
@@ -5305,7 +5305,7 @@ the jud ment or final order sought to be reversed, to be
 furnished, as they heretofore had under writs of error and
 certiorari.
 
-' SEC. 600. If the judgment of a justice of the peace,
+SEC. 600. If the judgment of a justice of the peace,
 taken on error as herein provided to the district court, be
 affirmed, it shall be the duty of such court to render judgment against the plaintifff in error, for the costs of suit, and
 to award execution therefore; and the court shall thereupon

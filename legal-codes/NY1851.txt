@@ -809,7 +809,7 @@ matter of defense, set forth in his answer, any matta
 showing that such title will come in. question. Such an-'-swer shall be in writing, signed by the defendant or his
 atterney,'and delivered to the justice. The justice shall
 thereupon countersign the same, and deliver it to - the‘
-plaintih‘. ' §66. .z9t‘the time of annoering, the defendant shall 
+plaintih‘. §66. .z9t‘the time of annoering, the defendant shall 
 liberate the justice awritten undertaking, ‘executed-by at least‘
 one stgficient surety, and approved by the justice to the efect
 that if the pzaenzafshazz, within thirty days thereafter, ac.‘
@@ -1111,7 +1111,7 @@ known as the plaintifff, and the adverse party as the
 
 - defendant.
 
-,§ .71. N 0 action shall be brought upon a judgment ren-I
+§ .71. N 0 action shall be brought upon a judgment ren-I
 dered in any court of this state, except a court of a justice‘
 of the peace, between the same parties, without leave of
 the court for good cause shown, on notice to the adverse
@@ -1200,7 +1200,7 @@ Certain ' bilities excluded from time to commence actions.
 no
 2"‘
 
-§3§§9§3‘-’$§3§3
+§3§9§3‘-’$§3§3
 
 {} 75. The people of this state will not sue any person
 ‘for, or in respect to any real property, or the issues or
@@ -2236,7 +2236,7 @@ court may in all cases order a bill of particulars of the claiu_
 
 of either party to be furnished.
 
-' § 159. In the construction of a pleading, for the purpose of determining its effect, its allegations shall be liberally construed, with a view of substantial justice between
+§ 159. In the construction of a pleading, for the purpose of determining its effect, its allegations shall be liberally construed, with a view of substantial justice between
 the parties,
 
 § 160. If irrelevant or redundant matter be inserted -in.
@@ -2748,7 +2748,7 @@ sion of personal property, may, at the time of issuing thei
 summons, or at any time before answer, claim the immedi-j
 ate delivery of such property as provided in this chapter.
 
-{3 207. Where a delivery is claimed, an affidavit mustbe.
+§ 207. Where a delivery is claimed, an affidavit mustbe.
 made by the plaintifff, or by some one in his behalf, show-:
 1331
 
@@ -3007,7 +3007,7 @@ the grounds thereoi, and that the defendant is either a
 foreign corporation, or not a resident of this state, or has
 departed therefrom with intent to defraud his creditors or
 
-§t"3§ § § :‘-°:.§ 5?»? §:§§§
+§t"3§ § § :‘-°§ 5?»? §§
 
 to avoid the service of a summons, or keeps himself concealed therein with the like intent.
 
@@ -3738,7 +3738,7 @@ To be returnable in sixty days.
 
 wise provided.
 
-'°:§:§§§5§:§
+'°§§5§
 
 {} 283. Writs of execution for the enforcement of judgments as now used, are modiiied in conformity to this title,
 and the party in whose favor judgment has been heretofore or shall hereafter be given, may at any time within
@@ -5743,7 +5743,7 @@ Action for the partition of real property.
 800110: 448. Prpfisions of Rcvbed Statutes, applicable to actions in partion.
 
 (}448. The provisions of the Revised Statutes relating:
-to the partition of lands, tenements and hereditaments,§
+to the partition of lands, tenements and hereditaments§
 held or possessed by joint tenants or tenants in common}
 shall apply to actions for such partition brought under‘
 this act, so far as the same can be so applied to the substance and subject matter of ‘the action, without regard to

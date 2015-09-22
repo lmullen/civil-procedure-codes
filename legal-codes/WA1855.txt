@@ -935,7 +935,7 @@ may empower any person of suitable age and discretion to do ‘so.
 SEC. 86. In case .-of failure to comply with the condition of the bond,
 the bail can be proceeded against by action only.
 
-- SEC. 87. The bail may be exonerated either by the death of the defendant, or hisimprisonment in a penitentiary, or by his legal discharge, from
+SEC. 87. The bail may be exonerated either by the death of the defendant, or hisimprisonment in a penitentiary, or by his legal discharge, from
 the obligation t_o render himself amenable to the process, or by his surren-_
 
 der to the sheriff of the county where he was arrested, in execution thereof,‘
@@ -1427,7 +1427,7 @@ Sec. 152. From the day of the service of the summons, as provided in
 
 section 151, the garnishee shall be accountable to the plaintifff in the action, for the amount of money, property, or credits in his hands, or due
 and owing from him to the defendant.
-' SEC. 153. It shall be the duty of any oiiicer or agent of an associatiom
+SEC. 153. It shall be the duty of any oiiicer or agent of an associatiom
 or corporation, and of every other person summoned as a gamishee, when»
 served, or within fifteen days afterwards, to furnish the sheriff‘ with a cer-tilicate of the number of shares, or rights of the defendants in the stock of‘.
 such corporation or association, or a decription of the property held by
@@ -3768,7 +3768,7 @@ P0ssession ; if there is no such tenant then against the person claiming the
 
 title or some interest therein. _
 
-‘ SEC. 399. Whenever it appears that the defendant is only a tenant,
+SEC. 399. Whenever it appears that the defendant is only a tenant,
 
 the landlord may be substituted, reasonable notice thereof being given.
 SEC. 400. In an action by a tenant in common or joint tenant of real
@@ -3947,7 +3947,7 @@ and filed.
 424. Proceedings may be had before justice of the peace.
 425. Proceedings may be had in county where defendant is.
 
-' SEC. 418. Actions may be commenced upon any agreement in writing before the time for the performance of the contract expires, When the
+SEC. 418. Actions may be commenced upon any agreement in writing before the time for the performance of the contract expires, When the
 plaintifff or his agent shall make and file an aliidavit with the clerk of the
 proper court, that the defendant is about to leave the territory Without
 performing or making provisions for the performance of the contract,
@@ -4184,7 +4184,7 @@ in any of the foregoing specifications. ’
 
 Third. Upon a warrant issued from the district court upon an indictz’
 ment or information. ‘
-‘ SEC. 446. N 0 person shall be discharged from an order of commitment
+SEC. 446. N 0 person shall be discharged from an order of commitment
 issued by any judicial or peace officer, for want of bail, or in cases not
 bailable on account of any defect in the charge or process, or‘ for alleged
 
@@ -4724,7 +4724,7 @@ county be attached to any other county for judicial purposes, or not. But
 every justice of the peace shall continue to reside in the precinct for which
 he was elected, or appointed, during his continuance in oifice.
 
-' SEC. 10. Whell aprecinct shall be divided, and any justice of the peace
+SEC. 10. Whell aprecinct shall be divided, and any justice of the peace
 of the original precinct shall fall into the new one, he shall continue to discharge the duties of justice of the peace, until his term of office expires,’
 and his successor is elected and qualified.
 
@@ -5322,7 +5322,7 @@ Sec. 70. Either party may demand a jury.
 unless, &c.
 79. Penalty for not appearing when summoned as juror.
 
-‘ SEC. 70. Before the justice shall commence an investigation of the merits of the cause, by an examination of the witnesses, or the hearing of any ‘
+SEC. 70. Before the justice shall commence an investigation of the merits of the cause, by an examination of the witnesses, or the hearing of any ‘
 
 other testimony, either of the parties may demand of the justice that the
 cause be tried by a jury. A
@@ -5483,7 +5483,7 @@ Dated the ——- day of 18-.
 
  
 
-' SEC. 89. If at the expiration of such stay the judgment be not paid,
+SEC. 89. If at the expiration of such stay the judgment be not paid,
 the execution shall. issue against both the principal and bail. If the principal do not satisfy the execution, and~the oiiicer cannot find sufficient property belonging to him upon which to levy, he shall levy upon the property
 of the bail, and in his return shall state What amount of money, collected
 by him on the execution, was collected from the bail, and the time when
@@ -6231,7 +6231,7 @@ of the bond being defective, if the appellant will, before the motion is determi
 have executed by the allowance of the appeal, and pay all costs that shall
 be incurred by reason of such defect.
 
-‘ SEC. 17 O. In all cases of appeal t9 the district court, if on the trial
+SEC. 17 O. In all cases of appeal t9 the district court, if on the trial
 anew in such court the judgment be against the appellant, in whole or in.
 part, such judgment shall be rendered against him, and his sureties in the
 bond for the appeal.

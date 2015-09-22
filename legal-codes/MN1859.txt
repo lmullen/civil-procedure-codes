@@ -1310,7 +1310,7 @@ is mentioned in the last section, all the proceeds of sales, and money collected
 be delivered by him to the defendant or his agent on request; the warrant
 of attachment must be discharged and the property released therefrom.
 
-(159.)- SEC. CLI. Whenever the defendant shall have appeared
+(159.)SEC. CLI. Whenever the defendant shall have appeared
 in the action, he may apply to the judge, or to the court, for an
 order to discharge the same, upon the execution of the undertaking mentioned in the next section, and if the application be granted, all the proceeds of sales and monies collected by the sheriff, and all the property
 attached remaining in his hands, must be released from the attachment,
@@ -2184,7 +2184,7 @@ levy, unless the judgment creditor give him a sufficient indemnity for proceedin
 verdict be against him, otherwise by the plaintifff‘. The following property
 is exempt from execution, except as herein otherwise specially provided.
 
-- SEC. XCIII TO XCIX, INCLUSIVE. (a)
+SEC. XCIII TO XCIX, INCLUSIVE. (a)
 
 (90.) SEC. C. The following named property shall be exempt from
 
@@ -7766,7 +7766,7 @@ person can be admitted to practice as an attorney and counsellor, except
 on application to the supreme or any district court in form, and when so
 admitted, may practice in any of the courts of this territory.
 
-(7.) .SEC. VII. It is the duty of an attorney and counsellor:
+(7.) SEC, VII. It is the duty of an attorney and counsellor:
 
 1. To support the constitution and laws of the United States, and of
 this territory;

@@ -41,7 +41,7 @@ have a cause of action against several persons. including parties to bills of
 exchange and promissory notes, and who shall be entitled by law to one
 satisfaction therefore, may brin suit thereon, jointly, against all, or as
 many of the persons liable, as e may think roper; and he may, at his
-option, join any executor or administrator, or 01: er person liable in a representative character, with others, originally liable. (G. S. 651.§ 6, amended.
+option, join any executor or administrator, or 01: er person liable in a representative character, with others, originally liable. (G. S. 651§ 6, amended.
 
 SEC. 3468. Suits by and against married women.—When a marrie
 woman is a party, her husband must be joined with her in all actions, except those in which the husband is the sole plaintifff and the wife‘ the sole
@@ -146,7 +146,7 @@ are non-residents of the state, suit may be brought in any county‘ fifth,
 any action, local or transitory, in which an county shall be plaintifff, ma
 be commenced and prosecuted to final ju «rment in the county in which
 the defendant or defendants reside, or in the county suing and Where the
-defendants, or one of them, may be found. (G. S. pp. 225 and 653, §§ 4 and
+defendants, or one of them, may be found. (G. S. pp. 225 and 653, § 4 and
 1, amended——a.)
 
 SEC. 3482. B3/.attac/zment, wlzere.—Suits commenced by attachment
@@ -179,9 +179,9 @@ next term thereafter; but if the first day of such term be within fifteen
 days thereafter, then such writ shall be made returnable on the first day of
 the second term, and such writ, when issued, shall, together with the copy
 of the petition, be delivered to the ofliccr charged with the execution
-thereof. (G. S. 654, §§ 3 and 4, amended.)
+thereof. (G. S. 654, § 3 and 4, amended.)
 
-' SEC. 3487. When defendant 8/tall ap§ear.—Every. defendant, served
+SEC. 3487. When defendant 8/tall ap§ear.—Every. defendant, served
 with the summons, fifteen days before t e return day thereof, shall be
 bound to ap ear at the return term of the writ; and if such summons be
 served less t an fifteen days, he shall be bound to appear at the term next
@@ -358,7 +358,7 @@ a copy at the usual place of abode of the party, or his attorney, with some
 
 person over the age of fifteen years, or with the clerk of the party, or his
 
-attorney. (G. S. 656, §§ 22 and 23.)
+attorney. (G. S. 656, § 22 and 23.)
 
 SEO. 3506. How served on non-res2'dents.—If neither the adverse party
 nor his attorney reside in this state, such notice may be put up in the office
@@ -568,9 +568,9 @@ is filed, the cause shall be deemed at issue. (G. S. 659, § 17.)
 SEC. 3527. Allegations in pleading.——No allegation shall be made in
 a pleading which the law does not re uire to be proved, and only the sub
 stantive facts necessary to constitute t e cause of action or defense shall be
-stated. (G. S. 660 § 18—k.) _ .SEC. 3528. W/tat pleadings may be strie/cen.out.—A frivolous demurrer,
+stated. (G. S. 660 § 18—k.) _ SEC, 3528. W/tat pleadings may be strie/cen.out.—A frivolous demurrer,
 answer or reply, may be stricken out, on motion of the adverse party. (G.
-S. 660,§ 19.)
+S. 660§ 19.)
 
 SEC. 3529. Irrelevant matter.—If irrelevant or redundant matter be
 inserted in a leading, it may be stricken out, on motion of the adverse
@@ -768,7 +768,7 @@ time to time as occasion may require, and all orders made under the rovisions of
 delivering a duly exemplified copy thereof to such non-resident at any
 place wit in or without this state, by any person above the age of twentyone years, not incompetent to testify as a witness in the cause, and being
 proved by the affidavit or de osition of such person, such service shall be
-as eifectual as if made by a uly authorized officer i11 this state upon a resident thereof. (G. S. '662,§ 53, amended—a.)
+as eifectual as if made by a uly authorized officer i11 this state upon a resident thereof. (G. S. '662§ 53, amended—a.)
 
 SEC. 3563. Proceedings on appearance of defendant.—If the defendant shall appear and disclaim all r1 ht .and title adverse to the petitioner,
 he shall recover his costs; if he sha 1 claim title, he shall, b answer, show
@@ -1024,7 +1024,7 @@ property, must be tried by a jury, unless a jury tria be waived, or a reference 
 SEC. 3601. 0t/zer issues to be tried by court.—Every other issue must
 be tried by the court, which, however, may take the opinion of a jury upon
 any specific question of fact involved therein, by an issue made up therein
-for that purpose, or may refer it, as hereinafter provided. (G. S. 67-1,§ 13—f'.)
+for that purpose, or may refer it, as hereinafter provided. (G. S. 67-1§ 13—f'.)
 
 S130. 3602. Jar trial, when deemed waz'ved.—Parties to an issue of
 fact shall be deeme to have waived a trial by jury in the following cases :
@@ -1113,7 +1113,7 @@ SEC. 3616. Court may compel referees to report.——The.referees may be
 report their decision, in admitting or rejecting any witness, or the depositions of any witness or other testimony, in allowing or overruling any question to any witness, or answer thereto; and all proceedings by them, to"ether with the testimony before them, and their reasons for allowing or
 ‘ 'sallowing any claim of either party. (G. S. 77 , § 35.)
 
-SEC. 3617. Jllay compel pairties to testify, etc.—Tliey shall have power,
+SEC. 3617. Jllay compel pairties to testify, etc.—They shall have power,
 as courts of record have, to examine the parties on oath, to be administered
 by the referees, or either of them, and to require the production of all
 books, papers and documents in the custody, or under the control of either
@@ -1140,7 +1140,7 @@ shall state the particulars of the exceptions in their report. (G. S. 774,
 
  39.)
 
-SEC. 3621. Re art of ref'erees.—Tlie referees shall, in all cases, report
+SEC. 3621. Re art of ref'erees.—The referees shall, in all cases, report
 
 as spceclily as possi le, reciting the order of the court, and showing the notice to the parties, the time and place of stating the account or taking the
 testimony, and all other proceedings had, an‘ return the same, together
@@ -1156,7 +1156,7 @@ SEC. 3623. Proceedi 3 on report.—If exceptions are allowed, the mat'ter may ag
 . witnesses, in any cause, may af
 
 is confirmed by the court, judgment shall be rendered thereon, in the same
-manner and with like effect as upon a. special verdict. (G. S. 77 5,§ ~12—m.)
+manner and with like effect as upon a. special verdict. (G. S. 77 5§ ~12—m.)
 
 Sac.  Service of notices, Iiow and by whom made.—All notices required to be given by the referees or others, in the progress of a cause, shall
 be served by reading the same, or delivering a copy to the , erson to be notified, and may be served by the sheriff or other officer aut iorized to serve
@@ -1191,7 +1191,7 @@ the progress of any cause, it shall, in the opinion of the court, become necessa
 court may direct an issue or issues to be made. (G. S. 674, § 22.)
 
 SEC. 3631. Court to direct issue.——No issue shall be made, except such
-as shall be directed by the court. (Gr. S. 675,§ 23.)
+as shall be directed by the court. (Gr. S. 675§ 23.)
 
 SEC. 3632. Issues to be tried by/jury/.—’l‘he trial of such issues shall be
 by jury, and the issues shall be disposed of by a general or special verdict
@@ -1338,7 +1338,7 @@ law arising in the cause, which shall be in writing and shall be given or refuse
 instructions as shall be given by the court shall be carried by the jury to
 
 their room for their guidance to a correct verdict according to the law and
-evidence. (Laws 1877, p. 360,§ 1—w.)
+evidence. (Laws 1877, p. 360§ 1—w.)
 
 SEC. 3656. Suits when consol-idated.—Whenever several suits, founded
 alone upon li uidated demands, shall be pending in the same court, by the
@@ -1436,7 +1436,7 @@ and with like effect, to all intents and purposes, as is required in cases of
 summoning or notifying ori inal defendants. The court may also make an
 order of publication as to a 1 such persons to be made parties as are nonresidents, or whose names are unknown, in the same manner as in case of
 original defendants, which order shall be published in like manner as in
-original cases. (G. S. 679, § 4.) ' SEC. 3667. Pleadings on appearance of representative.——In all cases
+original cases. (G. S. 679, § 4.) SEC. 3667. Pleadings on appearance of representative.——In all cases
 where a representative or successor is made a party to an action as herein
 
 rovided, the pleadings of the party whom he represents or succeeds shall
@@ -1548,7 +1548,7 @@ service of such notice, shall make an order that the judgment stand absolute. (G
 SEC. 3686. Judgment absolute after three 3/ear.s.—If such petition for
 review be not filed within three years after such final judgment is rendered,
 the same shall stand absolute, whether notice thereof be given or not.
-(G. S. 681,§15.) . . . _
+(G. S. 681§15.) . . . _
 
 SEC. 3684. Petttaon to set aszde must show, w/a.at.—No such judgment.
 shall be set aside unless the petition for review shall state the existence of
@@ -1588,7 +1588,7 @@ shall be in the hands of innocent purchasers. (G. S. 682, 20.)
 SEC. 3692. Speciac performance of ju(Igments.—In all cases where
 judgment is given for the conveyance of real estate, or the delivery of personal property, the court may, by such judgment pass the title of such
 property Without any act to be done on the part of the defendant. (G. S.
-683,§ 27.)
+683§ 27.)
 
 SEC. 3693. Writs of ossession.—The court may issue a writ of possession, if necessary, to the sheriff of the proper county, to put the party entitled into possession of such real or personal property, or may proceed by
 attachment or se uestration. (G. S. 683, § 28.)
@@ -1644,7 +1644,7 @@ by affidavit, that the controversy is real and the proceedings in good faith,
 to determine the rights of the parties; the court shall thereupon hear and
 determine the case, and render judgment thereon, as if an action were depending. (G. S. 682, § 25.)
 
-SEO. 3701. Judgment, how enf'orced.——Tlie judgment may be enforced
+SEO. 3701. Judgment, how enf'orced.——The judgment may be enforced
 in the same manner as if it had been rendered in an action, unless otherwise provided in the submission ; and, in like ma.nner, shall be with costs,
 
 and subject to an appeal or writ of error, unless otherwise provided in the
@@ -1849,7 +1849,7 @@ SEC. 3728. Per/brmance of’ j1m'_qmen.t, /cow enforced.-—When a judgment. req
 a certified copy of the jud ment may be served upon the party against
 whom it is given, and his 0 edience thereto required. If he neglect or refuse, he may be punished by the court. as for a contempt, by fine or im risonment, or both, and, if necessary, by sequestration of property. ( .S.
 
-686,§ 27. )
+686§ 27. )
 
 SEC. 3729. In wlzat cases a c/range of 'venue may be awarded.—A
 change of venue may be awarded in any civil suit to any-court of record,
@@ -1937,11 +1937,11 @@ loss had happened: provided, however, that the court or the judge grantin any ch
 or er therefore, by consent of parties, at any time before such transcript and
 papers shall be actually filed in such other court. (G. S. 634, § 12, am’d.)
 
-SEC. 3741. Jam’-3(I2'cta'0n of court in cases removed.—Tlie court to which
+SEC. 3741. Jam’-3(I2'cta'0n of court in cases removed.—The court to which
 any cause shall be transferred, by change of venue, shall have 'urisdiction
 to hear and determine the same, and shall proceed to iinal ju gment and
 -execution therein, although such cause would not otherwise be cognizable
-in such court. (G. S. 635,§ 16, amended-/z.)
+in such court. (G. S. 635§ 16, amended-/z.)
 
 SEC. 3742. This article made ap licable to the city of St. Louis.—The
 Word “ county,” as used in this artic e, shall be construed to embrace the
@@ -2097,7 +2097,7 @@ with the costs and damages that may be recovered in the supreme court,
 conditioned that the laintiff in error will rosecute such Writ with effect, .
 
 and pay the money t at shall therein be a judged against him by the supreme court, or otherwise abide the judgment of such court therein.
-(Laws 1871, p. 47.§15—d.)
+(Laws 1871, p. 47§15—d.)
 
 SEC. 3758. , Order to stay, to be endorsed on writ.—The court or officer
 allowing a writ of error to stay the execution shall cause an order to that
@@ -2243,7 +2243,7 @@ glaze. 3781. Opinions to be in writing.— n each case determined by
 the supreme court, or finally disposed of upon a motion, the o inion of the
 court shall be reduced to writing and filed in the cause and sha show which
 of the judges delivered the same, and which concur therein or dissent
-therefrom; (Laws 1871, p. 50, §§ 39 and 40, amended.)
+therefrom; (Laws 1871, p. 50, § 39 and 40, amended.)
 
 SEC. 3782. Statement to accom any opinion.—The opinion shall always
 contain a sufficient statement of tie case, so that it may be understood
@@ -2434,7 +2434,7 @@ county, city or town. (G. S. 602, § 4, amended.)
 SEC. 3871. W/zen allowed in suits aga2.'nstjo2'nt obligors.--In all actions
 brou ht against one or more joint obhgors or promissors, any debt or deman due from the plaintifff to the defendant in the action, or to all the
 obligors or promissors in the contract sued upon, may be set off against the
-demand of the plaintifff. (G. S. 602,§ 5.)
+demand of the plaintifff. (G. S. 602§ 5.)
 
 SEC. 3872. Costs how awarded.—When a setofl’ pleaded shall be an
 indebtedness of the plaintifff assigned to the defendant, other than negotiable promisso notes and bills of exchange, and shall equal or exceed the
@@ -2564,14 +2564,14 @@ suit or proceedings now or hereafter pending, tie testimony of such person
 shall not be used as evidence to prove any fact in any suit or prosecution
 
 against such person for any penalty for violation of any law in relation to
-fraudulent conve ance of property. (G. S. 587 ,§ 6.)
+fraudulent conve ance of property. (G. S. 587 § 6.)
 
 SEC. 4016. enalty, where party refuses to testifg/.—If a party, on being duly summoned, refuse to attend and testify, either in co,urt or before
 any person authorized to take his deposition, besides bein punished himself as for a contempt, his petition, answer or reply may e rejected, or a
 motion, if made by imself, overruled, or, if made by the adverse party,
 sustained. (G. S. 587, § 7—d.)
 
-‘ SEC. 4017. Persons incompetent to testiffz/.—The following persons shall
+SEC. 4017. Persons incompetent to testiffz/.—The following persons shall
 be incompetent to testify: First, a person of unsound mind at the time of
 his production for examination; second, a child under ten years of age,
 who appears incapable of receiving just impressions of the facts respecting which they are examined, or of relating t em truly; third, an attorney.
@@ -2684,7 +2684,7 @@ party to a Slllt or proceeding pending before a justice of the peace, or any
 officer authorized to examine witnesses, to bring any person confined in
 the jail of the same county, or the county next adjoining that where the
 suit or proceeding is to be heard or had, before such justice or officer, to be
-examined as a witness. (G. S. 589,§ 23.)
+examined as a witness. (G. S. 589§ 23.)
 
 SEO. 4033. Further proceedin s to obtain ev-idence.—An a plication
 for such Writ shall be verified by a davit, and shall state the tit e and nature of the proceeding in which the°testimon of the prisoner is desired,
@@ -2709,7 +2709,7 @@ shall have the same power to compel the attendance of witnesses, in the
 taking of depositions, and the roof of deeds, and in all other cases Where
 it may be necessary in the disc arge of the duties of their office, as is now
 
-'ven, b law, to any court of record in this state, in compelling the attenance o witnesses before such court. (G. S. 589,’ § 27-—j.)
+'ven, b law, to any court of record in this state, in compelling the attenance o witnesses before such court. (G. S. 589,§ 27-—j.)
 
 Sac. 4038. Writs issued by authorized ofieer to run, lzow.—All writs
 and process issued by any judge or justice of the peace or other officer authorized to issue the same, shall run in the name of the state of Missouri and be subscribed by the officer issuing the same. (G. S. 560, § 2.)

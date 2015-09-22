@@ -825,7 +825,7 @@ write his exception, and pray the court to allow and sign the same, the person o
 persons composing the court, or the major part of them, shall (if such bill be true,)
 sign the same; and if they refuse to sign such bill on account that it is untrue, they
 shall certify thereon, under their hands, the cause of such refusal.
-' § 21. If thejudges refuse to sign any bill of exceptions, such bill may be signed
+§ 21. If thejudges refuse to sign any bill of exceptions, such bill may be signed
 by three by-standers, who are respectable inhabitants of the state, and the court
 shall permit every such bill (if the same be true) to be filed in the court, and every
 bill signed by the judges, or by the by-standers, and filed in the court; shall form a
@@ -1030,7 +1030,7 @@ of form, contained in the record, pleadings, process, entries, returns, or other
 of the judgment, [and] shall not be reversed or annulled; and any variance in the
 record‘frorn any process, pleading or proceeding, had in such cause, shall be reformed and amended according to such original process, pleading or proceeding.
 
-' § 5. All returns made by any sheriff or other officer, or by any court or subordinate tribunal to any court, may be amended in matter of form by the court to
+§ 5. All returns made by any sheriff or other officer, or by any court or subordinate tribunal to any court, may be amended in matter of form by the court to
 which such returns shall be made, in their discretion, as well before as after judgment.
 
 § 6. Any imperfection or defect in the award of any venire, or any omission to
@@ -1297,7 +1297,7 @@ the allegations and prayer of thebill, and requiring them to appear on a day tob
 therein named, allowing sufficient time for publication, and answer the bill, or that
 the bill will be taken as confessed. A s
 
-' § 8. If in such case, part of“ the defendants are residents of ‘the state, process
+§ 8. If in such case, part of“ the defendants are residents of ‘the state, process
 shall be issued against them as in other cases. ' '
 
 -§ 9. When a summons shall be issued against any defendant, and the sheriff to
@@ -1443,7 +1443,7 @@ overruled, the complainant, if allowed, the defendant, shall pay the costs.
 further answer, within such time as the court shall direct, and in default thereof the
 bill shall be taken as confessed.
 
-' § 12. If such answer be filed and adjudged insufficient, the defendant shall pay
+§ 12. If such answer be filed and adjudged insufficient, the defendant shall pay
 double costs, and answer fully instanter, or, in default thereof, the bill shall be taken
 as confessed. T '
 
@@ -1821,7 +1821,7 @@ such service, bring his bill of review, the court, on proof of the service of su
 notice. shall make an order that the decree stand absolute.
 
 § 3. If such bill of review be not filed within five years after such final decree
-is rendered, the same shall stand a‘l)solute, whether notice thereof be given or not§ 4. No such decree shall be setasidc, unless the bill of review either show,that
+is rendered, the same shall stand a‘l)solute, whether notice thereof be given or no§ 4. No such decree shall be setasidc, unless the bill of review either show,that
 there is no equity in the original bill, or contain such denials or allegations as
 am011ntt0 8 defense 10 the merits, and then only on condition that the defendant
 answer the bill Within :1 1“€«'lSOfli1isle time, to he ordered by the court.
@@ -1946,7 +1946,7 @@ Penalty on clerk for failing to make return of writ.
 
 36. Foregoing provisions to extend to appeals from decrees and decisions in chancery.
 
-Be it enacted by the general assembly of the state of Jlfissouri, as follows‘:§ 1. Writs of error upon any final judgment or decision of any circuit court, in
+Be it enacted by the general assembly of the state of Jlfissouri, as follows‘§ 1. Writs of error upon any final judgment or decision of any circuit court, in
 all cases are writs of right, and shall issue of course out of the supreme court in
 vacation,as well as in term, subject to the regulations prescribed by law.
 

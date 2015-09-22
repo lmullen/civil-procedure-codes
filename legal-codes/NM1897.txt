@@ -1706,7 +1706,7 @@ nature of the case may demand.
 property or the security of the proceeds shall require it, appoint a special receiver to take possession of the same, after
 giving such bond and security as the judge shall approve.
 
-' § 2719. All such proceeds of sale of property shall be delivered to such person as the judge or court shall determine
+§ 2719. All such proceeds of sale of property shall be delivered to such person as the judge or court shall determine
 entitled to the same upon the final disposition of the suit.
 
 § 2720. The judge or court may allow to the receiver or
@@ -2446,7 +2446,7 @@ witness in any action or proceeding, civil or criminal, pending in such court, w
 and examination of the witness necessary for the attainment
 of justice. _
 
-‘§ 2817. The sheriff or person who shall be required to
+§ 2817. The sheriff or person who shall be required to
 bring up a person on Imlmm ('m‘]m.s', if the person be held by
 virtue of any legal process directed to such person as an officer, shall be entitled to the same fees and allowances as are
 allowed to sheriffs for removing prisoners in other cases.
@@ -5070,7 +5070,7 @@ disinterested appraiser, and with his assistance shall complete the valuation, a
 § 3122. In case any appraiser shall fail to act or to complete such valuation, another shall be chosen in his stead as
 above provided.
 
-.§ 3123. The sheriff shall furnish the appraiserswith a
+§ 3123. The sheriff shall furnish the appraiserswith a
 schedule of the property levied on with the encumbrances
 made known to him, and they shall proceed to tix, and set
 down opposite to each tract, lot or parcel of real estate, the
@@ -5680,7 +5680,7 @@ have been so won by said winner from the party losing.
 this act, shall be commenced within one year from the time
 such action accrued, and not afterwards.
 
-‘§ 3212. All persons who shall claim money or property
+§ 3212. All persons who shall claim money or property
 lost at gaming, or when said money or property may be
 claimed by his wife, child, relation, or friend, said person,
 although he may have gambled, is hereby exempted from the
@@ -6601,7 +6601,7 @@ his agent, or attorney, issue a summons against the garnishee,
 commanding him to appear before the justice to show cause
 why a judgment should not be rendered against him.
 
-' § 3301. Upon the return of the writ of attachment, if the
+§ 3301. Upon the return of the writ of attachment, if the
 plaintifff shall make sufficient proof of the debt due by the defendant, and also of the goods and chattels, rights, monies,
 credits and effects in the hands of the garnishee, the said justice shall at the time provided by this act, give judgment
 thereon for said plaintifff, and award execution thereon either
@@ -7439,7 +7439,7 @@ lH~ v—, to answer unto the said A. B. for the unlawful detention of the goods 
 Justice of the--Peace.
 EXECUTION.
 
-Tlu’ 'I'(’I'I‘ifu)‘§/ Qf .\'('H‘ .l[¢'.I‘i('n, '['n I/H‘ .8‘/H‘rI:[i'(tu' ('nII.\'lII/)/r) (if
+Tlu’ 'I'(’I'I‘ifu)§/ Qf .\'('H‘ .l[¢'.I‘i('n, '['n I/H‘ .8‘/H‘rI:[i'(tu' ('nII.\'lII/)/r) (if
 mnmfg/, ( Q‘ rvof i n._(/ :
 WH1~:m;As, --— on the
 

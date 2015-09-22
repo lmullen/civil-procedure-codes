@@ -1776,7 +1776,7 @@ the person at whose request, and the cause or suit for which it
 was taken, and stating also whether the adverse party attended,
 and if not, stating the notice, if any, that was given to him.
 
-.§1386. The deposition shall be delivered by the officer taking the same to the Court, arbitrators or referees before whom
+§1386. The deposition shall be delivered by the officer taking the same to the Court, arbitrators or referees before whom
 the cause is pending, or shall be enclosed and sealed and directed to them, and shall remain sealed until opened by the
 direction of any Justice of the said Court, arbitrators or referees.
 
@@ -2007,7 +2007,7 @@ authentic-ated by the attestation of the clerk of such Court with
 the seal of such Court annexed. or of the Judge at Chambers
 before whom the proceedings were bad. with the seal aforesaid
 
-,§‘1410. A tl“JI1Sc1_'ipt from the docket of any Circuit J udg-e
+§‘1410. A tl“JI1Sc1_'ipt from the docket of any Circuit J udg-e
 at ( 'han1l-ers. or of any District Magistrate. of any judgment
 had before him. of the execution issued thereon. if any, and nf
 the return to such execution. if any. when subscribed by said
@@ -2180,7 +2180,7 @@ the commissioners of the board to quiet land titles, or masters
 in chancery, provided such signature shall be attached or appended to any decree, order, certificate, affidavit or other judicial
 or official document.
 
-‘§1425. It shall not be necessary to prove by the attesting wit‘ness any instrument to the validity of which attestation is not
+§1425. It shall not be necessary to prove by the attesting wit‘ness any instrument to the validity of which attestation is not
 requisite; and such instrument may be proved by admission or
 otherwise as if there had been no attesting witness thereto.
 
@@ -2692,7 +2692,7 @@ thereof by the real owner.
 own private accountability, for all excesses of his official powers,
 and for any departure from the legal import of the Writ or mandate in his hands.
 
-.§147 7. If, upon an execution being issued by a Circuit
+§147 7. If, upon an execution being issued by a Circuit
 Judge at Chambers, or by a District Magistrate, no property.
 or not a sufficient amount of property, belonging to the defendant in execution, can be found within the jurisdiction of the
 Judge or Magistrate issuing the execution, and the same is returned unsatisfied, either wholly or in part, the plaintiE in execution may, upon procuring a certified copy of the judgment

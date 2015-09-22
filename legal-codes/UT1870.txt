@@ -130,7 +130,7 @@ other cases of default, or may make such 7 other order as the
 condition of the action and justice shall require. ‘ '
 
 TITLE II. .
-0f thc'Place of Trial of Civil Actions.SEC. 18. Actions for the following causes shallbe tried
+0f thc'Place of Trial of Civil ActionsSEC, 18. Actions for the following causes shallbe tried
 in the County in which the subject of the action, or some part
 thereof, is situated, subject to the power of the Court to change
 the place of trial, as provided in this Act: First—for the
@@ -314,7 +314,7 @@ service is to be made, or that he is a necessary or pr0per party
 to the action, such Court or Judge may grant an order that the
 service be made by the publication of the summons.
 
-' SEC. 31. The order shall direct the publication to be
+SEC. 31. The order shall direct the publication to be
 made in a newspaper to be desi nated as most likelyto give
 notice to the personszto be served. If any defendant is a nonresident of the Territory, but has an agent therein, service may
 
@@ -346,7 +346,7 @@ of all and the separate pmpertyr, oil the deliendant serve ; or,
 Second—If the action be againSt'; defendants severally liable,
 he may proceed against the detendants served in the same
 manner as if they were the onlyEdefenldauts.‘ ' ‘
-' SEC. 33. . Proof of the servicerofathe-summons shall be as
+SEC. 33. . Proof of the servicerofathe-summons shall be as
 follows: First—If served by the idbm'itorial. Marshal, or the
 . Sheriff of the County, the affidawitioriceltiticateof such officer; :
 or, Second———In case of ‘ publication, the. adiidavit‘ of the pub-'
@@ -357,7 +357,7 @@ written admission of the defendant-1'  '~ 7; .' “ .
 SEC. 34. In case of service otherwise than by publication,
 the .certificate or affidavit shall.7stateo the.) time and place of
 servme. ' ‘ r’:0,f1..3- 5'; i . v
-7 - SEC. 35. From the time blithe'service of the summons in
+7 SEC. 35. From the time blithe'service of the summons in
 a civil action, the Court. shall: be: deemed .to have acquired
 jurisdiction, and to have controlsfofvalltthe subsequent ro~ oeedilzss. A voluntary appearance {of a' defendant ‘ shal be
 equiv ent to personal service of :thel’summons upOn him.
@@ -443,7 +443,7 @@ complaint be not verified, then a general denial to each of such
 allegations; but a general denial shall only put in. issue the
 material and eXpress allegations of the comp .aint. Second——
 A statement of any new matter-or counterclaim constituting a
-defense,’ in ordinary and concise language. ' SEC. 4’7. The counterclaim mentioned in the last Section,
+defense,’ in ordinary and concise language. SEC. 4’7. The counterclaim mentioned in the last Section,
 shall be one existino' in favor of the 'defendant and against a
 plaintifff, between whom a several judgment might be had in
 the action, and arising out of one of the following causes of
@@ -528,7 +528,7 @@ evidence thereof. The Court, or a Judge thereof, may order a
 further account when the one delivered is too general or is
 defective in an particular. , j , - .
 
-' .SEC. 57. if irrelevant or redundant matter be inserted in
+' SEC, 57. if irrelevant or redundant matter be inserted in
 a pleading, it may be stricken out by the Court on motion of
 any erson ag rieved therebfy. .
 
@@ -543,7 +543,7 @@ of a Court, or officer of eSpecial jurisdiction, it shall not be
 necessary to state the facts conferring jurisdiction, but such
 judgment. or. determination may be. stated to have been duly
 given or made. If such allegation be controverted, the party pleading shall be bound to establish- on the trial the facts
-conferring jurisdiction. 1 ‘ SEC. 60. In pleading the performance of conditions
+conferring jurisdiction. 1 SEC. 60. In pleading the performance of conditions
 
 recedent in a contract, it shall not be necessary to state the
 ts showing such performance; but it may be stated generally
@@ -1025,7 +1025,7 @@ rson 'to refrain from aparticular act. The order or writ may 3
 granted by the Court 1n which the action is brought, or by
 a Judge thereof, and, when made by' a Judge, may be
 enforced as the 'order of the Court. ' ' ‘
-' , ' SEC. 112. An injunctien may be granted. in the following
+' , SEC. 112. An injunctien may be granted. in the following
 cases: First—When it shall aptpear by the complaint that the
 plaintifff is entitled to the relie demanded, and such relief or
 any part thereof consists .in restraining the commission or}
@@ -1206,7 +1206,7 @@ claimed by'the plaintifff, with sudicient suretie's, to the effect I
 that if the defendant recover judgment, the plaintifff will pay
 all ‘costs' that may be awarded to the de endant, and all
 damages which he may sustain by reason of the attachment,
-not exceeding the sum Specified in the undertaking. ' SEC. 125. The writ shall be directed to the Territorial
+not exceeding the sum Specified in the undertaking. SEC. 125. The writ shall be directed to the Territorial
 Marshal, his deputy, or the Sheriff of any County, in which
 
 property of such defendant may be, and require him to
@@ -1491,7 +1491,7 @@ SEC. 149. The relief grante to the plaintifff, if there be
 no answer, shall not exceed that which he shall have demanded in his complaint; but in any other case the Court may
 grant him any relief consistent With the case made by the complaint and embraced within the issue.
 
-- SEC. 150. An action may be dismissed, or a judgment of
+SEC. 150. An action may be dismissed, or a judgment of
 nonsuit entered in the following cases: First—By the plaintifff
 himself at any time before trial, upon the payment of costs, 1f
 a counterclaim has not been made. 'If a rovisional remedy
@@ -1553,7 +1553,7 @@ SEC. 152. An issue arises when a fact or conclusion of
 
 law is maintained b the one party, and controverted by the
 
-’otiheér. Issues are c twokinds: First—0f law; and: Second—0 act. . ' ' ' o ‘ ‘ SEC. 153. An issue ,of law arises upon a demurrer to the
+’otiheér. Issues are c twokinds: First—0f law; and: Second—0 act. . ' ' ' o ‘ SEC. 153. An issue ,of law arises upon a demurrer to the
 com laint, or an answer as to some part thereof.
 
 EC. 154. An issue of fact arises: First—Upon amaterial
@@ -1679,7 +1679,7 @@ before the 0011 shall not disqualify a juror either for bias or
 Opinion. Seventh—The existence of a state of mind in the
 juror, evincing' enmity against, or bias to either party.
 
-' SEC. 164. Challen s for cause shall be tried by the
+SEC. 164. Challen s for cause shall be tried by the
 Court. The juror chal en d, and an other person may be
 examined as a witness on t e trial of t e challenge. ARTICLE IL
 Conduct of the. m2.“
@@ -1694,7 +1694,7 @@ the original number sworn. Should the jury be reduced to a
 less number than two-thirds from such cause, the remaining
 jurors shall be discharged, and a new jury may then'or‘ afterwards be impanneled. ' ‘ ‘ ' - I '
 
-' SEC. 166.‘ In charging the jury, the Court shall state to
+SEC. 166.‘ In charging the jury, the Court shall state to
 them; such matters of law as it "thinks necessary for their
 information. in giving their verdict, and shall give, or refuse to
 give, such. other instructions, u on points of ‘law as either
@@ -1726,7 +1726,7 @@ as ought not, in the opinion of the Court, to be taken from the
 person having them 1n possession; and they may also take
 with them notes of the testimony, or other roceedin s on
 the trial, taken by themselves or any of them; ut none ken
-by. any other person. _ ' . ' SEC. 169.; After the jury have retired for deliberation, if
+by. any other person. _ ' . SEC. 169.; After the jury have retired for deliberation, if
 
 there be a disagreement between them as to any part of the
 testimOny, or if they desire to be informed of any point of law
@@ -1760,7 +1760,7 @@ covering the whole issue or issues submitted, the verdict
 may be corrected by the jury under the advice of the Court, or
 the jury may again- be sent out. ' '
 
-' ' SEC. 174. When the verdict is given, which must be by
+' SEC. 174. When the verdict is given, which must be by
 unanimous agreement, except by the censent. of parties, 1t
 shall be read aloud .by the Clerk in Open Court, and if not
 
@@ -1937,11 +1937,11 @@ ARTICLE 2.
 
 New Zrials.
 
-' SEC. 192; A new trial is a reexamination of an issue of]
+SEC. 192; A new trial is a reexamination of an issue of]
 fact in the same Court after atrial and decision by a. a jury,
 Court, or referees.
 
-‘ SEC. .193. The former verdict or other decision may be
+SEC. .193. The former verdict or other decision may be
 ‘vacated and a new trial granted on the application of the party 1
 aggrieved for any of the following causes materially affecting ‘
 the substantial rights of such party: First-—--Irregularity in the
@@ -1956,13 +1956,13 @@ verdict or other decision; or that it is against law. Seventh—
 Error in law occurring at the trial and accepted to by the party
 making the application.
 
-.SEC. 194. When the a plication is made for a cause,
+SEC, 194. When the a plication is made for a cause,
 mentioned in the first, secon , third and fourth subdivisions1
 of the last Section, it shall be .made upon affidavit; for any
 other cause it shall be made upon a statement prepared, as
 provided in the next Section.
 
-‘ SEC. 195. The arty intending to move for a new trial
+SEC. 195. The arty intending to move for a new trial
 shall give notice of t e same as follows: When the action has
 been tried by a jury, within five da s after the rendition of
 the verdict, and when the action has ‘ n tried by the Court
@@ -2048,7 +2048,7 @@ SEC. 198. , When the case is reserve for argument or
 further consideration, as mentioned in the last Section, it may
 
 be brought by either party before the Court for argument.
-' SEC. 199. If a counterclaim, established at the trial,
+SEC. 199. If a counterclaim, established at the trial,
 exceed the plaintifff’s demand, so established, judgment for
 the defendant shall be given. for the excess; or, if it appear
 that the defendant is entitled to any other afiirmative relief,
@@ -2573,7 +2573,7 @@ affidavit 0f ‘ himsel , or of subscribing witnesses thereto; and:
 Third—An affidavit by himself, or 'his agent, showing the
 amount then actually due on the lien. " ' ‘ ' ‘
 
-- SEC. 235. Until the eXpiration of the time allowed for .
+SEC. 235. Until the eXpiration of the time allowed for .
 redemption, the Court may restrain the commission. of waste 1
 on the property, or may a point a receiver to take charge of
 the prOperty, or the rocee thereof, by order granted with or
@@ -2854,7 +2854,7 @@ recover damages for injury to the property by the tenant in
 possession, after sale and before possess10n .is elivered under
 the conveyance.
 
-' SEC. 263. An action for the recovery of real r0perty
+SEC. 263. An action for the recovery of real r0perty
 , against a person in possession cannot be prejudiced) by an
 alienation made by such person, either before or after the
 commencement of the action. CHAPTER~4.-—AOTIONS FOR THE PARTITION OF REAL
@@ -3074,7 +3074,7 @@ state terms of sale,,and 1f the pmplerty, or any part of it, is to
 be sold subjectto a prior estate, 0 arge or lien, that shall be '
 stated in the notice.' .
 
-' SEC. 288. The Court .shall, in the order for sale, direct
+SEC. 288. The Court .shall, in the order for sale, direct
 the terms of credit which may be allowed for the purchase
 money of any portion of the premises of which it may direct
 a sale on credit, and for that portion of which the purchase
@@ -3091,7 +3091,7 @@ and for other shares, in the name of t e Clerk of the County
 
 and his successors 1n ofEce. ,
 
-‘ SEC. 290. The erson entitled to a tenancy for life or
+SEC. 290. The erson entitled to a tenancy for life or
 years, whose estate s all have been sold, shall be entitled to
 receive such sum as may be deemed a reasonable satisfaction
 for such estate, and wh1ch the person so entitled may con sent
@@ -3141,13 +3141,13 @@ and the securities, if any taken” The report shall be filed in
 the oEice of the Clerk of the County where the prOperty is
 situated. . - -‘ -' ' ' - '
 
-' SEC. 297. If the sale be'con’rirmed by the Court, an order,
+SEC. 297. If the sale be'con’rirmed by the Court, an order,
 shall be entered directing the referees to execute conveyances
 and take securities ursuant . to such. sale; which they are
 hereby authorized to o. Such‘order may also give directions
 to them respectin the disposition of the prOceeds of the sale.
 
-‘ SEC. 298. , hen a party. entitled to a share of the.
+SEC. 298. , hen a party. entitled to a share of the.
 pro erty, or an encumbrancer entitled to have his 11% paid out.
 of 9 sale, becomes a purchaser, the referees may take his!
 rehlcileipt for so much Of the proceeds of the sale as belongs to‘
@@ -3160,7 +3160,7 @@ such arties and rsons. as were unknOwn, if the summons
 have. en. serve by publication and against all persons
 claiming from them or elther of them. ' r
 
-- SEC. 300. When there are proceeds of a sale belonging:
+SEC. 300. When there are proceeds of a sale belonging:
 to an unknown owner, or to a person without the Territo ,}
 who-has no legal representative within it, the same, shall ‘
 invested in securities of interest for. the benefit of the persons
@@ -3315,7 +3315,7 @@ mentioned.
 CHAPTER 5.—ACTIONS FOR THE USURPATION OF AN OFFICE
 ‘ OR FRANCHISE.
 
-- SEC. 318. An actiOn may be brought by the Attorney, General in the name of the people of this Territory upon his
+SEC. 318. An actiOn may be brought by the Attorney, General in the name of the people of this Territory upon his
 own information, or on the complaint of a rivate party,
 against any erson who usurps, intrudes into, olds or exerc1ses any 0 ce, or franchise, real or pretended, Within this
 Territory, without authority of law. 1 And .it shall be the duty
@@ -3323,7 +3323,7 @@ of the Attorney-General to brin the action whenever he has
 reason to believe that any suc odice or. franchise has been
 usurped, intruded into, held or exercised by any person, with. out authority of law.: . - , .
 
-.SEC. 319. Whenever such action is brou ht,the AttorneyGeneral, in addition to the statement 0 the cause of
+SEC, 319. Whenever such action is brou ht,the AttorneyGeneral, in addition to the statement 0 the cause of
 action, may also set forth in the complaint the name of the
 
 erson rightly entitled to the office, with a statement of
@@ -3512,7 +3512,7 @@ undertaking require by this Section shall be drawn and made
 payable in the same kind of money or currency specified in
 such judgment or order. . ' * ' . .
 
-' SEC. 341., If the judgment or order appealedfrom, direct
+SEC. 341., If the judgment or order appealedfrom, direct
 3 the assignment or delivery of documents, or rsonall pr0perty,
 the execution of the judgment or order shall not be ista ed by
 appeal, unless the things required to be assigned or de 'vered
@@ -3703,7 +3703,7 @@ the dcase, and render judgment thereon, as if an action were
 pen 1n . ~ - Slag. 361. Judgment shall be entered in the judgment
 book, as in other cases, but without costs for any proceeding
 prior to the trial. The case, the submission, and a cepy of the
-judgment shall constitute the 'udgment roll. : , I, ‘ SEC. 362. The judgmen may be enforced in the same
+judgment shall constitute the 'udgment roll. : , I, SEC. 362. The judgmen may be enforced in the same
 manner as if it hadbeen rendered in an action,and .shall be
 m the same manner subject to appeal. CHAPTER 4.—-OF Anni‘rnurorrs.
 
@@ -4039,7 +4039,7 @@ l J
 Minister, or Consul of the Uted States, or before any Judge
 of a Court of Record havin a seal in such foreign country.
 
-' SEC. 404. When an a davit is taken before a Judge of a
+SEC. 404. When an a davit is taken before a Judge of a
 Court in a State or in a Territory of the United States, or in a
 foreign country, the enuineness of the signature of the Judge,
 the existence of the ourt, and the fact that such a Judge is a
@@ -4081,7 +4081,7 @@ twenty-five miles of the distance of the place of examination
 from the residence of the . erson u n whom the notice is
 served, unless, fora cause s own, a udge by order prescribe
 a shorter time. When a’shorter time is prescribed, a cOpy of
-the order shall be served with the notice. ' SEC. 407. Either party may attend such examination and
+the order shall be served with the notice. SEC. 407. Either party may attend such examination and
 gut such questions, direct and cross, as may be preper. The
 
 eposition, when completed, shall be carefully read to the
@@ -4134,7 +4134,7 @@ parties disagree as to their form, by the Judge or officer granting the, order f
 or at the time of _ granting the order for commission, may be
 annexed to the commission, or when the parties agree to that
 mode, the examination may be without written interrogatories.
-' SEC. 412. The commission shall authorize the Commis- I
+SEC. 412. The commission shall authorize the Commis- I
 sioner to administer an oath to the witness, and to take his
 deposition in answer to the interrogatories, or when the examination is, to be without interrogatories in respect to the question in dispute, and to certif the deposition to the Court, in a
 sealed envelope directed to t e Clerk or other erson designed
@@ -4608,7 +4608,7 @@ action sha be t e extent of the loss or in'ury sustained by
 the aggrieved part by reason of the miscon uct for which the
 warrant was issue , and the costsof the proceedin .
 
-SEC. 470. Whenever, by the provisions of t§is-Chapter,
+SEC. 470. Whenever, by the provisions of §is-Chapter,
 an officer is required to kee a person arrested, on a warrant of
 attachment, in cu stod , an to bring him before a Court, or
 Judge, the inability, rom illness or otherwise, of the person
@@ -4737,7 +4737,7 @@ awarded against the p aintiff by judgment, or in the rogress
 of the action, not exceeding the sum of three hundre dollars.
 A new or an additional undertaking may be ordered by the
 Court, or Judge, upon roof that the ori inal undertaking is
-insufficient security, an proceedings in t§e action stayed until
+insufficient security, an proceedings in §e action stayed until
 such new or additional undertaking be executed and filed.
 
 SEC. 487. Each of the sureties on the undertaking, mentioned in the last Section, shall annex to the same, an affidavit
@@ -5835,7 +5835,7 @@ evidence 1n any action or proceeding in the Courts of this
 Territory, in like manner, and with the like effect, as the
 original could be if produced.
 
-.SEC. 595. When two or more persons, associate in any
+SEC, 595. When two or more persons, associate in any
 busmess, transact such business under a common name
 whether it comprises the names of such persons or not, the
 associates may be sued by such common name, the summons
@@ -5896,7 +5896,7 @@ shall a pear to such officer or person that said sureties, or
 either 0 them, have the necessary qualifications of such, heshall so indorse upon the statement, and cause the same to be
 filed, and thereu on the justification shall be complete. '
 
-‘ SEC. 603. e repeal of a law does not revive one previously repealed by it, nor affect any rights, duties, or penalties
+SEC. 603. e repeal of a law does not revive one previously repealed by it, nor affect any rights, duties, or penalties
 which have arisen under it.
 
 SEC. 604. Laws and parts thereof, and words and phrases, .

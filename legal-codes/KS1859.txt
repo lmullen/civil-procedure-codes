@@ -541,7 +541,7 @@ persons of the defendants served. Second, If the action be
 against defendants severally liable, he may, without prejudice to
 his rights against those not served, proceed against the defendants served in the same manner as if they were the only defendants.
 
-‘ SEC. 86. Nothing in this code shall be so construedas to make
+SEC. 86. Nothing in this code shall be so construedas to make
 
 ‘ a judgment, against one or more defendants jointly or severally
 
@@ -740,7 +740,7 @@ criminal prosecution, or action, or proceedings for a penalty or
 forfeiture, as proof of a fact admitted or alleged in such pleading, and such veriiication shall not make other or greater proof
 necessary on the side of the adverse party.
 
-.SEC. 117. The verification mentioned in the last section shall
+SEC, 117. The verification mentioned in the last section shall
 no L be required to the answer of a guardian defending for an
 infant or person of unsound mind, or a person imprisoned, nor
 in any case where the admission of the truth of a fact stated in
@@ -1632,7 +1632,7 @@ SEC. 243.’ The order of attachment, as granted by the court
 or_ judge, shall not be issued by the clerk until there has been
 
 executed, in his office, such undertaking, on the part of the plaintiff, as is directed by section two hundred and one. '
-' SEC. 244. That the plaintifff in such action shall not have
+SEC. 244. That the plaintifff in such action shall not have
 judgment on ‘his claim before it is due, and the proceedings on
 attachment may be conducted without delay.
 
@@ -3779,7 +3779,7 @@ he is bound, before it is due, whenever any of the grounds exist,
 upon [which,] by the provisions of this code, an order may be
 made for arrest and hail, or for an attachment. ’
 
-SBc.§14. In such action, the surety may obtain any of the
+SBc§14. In such action, the surety may obtain any of the
 provisional remedies mentioned in title eight, upon the grounds
 and in the manner therein described. '
 

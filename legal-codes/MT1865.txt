@@ -1543,7 +1543,7 @@ prevent the person claiming the property from giving a bond and
 trying his right of property before the district court, as provided in
 cases for trying the right of property claimed by persons other than
 the judgment debtor.
-' SEC. 198. The sherih shall execute the writ against the property of the judgment debtor by levying on a suiiicient amount of
+SEC. 198. The sherih shall execute the writ against the property of the judgment debtor by levying on a suiiicient amount of
 property, if there be suiiicient, collecting and selling the things in
 action, and selling the other property, and. paying to the plaintiff
 or his attorney so much of the proceeds as will satisfy the judgment, or depositing the amount with the clerk of the court. Any
@@ -2300,7 +2300,7 @@ the exception and return, and such other matters as the court or
 judge shall have ordered to be made a part of the record Either
 party may have a ccrtiorari to supply any diminution of the record.
 
-‘ SEC. 282. The court of error may fix the time for assigning errors
+SEC. 282. The court of error may fix the time for assigning errors
 and filing joinders. If errors in law be assigned, no joinders shall
 be necessary. One or more errors in fact may be assigned, and the
 defendant may put in the common joinder as a demurrer thereto, or
@@ -2488,7 +2488,7 @@ the award may be enforced by the court in the same manner as a
 judgment. If the submission be not made an order of the court,
 it may be revoked at any time before the award is made.
 
-' SEC. 305. Arbitrators shall have power to appoint a time and
+SEC. 305. Arbitrators shall have power to appoint a time and
 place for hearing, to adjourn from time to time, to administer oaths
 to witnesses, to hear the allegations and evidence of the parties, and
 to make an award thereon.

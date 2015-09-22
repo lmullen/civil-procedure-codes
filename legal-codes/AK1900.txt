@@ -96,7 +96,7 @@ States, by the district attorney.
 
 SEC. 11. An action for any cause not hereinbefore provided for shall
 be commenced within ten years after the cause of action shall have
-accrued. ‘ ‘ SEC. 12. In an action brought to recover a balance due upon a
+accrued. SEC. 12. In an action brought to recover a balance due upon a
 mutual, open, and current account, where there have been reciprocal
 demands between the parties, the cause of action shall be deemed to
 have accrued from the date of the last item roved in the account on
@@ -3164,7 +3164,7 @@ containing an acknowledgment of the payment. In all other sales of
 personal property the marshal shall give the purchaser a bill of sale
 with the ike acknowledgment. ’
 
-' SEC. 282. Whenever, after the entry of judgment, a period of five
+SEC. 282. Whenever, after the entry of judgment, a period of five
 years shall elapse without an execution being issued on such judgment,‘
 thereafter an execution shall not issue exce t as in this section provided:
 
@@ -4403,7 +4403,7 @@ effect to bar another action for the same cause or an part thereof,
 unless such determination be on account of a failure 0 proof on the
 part of the plaintifff, in which case the court may, on motion of such
 plaintifff, give such judgment without prejudice to another action by
-the plaintifff for the same cause or any part thereof.SEC. 379. The provisions of chapters twenty-six and twenty-seven
+the plaintifff for the same cause or any part thereofSEC, 379. The provisions of chapters twenty-six and twenty-seven
 
 of this title, from and inclusive of section two hundred and forty-one '
 

@@ -452,7 +452,7 @@ causing a summons to be issued thereon.
 § 56. The plaintifff shall, also, file with the clerk of the
 court, a precipe, stating the names of the parties to the
 action, and demanding that a summons issue thereon.
-' § 57. The summons shall be issued by the clerk, shall
+§ 57. The summons shall be issued by the clerk, shall
 be under the seal of the court, from which the same shall
 issue, and shall be signed by the clerk. Its style shall be,
 “The State of Ohio, county,” and it shall be dated
@@ -1969,7 +1969,7 @@ without delay. '
 
 . has notice thereof, and the undertaking required bythe applicant therefore, is executed.
 
-.§- 246. No injunction shall be granted by a judge, after a
+§- 246. No injunction shall be granted by a judge, after a
 motion therefore has been overruled on the merits of the application,‘ by his court, and where it has been refused by
 the court in which the action is brought, or a judge thereof, it
 
@@ -2052,7 +2052,7 @@ or in imminent danger of insolvency, or has forfeited its corporate rights:
 6. In all other cases where receivers have heretofore been
 appointed by the usages of courts of equity.
 
-’ § 254. N 0 party, or attorney, or person interested in
+§ 254. N 0 party, or attorney, or person interested in
 ’ an action, shall be appointed receiver therein.
 § 255. Before entering upon his duties, the receiver must be
 ‘ sworn to perform them faithfully, and, with one or more sure
@@ -2502,7 +2502,7 @@ ARTICLE VII.
 
 GENERAL PROVISIONS.
 
-' ,.§ 302.- Whenever damages are recoverable, the plaintifff
+' ,§ 302.- Whenever damages are recoverable, the plaintifff
 may claim and recover any rate of damages to which he
 may be‘ entitled for the cause of action established.
 
@@ -2514,7 +2514,7 @@ ARTICLE VIII.
 
 TIME OF TRIAL.
 
-' § 304. The clerk of the court of common pleas shall keep
+§ 304. The clerk of the court of common pleas shall keep
 at least five books, to be called the appearance docket, the
 trial docket, the journal, the record and execution docket.
 
@@ -3401,7 +3401,7 @@ in whose‘names the action might be revived, ten days notice
 of the application therefore, may have an order to strike the
 action from the docket, and for costs against the estate of the
 plaintifff, unless the action is forthwith revived.
-' §4l4. When, by the provisions of the preceding sections,
+§4l4. When, by the provisions of the preceding sections,
 an action stands revived, the trial thereof shall not be postponed by reason of the revivor, if the action would have
 stood for trial at the term the revivor is complete, had no
 death, or cessation of powers taken place.
@@ -3741,7 +3741,7 @@ to satisfy each execution, as will bear the same proportion in
 value to the whole, as the amount due on the execution,
 bears to the amount of all the executions chargeable thereon, as near as may be, according to the appraised value of
 each separate parcel of said real property.
-' § 444. If the term of service of the sheriff, or other officer, who has made, or shall hereafter make sale of any lands
+§ 444. If the term of service of the sheriff, or other officer, who has made, or shall hereafter make sale of any lands
 and tenements, shall expire ; or if the sheriff, or other officer
 shall be absent, or be rendered unable by death, or otherwise, to make a deed of conveyance of the same, any succeeding sheriff, or other officer, on receiving a certificate
 from the court from which execution issued for the sale of
@@ -3771,7 +3771,7 @@ restitution shall be made by the judgment creditor of the
 monies, for which such lands or tenements were sold, with
 lawful interest from the day of sale.
 
-{3 447. No judgment, heretofore rendered or which hereafter may be rendered, on which execution shall not have
+§ 447. No judgment, heretofore rendered or which hereafter may be rendered, on which execution shall not have
 been taken out and levied, before the expiration of one year
 next after its rendition, shall operate as a lien on the estate
 
@@ -5036,7 +5036,7 @@ CHAPTER IV.
 
 MISCELLANEOUS PROVISIONS.
 
-‘§ 595. Any duty enjoined by this code upon a ministerial
+§ 595. Any duty enjoined by this code upon a ministerial
 officer, and any act ermitted to be done by him, may be
 performed by his law ul deputy.
 

@@ -1502,7 +1502,7 @@ Sscr. 8. They shall have cognizance sitting as a court of
 chancery, of all cases in equity, when the parties have not a
 plain, adequate, and complete remedy at law, or when any such
 case is properly determinable in equity, according to the course
-of proceedings in a court of chancery.§
+of proceedings in a court of chancery§
 
 Sncr. 9. Such courts shall have cognizance of all crimes,
 offenses, and misdemeanors of every name and description,
@@ -3933,7 +3933,7 @@ force and as security for any damages that may be thereafter
 sustained by the further breach by the defendants of any condition of such bond, or by the non-performance of any covenant
 or written agreement, upon which such action was originally
 brou ht, and the performance of which was secured by such
-pena sum.§
+pena sum§
 
 SECT. 150. Whenever such further breaches shall occur, the
 plaintifff, or his personal representatives, or any person entitled
@@ -5654,7 +5654,7 @@ to the same party in the same cause ; and the court in granting
 new trials may allow the same on the payment of costs, or _on
 the costs abiding the “event of the suit, as the justice and equity
 of the case may require, taking into consideration the causes
-which may make such new trial necessary.§
+which may make such new trial necessary§
 
 Sncr. 325. If at the expiration of the time fixed by law for
 the continuance of ' the term of any court, the trial of a cause
@@ -7061,7 +7061,7 @@ six preceding sections of this article, and bring themselves
 strictly within the same, shall be thereupon discharged ‘from
 further imprisonment on account of such writ and the judgment on which such writ was issued.
 
-Sncr. 455. Tlieoiiicer from whose custody such person
+Sncr. 455. Theoiiicer from whose custody such person
 may be discharged and his sureties, if sued on his ofiicial bond,
 
 ‘ or otherwise, for an escape, may plead not guilty thereto, and
@@ -8971,7 +8971,7 @@ fifteen days after the signing of such award.
 
 arbitrators shall be in writing,
 
-A true copy of the award, and of the costs aforeor left at h1s.3:.§t
+A true copy of the award, and of the costs aforeor left at h1s.3§t
 in
 
 Snow. 12. If either of the parties shall fail or refuse to comply with such award, the other party may file the same, together with the agreement of submission, in the court named in
@@ -13224,7 +13224,7 @@ consanguinity.
 Snow. 4. N 0 person shall be held to answer to any process
 issued against him by a justice of the peace in a civil matter, in
 any township of such county other than the one where he shall
-actually reside, except in the cases fo1lowing:§
+actually reside, except in the cases fo1lowing§
 
 1. Where, according to law, a capias ad respondendum shall
 be the proper process to be issued, in which case the jurisdiction of the justice shall be coextensive with his county;
@@ -13711,7 +13711,7 @@ of a suit by capias lawful. _
 
 Snow. 47. No plea or statement in the nature of a lea in
 abatement, other than to the jurisdiction of the justice or or matter appearing on the face of the plaintifff’s statement, shall be
-received by the justice, unless supported by oath or affirmation.§
+received by the justice, unless supported by oath or affirmation§
 
 Sncr. 48. The plea of non est factum, ‘non-assignment, or
 any other plea, replication, or other pleading, denying or requiring proof of the execution or assignment of any bond, bill,
@@ -13977,7 +13977,7 @@ such party shall pay the costs of such supernumerary witness
 or Witnessess.
 Sncr. 76. If any witness having been subpoenaed attendi
 
-{3 and be not examined by either party, the costs of such witness
+§ and be not examined by either party, the costs of such witness
 ' shall be paid by the party ordering the subpoena, unless the adverse party, by confessing the matter, or otherwise, render unnecessary the examination of such witness.
 Snow. 77. Witnesses shall not be entitled to p ,
 I1 nor shall a justice charge it in making up the costs of a suit»
@@ -15493,7 +15493,7 @@ within the same county, and after reciting the rendition of the
 judgment and the date thereof, and the amount of costs taxed
 thereon, shall command him to make the debt or damages, 111'
 terest, and costs and accruing costs, of the goods and chattels
-of the person against whom it shall be issued, (excepting suclia‘§
+of the person against whom it shall be issued, (excepting suclia§
 are by lawexempted from execution,) by levy and S .
 
 and to bring the money at a certain time and places them“ to
