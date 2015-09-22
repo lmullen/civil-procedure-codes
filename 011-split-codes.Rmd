@@ -19,7 +19,7 @@ dir.create("legal-codes-split", showWarnings = FALSE)
 Create a regular expression to section the codes.
 
 ```{r}
-ny_1850_pattern <- regex("(\n§((\\s+)?)\\d+((\\.)?)|\n\\$((\\s+)?)\\d+((\\.)?)|\nchapter|\ntitle|\narticle|\nt i t l e|\nRULE \\w+\\.|\n\\d{4,}\\.|\nSEC((\\.)?)\\s+\\d+((\\.)?)|\n8EC((\\.)?)\\s+\\d+((\\.)?)|\nSE0((\\.)?)\\s+\\d+((\\.)?)|\nSEO((\\.)?)\\s+\\d+((\\.)?)|\nSEQ((\\.)?)\\s+\\d+((\\.)?))", ignore_case = TRUE)
+ny_1850_pattern <- regex("(\n§((\\s+)?)\\d+((\\.)?)|\n\\$((\\s+)?)\\d+((\\.)?)|\nchapter|\ntitle|\narticle|\nSUBDIVISION|\nt i t l e|\nRULE \\w+\\.|\n\\d{4,}\\.|\nSEC((\\.)?)\\s+\\d+((\\.)?)|\nSECTION((\\.)?)\\s+\\d+((\\.)?)|\nSECT((\\.)?)\\s+\\d+((\\.)?)|\n8EC((\\.)?)\\s+\\d+((\\.)?)|\nSE0((\\.)?)\\s+\\d+((\\.)?)|\nSEO((\\.)?)\\s+\\d+((\\.)?)|\nS((\\.)?)\\s+\\d+((\\.)?)|\nSEQ((\\.)?)\\s+\\d+((\\.)?)|\nArt((\\.)?)\\s+\\d+((\\.)?)|\nAn((\\.)?)\\s+\\d+((\\.)?)|\nAm((\\.)?)\\s+\\d+((\\.)?))", ignore_case = TRUE)
 test <- str_detect(c("\n§ 1842 This should be true", "\nThis should be false §",
                      "\n§ 142. This should be true", "\nThis should be false §",
                      "\n§142. This should be true", "\nThis should be false §",
@@ -33,7 +33,8 @@ test <- str_detect(c("\n§ 1842 This should be true", "\nThis should be false §
                      "\n3652. From AL1852 true", "Citation 232. False",
                      "\nSEC. 431. true", "This SEC 133 false",
                      "\n8EC. 3323. true", "false",
-                     "\nSEC.   2545 true", "false"),
+                     "\nSEC.   2545 true", "false",
+                     "\nSECTION 143. true", "false"),
                    pattern = ny_1850_pattern)
 all(test == c(TRUE, FALSE))
 ```
@@ -51,6 +52,10 @@ split_doc("legal-codes/CA1850.txt", ny_1850_pattern, "legal-codes-split/CA1850")
 split_doc("legal-codes/GA1860.txt", ny_1850_pattern, "legal-codes-split/GA1860")
 split_doc("legal-codes/CA1868.txt", ny_1850_pattern, "legal-codes-split/CA1868")
 split_doc("legal-codes/AZ1865.txt", ny_1850_pattern, "legal-codes-split/AZ1865")
+split_doc("legal-codes/DT1887.txt", ny_1850_pattern, "legal-codes-split/DT1887")
+split_doc("legal-codes/LA1825.txt", ny_1850_pattern, "legal-codes-split/LA1825")
+split_doc("legal-codes/MA1858.txt", ny_1850_pattern, "legal-codes-split/MA1858")
+split_doc("legal-codes/AR1868.txt", ny_1850_pattern, "legal-codes-split/AR1868")
 ```
 
 What are the mean, median, and mode lengths of sections in the NY 1850 code?
