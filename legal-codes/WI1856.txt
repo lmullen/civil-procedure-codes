@@ -687,7 +687,7 @@ shall be
 denominated
 a civil
 netion.
-SE.
+Sec.
 12.
 In
 such
@@ -708,7 +708,7 @@ party
 a
 the
 defendant.
-Sxo.
+Sec.
 13. Noaction
 shall
 be
@@ -894,7 +894,7 @@ is made
 for the
 benefit of
 another.
-SE. 18. When a married
+Sec. 18. When a married
 woman is a party, her
 hus.
 band
@@ -938,7 +938,7 @@ and defend
 by
 her next
 friend. 
-SE. 20. When an infant
+Sec. 20. When an infant
 is a party, he must appear
 by
 his next
@@ -968,7 +968,7 @@ as otherwise
 provided
 in
 this title.
-SE.
+Sec.
 22. Any
 person may
 be made
@@ -1082,7 +1082,7 @@ or
 defend
 for the benefit
 of the whole.
-SEa.
+Sec.
 24.
 Persons
 severally
@@ -1318,7 +1318,7 @@ In
 its discretion,
 make
 the order.
-8uo.
+Sec.
 27. Actions
 for
 the following
@@ -1363,7 +1363,7 @@ real property.
 mortgage of real property.
 4. For the recovery of personal property distrained
 for any cause.
-SE. 28. Actions for the following causes must be tried 
+Sec. 28. Actions for the following causes must be tried 
 in the
 county
 where the
@@ -1554,7 +1554,7 @@ filed
 or
 transferred
 accordingly.
-Sm.
+Sec.
 32.
 Civil
 actions
@@ -1578,7 +1578,7 @@ summons
 with
 or without
 seal.
-Sto. 38. The
+Sec. 38. The
 summons shall be subscribed
 by the plaintiff or his attorney, and
 directed to the defendant, and
@@ -1597,7 +1597,7 @@ to be therein
 specified, in which there is a post office, w ithin twenty
 days after the service of the summons, exclusive of the
 day of service.
-SEa. 31. The plaintifff shall also insert in the summons
+Sec. 31. The plaintifff shall also insert in the summons
 a
 notice
 in
@@ -1751,7 +1751,7 @@ pay
 costs
 to the 
 plaintifff.
-Sc. 37. In an action affecting the
+Sec. 37. In an action affecting the
 title to real property, 
 the plaintifff
 at the time of
@@ -2746,7 +2746,7 @@ plaintifff
 is
 the
 complaint.
-SEa.
+Sec.
 47.
 The
 complaint
@@ -3730,7 +3730,7 @@ between
 the
 parties.
 adn
-SE.
+Sec.
 66.
 If
 irrelevant
@@ -3858,7 +3858,7 @@ the adverse
 party a specified
 sum which
 he claims.
-SE.
+Sec.
 69.
 In pleading
 a
@@ -4281,7 +4281,7 @@ the court may order
 the pleading to be amended
 upon
 such terms as may be just.
-Sm.
+Sec.
 78. Where
 the
 variance
@@ -4517,7 +4517,7 @@ the claim or defense,
 by conformiig
 the pleading
 or proceeding to the facts proved.
-SEa.
+Sec.
 82.
 The
 court
@@ -4597,7 +4597,7 @@ upon like terms,
 permit an amendment
 of such proceeding
 so as to make it conformable thereto.
-SEa.
+Sec.
 83. When
 the plainliff
 shall be ignorant
@@ -4926,7 +4926,7 @@ the
 defendant, 
 shall deliver
 to him a copy thereof.
-Sc.
+Sec.
 93.
 The
 sheriff
@@ -5040,7 +5040,7 @@ effect as that
 provided
 by
 section 110.
-Sc.
+Sec.
 96.
 At
 any
@@ -5187,7 +5187,7 @@ undertaking,
 the
 
 bail may be proceeded against by action only.
-SE. 99. The
+Sec. 99. The
 bail way
 be exonerated,
 either
@@ -5218,7 +5218,7 @@ against the bail, or within
 such further time
 as may be
 gratited by the court.
-Sxo. 100. Within
+Sec. 100. Within
 the time limited for that
 purpose, the
 sheriff
@@ -5448,7 +5448,7 @@ be filed with the court;
 and the sheriff shall thereupon
 be exonerated
 from liability.
-SE. 105.
+Sec. 105.
 The defendant
 may, at
 the time of his
@@ -5466,7 +5466,7 @@ shall
 
 be discharged
 out of custody.
-SE. 106.
+Sec. 106.
 The sheriff shall, within
 four days after the 
 deposit,
@@ -6489,7 +6489,7 @@ call to
 his aid the
 power o.
 his county.
-SEa.
+Sec.
 123.
 When the
 sheriff
@@ -6709,7 +6709,7 @@ to
 demand
 such
 indemnity.
-SE.
+Sec.
 125.
 The
 sheriff
@@ -6743,7 +6743,7 @@ mentioned
 tlerein.
 d
 a
-Sc.
+Sec.
 120. The
 writ
 of injunction
@@ -7372,7 +7372,7 @@ the
 injunction
 was
 granted.
-SEa.
+Sec.
 135.
 In
 an
@@ -7807,7 +7807,7 @@ the same, and
 obedietice to such order
 may be enforce$
 by attachment.
-SE. 145. In
+Sec. 145. In
 case judgment be entered for
 the plaintifff in
 such
@@ -8024,7 +8024,7 @@ deliver over to the defendant
 the residue of
 the at.
 tached property or the proceeds thereof.
-Sm.
+Sec.
 146. The
 actions
 herein
@@ -8590,7 +8590,7 @@ in
 this
 act.
 .
-Sxo.
+Sec.
 154.
 When
 it
@@ -8690,7 +8690,7 @@ of
 the
 
 court.
-Sm.
+Sec.
 155.
 Whenever
 in
@@ -8826,7 +8826,7 @@ as
 it enforces
 a provisional
 remedy.
-Sm.
+Sec.
 157.
 A
 judgment
@@ -9272,7 +9272,7 @@ action
 and sball succeed
 in
 such defense.
-Sc. 159. If a demurrer, answer or reply be frivolous,
+Sec. 159. If a demurrer, answer or reply be frivolous,
 the party prejudiced thereby, upon a previous notice of
 five
 days, may
@@ -9649,7 +9649,7 @@ the same
 may be
 furnished
 by the defendant.
-8a0. 170. A general
+Sec. 170. A general
 verdict, is hat by
 which tejilry 
 proi66d
@@ -10233,7 +10233,7 @@ be ordered,
 as in that
 section
 provided.
-SE. 180. All or any
+Sec. 180. All or any
 of the issues in the action
 whether
 of fact or
@@ -10609,7 +10609,7 @@ the
 cause aminst the defendant or
 defenduts served.
 1
-SE. 185. The relief
+Sec. 185. The relief
 granted to the plaintifff, if
 there be
 no
@@ -10635,14 +10635,14 @@ complaint
 and embraced
 within
 the issue.
-SE. 186. Whenever damages are recoverable, the plain- 
+Sec. 186. Whenever damages are recoverable, the plain- 
 tiff may claim and recover, if he show himself entitled
 thereto, any rate of
 damages which he might
 have heretofore
 recovered for the
 same cause of action.
-SEa.
+Sec.
 187. In an action to recover
 the possession of per 
 sonal
@@ -10744,7 +10744,7 @@ mand of
 either party,
 as
 herein provided.
-Sc.
+Sec.
 189.
 The
 clerk
@@ -11305,7 +11305,7 @@ his property
 unsotisfied
 in whiole
 or in part.
-SEa.
+Sec.
 199.
 The execution
 nus:t b(
@@ -12121,7 +12121,7 @@ in such manner
 as may
 seem
 to him pro)er.
-SEa. 200.
+Sec. 200.
 Witnesses may
 be required
 to appear
@@ -12137,7 +12137,7 @@ in
 the
 sanme
 manner as upon the trial of an issue.
-SEa. 207.
+Sec. 207.
 The party or
 witness may
 be required to
@@ -13225,7 +13225,7 @@ responsible therefore, and paymnnt may be enforced
 by
 
 attachment.
-SE.
+Sec.
 227. In
 an action
 prosecuted
@@ -13824,7 +13824,7 @@ section
 two hundred
 and thirty- 
 nine of this chapter.
-Sc.
+Sec.
 241. Upon an
 order made
 by a circuit
@@ -14434,7 +14434,7 @@ notice
 of not less
 than five
 days.
-Sm. 252.
+Sec. 252.
 In the
 cases not
 provided
@@ -15065,7 +15065,7 @@ any part thereof, as
 evidence
 on the trial of
 the appeal.
-Sxo.
+Sec.
 269. Upon the hearing of
 the appeal, the appelate
 court
@@ -15158,7 +15158,7 @@ upon
 a previous
 notice of six
 days.
-SE. 272. If upon
+Sec. 272. If upon
 an appeal, a recovery
 be had by one 
 party, and
@@ -15177,7 +15177,7 @@ and
 render
 judgment
 for the balance.
-Sc. 273. The
+Sec. 273. The
 following fees
 and costs,
 and no other,
@@ -15314,7 +15314,7 @@ and
 a copy of the judgment,
 shall constitute the judgment
 roll.
-Sm. 277. The judgment
+Sec. 277. The judgment
 may be enforced in
 the same 
 manner
@@ -15493,7 +15493,7 @@ as
 
 the original
 summons.
-Sto. 281.
+Sec. 281.
 The summons
 shall be accompanied
 by
@@ -15607,7 +15607,7 @@ be
 compelled
 by attachment
 if necessary.
-Sc.
+Sec.
 284. Theanswer
 and
 reply shall
@@ -15688,7 +15688,7 @@ therefore
 does not
 exceed the
 same.
-Sc. 287. The statement may be filed
+Sec. 287. The statement may be filed
 with the clerk of 
 tho circuit court, who shall
 endorse upon it, and onter
@@ -16150,7 +16150,7 @@ party thus taken, may
 be rebutted
 by adverse
 testimony. 
-SEa. 296. If a party
+Sec. 296. If a party
 refuses to attend and
 testify as in
 the
@@ -16683,7 +16683,7 @@ purpose of
 performing the duties
 authorized by
 this act.
-Sc.
+Sec.
 306.
 There
 shall be
@@ -16871,7 +16871,7 @@ might
 originally
 have been
 made.
-Sc.
+Sec.
 308.
 The
 time
@@ -17194,7 +17194,7 @@ of appearance
 in
 the action
 has been given.
-Sc. 318.
+Sec. 318.
 Where a plaintifff
 or a defendant
 who
@@ -17256,7 +17256,7 @@ in
 the order,
 or be deemed
 abandoned.
-SE.
+Sec.
 320.
 Where
 a party
@@ -17628,7 +17628,7 @@ the amount
 actually due
 on the bond
 or note. at the time of entering such judgment.
-Sm.
+Sec.
 830.
 The
 time
@@ -17770,7 +17770,7 @@ or with
 their knowledge
 and
 coneent.
-Sxo. 334. An
+Sec. 334. An
 action may be brought by
 the attorney
 general in the
@@ -18255,7 +18255,7 @@ acquired
 under
 the
 same.
-SEa.
+Sec.
 338.
 When
 an action
@@ -18708,7 +18708,7 @@ of
 
 such
 corporation.
-Sm. 348. When
+Sec. 348. When
 such judgment
 shall
 be rendered
@@ -18928,7 +18928,7 @@ it apply to a case where
 a writ of error has
 been
 already issued.
-Sc. 355. An execution may be issued without leave of 
+Sec. 355. An execution may be issued without leave of 
 the
 court upon
 a judgment docketed
@@ -18943,7 +18943,7 @@ any time within two years
 after the rendering
 of
 the judgment.
-Sc. 850. The provisions of this act apply to future 
+Sec. 850. The provisions of this act apply to future 
 proceedings in actions
 or suits heretofore commenced
 and 
@@ -19023,7 +19023,7 @@ except
 when
 otherwise
 specified.
-SEa.
+Sec.
 861.
 The
 rule

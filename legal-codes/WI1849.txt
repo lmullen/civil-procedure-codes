@@ -966,7 +966,7 @@ in the common jail of the county, uatil he shall perform sach or4er, sentence or
 SEC. 10. All sheriffs, deputy sheriffs, coroners and constables
 within their respective counties, shall serve and execute all legal 
 warrants and processes to them directed by any judge of probate.
-Sm. 11. When a witness whoee testimony is necessary to be 
+Sec. 11. When a witness whoee testimony is necessary to be 
 used before any court of probate, shall reside out of this state, or
 by reason of age or bodily infirmity shall be unable to attend in
 person, the court may issue a commission to one or more compe- 
@@ -1116,7 +1116,7 @@ provided for by law.
 SEC. 41. The seals of the several probate courts now used by
 them respectively, shall continue to be the seals of such courts, un- 
 til others shall be provided according to law.
-Sm. 42. When notice of any proceedings in a probate court shall 
+Sec. 42. When notice of any proceedings in a probate court shall 
 be required by law, or be deemed necessary by the judge of probate, and the manner of giving the same shall not be directed by 
 any statute, the judge of probate shall order notice of such proceedings to be given to all persons interested therein in such 
 manner, and for such length of time as he shall deem reas~mab.le.
@@ -1313,7 +1313,7 @@ clerk to adjourn said court from day to day for three days, unless
 the judge shall sooner ar pear ; and if the judge do not appear at 
 that time, the court shal stand adjourned and all causes continued
 untll the next regular day for such court to meet, 
-Sm. 29. From and after such county courts shall be organized
+Sec. 29. From and after such county courts shall be organized
 all cases hereafter required by law to be removed from justices of 
 the yeace to the circuit court, whether by appeal or otherwise,
 shal be removed to the county .courts, and the like proceedinss
@@ -1797,12 +1797,12 @@ SEC. 34. Any plaintifff' or defendant, except persons under twenty one years of 
 person, and conduct or defend any suit. 
 J. P., Justice of the Peace. 
 J. P., Justice of the Peace. 
-Sm. 35. No suit shall be instituted by an infant plaintifff unless
+Sec. 35. No suit shall be instituted by an infant plaintifff unless
 a next friend for such infant shall have been appointed, but t!Very 
 suit so commenced shall be dismissed. Whenever requested the
 justice shall appoint some suitable person who shall consent thereunto in writing, to be named by such plaintifff to act as his next friend
 in such suit, who shall be responsible for the costs therein. 
-Sm. 36. After the service and return of civil process against any
+Sec. 36. After the service and return of civil process against any
 infant defendant, the suit shall not be further prosecuted until a 
 guardian for such def end ant shall have been appointed. Upon the 
 request of a defendant, the justice shall appoint some person who 
@@ -2742,7 +2742,7 @@ action against the defendant.
 8i:c. 171. Whenever a judgment shall be rendered by a justice
 ~inst any party, unless herein otherwise provided, it shall be 
 With costs of the suit. , 
-Sm. 172. In cases where a plaintifff shall be non-suited, or 
+Sec. 172. In cases where a plaintifff shall be non-suited, or 
 withdraw his action, or where judgment shall have been confessed,
 and in all cases where a verdict shall be rendered, or the defendant shall be in custody at the time of hearing the cause, the justice shall forthwith render judgment, and shall enter the same in
 his docket. 
@@ -4147,7 +4147,7 @@ such defendant, and on the written consent of any competent per-
 son proposed as guardian, by any judge of the court, and shall be-4lli
 filed in the office of the clerk of the court before any plea by such
 infant shall be filed. 
-Sm. 37. If such infant defendant n~lect for twenty days after
+Sec. 37. If such infant defendant n~lect for twenty days after
 return day of the process by which the suit was commenced, te 
 procure the appointment of a guardian to defend the suit, the 
 Oil' BAIL IN CIVIL ACTIONS, AND Pll.OCEEDINGS CONJJECTKD THDEWITH. 
@@ -4414,7 +4414,7 @@ SEC. 15. Noth~ in this chapter shall be construed to prevent
 the holder of any bill or note from bringing separate actions against 
 the parties to any such bill or note, in the manner now authorized
 by law. 
-Sm. 16. In any action brought upon a bill of exchange or promissory note pursuant to the provisions of this chapter, any joint 
+Sec. 16. In any action brought upon a bill of exchange or promissory note pursuant to the provisions of this chapter, any joint 
 drawer, maker, indorser or acceptor, may plead in abatement the 
 non-joinder of any other joint drawer, maker, indorser or acceptor, m the same manner as if such action had been brought in the
 form heretofore used. 
@@ -4687,7 +4687,7 @@ Sa,. 14. If during file pendency of any action or suit, either
 party shall become iasane, the action may be prosecuted or defended by his guardian, in like manner as if it had been commenced 
 aft.er the appointment of the guardian, or the court may appoint a
 guardian for the suit, as the case may reqaire. 
-Sm. 15. When any aotiea ia brought by, or in thename of, any 
+Sec. 15. When any aotiea ia brought by, or in thename of, any 
 public ofticer, or by any trustee appomted hr virtue of any statu~ 
 his death or removal shall not abate the wnt ; but it may be nrod b . . r .
 secute y his successor, provided there be a successor who might
@@ -5115,7 +5115,7 @@ given of the time and :place appointed for taking the deposition, to
 all persons mentioned m the said statement as interested in the
 case, which notice shall be given in the same manner as is prescribed in this chapter, respecting notice upon taking a deposition 
 in this state to be used in any cause here pending.
-Sm. 31. The deponent shall be sworn and examined, and his 
+Sec. 31. The deponent shall be sworn and examined, and his 
 deposition shall be written, read and subscribed in the same manner as is prescribed respecting the other depositions before men- 
 tioned, and the judge shall annex thereto a certificate under his
 hand, of the time and manner of taking it, and that it was taken
@@ -6177,7 +6177,7 @@ SEC. 67. If any person taken in execution a~inst his body shall
 die while so charged, new execution may be issued against the 
 goods, chattels, lands and tenements of the deceased, in the same
 manner as if he had never been charged in execution, 
-Sm. 68. But such new execution shall not be levied upon any 
+Sec. 68. But such new execution shall not be levied upon any 
 real estate which the deceased, after the judgment rendered against
 him, sha 11 have sold in good faith. 
 SEo. 69. Nor shall such new execution be levied upon any real
@@ -7373,7 +7373,7 @@ as is now in use, for a declaration in an action of assumpsit for
 use and occupation, as near as may be, and it shall be served on
 the defendant in the same manner herein before prescribed respecting the service of a declaration in ejectment ; and a rule to plead
 thereto shall be entered, and notice thereof given in the same manner as upon declaration in personal actions. 
-Sm. 42. The defendant may plead the general issue of non-assumpsit, and under such plea may give notice of, or may plead 
+Sec. 42. The defendant may plead the general issue of non-assumpsit, and under such plea may give notice of, or may plead 
 specially any matters in bar of such claim, except such as were or 
 might have been controverted in such action of ejectment; but he
 may plead or give notice of a recovery by such defendant, or any
@@ -8359,7 +8359,7 @@ plaintifff upon such attachment.
 SF.C. 14. Upon the execution and delivery or such bond as provided in the preceding sections, the property attached shall be 
 delivered by the officer to the defendant or person in whose possession the same shall have been found, but the suit shall not be
 discontinued or in any way affected by such delivery. 
-Sm. 15. In case of a failure to perform the condition of an7
+Sec. 15. In case of a failure to perform the condition of an7
 mch bond, the plaintifff in such attachment may prosecute a Sutt 
 thereon for his benefit, in the name of such officer, or his successor
 in office, or may take an assignment of such bond, and sue thereon
@@ -9235,7 +9235,7 @@ just to the parties.
 SEC. 22. All matters in excuse, justification or avoidance of
 the allegations in the complaint, shall be pleaded specially, or 
 notice thereof given with the plea of the general issue.
-Sm. 23. The appellate court shall have power to compel the 
+Sec. 23. The appellate court shall have power to compel the 
 justice, by attachment, to make or amend any return which shall be
 withheld, or insufficiently or improperly made. 
 SEC. 24. The following, or equivalent forms, shall be used in
@@ -10366,7 +10366,7 @@ brought his action on the case for a false return.
 SEC. 3. Issues of fact joined in any such proceedin~, shall he
 tried in the county within which the material 'facts contained in the
 mandamus shall be alleged to have taken place. 
-Sm. 4. In -ease a verdict shall be found for the peffl<>n suing
+Sec. 4. In -ease a verdict shall be found for the peffl<>n suing
 such writ, or if judgment be given for him upon demurrer, or by
 default, he shall recover damages and costs, in like manner as he
 might have done in such action on the case as aforesaid ; and a
@@ -11207,7 +11207,7 @@ on verdict, demurrer, 01 otherwise ; or in case a plaintifff recover
 judgment, but not enough to entitle him to costs, the defendant 
 shall have judgment to recover against such. J>laintiff, his full cost6,
 which shall have the like effect as all other Judgments. 
-Sm. 6. But the last section shall not extend to givin~ a defend- 
+Sec. 6. But the last section shall not extend to givin~ a defend- 
 
 ant costs agamst executors or administrators, necesean y prosecuting in the right of their testator or intestate, unless upon special 
 application toe court shall award costs against them for wantonly bringing any suit, for unnecessarily suffering a non-suit OI' 
