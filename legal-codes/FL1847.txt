@@ -15,7 +15,7 @@ CHAPTER 1.
 
 OF THE POWER AND JURISDICTION OF THE CIRCUIT COURT.
 
-SE01‘. 1. Of the Jurisdiction.
+SECT. 1. Of the Jurisdiction.
 
 1. THE Circuit Courts shall have original jurisdiction in all
 matters, civil and criminal, within this State, not otherwise excepted in the Constitution. (ti)
@@ -553,7 +553,7 @@ CHAPTER III.
 
 OF WITNESSES AND EVIDENCE.
 
-SE01‘. 1. Of Subpa:-mafor Witnesses and the Service thereof, &~e.
+SECT. 1. Of Subpa:-mafor Witnesses and the Service thereof, &~e.
 
 1. WHEN the attendance of any person shall be required as a
 
@@ -784,7 +784,7 @@ States, or the Territories thereof, to take the testimony of any person residing
 ample powers as if they were appointed by the Courts of this
 State. (0)
 
-SE01‘. 4. Of Depositions by Notice before Justice of the Peace.
+SECT. 4. Of Depositions by Notice before Justice of the Peace.
 
 1. Where a witness whose testimony is wanted in any civil cause
 pending in this State, shall live more than thirty miles from the
@@ -1193,7 +1193,7 @@ standing upon the appearance docket, and to make such orders
 and entries therein as shall‘be found necessary in relation thereto.
 
 (3)
-SE01‘. 2. Of Cross Demands.
+SECT. 2. Of Cross Demands.
 
 1. All debts or demands mutually existing between the parties
 at the commencement of the action, whether the same be liquidated or not, shall be proper subjects of set-oif, and may be pleaded
@@ -1244,7 +1244,7 @@ contribution, and may sue separately or jointly to enforce the payment of the sa
 
 sued separately or jointly, and where it. may be necessary the person or persons claiming such C0l’itI'll)l1tl0Il may proceed by attachment as in other cases. 
 
-SE01‘. 5. Of Slanderoas Words.
+SECT. 5. Of Slanderoas Words.
 
 1. Hereafter every charge of incest, fornication, and adultery,
 
@@ -1259,12 +1259,12 @@ containing a charge of the commission of the offenses aforesaid, or
 any of them, subject to the like principles, rules, and regulations,
 as are observed in other actions of slanderous words. (0)
 
-SE01‘. 6. Damages on Protested Bills of Exchange.
+SECT. 6. Damages on Protested Bills of Exchange.
 
 1. Damages on foreign protested bills of exchange, shall be at
 the rate of five per cent. (p)
 
-SE01‘. 7. Foreign Erecutors and Administrators.
+SECT. 7. Foreign Erecutors and Administrators.
 
 '1. Executors and administrators who shall produce probate of
 wllls or letters of administration, duly obtained in any of the States
@@ -1370,14 +1370,14 @@ Court of Appeals may, when such case is brought before them, by
 writ of error or appeal, upon affidavit of such refusal, admit such
 bill of exceptions as a part of the record. 
 
-Saar. 4. Of the Liens of Judgments.
+SECT. 4. Of the Liens of Judgments.
 
 1. Every judgment at law, and decree in equity, which shall be entered, and pronounced in any of the Courts of this State, shall creCHAPTER VII.
 
 or THE DUTY or oLEEEs, IN KEEPING PAPERS, DOCKETS, ETC. A_ND
 or MALPRACTICES BY CLERK on SHERIFF.
 
-SE01‘. 1. Of the Mode of keeping Papers, Dockets, «Sat.
+SECT. 1. Of the Mode of keeping Papers, Dockets, «Sat.
 
 1. Ir shall be the duty of the clerks of the several Courts of
 Record in this State, respectively to keep all papers filed in their
@@ -1438,7 +1438,7 @@ CHAPTER VIII.
 
 OF EXECUTION.
 
-Saar. 1. How issued, tested, directed, and returned.
+SECT. 1. How issued, tested, directed, and returned.
 
 1. IN no case shall a capias ad satiéfaciendum be issued by the
 
@@ -1702,7 +1702,7 @@ shall be competent for the plaintifff in execution to dismiss the levy,
 and to order a new levy to be made on other property of the
 defendant. 
 
-SE01‘. 6. Of staying Proceedings on Execution.
+SECT. 6. Of staying Proceedings on Execution.
 
 I. In all cases where an execution shall issue illegally, and the
 person against whom such execution is directed, his agent or attorney shall make oath thereof, and shall state in the affidavit the
@@ -1764,7 +1764,7 @@ so lost or mislaid, and all copies of papers established as herein
 prescribed shall be as valid and effectual for all legal purposes,
 as the original could have been had the same not been lost. (r)
 
-Saar. 2. Of the Establishment of Treasury Warrants lost or
+SECT. 2. Of the Establishment of Treasury Warrants lost or
 mislaid.
 
 1. In all cases where warrants upon the State Treasury shall be]
@@ -1893,7 +1893,7 @@ CHAPTER X.
 
 OF THE CAPPELLATE JURISDICTION OF THE CIRCUIT COURT.
 
-Sncr. 1. Of Appeals from the Judgments of Justice qf the
+SECT. 1. Of Appeals from the Judgments of Justice qf the
 Peace.
 
 I. WHEN any party who may be dissatislied with a judgment of
@@ -1969,7 +1969,7 @@ appeal, or the plaintifff in error, or certiorari, shall succeed in his
 cause, he shall recover back the costs paid as aforesaid, to be taxed
 in the bill with the other costs of the case. 
 
-SE01‘. 3. Of Appeals from the Judgments of the Judge of
+SECT. 3. Of Appeals from the Judgments of the Judge of
 Probate.
 
 1. An appeal shall lie from any final order or decision of the
@@ -2183,7 +2183,7 @@ CHAPTER II.
 
 OF THE PROCESS OF GARNISI;IMENT.
 
-SE01‘. 1. Of the Issue of said Process on Judgments rendered.
+SECT. 1. Of the Issue of said Process on Judgments rendered.
 
 1. ON all judgments or decrees rendered, or hereafter to be rendered, in the several Courts of law or equity in this State, it shall
 be the duty of the clerks of said Courts, and where any judgment
@@ -2229,7 +2229,7 @@ has been rendered, the affidavit mentioned in the first section of
 
 this act. (b)
 
-SE01‘. 2. Of the Service and Return of said Process, and Proceedings upon Answer of Garnishee.
+SECT. 2. Of the Service and Return of said Process, and Proceedings upon Answer of Garnishee.
 
 1. Upon the return of any such summons, if it shall appear that
 said summons or garnishment has been lawfully served or executed,
@@ -2380,7 +2380,7 @@ CHAPTER III.
 OF THE PROCEEDINGS TO FORECLOSE MORTGAGES IN THE COURTS OF
 COMMON LAW.
 
-Saar. 1. What shall be considered Mortgages.
+SECT. 1. What shall be considered Mortgages.
 
 1. ALL deeds of conveyance, bills of sale, or other instruments of
 writing, conveying, or selling property, either real, personal, or
@@ -2390,7 +2390,7 @@ person or persons in trust for the creditor, shall be deemed and
 held as mortgages, and shall be subject to the same rules of foreclosure, to the same regulations and restrictions as now are or may
 hereafter be prescribed by law, in relation to mortgages. (r)
 
-SE01‘. 2. Of the Assignment of Mortgage Securities.
+SECT. 2. Of the Assignment of Mortgage Securities.
 
 1. It shall and may be lawful for any mortgagee or mortgagees,
 
@@ -2669,7 +2669,7 @@ CHAPTER V.
 
 OF THE PARTITION OF ESTATES, REAL AND PERSONAL.
 
-SE01‘. 1. Of the Institution of Suits for the Partition of Real
+SECT. 1. Of the Institution of Suits for the Partition of Real
 Estate, and Proceedings thereon.
 
 1. SUITS or actions, for the partition or division of real estate,
@@ -2757,7 +2757,7 @@ complainants, and such of the defendants as have established and
 satisfactorily proved their respective shares, interests or proportions, to be set off and allotted to them, leaving for future adjustment, (by further proceedings in the same cause,) the rights,
 shares, and interests, of the other defendants. 
 
-Saar. 2. Of the Appointment of Commissioners, their Duties, 5-0.
+SECT. 2. Of the Appointment of Commissioners, their Duties, 5-0.
 
 1. Upon a decree of partition being made, the Court shall
 'appoint three suitable and competent vpersons to act as Commisi sioners, in making the partition decreed, who shall be selected by
@@ -2993,7 +2993,7 @@ duly summoned, the plaintifff may either sue out an alias writ, «or
 proceed in his suit by filing a declaration in trover or trespass, and
 thereby abandon his action of replevin. 
 
-Sncr. 4. Of the Declaration, Pleadings, and Judgment, 434:.
+SECT. 4. Of the Declaration, Pleadings, and Judgment, 434:.
 
 1. In replevin the plaintifff shall file his d_eclaration at the time
 now required by law in other suits, on or before the first day of
@@ -3070,7 +3070,7 @@ or otherwise, shall be entitled to the like summary remedy at any
 time within three years after the possession shall so have been
 withheld from him against his consent. (v)
 
-SE01‘. 2. Of the Complaint.
+SECT. 2. Of the Complaint.
 
 1. The party so turned out of possession, or so held out of possession, may exhibit his complaint before any Justice of the Peace
 for the county (or corporation) within which such lands or tenements may lie, in the following form, or to the following effect,
@@ -3094,7 +3094,7 @@ of the Peace for said county, (or corporation,) that he verily believes the alle
 
 “E.  ($5)
 
-SE01‘. 3. Of the Warrant and Service, and of Subpwnas for
+SECT. 3. Of the Warrant and Service, and of Subpwnas for
 Wzitncsses.
 
 1. The Justice before whom such complaint shall be made, shall
@@ -3333,7 +3333,7 @@ shall not therefore be nonsuited, but may make use thereof as an evidence of the
 bear interest from the time the same shall become due, any law,
 usage, or custom to the contrary notwithstanding. 
 
-SE01‘. 4. Of the Mode of removing Tenants.
+SECT. 4. Of the Mode of removing Tenants.
 
 1. Any tenant or lessee at will, or at sulferance, or for patt of a
 year, or for one or more years, of any houses, lands, or tenements,
@@ -3385,7 +3385,7 @@ CHAPTER IX.
 
 OF REFERENCE TO ARBITRATION.
 
-SE01‘. 1. Who may submit to Arbitration, and what may be submitted.
+SECT. 1. Who may submit to Arbitration, and what may be submitted.
 
 1. IT shall and may be lawful for all persons desirous of ending.
 any matter of difference, controversy, or quarrel, in which any ac-:
@@ -3490,7 +3490,7 @@ CHAPTER X.
 QF PROCEEDINGS FOR THE ERECTION OF MILLS, AND OTHER WATER
 MACHINES, AND MILL DAMS, AND OF THE DUTY OF MILLERS.
 
-SE01‘. 1. When T/Vrits of ad quad damnum shall issue, and the Proceedings therein.
+SECT. 1. When T/Vrits of ad quad damnum shall issue, and the Proceedings therein.
 
 1. WHENEVER any person owning lands in this State, on any
 water course, the bed whereof belongs to himself, may desire to
@@ -4028,7 +4028,7 @@ appeal shall be taken up in the same manner as appeals from the
 
 Justices’ Court. ('5)
 
-SE01‘. 6. Of the Lien of Artisans on Personal Chattels, and the
+SECT. 6. Of the Lien of Artisans on Personal Chattels, and the
 Mode of Enforcement.
 
 1. Every mechanic or workman who shall do any work or
@@ -4727,7 +4727,7 @@ CHAPTER II .
 
 OF THE TARIFF OR RATES OF FEES OF CERTAIN OFFICERS.
 
-SE01‘. 1. Of the Fees qf the Judges qf Probate.
+SECT. 1. Of the Fees qf the Judges qf Probate.
 
 1. THE Judges of Probate shall be entitled to charge, demand
 and receive the following fees, viz : '
@@ -4901,7 +4901,7 @@ Entering each rule on rule docket, twenty-five cents.
 
 Issuing license to hawkers and pedlars, one dollar. 
 
-SE01‘. 3. Of the Face of Sherzfs.
+SECT. 3. Of the Face of Sherzfs.
 
 1. They shall receive for levying writ of_fier£fac1Ias, attachment
 or other process, each levy, one dollar.
@@ -5506,7 +5506,7 @@ act, that then and in such case, such defendant or defendants are
 not to be admitted to plead this act in bar to any of the aforesaid
 actions, any thing in this act in any wise to the contrary notwithstanding. (m)
 
-SE01‘. 3. Of Suits against Ewecutors and Administrators.
+SECT. 3. Of Suits against Ewecutors and Administrators.
 
 1 l. If any suit be brought against any executor or administrator,
 for other person having charge of the estate of a testator or an in.testate, for the recovery of debt due upon an open account, it shall
@@ -5546,7 +5546,7 @@ CHAPTER I.
 WHEN, AND IN WHAT CASES, APPEALS AND WRITS OF ERROR MAY BE
 TAKEN AND SUED OUT.
 
-SE01‘. 1. If a party, in either of the Circuit Courts of this State,
+SECT. 1. If a party, in either of the Circuit Courts of this State,
 shall feel aggrieved by a final judgment, sentence, or decree, made
 or pronounced by any or either of said Courts, it shall and may be
 lawful for such party, during the session of the Court at which such
@@ -5564,7 +5564,7 @@ pay the costs if plaintifff, or if defendant, the debt, damages, or condemnation
 the Circuit Court shall be contirmed by the said Supreme Court.
 (5)
 
-SE01‘. 3. If the said appeal he applied for in term time, the application shall be made in open Court, and it shall be so stated by
+SECT. 3. If the said appeal he applied for in term time, the application shall be made in open Court, and it shall be so stated by
 the clerk of the said Circuit Court upon the record, and the appeal
 bond shall be approved of by the Judge; but if the appeal be applied for in vacation, the said appeal bond shall be approved of by
 the clerk, and at least twenty—live days’ notice of such appeal shall
@@ -5710,7 +5710,7 @@ CHAPTER I.
 
 OF PROCESS, WHEN ISSUED, HOW SERVED, AND THE RETURN THEREOF.
 
-SE01‘. 1. Of the Process of Subpcena, when issued, of the Service
+SECT. 1. Of the Process of Subpcena, when issued, of the Service
 thereof, and of Return Days, 6-6.
 
 1. THE Circuit Courts shall always be open for the issuing and
@@ -6259,7 +6259,7 @@ damages and costs which may accrue by such delay, the penalty of
 which shall be fixed by the Judge of the said Court, to whom said
 petition for re-hearing may be presented. 
 
-SE01‘. 3. Of Appeals, <3-c.
+SECT. 3. Of Appeals, <3-c.
 
 1. Every final decree shall be made and pronounced in open
 
@@ -6297,7 +6297,7 @@ CHAPTER IV.
 
 OF MASTERS IN CI-IANCERY.
 
-SE01‘. 1. Of the Appointment, Qualification, Powers and Duties.
+SECT. 1. Of the Appointment, Qualification, Powers and Duties.
 
 1. THE Judges of the Circuit Courts, in their respective circuits,
 
@@ -6430,7 +6430,7 @@ CHAPTER 1.
 OF THE JURISDICTION OF JUSTICES OF THE PEACE, THEIR POWER
 AND DUTIES, OATH OF OFFICE, ETC.
 
-SE01‘. 1.. Of the Jurisdiction in Civil Cases, 
+SECT. 1.. Of the Jurisdiction in Civil Cases, 
 
 1. THE district lines and boundaries which may have been regularly laid out and defined, or which may hereaiter be laid out in
 any county, in conformity to the laws of this State, shall form and
@@ -6525,7 +6525,7 @@ CHAPTER II.
 OF THE INSTITUTION OF SUITS, SERVICE OF SUMMONS, TERMS OF
 COURT AND JUROBS.
 
-SE01‘. 1. Of Suits, the Summons, and Service thereof.
+SECT. 1. Of Suits, the Summons, and Service thereof.
 
 1. EVERY suit brought to a J ustice’s Court shall be commenced
 ‘by a summons issued by said Justice, in which the name of the
@@ -6761,7 +6761,7 @@ Justice’s Court, the same shall be returned to and determined upon
 at the J ustice’s Court under the same rules, regulations, and restrictions, as are prescribed for the trial of similar cases in the
 Circuit Courts. (h)
 
-SE01‘. 3. Of Costs.
+SECT. 3. Of Costs.
 
 1. All witnesses duly summoned and attending any Justice’s
 Court, who reside out of the district in which such Court is held,
@@ -6835,7 +6835,7 @@ Court, and to issue a citation to the appellee notifying him of said
 appeal, which citation shall be served by the sheriff at least ten
 days before the first day of the term of said Court. (q)
 
-SE01‘. 6. Of the Constable, his Oath, Duties, <§-c.
+SECT. 6. Of the Constable, his Oath, Duties, <§-c.
 
 1. Every constable, before he enters upon the duties of his
 office, shall take and subscribe the following oath before a Justice

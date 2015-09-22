@@ -2,13 +2,13 @@ TITLE I.
 
 FORM OF CIVIL ACTIONS.
 
-SE01‘. 3. There shall be but one form of action, which shall
+SECT. 3. There shall be but one form of action, which shall
 be called a civil action.
 
-SE01‘. 4. In such action, the party complaining shall be
+SECT. 4. In such action, the party complaining shall be
 known as the plaintifff, and the adverse party as the defendant.
 
-SE01‘. 5. There can be no feigned issues; but a question
+SECT. 5. There can be no feigned issues; but a question
 of fact, not put in issue by the pleadings, may be tried by a
 jury, upon an order for the trial, stating, distinctly and plainly,
 the question of fact to be tried, and such order is the only
@@ -28,7 +28,7 @@ possession of lands, tenements, or hereditaments, can only be
 brought within twenty-one years after the cause of such action
 shall have accrued.
 
-SE01‘. 7. If a person, entitled to commence any action for
+SECT. 7. If a person, entitled to commence any action for
 the recovery of the title or possession of any lands, tenements,
 or hereditaments, be, at. the time his right or title shall first
 descend, or accrue, within the age of twenty-one years, a
@@ -46,14 +46,14 @@ accrued. '
 CHAPTER II.—ACTION8 OTHER THAN FOR run RECOVERY or REAL
 PROPERTY.
 
-SE01‘. 9. Civil actions, rather than for the recovery of real
+SECT. 9. Civil actions, rather than for the recovery of real
 property, can only be brought within the following periods
 after the cause of action shall have accrued.
 
 SECT. 10. Within fifteen years: An action upon a specialty,
 or any agreement, contract, or promise in writing.
 
-SE01‘. 11. Within six years: An action upon a contract
+SECT. 11. Within six years: An action upon a contract
 not in writing, express or implied. An action upon a liability
 created by statute, other than a forfeiture or penalty.
 
@@ -72,7 +72,7 @@ where the statute, giving such action, prescribes a different
 limitation, the action may be brought within the period so
 limited. °
 
-SE01‘. 14. An action upon the official bond or undertaking
+SECT. 14. An action upon the official bond or undertaking
 of an executor, administrator, guardian, sheriff, or any other
 officer; or upon the bond or undertaking given in attachment,
 injunction, arrest, or in any case whatever required by statute,
@@ -80,11 +80,11 @@ can only be brought within ten years after the cause of action
 shall have accrued; but this section shall be subject to the
 qualification in section six.
 
-SE01‘. 15. An action for relief not hereinbefore provided for,
+SECT. 15. An action for relief not hereinbefore provided for,
 can only be brought within ten years after the cause of action
 shall have accrued. _
 
-SE01‘. 16. If a person, entitled to bring any action mentioned in this chapter, except for a penalty or forfeiture, be, at
+SECT. 16. If a person, entitled to bring any action mentioned in this chapter, except for a penalty or forfeiture, be, at
 the time the cause of action accrued, within the age of twentyone years, a married woman, insane, or imprisoned, every
 such person shall be entitled to bring such action within the
 
@@ -93,7 +93,7 @@ shall be removed. ~
 
 ‘ CHAPTER III.——GENERAL Paovrsrons.
 
-SE01‘. 17. An action shall be deemed commenced within
+SECT. 17. An action shall be deemed commenced within
 the meaning of this title, as to each defendant, at the date of
 the summons, which is served on him, or on a co-defendant,
 who is a joint contractor, or otherwise united in interest with
@@ -105,7 +105,7 @@ party faithfully, properly, and diligently endeavors to procure
 a service; but such attempt must be followed by service
 within sixty days.
 
-SE01‘. 18. If when a cause of action accrues against a person, he be out of the territory, or have absconded, or concealed himself, the period limited for the commencement of
+SECT. 18. If when a cause of action accrues against a person, he be out of the territory, or have absconded, or concealed himself, the period limited for the commencement of
 the action shall not begin to run until he comes into the territory, or while he is so absconded or concealed; and if after
 the cause of action accrues, he depart from- the territory, or
 abscond or conceal himself,_the time of his absence or concealment shall'not be computed as any part of the period
@@ -140,7 +140,7 @@ PARTIES TO CIVIL ACTIONS.
 Sscr. 22. Every action must be prosecuted in the name of
 the real party in interest, except as otherwise provided in section twenty-five.
 
-SE01‘. 23. In the case of an assignment of a thing in action, the action by the assignee shall be without prejudice to
+SECT. 23. In the case of an assignment of a thing in action, the action by the assignee shall be without prejudice to
 any set-off or other defense now allowed; but this section
 shall not apply to negotiable bonds, promissory notes, or bills
 of exchange, transferred in good faith and upon good consideration, before due. A _
@@ -206,7 +206,7 @@ SECT. 34. When the question is one of a common'or general interest of many perso
 numerous, and it may be impracticable to bring them all before the court, one or more may sue or defend for the benefit
 of all. _
 
-SE01‘. 35. Persons severally liable upon the same obligation
+SECT. 35. Persons severally liable upon the same obligation
 or instrument, including the parties to bills of exchange and
 promissory notes, may, all or any of them, be included in the
 same action, at the option of the plaintifff.
@@ -221,13 +221,13 @@ action may be continued in the name of the original party;
 or the court may allow the person ‘to whom the transfer is
 made, to be substituted in the action. '
 
-SE01‘. 37. The court may determine any controversy between parties before it, when it can be done without prejudice
+SECT. 37. The court may determine any controversy between parties before it, when it can be done without prejudice
 to the rights of others, or by saving their rights; but when a
 determination of the controversy cannot be had without the
 presence of other parties, the court must order them to be
 brought in.
 
-SE01‘. 38. When, in an action for the recovery of real or
+SECT. 38. When, in an action for the recovery of real or
 personal property, any person having an interest in the property, applies to be made a party, the court may order it to be
 done.
 
@@ -251,7 +251,7 @@ Of the other parties in respect to the subject of the action,
 upon his compliance with the order of court for the paymert,
 deposit, or delivery thereof.
 
-SE01‘. 40. The provisions of the last section shall be applicable to an action brought against a sheriff, or other officer,
+SECT. 40. The provisions of the last section shall be applicable to an action brought against a sheriff, or other officer,
 
 for the recovery of personal property taken by him under execution, or for the proceeds of such property so taken and sold
 by him; and the defendant in such action shall be entitled to
@@ -289,7 +289,7 @@ action to compel the specific performance of a contract of
 ale of real estate, may be broughtlin the county where the
 defendants, or any of them, reside.
 
-SE01‘. 44. Actions for the following causes must be brought
+SECT. 44. Actions for the following causes must be brought
 in the county where the cause, or some part thereof, arose:
 
 1. An action for the recovery of a fine, forfeiture, or penalty,
@@ -310,7 +310,7 @@ place of business; but if such corporation be an insurance
 company, the action may be brought in the county where the
 cause of action, or some part thereof, arose.
 
-SE01‘. 46. An action against a railroad company, or an
+SECT. 46. An action against a railroad company, or an
 owner of a line of mail stages, or other coaches, for an injury
 to person or property upon the road or line, or upon a liability
 as a carrier, may be brought in any county, through or into
@@ -364,7 +364,7 @@ SEGT. 52. A civil action must be commenced by filing in
 the office of the clerk of the proper court a petition, and
 causing a summons to be issued thereon.
 
-SE01‘. 53. The plaintifff shall also file, with the clerk of the
+SECT. 53. The plaintifff shall also file, with the clerk of the
 
 court, a precipe, stating the names of the parties to the action,
 and demanding that a summons issue thereon.
@@ -420,7 +420,7 @@ dav.
 SECT. 60. In all cases the return must state the time and
 manner of service. _
 
-SE01‘. 61. The officer to whom the summons is directed
+SECT. 61. The officer to whom the summons is directed
 must return the same at the time therein stated.
 
 -8301‘. 62. An acknowledgment on the back of the summons, or the voluntary appearance of a defendant, is equivalent to a service.”
@@ -494,10 +494,10 @@ when it shall have been made in the manner and for the time
 prescribed in the preceding section; and such service shall be
 proved by the affidavit of the printer, or his foreman or principal clerk, or other person knowing the same.
 
-SE01‘. 71. In all cases where service may be made by publication, personal service .of a copy of the summons _and
+SECT. 71. In all cases where service may be made by publication, personal service .of a copy of the summons _and
 complaint may be made out of the territory.
 
-SE01‘. 72. A party against whom a judgment or order has
+SECT. 72. A party against whom a judgment or order has
 
 been rendered, without other service than by publication in a
 newspaper, may, at any time within five years after the date
@@ -589,7 +589,7 @@ S1301‘. 79. The pleadings are the written statements by the
 parties of the facts constituting their respective claims and
 defenses.
 
-SE01‘. 80. The forms of pleading in civil actions in courts
+SECT. 80. The forms of pleading in civil actions in courts
 of record, and the rules by which their sufficiency may be
 determined, are those prescribed by this code.
 
@@ -610,14 +610,14 @@ party supposes himself entitled. If the recovery of money
 he demanded, the amount thereof shall be stated; and if interest thereon be claimed, the time from which interest is to
 be computed shall also be stated.
 
-SE01‘. 83. Where the petition contains more than one
+SECT. 83. Where the petition contains more than one
 cause of action, each shall be separately stated and numbered.
 
 I
 
 CHAPTER III. — DEMURRER.
 
-SE01‘. 84. The defendant may demur to the petition only
+SECT. 84. The defendant may demur to the petition only
 when it appears on its face, either: 1. That the court has no
 jurisdiction of the person of the defendant, or the subject of
 «the action. 2. That the plaintifff has not legal capacity to
@@ -639,7 +639,7 @@ deemed to have waived the same, except only the objection to
 the jurisdiction of the court, and that the petition does not
 state facts sufficient to constitute a cause of action.
 
-SE01‘. 87. When a demurrer is sustained on the ground of
+SECT. 87. When a demurrer is sustained on the ground of
 »misjoinder of several causes of action, the court, on motion
 of the plaintifff, shall allow him, with or without costs, in its
 discretion, to file several petitions, each including such of
@@ -657,33 +657,33 @@ cific denial of each material allegation of the petition controvetted by the def
 constituting a defense, counterclaim, or set-off in ordinary
 and concise language, and without repetition.
 
-SE01‘. 90. The defendant may set forth in his answer, as
+SECT. 90. The defendant may set forth in his answer, as
 many grounds of defense, counterclaim, and set-off as he
 may have. Each must be separately stated and numbered.
 and they must refer in an intelligible manner to the cause of
 action which they are intended to answer.
 
-SE01‘. 91. The counterclaim, mentioned in the last section,
+SECT. 91. The counterclaim, mentioned in the last section,
 must be one existing in favor of a defendant and against a
 plaintifff, between whom a several judgment might be had in
 the action, and arising out of the contract or transaction set
 forth in the petition as the foundation of the plaintifff’s claim,
 or connected with the subject of the action.
 
-SE01‘. 92. If the defendant omit to set up the counter
+SECT. 92. If the defendant omit to set up the counter
 claim or set-off, he cannot recover costs against the plaintifff
 on any subsequent action thereon; but this section shall not
 apply to causes of action which are stricken out of, or withdrawn from the answer, as provided in sections ninety-three
 and one hundred and sixteen.
 
-SE01‘. 93. When it appears that a new party is necessary
+SECT. 93. When it appears that a new party is necessary
 to a final decision upon the counterclaim, the court may
 either permit the new party to be made by a summons, to
 reply to the counterclaim, or may direct the counterclaim to
 be stricken out of the answer, and made the subject of a
 separate action.
 
-SE01‘. 94. A set-off can only be pleaded in an action
+SECT. 94. A set-off can only be pleaded in an action
 founded on contract, and must be a cause of action arising
 upon contract, or ascertained by the decision of the court.
 
@@ -732,7 +732,7 @@ or reply, upon such terms as may be just. - '
 SECT. 102. Every pleading in a court of record must be
 subscribed by the party or his attorney.
 
-SE01‘. 103. Every pleading of fact must be verified by the
+SECT. 103. Every pleading of fact must be verified by the
 affidavit of the party, his agent or attorney. A pleading verified as herein required shall not be used against a party in
 any criminal prosecution or action or proceeding for a penalty
 
@@ -767,11 +767,11 @@ shall be evidence that the affidavit was duly made, that the
 name of the officer was written by himself, and that he was
 such officer.
 
-SE01‘. 109. The verification of the pleading does not apply
+SECT. 109. The verification of the pleading does not apply
 to the amount claimed, except in actions founded on contracts
 express or implied, for the payment of money only.
 
-Sncr. 110. When the affidavit is made by the agent or
+SECT. 110. When the affidavit is made by the agent or
 attorney, it must set forth the reason why it is not made by
 the party himself. It can be made by the agent or attorney
 only. 1. When the facts are within the personal knowledge
@@ -856,7 +856,7 @@ SECT. 123. In an action for the recovery of real property, it,
 shall be described with sufficient certainty, as will enable an
 officer holding an execution to identify it.
 
-SE01‘. 124. Every material allegation of the petition not
+SECT. 124. Every material allegation of the petition not
 controverted by the answer, and every material allegation of
 new matter in the answer, constituting a counterclaim or
 set-oh’, not controverted by the reply, shall, for the purposes of
@@ -901,7 +901,7 @@ some particular, or particulars only, but in its general scope
 and meaning, it is not to be deemed a case of variance within
 the last two sections, but a failure of proof.
 
-SE01‘. 131. The plaintifff may amend his petition without
+SECT. 131. The plaintifff may amend his petition without
 leave, at any time before the answer is filed, without prejudice
 to the proceeding; but notice of such amendment shall be
 served upon.the defendant, or his attorney, and the defendant
@@ -916,14 +916,14 @@ an amended pleading, shall be forthwith served upon the other
 party, who shall have the same time thereafter to answer, or
 reply thereto, as to an original pleading.
 
-SE01‘. 133. Upon a demurrer being overruled, the party
+SECT. 133. Upon a demurrer being overruled, the party
 
 who demurred may answer or reply, if the court be satisfied;
 
 that he has a meritorious claim or defense, and did not demur
 for delay.
 
-SE01‘. 134. The court may, before judgment, in further-4
+SECT. 134. The court may, before judgment, in further-4
 
 ance of justice, and on such terms as may be proper, amend
 any pleading, process, or proceeding, by adding or striking
@@ -961,7 +961,7 @@ could not discover the true name, and the summons must
 
 contain the words, “real name unknown,” and a copy thereof
 must be served personally upon the defendant.
-SE01‘. 139. Either party may be allowed, on notice, and on
+SECT. 139. Either party may be allowed, on notice, and on
 
 such terms as to costs as the court may prescribe, to ‘file a,
 
@@ -979,15 +979,15 @@ consolidated.
 SECT. 141. The order for consolidation may be made by
 
 the court, or by a judge thereof, in vacation.
-SE01‘. 142. ' ' ‘ Sncr. 143. ' ' ' Smcr. 144. ' ' ’ SECT.
+SECT. 142. ' ' ‘ SECT. 143. ' ' ' Smcr. 144. ' ' ’ SECT.
 
-145. * ‘ " SECT. 146. ’ ' “ SECT. 147. ' ' ‘ Sncr. 148. ' " '
-Srzcr. 149. ' ‘ ' Sscr. 150. ‘ " ' Sncr. 151. ‘ "‘ ' SE01‘. 152.
-' ‘ " SECT. 153. "‘ " " SECT. 154. ‘ " ‘ Saar. 155. " ' " SE01‘.
-156. " * " Sscr. 157. " “ ' Sscr. 158. ‘ " ‘ Sncr. 159. " ' ‘
-SECT. 160. “ ' ' SE01‘. 161. " “ ‘ SECT. 162. " ' ' Sncr. 163.
-" ’ " Sncr. 164. " “ " SE01‘. 165. " ’ " Sscr. 166. ‘ ' "’ Sncr.
-167. " ' ' SE01‘. 168. ‘ ' " Sncr. 169. " ' " Sncr. 170. " ' '
+145. * ‘ " SECT. 146. ’ ' “ SECT. 147. ' ' ‘ SECT. 148. ' " '
+Srzcr. 149. ' ‘ ' Sscr. 150. ‘ " ' SECT. 151. ‘ "‘ ' SECT. 152.
+' ‘ " SECT. 153. "‘ " " SECT. 154. ‘ " ‘ SECT. 155. " ' " SECT.
+156. " * " Sscr. 157. " “ ' Sscr. 158. ‘ " ‘ SECT. 159. " ' ‘
+SECT. 160. “ ' ' SECT. 161. " “ ‘ SECT. 162. " ' ' SECT. 163.
+" ’ " SECT. 164. " “ " SECT. 165. " ’ " Sscr. 166. ‘ ' "’ SECT.
+167. " ' ' SECT. 168. ‘ ' " SECT. 169. " ' " SECT. 170. " ' '
 
 [TITLE VIII.]
 
@@ -1011,13 +1011,13 @@ fine, or amercemenj: assessed against him, or by virtue of an
 order of delivery issued under this .chapter, or any other
 mesne or final process issued against the plaintifff.
 
-SE01‘. 173. The order for the delivery of the property to
+SECT. 173. The order for the delivery of the property to
 the plaintifff shall be addressed and delivered to the sheriff.
 It shall state the names of the parties, the court in which the
 ‘action is brought, and command the sheriff to take the property, describing it, and deliver it to the plaintifff, and to make
 return. of the order on a day to be named therein. 1
 
-SE01‘. 174. The return day of the order of delivery, when
+SECT. 174. The return day of the order of delivery, when
 issued at the commencement of the suit, shall be the same as
 that of the summons; when issued afterwards, it shall be
 twenty days after it issued.
@@ -1115,7 +1115,7 @@ execution issued on a judgment in favor of the defendant in
 the action shall have been returned, that sufficient property,
 whereon to levy and make the amount of such judgment, cannot be found in the county.
 
-SE01‘. 187. Any order for the delivery of property issued
+SECT. 187. Any order for the delivery of property issued
 under section one hundred and seventy-two, without the affidavit required thereby, shall be set aside at the cost of the
 clerk issuing the same, and such clerk, as well as the plaintifff,
 shall also be liable in damages to the party injured.
@@ -1211,7 +1211,7 @@ Where it is personal property and accessible, he shall take
 the same into his custody, and hold it subject to the order of
 the court. '
 
-SE01‘. 196. The sheriff shall deliver the property attached
+SECT. 196. The sheriff shall deliver the property attached
 to the person in whose possession it was found, upon the
 execution by such person, in the presence of the sheriff, of an
 undertaking to the plaintifff, with one or more sufficient
@@ -1224,7 +1224,7 @@ said property has been lost or destroyed by unavoidable
 accident, the value thereof shall be remitted to the person so
 bound.
 
-SE01‘. 197. When the plaintifff, his agent, or attorney, shall
+SECT. 197. When the plaintifff, his agent, or attorney, shall
 make oath in writing that he has good reason to and does
 believe that any person or corporation, to be named and
 within the county where the action is brought, has property
@@ -1235,7 +1235,7 @@ written notice, that he appear in court at the return of the
 order of attachmerft, and answer as provided in section two
 hundred and eleven.
 
-SE01‘. 198. The copy of the order an the notice shall be
+SECT. 198. The copy of the order an the notice shall be
 served upon the garnishee, as follows: f he be a person,
 they shall be served upon him personally, or left at his _usual
 place of residence; if a corporation, they shall be left with
@@ -1273,7 +1273,7 @@ shall not be affected by the attachment.
 
 Sunmvrsxox 4.—Diapon'n’on qf Attached Property.
 
-SE01‘. 203. The court, or any judge thereof during vacation, may, on the application of the plaintifff, and on good
+SECT. 203. The court, or any judge thereof during vacation, may, on the application of the plaintifff, and on good
 cause shown, appoint a receiver, who shall take an oath faithfully to discharge his duty, and shall give an undertaking to
 the Territory of Dakota, in such sum as the court or judge
 may direct, and with such security as shall be approved by
@@ -1347,7 +1347,7 @@ return of the order, before the clerk, with the same effect as,if
 executed in court; the sureties in either case to be approved
 by the officer before whom the undertaking is.executed.
 
-SE01‘. 211. The garnishee shall appear as follows: If the,
+SECT. 211. The garnishee shall appear as follows: If the,
 order of attachment be returned during a term of court, he‘
 shall appear at that term; if the order be returned during
 vacation, he shall appear at the term next after its return.
@@ -1402,7 +1402,7 @@ of the plaintifffs in attachment are satisfied, the defendant in
 attachment may, on motion, be substituted as the plaintifff in
 the judgment. A
 
-SE01‘. 216. Final judgment shall, not be rendered against
+SECT. 216. Final judgment shall, not be rendered against
 the garnishee, until the action against the defendant in attachment has been determined; and if in such action judgment be rendered for the defendant in attachment, the garnishee shall be discharged and recover costs. If the plaintifff shall recover against the defendant in attachment, and the
 garnishee shall deliver up all the property, monies, and credits
 of the defendant in his possession, and pay all the monies
@@ -1431,7 +1431,7 @@ be not enough to satisfy the same, the judgment shall stand,
 and the execution may issue thereon for the residue, in all
 respects as in other cases. Any surplus of the attached property, or its proceeds, shall be returned to the defendant.
 
-SE01‘. 219. The court may compel the delivery to the,
+SECT. 219. The court may compel the delivery to the,
 sheriff, for sale, of any of the attached property for which an
 undertaking may have been given, and may proceed summarily on such undertaking, to enforce the delivery of the property, or the payment of such sum as may be due upon
 the undertaking, by rules and attachments, as in cases of
@@ -1484,7 +1484,7 @@ attachment was made.
 
 ARTICLE II.-A'1"!'ACHME1\'1'8 in CERTAIN ACTIONS.
 
-SE01‘. 227. 1. Where a debtor has sold, conveyed, or otherwise disposed of his property, with the fraudulent intent to
+SECT. 227. 1. Where a debtor has sold, conveyed, or otherwise disposed of his property, with the fraudulent intent to
 cheat or defraud his creditors, or to hinder or delay them in
 the collection of their debts; or, 2. Is about to make such
 
@@ -1496,7 +1496,7 @@ delaying them in the collection of their debts, a creditor may
 bring an action on a claim before it is due, and have an
 attachment against the property of the debtor.
 
-SE01‘. 228. The attachment authorized by the last section,
+SECT. 228. The attachment authorized by the last section,
 may be granted by the court in which ‘the action is brought,
 or by a judge thereof, but before such action shall be brought,
 or such attachment shall be granted, the plaintifff, his agent or
@@ -1509,7 +1509,7 @@ S301‘. 229. If the court or judge refuse to grant an order
 of attachment, the action shall be dismissed, but without prejudice to a future action; and in all such actions, application
 for an attachment must be made.
 
-SE01‘. 230. The order of the court or judge granting the
+SECT. 230. The order of the court or judge granting the
 attachment, shall specify the amount for which it is allowed,
 not exceeding a sum sufficient to satisfy the plaintifff ’s claim
 and the probable costs of the action.
@@ -1520,7 +1520,7 @@ been executed, in his office, such undertaking on the part
 of the plaintifff, as is directed by,section one hundred and
 ninety.
 
-SE01‘. 232. The plaintifff in such action shall not have
+SECT. 232. The plaintifff in such action shall not have
 judgment on his claim, before it becomes due, and the proceedings on attachment may be conducted without delay.
 
 S801‘. 233. The proceedings in the first article of this
@@ -1595,15 +1595,15 @@ serve the same upon each _party enjoined, in the manner
 prescribed for serving a summons, and make return thereof
 without delay. '
 
-SE01‘. 242. An injunction binds the party, from the time‘
+SECT. 242. An injunction binds the party, from the time‘
 he has notice thereof, and the undertaking required by the
 applicant therefore, is executed.
 
-SE01‘. 243. No injunction shall be granted by a judge,
+SECT. 243. No injunction shall be granted by a judge,
 after a motion therefore has been overruled on the merits of
 the application, by his court.
 
-SE01‘. 244. An injunction granted by a judge may be
+SECT. 244. An injunction granted by a judge may be
 enforced, as they act of the court. Disobedience of an injunction may be punished as a contempt, by the court or any
 judge, who might have granted it in vacation. An attachment may be issued by the court or judge, upon being satisfied by aftidavit of the breach of the injunction, against the
 party guilty of the same; and he may be required, in the
@@ -1677,7 +1677,7 @@ danger. of insolvency, or has forfeited its corporate rights.
 6. In all other cases where receivers have heretofore been
 appointed by the usages of courts of equity.
 
-SE01‘. 251. No party or attorney or person interested in an 1
+SECT. 251. No party or attorney or person interested in an 1
 action shall be appointed receiver therein.
 
 S901‘. 252. Before entering upon his duties, the receiver
@@ -1752,7 +1752,7 @@ ARTICLE II. TRIALS B! JUmr.—Subdivision 1. Formation of the Jury.—2. Conduct
 
 SUBDIVISION 1. — Formation of the Jury.
 
-SE01‘. 262. The general mode of summoning, empanneling,
+SECT. 262. The general mode of summoning, empanneling,
 
 challenging, and swearing a jury, shall be as otherwise provided by law.
 
@@ -1830,7 +1830,7 @@ SECT. 269. In all cases where the jury are discharged during the trial, or after
 be tried again immediately, or at a future time, as the court
 may direct.
 
-SE01‘. 270. When the jury have agreed upon their verdict,
+SECT. 270. When the jury have agreed upon their verdict,
 they must be conducted into court, their names called by the
 clerk, and the verdict rendered by the foreman. When the
 verdict is announced, either party may require the jury to be
@@ -1862,7 +1862,7 @@ established by the evidence, and not the evidence to prove
 them; and they must be so presented as that nothing remains
 to the court, but to draw from them conclusions of law.
 
-SE01‘. 273. In every action for the recovery of money
+SECT. 273. In every action for the recovery of money
 only, or specific real property, the jury, in their discretion,
 may render a general or special verdict. In all other cases,
 the court may direct the jury to find a special verdict in
@@ -1882,7 +1882,7 @@ to recover money of the adverse party, the jury, in their verdict, must assess t
 /
 ARTICLE III.-,—TmAL nr um COURT.
 
-SE01‘. 276. The trial by jury may be waived by the parties in the action arising on contract, and with the assent of
+SECT. 276. The trial by jury may be waived by the parties in the action arising on contract, and with the assent of
 the court, in other actions, in the following manner: 1. By
 the consent of the party appearing, when the other party fails
 to appear at the trial by himself or attorney. 2. By written
@@ -1899,11 +1899,11 @@ law.
 
 ARTICLE IV.—TRIAL BY Bmumzns.
 
-SE01‘. 278. All or any of the issues in the action, whether
+SECT. 278. All or any of the issues in the action, whether
 of fact or law, or both, may be referred, upon the written
 consent of the parties, or upon their oral consent in court entered upon the journal.
 
-SE01‘. 279. When the parties do not consent, the court
+SECT. 279. When the parties do not consent, the court
 may, upon the application of either, or of its own motion,
 direct a referee in either of the following cases: 1. Where
 the trial of an issue of fact shall require the examination of
@@ -1943,7 +1943,7 @@ SECT. 282. A reference as provided in this chapter cannot 1
 be ordered by any court inferior to the district court, except‘
 by consent of parties to the reference and referees.
 
-SE01‘. 283. It shall be the duty of the referees to sign any
+SECT. 283. It shall be the duty of the referees to sign any
 true exceptions taken to any order or decision by them made
 in the case, and return the same with their report to the court
 making the reference.
@@ -1956,7 +1956,7 @@ written agreement of the parties to refer, and shall be filed
 with the clerk of the court with the other papers in the
 [case].
 
-SE01‘. 285. The referees must be sworn or affirmed well
+SECT. 285. The referees must be sworn or affirmed well
 and faithfully to hear and examine the cause, and to make a
 just and true report therein according to the best of their understanding. The oath may be administered by any person
 authorized to take depositions.
@@ -1999,14 +1999,14 @@ SECT. 292.- No exception shall be’ regarded, unless it is
 material, and prejudicial to the substantial rights of the party
 excepting.
 
-SE01‘. 293. Exceptions taken to the decision of any court
+SECT. 293. Exceptions taken to the decision of any court
 of record may, by leave of such court, be withdrawn from
 the files by the party taking the same, at any time before proceedings in error are commenced, and before the exceptions
 are recorded.
 
 ARTICLE VI.’--New Tam. '
 
-SE01‘. 294. A new trial is a reexamination in the same
+SECT. 294. A new trial is a reexamination in the same
 court of an issue of fact after a verdict by a jury, report of a
 referee, or a decision by the court. The former verdict, report,
 or decision shall be vacated, and a new trial granted, on the
@@ -2043,7 +2043,7 @@ section two hundred and ninety-four, must be sustained by
 affidavits showing their truth, and may be controverted by
 affidavits.
 
-SE01‘. 298. Where the grounds for a new trial could not,
+SECT. 298. Where the grounds for a new trial could not,
 with reasonable vdiligence, have been discovered before, but
 are discovered after the term at which the verdict, report of
 referee, or decision was rendered, or made, the application
@@ -2100,7 +2100,7 @@ unless the court in its discretion shall otherwise direct. The
 court may in its discretion hear, at any time, a motion; and
 may by rule prescribe the time for'hearing motions.
 
-SE01‘. 305. In any civil action, wherein the defendant
+SECT. 305. In any civil action, wherein the defendant
 shall answer or demur on or before the first day of the term
 next succeeding the service of process, such first term shall be
 the appearance term, and such cause shall be continued, on
@@ -2127,7 +2127,7 @@ CHAPTER I. Competency of Wilnesses.—II. Means of producing Witnesscs.—III. M
 
 CHAPTER I.—COMPE'I‘ENCY or Wrrxrsssns. ,
 
-Saar. 308. Every human being of sufiicient capacity to
+SECT. 308. Every human being of sufiicient capacity to
 understand the obligations of an oath, is a competent witness
 in all cases, both civil and criminal, except as herein otherwise declared; and no person shall be disqualified as a witness
 in any civil action or proceeding, by reason of his or her interest in the result of the same, as ayparty or otherwise; but
@@ -2147,13 +2147,13 @@ or against the wife, nor the wife for or against the husband,
 unless the contract or facts to be sworn to are in the exclusive knowledge of such husband or wife, as agent or otherwise, in which case but one can testify, and unless in a criminal proceeding for a crime committed by the one against the
 other.
 
-SE01‘. 312. Neither husband or wife can be examined in
+SECT. 312. Neither husband or wife can be examined in
 any case as to any communication made by the one to the
 other, while married, nor as to any fact learned in consequence of the marriage relation; nor shall they, after such
 relation ceases, be permitted to reveal, in testimony, any such
 communication or fact.
 
-SE01‘. 313. No attorney, counsellor, physician, surgeon,
+SECT. 313. No attorney, counsellor, physician, surgeon,
 minister of the gospel, or priest, shall be allowed, in giving
 testimony, to disclose any confidential communication, properly intrusted to him in his professional capacity, and necessary and proper to enable him to discharge the functions of
 his office according to the usual course of practice or discipline.
@@ -2170,7 +2170,7 @@ SECT. 316. A witness is not excused from answering a
 question upon the mere ground that he would be thereby
 subjected to a civil liability.
 
-SE01‘. 317. But when the matter sought to be elicited
+SECT. 317. But when the matter sought to be elicited
 would tend to render him criminally liable, or to expose him
 ‘to public ignominy, he is not compelled to answer, except as
 provided in the next section.
@@ -2194,7 +2194,7 @@ S301‘. 320. When an instrument consists partly of written I
 and partly of printed form, the former controls the latter,}
 where the two are inconsistent.
 
-SE01‘. 321. When the terms of an agreement have been‘
+SECT. 321. When the terms of an agreement have been‘
 intended in a different sense by the parties to it, that sense is ‘
 to prevail against either», party in which he had reason to
 suppose the other under’-s.t‘oQ<'l:i.t;. _
@@ -2213,7 +2213,7 @@ SECT. 324. Evidence respecting handwriting may be given
 by comparisons made by experts or by the jury with writings
 of the same persons, which are proved to be genuine.
 
-SE01‘. 325. The’ entries and other writings of a person
+SECT. 325. The’ entries and other writings of a person
 deceased, made at or near the time of the transaction, and in
 a position to know the facts therein stated, are presumptive
 evidence of such facts, when the entry was made against
@@ -2221,7 +2221,7 @@ the interest of the person so making it, or when made in a
 professional capacity, or in the ordinary course of professional
 conduct, or when made in the performance of a duty specially enjoined by law.
 
-SE01‘. 326. Books of account, containing charges by one
+SECT. 326. Books of account, containing charges by one
 party against the other, made in the ordinary course of
 business, are receivable in evidence only under the following
 circumstances, subject to all just exceptions to their credibility: 1. The books must show a continuous dealing with
@@ -2280,13 +2280,13 @@ or by copy, delivered to the witness, or left at his usual place
 of residence; but such copy need not contain the name of
 any other witness.
 
-SE01‘. 334. A witness shall not be obliged to attend for
+SECT. 334. A witness shall not be obliged to attend for
 examination on the trial of a civil action, except in the county
 of his residence, nor to attend to give his deposition out of
 the county where he resides, or where he may be when the
 subpoena is served upon him.
 
-SE01‘. 335. A witness may demand his travelling fees, and
+SECT. 335. A witness may demand his travelling fees, and
 fee for one day’s attendance, when the subpoena is served
 upon him, and if the same be not paid, the witness shall not
 be obliged to obey the svibpcéna. ‘ The fact of such demand
@@ -2332,7 +2332,7 @@ whomohis deposition is being taken, may apply to a judge of
 the supreme court, district court, or county court, who shall
 have power to discharge him, if jtoppear that his imprisonment is illegal. _  :'_.'
 
-SE01‘. 340. Every g.tta.c.hm_erit° for the arrest or order of
+SECT. 340. Every g.tta.c.hm_erit° for the arrest or order of
 commitment to pri_s9'1i-,o‘F-£2. witness, by a court or officer, pursuant to this c.‘Fm.]1fei‘,'lnust be under the seal of the court. or
 officer,.,it_”'.l1e°-,l1a've.an official seal, and must specify particularlyfztlixfzcéuse of the arrest or commitment; and if the comIflheuieht be for refusing to answer a question, such question
 ’-must be stated in the order. Such order of commitment
@@ -2431,7 +2431,7 @@ justice of the peace, notary public,.mayor or chief magistrate
 of any city or town corporate, a commissioner appointed by
 the governor of this territory to take depositions, or any person authorized by a special commission from this territory.
 
-SE01‘. 356. The officer before whom depositions are
+SECT. 356. The officer before whom depositions are
 taken, must not be a relative or attorney of either party, or
 otherwise interested in the event of the action or proceeding.
 
@@ -2452,7 +2452,7 @@ notice shall be served so as to allow the adverse party sufficient time, by the 
 day for preparation, exclusive of Sundays and the day of service, and the examination may, if so stated in the notice, be
 adjourned from day to day.
 
-SE01‘. 359. When the party against whom the deposition‘
+SECT. 359. When the party against whom the deposition‘
 is to be read, is absent from, or a non-resident of the territory,
 and has no agent, or attorney of record therein, he may be
 notified of the taking of the deposition by publication. The
@@ -2463,7 +2463,7 @@ circulation in that county. The publication must. contain all
 that is required in a written notice, and may be proved in the
 manner prescribed in séction seventy-two.
 
-SE01‘. 360. The deposition shall be written in the pres-,
+SECT. 360. The deposition shall be written in the pres-,
 enoe of the officer taking the same, either by the officer, the;
 witness, or some disinterested person, and subscribed by the
 witness. '
@@ -2484,7 +2484,7 @@ up, indorsed with the title of the action or proceeding, the
 name of the officer taking the same, and addressed and transmitted by such officer to such justice, mayor, or other judicial
 ohiuer, arbitrator, or referees.
 
-SE01‘. 363. When a deposition has once been taken, it
+SECT. 363. When a deposition has once been taken, it
 may be read in any stage of the same action or proceeding,
 or in any other action or proceeding upon the same matter,
 between the same parties, subject, however, to all such exceptions as may be taken thereto under the provisions of this
@@ -2518,7 +2518,7 @@ officer certifying thereto. That the deposition was taken at
 
 _the time and place specified in the notice.
 
-SE01‘. 366. When a deposition is offered to be read in
+SECT. 366. When a deposition is offered to be read in
 evidence, it must appear to the satisfaction of the court, that
 for any cause specified in section three hundred and fifty-two,
 the attendance of the witness cannot be procured. .
@@ -2527,7 +2527,7 @@ SECT. 367. Every deposition intended to be read in evidence on the trial; must b
 
 trial.
 
-SE01‘. 368. °The following fees shall be allowed for taking
+SECT. 368. °The following fees shall be allowed for taking
 depositions in the territory, namely: Swearing each witness,
 five cents; for each subpoena, attachment, or order of commitment, fifty cents; for each hundred words contained in
 such deposition and certificate, ten cents and no more; and
@@ -2643,7 +2643,7 @@ statement be received which is not responsive to some one of
 them. The attorney filing the cross interrogatories shall be
 allowed a reasonable fee therefore, to be taxed in the bill of costs.
 
-SE01‘. 381. Such depositions shall be taken before some
+SECT. 381. Such depositions shall be taken before some
 one authorized by law to take depositions, or before some one
 specially authorized bylthe court or judge, and shall be"returned to the clerk’s office of the court in which the petition
 was filed. '
@@ -2688,7 +2688,7 @@ one or more defendants, in case of unreasonable neglect on
 the part of the plaintifff to serve the summons on other defendants, or to proceed in the cause against the defendant or
 defendants served.
 
-SE01‘. 386. An action may be dismissed without prejudice
+SECT. 386. An action may be dismissed without prejudice
 to a future action. 1. By the plaintifff before the final submission of the case to the jury, or to the court, where the
 trial is by the court. 2. By the court, where the plaintifff fails
 to appear on the trial. 3. By the court, for want of necessary
@@ -2727,7 +2727,7 @@ SBCT. 390. The debt or cause of action shall be briefly
 stated in the judgment, or in a writing to be filed as pleadings
 in other actions. 0 '
 
-SE01‘. 391. Such judgment shall authorize same proceedings for its enforcement, as judgments rendered in actions
+SECT. 391. Such judgment shall authorize same proceedings for its enforcement, as judgments rendered in actions
 
 regularly brought and prosecuted; and the confession shall
 operate as a release of errors.
@@ -2772,7 +2772,7 @@ it, after his attaining full age; but in any case in which, but
 for this section, such reservation would ‘have been proper,
 the infant, within one year after arriving at the age of twentyone years, may show cause against such order or judgment.
 
-SE01‘. 399. All judgments and orders must be entered on
+SECT. 399. All judgments and orders must be entered on
 the journal of the court, and specify clearly the relief granted
 or order made in the action. ,
 
@@ -2784,7 +2784,7 @@ SECT. 401. He shall make up such record in each case, in
 the vacation next after the term at which the same was determined, and the presiding judge of such court shall, at its next
 term thereafter,‘ subscribe the same. .
 
-SE01‘. 402. The records shall be made up from the petition, the procgss, return, the pleadings subsequent thereto,
+SECT. 402. The records shall be made up from the petition, the procgss, return, the pleadings subsequent thereto,
 
 reports, verdicts, orders, judgments, and all material acts and
 proceedings of the court; but if the items of an account
@@ -2811,7 +2811,7 @@ S301‘. 405. In cases where an action has been dismissed
 without prejudice to a future action, the clerk shall make a
 complete record_of the proceedings, upon being paid for making the same by the party desiring the record to be made.
 
-SE01‘. 406. A complete record shall be made in the case
+SECT. 406. A complete record shall be made in the case
 mentioned in section three hundred and eighty-seven, unless
 waived by the parties.
 
@@ -2839,12 +2839,12 @@ TITLE XII.
 CAUSES OF ACTION WHICH SURVIVE, AND ABATEMENT OF
 ACTIONS.
 
-SE01‘. 410. In addition to the causes of action which survive at common law, causes of action for mesne profits, or
+SECT. 410. In addition to the causes of action which survive at common law, causes of action for mesne profits, or
 for an injury to real or personal estate, or for any deceit or
 fraud, shall also survive, and the action may be brought notwithstanding the death of the person entitled or liable to the
 same. '
 
-SE01‘. 411. No action pending in any ‘court shall abate by l
+SECT. 411. No action pending in any ‘court shall abate by l
 
 the death of either or both the parties thereto, except an action for libel, slander, malicious prosecution, assault, or assault and battery, for a nuisance, or against a justice of the
 
@@ -2881,13 +2881,13 @@ judgment, if the right of action survive in favor of, or against
 his representatives or successor, the action may be revived,
 and proceed in their names.
 
-SE01‘. 415. The revivor shall be, by a conditional order of
+SECT. 415. The revivor shall be, by a conditional order of
 the court, if made in term, or by a judge thereof, if made in
 vacation, that the action be revived in the names of the representatives, or successor of the party who died, or whose
 
 . powers ceased, and proceed in favor of, or against them.
 
-SE01‘. 416. The order may be made on motion of the
+SECT. 416. The order may be made on motion of the
 adverse party, or of the representatives‘ or successor of the
 party who died, or whose powers ceased, suggesting his death,
 or the cessation of his powers, which, with the names and
@@ -2901,7 +2901,7 @@ by consent, the order shall be served in the same manner, and
 returned within the same time as a summons, upon the party
 adverse to the one making the motion, and if sufficient cause
 be not shown against the revivor, the action shall stand
-revived. SE01‘. 418. When the plaintifff shall make an affidavit,
+revived. SECT. 418. When the plaintifff shall make an affidavit,
 that the representatives of the defendant, or any of them in
 whose name the action may be ordered to be revived, are
 non-residents of the territory, or have left the same to avoid
@@ -2924,7 +2924,7 @@ his right has passed. Where his right has passed to his personal representative,
 it has passed to his heirs or devisees, who could support the
 action if brought anew, the revivor may be in their names.
 
-SE01‘. 420. Upon the death of a defendant in an action,
+SECT. 420. Upon the death of a defendant in an action,
 wherein the right, or any part thereof, survives against his
 personal representative, the revivor shall be against him; and
 it may also be against the heirs or devisees of the defendant,
@@ -2978,7 +2978,7 @@ SECT. 427. When a judgment is recovered against oge or
 more persons, jointly indebted upon contract, those who were
 not originally summoned may be made parties to the judgment by action.
 
-SE01‘. 428. If either or both the parties die after judgment,
+SECT. 428. If either or both the parties die after judgment,
 and before satisfaction thereof, their representatives, real or
 personal, or both, as the case may require, may be made
 parties to the same, in the same m'anner as prescribed for
@@ -2997,7 +2997,7 @@ EXECUTIONS.
 
 CHAPTER I. Executions against the Property of a Judgment Debtor.II. Proceedings in aid of Execution.~III. Executions against the Person.— IV. Executions for the delivery of Real Property.-V. Judgment before Justices of the Peace.
 
-SE01‘. 430. Executions shall be deemed process of the
+SECT. 430. Executions shall be deemed process of the
 court, and shall be issued by the clerk and directed to the
 
 sheriff of the county. They may be directed to different
@@ -3013,7 +3013,7 @@ CHAPTER I.—-EXECUTION8 AGAINST THE PROPERTY or run June’ MENT D1-znron.
 SECT. 432. Lands, tenements, goods, and chattels, not
 exempt by law, shall be subject to the payment of debts, and
 shall be liable to be taken on execution, and sold as hereinafter provided. _
-SE01‘. 433. All lands, as well as goods and chattels of the
+SECT. 433. All lands, as well as goods and chattels of the
 debtor, not exempt by law from levy, seizure, and sale under
 
 .an1axecution, shall be bound from the time they shall be
@@ -3039,7 +3039,7 @@ tenements of the debtor; and the exact amount of the debt,
 damages, and costs, for which the judgment is entered, shall
 be indorsed on the execution.
 
-SE01‘. 436. When two or more writs of execution against
+SECT. 436. When two or more writs of execution against
 the same debtor shall be sued out during the term in which
 judgment was rendered, or within ten days thereafter, and
 when two or more writs of execution against the same debtor
@@ -3292,7 +3292,7 @@ SI-JCT. 454. If lands and tenements, levied on as aforesaid,
 are not sold upon one execution, other executions may be
 issued to sell the lands so levied upon.
 
-SE01‘. 455. In all cases, when two or more executions
+SECT. 455. In all cases, when two or more executions
 shall be put into the hands of any sheriff, or other officer, and
 it shall be necessary to levy on real estate to satisfy the same,
 and either of the judgment creditors in whose favor one or
@@ -3435,7 +3435,7 @@ clerk may be amerced; and the proceedings against him and
 his sureties shall be the same as provided for in the foregoing
 section against sheriffs and their sureties.
 
-SE01‘. 465. When the cause of amercement is for refusing
+SECT. 465. When the cause of amercement is for refusing
 to pay over money collected as aforesaid, the said sheriff or
 other officer shall not be amerced in a greater sum than the
 amount so withheld, with ten per centum thereon.
@@ -3451,7 +3451,7 @@ mailed soon enough to have reached the office where it was
 issued, within the time prescribed by law, the sheriff or coroner shall not be liable for any amercement or penalty, if it do
 not reach the office in due time. .
 
-SE01‘. 467. No sheriff shall forward, by mail, any money
+SECT. 467. No sheriff shall forward, by mail, any money
 made on any such execution, unless he shall be specially
 instructed to do it by the plaintifff, his agent. or attorney of
 record. In all cases of a motion to amerce a sheriff or other
@@ -3465,7 +3465,7 @@ term at which such motion shall be made. All amercements
 so procured shall be entered on the record of the court, and
 shall have the same force and effect as a judgment.
 
-SE01‘. 468. Each and every surety of any sheriff or other
+SECT. 468. Each and every surety of any sheriff or other
 officer may be made a party to the judgment rendered as
 aforesaid, against the sheriff or other officer, by action, to
 
@@ -3498,7 +3498,7 @@ possession of any person, body politic or corporate, shall be
 subject to the payment,of such judgment, by proceedings in
 equity, or as in this chapter prescribed.
 
-SE01‘. 471. When an execution against the property of a
+SECT. 471. When an execution against the property of a
 judgment debtor, or one of several debtors in the same judgment, is issued to the sheriff of a county where he resides, or
 if he do not reside in the territory, to the sheriff of the county
 where the judgment was rendered, or a transcript of a justice’s
@@ -3508,7 +3508,7 @@ judge of the district court of the county to which the execution was issued, req
 concerning his property, before such judge, or a referee appointed by such judge, at a time and place specified in such
 order, within the county to which the execution was issued.
 
-SE01‘. 472. After the issuing of an execution against property, and upon proof by affidavit of the judgment creditor or
+SECT. 472. After the issuing of an execution against property, and upon proof by affidavit of the judgment creditor or
 otherwise, to the satisfaction of the district court, or a judge
 thereof, that the judgment debtor has property which he
 unjustly refuses to apply towards the satisfaction of the
@@ -3526,7 +3526,7 @@ ground that his examination will tend to convict him of a
 fraud, but his answer shall not be usedias evidence against
 him in a criminal prosecution for such fraud.
 
-SE01‘. 475. After the issuing of execution against property, any person indebted to the judgment debtor, may pay to
+SECT. 475. After the issuing of execution against property, any person indebted to the judgment debtor, may pay to
 the sheriff the amount of his debt, or so much thereof as
 may be necessary to satisfy the execution, and the sheriff’s
 receipt shall be a sufficient discharge for the amount so paid,
@@ -3543,7 +3543,7 @@ which such person or corporation may be served with the
 order to answer, and answer concerning the same. The
 judge may, also, in his discretion, require notice of such proceeding to be given to any party in the action, in such manner as may seem to him proper.
 
-SE01‘. 477. Witnesses may be required, upon the order of
+SECT. 477. Witnesses may be required, upon the order of
 the judge, or by a subpoena issued by the clerk of the district court, to appear and testify upon any proceedings in
 this chapter, in the same manner as upon the trial of an
 issue.
@@ -3619,7 +3619,7 @@ SECT. 494. " " " Sscr. 495. " “' '
 CHAPTER IV.—Ex1~:cUrroNs FOR rm: DELIVERY or REAL
 PROPERTY.
 
-SE01‘. 496. If the execution be for the delivery of the possession of real property, it shall require the officer to deliver
+SECT. 496. If the execution be for the delivery of the possession of real property, it shall require the officer to deliver
 the same, particularly describing the property, to the party
 entitled thereto, and may at the same time ‘require the officer
 to satisfy any costs or damages recovered in the same judgment, out of the goods and chattels of the party against
@@ -3642,7 +3642,7 @@ the clerk shall, on the day on which the same shall be filed,
 enter the case on the execution docket, together with the
 amount of the judgment and the time of filing the transcript.
 
-SE01‘. 499. Such judgment, if the transcript shall be filed
+SECT. 499. Such judgment, if the transcript shall be filed
 in term time, shall have a lien on the real estate of the judgment debtor from the first day of the term; if filed in vacation, as against the judgment debtor, said judgment shall
 have alien from the "day of the filing, and as against subsequent judgment creditors— at the next succeeding term, and
 other transcripts filed in vacation, said judgment shall have
@@ -3656,7 +3656,7 @@ and return the same, as other executions; and, in case of
 sale of real estate, his proceedings shall be examined and
 approved by the court, as in other cases.
 
-SE01‘. 501. The justice of the peace shall certify, on the.
+SECT. 501. The justice of the peace shall certify, on the.
 transcript, the amount, if any, paid on such judgment. The ,
 costs of the transcript, the filing of the same, and the entry of l
 the case on the execution docket shall be paid by the party
@@ -3673,7 +3673,7 @@ CHAPTER I. Ofer to C'ompromz'se.—II. Submitting a Controversg/.—I1I.
 
 CHAPTER I.—-OFFER T0 Comrnomsa.
 
-SE01‘. 502. The defendant in an action for the recovery of
+SECT. 502. The defendant in an action for the recovery of
 money only, may, at any time before the trial, serve upon thei
 plaintiff or his attorney, an offer, in writing, to allow judgment to be taken against him for the sum specfied therein.
 
@@ -3694,7 +3694,7 @@ for a continuance of an action, or a postponement of a trial.
 
 CHAPTER II.—SuBM1r'rrxo A Conmovansr.
 
-SE01‘. 504. Parties to a question which might be the subject of a civil, action, may, without action, agree upon a case
+SECT. 504. Parties to a question which might be the subject of a civil, action, may, without action, agree upon a case
 containing the facts upon which the controversy depends, and
 present a submission of the same to any court which would
 have jurisdiction, if an action had been brought. But it must
@@ -3702,7 +3702,7 @@ appear, by affidavit, that the controversy is’ real, and the proceedings in go
 The court shall thereupon hear and determine the case and
 render judgment, as if an action were pending.
 
-SE01‘. 505. The case, the submission, and the judgment
+SECT. 505. The case, the submission, and the judgment
 shall constitute the record.
 
 SECT. 506. The judgment shall be with costs, may be enforced, and shall be subject to reversal in the same manner as
@@ -3752,7 +3752,7 @@ S301‘. 510. Several objects may be included in the same
 motion if they all grow out of, or are connected with, the action
 or proceeding in which it is made.
 
-SE01‘. 511. Where notice of a motion is required, it must
+SECT. 511. Where notice of a motion is required, it must
 be,in writing, and shall state the names of the parties to the
 action or proceeding in which it is made, the name of the
 court or judge before whom it is to be made, the place where,
@@ -3776,7 +3776,7 @@ SECT. 513. 'I:he service of a notice shall be made as is
 required by law for the service of a summons, and when served
 by an officer, he shall be entitled to like fees.
 
-SE01‘. 514. Motions to strike pleadings and papers from
+SECT. 514. Motions to strike pleadings and papers from
 'the files may be made with or without notice, as the court or
 judge shall direct. .
 
@@ -3812,7 +3812,7 @@ SEC1‘. 519. A judgment rendered or final order made by
 the district court, may be reversed, vacated, or modified by
 the supreme court, for errors appearingon the record.
 
-SE01‘. 520. A judgment rendered or final order made by
+SECT. 520. A judgment rendered or final order made by
 any court, board, or tribunal, mentioned in_ the preceding sections, may be reversed, vacated, or modified, by the supreme
 court, for errors appearing on the record; but the petition in
 error, in such case, can be filed only by leave of the supreme
@@ -3966,7 +3966,7 @@ in error had not been taken; or such court may award execution _to carry into ef
 same manner as if such judgment had been rendered in the
 district court.
 
-Sncr. 537. When the proceedings of a justice of the
+SECT. 537. When the proceedings of a justice of the
 peace are taken, on error, to the district court, in manner
 aforesaid, and the judgment of such justice shall be reversed
 or set aside, the court shall render judgment of reversal and
@@ -4011,13 +4011,13 @@ waiver of error by the party or his attorney, unless the court
 or a judge thereof shall indorse upon the petition permission
 to issue such summons.
 
-SE01‘. 540. The proceedings to correct mistakes or omissions of the clerk, or irregularity in obtaining a judgment or
+SECT. 540. The proceedings to correct mistakes or omissions of the clerk, or irregularity in obtaining a judgment or
 order, shall be by motion, upon reasonable notice to the adverse party or his attorney in the action. The motion to
 vacate a judgment because of its rendition before the action
 regularly stood for trial, can be made only in the first three
 days of the succeeding tefm.
 
-SE01‘. 541. The court may first try and decide upon the
+SECT. 541. The court may first try and decide upon the
 grounds to vacate or modify a judgment or order, before trying or deciding upon the validity of the defense or cause of
 action.
 
@@ -4033,7 +4033,7 @@ rendered probable, by affidavit or by exhibition of the record,
 that the party is entitled to have such judgment or order
 vacated or modified.
 
-SE01‘. 544. When the judgment was rendered before the
+SECT. 544. When the judgment was rendered before the
 action stood for trial, the suspension may be granted as provided in the last section, although no valid defense to the _
 
 action is shown; and the court shall make such orders concerning the executions to be issued on the judgment, as shall
@@ -4056,7 +4056,7 @@ SICT. 546. The provisions of this title subsequent to section five hundred and t
 court, so far as the same may be applicable to the judgments
 or final orders of such court.
 
-SE01‘. 547. Cases pending in appellate courts on writs of
+SECT. 547. Cases pending in appellate courts on writs of
 error or otherwise, when this code takes effect, shall be conducted to final judgment, as if it had not been adopted, and
 the liens of judgments and decrees rendered when it takes
 effect shall be preserved.
@@ -4067,7 +4067,7 @@ COSTS.
 
 CHAPTER I.
 
-SE01‘.  In cases in'which the plaintifff is a non-resident of the county in which the action is to be brought, before ‘
+SECT.  In cases in'which the plaintifff is a non-resident of the county in which the action is to be brought, before ‘
 commencing such action, the plaintifff must furnish a sufficient
 surety for costs. The surety must be a resident of the county
 where the action is to be brought, and approved by the clerk.
@@ -4090,7 +4090,7 @@ dismissed on the motion and notice by the defendant at any
 proper time before judgment, unless in a reasonable time to
 be allowed by the court, such security for costs be given.
 
-SE01‘. 550. If the plaintifff in an action, after its commencement, become a non-resident of the county in which it
+SECT. 550. If the plaintifff in an action, after its commencement, become a non-resident of the county in which it
 is brought, he shall give security for the costs in the manner
 and under the restrictions provided in the two preceding sections.
 
@@ -4101,7 +4101,7 @@ such motion, the court be satisfied that the surety has removed .
 from this territory, or is not sufficient, the action may be dismissed, unless in a reasonable time to be fixed by the court,
 sufficient surety be given by the plaintifff.
 
-SE01‘. 552. After final judgment has been rendered in an
+SECT. 552. After final judgment has been rendered in an
 action, in which security for costs has been given, as required
 by this chapter, the court, on motion of the defendant, or any
 other person having a right to such costs or any part thereof,
@@ -4124,7 +4124,7 @@ interest in land or other property, the subject-matter of the
 action, they shall "recover their costs unless for special reasons
 the court decide otherwise.
 
-SE01‘. 555. Unless otherwise provided by statute, the costs
+SECT. 555. Unless otherwise provided by statute, the costs
 of motions, continuances, amendments, and the like, shall be
 taxed and paid, as the court in its discretion may direct.
 
@@ -4145,7 +4145,7 @@ the peace for misconduct in office, if the damages assessed
 be under five dollars, the plaintifff shall not recover any
 costs. ‘
 
-Sncr. 558. Costs shall, be allowed of course, to any defendant upon a judgment in his favor in the actions men?
+SECT. 558. Costs shall, be allowed of course, to any defendant upon a judgment in his favor in the actions men?
 tioned in the last two sections.
 
 S301‘. 559. In other actions the court may award and tax
@@ -4179,7 +4179,7 @@ Proceedings upon Mandamus.
 
 CHAPTER I.—Acrrons concrmxrxo REAL Pnorrmrv.
 
-SE01‘. 562. In an action for the recovery of real property,
+SECT. 562. In an action for the recovery of real property,
 it shall be sufficient, if the plaintifff state in his petition, that
 he has a real estate therein and is_entitled to the possession
 thereof, describing the same, as required by section one hundred and twenty-three, and that the defendant unlawfully
@@ -4222,7 +4222,7 @@ property may avail themselves, if entitled thereto, of the relief 3
 of the statutes in force for-the relief of occupying claimants‘
 of land.
 
-SE01‘. 569. If a guardian, tenant for life or years, joint,
+SECT. 569. If a guardian, tenant for life or years, joint,
 tenant, or tenant in common, of real property, commit waste ‘
 thereon, he is liable to pay three times the damages which
 have resulted from such waste to the pirson who is entitled to
@@ -4238,7 +4238,7 @@ reversion. '
 S1-:c'r. 571. Any person whose duty it is to prevent waste,
 and who has not used reasonable care and diligence to prevent it, is deemed to have committed it.
 
-SE01‘. 572. For willful trespass, injuring any timber, tree,
+SECT. 572. For willful trespass, injuring any timber, tree,
 or shrub on the land of another, or in the street or highway
 in front of another’s cultivated ground, yard, or town lot, or
 on the public grounds of -any town, or any land held by this
@@ -4246,7 +4246,7 @@ territory, for any purpose whatever, the trespasscr shall pay
 treble damages, at the suit of any person entitled to protect
 or enjoy the property aforesaid.
 
-SE01‘. 573. Nothing herein contained authorizes the recovery of more than the just value of the timber taken from
+SECT. 573. Nothing herein contained authorizes the recovery of more than the just value of the timber taken from
 uncultivated woodland for the repair of a public highway or
 bridge, upon the land in its immediate neighborhood.
 
@@ -4259,7 +4259,7 @@ maintain these actions for injuries done in the time of his
 ancestors, as well as in his owri time, unless barred by the
 statute of limitations.
 
-SE01‘. 576. Where lands or tenements are sold by virtue
+SECT. 576. Where lands or tenements are sold by virtue
 
 of an execution, the purchaser at such sale may maintain his
 action against any person, for either of the causes above
@@ -4278,7 +4278,7 @@ to have committed waste, and will be liable accordingly.
 
 CHAPTER II.—ACTIONS ON OFFICIAL Szcumrms.
 
-SE01‘. 579. When an officer, executor, or administrator
+SECT. 579. When an officer, executor, or administrator
 within this territory, by misconduct or neglect of duty, forfeits his bond or renders his sureties, any person injured
 thereby, or who is by law entitled to the benefit of the security, may bring an action thereon, in his own name, against
 the officer, executor, or administrator and his sureties, to
@@ -4286,7 +4286,7 @@ recover the amount to which he may be entitled by reason of
 the delinquency. The action may be instituted and proceeded in on a certified copy of the bond, which copy shall
 be furnished by the person holding the original thereof.
 
-SE01‘. 580. A judgment in favor of a party for one delinquency, does not preclude the same or another party from an
+SECT. 580. A judgment in favor of a party for one delinquency, does not preclude the same or another party from an
 action on the same security for another delinquency.
 
 CHAPTER III.—ACTIONS FOR THE PAnrr'rroN or REAL Paornarr.
@@ -4344,13 +4344,13 @@ writ must be served personally upon the defendant. If the
 defendant duly served neglect to return the same, he shall be
 proceeded against, as for a contempt
 
-SE01‘. 588. On the return day of the alternative writ, or
+SECT. 588. On the return day of the alternative writ, or
 such further day, as the court may alloW,.the party, on whom
 the writ shall have been served, may show cause by answer
 made, in the same manner as an answer to a petition in a
 civil action.
 
-SE01‘. 589. If no answer be made, a peremptory mandamus
+SECT. 589. If no answer be made, a peremptory mandamus
 must be allowed against the defendant. If an answer be
 
 .made containing new matter, the same shall not, in any
@@ -4368,7 +4368,7 @@ civil action; and the issues thereby joined must be tried, and
 the further proceedings thereon had in the same manner as in
 a civil action.
 
-SE01‘. 591. If judgment be given for the plaintifff, he shall
+SECT. 591. If judgment be given for the plaintifff, he shall
 recover the damages which he shall have sustained, to be
 ascertained by the court, or a jury, or by referees, in a civil
 action, and costs; and a peremptory mandamus shall, also,
@@ -4417,7 +4417,7 @@ sheriff for similar services.
 
 CHAPTER II.—Du'rrE_s or Cnsrucs.
 
-SE01‘. 597. All writs and orders for provisional remedies,
+SECT. 597. All writs and orders for provisional remedies,
 and process of every kind, shall be issued by the clerks of the
 several courts. Before they shall be issued, a precipe shall
 be filed with the clerk demanding the same; which precipe shall be for the direction of the clerk, and not material
@@ -4474,10 +4474,10 @@ law.
 
 CHAPTER IV.—-MISCELLANEOUS Pnovrsross. A
 
-SE01‘. 607. Any duty enjoined by this code upon a ministerial officer, and any act permitted to be done by himmay be
+SECT. 607. Any duty enjoined by this code upon a ministerial officer, and any act permitted to be done by himmay be
 performed by his lawful deputy. .
 
-SE01‘. 608. Whenever an oath is required by this code,
+SECT. 608. Whenever an oath is required by this code,
 
 the affirmation of a person conscientiously scrupulous of tak-‘
 
@@ -4488,7 +4488,7 @@ as herein provided, shall be computed by excluding the first
 day and including the last; if the last day may be Sunday, it
 shall be excluded.
 
-SE01‘. 610. Section three hundred and eighty-eight shall
+SECT. 610. Section three hundred and eighty-eight shall
 not be construed to impair the right of a party to a jury, if
 he appear at the trial by himself or attorney, and demand the
 same.
@@ -4521,7 +4521,7 @@ court and the district courts.
 
 CHAPTER V.—PROVI8IONS AS TO THE Opmuxrroxs or THE Cons.
 
-SE01‘. 614. Rights of civil action, given or secured by
+SECT. 614. Rights of civil action, given or secured by
 existing laws, shall be prosecuted in the manner provided by
 this code. , If a case ever arise in which an action for the
 enforcement or protection of a right, or the redress or prevention of a wrong, cannot be had under this code, the practice
@@ -4531,7 +4531,7 @@ to prevent a failure of justice.
 
 SECT. 615. ' ’ "‘ * ' ' " '
 
-SE01‘. 616. Where, by statute, a civil action, legal or equitable, is given, and the mode of proceeding therein is prescribed, this code shall not affect the proceedings under such
+SECT. 616. Where, by statute, a civil action, legal or equitable, is given, and the mode of proceeding therein is prescribed, this code shall not affect the proceedings under such
 statute, until the legislature shall otherwise provide; but, in
 all such cases, as far as it may be consistent with the statute
 giving such action, and practicable under this code, the proceedings shall be conducted in conformity thereto. Where

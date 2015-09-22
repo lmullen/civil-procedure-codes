@@ -109,7 +109,7 @@ SECTION 8. The error mentioned in the last section may be
 corrected by the plaintifff, without motion, at any time before
 the defendant has answered; or afterward, on motion in court.
 
-Sscrxon 9. The defendant shall be entitled to have the correction made in the following cases:
+SECTION 9. The defendant shall be entitled to have the correction made in the following cases:
 
 First. When the action has been commenced by equitable
 proceedings, the defendant, by motion made at the time of
@@ -2382,7 +2382,7 @@ and in the case mentioned in the second subdivision of Section 216, Where it is 
 of the sheriff or other officer upon the order for the delivery of
 the property claimed, that the facts Inentioned in that subdivision exist.
 
-Sscrxox 218. Wllell the return by the proper oiiicer upon
+SECTION 218. Wllell the return by the proper oiiicer upon
 a summons against a defendant, states that he has left the
 county to avoid the service of the summons, or has concealed
 himself therein for that purpose, it shall be equivalent to the
@@ -2406,7 +2406,7 @@ exceeding thirty dollars; also, to summon the garnishees to answer in the action
 due return thereof. The order shall be made returnable as an
 order of arrest is directed to be returned. 2 ,
 
-Sscrrou 221. Orders of attachment may be issued to the
+SECTION 221. Orders of attachment may be issued to the
 sheriffs or other oiiicers of other counties, and several of them
 may, at the option of the plaintifff, jbe issued at the same
 time, or in succession. But such only as have been executed
@@ -2428,13 +2428,13 @@ order sustaining the attachment Without designating the
 grounds upon which it is sustained, shall be equivalent to sustaining the same on grounds that existed at the time the at- 2
 
 tachment was sued out.
-Snorer: 223. Attachments may be sued out, and the actions in which the same are obtained, may be prosecuted in any
+SECTION 223. Attachments may be sued out, and the actions in which the same are obtained, may be prosecuted in any
 
 county in which property may be attached, or a garnishee, who
 is indebted, or has property belonging to the defendant, is
 served with process.
 
-SBCHON 224. The plaintifff in civil action may have an attachment against the property of a garnishee who is made a
+SECTION 224. The plaintifff in civil action may have an attachment against the property of a garnishee who is made a
 defendant thereto, by stating in his affidavit some one or more
 of the grounds of attachment mentioned in this chapter, and
 the amount which the garnishee is indebted to the principal
@@ -2627,7 +2627,7 @@ responsibilities, as if appointed by the Court in term time.
 And the defendant or any claimant of any attached property
 may be required by the court or by such receiver to give information on oath respecting the property.
 
-Sscrxox 240. The sheriff or other officer shall be allowed
+SECTION 240. The sheriff or other officer shall be allowed
 by the court the necessary expense of ‘keeping the attached
 
 property, to be paid by the plaintifff, and taxed in the costs.
@@ -3103,7 +3103,7 @@ Without sufiicient cause, or that the grounds of attachment
 being controverted are not sustained, the attachment shall be
 discharged.
 
-Sscrxox 283. The orders for a discharge of an attachment,
+SECTION 283. The orders for a discharge of an attachment,
 made at or after the rendition of judgment in the action, shall
 be final, and not subject to be reinstated as provided in this
 Article, but shall be subject of appeal where the amount in
@@ -3399,7 +3399,7 @@ SECTION 308. No injunction shall be granted to stay proceedings upon a judgment 
 probate court, where the value of the matter in dispute does
 not exceed twenty dollars.
 
-Sscrxox 309. An injunction to stay proceedings on a judgment, or final order of a court, shall not be granted in an actiom
+SECTION 309. An injunction to stay proceedings on a judgment, or final order of a court, shall not be granted in an actiom
 
 brought by the party seeking the injunction in any othercourt than that in which the judgment or order was rendered
 or made. Nor shall such injunction be granted by any officer
@@ -4835,7 +4835,7 @@ claim.
 
 449. If a set-oil’ or counterclaim is disclosed, to be allowed.
 
-Sscrrou 443.
+SECTION 443.
 
 slzcnox-—
 
@@ -4998,7 +4998,7 @@ order to be made for restoration of
 Sscrrox 456. The action for alimony or divorce shall be by
 equitable proceedings.
 
-Sscrxox 457. The pleadings are not required to be veriiied
+SECTION 457. The pleadings are not required to be veriiied
 by aiiidavit. But either party may file interrogatories to the
 other in regard to any matter of property involved in the action,
 
@@ -5028,7 +5028,7 @@ reasonable fee for her attorneys, and enforce the payment of
 the same by orders and executions, and proceedings as in cases
 of contempt.
 
-Sscrxon 461. In every final judgment for divorce from the
+SECTION 461. In every final judgment for divorce from the
 bond of matrimony, an order shall be made, that each party be
 restored to all property not disposed of at the commencement
 of the action, which either party attained from or through the
@@ -5662,7 +5662,7 @@ proceedings on the inquisition, and return the whole of the
 papers and proceedings, or a fair transcript thereof, to the office
 of the Circuit Court for said county, within ten days thereafter.
 
-Sscrrou 507. Upon this bond, if the traverser fails to prosecute his traverse with effeet, he and his surety shall be liable
+SECTION 507. Upon this bond, if the traverser fails to prosecute his traverse with effeet, he and his surety shall be liable
 for the damages for witholding the possession which the traversee may be entitled to recover against the traverser, during
 the pendcncy of the traverse, either in the Circuit Court, or
 Supreme Court, as well as the reasonable expenses of the traversee in defending the traverse, not exceeding the penalty of
@@ -5695,7 +5695,7 @@ SECTION 512. No inquisition of forcible entry or forcible
 detainer shall be taken at any time after two years from the
 forcible entry or detainer complained of.
 
-CIIAPTER I X.
+CHAPTER I X.
 
 Probate of U '1' l I .5‘.
 
@@ -5720,10 +5720,10 @@ xiuu,___wm-ning order as to 33,. in the clerk's office for safe keeping.
 sentees. Appointment of guardians
 ' for infants. etc.
 
-SEC1'I0.N 513. The manner of proving wills and contesting
+SECTION 513. The manner of proving wills and contesting
 their probate shall be as follows:
 
-Fz’rst.—Wills shall be proved before, and admitted to record
+First.—Wills shall be proved before, and admitted to record
 by the Probate Court of the county of the testator’s residence;
 if he had no known place of residence in this State, and land is
 devised, then in the county where the land, or the greater part
@@ -6953,7 +6953,7 @@ last section, the depositions may be taken before a judge of a
 court, a justice of the peace, a notary public, or a clerk of a
 court.
 
-Sscrxox 619. Where a deposition is taken before any other
+SECTION 619. Where a deposition is taken before any other
 officer than an examiner, the cause of it being so taken shall be
 made to appear by an accompanying affidavit.
 
@@ -8152,7 +8152,7 @@ render judgment as if an action were pending.
 SECTION 720. The case, the submission, and the judgment
 shall constitute the record. T
 
-Sscrxox 721. The judgment shall be with costs, may be
+SECTION 721. The judgment shall be with costs, may be
 enforced, and shall be subject to reversal in the same manner
 as if it had been rendered in an action, unless otherwise provided in the submission.
 
@@ -8343,7 +8343,7 @@ SECTION 737. Where the motion is made before a justice of
 the peace, he shall cause a jury to find the facts, subject to an
 appeal where the amount exceeds twenty-live dollars.
 
-Sscrxox 738. Where the motion is made in court, it shall
+SECTION 738. Where the motion is made in court, it shall
 
 , direct a jury to find the facts.
 
@@ -8739,7 +8739,7 @@ State, and all laws coming Within the purview of its provisionsshall be repealed
 be affected by the provisions of this section, except that they
 may conform to this Code as far as is practicable.
 
-Sscrxon 781. Any duty enjoined by this Code upon a ministerial officer, and any act permitted to be done by him, may
+SECTION 781. Any duty enjoined by this Code upon a ministerial officer, and any act permitted to be done by him, may
 be performed by his lawful deputy.
 
 SECTION 782. An authority conferred upon three or more

@@ -39,7 +39,7 @@ executions and other writs and processes, and to do all such other
 acts, as may be necessary or proper to carry into full effect all the
 powers, which are or may be given to them by the laws of the Commonwealth.
 
-Saar. 10. They shall, from time to time, make rules for regulating the practice and conducting the business of said court, in all
+SECT. 10. They shall, from time to time, make rules for regulating the practice and conducting the business of said court, in all
 cases not expressly provided for by law, and they shall, within two
 years after this act shall take effect, and once at least in every seven
 years thereafter, revise the said rules, with a View to the attainment,
@@ -253,7 +253,7 @@ or more of the said justices, at such time and place, as they shall
 direct by an order in writing, under their hands, addressed to the
 sheriff of the county.
 
-Saar. 44. The sheriff shall give notice of the intended special
+SECT. 44. The sheriff shall give notice of the intended special
 term of the court, by posting a copy of the order on the door of the
 court house, and by publishing the same, in such other manner as
 shall be therein directed; and the clerk of the county shall issue
@@ -533,7 +533,7 @@ SECTION 1. The justices of the court of common pleas shall
 provided by the constitution, so that there shall always be one chief
 justice" and three other justices of the said court.
 
-SE01‘. 2. - The said court shall have original jurisdiction of all civil
+SECT. 2. - The said court shall have original jurisdiction of all civil
 
 " actions, except those of which the supreme judicial court, or justices
 
@@ -553,7 +553,7 @@ SECT. 5. The preceding section shall not affect the provisions of
 any statute, by which jurisdiction may be given in any case to the court
 of common pleas.
 
-SE01‘. 6. Any party, aggrieved by the judgment or final decision
+SECT. 6. Any party, aggrieved by the judgment or final decision
 of the court of common pleas, in any personal action, wherein the
 debt or damages demanded shall exceed one hundred dollars, or in
 any of the actions before mentioned, in which the title to real estate
@@ -564,7 +564,7 @@ judicial court, then next to be held for the county where the judgment is render
 in abatement or a demurrer, the appeal may be claimed as from a
 fiualjudgment, without any further proceedings in the court of common pleas.
 
-SE01‘. 7. If upon any appeal, the action is prepared, by an issue
+SECT. 7. If upon any appeal, the action is prepared, by an issue
 in law or otherwise, to be decided on a question of law, without a
 trial by jury, and if a law term of the supreme judicial court is to be
 held for the said county, after such appeal and before any session of
@@ -590,7 +590,7 @@ from ; and if the appellant shall fail to enter his appeal, and to produce the n
 complaint of the adverse party, affirm the former judgment, or render
 such other judgment as law and justice shall require.
 
-SE01‘. 11. When an action is submitted to the determination of
+SECT. 11. When an action is submitted to the determination of
 the court of common pleas, upon a case stated by the parties, either
 party may appeal from the judgment, unless it is agreed that the judgment of the court of common pleas shall be final. .
 
@@ -690,7 +690,7 @@ bscr. 23. No petition for the entry of any such appeal or complaint shall be mai
 in the clerk’s office, within one year after the term, at which the
 same ought to have been entered.
 
-Sncr. 24. No attachment made, and no bail taken, in the original
+SECT. 24. No attachment made, and no bail taken, in the original
 action, shall be revived or continued in force by the entry of any
 appeal or complaint of the original plaintifff, which shall be allowed by
 force of the three preceding sections ; but such attachment and bail
@@ -870,7 +870,7 @@ transaction of criminal business.
 Snow. 44. In all writs, processes, records and judicial proceedings, civil and criminal, the day on which any of the said terms is to
 commence may be designated as the first, second or other Monday,
 or other day of the week in the month in which the same shall happen.
-Sncr. 45. The chief justice of the court shall receive an annual
+SECT. 45. The chief justice of the court shall receive an annual
 
 salary of two thousand one hundred dollars, and each of the other
 justices shall receive an annual salary of eighteen hundred dollars;
@@ -966,7 +966,7 @@ without the state, leaving any estate to be administered within such
 county ; and also to appoint guardians to minors and others, in the
 cases prescribed by law.
 
-SE01‘. 6. He shall have jurisdiction of all matters relating to the
+SECT. 6. He shall have jurisdiction of all matters relating to the
 settlement of the estates of such deceased persons, and of such minors and others under guardianship.
 
 Sscr. 7. All his decrees and orders shall be made in writing,
@@ -976,7 +976,7 @@ court, with the probate thereof, all letters testamentary and of administration,
 such other acts and proceedings, as he shall, by the rules of the court,
 or by any special order of the judge, be required to record.
 
-SE01‘. 8. The several judges of probate shall, from time to time,
+SECT. 8. The several judges of probate shall, from time to time,
 make rules for regulating the practice and conducting the business in
 their respective courts, in all cases not expressly provided for by law ;
 and they shall within one year after this act shall take effect, return
@@ -1133,7 +1133,7 @@ may be administered, either by the judge of probate, or by any justice of the pe
 shall be returned into the registry of probate, and be there filed and
 recorded.
 
-SE01‘. 31. Any warrant or commission, for the appraisement of
+SECT. 31. Any warrant or commission, for the appraisement of
 any estate, for examining the claims on insolvent estates, for the partition of real estate, or for the assignment of dower, may be revoked
 by the judge of probate, for sufficient cause, and the judge may thereupon issue a new commission, or proceed otherwise therein, as the
 circumstances of the case shall require.
@@ -1249,7 +1249,7 @@ for the county of Hampshire, two hundred
 and eighty dollars ;
 for the county of Franklin, two hundred and
 eighty dollars.
-SE01‘. 50 The several registers of probate shall receive, for
+SECT. 50 The several registers of probate shall receive, for
 
 their services, an annual salary, as specified in the following table,
 that is to say:
@@ -1400,7 +1400,7 @@ judge of probate shall appoint.
 Snow. 56. The several probate courts shall be held at such par’ ishes or other places, in the several towns mentioned in the preceding section, as the respective judges of probate shall from time to
 time appoint.
 
-Sncr. 57. Every judge of probate shall cause sufficient public
+SECT. 57. Every judge of probate shall cause sufficient public
 notice to be given, of the places so appointed by him, by advertisement in some newspaper, or by posting the satne in some pnb.°c
 place; and such notice shall be renewed as often as any change takes
 p ace.
@@ -1491,7 +1491,7 @@ In Duke’s county, at Edgartown, on the Wednesday next after the
 third Monday of May, and the Wednesday next after the second
 Monday of November.
 
-SE01‘. 7. The court of common pleas, when sitting in the county
+SECT. 7. The court of common pleas, when sitting in the county
 of Suffolk, shall exercise and perform all the powers and duties of
 county commissioners, relating to highways and licensed houses in the
 town of Chelsea, and to all other matters concerning the said town,
@@ -1502,7 +1502,7 @@ Sre:c'r. 8. The mayor and aldermen of the city of Boston shall
 exercise and perform all the powers and duties of county commissioners, relating to licensed houses in the said city, as is prescribed
 in the forty seventh chapter.
 
-SE01‘. 9. The powers and duties of county commissioners, relating to highways and other ways in the city of Boston, shall be exercised and performed by the mayor and aldermen of the said city,
+SECT. 9. The powers and duties of county commissioners, relating to highways and other ways in the city of Boston, shall be exercised and performed by the mayor and aldermen of the said city,
 
 and b the court of common pleas, when sitting in the county of
 Sutfo k, severally and respectively, as prescribed in the twenty fourth
@@ -1656,11 +1656,11 @@ SECT. 6. In every case so removed to the court of common
 pleas, either party may appeal from the judgment of the court, in like
 manner as if the action had been originally commenced there. .
 
-SE01‘. 7. The original writ, in all civil actions commenced before a justice of the peace, shall be a summons or a capias and attachment, and shall be signed by the justice, and the forms thereof
+SECT. 7. The original writ, in all civil actions commenced before a justice of the peace, shall be a summons or a capias and attachment, and shall be signed by the justice, and the forms thereof
 shall be regulated as is provided in the ninetieth chapter ; and no
 such writ shall run into any other county than that in which it is returnable.
 
-SE01‘. 8. No person shall be held to appear and answer to any
+SECT. 8. No person shall be held to appear and answer to any
 such action, unless the writ shall have been duly served not less than
 seven nor more than sixty days before the day therein appointed for
 trial.
@@ -1684,7 +1684,7 @@ the issue so joined, a trial may be had, and any matter may be given
 in evidence by either party, which would have been admissible, if
 the defense had been made under any general or special plea in bar.
 
-SE01‘. 12. If any such case shall be carried by appeal to the
+SECT. 12. If any such case shall be carried by appeal to the
 court of common pleas, it may be there tried upon the issue so joined before the justice, or the court may, in their discretion, order the
 defendant to lead in the usual manner, and the case shall then be
 tried upon such issue as shall be joined therein.
@@ -1744,7 +1744,7 @@ and the justice may commit such person, as for a contempt, until he
 shall submit to such examination, if required, and produce the record,
 if within his custody or control.
 
-Sncr. 21. After the record has been so transcribed by the justice, he may issue execution on the judgment, as if it had been rendered by himself, changing the form, as the circumstances shall require ; and any copy of the record, certified by him, shall have the
+SECT. 21. After the record has been so transcribed by the justice, he may issue execution on the judgment, as if it had been rendered by himself, changing the form, as the circumstances shall require ; and any copy of the record, certified by him, shall have the
 same effect as an authenticated copy of the original.
 
 Seer. 22. When the commission of any justice of the peace
@@ -1807,7 +1807,7 @@ SEOT. 30. All sheriffs, deputy sheriffs, coroners and constables
 are required duly to serve and execute all legal writs, warrants and
 other processes, to them directed by any justice of the peace.
 
-SE01‘. 31. All actions and suits before justices of the peace may
+SECT. 31. All actions and suits before justices of the peace may
 be heard and determined, either at their own dwelling houses, or at any
 other convenient and suitable places, and their writs and processes
 may be made returnable accordingly.
@@ -1816,7 +1816,7 @@ Seer. 32. Every justice may adjourn his court, in all cases,
 civil or criminal, on trial before him, to any other time or place, as
 occasion shall reignite.
 
-Sncr. 33. very justice may punish such disorderly conduct, as
+SECT. 33. very justice may punish such disorderly conduct, as
 shall interrupt any judicial proceedings before him, or be a contempt
 of his authority or person, by fine not exceeding ten dollars, or by
 imprisonment in the common jail of the county, not exceeding fifteen
@@ -1855,7 +1855,7 @@ the summons, that it is granted at the request of the party prosecuted ;
 and the witness shall not be required to attend, unless upon payment
 or tender of his legal fees.
 
-Saar. 40. Nothing contained in this chapter shall control the
+SECT. 40. Nothing contained in this chapter shall control the
 regulations concerning the olice court of the city of Boston, or of
 any other town, whereb‘y_a ifferent provision is made for the exercise
 of any of the powers 0 justices of the peace.
@@ -1891,7 +1891,7 @@ Seer. 2. The said court shall be held in the city of Boston,
 on the first Monday of every month, and may be adjourned from
 time to time, as occasion shall require.
 
-Sncr. 3. If the judge shall be absent, at a time appointed for
+SECT. 3. If the judge shall be absent, at a time appointed for
 holding a court, whether at the beginning of a term, or at any adjournment thereof, the clerk shall adjourn the court, either without
 day, or to such time and place, as the public convenience may in his
 judgment require, and notice of such adjournment shall be given by
@@ -1899,7 +1899,7 @@ proclamation, to be made in the court house by the sheriff or his
 deputy, and in such other manner as the court may by any general
 rule direct.
 
-SE01‘. 4. The said court shall have original jurisdiction, concurrent with the supreme judicial court, of all crimes, offenses and
+SECT. 4. The said court shall have original jurisdiction, concurrent with the supreme judicial court, of all crimes, offenses and
 misdemeanors committed in the county of Suffolk, which are not
 capital, and of all offenses against the by-laws of the city of Boston,
 
@@ -1917,7 +1917,7 @@ to serve in the supreme judicial court for the county of Suffolk, shall
 serve as grand jurors in the municipal court, until others are appointed
 in their place.
 
-SE01‘. 7. The traverse jurors of the municipal court shall be
+SECT. 7. The traverse jurors of the municipal court shall be
 drawn and returned from the city of Boston, and from the town of
 Chelsea, in the manner provided in the ninety lifth chapter, and
 writs of venire facias shall be issued for that purpose, returnable at the
@@ -1925,7 +1925,7 @@ terms held in January, April, July and October in each year; and
 the jurors, so returned at each of those four terms, respectively, shall
 also serve at the two next succeeding terms.
 
-SE01‘. 8. The said judge shall from time to time appoint the
+SECT. 8. The said judge shall from time to time appoint the
 clerk of said court, who shall be sworn to the faithful discharge of his
 duty, and shall hold his office during the pleasure of the court ; and
 in case of the absence or inability of the clerk, the court may appoint
@@ -1933,7 +1933,7 @@ a clerk pro tempore, who shall be sworn to the faithful discharge of
 
 his duty.
 
-SE01‘. 9. All fines, forfeitures and costs, accrued or allowed upon any judgment or other proceeding in said court, shall be paid, received and accounted for, in like manner as is provided in the case of
+SECT. 9. All fines, forfeitures and costs, accrued or allowed upon any judgment or other proceeding in said court, shall be paid, received and accounted for, in like manner as is provided in the case of
 criminal prosecutions in the court of common pleas.
 
 Srzcr. 10. Any person, convicted in the said court upon indictment for a libel, nuisance or conspiracy, or for any offense which is
@@ -1957,7 +1957,7 @@ stated annual salary from the city of Boston, which shall be established by the 
 puarterly payments out of the treasury, and in the same proportion
 or any part of a quarter, which payments shall be in full compensation for all his services.
 
-Sncr. 13. The clerk of the said court shall keep an account of
+SECT. 13. The clerk of the said court shall keep an account of
 all fees received by him for his official acts and services, under the
 laws of this Commonwealth, excepting fees for such copies as he is
 not required by law to furnish, and he shall, on the first Wednesday
@@ -2091,7 +2091,7 @@ Seer. 6. No fees shall be allowed to any justice of the peace for
 any warrant issued by him, returnable before said court, unless it shall
 appear to the court that there was just and reasonable cause for issuing the warrant. ‘
 
-SE01‘. 7. Every justice of the peace in the city of Boston shall,
+SECT. 7. Every justice of the peace in the city of Boston shall,
 notwithstanding any thing contained in this chapter, have and exercise all the powers and duties of a conservator of the peace, for suppressing all affrays, riots, assaults and batteries, and for arresting all
 persons concerned therein ; and all persons so arrested, whether upon a warrant in writing or otherwise, shall be brought before the said
 court for examination, to be there dealt with according to law.
@@ -2102,7 +2102,7 @@ Boston, and the appeal shall be entered at the next term of the municipal court,
 like appeals in criminal cases from justices of the peace to the court
 of common pleas in other counties.
 
-Saar. 9. When any trial or examination, pending before the said
+SECT. 9. When any trial or examination, pending before the said
 court, is adjourned to a future day, as provided in the one hundred
 and thirty fifth chapter, the parties and the witnesses shall not be required to attend from day to day, but they shall attend at the time to
 which the cause is so adjourned, and the recognizances, if any, shall
@@ -2111,7 +2111,7 @@ be taken accordingly.
 SECT. 10. There shall also be a court for the trial of civil actions, to be held by one or more of the 'ustices of the police court,
 which shall be called the justices’ court llor the county of Suffolk.
 
-Saar. 11. The said justices’ court shall have and exercise, ex- .
+SECT. 11. The said justices’ court shall have and exercise, ex- .
 clusively, the same jurisdiction in all civil actions in the county of ‘
 Suffolk, that is exercised by justices of the peace in other counties.
 
@@ -2188,7 +2188,7 @@ Srzcr. 22. He shall render to the board of accounts of the city
 of Boston a quarterly account of all monies so received by him as
 clerk, and upon the approval thereof by the board, he shall forthwith pay over the amount due thereon to the city treasurer.
 
-Saar. 23. He may from time to time appoint one or more assistant clerks, to aid him in the discharge of his duties ; but no person
+SECT. 23. He may from time to time appoint one or more assistant clerks, to aid him in the discharge of his duties ; but no person
 shall be so appointed, unless approved by the justices of the said
 
 courts.
@@ -2272,7 +2272,7 @@ said courts, in any case, whether civil or criminal, may appeal therefrom to the
 and disposed of, in all respects, like appeals from justices of the peace
 to the court of common pleas.
 
-SE01‘. 37. The standing justice, or other justice, who holds the
+SECT. 37. The standing justice, or other justice, who holds the
 
 court, shall perform all the duties of a clerk thereof, and shall receive
 all fees, costs and fines, that are aid into court.
@@ -2305,7 +2305,7 @@ for which it is established, in the court house, if there be one, or in
 any other suitable place, to be provided at the expense of the district,
 and may be adjourned to any other place in the same district, as occasion shall require.
 
-Sncr. 43. The said courts shall be held, in each of the said districts, on two fixed days in each week, and as much oftener as may
+SECT. 43. The said courts shall be held, in each of the said districts, on two fixed days in each week, and as much oftener as may
 be necessary for criminal cases, and on one fixed day in each fortnight, and as much oftener as may be necessary, for civil actions;
 except that in Newburyport, the court may be held one day only in
 each week, for both criminal and civil cases.
@@ -2416,7 +2416,7 @@ there are several ersons, either plaintifffs or defendants, the name of
 every person, witii a like reference, shall be inserted in its appropriate
 place in the alphabetical list.
 
-SE01‘. 8. The 'ustices of the several courts shall inspect the doings of the clerks, fiom time to time, and see that the respective records are made up seasonably, and kept in good order; and if the
+SECT. 8. The 'ustices of the several courts shall inspect the doings of the clerks, fiom time to time, and see that the respective records are made up seasonably, and kept in good order; and if the
 records are left incomplete, for more than six months, at any one
 time, such neglect, unless caused by sickness or other extraordinary
 casualty, shall he adjudged a forfeiture of the clerk’s bond.
@@ -2428,7 +2428,7 @@ SECT. 9. In case of any neglect, causing a forfeiture of the bond
 in writing, to the treasurer of the county, who shall thereupon cause
 the bond in be put in suit. .
 
-SE01‘. 10. The sum recovered in such suit shall be applied to
+SECT. 10. The sum recovered in such suit shall be applied to
 making up the deficient records, under the direction of the court, in
 whose records the deficiency shall happen, and the surplus, if any,
 shall remain in the hands of the treasurer, for the use of the county.
@@ -2449,7 +2449,7 @@ court, by which he is appointed, until the standing clerk shall resume
 the discharge of his duties, or until another shall be appointed by the
 
 supreme judicial court.
-SE01‘. 14. Such temporary clerk shall be sworn, before the court
+SECT. 14. Such temporary clerk shall be sworn, before the court
 
 by which he is appointed, to the faithful discharge of his duty; and
 he shall receive for his services such compensation, as the court shall
@@ -2552,7 +2552,7 @@ paid in the same manner, that is provided in the one hundred and
 forty first chapter, for the payment of costs in criminal prosecutions,
 in the same courts.
 
-SE01‘. 26. Parties may manage, prosecute or defend their own
+SECT. 26. Parties may manage, prosecute or defend their own
 suits, personally, and 'by such counsel or attorneys as they may see [it
 to engage, but no more than two persons for each party shall, without permission of the court, be allowed to manage any case therein.
 
@@ -2609,13 +2609,13 @@ l
 
 OF THE REPORTER.
 
-Sncr. 36. The reporter of the decisions of the supreme judicial «
+SECT. 36. The reporter of the decisions of the supreme judicial «
 court shall be appointed by the governor, by and with the advice and T
 consent of the council, and shall be removable at their pleasure.
 
 S1:-;c'r. 37. He shall be sworn, before the said court or any justice thereof, to the faithful discharge of the duties of his office. ‘
 
-Sncr. 38. He shall attend personally all the law terms of the
+SECT. 38. He shall attend personally all the law terms of the
 said court, and make true reports of their decisions on all legal questions, that shall be argued by counsel, and publish the same annually.
 
 SECT. 39. He shall, at his discretion, report the several cases
@@ -2631,7 +2631,7 @@ SI-:c'r. 41. When the reporter shall be necessarily prevented
 from attending personally at any law term, he shall depute some suitable person, to attend for him and take notes of the decisions, or the
 court may appoint a person to ofliciate in his stead, until he shall resume the performance of his duties, or until another shall be appointed by the governor.
 
-Saar. 42. The reporter shall receive an annual salary of one
+SECT. 42. The reporter shall receive an annual salary of one
 thousand dollars, which, with the profits arising from the publication
 of his reports, shall be in full compensation for his services, and the
 said salary shall be paid out of the treasury of the Commonwealth, in
@@ -2662,7 +2662,7 @@ held at any stated term, or at any adjournment, thereof, but they
 shall be respectively returned to, entered, and have day in, the term
 or session, which shall be held next after such failure.
 
-SE01‘. 2. If, by reason of war, pesfilence, or other public calamity, it shall be deemed unsafe or inexpedient to hold any court at
+SECT. 2. If, by reason of war, pesfilence, or other public calamity, it shall be deemed unsafe or inexpedient to hold any court at
 the time and place appointed therefore, whether it be at a stated term,
 or a session by adjournment, the justices of the court, or any one of
 them, may appoint any other place, within the same county, and any
@@ -3012,7 +3012,7 @@ All civil actions, excepting those founded on scire
 facias or other special writs, shall be commenced by original writs,
 which shall be signed, sealed, and «bear teste, as required by the consutution.
 
-Saar. 2. All original writs in the supreme judicial court, and
+SECT. 2. All original writs in the supreme judicial court, and
 court of common pleas, may be issued by the clerk of the said courts
 in any county, and be made returnable in any other county.
 
@@ -3036,18 +3036,18 @@ and estate, and to summon the defendant.
 S1‘-:c'r. 6. These writs may be taken ’out of the clerk’s office, in
 vacation, as well as in term time. P
 
-SE01‘. 7. Original writs, in actions before justices of the peace,
+SECT. 7. Original writs, in actions before justices of the peace,
 shall be signed by the 'ustice, before whom the action is brought,
 and they shall be dated and filled up, like the other writs before
 mentioned.
 
-SE01‘. 8. The forms of writs in civil actions shall be the same,
+SECT. 8. The forms of writs in civil actions shall be the same,
 as have been heretofore established by law, and by the usage and
 practice of the courts ; but alterations therein may be made or allowed
 by the courts, when necessary to adapt them to changes in the law,
 or for other sufiicient reasons.
 
-SE01‘. 9. All changes in the forms of writs shall be sub'ect to
+SECT. 9. All changes in the forms of writs shall be sub'ect to
 the final control of the supreme judicial court; and the sai court
 
 may, by general rules, regulate such changes, in all the courts of the
@@ -3063,7 +3063,7 @@ or more joint plaintifffs, is an inhabitant of the state, provided that
 the court may, in all cases, when it shall appear to them reasonable,
 require the plaintifff to procure a suliicient indorser.
 
-Saar. 11. Every such indorser shall be liable, in case of the
+SECT. 11. Every such indorser shall be liable, in case of the
 avoidance or inability of the plaintifff, to pay all such costs, as shall be
 awarded against the plaintifff, provided the suit therefore, against the
 indorser, be brou ht within one year after the original judgment.
@@ -3140,7 +3140,7 @@ or court of common pleas, shall be served fourteen days at least before the term
 by a justice of the peace, shall be served seven days at least, before
 the day on which they are returnable.
 
-Sncr. 22. When an action is brought against a county, town,
+SECT. 22. When an action is brought against a county, town,
 precinct, parish, religious society, or school district, or against proprietors of common and undivided lands, or of general fields, or of
 wharves lying in common, the writ shall be served thirty days at least
 before the return day.
@@ -3166,7 +3166,7 @@ shall be held for sixty days after final judgment.
 
 SHCT. 26. If the final judgment is for the defendant, the attachment shall be forthwith dissolved.
 
-SE01‘. 27. The final judgment, intended in the two preceding
+SECT. 27. The final judgment, intended in the two preceding
 
 sections, is that which is rendered in the original action, whether upon appeal or otherwise, and not such as may be rendered upon a writ
 of error or writ of review.
@@ -3215,7 +3215,7 @@ Seer. 34. The copy of the writ so deposited shall be certified
 by the officer, but it shall not be necessary to insert therein a copy of
 the declaration.
 
-SE01‘. 35. The said clerk shall receive and file all such copies,
+SECT. 35. The said clerk shall receive and file all such copies,
 noting thereon the time when received, and keep them safely in his
 office, and also enter a note thereof, in the order in which they are
 received, in the books which are kept for recording mortgages of
@@ -3223,7 +3223,7 @@ personal property ; such entry shall contain the names of the parties to
 the suit, and the date of the entry, and the clerk’s fee for this service
 shall be twenty five cents, to be paid by the oiiicer, and to be included in his charge for the service of the writ.
 
-Sncr. 36. Any share or interest of a stockholder in any bank, :
+SECT. 36. Any share or interest of a stockholder in any bank, :
 insurance company, or any other joint stock company, that is or may 1
 be incorporated under the authority of this Commonwealth, may be
 attached by leaving an attested copy of the writ, (without the declaration) and of the return of the attachment, with the clerk, treasurer,
@@ -3325,7 +3325,7 @@ brought against him here, by the defendant in the first action : provided, that 
 judgment or execution in the one case can be set off against the
 judgment or execution in the other.
 
-SE01‘. 50. If there are several defendants in the original action, each of them shall be authorized to bring such cross action against!
+SECT. 50. If there are several defendants in the original action, each of them shall be authorized to bring such cross action against!
 the original plaintifff, and upon recovering judgment therein, he may i
 be allowed to set off his judgment against that which may be re-‘
 covered against himself and his co-defendants, in like manner as if
@@ -3438,7 +3438,7 @@ the reasonable expenses, incurred by the creditors in prosecuting the
 suit, so far as the same shall not be reimbursed by the costs recovered of the defendant, and the residue shall belong to all the attaching
 creditors, according to their respective rights.
 
-Sncr. 66. The court may, upon a hearing in chancery, deter- .
+SECT. 66. The court may, upon a hearing in chancery, deter- .
 mine the rights of the several attaching creditors, and may thereupon 1
 award a separate execution, for the amount due or payable to each,
 to be served and levied to his own use, in like manner as is provided
@@ -3558,7 +3558,7 @@ the sum, that he shall have aid for the redemption, or as much thereof, as the d
 with interest, from the time when the satne shall he demanded of the
 defendant.
 
-SE01‘. 83. When any person shall claim any title or interest, by 1
+SECT. 83. When any person shall claim any title or interest, by 1
 force of a subsequent attachment, or purchase, or mortgage, or in any ;
 other manner, in any estate, real or personal, that is attached in a suit
 between other persons, such claimant may be allowed to dispute the
@@ -3577,7 +3577,7 @@ make oath that his claim is just and legal, and also that all the other ,
 facts set forth in the petition are true, or are believed by the deponent
 to be so.
 
-SE01‘. 86. The court, upon the hearing of the petition, shall, at
+SECT. 86. The court, upon the hearing of the petition, shall, at
 the motion of either party, direct a trial, by jury, of any question of
 fact, arising in the inquiry, and if it shall appear to the court that the
 sum demanded in the rior suit, or any part of it, is not justly due,
@@ -3586,7 +3586,7 @@ the attachment therein made to be dissolved, in whole or in part, as
 justice and equity shall require, but the order so made shall have no
 other effect on the prior suit.
 
-Saar. 87. The court, upon such inquiry, may examine on oath
+SECT. 87. The court, upon such inquiry, may examine on oath
 the plaintifff, who made the prior attachment, and his declarations
 upon such examination shall be admitted as evidence in the case, provided there is no other objection to his competency, but that of his
 interest as a party in the suit.
@@ -3600,7 +3600,7 @@ SECT. 89. No attachment shall be dissolved, in manner aforesaid,
 by reason of any defense to the action, founded on the laws for the
 limitation of actions, or for restraining excessive usury, or for requiring certain contracts to be made in writing, or of any other like defense, provided, it shall appear to the court that the demand is otherwise well founded, and is justly and equitably due.
 
-SE01‘. 90. The court may, upon every such inquiry, award to
+SECT. 90. The court may, upon every such inquiry, award to
 either party such costs, as they shall think just and reasonable; and
 if the prior attachment is maintained, they may award to the attaching
 creditor such damages, as they shall judge reasonable, and execution
@@ -3617,7 +3617,7 @@ Seer. 92. If, during the pendency of the proceedings upon such
 petition, the action, in which the attachment is made, should be carried to a higher court, the inquiry concerning the attachment shall
 be carried to the same court, and shall be there heard and determined, in like manner as if the action had been originally commenced
 there.
-' SE01‘. 93. The decision or judgment of the court, upon such an
+' SECT. 93. The decision or judgment of the court, upon such an
 inquiry, whether the attachment be thereby vacated, or held to be
 valid and effectual, shall be a bar to any action, to be brought by the
 petitioner, against the party who made the attachment, for any supposed fraud or deceit therein. '
@@ -3660,7 +3660,7 @@ replevied, the plaintifff in the re levin and his sureties shall be liable
 for the whole of the goods, or t e value thereof, although the attachment, for which they are eventually held, should have been made
 after the taking of the goods by the replevin.
 
-SE01‘. 101. If an oliicer, after making an attachment of goods,
+SECT. 101. If an oliicer, after making an attachment of goods,
 shall die or be removed from office, whilst the attachment remains in
 force, the same goods, whether replevied or remaining in possession
 of the officer, or of his executors or administrators, may be further
@@ -3682,7 +3682,7 @@ when such copy is delivered, in either of the modes before provided.
 SECT. 103. In the copy of the writ, required to be so left, it
 shall not be necessary to insert the declaration.
 
-SE01‘. 104. Goods, that have been taken by replevin from an attaching officer, shall not be further attached, as the property of the
+SECT. 104. Goods, that have been taken by replevin from an attaching officer, shall not be further attached, as the property of the
 original defendant, in any other manner than that provided in the five
 preceding sections, so long as they are held by the person, who replevied them, or by any one holding under him, unless the original
 defendant shall have acquired a new title to the goods.
@@ -3719,7 +3719,7 @@ he shall be exempted from all further liability therefore, and the executor or a
 from the judgment creditor the amount so paid to‘ him, in an action
 for money had and received.
 
-Saar. 109. The defendant, in an action founded on either of
+SECT. 109. The defendant, in an action founded on either of
 the three preceding sections, shall not be allowed, in any manner, to
 set off any demand, that he may have against the executor or administrator, or against the estate of the deceased.
 S1-:c'r. 110. The officer, who serves an original writ, shall never
@@ -3821,7 +3821,7 @@ SECT. 3. A bail bond shall bind the persons who execute it,
 though it be taken with one surety only, or with two or more sureties, when they or either of them may not have sufficient within the
 county, as is required in the preceding section.
 
-SE01‘. 4. The bail bond shall be retumed and filed with the writ,
+SECT. 4. The bail bond shall be retumed and filed with the writ,
 and the clerk shall note on the writ, that a bond is so filed ; and in
 case of an appeal, the bond shall be sent, with the other papers, to
 the court appealed to.
@@ -3852,12 +3852,12 @@ could have availed themselves, upon a plea that the bond is not their
 deed, if an action of debt had been brought on the bond; or they
 may plead specially any sufficient matter in their discharge.
 
-Sncr. 10. The bail may surrender the principal in the court
+SECT. 10. The bail may surrender the principal in the court
 where the suit is pending on the scire facias, at any time before final
 judgment therein against them, and on paying the costs of suit on the
 scire facias up to that time, they shall be discharged.
 
-Sncr. 11. The principal so surrendered shall he committed to
+SECT. 11. The principal so surrendered shall he committed to
 the common jail, there to remain thirty days, in order to his being
 taken in execution.
 
@@ -3946,7 +3946,7 @@ by the justice, and the officer shall deliver the same copy to the jailer,
 on committing the prisoner to his custody ; and this shall be a sumcient warrant to the officer and to the jailer, for receiving, commit- E
 
 ting and holding the prisoner, according to law.
-SE01‘. 26. The officer shall be allowed the same fees, as are
+SECT. 26. The officer shall be allowed the same fees, as are
 provided for arresting and committing a defendant on mesne process,
 
 which fees shall be paid by the bail.
@@ -4002,7 +4002,7 @@ may order ; and if after such notice, the defendant shall not appear '
 at the term to which the action may be continued, judgment may be
 rendered against him upon default.
 
-SE01‘. 4. When judgment is so rendered upon the default of an _
+SECT. 4. When judgment is so rendered upon the default of an _
 absent defendant, he shall be entitled to a review of the action as of ,
 right, provided the writ of review be sued out within one year after
 the judgment, and be commenced and prosecuted in the manner provided in the ninety ninth chapter.
@@ -4031,7 +4031,7 @@ prevent the defendant from retaking the same, or as much thereof as
 may be necessary to satisfy the judgment, if any, that he shall recover on such review, provided the writ of review be sued out within
 one year after the original judgment.
 
-Sncr. 9. If the original judgment be for seizin of any premises
+SECT. 9. If the original judgment be for seizin of any premises
 demanded in a real action, the demandant may take out his writ of
 seizin without giving bond ; and if the judgment be reversed in whole
 or in part upon a review, whether sued out within the year or afterwards, the original tenant may have restitution of the premises, in like
@@ -4075,7 +4075,7 @@ when founded on tort; and in every thing relating to the service of
 the writ and the notice of the suit to be given to the defendant, it
 shall be considered and conducted as a real action.
 
-SE01‘. 16. None of the rules before prescribed, concerning actions brought against a person who is out of the state, shall apply to
+SECT. 16. None of the rules before prescribed, concerning actions brought against a person who is out of the state, shall apply to
 a cross action brought, as provided in the ntnetieth chapter, by the
 defendant in a prior suit, against the plaintifff in the same suit.
 
@@ -4174,7 +4174,7 @@ commenced and prosecuted by and against executors and administrators, and if com
 time, they may be prosecuted or defended by or against his executor
 or administrator.
 
-SE01‘. 9. When an action of trespass is commenced or prose, cuted against the executor or administrator of the trespasser, the plain‘ tiff shall be entitled to recover only for the value of the goods taken,
+SECT. 9. When an action of trespass is commenced or prose, cuted against the executor or administrator of the trespasser, the plain‘ tiff shall be entitled to recover only for the value of the goods taken,
 
 or for the damage actually sustained, without any vindictive or exemplary damages, or damages for any alleged outrage to the feelings of
 the injured party.
@@ -4219,7 +4219,7 @@ another person as heir, at the term when the death of the deceased
 party is suggested, or within such further time as the court shall allow. the surviving demandants may prosecute the suit, for so much
 of the premises in question, as may then be claimed by them.
 
-SE01‘. 17. When there are several tenants in any real or mixed
+SECT. 17. When there are several tenants in any real or mixed
 action, and any of them shall die before final judgment, the action
 may be prosecuted against the surviving tenants, for so much of the
 premises as they shall hold or claim.
@@ -4393,14 +4393,14 @@ other persons authorized to examine witnesses; and the summons
 shall be in the form heretofore adopted and commonly used, but may
 be altered from time to time, like other writs.
 
-SE01‘. 2. Such summons may be served by any officer, qualified
+SECT. 2. Such summons may be served by any officer, qualified
 to serve any civil process, or by any disinterested person, by exhibiting and reading it to the witness, or by giving him a copy thereof,
 or leaving such copy at the place of his abode.
 
 Seer. 3. No person shall be obliged to attend as a witness, unless the fees are paid or tendered to him, which are allowed by law
 for one day’s attendance as a witness, and for travelling to, and returning from, the place where he is required to attend.
 
-SE01‘. 4. If any person duly summoned and obliged to attend
+SECT. 4. If any person duly summoned and obliged to attend
 as a witness, shall fail so to do, without any reasonable excuse, he
 shall be liable to the aggrieved party for all damages occasioned by
 such failure, to be recovered in an action on the case.
@@ -4409,15 +4409,15 @@ Seer. 5. Such failure to attend as a witness in any court of
 record shall also be considered a contempt of the court, and may be
 punished by a fine not exceeding twenty dollars.
 
-SE01‘. 6. The court- in such case may issue a warrant to bring
+SECT. 6. The court- in such case may issue a warrant to bring
 such witness before them, to answer for the contempt, and also to
 testify as a witness in the cause in which he was summoned.
 
-SE01‘. 7. The usual mode of administering oaths, now practised
+SECT. 7. The usual mode of administering oaths, now practised
 in this state, with the ceremony of holding up the hand, shall be observed in all cases, in which an oath may be administered by law,
 except as is hereinafter provided. '
 
-SE01‘. 8. When the court or magistrate, before whom any person is to be sworn, shall be satisfied that such person has any eculiar mode of swearing, which is in his opinion more solemn or obligatory than holding up the hand, they may adopt that mode of administering the oath.
+SECT. 8. When the court or magistrate, before whom any person is to be sworn, shall be satisfied that such person has any eculiar mode of swearing, which is in his opinion more solemn or obligatory than holding up the hand, they may adopt that mode of administering the oath.
 SECT. 9. Every quaker, when called on to take an oath, shall be
 
 permitted, instead of swearing, solemnly and sincerely to allirm, under
@@ -4474,7 +4474,7 @@ SECT. 20. The deponent shall be sworn or amrmed to testify
 the truth, the whole truth and nothing but the truth, relating to the
 cause for which the deposition is taken, and he shall then be examined by the justice and by the parties, if they think (it, and his testimony shall be taken in writing.
 
-SE01‘. 2!. The party producing the deponent shall be allowed
+SECT. 2!. The party producing the deponent shall be allowed
 first to examine him, either upon verbal or written interrogatories, on
 all the points which he shall deem material, and then the adverse
 party may examine the deponent in like manner; after which either
@@ -4512,7 +4512,7 @@ made before it is answered, and if the interrogatory is not withdrawn,
 the objection shall be noted thereon, or otherwise the objection shall
 not be afterwards allowed.
 
-SE01‘. 27. When the plaintifff in any suit shall discontinue it or
+SECT. 27. When the plaintifff in any suit shall discontinue it or
 become nonsuit, and another suit shall afterwards be commenced for
 the same cause, between the same parties or their respective representatives, all depositions, lawfully taken for the first suit, may be used
 in the second, in the same manner and subject to the same conditions and objections, as if originally taken for the second suit, provided, that the deposition shall have been duly filed in the court where
@@ -4625,7 +4625,7 @@ reside.
 SI-:c'r. 42. The court shall order notice of such application and
 statement to be served on all the persons mentioned therein as adversely interested in the case, and living within the state, which notice shall be served, fourteen days at least, before the time therein appointed for hearing the parties.
 
-Sncr. 43. If upon such hearing of the parties, or of the applicant alone, should no adverse party appear, and the court shall be satisfied that there is sufhcient cause for taking the deposition, they shall
+SECT. 43. If upon such hearing of the parties, or of the applicant alone, should no adverse party appear, and the court shall be satisfied that there is sufhcient cause for taking the deposition, they shall
 issue a commission therefore, in like manner as for takinga deposition
 to be used in any cause pending in the same court.
 
@@ -4672,7 +4672,7 @@ notice of the time and place of taking, and of the subject matter of
 such deposition, to be given to such persons and in such manner, as
 under all the circumstances shall seem proper.
 
-SE01‘. 5]. Such deposition having been taken and returned to
+SECT. 5]. Such deposition having been taken and returned to
 the court, by whose order the commission issued, and being found by
 the court to have been taken according to law and the directions contained in the commission, the court shall order it to be recorded,
 within thirty days, in the registry of deeds for the county in which
@@ -4708,7 +4708,7 @@ testify on the trial, or to give his deposition, provided there be no
 sufiicient objection to his competency, except that of his being such
 member of the corporation.
 
-Saar. 55. If any person shall be disqualified to testify in any suit,
+SECT. 55. If any person shall be disqualified to testify in any suit,
 by reason of having tndorsed the original writ or process, or of being
 a surety in the recognizance of the appellant, or in a replevin bond,
 he may be discharged by order of the court, so as to be sworn as a
@@ -4716,7 +4716,7 @@ witness, provided another sufficient indorser or surety be substituted
 in his stead, to be liable in like manner and to the same extent, as he
 would have been.
 
-Saar. 56. No person shall be deemed an incompetent witness,
+SECT. 56. No person shall be deemed an incompetent witness,
 by reason of having committed any crime, unless he has been convicted thereof in this state ; but the conviction of any person, in any
 court without the state, of a crime which, if he has [had] been convicted thereof within this state, would render him an incompetent
 witness here, may be given in evidence to affect his credibility.
@@ -4737,7 +4737,7 @@ Sacr. 59. Printed copies of the statute laws of any other of the
 a United States, or of the territories thereof, if purporting to be published under the authority of the respective governments, or if commonly admitted and read as evidence in their courts, shall be admitted in all courts of law, and on all other occasions, in this state, as
 prima facie evidence of such laws.
 
-SE01‘. 60. The unwritten or common law of any other of the
+SECT. 60. The unwritten or common law of any other of the
 United States, or of the territories thereof, may be proved as facts
 by parol evidence, and the books of reports of cases, adjudged in
 their courts, may also be admitted as evidence of such law.
@@ -4841,7 +4841,7 @@ All persons, who are qualified to vote in the choice
 of representatives in the general court, shall be liable to be drawn as
 jurors, except as is hereinafter provided.
 
-SE01‘. 2. The following persons shall be exempted from serving
+SECT. 2. The following persons shall be exempted from serving
 as jurors, to Wit :
 
 The governor, lieutenant governor, members of the council, secrctary and treasurer of the Commonwealth, all judges and justices
@@ -4855,7 +4855,7 @@ and surgeons regularly licensed, cashiers ofincorporated banks, and
 constant ferrymen, and all persons who are more than sixty five years
 
 old.
-SE01‘. 3. All members of the fire department, in the city of
+SECT. 3. All members of the fire department, in the city of
 
 Boston, shall be exempted from serving as jurors ; and all engine men
 
@@ -4872,7 +4872,7 @@ SECT. 5. The list, when so prepared, shall be laid before the
 town, and the town may alter it, by adding thereto the names of any
 persons liable to serve, or by striking any names therefrom.
 
-SE01‘. 6. The selectmen shall cause all the names, borne on the
+SECT. 6. The selectmen shall cause all the names, borne on the
 said list, to be written, each on a separate paper or ballot, and shall
 roll up or fold the ballots, so as to resemble each other as much as
 possible, and so that the name written thereon shall not be visible on
@@ -4933,7 +4933,7 @@ each town a number of jurors, as nearly as may be in proportion to
 their respective numbers, so as to equalize as far as possible the duty
 of serving as jurors.
 
-SE01‘. 15. The venires shall be delivered to the sheriff of each
+SECT. 15. The venires shall be delivered to the sheriff of each
 county, and by him be transmitted to a constable, in each of the towns
 to which they are respectively issued, and they shall be served by
 the constable, without delay, on the selectmen and town clerk; and
@@ -4974,7 +4974,7 @@ at any court, the clerk shall prepare a list of their names arranged in
 alphabetical order and the first twelve on the list, who are not excused, shall be sworn and empannelled as a jury for the trial of any
 civil causes, and shall be called the first jury.
 
-SE01‘. 21. The next twelve on the same list shall then be sworn
+SECT. 21. The next twelve on the same list shall then be sworn
 and empannelled in like manner, and shall be called the second jury ;
 
 and if there are any supernumerary jurors, they maybe excused from
@@ -5001,7 +5001,7 @@ to be returned from the by-standers, or from the county at large,
 to complete the panel, provided, there be on the jury not less than
 seven of the jurors, who were originally drawn and summoned, as before provided. .
 
-Saar. 25. The jurors, so returned‘from the by-standers, shall
+SECT. 25. The jurors, so returned‘from the by-standers, shall
 be returned by the sheriff or his deputy, or by a coroner, or by any
 disinterested person, appointed therefore by the court.
 
@@ -5043,7 +5043,7 @@ i
 l
 1
 
-Sncr. 31. If either party, in a case in which a verdict is returned, shall, during the same term of the court, either before or after the
+SECT. 31. If either party, in a case in which a verdict is returned, shall, during the same term of the court, either before or after the
 
 ' trial, give to any of the jurors, who shall try the cause, any thing
 
@@ -5080,7 +5080,7 @@ regard to the drawing of jurors in Boston, and all other matters relating to jur
 and all venires, for jurors to be returned from Boston, shall be served
 on the said mayor and aldermen.
 
-Sncr. 36. The jurors returned from the town of Chelsea, to
+SECT. 36. The jurors returned from the town of Chelsea, to
 serve on the grand jury in the supreme judicial court in the county
 of Suffolk, shall also serve, with the other members of the same jury,
 in the municipal court of the city of Boston.
@@ -5097,7 +5097,7 @@ once in every two years ; and the lists of persons, liable to serve as
 jurors in the several towns in Duke’s county, may include one for
 every thirty of the inhabitants thereof respectively.
 
-SE01‘. 39. When by a neglect of any of the duties required in
+SECT. 39. When by a neglect of any of the duties required in
 this chapter, to be performed by any of the officers or persons heretn mentioned, the jurors, to be returned from any place, shall not be
 duly drawn and summoned to attend the court, every person guilty of
 such neglect shall pay a fine not exceeding twenty dollars, to be imposed by the same court, to the use of the county in which the offense is committed.
@@ -5158,7 +5158,7 @@ SECTION 1. When there are mutual debts or demands between
 the plaintifff and defendant in any action, one demand may be set off
 against the other, as provided in this chapter.
 
-SE01‘. 2. No demand shall be set off, unless itis founded upon a
+SECT. 2. No demand shall be set off, unless itis founded upon a
 ' judgment or upon a contract, but the contract may be either express
 or implied, and with or without a seal.
 
@@ -5174,7 +5174,7 @@ Snow. 5. Any demand which had been assigned to the defendant
 with notice to the plaintifff of the assignment, before the commencement of the action, may be set off in like manner as if it had been
 
 originally payable to the defendant.
-SE01‘. 6. If the demand set off is founded on a bond, or other
+SECT. 6. If the demand set off is founded on a bond, or other
 
 contract having a penalty, no more shall be set off than the sum equitably due.
 
@@ -5421,12 +5421,12 @@ of the term in which it is rendered, unless there is an express order
 of the court for the entry thereof on some other day ; in which case
 the day shall be noted by the clerk on his docket.
 
-Sncr. 2. When the defendant is defaulted, in any stage of the
+SECT. 2. When the defendant is defaulted, in any stage of the
 proceedings, the court shall award such judgment for the plaintifff, as
 they shall, upon inquiry, fmd to be just and proper, unless the plaintifff or defendant shall move to have the damages assessed by a jury ;
 in which case they shall be so assessed.
 
-SE01‘. 3. The court may, in all cases in which damages are demanded, refer the assessment thereof to a jury, although it be not
+SECT. 3. The court may, in all cases in which damages are demanded, refer the assessment thereof to a jury, although it be not
 moved for by either party.
 
 Snow. 4. In actions upon promissory notes and other contracts, ~
@@ -5440,13 +5440,13 @@ made by themselves.
 SECT. 5. No execution shall be issued within twenty four hours 
 after the entry of the judgment. .
 
--_... _- - SE01‘. 6. No original execution shall be issued, unless within
+-_... _- - SECT. 6. No original execution shall be issued, unless within
 one year after the party shall be entitled to sue out the same, and no
 alias, or other successive execution, shall be issued afterwards, unless
 each one be sued out within one year after the return day of that
 which preceded it, except as provided in the following section.
 
-SE01‘. 7. When a judgment debtor is surrendered by his bail,
+SECT. 7. When a judgment debtor is surrendered by his bail,
 the creditor may sue out a new execution, within thirty days after the
 surrender, although more than one year should have elapsed after
 the return day of the next preceding execution.
@@ -5456,7 +5456,7 @@ of the time for taking out execution thereon, the creditor may have
 a scire facias to obtain a new execution, or he may, at any time after
 the judgment, have an action of debt thereon.
 
-SE01‘. 9. All executions, issued by a justice of the peace, or by
+SECT. 9. All executions, issued by a justice of the peace, or by
 any police court or justices’ court, shall be made returnable within
 sixty days from the date thereof; and all executions from the supreme judicial court shall he made returnable in six months from their
 date, and all executions from the court of common pleas, in three
@@ -5826,7 +5826,7 @@ Seer. 66. If the creditor shall not be present, or if he shall refuse to accept 
 I .Sr:c'r. 67. No action shall be brought for any breach of the con’ dition of the bond, unless within one year after the time of the
 breach.‘
 
-SE01‘. 68. If, in any action on the bond, it shall appear that the
+SECT. 68. If, in any action on the bond, it shall appear that the
 condition thereof has been broken, execution shall not issue for the
 whole penalty, but only for so much thereof as may be justly and
 equitably due ; provided, that it shall never be for less than the amount
@@ -5838,7 +5838,7 @@ SECT. 69. Any debtor, who shall give bond for the liberty of
 the prison limits, may, at any time. surrender himself, or be surrendered by his surety, to the jailer, and the bond shall thereupon become void, as to all breaches of the condition, that may happen after
 that time.
 
-SE01‘. 70. After such a surrender, the prisoner may give bond
+SECT. 70. After such a surrender, the prisoner may give bond
 and have the liberty of the prison limits anew, in like manner as before, until the expiration of the ninety days from the time of his
 original commitment under the execution.
 
@@ -5954,13 +5954,13 @@ Seer. 4. The examination shall be had before any two justices
 of the peace for the county, each of whom shall be of the quorum,
 and disinterested, and not related either to the creditor or the debtor.
 
-SE01‘. 5. It may be had at any place, within the limits of the
+SECT. 5. It may be had at any place, within the limits of the
 
 a prison, that shall be appointed for that purpose, and may be adjourned by the justices, or by either of them, in the absence of the other, to
 any other place within the same limits, and to any other time, that
 shall be found convenient.
 
-SE01‘. 6. The justices shall examine the debtor on his oath,
+SECT. 6. The justices shall examine the debtor on his oath,
 concerning his estate and effects and the disposal thereof, and his
 ability to pay the debt, for which be is committed. and they shall
 
@@ -5991,7 +5991,7 @@ execution, and that I have not any other estate, now conveyed or
 concealed, or in any way disposed of, with desi to secure the same
 to my use, or to defraud my creditors. So he p me God.
 
-Sncr. 10. After administering the oath, the justices shall make a
+SECT. 10. After administering the oath, the justices shall make a
 certificate thereof under their hands, in substance as follows, to wit :
 S , ss. To C. D., kee er of thejail at
 
@@ -6220,12 +6220,12 @@ shall have given to the creditor notice of his intention to take the benefit of 
 same intention shall be given, until the expiration of thirty days from
 the service of the former notice, unless said former notice shall be ineffectual from some defect therein, or in the service thereof.
 
-Sncr. 40. The provisions contained in the thirteen preceding
+SECT. 40. The provisions contained in the thirteen preceding
 sections shall take effect when this chapter shall go into operation,
 and shall apply only to contracts made, or to other causes of action,
 accrued after that day.
 
-SE01‘. 4]. The fees, for the services to be performed when a
+SECT. 4]. The fees, for the services to be performed when a
 prisoner is discharged by two justices of the peace, shall be as folows :
 
 To the justice who issues the citation to the creditor, fifty cents :
@@ -6283,7 +6283,7 @@ against the said B. for the sum of one hundred dollars debt,” or “damages, a
 wrong and erroneous ;” or the former judgment may be briefly described in any other manner that shall be deemed sufficiently certain,
 according to such rules as the courts shall prescribe.
 
-SE01‘. 4. The plaintifff in review shall produce and file in court
+SECT. 4. The plaintifff in review shall produce and file in court
 certified copies of the writ and judgment, and of all proceedings in
 the former suit, and the originals or copies of all depositions and other papers, used and filed therein.
 
@@ -6309,14 +6309,14 @@ been done in the original suit, and if any other or different issue shall
 be joined in consequence of such amendment, the cause shall be tried
 upon such new issue.
 
-SE01‘. 8. If the former judgment was rendered u on the default
+SECT. 8. If the former judgment was rendered u on the default
 of the defendant or otherwise, without the joining olp an issue, the
 parties shall plead upon the review, in like manner as they might and
 ought to have done in the original suit, and the cause shall be tried
 upon any issue of fact or law that shall be 'oined upon such pleadings,
 in like manner as if it had been joined in the original suit.
 
-SE01‘. 9. Upon the trial of any issue of fact upon such review,
+SECT. 9. Upon the trial of any issue of fact upon such review,
 each party may produce any legal evidence, whether produced in the
 former suit or not, and the cause shall proceed and be disposed of
 upon the verdict, if any, or upon nonsuit or default, or otherwise, in
@@ -6348,7 +6348,7 @@ ginal suit, he shall have judgment and execution for the excess.
 
 I
 
-Sncr. 15. In actions of replevin, and in all actions in which a
+SECT. 15. In actions of replevin, and in all actions in which a
 set-off is filed, the original defendant shall be considered, as to every
 thing contained in this chapter, like a plaintifff in other actions, so far
 as it respects the damages, if any, that maybe awarded to him, either
@@ -6405,7 +6405,7 @@ SECT. 23. Such stay or supersedeas of the execution may be ordered, upon the pet
 writ of review is demandable of right, as when it is grantable at the
 discretion of the court.
 
-SE01‘. 24. If, upon any such petition, the review shall not be
+SECT. 24. If, upon any such petition, the review shall not be
 granted, the court may award to the respondent his reasonable costs
 for appearing and answering thereto.
 
@@ -6491,7 +6491,7 @@ allow the plaintifff, on such terms as they shall prescribe, to amend
 his declaration, by inserting therein the name of any other person as
 defendant, and declaring against him jointly with the original defendant. .
 
-SE01‘. 2. The plaintifff may thereupon take out a new writ, in
+SECT. 2. The plaintifff may thereupon take out a new writ, in
 such form as the court shall‘ prescribe, which shall be in the nature of
 an original writ of capias and attachment, or of summons, and shall
 require the new defendant to appear and answer as a defendant in the
@@ -6499,12 +6499,12 @@ original action, and upon such writ, the new defendant’s body may
 be arrested, or his goods or estate may be attached, as upon an original writ, and the writ shall be returnable at such time as the court
 shall order, and shall be served fourteen days at least before the return day.
 
-SE01‘. 3. Upon the return of such new writ, every person,
+SECT. 3. Upon the return of such new writ, every person,
 named therein as a defendant, shall be bound to appear and answer
 with the other defendants, in the same manner as if they had all been
 originally made arties in the first writ.
 
-Saar. 4. If) a legal service cannot be made on any such new defendant, by reason of his absence from the state, or for other sufficient cause, the action may nevertheless proceed against all the defendants, who are duly served with process, either on the original or
+SECT. 4. If) a legal service cannot be made on any such new defendant, by reason of his absence from the state, or for other sufficient cause, the action may nevertheless proceed against all the defendants, who are duly served with process, either on the original or
 the new writ, in like manner as is provided in the ninety second
 chapter, when one of several original defendants is not duly served
 with process.
@@ -6645,7 +6645,7 @@ might have been pleaded in bar of the action ; provided, that he shall
 file in the cause, within such time as the court shall direct, a brief
 statement of such special matter of defense.
 
-SE01‘. 27. In every suit or action, brought to recover any for- ,
+SECT. 27. In every suit or action, brought to recover any for- ,
 feiture, the defendant may plead the general issue, and give in evi— f
 dence any special matter, which might have been pleaded in bar of i
 the suit.
@@ -6743,7 +6743,7 @@ latter, whether it is for his own life, or for the life of another, but he
 shall not be required, in any case, to set forth the original gift, devise,
 or other conveyance or title, by which he claims the estate.
 
-SE01‘. 4. The demandant shall not be required to prove an actual
+SECT. 4. The demandant shall not be required to prove an actual
 entry under his title, but if he shall prove that he is entitled to such
 an estate, as he claims in the premises, whether as heir, devisee, purchaser or otherwise, and also that he has a right of entry therein, this
 shall be deemed sufficient proof of his seizin, as alleged in the declaration, and no such action shall be maintained, unless the demandant has, at the time of commencing the same, a right of entry into the
@@ -6759,7 +6759,7 @@ demanded in such writ of entry, claiming any estate of freehold therein, may be 
 right, whatever may have been the manner of his original entry on the
 premises.
 
-SE01‘. 7. If the person in possession shall have actually ousted
+SECT. 7. If the person in possession shall have actually ousted
 the demandant, or withheld from him the possession of the premises,
 he may, at the election of the demandant, be considered as a disseizor,
 for the purpose of trying the right, although he should claim therein
@@ -6772,7 +6772,7 @@ that he is entitled to such estate in the premises, as is set forth in the
 declaration, and that he had a right of entry on the day, when the action was commenced, he shall recover the premises, unless the tenant
 shall prove a better title in himself.
 
-SE01‘. 9. The law and the practice, relating to the pleadings and
+SECT. 9. The law and the practice, relating to the pleadings and
 evidence, in the said action or writ of entry on disseizin, as now recognized and established, shall continue in force, except so far as they
 are altered by the provisions of this chapter.
 
@@ -6886,7 +6886,7 @@ recover against the tenant, or any person claiming under him, any
 rents and profits that shall accrue after the judgment, and before he
 shall have paid the sum so due to the tenant.
 
-Saar. 30. If the sum, found due to the tenant for improvements,
+SECT. 30. If the sum, found due to the tenant for improvements,
 exceed the sum due from him for the rents and profits accrued within
 the six years, he shall be chargeable with the rents and profits accrued before that time, so far as may be necessary to balance his claim
 for improvements, but in such case he shall not be liable to repay the
@@ -6924,7 +6924,7 @@ l his election, as to relinquishing the premises, the court may, on his
 
 motion, suspend the entry of the judgment, and continue the cause,
 but without any further costs for the demandant.
-SE01‘. 37. If the demandant shall relinquish the premises, as bei fore provided, the tenant shall thenceforth hold all the estate that the
+SECT. 37. If the demandant shall relinquish the premises, as bei fore provided, the tenant shall thenceforth hold all the estate that the
 
 demandant had therein at the commencement of the action, provided
 that he shall pay therefore the said estimated price or value thereof, in
@@ -6986,7 +6986,7 @@ living; and any money payable by the demandant may be paid by
 him or his executors or administrators, or by any person who is entitled to the estate under him, to the tenant or his executors or administrators, in like manner and with the like effect, as if both parties
 were living.
 
-Saar. 45. The writ of seizin, if issuable in any such case, shall
+SECT. 45. The writ of seizin, if issuable in any such case, shall
 be issued in the name of the original demandant against the original
 tenant, although either or both of them be dead, and when executed,
 it shall enure to the benefit of the demandant, or whoever is then entitled to the premises under him, in like manner as if it had been
@@ -6999,7 +6999,7 @@ as they then exist, and shall have a lien therefore on the premises, in
 like manner as if they had been mortgaged for the payment thereof,
 and may keep possession thereof accordingly, until the sum be paid.
 
-Saar. 47. If the amount, so due from the remainder-man or reversioner, shall not be agreed on by the parties, it may be ascertained and determined, as is provided for the redemption of a tnortgage,
+SECT. 47. If the amount, so due from the remainder-man or reversioner, shall not be agreed on by the parties, it may be ascertained and determined, as is provided for the redemption of a tnortgage,
 upon a bill in equity, to be brought by the remainder-man or reversioner as mortgagor; and the like proceedings shall be had, as are
 prescribed in that case, for ascertaining the sum due for redemption
 of the premises, and for the recovery thereof by the remainder-man
@@ -7077,21 +7077,21 @@ tenant of the freehold at the time when it is commenced ; but if he
 is not the same person of whom the demand was made, he shall be
 liable for damages only for the time during which he held the premuses.
 
-SE01‘. 5. In the case mentioned in the preceding section, if the
+SECT. 5. In the case mentioned in the preceding section, if the
 demandant shall recover her dower and damages in the writ of dower,
 she may afterwards maintain an action on the case, against the prior
 tenant of the freehold, of whom her demand was made, for the rents
 and profits, for the time during which he held the premises, after the
 making of the demand.
 
-Saar. 6. If the demandant recovers judgment for her dower, a
+SECT. 6. If the demandant recovers judgment for her dower, a
 writ of seizin shall be issued, requiring the officer to cause the dower
 to be set out by three disinterested persons, to be appointed by the
 court, and they shall be sworn, before a justice of the peace, to set
 out the same equally and impartially, and as conveniently as may be,
 according to their best skill and judgment.
 
-SE01‘. 7. When the estate, out of which the dower is to be assigned, consists of a mill, or other tenement, which cannot be divided
+SECT. 7. When the estate, out of which the dower is to be assigned, consists of a mill, or other tenement, which cannot be divided
 without damage to the whole, the dower may be assigned of the rents,
 issues or profits thereof, to he had and received by the demandant, as
 tenant in common with the other owners of the estate.
@@ -7100,7 +7100,7 @@ Seer. 8. Any woman who is divorced from her husband, for the
 cause of adultery committed by him, or on account of his being sentenced to confinement to hard labor, may recover her dower, in the
 manner provided in this chapter, against her former husband, or whoever shall be the tenant of the freehold.
 
-Saar. 9. The provisions, contained in the sixtieth chapter,
+SECT. 9. The provisions, contained in the sixtieth chapter,
 as to the lands, out of which dower may be claimed, the manner in
 which it may be barred, and the liability of the tenant for waste,
 shall be applied and enforced in all cases, when dower is demanded
@@ -7273,12 +7273,12 @@ or in common, as tenants for any term of years, either of them may
 have his share set off and divided from the others, in the same man
 ner as if they had all been tenants of the freehold.
 
-SE01‘. 5. Such partition, between two or more tenants for years, ;
+SECT. 5. Such partition, between two or more tenants for years, ;
 shall continue in force only so long as their estates endure, and shall 1
 not affect the premises, when they revert to the respective landlords
 or reverstoners.
 
-SE01‘. 6. Every petition for partition shall set forth the rights and :
+SECT. 6. Every petition for partition shall set forth the rights and :
 titles, so far as known to the petitioner, of all persons interested in the ‘
 premises, who would be bound by the partition, whether they have an
 estate of inheritance or for life or years, and whether it be an estate
@@ -7299,7 +7299,7 @@ court, to which he intends to present his petition, cause the parties
 interested to be served with a copy of the petition, as is provided in
 the following section.
 
-SE01‘. 8. If the petition shall have been so filed in the clerk’s I
+SECT. 8. If the petition shall have been so filed in the clerk’s I
 odSce, the service shall be made by delivering to each of the said}
 arties, an attested copy of the petition and of the summons, or by
 leaving such copies at the place of his abode; the copies to be attested by the clerk or by the officer who serves the process ; and if the
@@ -7308,7 +7308,7 @@ office, the service shall be made by delivering or leaving as aforesaid,a
 
 copy of the petition attested in manner aforesaid.
 
-SE01‘. 9. If any of the persons, so named as interested, are ab- I
+SECT. 9. If any of the persons, so named as interested, are ab- I
 sent from the state, or if there are any persons interested in the pre- f
 mises, and who would be bound by the partition, whose names are 1
 unknown to the petitioner, the court shall order notice to be given to
@@ -7330,7 +7330,7 @@ and if the service of the summons, or other notice to him, shall ap- f
 pear to the court to be in any way defective or insufficient, the court t
 may order such further notice to him, as they shall think proper.
 
-SE01‘. 12. If, in any stage of the proceedings, it shall appear to ‘
+SECT. 12. If, in any stage of the proceedings, it shall appear to ‘
 
 the court, that any person interested as aforesaid, whether named in
 the petition or not, is out of the state, and has not had opportunity to
@@ -7384,7 +7384,7 @@ three or five disinterested persons as commissioners, to make the
 partition, and to set off to the petitioner or petitioners, the share or
 shares belonging to them, which shall be expressed in the warrant.
 
-SE01‘. 2] If there are several petitioners, they may have their
+SECT. 2] If there are several petitioners, they may have their
 
 shares set off together, or the share of each one may be set of in severalty, at their election.
 
@@ -7524,7 +7524,7 @@ rendered.
 
 n.-.—. A
 
-Saar. 41. If two or more persons appear as respondents, claim- »
+SECT. 41. If two or more persons appear as respondents, claim- »
 
 ing the same share of the premises to be divided, it shall not be necessary to decide on their respective claims, except only for the purpose of determining which of them shall be ‘admitted to appear and
 plead in the suit ; and if partition is made, the share so claimed shall
@@ -7729,7 +7729,7 @@ premises, or as much thereof as may belong to them, and also for
 obtaining partition thereof, in like manner as if the proceedings in the
 probate court had not been had.
 
-Sncr. 70. If, after a partition by the probate court, any improvements shall be made on any part of the premises, which shall afterwards, upon a new partition, in the‘ same or any other court, be assigned to any other person, the party, from whom such part is taken,
+SECT. 70. If, after a partition by the probate court, any improvements shall be made on any part of the premises, which shall afterwards, upon a new partition, in the‘ same or any other court, be assigned to any other person, the party, from whom such part is taken,
 shall be entitled to compensation for the improvements thereon, to
 be estimated and awarded by the commissioners, who shall make the
 second partition, and to be paid by the party, to whom that part of
@@ -7740,7 +7740,7 @@ Snow. 71. Every person, holding any lands under a partition,
 made by any of the courts mentioned in this chapter, shall be considered as holding them under an apparently good title, so that in
 case of an eviction, he shall be entitled to compensation for any improvements made-thereon, in the manner prescribed in the one hundred and first chapter.
 
-Sncr. 72. When proceedings for obtaining partition shall have
+SECT. 72. When proceedings for obtaining partition shall have
 been lawfully commenced, in either of the courts mentioned in this
 chapter, that court shall retain jurisdiction of the case, saving the right
 of appeal, in all cases, where an appeal is allowed by law.
@@ -7769,7 +7769,7 @@ years. 11. Liability of deft. for frivolous plea, Gm.
 SECTION 1. No person shall make any entry into lands or tenements, except in cases where his entry is allowed by law ; and in such
 cases, he shall not enter with force, but in a peaceable manner.
 
-SE01‘. 2. When any forcible entry shall be made, or when an
+SECT. 2. When any forcible entry shall be made, or when an
 entry shall be made in a peaceable manner, and the possession shall
 be unlawfully held by force, and also when the lessee of any lands or
 tenements, or any person holding under such lessee, shall hold possession of the demised premises, without right, after the determination
@@ -7783,7 +7783,7 @@ this chapter, of any lands or tenements, of which the party complained of, or hi
 have been in the quiet possession, for three years next before the
 filing of the complaint, unless his estate therein is ended.
 
-SE01‘. 4. The person, entitled to the possession of the premises,
+SECT. 4. The person, entitled to the possession of the premises,
 
 * may take, from any justice of the peace, a writ in the form used for
 
@@ -7794,7 +7794,7 @@ the lands or tenements in question, describing them, which he holds
 unlawfully, and against the right of the plaintifff, as it is said ; and no
 other declaration shall be required.
 
-Saar. 5. The writ shall be served seven days at least before
+SECT. 5. The writ shall be served seven days at least before
 the return day, and the suit shall be conducted like other civil actions before justices of the peace.
 
 SI.-:c'r. 6. If the defendant shall be defaulted, or if on a trial
@@ -7811,7 +7811,7 @@ St-:c'r. 8. Either party may appeal from the judgment of the
 justice, and the suit shall be thereupon conducted in the same manner, as is prescribed in cases of appeals from justices of the peace, in
 other civil actions.
 
-SE01‘. 9. If it shall appear by the pleadings or otherwise, in any
+SECT. 9. If it shall appear by the pleadings or otherwise, in any
 such suit, that the title to the freehold is brought in question, the
 case shall, at the request of either party, he transferred to the court
 of common pleas, and be conducted in all respects thereafter, in the
@@ -7895,7 +7895,7 @@ SECT. 4. Any person, who is entitled to such action of waste,
 may, instead thereof, bring an action on the case in the nature of
 waste, in which he shall recover such damages as he shall have suffered by reason of the waste complained of.
 
-SE01‘. 5. Such an action on the case may also be maintained by
+SECT. 5. Such an action on the case may also be maintained by
 one who has the remainder or reversion, in fee simple or fee tail, after an intervening estate for life, and also by one who has a remainder or reversion for life or years only, and each of them shall recover
 such damages as it shall appear that he has suffered by the waste
 complained of.
@@ -7941,7 +7941,7 @@ recover, in an action of trespass against him, three times the amount
 of the damages that shall be assessed therefore, except as provided in
 the following section.
 
-SE01‘. 1 I. If, upon the trial of such an action, it shall appear that
+SECT. 1 I. If, upon the trial of such an action, it shall appear that
 the defendant had good reason to believe that the land on which the
 trespass was committed was his own, or that he was otherwise lawfully authorized to do the acts complained of, he shall be liable only
 for the single damages assessed therefore.
@@ -7990,7 +7990,7 @@ make. preparations to commit waste thereon, the court, in which the
 suit is pending, or any one of the justices thereof may, on the application of the plaintifff, either in term time or vacation, issue a writ of
 injunction to stay such waste.
 
-SE01‘. 18. The same court may arrest and commit the defendant for any violation of such injunction, and issue such other process
+SECT. 18. The same court may arrest and commit the defendant for any violation of such injunction, and issue such other process
 as may be necessary or proper to enforce obedience thereto, in like
 manner as the supreme judicial court may do upon a bill in equity
 pending before them, and the injunction may be dissolved, either in
@@ -8016,25 +8016,25 @@ plaintifff prevails, the court may, in addition to the usual judgment for
 damages and costs, also enter judgment, that the nuisance be abated
 and removed. .
 
-SE01‘. 2. The court, in such a case, may award an execution in
+SECT. 2. The court, in such a case, may award an execution in
 common form, for the damages and costs, and a separate warrant to
 the proper officer, requiring him to abate and remove the nuisance,
 at the expense of the defendant, in like manner as public and common
 nuisances are abated and removed. I
 
-SE01‘. 3. The court may on the motion of the defendant, order
+SECT. 3. The court may on the motion of the defendant, order
 a stay of the said warrant, for any time not exceeding six months, to
 give him opportunity to remove the nuisance, upon his undertaking
 to do so, within the time so ordered.
 
-SE01‘. 4. If the plaintifff shall recover judgment in a second suit,
+SECT. 4. If the plaintifff shall recover judgment in a second suit,
 for the continuance or repetition of the same nuisance, whether there
 had been in the first suit a judgment for the abatement and removal
 thereof or not, he shall, in such second suit, be entitled as of right to
 a judgment for the abatement and removal of the nuisance, and to a
 warrant to be issued thereon, as before provided.
 
-SE01‘. 5. The expense of abating and removing the nuisance
+SECT. 5. The expense of abating and removing the nuisance
 shall be collected by the officer, in the same manner as damages and
 costs are collected upon execution ; except, that the materials of any
 buildings, fences, or other things, that shall be removed as a nuisance,
@@ -8042,12 +8042,12 @@ may be sold by the officer, in like manner, as goods are sold on execution for t
 pay over the balance thereof, if any, to the defendant upon demand,
 and if the proceeds of the sale are not sutiicient to defray the said expenses, he shall collect the residue thereof as before provided.
 
-SE01‘. 6. The supreme judicial court may hear and determine
+SECT. 6. The supreme judicial court may hear and determine
 in equity, all matters concerning nuisances, in which there is not a
 plain, adequate and complete remedy at law, and whenever it is necessary or proper to have any fact in such a case tried by a jury, it
 shall be done in such manner, as the court shall direct.
 
-SE01‘. 7. The said court or any one of the justices thereof may
+SECT. 7. The said court or any one of the justices thereof may
 either in term time or vacation, at any time after the commencement
 of such suit, issue an injunction to stay or prevent any nuisance on the
 premises in question, and may issue all such other writs and processes, and make all such orders and decrees in the case, according to
@@ -8124,7 +8124,7 @@ mortgagor or other person claiming the premises ; and such possession,
 obtained in either mode, being continued peaceably for three years,
 
 shall forever foreclose the right of redemption.
-SE01‘. 2. When an entry, for breach of the condition, is made
+SECT. 2. When an entry, for breach of the condition, is made
 
 without a judgment, a memorandum or certificate thereof shall be
 made on the mortgage deed, and signed by the mortgagor or the person claiming under him, and the same shall, within thirty days thereafter, he recorded in the registry of deeds, where the mortgage is
@@ -8163,13 +8163,13 @@ suit, the mortgage shall be void, and the defendant shall hold the premises disc
 execution for possession of the premises, and for the costs of the
 suit.
 
-SE01‘. 6. When the condition of the mortgage is for the doing
+SECT. 6. When the condition of the mortgage is for the doing
 of somethin other than the payment of money, the court shall vary
 the terms o? the judgment, as the case may require, but shall award
 execution as before provided, unless the defendant shall, within two
 months after the, judgment, perform what shall be therein prescribed.
 
-SE01‘. 7. An entry for breach of the condition may be made, and
+SECT. 7. An entry for breach of the condition may be made, and
 an action for possession may be brought, by any assignee of the mortgagee, whether the assignment be by deed or by 0 eration of law, and
 the action shall be conducted in like manner, as i brought by the original mortgagee ; and when brought by an executor or administrator,
 it shall be conducted in the manner prescribed in the sixty fifth chapter.
@@ -8211,7 +8211,7 @@ holding under him, may redeem the same, in the manner provided in
 the following sections, unless the mortgagee, or some person lawfully
 holding or claiming under him, has obtained possession of the premises for the breach of the condition, and has continued that possession for three years, as before provided in this chapter.
 
-Saar. 14. The person entitled to redeem the estate shall pay
+SECT. 14. The person entitled to redeem the estate shall pay
 
 ‘ or tender to the mortgagee, or to the person lawfully claiming or holding under him, the whole sum then due and payable on the mortgage,
 and shall perform, or tender performance of, every other condition
@@ -8234,7 +8234,7 @@ and thereupon discharge the mortgage in the manner prescribed by
 law, the mortgagor, or the person claiming or holding under him, may
 recover the premises by a bill in equity for redemption, to be prosecuted as hereinafter provided.
 
-Saar. 17. Such tender, if not accepted, shall not prevent the
+SECT. 17. Such tender, if not accepted, shall not prevent the
 foreclosure of the right of redemption, unless a suit thereon be commenced within one year after the tender is made.
 
 Seer. 18. The person entitledvto redeem, may bring a bill for
@@ -8267,7 +8267,7 @@ court of common pleas, or in the supreme judicial court, held for the
 county where the land lies, and if brought in the court of common
 pleas, an appeal may be had to the supreme judicial court, as in other civil actions.
 
-Saar. 22. The bill may be inserted in a writ of original summons, or the suit may be commenced by a subpoena, according to the
+SECT. 22. The bill may be inserted in a writ of original summons, or the suit may be commenced by a subpoena, according to the
 course of proceedings in chancery, and in either case, the process
 shall be served as in other civil actions‘.
 
@@ -8351,7 +8351,7 @@ year after the recovery of such judgment.
 S1-‘JCT. 34. The mortgages, mentioned in this chapter, shall inr clude not only those made by a common deed of mortgage, but also
 
 such as are made by a conveyance, with a separate deed of defeasance.
-SE01‘. 35. When artv mortgage is made or assigned to the Commonwealth, the treasurer may demand and receive the money due
+SECT. 35. When artv mortgage is made or assigned to the Commonwealth, the treasurer may demand and receive the money due
 thereon, and upon payment thereof, he shall make and acknowledge a
 discharge of the mortgage.
 
@@ -8428,23 +8428,23 @@ Commonwealth thereto ; and a summons shall thereupon issue to the
 persons therein named as intruders or trespassers, and shall be made
 returnable in the county where the lands lie.
 
-' SE01‘. 3. The service of the summons, and all the other-proceedings in the suit, shall be conducted in the same manner, substantially, as in real actions between private persons, unless where a difterent course is prescribed.
+' SECT. 3. The service of the summons, and all the other-proceedings in the suit, shall be conducted in the same manner, substantially, as in real actions between private persons, unless where a difterent course is prescribed.
 
 S1-zcr. 4. Costs shall be awarded and taxed, as in other cases, for
 the party prevailing, and if the judgment is in favor of the Commonwealth, an execution for the costs shall issue in common form, and if
 it is in favor of the defendant, the costs shall be paid out of the treasury, by warrant of the governor and council.
 
-Saar. 5. If the judgment is in favor of the Commonwealth, it
+SECT. 5. If the judgment is in favor of the Commonwealth, it
 shall not be necessary to take out a writ of possession, or any like process, but the Commonwealth shall be deemed and taken to be actually seized and possessed of the premises, as soon as the judgment is
 rendered.
 
-SE01‘. 6. When the title of the Commonwealth is founded on a
+SECT. 6. When the title of the Commonwealth is founded on a
 forfeiture for the breach of a condition, in any grant or conveyance
 made by'the Commonwealth, or by the late province or colony of
 Massachusetts Bay, no suit therefore shall be commenced, unless by
 an order of the legislature.
 
-SE01‘. 7. If the claim of the Commonwealth is founded on an
+SECT. 7. If the claim of the Commonwealth is founded on an
 escheat, for want of heirs of the last owner of the premises, or on
 any other title, except that of the forfeiture mentioned in the preceding section, the attorney general or district attorney may commence
 and prosecute a suit therefore, whenever he shall have good reason
@@ -8470,12 +8470,12 @@ not named in the information, shall recover costs against the Commonwealth, unle
 premises, although the Commonwealth should fail to establish their
 claim thereto.
 
-SE01‘. 10. When there are several defendants, the court may:
+SECT. 10. When there are several defendants, the court may:
 award costs for or against any one of them, as the justice of the case ,
 may require, in like manner as if he had been the only defendant in
 the case.
 
-SE01‘. 11. If the Commonwealth prevail in the suit, the de-3
+SECT. 11. If the Commonwealth prevail in the suit, the de-3
 fendant shall be chargeable for the rents and profits of the premises, 
 and be entitled to an allowance for all improvements made thereon,
 in like manner as is provided in the case of a writ of entry between
@@ -8495,7 +8495,7 @@ disprove any facts alleged and proved in the first suit, and may allege
 and prove any other facts, in support of his claim, and if it shall appear that he is entitled to the premises, he shall have judgment and
 execution therefore in common form.
 
-Saar. 14. If the Commonwealth shall continue seized of the
+SECT. 14. If the Commonwealth shall continue seized of the
 
 remises, at the time when such new action is commenced, it shall be
 brought against the tenant or occupant of the premises, and in addition to the service on him, a copy of the original writ or summons
@@ -8700,7 +8700,7 @@ shall be subject to such alterations, from time to time, as may be
 made by the courts, according to the authority vested in them in the
 ninetieth chapter.
 
-Sncr. 4. Every person, having any goods, effects, or credits
+SECT. 4. Every person, having any goods, effects, or credits
 of the principal defendant, entrusted or deposited in his hands or possession, may be summoned as a trustee, and such goods, effects, and
 
 ' credits shall be thereby attached and held to respond the final judgment in the suit, in like manner as goods or estate, when attached by
@@ -8720,12 +8720,12 @@ or such other officers, as they shall appoint, or as the court shall require, to
 oath of such officers or persons shall be received as the answer and
 examination of the corporation.
 
-SE01‘. 7. If all the persons, named in the writ as trustees, dwell
+SECT. 7. If all the persons, named in the writ as trustees, dwell
 in one county, the writ shall be returnable in that county, otherwise
 it may be returnable in any county, in which either of the trustees
 dwells, without regard to the domicil of the principal parties.
 
-Sncr. 8. The attachment of the goods and estate of the principal defendant, in his own hands and possession, if any, shall be made
+SECT. 8. The attachment of the goods and estate of the principal defendant, in his own hands and possession, if any, shall be made
 in the usual manner, and the writ shall be further served on the principal, and also on each of the trustees, in the manner prescribed for
 
 the service of an original summons, in other civil actions.
@@ -8742,7 +8742,7 @@ him, as would be sufiicient in an action, commenced in the ordinary
 mode of process, or unless the principal shall actually appear and
 answer to the suit.
 
-SE01‘. 11. If any supposed trustee shall appear, either in person
+SECT. 11. If any supposed trustee shall appear, either in person
 or by attorney, and declare in writing that he had not, in his hands or
 possession, at the time when the writ was served on him, any goods,
 effects or credits of the principal, and shall submit himself thereupon
@@ -8886,7 +8886,7 @@ writ on him, due absolutely and without depending on any contingenc : nor
 yFifthly, by reason of any debt due from him on a judgment, so
 long as he is liable to an execution on the ‘judgment.
 
-SE01‘. 3]. If, during the pendency 0 any action, the defendant
+SECT. 3]. If, during the pendency 0 any action, the defendant
 therein is summoned as the trustee of the plaintifff, the first suit may
 nevertheless roceed so far as to ascertain, by a verdict, award, or
 otherwise, what sum, if any, is due from the defendant ; and the suit
@@ -8974,17 +8974,17 @@ sum for which he is chargeable; but if, upon a writ of scire facias
 against him, it shall appear that he is chargeable as a trustee, the sum.
 for which he is chargeable, shall be expressed in the judgment
 
-SE01‘. 43. If, after any person is adjudged a trustee, the goods,
+SECT. 43. If, after any person is adjudged a trustee, the goods,
 effects and credits in his hands shall not be demanded of him, by
 force of the execution, within thirty days after final judgment, the
 same goods, effects and credits shall be liable to another attachment,
 whether made before or after the said judgment, in like manner as if
 such prior attachment had not been made.
 
-SE01‘. 44. If there shall be no such second attachment, the principal defendant in the suit may recover the goods, effects and credits,
+SECT. 44. If there shall be no such second attachment, the principal defendant in the suit may recover the goods, effects and credits,
 if not demanded, as aforesaid, within the said thirty days, in like manner as if they had not been attached.
 
-Saar. 45. If no such second attachment is made of the same
+SECT. 45. If no such second attachment is made of the same
 goods, effects and credits, and no action is brought therefore by the
 principal defendant, and if they shall not have been paid or delivered
 to him, before the same are demanded of the trustee by the officer,
@@ -9042,7 +9042,7 @@ his said costs and charges, which shall be retained or recovered as
 before provided, whether he appears at the first or at any other term,
 and whether in the original suit, or upon a scire facias against him.
 
-Sncr. 54. If any person, who is summoned as a trustee, and
+SECT. 54. If any person, who is summoned as a trustee, and
 who dwells in the county in which the writ is returnable, shall, without any reason which the court shall deem sufficient, neglect to appear at the first term and submit himself to an examination as before
 provided, he shall be liable for all costs for the plaintifff ’s travel and
 attendance, until the trustee shall appear as aforesaid, provided the
@@ -9196,7 +9196,7 @@ Snow. 74. VVhen any person, summoned as a trustee, before a
 justice of the peace, shall be entitled to costs, his travel and attendance shall be taxed at the same rate as if he were a principal defendant, and he shall be allowed such further sum, as the justice shall
 think reasonable, for his counsel fees and other necessary expenses.
 
-Sncr. 75. VVhen it shall become necessary to sue out a writ of
+SECT. 75. VVhen it shall become necessary to sue out a writ of
 scire facias against any person, who has been summoned as a trustee,
 before a justice of the peace, it may be issued by the justice by
 whom the judgment was rendered, although the amount of the debt
@@ -9246,11 +9246,11 @@ him, or in any action commenced by or against the testator or intestate, wherein
 upon himself the prosecution or defense, he shall be personally liable
 for the costs.
 
-SE01‘. 3. When judgment is recovered against an executor or
+SECT. 3. When judgment is recovered against an executor or
 administrator for costs only, the execution shall be awarded against his
 body and his goods and estate, as if it were for his own debt.
 
-SE01‘. 4. When the judgment is for debt or damages, and for
+SECT. 4. When the judgment is for debt or damages, and for
 
 costs also, an execution, for the debt or damages, shall be awarded
 against the goods and estate of the deceased, in the hands of the executor or administrator, and another execution, for the sum due for
@@ -9258,7 +9258,7 @@ costs, shall be awarded against the goods and estate of the executor
 or administrator, and also against his body, as if it were for his own
 debL
 
-SE01‘. 5. All costs, paid by executors or administrators, and for
+SECT. 5. All costs, paid by executors or administrators, and for
 which they are made personally liable, shall be allowed them in their
 administration accounts, unless the judge of probate shall decide that
 the suit was prosecuted or defended without reasonable cause.
@@ -9283,7 +9283,7 @@ not appear, shall be conducted in the manner prescribed in the ninety
 third chapter, upon occasion of the death of either party during the
 pendency of a suit.
 
-SE01‘. 9. If any executor or administrator shall die or be removed, after judgment is rendered, either for or against him, a scire facias
+SECT. 9. If any executor or administrator shall die or be removed, after judgment is rendered, either for or against him, a scire facias
 may be sued out, either by or against the administrator de bonis non,
 and a new execution may be issued accordingly, in like manner as it
 may be done by or against an original executor or administrator, in
@@ -9468,11 +9468,11 @@ in session, it shall be signed by the clerk, otherwise by the magistrate or magi
 served in any county, by any sheriff or deputy sheriff of the same or
 of any other county.
 
-SE01‘. 7. The writ may in all cases be issued by the supreme
+SECT. 7. The writ may in all cases be issued by the supreme
 
 judicial court, or by any of the justices thereof.
 
-Saar. 8. The writ may be issued by any judge of the court
+SECT. 8. The writ may be issued by any judge of the court
 of common pleas, if no justice of the supreme judicial court is known
 to him to be within ten miles of the place, where the party is imprisoned or restrained, or by any judge of probate, if no justice of the
 supreme judicial court nor judge of the court of common pleas is
@@ -9496,7 +9496,7 @@ name, or if both such names are unknown or uncertain, he may be
 described by an assumed appellation, and any one, who is served
 with the writ, shall be deemed the person intended thereby.
 
-Saar. 11. The person to be produced shall be designated by his
+SECT. 11. The person to be produced shall be designated by his
 name, if known, and if that is unknown or uncertain, he may be
 described in any other way, so as to make known who is intended.
 
@@ -9660,7 +9660,7 @@ some material defect in the commitment, in a criminal case, he shall
 be again arrested on suliicient proof, and committed by legal process
 for the same offense.
 
-Saar. 35. Nothing contained in this chapter shall be construed
+SECT. 35. Nothing contained in this chapter shall be construed
 to restrain the ower of the supreme judicial court, or any one of the
 
 I}: to issue a writ of habeas corpus at their discretion,
@@ -9684,7 +9684,7 @@ or criminal, pending in such court, when they shall think the personal
 attendance and examination of the witness necessary for the attainment
 of justice.
 
-Sncr. 38. The writ de homine replegiando is abolished.
+SECT. 38. The writ de homine replegiando is abolished.
 
  
  
@@ -9749,13 +9749,13 @@ of common pleas, in a suit upon a writ of audita querela, may appeal
 thereirom to the supreme judicial court, in like manner as in other
 civil actions.
 
-SE01‘. 7. If the plaintifff in such suit is imprisoned by force of
+SECT. 7. If the plaintifff in such suit is imprisoned by force of
 the execution or other process complained of, the court, in which the
 suit is pending, may enlarge him, upon his giving bond to the defendant, in such sum as the court shall order, with two or more sureties
 having sufficient within the county, and approved by the court, with
 condition as provided in the following section.
 
-SE01‘. 8. The condition of the bond shall be, that if final judgment in the suit on the audita querela shall be rendered for the defendant, the plaintifff shall, within thirty days thereafter, surrender
+SECT. 8. The condition of the bond shall be, that if final judgment in the suit on the audita querela shall be rendered for the defendant, the plaintifff shall, within thirty days thereafter, surrender
 himself to the jailer or other officer by whom he was imprisoned, to
 be detained in custody under the former execution or process, or
 shall within that time pay the sum due on the former execution or
@@ -9814,7 +9814,7 @@ SECT. 15. The proceedings upon writs of error, as to the assignment of errors, a
 according to the course of the common law, as modified by the practice and usage in this state, and such general rules as shall be made
 by the supreme judicial court.
 
-Sncr. 16. No writ of error, upon ajudgment for any capital of~ fence, shall issue, unlass allowed by one of the justices of the supreme
+SECT. 16. No writ of error, upon ajudgment for any capital of~ fence, shall issue, unlass allowed by one of the justices of the supreme
 
 judicial court, after notice given to the attorney general, or other attorney for the Commonwealth.
 
@@ -9954,12 +9954,12 @@ animals so impounded ; provided, that if more than ten sheep are
 taken up at the same time, the fees for all above that number shall be
 only one half of the fees before mentioned.
 
-SE01‘. 3. The pound keeper shall not deliver to the owner any
+SECT. 3. The pound keeper shall not deliver to the owner any
 beasts so impounded, until the owner shall ay him his fees and the
 expense of keeping the beasts, and also t e fees due to the field
 driver, which latter, when received, he shall pav to the field driver
 
-SE01‘. 4. When any person is injured in his land, by sheep,
+SECT. 4. When any person is injured in his land, by sheep,
 swine, horses, asses, mules, goats, or neat cattle, he may recover his
 damages in an action of trespass against the owner of the beasts, or
 by distraining the beasts doing the damage, and proceeding therewith
@@ -9973,7 +9973,7 @@ the immediate care and inspection of the person who distrained them,
 and he shall furnish them with suitable food and water, so long as
 they remain im ounded.
 
-SE01‘. 6. f the beasts are impounded, in the town pound, the
+SECT. 6. f the beasts are impounded, in the town pound, the
 distrainer shall leave with the pound keeper a memorandum in writing,
 under his hand, stating the cause of impounding, and the sum that he
 demands from the owner, for the damage done by the beasts, and also
@@ -9987,13 +9987,13 @@ fees, together with the sum so demanded by the distrainer, for the
 damages and charges aforesaid, and the expense of advertising the
 beasts, if they are advertised, and all other legal costs and expenses.
 
-SE01‘. 8. When beasts are impounded, the person impoundin'g
+SECT. 8. When beasts are impounded, the person impoundin'g
 them shall, within twenty four hours thereafter, give notice thereo ,
 in writing, to the owner or the person having the care of them, if
 known, and living within six miles from the place of impounding, which notice shall be delivered to the party, or left at his place
 of abode, and shall contain a description of the beasts, and a statement of the time, place and cause of impounding.
 
-Saar. 9. If there is no person entitled to notice, according to the
+SECT. 9. If there is no person entitled to notice, according to the
 provisions of the preceding section, the person impounding the beasts
 shall, within forty eight hours thereafter, cause to be posted in some
 public place in the town, and in a public place in each of any two adJoining towns, if within four miles from the place where they were
@@ -10011,7 +10011,7 @@ purpose, by a justice of ‘the peace or by the town clerk ; and the sum
 so determined by them shall be received, instead of the sum demanded by the person who impounded the beasts, and they shall thereupon
 be delivered to the owner or keeper thereof.
 
-SE01‘. 1]. If the sum, for which the beasts are impounded and
+SECT. 1]. If the sum, for which the beasts are impounded and
 detained, shall not be paid within fourteen days after notice of the
 impounding shall have been given, as before directed, or after the last
 publication of such notice in a newspaper, the person who impounded
@@ -10316,7 +10316,7 @@ SECT. 4. No such agreement to submit all demands shall include
 any demands, but such as might be the subject of a personal action at
 law, or ofa suit in equity.
 
-SE01‘. 5. Neither party shall have power to revoke a submission,
+SECT. 5. Neither party shall have power to revoke a submission,
 made as herein provided, without the consent of the other; and if
 either of them shall neglect to appear before the arbitrators, after due
 notice, the arbitrators may nevertheless proceed to hear and determine
@@ -10427,7 +10427,7 @@ that the improvements proposed will be for the general advantage of
 the proprietors, the court may appoint three, five, or seven suitable
 persons, commissioners, to cause the same to be effected.
 
-SE01‘. 4. The commissioners shall be sworn to the faithful discharge of their duties ; they shall view the premises, and notify and
+SECT. 4. The commissioners shall be sworn to the faithful discharge of their duties ; they shall view the premises, and notify and
 hear the parties concerned therein, as to the best manner of making
 the improvements, and shall determine and prescribe the measures to
 be adopted for that purpose.
@@ -10441,7 +10441,7 @@ rivers or streams leading therefrom to be removed; and they shall
 meet from time to time, as may be necessary, to cause the work to
 be completed, according to their directions.
 
-SE01‘. 6. The commissioners may employ suitable persons, to
+SECT. 6. The commissioners may employ suitable persons, to
 erect the dams or dikes, or perform the other work, under their direction, for such reasonable wages, as they shall agree upon, unless
 the proprietors themselves shall do the same, in such time and inanner, as the commissioners shall direct.
 
@@ -10452,7 +10452,7 @@ quality, and situation of each person’s part of the lands, and to the
 benefit that he will derive from the improvements; and they shall
 assess the same accordingly, upon the said proprietors.
 
-SE01‘. 8. The commissioners may appoint a collector of the
+SECT. 8. The commissioners may appoint a collector of the
 monies so assessed, and shall give him a warrant to collect, pay over
 and account for the same, to such person as they shall appoint, and
 
@@ -10518,7 +10518,7 @@ order therein, as law and justice shall require ; and all questions of
 fact, that shall arise upon the hearing of the appeal, shall, at the motion of either party, he tried by a jury, in such manner as the court
 shall direct.
 
-Saar. 18. The commissioners, before proceeding to open flood
+SECT. 18. The commissioners, before proceeding to open flood
 gates, or to make other passages for water, through or around any
 dam, or to erect a dam, on the land of any person who is not a party
 to the proceedings, shall give to such person seasonable notice in
@@ -10692,7 +10692,7 @@ length of time, or period, for which it may be kept up in each year,
 shall be liable to be restricted and regulated by the verdict of a jury,
 
 as hereinafter provided.
-SE01‘. 4. Any person, whose land is overflowed, or otherwise
+SECT. 4. Any person, whose land is overflowed, or otherwise
 
 injured by such dam, may obtain compensation therefore, upon his
 complaint before the court of common pleas for the county where the
@@ -10763,7 +10763,7 @@ returned on the complaint oly any person, aggrieved by the laying out
 of a highway, and the jurors shall be required to attend, under the
 same penalty that is provided in the said chapter.
 
-SE01‘. 14. All the proceedings, as to supplying a deficiency of
+SECT. 14. All the proceedings, as to supplying a deficiency of
 jurors, and swearing and empannelling the jury, and in conducting the
 trial, either before the officer who serves the warrant, or before the
 person, who may be appointed by the court to preside at the trial,
@@ -10801,7 +10801,7 @@ shall he thereafter occasioned by the datn, so long as it shall be used
 in conformity with the verdict, and also what sum in gross would be
 a just and reasonable compensation for all the damages to be thereafter occasioned by such use of the dam, and for the right of maintaining and using the same forever, in manner aforesaid.
 
-Sncr. 20. The complainant in such case, at any time within
+SECT. 20. The complainant in such case, at any time within
 three months after the verdict is allowed and recorded, may elect to
 take the sum in gross, so awarded by the jury, for the right to maintain and use the dam forever, instead of receiving the annual compensation therefore, and if he shall make such election, he shall, within the
 said three months, cause the same to be entered on the record of the
@@ -10950,7 +10950,7 @@ chapter ; or the complainant may accept either the sum tendered for
 past damages, or the offer for future annual compensation, and proceed to trial on the residue of the complaint, under the same liability
 for costs as before provided.
 
-Saar. 43. No complaint for flowing shall be abated, by reason
+SECT. 43. No complaint for flowing shall be abated, by reason
 of the death of any party thereto, but the same may be prosecuted or
 defended by the surviving complainants or respondents, or the executors or administrators of the deceased; and if any such complaint shall
 be abated or otherwise defeated, for any matter of form, or if, after
@@ -11150,7 +11150,7 @@ in writing, and signed by the owner of the land, or by some person
 duly authorized by him, and recorded in the registry of deeds for the
 county where the land lies.
 
-SE01‘. 3. The lien shall be dissolved at the expiration of six
+SECT. 3. The lien shall be dissolved at the expiration of six
 months after the time, when the money due by the contract, or the
 last instalment thereof, shall become payable, unless asuit for enforcing the lien shall have been commenced within the said six months.
 
@@ -11166,7 +11166,7 @@ description of the premises which are subject to the lien, and all other materia
 may be sold, and the proceeds of the sale be applied to the discharge
 of the demand. _
 
-SE01‘. 7. The court, in which the petition is entered,shall order
+SECT. 7. The court, in which the petition is entered,shall order
 notice to be given to the owner of the land, that he may appear and
 answer thereto, at a certain day in the same term, or at the next term
 of the court, by serving him with an attested copy of the petition,
@@ -11486,7 +11486,7 @@ tenements, and for want thereof, upon his body. In witness whereof
 the said — hath hereto set his hand.
 clerk of the court of common pleas for the county of
 
-SE01‘. 3. The clause, as to the payment of interest, may be altered or wholly omitted, according to the agreement of the parties, but
+SECT. 3. The clause, as to the payment of interest, may be altered or wholly omitted, according to the agreement of the parties, but
 interest shall always be allowed for the delay, if any, after the time of
 payment, unless the recognizance contains an express agreement to
 the contrary.
@@ -11513,7 +11513,7 @@ clerk shall compute the amount due on the recognizance, deducting
 the payments, if any, that shall have been made and indorsed thereon,
 and shall issue execution for the sum then due.
 
-SE01‘. 8. The execution shall be in the usual form of an execution on a judgment for debt, except that instead of reciting a judgment, it shall recite the recognizance, and state the amount then due
+SECT. 8. The execution shall be in the usual form of an execution on a judgment for debt, except that instead of reciting a judgment, it shall recite the recognizance, and state the amount then due
 thereon ; and it may be issued by the clerk, without any special order
 of the court. '
 
@@ -11522,7 +11522,7 @@ before the clerk of the court, and the form shall be the same, excepting the des
 justice shall record all recognizances by him taken, in a book kept for
 that purpose, and shall, in each case, deliver the original to the conusee, as before required of the clerk of the court.
 
-Sncr. 10. The justice, before whom a recognizance is taken,
+SECT. 10. The justice, before whom a recognizance is taken,
 shall have the same power to issue execution thereon, as is given in
 this chapter to the clerk of the court, and such execution shall have
 the same effect as an execution issued by the clerk, excepting that it
@@ -11626,7 +11626,7 @@ common pleas; otherwise, it shall be filed before a justice of the
 peace, and the value, for this purpose, shall be ascertained by an
 appraisal, as hereinafter provided for.
 
-Saar. 23. Upon the filing of such libel in the court of common 1
+SECT. 23. Upon the filing of such libel in the court of common 1
 pleas, the clerk shall make out an advertisement, setting forth briefl 
 the substance of the libel, and giving notice, to all persons interested, :
 to appear at the term of the said court, to be held next after the expiration of twenty one days from the time of filing the libel, and show
@@ -11637,7 +11637,7 @@ otherwise, in a newspaper printed in the nearest county, the first
 publication to be not less than fourteen days before the beginning of
 the term.
 
-Sncr. 24. The libel shall be entered like civil actions, and if i
+SECT. 24. The libel shall be entered like civil actions, and if i
 after proclamation made, no claimant appears, the court shall pro-Z
 ceed to hear and determine the cause, and shall decree a forfeiture
 of the goods, or a restoration, or such other disposition thereof, as
@@ -11649,7 +11649,7 @@ the suit, and the further proceedings shall he conducted in the mode
 that is usual in the courts, that proceed according to the course of the
 civil law, except that all questions of fact shall be tried and determined by a jury.
 
-SE01‘. 26. If upon such a trial, the libellant shall maintain his
+SECT. 26. If upon such a trial, the libellant shall maintain his
 suit, the court shall decree a forfeiture and sale of the goods, and a
 distribution of the proceeds, or such other disposition thereof, as law
 and justice shall require, and if the libellant shall discontinue or relinquish his suit, or in any way fail to maintain it, the court shall decree
@@ -11686,7 +11686,7 @@ shall make out an advertisement or notice, like that before required to
 be made by the clerk of the court of common pleas, and mentioning
 the time and place appointed for hearing the cause.
 
-Sncr. 32. The libellant shall cause the notice to be posted ‘up,
+SECT. 32. The libellant shall cause the notice to be posted ‘up,
 in some public place in the county, not less than seven days before
 the time appointed for hearing the cause, and any claimant may then
 appear and answer to the suit ; and it shall be heard and determined
@@ -11705,7 +11705,7 @@ and if the suit is cognizable by a justice, the libe shall be filed in such
 police court, and the suit shall be there heard and determined, and
 shall be finally disposed of, in all respects, as if it had been commenced before a justice of the peace.
 
-Sncr. 35. In all trials upon any such libel, depositions may be
+SECT. 35. In all trials upon any such libel, depositions may be
 taken and used in like manner as in trials of actions at the common
 law.
 
@@ -11849,14 +11849,14 @@ shall be deemed to have accrued, when the claimant, or the person
 under whom he claims, first became entitled to the possession of the
 premises under the title upon which the entry or the action is founded
 
-SE01‘. 4. If any minister, or other sole corporation, shall be dis
+SECT. 4. If any minister, or other sole corporation, shall be dis
 seized, any of his successors may enter upon the premises, or may
 bring an action for the recoverv thereof, at any time within five years
 
 after the death, resignation, or removal, of the person so disseized,
 notwithstanding the twenty years after such disseizin shall have expired.
 
-SE01‘. 5. If, at the time when such ri ht of entry or of action
+SECT. 5. If, at the time when such ri ht of entry or of action
 upon or for any lands shall first accrue as al%resaid, the erson, entitled to such entry or action, shall be within the age 0 twenty one
 
 ears, or a married woman, insane, imprisoned, or absent from the
@@ -11873,13 +11873,13 @@ heirs, or any other person claiming from, by, or under him, at any
 time within ten years after his death, notwithstanding the said twenty
 years shall have expired.
 
-SE01‘. 7. If, at the time when such right of entry or of action
+SECT. 7. If, at the time when such right of entry or of action
 shall first accrue, the person entitled thereto shall be under any of
 the disabilities before mentioned, and shall die without having recovered the premises, no further time for making such entry or bringing
 such action, beyond what is herein before prescribed, shall be allowed
 by reason of the disability of any other person.
 
-SE01‘. 8. No person shall be deemed to have been in possession
+SECT. 8. No person shall be deemed to have been in possession
 of any lands, within the meaning of this chapter, merely by reason of
 having made an entry thereon, unless he shall have continued in open
 and peaceable possession of the premises, for the space of one year
@@ -11888,7 +11888,7 @@ next after such entry, or unless an action shall be commenced upon
 such entry and seizin, within one year after he shall be ousted or
 dispossessed of the premises.
 
-SE01‘. 9. When the right of entry or of action of a tenant in tail,
+SECT. 9. When the right of entry or of action of a tenant in tail,
 or of a person entitled to a remainder in tail, is barred by force of
 this chapter, the estate tail, and all remainders and reversions expectant thereon, shall be also barred, as fully as they might have been by
 a conveyance made by the tenant in tail, in the manner provided in
@@ -11928,7 +11928,7 @@ SECT. 13. No descent or discontinuance, which may hereafter
 
 the recovery of real estate.
 
-SE01‘. 14. When a notice shall be given, to prevent the acquisition of a right or privilege of way, air or light, as provided in the
+SECT. 14. When a notice shall be given, to prevent the acquisition of a right or privilege of way, air or light, as provided in the
 sixtieth chapter, such notice shall be considered so far a disturbance
 of the right in question, as to enable the party, claiming such right, to
 bring an action on the case, as for a nuisance or disturbance, for the
@@ -12008,7 +12008,7 @@ accrue, and not afterwards.
 Snow. 3. All actions against sheriffs, for the misconduct or negligence of their deputies, shall be commenced within four years
 next after the cause of action shall accrue, and not afterwards.
 
-SE01‘. 4. None of the foregoing provisions shall apply to any
+SECT. 4. None of the foregoing provisions shall apply to any
 action brought upon a promissory note, which is signed in the presence of an attesting witness, provided the action be brought by the
 original payee, or by his executor or administrator, nor to an action
 brought upon any bills, notes, or other evidences of debt, issued by
@@ -12019,7 +12019,7 @@ the balance, due upon a mutual and open account current, the cause
 of action shall be deemed to have accrued, at the time of the last item
 proved in such account. _
 
-SE01‘. 6. If any person, entitled to bring any of the actions, before mentioned in this chapter, shall, at the time when the cause of
+SECT. 6. If any person, entitled to bring any of the actions, before mentioned in this chapter, shall, at the time when the cause of
 action accrues, be within the age of twenty one years, or a married
 woman, insane, im risoned, or absent from the United States, such
 person may bring the said actions, within the times in this chapter
@@ -12030,14 +12030,14 @@ SECT. 7. All personal actions on any contract, not limited by the
 foregoing sections, or by any other law of this Commonwealth, shall
 be brought within twenty years after the accruing of the cause of acnon.
 
-SE01‘. 8. When any person shall be disabled to prosecute an
+SECT. 8. When any person shall be disabled to prosecute an
 action in the courts of this Commonwealth, by reason of his being
 
 an alien, subject or citizen of any country at war with the United
 States, the time of the continuance of such war shall not be deemed
 any part of the respective periods, herein limited for the commencement of any of the actions before mentioned.
 
-SE01‘. 9. If, at the time when any cause of action, mentioned in
+SECT. 9. If, at the time when any cause of action, mentioned in
 this chapter, shall accrue against any person, he shall be out of the
 state, the action may be commenced, within the time herein limited
 therefore, after such person shall come into the state ; and if after any
@@ -12091,14 +12091,14 @@ but is entitled to recover against any other or others of them, by virtue of -a 
 shall be given for the plaintifff, as to any of the defendants, against
 whom he is entitled to recover, and for the other defendant or defendants against the plaintifff.
 
-SE01‘. 16. If, in any action on contract, the defendant shall plead
+SECT. 16. If, in any action on contract, the defendant shall plead
 in abatement, that any other person on ht to have been jointly sued,
 and issue be joined on that plea, and i it shall appear on the trial,
 that the action was, by reason of the provisions of this chapter, barred
 against the person so named in the plea, the said issue shall be found
 for the plaintifff.
 
-SE01‘. 17. Nothing contained in the four preceding sections shall
+SECT. 17. Nothing contained in the four preceding sections shall
 alter, take away, or lessen the effect of a payment of any principal
 or interest, made by any person; but no indorsement or memorandum
 of any such payment, written or made upon any romissory note, bill
@@ -12400,7 +12400,7 @@ control the power of any court, to require costs to be paid by either
 party, as the condition of an amendment, continuance, or other order
 passed at his motion, or to withhold and refuse costs, on the like occasions.
 
-SE01‘. 27. All bills of costs, in suits before a justice of the
+SECT. 27. All bills of costs, in suits before a justice of the
 
 peace, shall be taxed by the justice, and in suits before the court of
 
@@ -12412,7 +12412,7 @@ present at the taxation, or shall have caused such notice to be entered
 on the clerk’s docket ; and notice, given by or to the attorney in the
 suit, shall be equivalent to notice by or to the party himself.
 
-Sncr. 28. Either party may appeal, from the taxation of _costs by
+SECT. 28. Either party may appeal, from the taxation of _costs by
 the clerk, to the court in which the suit is pending, or to any one of
 the justices thereof, and the appeal shall be conducted in the manner
 hereinafter provided.
@@ -12434,7 +12434,7 @@ condition to repay such part of the costs, if any, as shall be disallowed
 on the appeal, and to perform such other order, as the court or judge
 shall make thereon.
 
-Sncr. 31. The court or judge, before whom any such appeal is
+SECT. 31. The court or judge, before whom any such appeal is
 heard, may allow to either party, as justice may require, the costs incurred by the appeal, and the same may be added to, or deducted
 from, the costs awarded in the principal suit, or a separate execution
 may be issued therefore, as the case may require. '
@@ -12472,7 +12472,7 @@ Seer. 35. When any corporation aggregate is entitled to costs,
 an allowance shall be made for travel, as in other cases, and the travel shall be computed from the place where the corporation is situated,
 if it is in its nature local, otherwise from the place in which its business is chiefly or commonly transacted.
 
-SE01‘. 36. No party shall be allowed for travel, for more than
+SECT. 36. No party shall be allowed for travel, for more than
 eighty miles out and home, unless he, or some agent or attorney for
 him, shall actually travel more than forty miles, for the special purpose
 of attending the court in such cause; in which case, allowance may be
@@ -12706,14 +12706,14 @@ To the sheriff, for returning the votes for gcvemor, lieutenant go
 vernor, counsellors and senators, to the secretary’s office, twelve
 cents a mile, to be computed from the place of his abode to the secretary’s office, and to be paid out of the treasury of the Commonwealth, and only one travel shall be allowed for the whole.
 
-Sncr. 6. JArLEn’s FEES.
+SECT. 6. JArLEn’s FEES.
 
 For furnishing food for each prisoner, such sum, weekly, as the
 county commissioners for the respective counties, or the mayor and
 
 aldermen of the city of Boston shall, from time to time, judge reasonable.
 
-Sncr. 7. coRoN1-:1t’s mans.
+SECT. 7. coRoN1-:1t’s mans.
 
 For all services performed by them, the same fees as are allowed
 to sheriffs and deputy sheriffs, for the like services :
@@ -12737,7 +12737,7 @@ of return, at the rate of four cents a mile, to be paid out of the county treasu
 For summoning the jurors upon a coroner’s inquest, and attendance thereon, at the rate of ninety cents a day, to be paid out of the
 county treasury.
 
-SE01‘. 9. All travelling fees and fees for the service of writs or
+SECT. 9. All travelling fees and fees for the service of writs or
 precepts, of which the sheriff or other officer is required to make a
 return, shall be indorsed on the writ, or they shall not be allowed.
 
@@ -12806,7 +12806,7 @@ For all copies, at the rate of fourteen cents a page :
 
 For entering in the margin a discharge of a mortgage, twelve cents.
 
-SE01‘. 16. FEES or NOTARII-38 PUBLIC.
+SECT. 16. FEES or NOTARII-38 PUBLIC.
 
 For every protest for the non-payment or non-acceptance of a
 bill of exchange, order, draft or check, one dollar and fifty cents :
@@ -12840,7 +12840,7 @@ what they respectively accrued; and if he refuses or neglects so to
 do, he shall forfeit, to the party paying the fees,three times the amount
 so paid, to be recovered in an action on the case.
 
-SE01‘. 19. If any officer shall willfully and corruptly demand and
+SECT. 19. If any officer shall willfully and corruptly demand and
 receive, for any official duty or service, any greater fee than is allowed
 by law, he shall forfeit thirty dollars for every such offense, which
 sum may be recovered for the use of the Commonwealth, on indictment in any court proper to try the same, or it may be recovered in
@@ -12857,7 +12857,7 @@ SECT. 21. In all cases, not expressly provided for by law, the
 fees of all public officers, for any official duty or service, shall be at
 the same rate as those prescribed in this chapter for the like services.
 
-Sncr. 22. The word “ page,” when used as the measure of
+SECT. 22. The word “ page,” when used as the measure of
 
 computation, shall mean two hundred and twenty four words.
 

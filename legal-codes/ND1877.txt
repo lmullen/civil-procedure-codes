@@ -2,7 +2,6 @@ of
 CODE
 OF CIVIL
 PROCEDURE.
-�
 1. Titlk
 and
 the
@@ -61,9 +60,8 @@ of it is retroactive unless
 expressly
 so
 declared.
-�
 2. Not
-�3.
+3.
 retroactive.]
 Code
 excludes
@@ -112,7 +110,7 @@ objects
 and
 to
 promote justice.
-�4.
+4.
 Prior
 rights.]
 No action
@@ -162,7 +160,6 @@ or
 barring
 a
 remedy,
-�
 5. Limitations
 continue.]
 or
@@ -200,7 +197,6 @@ limitation
 by
 this
 code.
-�
 6.
 Computation
 of
@@ -245,7 +241,6 @@ of the
 language;
 but
 tech
-�
 nical
 words and
 phrases,
@@ -256,7 +251,6 @@ acquired
 a
 peculiar
 and
-�
 appropriate
 meaning
 in
@@ -272,7 +266,6 @@ and
 appropriate
 meaning
 or definition.
-�
 8. Words
 defined.]
 The
@@ -418,7 +411,6 @@ any private
 statute not
 expressly
 repealed.
-�
 10.
 Act
 how
@@ -441,7 +433,6 @@ necessary,
 the number
 of
 the section.
-�
 11.
 Remedies
 into:
@@ -474,7 +465,6 @@ party
 for
 the
 enforcement
-�
 12. Action
 defined.]
 or
@@ -494,7 +484,6 @@ ishment
 of a
 public
 offense.
-�
 13.
 Special
 proceedings.]
@@ -504,12 +493,10 @@ remedy
 is
 a
 special proceeding.
-�
 14. Actions
 1. Civil.
 2.
 Criminal.
-�
 15.
 Criminal
 classified.]
@@ -534,9 +521,8 @@ defined.]
 the
 punishment
 thereof.
-�16.
+16.
 Civil
-�
 process.]
 Every
 other is a civil
@@ -576,7 +562,6 @@ JUSTICE
 AND
 THEIR
 JURISDICTION.
-�
 18.
 Courts.]
 CHAPTER
@@ -608,7 +593,6 @@ of
 justices
 of the
 peace.
-�
 19.
 Jurisdiction
 continued.]
@@ -628,7 +612,7 @@ pre
 scribed
 by
 law.
-�20.
+20.
 Jurisdiction
 of two
 kinds:
@@ -637,7 +621,6 @@ Original;
 and,
 2.
 Appellate.
-�
 CHAPTER II.
 OF TIIE
 SUPREME COURT.
@@ -666,7 +649,6 @@ of
 its
 appellate
 jurisdiction.
-�
 22.
 Exclusive
 appellate
@@ -691,7 +673,7 @@ courts of this
 territory,
 in the
 following
-�cases,
+cases,
 and
 no other:
 1.
@@ -715,8 +697,8 @@ from such
 judgment,
 to review
 any
-�.intermediate
-�sjudgment.
+.intermediate
+sjudgment.
 order
 involving
 the
@@ -1009,7 +991,6 @@ whole or in
 part,
 and
 as
-�
 23.
 Scope
 to
@@ -1043,10 +1024,8 @@ proceed
 ings
 to
 be had.
-�
 24.
-Terms�
-calendar.]
+Termscalendar.]
 The times and
 places
 for
@@ -1163,7 +1142,7 @@ of
 the
 order on
 the calendar.
-�25.
+25.
 Two
 judges
 must
@@ -1204,7 +1183,6 @@ the
 judgment
 shall be
 affirmed.
-�
 26.
 Adjournment
 to other
@@ -1242,7 +1220,6 @@ adjourn
 the court with
 the like effect as if all were
 present.
-�
 27.
 Chancery
 CHAPTER
@@ -1256,7 +1233,6 @@ well
 as common
 law
 jurisdiction.
-�
 28. Exclusive
 original
 law.]
@@ -1320,7 +1296,6 @@ other cases as
 now
 are or
 may
-�
 29.
 Of
 appeals.]
@@ -1383,7 +1358,6 @@ boards,
 tribunals
 and
 jurisdictions.
-�
 30.
 Other
 jurisdiction.]
@@ -1405,7 +1379,7 @@ and
 the statutes
 of this
 territory.
-�31.
+31.
 Always
 open
 for certain
@@ -1442,7 +1416,6 @@ judgments,
 these courts are
 always
 open.
-�
 32.
 CHAPTER IV.
 OF
@@ -1474,7 +1447,6 @@ statutes
 of this
 territory.
 "J
-�
 33.
 Distinctions
 Part
@@ -1520,7 +1492,6 @@ wrongs,
 which shall
 be
 denominated a civil action.
-�
 34. Paktiks
 named.]
 In
@@ -1560,7 +1531,6 @@ parties,
 without leave of
 the
 court for
-�
 35. Actions
 good
 upon
@@ -1625,7 +1595,6 @@ have
 been lost
 or
 destroyed.
-�
 30. Issues
 must
 be
@@ -1684,7 +1653,6 @@ necessary
 for
 a
 trial.
-�
 37.
 Limitations.]
 CHAPTER
@@ -1731,7 +1699,6 @@ TIME
 OF
 COMMENCING ACTIONS FOR THE
 RECOVERY OF REAL PROPERTY.
-�
 38.
 person
 By
@@ -1802,7 +1769,6 @@ the
 space
 of
 forty years.
-�
 39.
 Persons
 claiming
@@ -1839,7 +1805,6 @@ had not been
 issued
 or
 made.
-�
 40.
 Extension of
 same.]
@@ -1918,7 +1883,6 @@ was
 made,
 but not after that
 period.
-�
 41.
 Seizin
 within
@@ -1959,7 +1923,6 @@ question
 within
 twenty years
 before the commencement of such action.
-�
 42.
 Same.]
 No
@@ -2032,7 +1995,6 @@ of the
 premises
 fense
 made.
-�
 43.
 One
 year
@@ -2069,7 +2031,6 @@ make such
 entry
 descended
 or accrued.
-�
 44.
 Possession
 presumed.]
@@ -2141,7 +2102,6 @@ com
 mencement
 of such
 action.
-�
 45.
 Occupation
 Whenever
@@ -2246,7 +2206,7 @@ other
 lot of the
 same
 tract.
-�46.
+46.
 Adverse
 possession.]
 For the
@@ -2350,7 +2310,6 @@ for
 the same
 length
 of
-�
 47. Actual
 adverse
 holding.]
@@ -2391,7 +2350,6 @@ shall
 be deemed to have
 been held
 adversely.
-�
 48.
 Under
 claim
@@ -2440,7 +2398,6 @@ usually
 cultivated
 or
 improved.
-�
 49. Landlord
 and
 tenant.]
@@ -2520,7 +2477,6 @@ by
 a descent
 being
 cast
-�
 50. Effect
 of
 descent.]
@@ -2546,7 +2502,6 @@ for the
 recovery
 of real
 property,
-�
 51. Disabilities
 extend
 time.]
@@ -2676,7 +2631,6 @@ OTHER THAN
 FOR
 THE RECOVERY
 OF REAL
-�
 PROPERTY.
 52.
 Other
@@ -2695,7 +2649,6 @@ of real
 property
 shall
 be as follows:
-�
 53.
 Twenty
 years.] Within
@@ -2724,7 +2677,7 @@ States.
 2. An action
 npon
 a sealed instrument.
-�54.
+54.
 Six
 years.]
 Within six
@@ -2837,7 +2790,7 @@ of the facts
 constituting
 the
 fraud.
-�55.
+55.
 Three
 years.]
 Within three
@@ -2921,7 +2874,7 @@ prescribes
 a
 different limit
 ation.
-�56.
+56.
 Two
 tears.]
 Within
@@ -2950,7 +2903,7 @@ people
 of
 this
 territory.
-�57.
+57.
 One
 year.]
 Within
@@ -2960,7 +2913,6 @@ year:
 action
 against
 .
-�
 a sheriff
 or
 other officer, for the
@@ -2972,7 +2924,6 @@ or
 imprisoned
 on civil
 process.
-�
 58.
 Balance
 of
@@ -3015,11 +2966,9 @@ account
 on
 either
 side.
-�
 59. Forfeiture
 by
 person
-�
 territory.]
 An
 action
@@ -3067,7 +3016,6 @@ attorney
 where the
 offense was
 committed.
-�
 60.
 Other
 relief ten
@@ -3084,7 +3032,6 @@ action
 shall
 have
 accrued.
-�
 61.
 Same
 to
@@ -3115,7 +3062,6 @@ manner as to actions
 by
 private parties.
 general provisions
-�
 62. When
 action
 deemed
@@ -3209,10 +3155,8 @@ thereof,
 within
 sixty
 days.
-�
 63.
 Exception
-�
 absentee.]
 If,
 when the cause of auction shall
@@ -3294,10 +3238,8 @@ for the
 commencement of
 such
 action.
-�
 64.
 Same
-�
 disabilities.]
 of
 action
@@ -3366,7 +3308,6 @@ year
 after the
 disability
 ceases.
-�
 65.
 Death.]
 person
@@ -3431,7 +3372,6 @@ of letters
 testamentary
 66.
 War.]
-�
 or
 of administration.
 When
@@ -3463,7 +3403,6 @@ commencement
 of
 the
 action.
-�
 67. When
 judgment
 reversed.]
@@ -3498,7 +3437,6 @@ after the
 reversal
 .
 representatives
-�
 68.
 Stay
 by
@@ -3530,13 +3468,11 @@ time limited
 for
 the commencement
 of the action.
-�
 69. When
 disability
 available.]
 disability,
 unless it
-�
 70.
 No
 person
@@ -3575,7 +3511,6 @@ debt,
 issued
 by
 moneyed,
-�
 71.
 Bank
 notes.]
@@ -3585,7 +3520,6 @@ put
 in
 circulation as
 money.
-�
 72.
 Moneyed
 corporations.]
@@ -3631,7 +3565,6 @@ or
 the
 liability
 was created.
-�
 73.
 New
 promise
@@ -3669,7 +3602,6 @@ payment
 of
 principal
 or interest.
-�
 74.
 Party
 in
@@ -3750,9 +3682,8 @@ bring
 the
 case within this
 provision.
-�75.
+75.
 Assignee
-�
 may
 equities.]
 In the
@@ -3800,7 +3731,6 @@ upon good
 consideration,
 before
 due.
-�
 70. Executors
 and
 trustees.]
@@ -3846,7 +3776,6 @@ a
 contract is made for
 the
 benefit of another.
-�
 77.
 Married
 woman.]
@@ -3880,7 +3809,6 @@ as if
 she
 were
 single.
-�
 78.
 By
 guardian
@@ -3951,7 +3879,6 @@ may
 have
 appeared by
 him.
-�
 79.
 How
 guardian
@@ -4277,7 +4204,6 @@ party
 residing
 in this
 territory.
-�
 80. Guardian's
 security]
 No
@@ -4357,7 +4283,6 @@ court for some
 personal
 misdemeanor
 therein.
-�
 81.
 Who
 to be
@@ -4387,7 +4312,6 @@ provided
 in
 this
 chapter.
-�
 82.
 Defendants.]
 Any
@@ -4450,7 +4374,6 @@ require,
 to
 any
 such action.
-�
 83.
 Parties to
 re
@@ -4524,7 +4447,6 @@ defend
 for the
 benefit of the
 whole.
-�
 84.
 Bills
 and
@@ -4589,7 +4511,6 @@ at the
 option
 of the
 plaintifff.
-�
 85. Action
 does
 not
@@ -4742,7 +4663,6 @@ the
 granting
 of the
 order.
-�
 86.
 Successor
 may
@@ -4797,7 +4717,6 @@ or afterwards
 on
 supplemental
 complaint.
-�
 87.
 Nonresident
 intestate.]
@@ -4891,7 +4810,6 @@ of
 the cause of
 action,
 or of several distinct causes of
-�
 to
 or
 against
@@ -4995,13 +4913,11 @@ rights
 settled
 by
 judgment.
-�
 89.
 Power
 of
 court
-of the action�
-interpleader.]
+of the actioninterpleader.]
 The
 court
 may
@@ -5036,7 +4952,6 @@ parties,
 the court must cause them to be
 brought
 in.
-�
 90. Intervention
 when.]
 Any
@@ -5158,7 +5073,6 @@ pending
 upon
 a contract, or for
 specific,
-�
 real,
 or
 personal
@@ -5236,7 +5150,6 @@ discretion,
 make
 the
 order.
-�
 92.
 Where
 CHAPTER VIII.
@@ -5322,7 +5235,6 @@ personal property
 distrained for
 any
 cause.
-�
 93. Where
 the
 cause
@@ -5422,7 +5334,6 @@ the duties
 of
 such
 officer.
-�
 94.
 Where
 any
@@ -5477,11 +5388,9 @@ place
 of trial in the cases
 provided by
 statute.
-�
 95. Defendant must
 ask
 change
-�
 court
 may
 change.]
@@ -5611,7 +5520,6 @@ papers
 shall be filed or
 transferred
 accordingly.
-�
 96.
 By
 CHAPTER
@@ -5631,7 +5539,6 @@ commenced
 by
 the service of
 a summons.
-�
 97.
 Requisites
 of
@@ -5678,7 +5585,6 @@ thirty
 days
 after the service
 of the
-�
 98. Notices
 required
 in.]
@@ -5745,7 +5651,6 @@ apply
 to the court for the relief
 demanded in the
 complaint.
-�
 99. Service
 of
 complaint.] A
@@ -5838,7 +5743,6 @@ may
 deliver
 to
 such de
-�
 100. Notice
 of no
 personal
@@ -5913,11 +5817,9 @@ he shall
 pay
 costs to the
 plaintifff.
-�
 101.
 Lis
 pendens
-�
 effect
 of.]
 In
@@ -6196,10 +6098,8 @@ deeds shall
 be entitled to a fee of
 twenty-five
 cents,
-�
 102.
 Summons
-�
 'The
 summons shall
 be served
@@ -6334,8 +6234,6 @@ to
 the
 defendant
 personally.
-�
-�
 "'
 .
 the defendant
@@ -6385,7 +6283,6 @@ age
 of
 fourteen
 years.
-�
 Service
 made in
 any
@@ -6408,7 +6305,6 @@ may
 be served
 by
 the
-�
 sheriff
 of the
 county
@@ -6460,11 +6356,9 @@ service
 thereof,
 and the service shall then be made
 accord.
-�
 104.
 By
 publication
-�
 cases and
 manner.]
 """""""sJXA
@@ -6744,7 +6638,7 @@ judgment,
 must be allowed
 to defend the
 action;
-�,
+,
 and. except
 in an action for divorce, the defendant
 against
@@ -6963,7 +6857,6 @@ unknown
 party
 or
 parties.
-�
 105. Joint
 and several
 debtors.]
@@ -7158,7 +7051,6 @@ one
 judgment
 rendered for the same cause
 of action.
-�
 106.
 When
 service
@@ -7182,10 +7074,9 @@ the order for
 publication.
 .
 ,;
-�107.
+107.
 Pkoof
 of service
-�
 acceptance.]
 Proof of the service of the sum
 mons,
@@ -7267,10 +7158,8 @@ and
 manner,
 of
 service.
-�
 108.
 Jurisdiction
-�
 appearance.]
 From
 the time
@@ -7308,7 +7197,6 @@ personal
 service of the summons
 upon
 him.
-�
 109.
 Forms
 CHAPTER
@@ -7351,7 +7239,6 @@ those
 prescribed
 by
 this act.
-�
 110. Complaint.]
 The first
 pleading
@@ -7360,7 +7247,7 @@ the
 part
 of the
 complaint.
-�111.
+111.
 What
 to
 contain.]
@@ -7425,7 +7312,6 @@ money
 be demanded, the amount thereof shall
 be Rtated.
 THE DEMURRER.
-�
 112. Defendant
 may
 demur
@@ -7446,7 +7332,6 @@ of the
 copy
 of the
 complaint.
-�
 113. Whenmay
 demur.]
 The
@@ -7514,7 +7399,6 @@ complaint
 does not state facts sufficient
 to constitute a cause
 of action.
-�
 114.
 Requisites
 of
@@ -7550,7 +7434,6 @@ alleged
 causes
 of action
 stated therein.
-�
 115.
 If
 complaint
@@ -7611,7 +7494,6 @@ be
 given
 to the de
 fendant.
-�
 116.
 When
 answer.]
@@ -7632,7 +7514,6 @@ may
 be taken
 by
 answer.
-�
 117.
 When
 objection
@@ -7672,7 +7553,6 @@ tute
 a
 cause of
 action.
-�
 118.
 Requisites
 of
@@ -7724,7 +7604,6 @@ concise
 language,
 without
 repetition.
-�
 119.
 Requisites
 of
@@ -7835,7 +7714,6 @@ they may
 be
 intelligibly
 distinguished.
-�
 12(7.
 Demurrer
 and
@@ -7853,7 +7731,6 @@ complaint,
 and answer
 the
 residue.
-�
 121.
 Sham
 defenses.]
@@ -7872,12 +7749,10 @@ may
 in their
 discretion
 impose.
-�
 122.
 Reply
 when
 THE REPLY.
-�
 demurrer to
 answer.]
 When the answer contains
@@ -7996,7 +7871,6 @@ same rules as a
 reply
 to
 a counterclaim.
-�
 123.
 Judgment
 on
@@ -8044,8 +7918,6 @@ require
 it,
 ages may
 be issued.
-�
-�
 124.
 Demurrer
 to
@@ -8074,9 +7946,8 @@ shall
 state the
 grounds
 thereof.
-�125.
+125.
 'Subscribed
-�
 GENERAL
 RULES
 OF
@@ -8103,7 +7974,6 @@ a
 demurrer,
 must be verified
 also.
-�
 126.
 Requisites
 of
@@ -8304,7 +8174,6 @@ fact admitted or
 alleged
 in such
 pleading.
-�
 127.
 Statement
 of
@@ -8398,7 +8267,6 @@ either
 party
 to
 be furnished.
-�
 128. Liberal
 construction.]
 In
@@ -8436,7 +8304,6 @@ stricken out, on
 motion of
 any
 person
-�
 129.
 Making
 pleading
@@ -8471,7 +8338,6 @@ definite and cer
 tain
 by
 amendment.
-�
 130.
 Pleading
 a
@@ -8518,7 +8384,6 @@ trial,
 the
 facts
 conferring jurisdiction.
-�
 131.
 Conditions
 precedent.]
@@ -8600,7 +8465,6 @@ the
 adverse
 party
 a
-�
 132.
 Private
 statute.]
@@ -8634,7 +8498,6 @@ take
 judicial
 notice
 thereof.
-�
 133.
 Libel
 ok
@@ -8698,10 +8561,8 @@ that it was so
 published
 or
 spoken.
-�
 134.
 Same
-�
 defendants'
 answer.]
 In the actions
@@ -8756,7 +8617,6 @@ doing
 damage,
 an answer that the defendant or
 person
-�
 135. Answer
 of
 by
@@ -8789,12 +8649,10 @@ the
 title to such
 real
 property.
-�
 13(5.
 Joinder
 of
 actions
-�
 mortuages.1
 The
 plaintifff
@@ -9011,10 +8869,8 @@ judgment
 as
 in other
 cases.
-�
 137.
 Allegations
-�
 wiien
 deemed
 teue ok
@@ -9088,7 +8944,6 @@ IN
 PLEADING,
 AND
 AMENDMENTS.
-�
 138. Material
 and
 misleading.]
@@ -9155,7 +9010,6 @@ in
 what
 respect
 he has been
-�
 139. If
 not
 material.]
@@ -9179,7 +9033,6 @@ may
 order
 an immediate
 amendment without costs.
-�
 140.
 Failure
 to
@@ -9222,10 +9075,8 @@ within the last two
 sections,
 but a failure of
 proof.
-�
 141.
 Amendments
-�
 Any
 pleading
 may
@@ -9404,10 +9255,9 @@ of the
 causes
 of
 action therein mentioned.
-�142.
+142.
 Court
-mat amend�
-tekms.]
+mat amendtekms.]
 The
 court
 may,
@@ -9475,7 +9325,6 @@ to
 the
 facts
 proved.
-�
 143.
 Pleading
 after
@@ -9605,7 +9454,6 @@ designated
 in
 any
 pleading
-�
 144.
 Unknown
 name.]
@@ -9621,7 +9469,6 @@ proceeding
 may
 be amended
 accordingly.
-�
 145. Trivial
 defects
 disregarded.]
@@ -9653,7 +9500,6 @@ affected
 by
 reason of such error
 or defect.
-�
 146.
 Supplemental
 pleading.]
@@ -9692,7 +9538,6 @@ when
 his former
 pleading
 was made.
-�
 147.
 CHAPTER
 XI.
@@ -9723,14 +9568,11 @@ Receivers.
 Deposit
 in
 court.
-�
 ARTICLE
 I.
 148.
 Akkkst
 limited
-�
-�
 contemit.]
 Arrest
 and
@@ -9755,7 +9597,6 @@ to
 proceedings
 for
 contempt.
-�
 149.
 Cases
 when
@@ -9994,7 +9835,6 @@ willful
 injury
 to
 person,
-�
 150.
 Where
 order
@@ -10014,7 +9854,7 @@ of the
 court in whicli the action
 is
 brought.
-�151.
+151.
 Basis
 of
 order.]
@@ -10070,7 +9910,6 @@ the affidavit must be filed
 in the office of the
 clerk of
 the court.
-�
 152.
 Undertaking
 from
@@ -10164,7 +10003,6 @@ by
 the laws of
 this
 territory.
-�
 153.
 When
 order issued
@@ -10250,7 +10088,7 @@ arrest,
 or to reduce
 the amount
 of bail.
-�154.
+154.
 Papers
 to.
 defendant.]
@@ -10271,11 +10109,9 @@ him
 a
 copy
 thereof.
-�
 155.
 Sheriff's
 duties
-�
 bail.]
 The sheriff must execute the order
 by
@@ -10330,7 +10166,6 @@ being
 committed
 to
 prison.
-�
 156.
 Discharge.]
 The
@@ -10358,7 +10193,6 @@ arrest,
 as
 provided
 in this article.
-�
 157. Bail
 how
 given.]
@@ -10433,7 +10267,6 @@ effect as
 that
 provided
 in section 181.
-�
 158. Surrender
 by
 hail.]
@@ -10556,7 +10389,6 @@ to the effect
 provided by
 section
 181.
-�
 159. Bail
 For
 the
@@ -10598,7 +10430,6 @@ of suitable
 age
 and
 discretion to do so.
-�
 100.
 Action
 against
@@ -10619,7 +10450,6 @@ against
 by
 action
 only.
-�
 161.
 Bail
 The bail
@@ -10678,7 +10508,7 @@ be
 granted
 by
 the court.
-�162.
+162.
 Plaintiff
 may
 exceit to
@@ -10733,7 +10563,6 @@ shall be
 exonerated
 from
 liability.
-�
 103.
 Justification.]
 On
@@ -10801,7 +10630,6 @@ in the form
 pre
 scribed
 in section 157.
-�
 164.
 Requisites
 of
@@ -10858,7 +10686,7 @@ justification
 be
 equivalent
 to that of two sufficient bail.
-�165.
+165.
 Examination of
 bail.]
 For the
@@ -10918,7 +10746,7 @@ quired
 by
 the
 plaintifff.
-�106.
+106.
 Alloavance
 of.]
 If the
@@ -10952,10 +10780,8 @@ shall
 thereupon
 be exonerated from
 liability.
-�
 167.
 Deposit
-�
 discharge.]
 The defendant
 may,
@@ -10985,7 +10811,7 @@ be
 discharged
 out of
 custody.
-�168.
+168.
 Payment
 into
 coukt.]
@@ -11059,7 +10885,6 @@ justified
 upon
 notice,
 as
-�
 169.
 Refunded
 on
@@ -11099,7 +10924,6 @@ and it
 shall
 be refunded
 accordingly.
-�
 170.
 Applied
 judgment]
@@ -11159,7 +10983,6 @@ to
 him
 the
 whole
-�
 171.
 Sheriff's
 liability.]
@@ -11227,7 +11050,7 @@ to
 enforce
 an order or
 judgment
-in the action�172.
+in the action172.
 Judgment
 against
 sheriff.]
@@ -11264,7 +11087,6 @@ in
 other
 cases of
 delinquency.
-�
 173. Bail liable to
 sheriff.]
 The bail taken
@@ -11295,7 +11117,6 @@ of
 such
 omis
 sion.
-�
 174.
 Motion
 to vacate
@@ -11335,7 +11156,6 @@ the
 plaintifff
 may
 oppose
-�
 175.
 Heard
 upon
@@ -11352,13 +11172,11 @@ on which
 the
 order of
 arrest was made.
-�
 ARTICLE
 II.
 176.
 When
 may
-�
 Claim and
 claim.]
 delivery
@@ -11395,7 +11213,6 @@ as
 provided
 in
 this article.
-�
 177.
 Plaintiff's
 affidavit
@@ -11493,7 +11310,6 @@ and
 The actual value of the
 property.
 5.
-�
 178.
 Requisition
 to
@@ -11528,7 +11344,6 @@ the
 plaintifff.
 and
 deliver it
-�
 179.
 Security
 by
@@ -11668,7 +11483,6 @@ of suitable
 age
 and
 discretion.
-�
 180.
 Exceptions
 by
@@ -11746,7 +11560,6 @@ property,
 as
 provided
 in the next section.
-�
 181.
 Re-demveky
 to
@@ -11842,7 +11655,6 @@ provided
 in
 section
 186.
-�
 182.
 Justification.]
 The defendant's
@@ -11934,7 +11746,6 @@ in
 respect
 to bail
 upon
-�
 183.
 Same.]
 an
@@ -11957,7 +11768,6 @@ the sheriff
 shall
 publicly
 demand its
-�
 184,
 delivery.
 If it be
@@ -11999,7 +11809,6 @@ secure
 place,
 and
 deliver
-�
 185.
 Keeping
 it to the
@@ -12040,7 +11849,6 @@ right
 to the
 possession
 thereof,
-�
 186.
 Claim
 by
@@ -12135,7 +11943,6 @@ property
 a reasonable
 time to demand such
 indemnity.
-�
 187.
 Papers
 filed
@@ -12163,12 +11970,11 @@ property
 men
 tioned
 therein.
-�188.
+188.
 Injunction
 by
 ARTICLE
-III.�
-Injunction.
+III.Injunction.
 order.]
 The
 writ of
@@ -12207,7 +12013,6 @@ judge, may
 be enforced as the order of
 the
 court.
-�
 189.
 Cases
 when
@@ -12331,9 +12136,7 @@ be
 granted
 to restrain such removal or
 disposition.
-�
 190. Time
-�
 pavers
 served.]
 The
@@ -12381,7 +12184,6 @@ be
 served
 with the
 injunction.
-�
 191. Afier
 An
 injunction
@@ -12412,10 +12214,8 @@ or
 refusing
 the
 injunction.
-�
 192.
 Security
-�
 damages.]
 Where
 no
@@ -12483,7 +12283,6 @@ the
 court
 shall
 direct.
-�
 193.
 Order
 to show
@@ -12524,7 +12323,6 @@ injunction
 should
 not be
 granted;
-�
 194.
 and the defendant
 may,
@@ -12563,7 +12361,6 @@ is a
 party
 to the
 proceeding.
-�
 195.
 Application
 to
@@ -12625,7 +12422,6 @@ defendant,
 with or without
 the
 answer.
-�
 196.
 Counter
 affidavits.]
@@ -12660,11 +12456,9 @@ the
 injunction
 was
 granted.
-�
 197.
 AETICLE
-IV.�
-Attachment.
+IV.Attachment.
 In an
 action
 arising
@@ -12795,12 +12589,10 @@ or
 publication
 thereof commenced within
 thirty days.
-�
 198. Warrant
 issued
 by
 clerk
-�
 seal.]
 himself;
 or,
@@ -12827,10 +12619,8 @@ with the seal
 of
 the
 court.
-�
 199.
 Affidavit
-�
 requisites.]
 The warrrant
 may
@@ -12919,7 +12709,7 @@ of
 this
 territory
 or not.
-�200.
+200.
 Plaintiff's
 undertaking.]
 Before
@@ -12988,7 +12778,6 @@ in
 no case less than two hundred and
 fifty
 dollars.
-�
 201.
 Requisites
 of
@@ -13090,7 +12879,6 @@ same time
 to
 the sheriffs
 of different counties.
-�
 202. Execution
 of
 warrant.]
@@ -13163,10 +12951,8 @@ credits,
 and effects
 of such
 debtor,
-�
 20'J.
 Inventory
-�
 perishable
 property.]
 Immediately
@@ -13240,7 +13026,6 @@ debtor, must be made and an
 in
 ventory
 thereof made and returned in like manner.
-�
 204.
 Custody
 and
@@ -13323,10 +13108,8 @@ perishable,
 the sheriff must sell the same at
 public auction,
 under
-�
 205.
 Perishable
-�
 sold under
 an
 order of the
@@ -13351,13 +13134,11 @@ paid
 into court
 and
 there abide its further order.
-�
 206.
 Claimed
 proceeds
 must
 property
-�
 sheriff's
 jury.]
 If
@@ -13385,7 +13166,6 @@ manner and with like
 effect
 as in
 case of seizure under execution.
-�
 207.
 Stocks
 and
@@ -13429,7 +13209,6 @@ the
 judgment
 and
 execution.
-�
 208.
 ment
 Property
@@ -13524,7 +13303,7 @@ real
 property
 shall be
 situated.
-�209.
+209.
 Cketificate
 of defendant's
 interest.]
@@ -13651,9 +13430,8 @@ be enforced
 by
 attachment.
 ,
-�210.
+210.
 Jldomknt
-�
 now
 satisfied.]
 In
@@ -14007,13 +13785,11 @@ property,
 or the
 proceeds
 thereof.
-�
 211.
 Plaintiff
 may
 prosecute
 actions
-�
 undertaking.]
 The
 actions here
@@ -14096,7 +13872,6 @@ and exclusive of
 property
 exempt
 from execution.
-�
 212.
 Delivery
 to
@@ -14160,7 +13935,6 @@ and
 the
 property
 released therefrom.
-�
 213. Defendant
 may
 apply
@@ -14255,12 +14029,10 @@ for
 discharge
 of the at
 tachment.
-�
 214.
 Undertaking
 for
 discharge
-�
 plaintifff's
 exceptions.]
 Upon
@@ -14428,7 +14200,6 @@ sureties
 are
 substituted and
 justify.
-�
 215. Lienor
 may
 move
@@ -14504,11 +14275,9 @@ relating
 to such un
 dertaking apply
 thereto.
-�
 21<3.
 Partnership
 property
-�
 undertaking.]
 If a warrant
 of
@@ -14661,7 +14430,6 @@ provided
 by
 section
 214.
-�
 217. Return
 by
 officer.]
@@ -14678,7 +14446,7 @@ to
 the
 court in which the action was
 brought.
-�218.
+218.
 1. When a debtor has
 sold,
 conveyed,
@@ -14775,13 +14543,11 @@ such
 attachment is made and shall become
 due aud
 payable.
-�
 219.
 Casks
 when
 ARTICLE
-V.�
-Of receivers.
+V.Of receivers.
 appointed.]
 A receiver
 may
@@ -14976,7 +14742,6 @@ the
 usages
 of courts of
 equity.
-�
 220.
 Receivers
 for
@@ -15051,12 +14816,10 @@ that shall
 remain over
 among
 the stockholders or members.
-�
 221.
 "Who
 may
 be receiver
-�
 undertaking
 by
 applicant.]
@@ -15147,7 +14910,7 @@ require
 an
 additional
 undertaking.
-�222. Qualification
+222. Qualification
 of
 receiver.]
 Before
@@ -15190,7 +14953,6 @@ and
 obey
 the orders
 of the court therein.
-�
 223.
 Powers.]
 The receiver
@@ -15233,7 +14995,6 @@ property
 as the court
 may
 authorize.
-�
 224.
 Investment
 of funds on
@@ -15262,12 +15023,11 @@ of all the
 parties
 to the action.
 deposit.
-�225.
+225.
 What
 subject
 ARTICLE
-VI.�
-Of
+VI.Of
 to order of
 deposit.] When it is admitted
 by
@@ -15325,9 +15085,8 @@ out
 security,
 subject
 to the further direction of the court.
-�226.
+226.
 Disobedience
-�
 contempt.]
 Whenever in
 the
@@ -15418,13 +15177,12 @@ or a
 provis
 ional
 remedy.
-�228.
+228.
 CHAPTER XII.
 OK TDK
 TRIAL AND JUDGMENT IN CIVIL
 ACTIONS.
-ARTICLE I.�
-Judgment
+ARTICLE I.Judgment
 upon
 Judgment
 defined.]
@@ -15441,18 +15199,14 @@ a-c.
 A
 judgment
 is the final determination of
-�
 229.
 On
 failure
 to answer
 counterclaim
-�
 relief
-�
 published
 service
-�
 restitution.]
 Judgment
 may
@@ -15866,7 +15620,6 @@ succeed
 in
 such
 defense.
-�
 230. Ox
 frivolous
 pleading.]
@@ -15905,13 +15658,12 @@ may
 be
 given
 accordingly.
-�231.
+231.
 Origin
 ARTICLE
 II.
 and classes
 of
-�
 Issues and mode of trial.
 issuKs.]
 Issues arise
@@ -15934,7 +15686,7 @@ kinds:
 1. Of
 law;
 2. Of fact.
-�232.
+232.
 and,
 Issues
 of
@@ -15953,8 +15705,6 @@ or to
 some
 part
 thereof.
-�
-�
 233.
 Of
 fact
@@ -15996,9 +15746,7 @@ law
 is
 joined
 thereon.
-�
 234. Both
-�
 order
 of
 Issues both of law
@@ -16022,7 +15770,6 @@ first
 tried,
 unless
 the court otherwise direct.
-�
 235. Trial
 A
 trial is the
@@ -16036,7 +15783,6 @@ be
 issues
 of law or of
 fact.
-�
 236.
 By
 defined.]
@@ -16135,11 +15881,9 @@ court,
 must be tried
 before
 a
-�
 237.
 Single
 judge
-�
 when
 issues
 tried.]
@@ -16174,12 +15918,9 @@ court.
 238. Note
 of
 issue
-�
 contents
-�
 order
 of
-�
 regular
 or
 special
@@ -16302,11 +16043,9 @@ the court.
 3.
 Issues
 of law.
-�
 239. Either
 party
 proceeds
-�
 separate
 trials.]
 Either
@@ -16392,7 +16131,6 @@ and
 pleadings,
 with the offer of the defendant,
 if
-�
 any
 shall
 have
@@ -16431,10 +16169,9 @@ furnished
 by
 the
 defendant.
-�
 241.
 ARTICLE
-III.� Formation
+III.Formation
 of the trial
 Jury
 tickets.]
@@ -16468,7 +16205,6 @@ them
 in the trial
 jury
 box.
-�
 242.
 Clerk
 to draw
@@ -16496,11 +16232,9 @@ is
 completed
 or
 the ballots are exhausted.
-�
 243.
 Challenges
 classed
-�
 by
 whom.]
 Either
@@ -16568,7 +16302,6 @@ taken on one or more
 of the
 following
 grounds:
-�
 244. For
 cause.]
 1. A want of
@@ -16715,7 +16448,6 @@ English language
 as used
 in the
 courts.
-�
 245.
 Trial
 of
@@ -16739,7 +16471,6 @@ as a witness
 on the
 trial of
 the challenge.
-�
 246.
 Oath
 to
@@ -16819,12 +16550,10 @@ of
 perjury."
 ARTICLE
 IV.
-�
 247.
 Order
 of
 trial.]
-�
 "
 This
 you
@@ -16943,12 +16672,10 @@ then
 charge
 the
 jury.
-�
 248.
 Charge
 wholly
 written
-�
 giving
 and
 refusing.]
@@ -17051,19 +16778,15 @@ counsel
 asking
 the
 same.
-�
 249.*
 Order
 of
 reading
-�
 by
 whom
-�
 jury
 to
 have
-�
 exceptions
 judgment.]
 All instructions
@@ -17136,7 +16859,6 @@ of final
 judgment
 in the
 case.
-�
 250.
 View
 for
@@ -17191,7 +16913,7 @@ some
 person appointed
 by
 the
-�court for that
+court for that
 purpose.
 While
 the
@@ -17213,7 +16935,6 @@ with the trial.
 no
 person,
 other
-�
 251. Admonitions
 to
 jury.]
@@ -17267,7 +16988,6 @@ case
 is
 finally
 submitted to them.
-�
 25*2.
 Papers
 jury
@@ -17333,7 +17053,6 @@ taken
 by any
 other
 person.
-�
 253.
 Conduct
 of
@@ -17362,7 +17081,7 @@ together
 in some convenient
 place,
 under
-�charge
+charge
 of an
 officer,
 until
@@ -17414,10 +17133,8 @@ deliberations,
 or the verdict
 agreed
 upon.
-�
 254.
 Disagreement
-�
 information.]
 After the
 jury
@@ -17472,7 +17189,6 @@ the
 parties
 or
 counsel.
-�
 255. Sick
 juror
 discharged.]
@@ -17525,10 +17241,8 @@ be
 or
 afterwards
 empaneled.
-�
 256. Prevented
 verdict
-�
 new
 trial.]
 discharged,
@@ -17571,10 +17285,9 @@ as
 the court
 may
 direct.
-�257.
+257.
 Sealed
 verdict
-�
 adjournment.]
 While
 the
@@ -17639,7 +17352,7 @@ of the court for the term
 discharges
 the
 jury.
-�258.
+258.
 Receiving
 dict,
 the}'
@@ -17766,18 +17479,15 @@ jury
 may
 be
 again
-�
 259.
 sent out.
 Correcting
 verdict.]
-�
 200.
 General
 and
 ARTICLE
-V.�
-Of
+V.Of
 the
 verdict.
 special
@@ -17856,11 +17566,9 @@ draw
 from them
 conclusions
 of law.
-�
 261.
 When
 either
-�
 special
 In an action for the
 re
@@ -17950,13 +17658,11 @@ the
 latter,
 and the court must give
 judgment accordingly.
-�
 262.
 Jury
 to
 find
 amount
-�
 When
 a
 verdict is found for
@@ -18015,7 +17721,7 @@ on the answer.
 the,
 verdict.
 and,
-�203.
+203.
 Must
 find value
 and
@@ -18094,7 +17800,6 @@ taking
 or
 detention of such
 property.
-�
 264.
 Verdict
 and
@@ -18148,11 +17853,9 @@ thus
 reserving
 it.
 ARTICLE YI.
-�
 265. How
 .ti'kv
 waived.]
-�
 Of
 the tiual
 by
@@ -18219,7 +17922,6 @@ court,
 entered in
 the
 minutes.
-�
 200.
 Whkk
 couht
@@ -18243,7 +17945,7 @@ within
 thirty days
 after the cause is
 submitted for decision.
-�207.
+207.
 Separately
 stated.]
 In
@@ -18261,7 +17963,6 @@ decision
 must
 be entered
 accordingly.
-�
 268.
 Findings
 waived.]
@@ -18295,7 +17996,7 @@ open
 court,
 entered in the
 minutes.
-�209.
+209.
 ',).
 Preparation
 of
@@ -18412,8 +18113,7 @@ prepare
 the
 findings.
 trial,
-b}�
-270.
+b}270.
 Making
 up
 judgment.]
@@ -18467,12 +18167,10 @@ may
 be
 ordered as in that section
 provided.
-�
 AKTICLE
 VII.
 271. Reference
 by
-�
 Of
 references and
 trials
@@ -18527,7 +18225,6 @@ determine an ac
 tion
 or
 proceeding.
-�
 272. Without
 Where the
 parties
@@ -18555,7 +18252,6 @@ in which reference
 might
 be
 made.
-�
 273. To
 whom
 or
@@ -18608,7 +18304,6 @@ no
 legal
 ob
 jection.
-�
 274.
 Challenges
 to
@@ -18631,7 +18326,6 @@ a
 petit
 juror
 in the trial of a civil action.
-�
 275.
 Court
 or
@@ -18660,7 +18354,6 @@ be read
 and witnesses examined
 as to such
 objections.
-�
 27C.
 Report
 by
@@ -18693,12 +18386,10 @@ by
 order of the
 court or
 judge.
-�
 277.
 Finding
 only
 of facts
-�
 special
 verdict.]
 The reference in all
@@ -18719,7 +18410,6 @@ excepted
 to
 and set aside in
 like manner.
-�
 278.
 Oath
 of
@@ -18754,12 +18444,11 @@ to all witnesses
 rproduced
 before
 them.
-�279.
+279.
 Ilow
 stated.]
 ARTICLE
-VIII.�
-Exceptions.
+VIII.Exceptions.
 No
 particular
 form of
@@ -18812,7 +18501,7 @@ evi
 alleged
 to
 be insufficient.
-�280.
+280.
 dence is
 A bill
 containing
@@ -18860,7 +18549,7 @@ the
 judge
 and filed with
 the clerk.
-�281.
+281.
 rected
 until
 it
@@ -18934,7 +18623,7 @@ to
 the
 judge
 and settled.
-�282.
+282.
 Exceptions
 after
 judgment.]
@@ -18989,7 +18678,6 @@ decision is
 2815.
 Application
 to
-�
 reviewable.
 supreme
 court.]
@@ -19064,7 +18752,6 @@ who tried the
 cause.
 and effect
 as if
-�
 284.
 In
 case of
@@ -19103,11 +18790,10 @@ court to
 prove
 the
 same.
-�
 285.
 Definition.]
 ARTICLE
-IX.� Of
+IX.Of
 new
 trials.
 a
@@ -19130,11 +18816,9 @@ court,
 or
 by
 referees.
-�
 28G.
 Causes
 for
-�
 who
 applies.]
 The
@@ -19309,7 +18993,7 @@ party
 making
 the
 application.
-�287.
+287.
 Urox affidavits
 _
 o.r
@@ -19358,12 +19042,9 @@ exceptions,
 or a statement of the
 case,
 fee*.
-�
 288.
 Notice
-�
 contents
-�
 when
 heard.]
 The
@@ -19445,7 +19126,6 @@ the
 next
 succeeding
 term.
-�
 289.
 Verdict
 vacated
@@ -19499,7 +19179,6 @@ under the influence of
 passion
 or
 prejudice.
-�
 290.
 Hearing
 at
@@ -19553,8 +19232,6 @@ other
 county.
 ARTICLE
 X.
-�
-�
 291. Entered
 Manner
 of
@@ -19589,10 +19266,9 @@ the order of
 the court or the
 judge
 thereof.
-�292.
+292.
 Against
 whom
-�
 counterclaim.]
 1.
 Judgment
@@ -19744,7 +19420,6 @@ her
 separate
 estate
 and not otherwise.
-�
 293.
 Relief
 limited
@@ -19778,7 +19453,6 @@ and
 embraced
 within the
 issue.
-�
 294.
 Death
 before
@@ -19816,7 +19490,7 @@ the course of
 adminis
 tration
 on his estate.
-�295.
+295.
 To
 recover
 personalty.]
@@ -19880,7 +19554,6 @@ taking
 and
 withholding
 the same.
-�
 296.
 Putting
 in
@@ -19931,7 +19604,6 @@ if
 special
 execution had been directed to him for that
 purpose.
-�
 297.
 Judgment
 book.]
@@ -19953,7 +19625,6 @@ judgments,
 to be called the
 "judgment
 book."
-�
 298.
 Entries.]
 The
@@ -19967,11 +19638,9 @@ clearly
 the relief
 granted,
 action.
-�
 299.
 Judgment
 roll
-�
 or
 other
 determination of
@@ -20066,18 +19735,15 @@ affecting
 the
 ant,
 exceptions,
-�
 300.
 case/and
 Docketing
 in other counties
 judgment"?)
-$a&S�-C,
-�
+$a&S-C,
 secured
 on
 aiteai.
-�
 filing
 a
 judgment-roll, upon
@@ -20189,7 +19855,7 @@ county
 or
 subdivision
 where it
-�was
+was
 rendered.
 But
 whenever
@@ -20273,7 +19939,7 @@ mortgagees
 in
 good
 faith.
-�301.
+301.
 Form
 of
 judgment
@@ -20374,14 +20040,11 @@ repeated
 under the initial letter of the
 surname of
 each.
-�
 302.
 Assignment
 of
 judgment
-�
 formalities
-�
 entries.]
 the district
 court,
@@ -20498,7 +20161,7 @@ such
 assignment
 noted
 thereon.
-�303.
+303.
 Cancellation
 Every
 clerk
@@ -20705,13 +20368,11 @@ entry duly
 canceled
 as hereinbefore
 provided.
-�
 304. Justice's
 judgment
 docketed
 by
 clerk
-�
 lien.]
 A
 justice
@@ -20832,7 +20493,7 @@ court
 upon
 proper
 applica
-�305.
+305.
 tion and
 notice.
 CHAPTER
@@ -20841,7 +20502,6 @@ OF TIIK EXECUTION OF THE
 .JUDGMENT IN CIVIL ACTIONS.
 THE EXECUTION AND
 LEVY.
-�
 306.
 Within
 five
@@ -20884,7 +20544,6 @@ provided
 in
 this
 chapter.
-�
 307. After
 five
 years by
@@ -20965,7 +20624,6 @@ years,
 and
 returned unsatisfied in whole or in
 part.
-�
 308. For
 delivery
 or
@@ -21073,7 +20731,6 @@ punished by
 the com t
 as for
 contempt.
-�
 309.
 Kinds
 of
@@ -21112,11 +20769,9 @@ damages
 for
 withholding
 the same.
-�
 310.
 Against
 property
-�
 to different
 counties.]
 When the execution is
@@ -21210,11 +20865,9 @@ separate
 property,
 and not other
 wise.
-�
 311.
 Against
 person
-�
 when.]
 If the action
 be one in which the
@@ -21284,7 +20937,6 @@ required
 by
 section
 149.
-�
 312.
 Issue
 and
@@ -21552,7 +21204,6 @@ an
 execution
 against
 property.
-�
 313.
 Time
 of
@@ -21572,7 +21223,6 @@ clerk with whom the
 record of
 judgment
 is filed.
-�
 314,
 What
 property
@@ -21644,7 +21294,6 @@ and
 sold as
 hereinafter
 provided.
-�
 315.
 Officer's
 proceedings
@@ -21720,7 +21369,6 @@ before
 levy
 is made on real
 property.
-�
 316.
 Levy
 any
@@ -21765,11 +21413,9 @@ there
 of as will
 satisfy
 the execution.
-�
 317.
 Amount
 levied
-�
 lien on
 personalty.]
 The
@@ -21830,7 +21476,6 @@ as
 provided
 in the next
 following
-�
 318.
 Tiiinos
 in
@@ -21849,7 +21494,6 @@ if
 made
 by
 the defendant.
-�
 319.
 Property
 not to be
@@ -21890,7 +21534,6 @@ the officer
 can
 exchange'them
 for cash at that value.
-�
 320.
 Payment
 to
@@ -21922,12 +21565,11 @@ receipt
 shall be a sufficient
 discharge
 therefore.
-�321.
+321.
 Claim
 by
 third
 person
-�
 sheriff's
 jury.]
 If the
@@ -21971,7 +21613,7 @@ who
 may appear
 and
 contest the
-�laim before the
+laim before the
 jury.
 The
 jury
@@ -22041,7 +21683,6 @@ the amount so
 deposited
 by
 him.
-�
 322.
 EXEMPTIONS.
 Exempt
@@ -22071,7 +21712,6 @@ process
 issued from
 any
 court.
-�
 323. Absolute
 exemptions.]
 The
@@ -22189,7 +21829,6 @@ not
 absolutely
 exempt,
 goods,
-�
 324.
 Additional
 exemitions.]
@@ -22215,7 +21854,6 @@ must be chosen and
 appraised
 as hereinafter
 provided.
-�
 325.
 Specific
 alternative
@@ -22398,7 +22036,6 @@ person,
 not
 exceeding
 six hundred dollars in value.
-�
 3*26. Those
 by
 number
@@ -22440,7 +22077,6 @@ praisement
 made under the direction
 of the sheriff or
 other officer.
-�
 327.
 Appraisers
 selected.]
@@ -22506,7 +22142,6 @@ or
 other officer
 must
 select one for them.
-�
 328.
 Oath
 and
@@ -22610,7 +22245,6 @@ subject
 to
 legal
 process.
-�
 329.
 Wife,
 or child over
@@ -22687,7 +22321,6 @@ family, may
 do so in like manner
 and with like
 effect.
-�
 330.
 Sheriff
 to
@@ -22716,14 +22349,12 @@ exempted
 or other
 personal
 property.
-�
 331.
 Notice
 by
 sheriff
 to
 debtor
-�
 In all
 cases of a
 levy
@@ -22789,7 +22420,6 @@ by copy
 or
 by
 reading.
-�
 332. Laborer's or mechanic's
 wages.]
 Nothing
@@ -22812,13 +22442,11 @@ wages, except
 that
 absolutely
 exempt.
-�
 333.
 Persons
 having
 no
 exemptions
-�
 partnerships.]
 Except
 those
@@ -22886,14 +22514,12 @@ exemption
 for
 each
 partner.
-�
 334.
 For
 fines,
 penalties
 and
 costs
-�
 forfeitures of
 recognizances.] No
 property,
@@ -22975,11 +22601,9 @@ recognizance
 taken and entered
 in
 criminal cases.
-�
 335. Published
 notice
 sales.
-�
 perishable
 property.]
 The officer who
@@ -23062,7 +22686,6 @@ the character
 and condition
 of the
 property.
-�
 336.
 Real
 property.]
@@ -23168,8 +22791,6 @@ motion to
 confirm
 the
 sale.
-�
-�
 337.
 Sale
 at
@@ -23243,7 +22864,6 @@ and
 four in the afternoon.
 After
 sufficient
-�
 338. Mannkr
 and time ok
 sale.]
@@ -23361,7 +22981,6 @@ and
 the sheriff or other officer must follow
 such
 directions.
-�
 389.
 Postponements.]
 When there
@@ -23412,7 +23031,7 @@ announced when and
 where the
 sale should have taken
 place.
-�340.
+340.
 Overplus.]
 When the
 property
@@ -23435,14 +23054,11 @@ may
 be
 rightfully
 applied.
-�
 341.
 New
 sale
-�
 additional
 levy
-�
 alias
 writ.]
 When
@@ -23519,11 +23135,9 @@ issue with
 the same effect as if none had
 ever
 been issued.
-�
 342.
 Purchaser's
 right
-�
 sheriff's
 Upon
 a sale
@@ -23644,7 +23258,6 @@ shall be taken and
 deemed evidence of the facts
 therein recited and
 contained.
-�
 343.
 Proceedings
 upon
@@ -23757,11 +23370,9 @@ person
 entitled thereto
 by
 order of the court.
-�
 344. Who
 may
 redeem
-�
 REDEMPTION.
 redemptioner.]
 Property
@@ -23827,7 +23438,6 @@ this
 chapter,
 termed
 redemptioners.
-�
 345.
 Payment
 on
@@ -23923,10 +23533,8 @@ sixty
 days
 after
 the
-�
 346. Successive
 redemptions
-�
 last
 redemption,
 again
@@ -24068,7 +23676,6 @@ previous
 to his
 own,
 with interest.
-�
 347. Record
 of
 redemption.] Written
@@ -24150,11 +23757,9 @@ purchaser
 or
 his
 assignee
-�
 348.
 Period
 for deed
-�
 a
 conveyance;
 or,
@@ -24207,7 +23812,6 @@ sale
 to redeem
 the
 property.
-�
 349. Debtor's
 redemption.]
 If the debtor
@@ -24286,7 +23890,7 @@ of the
 certificate
 of
 sale.
-�350.
+350.
 Payments
 to
 whom.]
@@ -24309,7 +23913,6 @@ him,
 to the
 officer who made the
 sale.
-�
 351.
 Requisite
 papers.]
@@ -24387,11 +23990,9 @@ the amount then
 actu
 ally
 due on the lien.
-�
 352. Use
 ok
 premises
-�
 waste.]
 or other
 lien,
@@ -24485,9 +24086,7 @@ family,
 while he
 occupies the
 property.
-�
-353. Rents�
-account
+353. Rentsaccount
 for.]
 The
 purchaser,
@@ -24521,7 +24120,7 @@ received
 by
 the
 judgment
-�creditor or
+creditor or
 purchaser,
 or
 his or their
@@ -24654,11 +24253,9 @@ redemptioner
 or
 debtor.
 THK SHERIFF'S DEED.
-�
 354.
 Effect
 of
-�
 Upon
 the
 expiration
@@ -24681,7 +24278,7 @@ property
 sold. The deed
 shall
 be sufficient
-�evidence
+evidence
 of the
 legality
 of such
@@ -24775,7 +24372,6 @@ real
 property
 in
 other cases.
-�
 355.
 Successors,
 same
@@ -24863,7 +24459,6 @@ had executed the
 same.
 GENERAL
 PROVISIONS.
-�
 356.
 Printer's
 fees in
@@ -24963,7 +24558,7 @@ any
 time thereafter be
 reversed,
 such
-�357.
+357.
 Effect
 of kk versa
 l.]
@@ -24994,7 +24589,6 @@ sold,
 with lawful interest thereon from the
 day
 of sale.
-�
 358.
 Principal
 and
@@ -25115,7 +24709,6 @@ surety
 or bail shall be
 taken
 in execution.
-�
 359. Amercement
 of
 sheriff.]
@@ -25238,7 +24831,6 @@ the
 case
 may
 be.
-�
 If
 any
 clerk of a
@@ -25260,7 +24852,6 @@ attorney
 of
 360. Of
 clerk
-�
 same.]
 record,
 to
@@ -25302,7 +24893,7 @@ against
 sheriffs
 and their
 sureties.
-�361.
+361.
 Measure
 of
 same.]
@@ -25340,7 +24931,6 @@ with
 ten
 per
 centum thereon.
-�
 362.
 Return
 of
@@ -25419,7 +25009,6 @@ penalty,
 if it do not
 reach the
 office in due time.
-�
 363.
 Proceedings
 against
@@ -25522,7 +25111,6 @@ force
 and effect
 as a
 judgment.
-�
 364.
 Surety
 made
@@ -25605,7 +25193,6 @@ tachment or other
 proceeding,
 at his
 election.
-�
 365.
 Officers
 reimbursement.]
@@ -25638,7 +25225,6 @@ plaintifff,
 for his
 own
 use.
-�
 366.
 CHAPTER XIV.
 PROCEEDINGS SUPPLEMENTARY
@@ -25646,18 +25232,14 @@ TO
 THE
 EXECUTION.
 Discovery
-�
 answers not
 excused.]
 debtor's
 appearance
-�
 examination
-�
 shall
 arrest of
 debtor
-�
 1.
 When
 an
@@ -26060,7 +25642,6 @@ criminal
 proceeding
 or
 prosecution.
-�
 367.
 Debtor's
 After the
@@ -26102,7 +25683,6 @@ the
 amount
 so
 paid.
-�
 36S.
 Examination
 of
@@ -26271,7 +25851,6 @@ final
 judgment
 or
 decree.
-�
 3G9.
 Witnesses.]
 Witnesses
@@ -26294,10 +25873,8 @@ upon
 the
 trial of an
 issue.
-�
 370.
 Referee
-�
 answers
 on
 oath.]
@@ -26352,11 +25929,9 @@ of
 an
 officer
 thereof.
-�
 371.
 Property
 applied
-�
 wages
 exempt.]
 The
@@ -26430,13 +26005,10 @@ or
 partly
 by
 his labor.
-�
 372. Receiver
-�
 restraint of
 property
 transfers
-�
 record.]
 may
 also,
@@ -26702,11 +26274,9 @@ property
 of the
 judgment
 debtor, or indebted
-�
 373.
 Adverse
 claims
-�
 proceedings
 on.]
 to
@@ -26777,9 +26347,8 @@ security
 as he
 shall
 direct.
-�374.
+374.
 Referee
-�
 appointment] The
 judge
 may,
@@ -26815,10 +26384,8 @@ order,
 or at
 any
 time.
-�
 375. Witness
 fees
-�
 disbursements.]
 ment
 creditor, or
@@ -26836,9 +26403,7 @@ action
 or
 not,
 witness' fees and disbursements.
-�
 376. Disobedience
-�
 contempt.]
 If
 any
@@ -26905,7 +26470,7 @@ on such terms
 as
 jnay
 be
-just�377.
+just377.
 CHAPTER XY.
 OK
 TUB COSTS AND
@@ -26931,7 +26496,6 @@ or
 implied,
 of the
 parties.
-�
 378.
 Same
 in written
@@ -26966,7 +26530,6 @@ and
 be
 incorporated
 therein.
-�
 379.
 Costs
 taxed in
@@ -27006,7 +26569,7 @@ and
 procuring
 necessary
 evidence.
-�380.
+380.
 Appeal
 from
 same.]
@@ -27024,12 +26587,11 @@ or
 a
 judge
 thereof.
-�381.
+381.
 Costs
 limited
 by
 damages
-�
 several
 actions.]
 In an action
@@ -27186,7 +26748,6 @@ this
 territory,
 and not
 secreted.
-�
 382.
 Costs
 to certain
@@ -27225,7 +26786,6 @@ as have
 judgment
 in
 their favor.
-�
 383. Discretion
 of
 court.]
@@ -27254,7 +26814,6 @@ and
 reversed
 in
 part.
-�
 384.
 Against
 attempting
@@ -27286,7 +26845,6 @@ bring
 up
 the
 action.
-�
 385.
 On appeals.]
 Costs
@@ -27308,7 +26866,6 @@ includ
 ing
 his costs taxed
 in the court below.
-�
 386.
 Interest.]
 When the
@@ -27338,14 +26895,11 @@ costs
 of the
 party
 entitled thereto.
-�
 387. Notice
 of
 taxing
 costs
-�
 verification
-�
 items.]
 The clerk must
 in
@@ -27452,7 +27006,7 @@ judge
 or court
 may
 direct.
-�388.
+388.
 Referees
 fees.]
 The
@@ -27476,7 +27030,6 @@ writing
 upon any
 other rate of
 compensation.
-�
 389.
 Costs
 of
@@ -27509,7 +27062,6 @@ a
 condition of
 granting
 the same.
-�
 390.
 Of
 infant
@@ -27548,7 +27100,6 @@ by
 an executor,
 administrator,
 trustee of an
-�
 391.
 Of
 trustee from trust
@@ -27608,11 +27159,9 @@ mismanage
 ment or
 bad faith in such action or
 defense.
-�
 392.
 Against
 territory
-�
 exception.]
 In
 all civil
@@ -27665,7 +27214,6 @@ private party
 and returned
 unsat
 isfied.
-�
 393.
 To
 party
@@ -27714,7 +27262,6 @@ and not
 against
 the
 territorjr.
-�
 394. Costs
 taxed to
 assignee.]
@@ -27755,7 +27302,7 @@ be
 enforced
 by
 attachment.
-�395.
+395.
 On
 change
 ok
@@ -27792,7 +27339,7 @@ county
 from
 which such
 case is sent.
-�390.
+390.
 Account
 for
 The board of
@@ -27861,7 +27408,6 @@ legal,
 proper
 and
 correct.
-�
 397.
 Surety
 for
@@ -27920,7 +27466,6 @@ complaint
 as
 security
 for costs.
-�
 39S.
 Responsibility
 of.]
@@ -27957,7 +27502,6 @@ obtain
 judgment
 or
 not.
-�
 399.
 Dismissal.]
 An
@@ -27996,7 +27540,7 @@ security
 for
 costs be
 given.
-�400.
+400.
 Plaintiff
 becoming
 non-resident.]
@@ -28050,7 +27594,6 @@ move the court for
 additional
 security
 on
-�
 401.
 Additional
 security.
@@ -28087,7 +27630,6 @@ given
 by
 the
 plaintifff.
-�
 402.
 Judgment
 against
@@ -28182,7 +27724,6 @@ entitled
 to
 such
 costs.
-�
 403.
 Chapter
 CHAPTER XVI.
@@ -28207,7 +27748,6 @@ prescribed
 by
 this
 chapter.
-�
 404.
 Ordeij
 without
@@ -28238,7 +27778,6 @@ the
 manner in which other motions
 are
 made.
-�
 405.
 Appeals
 allowed.]
@@ -28246,10 +27785,8 @@ An}'
 prescribed
 in section 22
 of this code.
-�
 400.
-Parties�
-now
+Partiesnow
 termed.]
 party
 aggrieved may
@@ -28280,15 +27817,13 @@ in
 consequence
 of the
 appeal.
-�407.
+407.
 Notice
 ok
 must
 be made:
 appeal
-�
 amendment
-�
 service ok
 notice.]
 1.
@@ -28408,7 +27943,6 @@ a
 judge
 thereof shall
 direct.
-�
 408.
 Transmission of
 papers.]
@@ -28492,7 +28026,7 @@ in
 whole or in
 pait
 affirmed.
-�409.
+409.
 Dismissal
 upon
 failure]
@@ -28517,7 +28051,7 @@ the
 appeal
 may
 be dismissed.
-�410.
+410.
 Effect
 of.]
 The dismissal of an
@@ -28541,7 +28075,7 @@ made without
 prejudice
 to another
 appeal.
-�411; What
+411; What
 reviewable
 on
 appeal.]
@@ -28567,7 +28101,7 @@ necessarily
 affecting
 the
 judgment.
-�412.
+412.
 Power
 of
 supreme
@@ -28644,7 +28178,6 @@ of
 purchasers
 at sheriff's
 sale.
-�
 413.
 Time
 ion
@@ -28690,7 +28223,6 @@ filing
 the
 judgment
 roll.
-�
 414.
 Undertaking
 required.]
@@ -28762,13 +28294,11 @@ part
 of the
 respon
 dent.
-�415.
+415.
 Stay
 of execution
-�
 additional
 security
-�
 deposit.]
 if
 an
@@ -28998,7 +28528,7 @@ shall be of the same effect as
 if made with
 such
 officer.
-�416.
+416.
 Judgment
 to
 assign
@@ -29077,7 +28607,7 @@ court
 upon
 the
 appeal.
-�417.
+417.
 To execute
 conveyance.]
 If the
@@ -29121,7 +28651,6 @@ judgment
 of the
 appellate
 court.
-�
 418. To
 sell
 and deliver
@@ -29243,12 +28772,10 @@ for the
 payment
 of such defi
 ciency.
-�
 419.
 Effect of
 perfected
 appeal
-�
 security
 limited.]
 Whenever
@@ -29349,7 +28876,6 @@ according
 to those sections, exceed
 that
 sum.
-�
 420.
 Service
 of
@@ -29397,11 +28923,9 @@ in section
 and notice
 thereof
 given.
-�421.
+421.
 Justification
-�
 notice
-�
 418,
 exceptions.]
 An
@@ -29478,11 +29002,9 @@ of
 not less than
 five
 days.
-�
 422.
 Other
 cases*
-�
 perishable
 property.]
 In the cases not
@@ -29538,7 +29060,6 @@ judgment
 of the
 appellate
 court.
-�
 423.
 Filing.]
 The
@@ -29552,7 +29073,6 @@ order
 appealed
 from was
 entered.
-�
 424.
 Special
 and
@@ -29586,7 +29106,7 @@ of
 section 22 of
 this
 code.
-�425.
+425.
 Other
 appeals]
 In addition
@@ -29631,7 +29151,6 @@ JOINT
 DEBTORS,
 HEIRS,
 DKVISb.ES,
-�
 TENANTS HOLDING UNDER
 A
 JUDGMENT DEBTOR.
@@ -29689,7 +29208,6 @@ had
 been
 originally
 summoned.
-�
 427.
 Requisites
 of
@@ -29736,7 +29254,6 @@ to
 file
 a new
 complaint.
-�
 428.
 Affidavit.]
 The summons must be
@@ -29788,7 +29305,6 @@ and
 he
 may
 make
-�
 429.
 Defense.]
 the
@@ -29805,7 +29321,6 @@ made
 to the
 action,
 ex
-�
 430.
 Further
 pleadings,]
@@ -29861,7 +29376,7 @@ by
 attachment,
 if
 necessary.
-�431.
+431.
 Pleadings
 verified.]
 The answer
@@ -29890,10 +29405,9 @@ WHOLE
 OR A
 PART OF THE
 ACTION.
-�432.
+432.
 Judgment
 offered
-�
 effect.]
 The defendant
 may
@@ -29966,8 +29480,7 @@ is to
 be deemed
 withdrawn,
 and cannot
-!>�
-given
+!>given
 in
 evidence;
 and if the
@@ -29979,7 +29492,6 @@ he cannot recover
 costs from
 the time of the
 offer.
-�
 483.
 By
 plaintifff
@@ -30063,7 +29575,6 @@ specified
 in said
 offer shall be allowed
 him in the
-�
 trial of the action. If
 the notice of
 acceptance
@@ -30123,7 +29634,6 @@ the
 plaintifff
 an offer
 in wri
-�
 ting,
 that
 if he fail
@@ -30155,13 +29665,10 @@ the
 damages
 must be assessed
 accordingly.
-�
 435.
 Plaintiff
 refusing
-�
 proof
-�
 costs.]
 If the
 plaintifff
@@ -30230,10 +29737,8 @@ the
 trial,
 any paper,
 material
-�
 430. Exhibit
-and refusal�
-to
+and refusalto
 the
 action,
 co^re.]
@@ -30297,7 +29802,6 @@ court that there were
 good
 reasons for the
 refusal.
-�
 437.
 Copt
 of documents
@@ -30305,7 +29809,6 @@ is
 pending,
 or a
 judge
-�
 penalty.]
 The
 court before
@@ -30382,7 +29885,6 @@ or both.
 CHAPTER XX.
 EXAMINATION OF
 PARTIES.
-�
 438.
 Action
 for
@@ -30412,7 +29914,7 @@ manner
 prescribed by
 this
 chapter.
-�439.
+439.
 Adversary
 a
 witness.]
@@ -30457,7 +29959,7 @@ conditionally,
 or
 upon
 commission.
-�440.
+440.
 Examination
 before
 trial.]
@@ -30535,9 +30037,8 @@ served with
 a
 summons for his
 attendance.
-�441.
-Attendance�
-examination
+441.
+Attendanceexamination
 filed.]
 The
 party
@@ -30578,7 +30079,6 @@ either
 party
 on
 the trial.
-�
 442.
 Rebuttal.]
 The
@@ -30593,7 +30093,6 @@ rebutted
 by
 adverse
 testimony.
-�
 443. Refusal
 to
 testify
@@ -30622,7 +30121,6 @@ or
 reply,
 may
 be stricken out.
-�
 444. Same
 on
 own
@@ -30648,7 +30146,6 @@ rules
 of
 examination as other
 witnesses.
-�
 445.
 Beneficiary
 A
@@ -30684,7 +30181,6 @@ as if he were named
 as
 a
 party.
-�
 446.
 Not
 excluded
@@ -30694,9 +30190,7 @@ witnesses
 and
 evidence.
 except
-�
 husband and wife
-�
 decedent's
 statement.]
 No
@@ -30911,7 +30405,6 @@ testimony
 so
 taken
 relates.
-�
 447.
 Subpoenas
 MEANS
@@ -31009,7 +30502,6 @@ served
 by
 an
 officer.
-�
 448.
 Requisites
 of.]
@@ -31058,7 +30550,6 @@ law
 to
 produce
 as evidence.
-�
 449.
 Depositions.]
 When
@@ -31078,7 +30569,6 @@ be
 issued
 by
 such officer.
-�
 450.
 How
 served.]
@@ -31105,7 +30595,7 @@ name
 of
 any
 other witness.
-�451.
+451.
 Whkre witness
 not
 required
@@ -31147,7 +30637,6 @@ subpoena
 is served
 upon
 him.
-�
 452.
 Fees
 witness
@@ -31190,7 +30679,6 @@ non-payment
 shall be stated
 in the
 return.
-�
 453. Disobedience
 contempt.]
 Disobedience of a
@@ -31222,7 +30710,6 @@ his attendance or
 testimony
 is
 required.
-�
 454.
 Attachment
 for.]
@@ -31332,7 +30819,6 @@ an
 attachment should not issue
 against
 him.
-�
 455.
 Punishment
 for
@@ -31433,7 +30919,6 @@ or
 give
 his
 deposition.
-�
 456.
 Judge
 may
@@ -31469,7 +30954,6 @@ that his
 imprisonment
 is
 illegal.
-�
 457.
 Requisites
 of
@@ -31562,7 +31046,6 @@ copy
 of the
 order to the
 jailor.
-�
 458.
 Examination of
 prisoner.]
@@ -31593,7 +31076,7 @@ cases his
 examination
 must be
 by deposition.
-�459.
+459.
 Remains
 in
 custody.]
@@ -31620,7 +31103,6 @@ for the
 taking
 of the
 deposition.
-�
 460.
 Witness
 free
@@ -31652,7 +31134,6 @@ returning,
 or
 obedience to a
 subpoena.
-�
 461.
 Daily
 fees.]
@@ -31689,7 +31170,6 @@ not be
 re
 quired
 to remain.
-�
 462.
 Oath
 of
@@ -31763,7 +31243,6 @@ and
 penalties
 of
 perjury."'
-�
 MODE OF TAKING
 THE TESTIMONY OF WITNESSES.
 403. Three
@@ -31779,7 +31258,7 @@ modes.]
 3.
 By
 oral examination.
-�464.
+464.
 Affidavit.]
 The
 testimony
@@ -31792,7 +31271,6 @@ made
 without
 notice to the adverse
 party.
-�
 465. Deposition.]
 A
 deposition
@@ -31816,7 +31294,7 @@ or
 upon
 written
 interrogatories.
-�466.
+466.
 the
 Oral
 examination.]
@@ -31842,8 +31320,7 @@ or tribunal from
 the
 lips
 of the
-�witness.
-�
+witness.
 4G7.
 Use
 of
@@ -31902,7 +31379,6 @@ authorized to
 take
 depositions,
 and must
-�
 4(5S.
 Where
 and now
@@ -31911,7 +31387,6 @@ be
 authenticated
 iu the same
 way.
-�
 469.
 Cases
 when
@@ -31988,10 +31463,8 @@ service
 upon
 the
 defendants.
-�
 470.
 When
-�
 471. Before
 taken.]
 OFFICKRS
@@ -32023,7 +31496,6 @@ by
 a
 special
 commission.
-�
 472.
 Out
 of
@@ -32081,7 +31553,6 @@ any
 court of
 this
 territory.
-�
 473.
 Not
 interested or of
@@ -32101,7 +31572,6 @@ otherwise
 interested in the
 event of the action or
 proceeding.
-�
 474. Commission
 to
 take.]
@@ -32153,7 +31623,6 @@ unless the
 parties
 otherwise
 agree.
-�
 MANNER OF
 TAKING AND
 AUTHENTICATING
@@ -32242,7 +31711,6 @@ from
 day
 to
 day.
-�
 476. Same
 by
 publication.]
@@ -32333,7 +31801,6 @@ prescribed
 in
 publication
 of summons.
-�
 477.
 Written
 and
@@ -32357,11 +31824,8 @@ and
 must be subscribed
 by
 the witness.
-�
 478. HOW RETURNED
-�
 OPENING
-�
 MAY BE TAKEN AND USED
 IN OTHER TRIBU
 NALS.]
@@ -32457,7 +31921,6 @@ officer,
 to such
 court,
 officer or tribunal.
-�
 479. Kead
 in action
 between same
@@ -32501,7 +31964,6 @@ the
 provisions
 of this
 chapter.
-�
 480. How
 authenticated.]
 Depositions
@@ -32638,7 +32100,6 @@ commissioner
 taking
 the
 same.
-�
 481.
 Certificate
 to
@@ -32702,7 +32163,6 @@ place
 specified
 in the
 notice.
-�
 482.
 Requisite
 to
@@ -32732,7 +32192,6 @@ witness
 cannot
 be
 procured.
-�
 483.
 When
 deposition
@@ -32748,7 +32207,6 @@ must be
 filed at least one
 day
 before the trial.
-�
 484. In
 EXCEPTIONS TO DEPOSITIONS.
 writinu.]
@@ -32786,11 +32244,9 @@ commence
 ment
 of
 the trial.
-�
 485.
 When
 filed.]
-�
 480. Heard
 before
 trial.]
@@ -32809,7 +32265,6 @@ before
 the commencement
 of
 the trial.
-�
 487. Errors
 waived.]
 Errors of the court
@@ -32823,7 +32278,7 @@ depositions
 are waived unless
 excepted
 to.
-�488.
+488.
 OF
 PDBLIC
 DOCUMENTS, RKCORDS,
@@ -32938,7 +32393,6 @@ congress,
 or either
 house
 thereof; and all such documents are admissible in evidence.
-�
 489. Judicial
 records,
 etc.]
@@ -33014,7 +32468,6 @@ territory
 from which
 they
 are taken.
-�
 490.
 Proof
 ok
@@ -33127,7 +32580,7 @@ such
 judgment
 was
 rendered.
-�492.
+492.
 Evidence
 in other
 county.] And
@@ -33199,7 +32652,6 @@ evidence
 without
 further
 proof.
-�
 494.
 Record or
 copy
@@ -33242,7 +32694,7 @@ with
 in
 his
 control.
-�495.
+495.
 Official
 records.]
 Entries
@@ -33276,7 +32728,6 @@ law,
 are
 prima
 facie evidence of the facts stated therein.
-�
 496.
 Same.]
 An
@@ -33301,12 +32752,10 @@ facie evidence of the facts stated
 in
 such
 entry.
-�
 497.
 Certificate
 to
 copy
-�
 Whenever
 a
 copy
@@ -33356,7 +32805,6 @@ a
 Beal,
 under the seal of
 such court.
-�
 498.
 Deemed
 naturally
@@ -33413,7 +32861,6 @@ in such case
 of the life
 of such
 person.
-�
 499.
 Confidential
 relations
@@ -33554,7 +33001,6 @@ within
 the
 meaning
 of
-�
 500. How
 waived.]
 the
@@ -33562,7 +33008,7 @@ first three
 subdivisions of the
 preceding
 section.
-�501.
+501.
 When
 judge
 or
@@ -33598,12 +33044,9 @@ before another
 judge
 or
 jury.
-�
 502.
 Interpreters
-�
 subpoena
-�
 When a witness does not under
 stand and
 speak
@@ -33729,7 +33172,6 @@ witnesses.
 proceedings
 to
 perpetuate testimony.
-�
 503.
 Statements
 in verified
@@ -33832,7 +33274,6 @@ applicant
 expects
 to be
 plaintifff.
-�
 504. Order
 for
 examination.]
@@ -33865,11 +33306,9 @@ the time and
 place
 shall be
 notified.
-�
 505.
 Attorney
 when
-�
 examination.]
 When it
 appears satisfactory
@@ -33943,11 +33382,9 @@ to
 be
 taxed in
 the bill of costs.
-�
 506.
 Before
-whom�
-Such
+whomSuch
 depositions
 shall be taken before
 some
@@ -33974,7 +33411,7 @@ the
 petition
 was
 filed.
-�507.
+507.
 the
 Approval,
 filing
@@ -34050,10 +33487,9 @@ depositions
 taken
 pending
 an action.
-�
 508.
 ceedings.
-�509.
+509.
 Costs.]
 The
 applicant
@@ -34081,16 +33517,12 @@ judgment,
 is denominated
 an
 order.
-�510.
+510.
 Motions
-�
 notice
 tion for an order is a motion.
-�
 pukeeeexce
-�
 stay
-�
 kekekee.]
 1. An
 applica
@@ -34237,7 +33669,7 @@ shall be
 three dollars
 per
 day.
-�511.
+511.
 Service
 oe
 notice.]
@@ -34268,7 +33700,6 @@ prescribe
 a
 shorter
 time.
-�
 512. Extensionof
 time.]
 The time within which
@@ -34324,7 +33755,6 @@ CHAPTER XXIII.
 NOTICES, AND FILINGS
 AND
 SERVICE OF PAPERS.
-�
 513. Notices
 in
 wuitino.]
@@ -34355,8 +33785,6 @@ provided
 by
 this
 oode.
-�
-�
 514.
 Manner of
 service.]
@@ -34475,7 +33903,6 @@ of
 suitable
 age
 and discretion.
-�
 515.
 By
 mail
@@ -34519,7 +33946,6 @@ addressed to the
 person
 on whom it
 is to be
-�
 516.
 Method
 of
@@ -34533,9 +33959,8 @@ and
 the
 postage
 paid.
-�517.
+517.
 Same
-�
 double time
 J
 When
@@ -34574,10 +33999,8 @@ cluding
 the
 day
 of service.
-�
 518.
 Personal
-�
 three
 days.]
 Notice
@@ -34600,7 +34023,7 @@ before
 the time
 appointed
 therefore
-�519.
+519.
 three
 When
 notice
@@ -34654,7 +34077,6 @@ appearance,
 resides
 out
 of the
-�
 territory,
 and
 has no
@@ -34689,7 +34111,6 @@ the
 clerk
 within
 ten
-�
 521. Summons
 and 1'leadinus when
 days
@@ -34723,7 +34144,6 @@ the
 order,
 or be
 deemed abandoned.
-�
 522.
 Service
 upon
@@ -34748,7 +34168,6 @@ in
 stead of
 the
 partjr.
-�
 523.
 Certain
 process
@@ -34777,7 +34196,6 @@ a
 party
 into
 contempt.
-�
 524.
 Service
 of
@@ -34789,7 +34207,6 @@ XXIV.
 DUTIES OF SHERIFFS AND
 CORONERS.
 papers
-�
 in
 subdivision.]
 Whenever,
@@ -34901,7 +34318,6 @@ they
 have or can
 exercise in their own
 county.
-�
 525.
 Cory
 CHAPTER
@@ -34929,7 +34345,6 @@ thereof to be filed and used
 instead
 of the
 original.
-�
 52(3.
 Undertakings
 where
@@ -34983,7 +34398,6 @@ respectively
 for whose benefit
 they
 are taken.
-�
 527. Title of
 It shall not be
 necessary
@@ -35013,7 +34427,6 @@ in
 which
 it
 is made.
-�
 528.
 Consolidating
 actions.]
@@ -35041,7 +34454,6 @@ order
 the actions
 to be
 consolidated.
-�
 529.
 Action
 when
@@ -35066,7 +34478,6 @@ judgment
 be
 sooner
 satisfied.
-�
 530. Clerk's
 register
 of
@@ -35113,7 +34524,6 @@ WARRANTO
 AND OF
 INFORMATION
 WARRANTO.
-�
 531.
 By
 civil
@@ -35145,7 +34555,7 @@ provisions
 of
 this
 chapter.
-�532.
+532.
 Territoky
 against
 corporation.]
@@ -35308,7 +34718,7 @@ and
 expenses
 to be incurred
 thereby.
-�533
+533
 Leave
 to
 bring
@@ -35355,17 +34765,14 @@ corporation
 in
 opposition
 thereto.
-�
 illegal
 corpora
 tion.]
-�
 534.
 Territory
 against
 person
 usurping
-�
 officer
 An action
 may
@@ -35469,7 +34876,6 @@ corporation,
 without
 being
 duly incorporated.
-�
 585. Person
 joined
 with
@@ -35530,7 +34936,6 @@ costs and
 expenses
 to be incurred
 thereby.
-�
 536.
 Proceedings
 for
@@ -35645,7 +35050,6 @@ upon
 the
 right
 of
-�
 587.
 Judgment
 includes
@@ -35669,7 +35073,6 @@ as
 justice
 shall
 require.
-�
 538.
 Claimant
 takes
@@ -35753,7 +35156,6 @@ to the
 demand,
 he
 shall be
-�
 539. Refusal
 to
 deliver.]
@@ -35800,7 +35202,6 @@ entitled,
 in favor
 of such
 person, he
-�
 540.
 Damages
 may
@@ -35822,7 +35223,6 @@ such
 defendant
 has
 been excluded.
-�
 541.
 Joinder
 of sevekal
@@ -35932,7 +35332,6 @@ the
 treasury
 of the
 territory.
-�
 543.
 Against
 corporation.]
@@ -36018,7 +35417,7 @@ against
 the directors or other
 officers of such
 corporation.
-�545.
+545.
 Closing
 corporate
 affairs.]
@@ -36074,7 +35473,6 @@ must
 cause
 a
 copy
-�
 54G.
 of
 the
@@ -36091,7 +35489,6 @@ territory,
 whose
 duty
 it shall be to record the same.
-�
 547.
 Forfeitures
 to
@@ -36144,7 +35541,6 @@ erty
 is
 situated.
 I
-�
 action for the
 CHAPTER XXVII.
 partition
@@ -36224,7 +35620,6 @@ pre
 judice
 to the
 owners.
-�
 549.
 Requisites
 of
@@ -36289,7 +35684,6 @@ named,
 that fact must be set
 forth in the
 complaint.
-�
 550.
 Lienors
 of
@@ -36318,7 +35712,6 @@ or lien
 appear
 of
 record.
-�
 551. Lis
 pendens
 required.] Immediately
@@ -36377,7 +35770,6 @@ for record all
 persons
 the
 action.
-�
 552. Summons
 to
 shall be deemed to have
@@ -36435,7 +35827,6 @@ any
 one of the unknown
 parties
 reside out of the territo
-�
 553. Service
 by
 ry,
@@ -36480,7 +35871,6 @@ is
 the
 subject
 of the action.
-�
 554.
 Requisites
 of
@@ -36561,7 +35951,6 @@ right
 to
 such
 lien.
-�
 555.
 Title,
 proofs
@@ -36627,7 +36016,7 @@ is
 rendered;
 except
 that
-�where there
+where there
 are several unknown
 persons
 having
@@ -36644,7 +36033,6 @@ in the
 action,
 as not between
 themselves.
-�
 556.
 Part
 partition
@@ -36760,11 +36148,9 @@ district court,
 or
 by
 the
-�
 557.
 Outstanding
 liens
-�
 referee.]
 sworn
 or verified statement of
@@ -36856,12 +36242,9 @@ secured,
 the nature and extent
 of the
 security.
-�
 558.
 Appearance
-before referee�
-service
-�
+before refereeservice
 report.]
 The
 plaintifff
@@ -36959,7 +36342,6 @@ justice
 of the
 case
 may require.
-�
 559. Sale
 or
 partition.]
@@ -37042,7 +36424,7 @@ interests remain
 unknown,
 or are not
 ascertained.
-�560
+560
 Method axd hulks of
 partition
 erees
@@ -37165,7 +36547,6 @@ assigns,
 in which case it shall
 remain such
 private way.
-�
 561. Referees'
 report.]
 The referees
@@ -37190,12 +36571,10 @@ particular
 description
 of each
 share.
-�
 562.
 Judgment
 on
 report
-�
 effect
 of.]
 The court
@@ -37361,7 +36740,6 @@ as
 if it had been
 entered
 before his death.
-�
 563. Tenants
 not
 affected.]
@@ -37382,7 +36760,6 @@ which is the
 subject
 of the
 partition.
-�
 564.
 Payment
 of
@@ -37432,7 +36809,6 @@ parties
 to
 the
 action,
-�
 565. Liens follow owner's
 share
 ]
@@ -37508,13 +36884,11 @@ any
 part
 of
 the
-�
 566.
 Certain
 estates set
 property,
 not ordered to be sold.
-�
 567.
 Proceeds
 of
@@ -37584,7 +36958,6 @@ to
 their
 respective
 shares therein.
-�
 568. Lienor
 iiavino
 other
@@ -37636,7 +37009,6 @@ on
 the
 property
 on account thereof.
-�
 569.
 Distribution
 by
@@ -37681,7 +37053,6 @@ or
 as directed
 by
 the court.
-�
 570.
 Part
 action
@@ -37773,7 +37144,6 @@ auction to
 the
 highest
 bidder,
-�
 571. Sales
 how
 made.]
@@ -37832,7 +37202,6 @@ of the real
 property
 of which
 it
-�
 572. Terms
 of
 sale.]
@@ -37858,7 +37227,6 @@ or
 parties
 out of the
 territory.
-�
 573.
 Security
 for
@@ -37916,7 +37284,6 @@ clerk of the
 district court,
 and his successors in
 office.
-�
 574.
 Estate
 for
@@ -37970,7 +37337,6 @@ clerk must enter the
 same
 in the
 minutes of the court.
-�
 575.
 Compensation
 for.]
@@ -38016,7 +37382,6 @@ as
 the case
 may
 require.
-�
 paid
 If the
 persons
@@ -38044,7 +37409,6 @@ were known
 and
 had
 appeared.
-�
 577. Future
 estates.]
 In
@@ -38117,7 +37481,6 @@ must be made known
 at the
 time,
 and if
-�
 578. Announcements
 at
 sale.]
@@ -38138,7 +37501,6 @@ of
 the referees, nor
 any
 per
-�
 in
 any purchase;
 nor
@@ -38181,7 +37543,6 @@ to the
 provisions
 of
 this section are void.
-�
 580.
 Report
 of
@@ -38233,7 +37594,6 @@ prop
 erty
 is
 situated.
-�
 581.
 Obdee
 to
@@ -38274,7 +37634,6 @@ proceeds
 of
 the
 sale.
-�
 582.
 Lienor or
 party
@@ -38306,7 +37665,6 @@ proceeds
 of the sale as
 belongs
 to him.
-�
 583.
 Record
 and bar of
@@ -38369,7 +37727,6 @@ at the
 commencement
 of the
 action.
-�
 584. Proceeds due
 unknown.]
 When
@@ -38400,7 +37757,6 @@ of the
 persons
 entitled
 thereto.
-�
 585. Securities
 run to
 clerk.]
@@ -38452,7 +37808,6 @@ parties interested,
 subject
 to
 the order of the court.
-�
 586.
 Security
 to
@@ -38522,7 +37877,6 @@ and filed
 with
 the
 clerk.
-�
 587.
 Clerk's
 duty.]
@@ -38581,7 +37935,6 @@ all
 persons,
 the
 disposition
-�
 588.
 of investments
 and
@@ -38682,7 +38035,6 @@ to the
 ordinary principles
 of
 equity.
-�
 589.
 Infant's
 share.]
@@ -38723,7 +38075,6 @@ or directed
 by
 order
 of the court.
-�
 590.
 Insane
 and
@@ -38800,7 +38151,6 @@ to
 his
 legal repre
 sentative.
-�
 591.
 Guardian's
 powers.] The
@@ -38884,7 +38234,6 @@ entitled, upon
 an order
 of the
 court.
-�
 592.
 Fees
 and
@@ -38975,7 +38324,6 @@ there,
 or
 any
 of them.
-�
 593.
 Single
 referee.]
@@ -39015,10 +38363,8 @@ all the duties
 required
 of the three
 referees.
-�
 594. Abstract
 of title
-�
 cost of
 same.]
 If it
@@ -39175,7 +38521,6 @@ who shall
 have the
 custody
 of the abstract.
-�
 595.
 Who
 make
@@ -39219,7 +38564,6 @@ time to time if found
 incorrect,
 under the
 direction of the court.
-�
 596. Interest
 on
 disbusements.]
@@ -39252,7 +38596,6 @@ the time
 of
 making
 such disbursements.
-�
 597. Powek
 of
 CHAPTER XXVIII.
@@ -39287,7 +38630,6 @@ the cases and
 manner
 hereinafter
 specified.
-�
 598.
 Requisites
 of
@@ -39395,7 +38737,6 @@ where such
 mortgaged
 premisesare
 situated.
-�
 599. Installments
 taken
 SEPARATE.]
@@ -39475,7 +38816,6 @@ of
 them,
 must be
 given
-�
 600.
 Pi-islishinu
 notice.]
@@ -39514,7 +38854,6 @@ the nearest
 newspaper published
 in the
 territory.
-�
 601.
 Contents
 of
@@ -39558,7 +38897,6 @@ and,
 5. The time and
 place
 of sale.
-�
 60S.
 Manner
 of
@@ -39615,7 +38953,6 @@ to
 the
 highest
 bidder.
-�
 603.
 Postponement
 of
@@ -39691,7 +39028,6 @@ necessary
 to
 satisfy
 the
-�
 604.
 Separate
 sales of
@@ -39711,7 +39047,7 @@ expenses
 allowed
 by
 law.
-�605.
+605.
 Mortgagee
 .may
 purchase.] The
@@ -39737,7 +39073,6 @@ any
 part
 thereof
 at such sale.
-�
 606.
 Certificate
 of
@@ -39826,10 +39161,9 @@ have the
 same
 validity
 and effect.
-�607.
+607.
 Redemptio^-hy
-whom�
-rights.]
+whomrights.]
 The
 property
 sold
@@ -39919,7 +39253,6 @@ and his successor in
 interest as
 provided
 therein.
-�
 60S. Notice
 to
 officer.]
@@ -39961,7 +39294,6 @@ or other
 person,
 who
 sold
-�
 60'.).
 Deed.]
 the
@@ -40013,7 +39345,6 @@ by
 redemption
 or
 otherwise.
-�
 610.
 Overplus.]
 If after
@@ -40069,7 +39400,6 @@ to the
 mortgagee,
 his
 legal
-�
 611. Record
 evidence of
 sale]
@@ -40168,7 +39498,6 @@ any
 officer authorized
 to administer
 oaths.
-�
 612. Affidavits
 recorded.]
 Such affidavits
@@ -40209,7 +39538,6 @@ evidence
 of the
 facts therein
 contained.
-�
 613. Reference
 note.]
 A note
@@ -40243,7 +39571,6 @@ of the
 record
 of such
 mortgage.
-�
 614.
 Effect of record
 and
@@ -40286,7 +39613,6 @@ for
 in
 section
 623 of this code.
-�
 615.
 Costs
 and
@@ -40319,11 +39645,9 @@ in
 the
 mortgage.
 FORECLOSURE BY ACTION.
-�
 616.
 Wheke
 realtysituate
-�
 service of
 process]
 Actions for the foreclosure
@@ -40393,7 +39717,6 @@ provided
 by
 this
 code in such cases.
-�
 617.
 Judgment
 includes
@@ -40503,7 +39826,6 @@ ing
 the
 proceeds
 of such sale.
-�
 618.
 Action
 exclusive]
@@ -40534,7 +39856,6 @@ author
 ized
 by
 the court.
-�
 619.
 Other
 party.]
@@ -40598,7 +39919,6 @@ by
 execution or
 other
 process.
-�
 620.
 Complaint
 to
@@ -40630,7 +39950,6 @@ and
 what
 part
 thereof has been collected.
-�
 621.
 Judgment
 at
@@ -40685,7 +40004,6 @@ property
 whereon to
 satisfy
 such execution.
-�
 622. Sales
 by
 whom and
@@ -40751,12 +40069,10 @@ real
 property
 upon
 execution.
-�
 623.
 Certificate
 of
 sale
-�
 deed and
 effect.]
 Whenever
@@ -40901,9 +40217,7 @@ and
 all
 persons claiming
 under such heirs.
-�
-624. Proceeds�
-overplus.]
+624. Proceedsoverplus.]
 The
 proceeds
 of
@@ -40943,7 +40257,6 @@ order
 of
 the
 court.
-�
 625.
 Same.]
 If such
@@ -40986,7 +40299,6 @@ the
 or
 der of
 the court.
-�
 620.
 Part
 payment.]
@@ -41033,7 +40345,6 @@ with
 costs
 and disburse
 ments.
-�
 If at
 any
 time
@@ -41087,7 +40398,6 @@ the collection of
 such
 subsequent
 installment.
-�
 628.
 Refereeview
 premises.]
@@ -41165,7 +40475,6 @@ any
 sub
 sequent
 default.
-�
 629.
 Successive
 judgments
@@ -41246,7 +40555,6 @@ the same
 proceedings may
 be had as often as a default
 happen.
-�
 630.
 Sale
 of whole on fiest
@@ -41277,7 +40585,6 @@ the
 whole
 premises
 accordingly.
-�
 631.
 Rebate
 on undue
@@ -41375,7 +40682,6 @@ to them
 by
 order of
 the court.
-�
 632.
 Appeals.]
 x\ppeals
@@ -41395,7 +40701,6 @@ in
 other
 civil
 actions.
-�
 633.
 Redemption.]
 All real
@@ -41427,7 +40732,6 @@ upon
 foreclosure
 by
 advertisement.
-�
 634.
 Restraint of
 injury.]
@@ -41473,7 +40777,6 @@ AND
 OTHER
 ACTIONS CONCERNING REAL
 ESTATE.
-�
 635.
 Ejectment.]
 An action
@@ -41497,9 +40800,7 @@ purpose
 of
 determining
 such adverse claim.
-�
 636. Default
-�
 If the defendant in such action disclaim
 in
 his answer
@@ -41523,7 +40824,6 @@ answer,
 the
 plaintifff
 cannot recover costs.
-�
 637.
 Description.]
 In
@@ -41545,7 +40845,6 @@ upon
 execution to
 identify
 it.
-�
 638.
 Joinder
 of
@@ -41605,7 +40904,6 @@ whom the
 judgment
 has
 passed.
-�
 639.
 Of
 plaintifffs.]
@@ -41667,7 +40965,6 @@ cloud
 upon
 the
 same.
-�
 640.
 Right
 failing
@@ -41724,7 +41021,6 @@ for
 withholding
 the
 property.
-�
 641.
 Improvements
 in
@@ -41772,10 +41068,8 @@ counterclaim
 by
 such
 defendant.
-�
 642.
 Same
-�
 how
 pleaded.]
 The counterclaim in
@@ -41801,7 +41095,6 @@ ments
 upon
 the land and the value
 thereof.
-�
 643.
 Specific
 findings.]
@@ -41844,11 +41137,9 @@ of
 the referee, or the
 findings
 of the court.
-�
 644.
 Cross
 judgments
-�
 adjustment.] The
 judgment
 of the court
@@ -41965,7 +41256,7 @@ defendant,
 his
 heirs or
 assigns.
-�645.
+645.
 Right
 of
 entry.]
@@ -42037,11 +41328,9 @@ to
 parties
 to the
 action.
-�
 646.
 Order
 for
-�
 service.]
 The order must describe the
 property,
@@ -42081,7 +41370,6 @@ be done to
 the
 property,
 he is liable therefore.
-�
 647.
 Purchaser
 under
@@ -42125,7 +41413,6 @@ possession
 is
 delivered under the
 conveyances.
-�
 648.
 Alienation
 not to affect
@@ -42152,7 +41439,6 @@ person,
 either before
 or after the commencement
 of the action.
-�
 649.
 Mining
 customs.]
@@ -42189,7 +41475,6 @@ States, must
 govern
 the
 decision of the action.
-�
 650.
 Occupying
 claimants.]
@@ -42244,12 +41529,11 @@ action
 for
 nuisance,
 waste,
-�651.
+651.
 Nuisance
 defined
 CHAPTER
 XXX.
-�
 and
 who
 willfpl
@@ -42317,10 +41601,8 @@ tenant for life
 or
 years,
 joint
-�
 652.
 Waste
-�
 when
 actionable.]
 tenant,
@@ -42357,7 +41639,6 @@ party
 offending,
 and eviction from the
 premises.
-�
 653.
 To
 whom
@@ -42391,7 +41672,6 @@ unexpired
 term,
 or
 to have been done in malice.
-�
 C54.
 No
 CHAPTER
@@ -42409,7 +41689,6 @@ takes
 collateral.
 security
 on the same contract.
-�
 655.
 Lien
 to whom and for
@@ -42502,7 +41781,6 @@ machinery,
 or
 fixtures
 furnished.
-�
 656.
 Proceedings
 by
@@ -42637,15 +41915,12 @@ shall be
 verified
 by
 affidavit.
-�
 657. Notice
 presumed
-�
 lien
 filed in
 sixty
 days
-�
 limitation.]
 railway
 owner,
@@ -42771,12 +42046,9 @@ as
 provided
 in this
 chapter.
-�
 608. Lien
 in six months
-�
 affidavit
-�
 statement.]
 Every
 subcontractor
@@ -42866,7 +42138,6 @@ owner, his
 agent
 or
 trustee.
-�
 059.
 If
 settlement
@@ -42943,7 +42214,6 @@ to be
 charged
 with the
 lien.
-�
 660. Effect
 of
 certificate.]
@@ -42983,7 +42253,6 @@ subcontractor for the amount due
 to the extent be
 fore
 provided.
-�
 661.
 Service
 of
@@ -43004,7 +42273,6 @@ ceived
 in evidence without
 further
 proof.
-�
 662. Liens
 of
 other
@@ -43104,11 +42372,9 @@ and before
 any
 claim
 for the lien was filed.
-�
 663.
 Clerk's
 record
-�
 entries.]
 The
 clerk of
@@ -43157,7 +42423,6 @@ description
 of the
 property
 the same.
-�
 664.
 Priority
 of
@@ -43206,11 +42471,9 @@ to the commencement of said
 building,
 erection or other im
 provement.
-�
 665. Extent
 of
 liens
-�
 on
 leased
 land.]
@@ -43304,7 +42567,6 @@ after the sale
 by
 the
 purchaser.
-�
 666. Lien
 superior
 to
@@ -43363,7 +42625,6 @@ and the
 purchaser may
 remove
 the same within a reasonable time thereafter.
-�
 667. Action
 to
 enforce.]
@@ -43389,7 +42650,6 @@ subdivision
 wherein the
 property
 is situated.
-�
 668. Demand
 upon
 lienor.]
@@ -43417,7 +42677,6 @@ days
 thereafter or the lien shall
 be
 forfeited.
-�
 669. Owner
 defined.]
 Every person
@@ -43448,12 +42707,10 @@ in
 the word
 owner thereof.
 thereof
-�
 070.
 Satisfaction
 of
 liens
-�
 penalty.]
 Whenever
 a lien lias
@@ -43511,7 +42768,6 @@ or
 doing
 work
 provided
-�
 071.
 Subco:
 tractor
@@ -43563,7 +42819,6 @@ of
 feeding,
 herding,
 pasturing
-�
 072.
 Who
 have
@@ -43608,7 +42863,6 @@ shall not
 be construed to
 apply
 to stolen stock.
-�
 073. Lien
 only
 against
@@ -43670,7 +42924,6 @@ or
 livery
 stable
 keeper.
-�
 074.
 Who
 CHAPTER
@@ -43679,7 +42932,6 @@ ACTION TO FORECLOSE LIENS ON
 CHATTELS.
 may
 maintain
-�
 requisites
 of
 judgment.]
@@ -43776,7 +43028,6 @@ until it is
 claimed
 by
 him.
-�
 075.
 Justice's
 jurisdiction.]
@@ -43839,7 +43090,6 @@ shall be lost,
 in this
 territory,
 by
-�
 676. Loss
 of life
 by
@@ -43903,12 +43153,10 @@ by
 the
 neglect,
 carelessness, orunskillfulness
-�
 677.
 Who
 may
 sue
-�
 punitive
 of another
 person
@@ -43945,7 +43193,6 @@ for the loss or destruction
 of the
 life
 aforesaid.
-�
 678. For
 stock
 injured.]
@@ -43986,7 +43233,6 @@ within the
 territory
 of
 Dakota.
-�
 679.
 Presumption.]
 The
@@ -44012,7 +43258,6 @@ and
 negligence
 of said
 corporation.
-�
 680.
 Proceedings.]
 Whenever
@@ -44154,7 +43399,6 @@ records
 of
 his
 office.
-�
 681. Action
 if
 corporation
@@ -44260,7 +43504,6 @@ the sum
 of one
 dollar,
 to be
-�
 682.
 Fees.]
 paid
@@ -44283,7 +43526,6 @@ OF
 A
 CIVIL
 NATURE.
-�
 683.
 CHAPTER XXXIY
 PRELIMINARY
@@ -44312,7 +43554,6 @@ is
 the
 final
 determination
-�
 684.
 Definitions.]
 of the
@@ -44332,7 +43573,6 @@ acts in
 a
 special
 proceeding.
-�
 685. When
 and
 WRIT OF CERTIORARI.
@@ -44372,7 +43612,6 @@ plain,
 speedy
 and
 adequate remedy.
-�
 686. How
 commenced.]
 The
@@ -44409,7 +43648,6 @@ or
 may grant
 the writ without
 notice.
-�
 687. To
 whom
 writ
@@ -44436,7 +43674,6 @@ proceedings
 to
 be
 certified.
-�
 688.
 Requisites
 of
@@ -44492,7 +43729,6 @@ in
 the
 matter to
 be reviewed.
-�
 689.
 Stay
 of
@@ -44533,7 +43769,6 @@ suspended
 or the
 proceedings
 stayed.
-�
 690.
 Service.]
 The writ must be served
@@ -44552,7 +43787,6 @@ directed
 by
 the
 court.
-�
 691.
 Extent
 of
@@ -44582,7 +43816,6 @@ tribu
 nal,
 board
 or officer.
-�
 692.
 Return
 and
@@ -44625,7 +43858,6 @@ modifying
 the
 proceedings
 below.
-�
 693.
 Judgment
 sent
@@ -44652,7 +43884,6 @@ record or
 proceedings
 certified
 up.
-�
 G94.
 Judgment
 roll.]
@@ -44672,7 +43903,6 @@ writ and
 return, constitute the
 judgment
 roll.
-�
 G95.
 By
 WRIT OF MANDAMUS.
@@ -44740,7 +43970,6 @@ tribunal,
 corporation,
 board or
 person.
-�
 COG.
 When
 issued.]
@@ -44770,7 +43999,6 @@ of the
 party
 beneficially
 interested.
-�
 697.
 Alternative
 or
@@ -44845,7 +44073,6 @@ a re
 turn
 day
 inserted.
-�
 G98. When
 each
 may
@@ -44900,7 +44127,6 @@ whether the adverse
 party
 appear
 or not.
-�
 699.
 Answer.]
 On
@@ -44932,7 +44158,6 @@ the same manner as
 an answer to a
 complaint
 in a civil action.
-�
 700.
 Jury
 may
@@ -45025,7 +44250,6 @@ in case
 they
 find
 for him.
-�
 701. Latitude
 of
 proof.] On the trial the
@@ -45050,7 +44274,6 @@ either in
 direct denial or
 by way
 of avoidance.
-�
 702.
 New
 trial.]
@@ -45060,7 +44283,6 @@ court in which the issue of
 fact
 is
 made.
-�
 703. Transmission
 of
 verdict.]
@@ -45128,7 +44350,6 @@ only questions
 of
 law,
 or
-�
 puts
 in
 issue
@@ -45155,10 +44376,8 @@ ing,
 the
 argument
 of the case.
-�
 705.
 Damages
-�
 peremptory
 writ.]
 If
@@ -45211,7 +44430,6 @@ be
 awarded
 without
 delay.
-�
 706. Service
 upon
 majority
@@ -45248,9 +44466,7 @@ whether
 at the time of the service
 the board was in
 session or not.
-�
 707. Disobedience
-�
 punishment.]
 When
 a
@@ -45333,7 +44549,6 @@ complete
 enforcement of
 the
 writ.
-�
 70S.
 Definition
 of
@@ -45364,7 +44579,6 @@ tribunal,
 corporation,
 board or
 person.
-�
 709.
 By
 whom and when
@@ -45409,7 +44623,6 @@ applica
 tion of the
 person beneficially
 interested.
-�
 710. Alternative
 or
 peremptory.] The
@@ -45493,7 +44706,6 @@ be
 omitted and a return
 day
 inserted.
-�
 711.
 Proceedings.]
 The
@@ -45534,7 +44746,6 @@ court
 or
 by
 a
-�
 712.
 Supreme
 judge
@@ -45556,7 +44767,6 @@ hearing
 thereon
 be had
 in vacation.
-�
 713.
 Rules
 of
@@ -45586,7 +44796,6 @@ mentioned
 in
 this
 chapter.
-�
 714.
 New
 trials and
@@ -45614,7 +44823,7 @@ mentioned in
 this
 chapter.
 served,
-�715.
+715.
 CHAPTER
 XXXV.
 OF
@@ -45646,11 +44855,9 @@ prescribed
 by
 this
 chapter.
-�
 710.
 Verified
 statement
-�
 A statement in
 writing
 must
@@ -45737,7 +44944,6 @@ does not exceed
 the amount
 of such
 liability.
-�
 717.
 Proceedings
 in
@@ -45746,7 +44952,6 @@ sented to
 the district
 court or
 a
-�
 execution]
 The statement must
 be
@@ -45895,7 +45100,6 @@ forcement of the same.
 SUBMITTT^O a CONTROVERSY
 WITHOUT
 ACTION.
-�
 718.
 Requisites
 of
@@ -45975,7 +45179,6 @@ as
 if an
 action were
 pending.
-�
 719.
 Judgment
 and
@@ -46006,7 +45209,6 @@ con
 stitute the
 judgment
 roll.
-�
 720.
 When
 on
@@ -46029,7 +45231,7 @@ to
 appeal
 in
 like manner.
-�721.
+721.
 RELIEF OF PERSONS
 CONFINED IN JAIL
 ON CIVIL
@@ -46061,7 +45263,6 @@ the
 conditions
 hereinafter
 specified.
-�
 722.
 Notice
 of
@@ -46097,7 +45298,7 @@ discharge
 from
 his
 imprisonment.
-�723.
+723.
 Service
 of
 notice.]
@@ -46161,7 +45362,7 @@ attorney
 served
 shall
 reside,
-�724.
+724.
 distant from the
 place
 of
@@ -46234,7 +45435,7 @@ by
 the
 debtor
 and other witnesses.
-�725.
+725.
 Oath
 by
 prisoner.]
@@ -46323,7 +45524,6 @@ help
 me God.
 [Signed
 A
-�
 726.
 Certificate
 of
@@ -46338,7 +45538,7 @@ a
 certificate under his
 hand as follows:
 '
-��po.ntion,
+po.ntion,
 and
 use,
 to
@@ -46377,7 +45577,7 @@ imprisoned
 from no
 other
 cause.
-�727.
+727.
 Forever
 exempt.]
 The
@@ -46425,7 +45625,7 @@ takingthe
 oath
 herein
 prescribed.
-�728.
+728.
 Judgment
 against
 estate.]
@@ -46475,7 +45675,6 @@ been
 committed
 in
 execution.
-�
 729.
 Prison
 costs.]
@@ -46512,7 +45711,6 @@ the costs
 and
 charges
 thereon.
-�
 730.
 Discharge
 by
@@ -46541,7 +45739,6 @@ imprisonment
 again
 for the same
 cause of action.
-�
 731.
 Expenses
 advanced.]
@@ -46621,7 +45818,6 @@ discharge by
 order
 of the
 creditor.
-�
 732.
 Recommitment.]
 If
@@ -46687,7 +45883,7 @@ a
 discharge
 from
 im
-�733.
+733.
 prisonment,
 under
 these
@@ -46708,7 +45904,6 @@ VI.
 CHANGE OF NAMES OF
 PERSONS
 AND PLACES.
-�
 734.
 District
 court
@@ -46724,9 +45919,7 @@ towns,
 villages
 and cities within this
 territory.
-�
 735. Petition
-�
 contents.]
 Any
 person
@@ -46856,7 +46049,6 @@ in
 the
 journal
 of the court.
-�
 736.
 Town,
 village
@@ -46985,9 +46177,8 @@ upon
 the
 journal
 of the court.
-�737.
-Coisrs�
-limitation.]
+737.
+Coisrslimitation.]
 All
 proceedings
 under
@@ -47032,7 +46223,6 @@ title
 or
 interest,
 whatsoever.
-�
 CHAPTER XXXVII.
 OF BASTARDS.
 738.
@@ -47101,7 +46291,6 @@ of the
 territory against
 the accused
 as defendant.
-�
 739.
 Summons.]
 Upon
@@ -47122,7 +46311,6 @@ which shall be served as
 in
 civil
 actions.
-�
 740. Lien
 upon
 realty.]
@@ -47163,7 +46351,7 @@ by
 the
 proper
 court.
-�741.
+741.
 Attachment.]
 The
 judge.
@@ -47221,7 +46409,6 @@ be deemed
 proper
 in the
 premises.
-�
 742.
 District
 attorney
@@ -47258,9 +46445,8 @@ the action
 on
 behalf of the
 complainant.
-�743.
+743.
 Issue
-�
 now
 tried.]
 The issue
@@ -47295,7 +46481,6 @@ sums,
 and
 in such
 man
-�
 744.
 ner
 as the
@@ -47323,7 +46508,6 @@ compliance
 with the order of
 the
 court.
-�
 745. Modification
 of
 same.]
@@ -47352,7 +46536,6 @@ contemplated,
 on either
 party
 and notice to the other.
-�
 740.
 County
 may
@@ -47390,7 +46573,6 @@ of such
 known,
 as herein
 directed.
-�
 747.
 Liability
 for
@@ -47545,7 +46727,6 @@ by
 virtue of
 this
 chapter.
-�
 748.
 Owner
 defined.]
@@ -47568,7 +46749,7 @@ provisions
 of
 the
 last section.
-�749.
+749.
 Notice
 of
 damages.]
@@ -47617,7 +46798,6 @@ animal
 or
 animals
 belong:.
-�
 750.
 Custody
 of
@@ -47710,10 +46890,8 @@ person
 making
 said
 seizure.
-�
 751.
 Tkial
-�
 lien
 upon
 animals.]
@@ -47821,11 +46999,9 @@ damage
 sustained
 by
 defendant.
-�
 752.
 Unknown
 owner
-�
 service.]
 defendant is not
 the owner or
@@ -47933,7 +47109,6 @@ to the
 day
 of
 trial.
-�
 75-3.
 Overplus.]
 After
@@ -47995,7 +47170,6 @@ the
 public
 schools of said
 county.
-�
 754.
 Justice's
 jurisdiction.]
@@ -48024,7 +47198,6 @@ Approved,
 February
 17,
 1877.
-�
 1.
 CHAPTER
 XXXIX.
@@ -48110,9 +47283,7 @@ in
 this
 act
 provided.
-�
 2. Petition
-�
 contents.]
 ofilie
 He shall
@@ -48181,7 +47352,6 @@ objects
 of
 the
 petition.
-�
 3.
 Commissioners
 appointed.]
@@ -48237,7 +47407,6 @@ the
 fees of
 said
 commissioners.
-�
 4.
 Oath.]
 Before
@@ -48265,7 +47434,6 @@ the
 duties of
 their
 appointment.
-�
 5. Notice
 of
 meeting.]
@@ -48300,7 +47468,7 @@ said
 petitioner.
 Ter
 in
-�6.
+6.
 Time
 and manner of
 notice.]
@@ -48387,7 +47555,6 @@ vious
 to the
 meeting
 of said commissioners.
-�
 7. Examination
 and
 The commissioners shall meet at the
@@ -48439,7 +47606,6 @@ by
 the erection of said mill dam
 and its
 maintenance forever.
-�
 8.
 Report.]
 Within
@@ -48477,10 +47643,8 @@ of said
 report
 as of their
 meeting.
-�
 9.
 Damages
-�
 now
 paid.]
 Upon
@@ -48507,7 +47671,6 @@ manner
 following,
 to-wit:
 First
-�
 Second
 Third
 To
@@ -48515,8 +47678,6 @@ parties
 laboring
 under no
 disability.
-�
-�
 To
 guardians
 of
@@ -48638,7 +47799,6 @@ be taken
 by the
 party
 entitled thereto.
-�
 10.
 Appeals,
 by
@@ -48724,7 +47884,6 @@ of
 the
 report
 aforesaid.
-�
 11.
 Bond
 bv
@@ -48791,7 +47950,6 @@ relation to
 the matter
 in
 controversy.
-�
 12.
 Bond
 hv
@@ -48867,7 +48025,6 @@ by
 the court in reference
 to the matter in
 controversy.
-�
 18. Trial
 of
 appeal.]
@@ -48919,7 +48076,6 @@ the
 verdict conform to the
 question
 and facts in the case.
-�
 14.
 Actual
 damage
@@ -48954,7 +48110,7 @@ declaring
 that
 upon payment
 of
-�15.
+15.
 the
 damages
 assessed
@@ -49014,7 +48170,6 @@ the
 commissioners,
 as hereinbefore
 provided.
-�
 16.
 Other
 improved
@@ -49078,7 +48233,6 @@ government
 land
 under the
 pre-emption
-�
 17.
 Limitation
 of
@@ -49090,7 +48244,6 @@ a
 patent
 for
 issued.
-�
 IS.
 Dams
 \he
@@ -49131,7 +48284,6 @@ his
 petition
 to
 the nature of the case.
-�
 19.
 Proceedings
 suspend
@@ -49172,7 +48324,6 @@ such
 proceedings
 shall
 be known.
-�
 20.
 Petitioner
 pays
@@ -49206,7 +48357,6 @@ as the
 court
 may
 direct.
-�
 21.
 Entry
 For the
@@ -49248,7 +48398,7 @@ under the
 provisions
 of
 this
-�25.
+25.
 chapter,
 who
 shall not within one
@@ -49331,7 +48481,6 @@ same time shall be allowed after the removal
 of
 such
 disability.
-�
 23.
 Effect.]
 This act shall take
