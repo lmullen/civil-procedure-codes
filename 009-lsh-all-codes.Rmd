@@ -1,0 +1,74 @@
+---
+title: "Candidates for whole codes"
+author: "Lincoln Mullen"
+date: "September 21, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+The goal for this document is to decide on the comparison measure to be used. 
+
+We are going to use LSH to compute candidate matches, with a very low threshold for potential matches. 
+
+```{r}
+library("textreuse")
+library("dplyr")
+lsh_threshold(h = 3000, b = 1500)
+```
+
+This threshold should identify most legitimate matches.
+
+First we create the corpus, using a minhash function.
+
+```{r}
+minhash <- minhash_generator(n = 3000, seed = 34235)
+cache <- "cache/corpus-minhash-n7.rds"
+if (!file.exists(cache)) {
+  corpus_shingles <- TextReuseCorpus(dir = "legal-codes", 
+                                    tokenizer = tokenize_ngrams, n = 7,
+                                    hash_func = minhash,
+                                    keep_tokens = TRUE)
+  saveRDS(corpus_shingles, cache)
+} else {
+  corpus_shingles <- readRDS(cache)
+}
+```
+
+Now we will use minhash/LSH to identify the candidates and rehash the relevant subset.
+
+```{r}
+buckets_shingles <- lsh(corpus_shingles, bands = 1500)
+candidates <- lsh_candidates(buckets_shingles)
+candidates_reversed <- candidates
+colnames(candidates_reversed) <- c("b", "a", "score")
+candidates_both <- bind_rows(candidates, candidates_reversed)
+candidates_subset <- lsh_subset(candidates)
+corpus_subset <- corpus_shingles[candidates_subset]
+corpus_subset <- rehash(corpus_subset, hash_string)
+```
+
+Now we will compute scores for the candidates. We have to do it both ways for the `ratio_of_matches()` function since it is directional.
+
+```{r}
+scores_jaccard <- lsh_compare(candidates, corpus_subset, jaccard_similarity)
+scores_ratio <- lsh_compare(candidates_both, corpus_subset, ratio_of_matches)
+range01 <- function(x) { (x - min(x)) / (max(x) - min(x)) }
+cf_scores <-  scores_ratio %>% left_join(scores_jaccard, by = c("a", "b"))  %>% 
+  rename(ratio = score.x, jaccard = score.y)  %>% 
+  filter(!is.na(jaccard)) %>% 
+  mutate(jaccard_scaled = range01(jaccard), 
+         ratio_scaled = range01(ratio),
+         diff = jaccard_scaled - ratio_scaled) %>% 
+  arrange(desc(diff))
+cf_scores
+```
+
+Since there are no obvious distortions to be corrected for, and since `ratio_of_matches()` can account for texts of different length and directionality, we will use that measure for comparing entire codes to entire codes. For comparing chunks of codes, we will use the Jaccard similarity measure.
+
+Session info:
+
+```{r}
+sessionInfo()
+```
+

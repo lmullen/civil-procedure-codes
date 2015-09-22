@@ -62,7 +62,7 @@ sessionInfo()
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-## [1] textreuse_0.0.1.9002
+## [1] textreuse_0.0.1.9003
 ## 
 ## loaded via a namespace (and not attached):
 ##  [1] assertthat_0.1  magrittr_1.5    tools_3.2.2     htmltools_0.2.6
