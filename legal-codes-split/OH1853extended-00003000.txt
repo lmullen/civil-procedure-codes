@@ -1,0 +1,5 @@
+N o particular form of exception is required. The
+exception must be stated, with so much of the evidence as
+
+is necessary to explain it, and no more, and the whole as
+briefiy as ossible.

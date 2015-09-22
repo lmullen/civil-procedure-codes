@@ -1,0 +1,5 @@
+I. EXCEPTIONS.
+
+Exceptions defined.
+Manner of taking and settling exceptions.
+What exception contains.
