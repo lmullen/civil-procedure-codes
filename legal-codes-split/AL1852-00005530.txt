@@ -1,2 +1,0 @@
-When there are mutual accounts between persons who are not merchants, the time must be computed
-from the date of the last item, unless the account be liquidated, and a balance struck.

@@ -1,3 +1,0 @@
-Successive actions may be maintained upon the same contract
-or transaction, whenever, after the former action, a new cause of action
-arises therefrom. '

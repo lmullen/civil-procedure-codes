@@ -1,2 +1,0 @@
-’ In all cases, the return must state the time and
-manner of service.
