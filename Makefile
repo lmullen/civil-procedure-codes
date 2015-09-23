@@ -3,13 +3,13 @@ CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
-all : $(SPLIT_CODES) $(NOTEBOOKS)
+all : $(NOTEBOOKS)
 
 codes : $(CLEAN_CODES)
 
 splits : $(SPLIT_CODES)
 
-%.html : %.Rmd $(CLEAN_CODES) $(SPLIT_CODES)
+%.html : %.Rmd $(CLEAN_CODES)
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
 
 legal-codes-split/%-SPLIT.txt : legal-codes/%.txt
