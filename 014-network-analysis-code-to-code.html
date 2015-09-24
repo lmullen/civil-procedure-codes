@@ -76,37 +76,9 @@ img {
 
 <pre class="r"><code>library(&quot;textreuse&quot;)
 library(&quot;stringr&quot;)
-library(&quot;dplyr&quot;)</code></pre>
-<pre><code>## 
-## Attaching package: 'dplyr'
-## 
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-## 
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union</code></pre>
-<pre class="r"><code>library(&quot;igraph&quot;)</code></pre>
-<pre><code>## 
-## Attaching package: 'igraph'
-## 
-## The following objects are masked from 'package:dplyr':
-## 
-##     %&gt;%, as_data_frame, groups, union
-## 
-## The following object is masked from 'package:stringr':
-## 
-##     %&gt;%
-## 
-## The following objects are masked from 'package:stats':
-## 
-##     decompose, spectrum
-## 
-## The following object is masked from 'package:base':
-## 
-##     union</code></pre>
-<pre class="r"><code>source(&quot;R/extract-date.R&quot;)
+library(&quot;dplyr&quot;)
+library(&quot;igraph&quot;)
+source(&quot;R/extract-date.R&quot;)
 source(&quot;R/plot_network.R&quot;)</code></pre>
 <p>Load the corpus previously created and hashed. We won’t compare the extended codes.</p>
 <pre class="r"><code>cache &lt;- &quot;cache/corpus-shingle-ngrams-n7.rds&quot;

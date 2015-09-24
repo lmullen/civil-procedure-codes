@@ -7,47 +7,7 @@ September 24, 2015
 library("textreuse")
 library("stringr")
 library("dplyr")
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-## 
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-## 
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 library("igraph")
-```
-
-```
-## 
-## Attaching package: 'igraph'
-## 
-## The following objects are masked from 'package:dplyr':
-## 
-##     %>%, as_data_frame, groups, union
-## 
-## The following object is masked from 'package:stringr':
-## 
-##     %>%
-## 
-## The following objects are masked from 'package:stats':
-## 
-##     decompose, spectrum
-## 
-## The following object is masked from 'package:base':
-## 
-##     union
-```
-
-```r
 source("R/extract-date.R")
 source("R/plot_network.R")
 ```
