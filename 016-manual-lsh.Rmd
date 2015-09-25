@@ -1,0 +1,96 @@
+---
+title: "Calculate minhash pairs manually"
+author: "Lincoln Mullen"
+date: "September 25, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+As the textreuse package is currently implemented, the `lsh()` function gets bogged down with large numbers of documents. The implementation with the hash package is probably unneccessary; we can do it a lot faster with dplyr. So we will implement a specific solution here before revising the textreuse package. (Thanks for an assist from [Stack Overflow](http://stackoverflow.com/questions/32783727/turn-ordered-pairs-into-unordered-pairs-in-a-data-frame-with-dplyr/32784685#32784685).)
+
+```{r message=FALSE}
+library("textreuse")
+library("dplyr")
+library("digest")
+library("stringr")
+library("tidyr")
+library("readr")
+```
+
+Load the corpus.
+
+```{r}
+corpus <- readRDS("cache/corpus-n5-minhash-h1500-seed623.rds")
+```
+
+```{r}
+bands <- 500
+hashes <- 1500
+rows <- hashes / bands
+docs <- length(corpus)
+bands_vec <- rep(vapply(1:bands, function(i) rep(i, rows), integer(rows)), docs)
+
+buckets_cache <- "cache/buckets-dplyr-lsh.rds"
+if (!file.exists(buckets_cache)) {
+  buckets <-  corpus %>%
+    hashes() %>%
+    as_data_frame() %>%
+    gather(doc, hash) %>%
+    mutate(doc = as.character(doc),
+           band = bands_vec) %>%
+    group_by(doc, band) %>%
+    summarize(buckets = digest(hash)) %>%
+    select(-band)
+  rm(bands_vec)
+  saveRDS(buckets, file = buckets_cache)
+} else {
+  buckets <- readRDS(buckets_cache)
+}
+```
+
+Now find the ordered pairs of matches:
+
+```{r}
+ordered <- buckets %>% 
+  ungroup() %>%
+  left_join(buckets, by = "buckets") %>%
+  select(-buckets) %>%
+  distinct() %>% 
+  filter(doc.x != doc.y) %>%
+  arrange(doc.x, doc.y)
+```
+
+Now remove the duplicate pairs.
+
+```{r}
+unordered <- ordered %>% 
+  distinct(dn = pmin(doc.x, doc.y), up = pmax(doc.x, doc.y)) %>%
+  select(-up, -dn) %>%
+  rename(a = doc.x, b = doc.y) %>%
+  arrange(a, b) %>% 
+  mutate(score = NA_real_) 
+```
+
+Save the results.
+
+```{r}
+write_csv(ordered, path = "out/all-sections-unordered-pairs.csv")
+```
+
+Rehash the corpus to use for Jaccard similarity.
+
+```{r}
+corpus_rehashed <- rehash(corpus, hash_string)
+```
+
+Compute the Jaccard similarity scores and save the results.
+
+```{r}
+scores <- unordered %>% 
+  lsh_compare(corpus_rehashed, jaccard_similarity) %>% 
+  rename(similarity = score) %>% 
+  mutate(dissimilarity = 1 - similarity)
+write_csv(scores, path = "out/scores-all-sections-pairs.csv")
+scores
+```
