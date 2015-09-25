@@ -1,0 +1,113 @@
+---
+title: "Best matches for code sections"
+author: "Lincoln Mullen"
+date: "September 25, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r message=FALSE}
+library("dplyr")
+library("stringr")
+library("readr")
+library("ggplot2")
+library("RColorBrewer")
+source("R/extract-date.R")
+source("R/extract_code_names.R")
+```
+
+The aim of this notebook is to create a function that takes a code's abbreviation (e.g., `NY1850`) and creates a data frame with each of the sections in that code with the best match to a non-anachronistic code.
+
+Read in the data.
+
+```{r}
+scores <- read_csv("out/scores-all-sections-pairs.csv")
+scores <- scores %>% 
+  rename(section_a = a, section_b = b) %>% 
+  mutate(code_a = extract_code_names(section_a),
+         code_b = extract_code_names(section_b),
+         year_a = extract_date(code_a),
+         year_b = extract_date(code_b))
+scores
+```
+
+```{r}
+best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
+  require("dplyr")
+  require("stringr")
+  matches <- scores %>% 
+    filter(code_a == code_name | code_b == code_name) %>% 
+    mutate(match_code = ifelse(code_a == code_name, code_b, code_a),
+           code_of_interest = ifelse(code_a == code_name, code_a, code_b),
+           match_section = ifelse(code_a == code_name, section_b, section_a),
+           section_of_interest = ifelse(code_a == code_name, section_a, section_b),
+           match_year = ifelse(code_a == code_name, year_b, year_a)) %>% 
+    filter(match_code != code_of_interest,
+           match_year <= extract_date(code_name),
+           similarity >= threshold) %>% 
+    select(code_of_interest, section_of_interest, match_code, match_section,
+           similarity, dissimilarity) %>% 
+    group_by(section_of_interest) %>%
+    arrange(desc(similarity)) %>% 
+    top_n(top, similarity) 
+  
+  all_sections <- Sys.glob(str_c("legal-codes-split/", code_name, "-0*")) %>% 
+    str_replace("legal-codes-split/", "") %>% 
+    str_replace("\\.txt", "")
+  all <- data_frame(all_sections)
+  
+  all %>% 
+    left_join(matches, by = c("all_sections" = "section_of_interest")) %>% 
+    select(-code_of_interest)
+} 
+```
+
+Also a function to calculate summary statistics.
+
+```{r}
+summarize_borrowings <- function(section_list) {
+  section_list %>% 
+    group_by(match_code) %>% 
+    summarize(mean_similarity = mean(similarity),
+              n = n()) %>% 
+    mutate(percentage_sections = n / nrow(section_list)) %>% 
+    arrange(desc(n))
+}
+```
+
+Apply this to three codes:
+
+```{r}
+CA1851 <- best_section_matches("CA1851", scores, threshold = 0.2)
+CA1851
+summarize_borrowings(CA1851)
+IA1859 <- best_section_matches("IA1859", scores, threshold = 0.2)
+IA1859
+summarize_borrowings(IA1859)
+UT1870 <- best_section_matches("UT1870", scores, threshold = 0.2)
+UT1870
+summarize_borrowings(UT1870)
+```
+
+Make a plot of code borrowings.
+
+```{r}
+plot_borrowings <- function(state_borrowings) {
+  state_borrowings %>% 
+    mutate(state = str_extract(match_code, "\\w\\w")) %>% 
+    ggplot(aes(x = as.factor(all_sections), y = similarity, fill = state)) +
+    geom_bar(stat = "identity") +
+    coord_flip() +
+    scale_x_discrete(labels = NULL) +
+    scale_y_continuous(limits = c(0, 1)) +
+    scale_fill_brewer(palette = "Dark2")
+}
+```
+
+Plot some borrowings:
+
+```{r}
+plot_borrowings(CA1851)
+plot_borrowings(UT1870)
+```
