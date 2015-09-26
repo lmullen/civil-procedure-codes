@@ -1,0 +1,45 @@
+---
+title: "Clustering"
+author: "Lincoln Mullen"
+date: "September 25, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r, message = FALSE}
+library("readr")
+library("dplyr")
+library("igraph")
+```
+
+How are all of the sections related to one another? We can think of this as a network problem. Sections that are similar have a relationship, but are very unlikely to have relationships to every other section. So we can use our comparisons then decompose that big network graph into families of codes.
+
+Read the data.
+
+```{r}
+comparisons <- read_csv("out/scores-all-sections-pairs.csv") %>% 
+  select(-dissimilarity) %>% 
+  rename(weight = similarity) %>% 
+  filter(weight > 0.1)
+```
+
+```{r}
+g <- graph.data.frame(comparisons, directed = "FALSE")
+families <- decompose(g, min.vertices = 2)
+num_sections <- vapply(families, function(x) { length(V(x))}, integer(1))
+head(sort(-num_sections), 20)
+which(num_sections > 10 & num_sections < 15)
+```
+
+Plot those and look at their vertices.
+
+```{r}
+V(families[[4]])
+plot(families[[4]])
+V(families[[1084]])
+plot(families[[1084]])
+V(families[[4635]])
+plot(families[[4635]])
+```
+
