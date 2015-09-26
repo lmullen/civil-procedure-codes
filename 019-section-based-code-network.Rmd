@@ -1,0 +1,87 @@
+---
+title: "Network of all codes based on sections borrowed"
+author: "Lincoln Mullen"
+date: "September 26, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
+Earlier we made a network graph of all codes using ratio of matches in a code to code comparison. Now lets make a network graph based on sections borrowed.
+
+```{r message=FALSE}
+library("readr")
+library("igraph")
+library("dplyr")
+library("textreuse")
+library("stringr")
+source("R/best-section-matches.R")
+source("R/summarize-borrowings.R")
+source("R/extract-date.R")
+source("R/extract_code_names.R")
+```
+
+Read the data.
+
+```{r}
+borrowings <- read_csv("out/scores-all-sections-pairs.csv") %>% 
+  rename(section_a = a, section_b = b) %>% 
+  mutate(code_a = extract_code_names(section_a),
+         code_b = extract_code_names(section_b),
+         year_a = extract_date(code_a),
+         year_b = extract_date(code_b))
+borrowings
+```
+
+All the codes in our corpus. Which codes aren't included?
+
+```{r}
+codes <- c(borrowings$code_a, borrowings$code_b) %>% unique
+all_codes <- Sys.glob("legal-codes/*") %>% 
+  str_replace("legal-codes/", "") %>% 
+  str_replace("\\.txt", "") %>% 
+  extract_code_names()
+setdiff(all_codes, codes)
+```
+
+All the codes that aren't included are plausibly not connected to the corpus.
+
+Calculate section matches and summarize them for a single code.
+
+```{r}
+CA1851 <- best_section_matches("CA1851", scores = borrowings, threshold = 0.2)
+CA1851
+summarize_borrowings(CA1851)
+```
+
+Apply that to all the codes.
+
+```{r}
+section_pct <- codes %>% 
+  lapply(best_section_matches, scores = borrowings, threshold = 0.2) %>% 
+  lapply(summarize_borrowings) %>% 
+  bind_rows()
+section_pct
+```
+
+Do some filtering and munge into an edge list.
+
+```{r}
+edges <- section_pct %>% 
+  filter(percentage_sections >= 0.05,
+         !is.na(match_code)) %>% 
+  select(original_code, match_code, weight = percentage_sections)
+edges
+```
+
+Turn that into a graph.
+
+```{r}
+g <- graph.data.frame(edges, directed = TRUE)
+set.seed(4821)
+l <- layout.fruchterman.reingold(g, weights = E(g)$weight)
+par(mar = c(0,0,1,0))
+plot(g, edge.width = E(g)$weight * 8, layout = l,
+     edge.arrow.size = 0.15, vertex.size = 5)
+title("Codes of Civil Procedure by percentage of sections")
+```
