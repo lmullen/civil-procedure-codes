@@ -3171,9 +3171,7 @@ from a judgment or order, and shall omit, through mistake, to do
 any other act necessary to perfect the appeal, or to stay proceedings, the court may permit an amendment, on such terms as
 may be just.
 
-SEC. 272. Transmitting Papers to Appellate Courts.
-
-If the appellant shall not, within twenty days after his appeal
+SEC. 272. If the appellant shall not, within twenty days after his appeal
 is perfected, cause a certified copy of the notice of appeal and of
 the judgment roll, or, if the appeal be from an order or any part
 thereof, a certified copy of such order, and the papers upon
@@ -3184,16 +3182,11 @@ such clerk to the appellate court, and recover the expenses
 thereof as a disbursement on such appeal, in case the judgment
 or order appealed from shall be in whole or in part afiirmed.
 
-SEC. 27 3. Intermediate Orders Affecting the Judgment may
-be Reviewed on Appeal. - b
-
-Upon an appeal from a judgment, the court may review any
+SEC. 273. Upon an appeal from a judgment, the court may review any
 intermediate order involving the merits and necessarily affecting
 the udgment.
 
-SEC. 274. Judgment on Appeal. Restitution.
-
-Upon an appeal from a judgment or order, the appellate court
+SEC. 274. Upon an appeal from a judgment or order, the appellate court
 may reverse, aflirm, or modify the judgment or order appealed
 ‘from, in the respect mentioned in the notice of appeal, and as to
 any or all of the parties, and may, if necessary or proper, order
@@ -3201,32 +3194,21 @@ a new trial. When the judgment is reversed or modiiied, the
 appellate court may direct complete restitution of all property
 and rights lost by the erroneous judgment.
 
-SEC. 275. Time for Appealinrr.
-
-The appeal to the supreme court_ under subdivision 2 of section 10 of this Code, must be taken within sixty days after written notice of the order shall have been given to the party appealing. Every other appeal allowed by the second and third
+SEC. 275. The appeal to the supreme court_ under subdivision 2 of section 10 of this Code, must be taken within sixty days after written notice of the order shall have been given to the party appealing. Every other appeal allowed by the second and third
 chapters of ‘this title must be taken within two years after the
 judgment shall be entered. '
 
-SEC. 276. Appeal, in what Cases.
-
-An appeal may be taken to the supreme court in the cases
+SEC. 276. An appeal may be taken to the supreme court in the cases
 mentioned in section 10, as hereinafter provided.
 
-S124‘. 277. On Appeal, Security must be given or Deposit
-
-' made, unless Waived.
-
-, To render an appeal effectual for any purpose, a written undertaking must be executed on the part of the appellant, by at
+SEC. 277. To render an appeal effectual for any purpose, a written undertaking must be executed on the part of the appellant, by at
 least two sureties, to the effect that the appellant will pay all
 costs and damages that may be awarded against him on the appeal, not exceeding two hundred and fifty dollars, or that sum
 must be deposited with the clerk with whom the judgment or
 order was entered, to abide the event of the appeal. Such undertaking or deposit may be waived by a written consent on the
 part of the respondent.
 
-SEC. 278. On J udlgnment for Money, Security to sta Execution.
-Sureties becoming solvent. Deposit in Lieu of ndertakiug.
-
-If the appeal be from a judgment directing the payment of
+SEC. 278. If the appeal be from a judgment directing the payment of
 money, it shall not stay the execution of the judgment unless a
 written undertaking be executed on the part of the appellant,
 by at least two sureties, to the effect that if the judgment appealed from, or any part thereof, be afiirmed, or the ap )eal be
@@ -3254,10 +3236,7 @@ judge of the court, at special term or at chambers, upon the application of eith
 a de osit made pursuant to such order shall be of the same effect
 as i made with such oflicer.
 
-SEC. 279. If Judgment be to deliver Documents, 850., they
-must be Deposited,
-
-If the judgment appealed from direct the assignment or delivery of documents, or personal property, the execution of the
+SEC. 279. If the judgment appealed from direct the assignment or delivery of documents, or personal property, the execution of the
 judgment shall not be stayed by appeal, unless the things required to be assigned or delivered be brought into court, or
 placed in the custody of such ofiicer or receiver as the court
 shall appoint, or unless an undertaking be entered into, on the
@@ -3265,18 +3244,13 @@ part of the appellant, by at least two sureties, and in such
 amount as the court or a judge thereof, or county judge, shall direct, to the effect that the appellant Will obey the order of the
 appellate court upon the appeal.
 
-SEC. 280. If to Execute Conveyance, it must be Executed
-and Deposited.
-
-'If the judgment appealed from direct the execution of a conveyance, or other instrument, the execution of the judgment
+SEC. 280. If the judgment appealed from direct the execution of a conveyance, or other instrument, the execution of the judgment
 shall not be stayed by the appeal until the instrument shall
 have been executed and‘ deposited With the clerk with whom
 the judgment is entered, to abide the judgment of the appellate
 court.
 
-SEC. 281. Security, Where J udament is to Deliver Real Property or for a Sale of Mortgaged f’rem‘ises.
-
-If the judgment appealed from direct the sale or delivery of
+SEC. 281. If the judgment appealed from direct the sale or delivery of
 possession of real property, the execution of the same shall not
 be stayed, unless a Written tmdertaking be executed on the part
 of the appellant, with two sureties, to the effect that during the
@@ -3291,11 +3265,7 @@ the undertaking. When the judgment is for the sale of mortged premises, and the 
 the sale, the undertaking shall also provide for the payment of
 such deficiency.
 
-SEC. 282. Stay of Proceedings upon Security given. \Vhen
-«’ * o u g o
-court may Dispense with Securlty.
-
-Whenever an a peal is perfected, as provided by sections 278
+SEC. 282. Whenever an a peal is perfected, as provided by sections 278
 and 27 9, it stays a I further proceedings in the court below upon
 the jud ent appealed from, or upon the matter embraced
 therein, ut the court below may proceed upon any other matter included in the action, and not affected by the judgment appealed from. And the court below may, in its discretion, dispense with or limit the security required by se_ctions 278, 27 9,
@@ -3306,14 +3276,10 @@ dollars, in the cases mentioned in sections 279, 280, and 281,
 where it would otherwise, according to those sections, exceed
 that sum.
 
-SEC. 283. Undertakings may be in one Instrument or Several.
-
-The undertakings prescribed by sections 334, 335, 336, and
+SEC. 283. The undertakings prescribed by sections 334, 335, 336, and
 338 may be in one instrument or several, at the option of the appellant.
 
-SEC. 284. Sureties to Justify.
-
-An undertaking upon an appeal shall be of no effect, unless it
+SEC. 284. An undertaking upon an appeal shall be of no effect, unless it
 be accompanied by the aflidavit of the sureties, showing that
 they are in the aggregate worth double the amount specified
 therein over and above the exemptions allowed by law. The respondent may, however, except to the sufficiency of the sureties
@@ -3323,10 +3289,7 @@ cotmty judge, as rescribed by sections 144 and 145, within ten
 clays thereafter, t c ap eal shall be regarded as if no undertaking had been iven. e justification shall be upon a notice of
 not less than ve days.
 
-SEC. 285. Perishable Property may be Sold notwithstanding
-Appeal.
-
-In the cases not provided for in sections 278, 279, 280, 281,
+SEC. 285. In the cases not provided for in sections 278, 279, 280, 281,
 and 282, the perfecting of an appeal, by giving the undertaking
 mentioned in section 27 7, shall stay proceedings in the court below
 
@@ -3335,60 +3298,42 @@ the sale of perishable property, the court below may order the
 property to be sold, and the proceeds thereof to be deposited or
 invested to abide the judgment of the appellate court.
 
-SEC. 286. Undertaking must be Filed.
-
-The undertaking must be iiled with the clerk with whom the
+SEC. 286. The undertaking must be iiled with the clerk with whom the
 judgment or order appcaled from Was entered.
 
-Appeal to the (,.’zT~rcm't 00w°tfr0m C6 (.7o2m.tg] Com-t.
 
-SEC. 287. Appeal, in what Cases.
-
-An appeal may be taken to the circuit co1u‘t from the jm lginent
+SEC. 287. An appeal may be taken to the circuit co1u‘t from the jm lginent
 rendered by a county court in a civil action, where the amount in
 controversy exceeds one hundred dollars. An appeal inay also
 be taken to the circuit court from any order aifecting a substantial right, made by a county court or a county judge, in any action or proceeding ; and such appeal shall be heard on a copy of
 the papers on which the order appealed from was made.‘
 
-SEC. 288. Security.
+SEC. 288. Security must be given upon such appeal in the same manner as upon an appeal to the supreme court.
 
-Security must be given upon such appeal in the same manner as upon an appeal to the supreme court.
-
-SEC. 289. Appeals, where Heard.
-
-Appeals in the circuit court shall be heard in the county
+SEC. 289. Appeals in the circuit court shall be heard in the county
 Where the judgment or order appealed from was entered, and
 the decision rendered on such appeal shall be certified to the
 county court. '
 
-Appeal to the Cozmty C’0urt from an Ivzferior Cozzrt.
-
-Sm). 290. Existing Laws Repealed, and this Chapter Substituted.
-
-All statutes now in force providing for the review of judgments in civil cases, rendered by courts of justices of the peace,
+SEC. 290. All statutes now in force providing for the review of judgments in civil cases, rendered by courts of justices of the peace,
 and by the courts of cities, and regulating the practice in relation to such review, are repealed; and hereafter the only mode
 of reviewing such judgments shall be an appeal, as prescribed
-by this chapter. SEC. 291. By What Court Judgment to be Reviewed.
+by this chapter. 
 
-VVhen a judgment shall have been rendered by courts of jus-.
+SEC. 291. When a judgment shall have been rendered by courts of jus-.
 tices of the peace, the appeal shall be to the county court of the
 
 county where the judgment was rendered, and the cause shall
 be tried in said court the same as 1f originally commenced
 therein.
 
-Sec. 292. Appeal, when to be Taken.
-
-The appellant shall, within twenty days after judgment, serve
+Sec. 292. The appellant shall, within twenty days after judgment, serve
 a notice of a peal, stating the grounds upon which the appeal is
 founded. I the judgment is rendered upon process not personally served, and the defendant did not appear, he shall have
 twenty days, after personal notice of the judgment, to serve the
 notice of appeal provided for in this and the next section.
 
-SEC. 293. Notice of Appeal t.o be Served on Justice, and Costs
-Paid.
-
-The notice of appeal must, within the same time, be served on
+SEC. 293. The notice of appeal must, within the same time, be served on
 the justice, personally, if living and within the county, or on his
 clerk, if there be one, and on the respondent, personally, or by
 leaving it at his residence with some one of suitable age and discretion ; or, in case the respondent is not a resident of such
@@ -3421,47 +3366,34 @@ issued, pay over the amount so deposited to the respondent, which
 shall be- credited on the judgment to the extent thereof, and the
 balance, if any, to be returned to the appellant.
 
-SEC. 294. Security to Stay Execution.
-
-If the appellant desires a stay of execution of the judgment,
+SEC. 294. If the appellant desires a stay of execution of the judgment,
 he shall give security as provided in the next section.
 
-SEC. 295. Form of Undertaking.
-
-The security shall be a written undertaking, executed by one
+SEC. 295. The security shall be a written undertaking, executed by one
 or more suilicient sureties, approved by the county judge, or by
 the court below, to the effect that if the jud ment be rendered
 against the appellant, and execution thereon e returned unsatisfied, in Whole or in part, the sureties Will pay the amount unsatisfied.
 
-SEC. 296. Execution, how Stayed.
-
-The delivery of the undertaking to the court below shall stay
+SEC. 296. The delivery of the undertaking to the court below shall stay
 the issuing of execution; or, if it has been issued, the service of
 a copy of the undertaking, certified by the court below, upon the
 oilicer holding the execution, shall stay further proceedings
 
 thereon.
 
-SEC. 297. In Case of Death of Justice, Undertaking to be
-Filed.
-
-VVhere, by reason of the death of a justice of the peace, or his
+SEC. 297. Where, by reason of the death of a justice of the peace, or his
 removal from the county, or any other cause, the undertaking
 on the appeal cannot be delivered to him, it shall be tiled with
 the clerk of the appellate court, and the notice thereof given to
 the respondent, or his attorney or agent, as provided in section
 354 [293]; it shall thereupon have the same effect as if delivered to the justice.
 
-SEC. 298. Filing in Lieu of Service of Notice of Appeal.
-
-When, by reason of the death of a justice of the peace, or his
+SEC. 298. When, by reason of the death of a justice of the peace, or his
 absence from the county, or any other cause, the notice of appeal
 cannot be served as provided by section 293, it may be served
 by leaving the same With the clerk of the county.
 
-SEC. 299. Return, when and how Made and Compelled.
-
-The court below shall thereupon, after ten days, and Within
+SEC. 299. The court below shall thereupon, after ten days, and Within
 thirty days after service’ of the notice of appeal, make a return
 duly certified to the appellate court of all pleadings, the proceed-‘
 
@@ -3469,23 +3401,19 @@ ings, and judgment, with the notice of the appeal annexed, and
 file the same in the appellate court. The return may be compelled
 -by attachment. But no justice of the peace shall be bound to
 make a return unless the fees prescribed by the last section of
-this chapter be paid on the service of the notice of appeal. SEC. 300. How Made, if Justice be out of Ofhce.
+this chapter be paid on the service of the notice of appeal. 
 
-When ajustice of the peace, by whom'a judgment appealed
+SEC. 300. When ajustice of the peace, by whom'a judgment appealed
 from was rendered, shall have gone out of oflice before a return
 is ordered, he shall, nevertheless, make a return in the same‘
 manner, and with the like effect, as if he were still in office.
 
-SEC. 301. Further Returns.
-
-If the return be defective, the appellate court may direct a
+SEC. 301. If the return be defective, the appellate court may direct a
 further or amended return as often as may be necessary, and may
 compel a compliance with its order by attachment. And the
 court shall always be deemed open for these purposes.
 
-SEC. 302. Justice Dead, Insane, or Absent.
-
-If a justice of the peace, whose judgment is appealed from,
+SEC. 302. If a justice of the peace, whose judgment is appealed from,
 shall die, become insane, or remove from the State before making a return thereto, the ap ellate court may ascertain, by proof
 or otherwise, the process, p eadings, and proceedings before the
 
@@ -3494,13 +3422,9 @@ justice, and may try the cause the same as if a return had been
 made by the justice. If he shall have removed to another county within the State, the appellate court may compel him to make
 the return as if he were still within the county where the judgment Was rendered.
 
-SEC. 303. Noticing Appeal for Hearing.
+SEC. 303. When the appeal is perfected it shall be placed upon the calendar, and brought to trial upon notice, the same as if the actions had been originally brought in the county court.
 
-When the appeal is perfected it shall be placed upon the calendar, and brought to trial upon notice, the same as if the actions had been originally brought in the county court.
-
-Sm). 304. Hearing on Appeal. Judgment on Appeal.
-
-If the appellant shall neglect to bring the cause to trial, the
+SEC. 304. If the appellant shall neglect to bring the cause to trial, the
 coult may dismiss the appeal and afiirm the judgment below, as
 the justice of the case may require. If the defendant failed to
 appear before the justice, and it is shown by the allidavits served
@@ -3512,15 +3436,13 @@ by the rules of the court, and thereupon the action shall be tried
 the same as if originally brought in said court. On the trial the
 court may permit either party to amend his pleadings on suchterms as shall be just.
 
-SEC. 305. Judgment Roll.
-
-To every judgment upon an appeal there shall be annexed the
+SEC. 305. To every judgment upon an appeal there shall be annexed the
 return on which it was heard, the notice of appeal, verdict, decision of the court, exceptions, case, and all orders and papers
 in any way involving the merits, and necessarily affecting .the
 judgment, which shall be filed with the clerk of the court, and
-shall constitute the judgment roll. SEC. 306. Restitution.
+shall constitute the judgment roll. 
 
-If thejudgment below, or any part thereof’, be paid or collected,
+SEC. 306. If thejudgment below, or any part thereof’, be paid or collected,
 the appellate court shall order the amount paid or collected to
 be restored, with interest from the time of such payment or collection, or applied on the judgment in the county court, as justice
 may require. The order may be obtained on proof of the facts
@@ -3528,9 +3450,7 @@ made at the time of the hearing, or after the hearing, upon a revious notice of 
 the judgment is entered, the amount may be included in the
 judgment. ‘
 
-SEC. 307. Costs.
-
-Ten dollars costs, exclusive of disbursements, shall be allowed
+SEC. 307. Ten dollars costs, exclusive of disbursements, shall be allowed
 to the prevailing party on appeal, but if the party recovering
 'udgment on appeal recover a less sum in the county court than
 
@@ -3570,9 +3490,7 @@ Miscellaneous provisions.
 
 b'ubmz'ttz'n_r/ a 0ont2'o-versy without Actz’on.
 
-SEC. 308. Controversy, how Submitted without Action.
-
-Parties to a question in difference, which might be the subject
+SEC. 308. Parties to a question in difference, which might be the subject
 of a civil action, may, Without action, agree upon a case containing the facts upon which the controversy depends, and present
 a submission of the same to any court which would have jurisdiction if an action had been brought. But it must ap car by
 aiiidavit that the ‘controversy is real, and the proceed)’ °
@@ -3582,29 +3500,20 @@ shall thereupon hear and determine the case at a regular term,
 or in vacation, and render judgment thereon, as if an action
 were depending.
 
-SEC. 309. Judgment.
-
-Judgment shall be entered in the judgment book, as in other
+SEC. 309. Judgment shall be entered in the judgment book, as in other
 cases, but without costs, for any proceeding prior to notice of
 trial. The case, the submission, and a copy of the judgment
 shall constitute the judgment roll.
 
-SEC. 310. Judgment, how Enforced or Appealed from.
-
-The judgment may be enforced in the same manner as if it
+SEC. 310. The judgment may be enforced in the same manner as if it
 
 had been rendered in an action, and shall be subject to appeal
 in like manner.
 
 mgs 1n.
 
-1’-roceedz’-n.gs against Joint Debtors, lice‘;-s’, ])eva'.sees, Leg/atees,
-mad '1 ’emm.ts lz.0l(lz77z{/ -2m.(Ze«r a Ju(Z_r/ment ])ebt07'.
 
-SEC. 311. Parties 11ot Summoned in Action on Joint Contract
-may be Summoned after Judgment.
-
-When a judgment shall be recovered ‘against one or more of
+SEC. 311. When a judgment shall be recovered ‘against one or more of
 several persons jointly indebted upon a contract, by proceeding
 as provided in section 87, those who were originally summoned
 to answer the complaint may be summoned to show cause why
@@ -3612,30 +3521,23 @@ to answer the complaint may be summoned to show cause why
 they should not be bound by the judgment, in the same manner
 as if they had been original y summoned.
 
-SEC. 312. If Judgment Debtor Die, his Representatives may
-be Summoned.
-
-In case of the death of a judgment debtor after judgment, the
+SEC. 312. In case of the death of a judgment debtor after judgment, the
 heirs, devisees, or legatees of the judgment debtor, or the tenants of real property owned by him and affected by the judgment, may, after the expiration of three years from the time of
 granting letters testamentary or of administration upon the estate ‘of the testator or intestate, be summoned to show cause why
 the judgment should not be enforced against the estate of the
 judgment debtor in their hands respectively; and the personal
 representatives of a deceased judgment debtor may be so summoned at any time Within one year after their appointment.
 
-SEC. 313. Form of Summons.
+SEC. 313. The summons provided in the last two sections shall be subscribed by the judgment creditor, his representatives, or attorney ; shall describe the judgment, and require the person summoned to show cause within twenty days after the service of
 
-The summons provided in the last two sections shall be subscribed by the judgment creditor, his representatives, or attorney ; shall describe the judgment, and require the person summoned to show cause within twenty days after the service of
+the summons, and shall be served in like manner as the original summons. ' 
 
-the summons, and shall be served in like manner as the original summons. ' SEC. 314.. To be Accompanied by Aiiidavit of Amount Due.
-
-The summons shall be accompanied by an affidavit of the person subscribing it, that the judgment has not been satisfied, to
+SEC. 314. The summons shall be accompanied by an affidavit of the person subscribing it, that the judgment has not been satisfied, to
 
 his knowledge or information and belief, and shall specify the
 amount due thereon.
 
-SEC. 315. Party Summoncd may Answer and Defend.
-
-Upon such summons, any party summoned may answer, within the time specified therein, denying the judgment, or setting
+SEC. 315. Upon such summons, any party summoned may answer, within the time specified therein, denying the judgment, or setting
 up any defense thereto which may have arisen subsequently to
 such judgment; and in addition thereto, if the party be proceeded against according to section 311, he may make any defense
 which he might have made to the action if the summons had
@@ -3643,33 +3545,23 @@ been served on him at the time when the same was originall
 commenced, and such defense had been then interposed to sue
 action. '
 
-SEC. 316. Subsequent Pleadings and Proceedings same as in
-Action.
-
-The party issuing the summons may demur or reply to the
+SEC. 316. The party issuing the summons may demur or reply to the
 answer, and the party summoned may demur to the reply ; and
 the issues may be tried, and judgment may be given in the same
 manner as in an action, and enforced W execution, or the application of the property charged to the payment of the judgment
 may be compelled by attachment, if necessary.
 
-SEC. 317. Answer and Reply to be Verified" as in an Action.
-
-The answer and reply shall be verified in the like cases and
+SEC. 317. The answer and reply shall be verified in the like cases and
 
 manner, and be subject to the same rules, as the answer and reply 111 an action.
 
-(,—'0n,fes8i0'n of Judgment without Action.
 
-SEC. 318. Judgment may be Confessed for Debt due or Contingent Liability.
-
-A judgment by confession may be entered, without action,
+SEC. 318. A judgment by confession may be entered, without action,
 either for money due or to become due, or to sec1u'e any person
 against contingent liability on behalf of the defendant, or both,
 in the manner prescribed by this chapter.
 
-SEC, 319. Statement in Writing, and Form Thereof.
-
-A statement in writing must be made, signed by the defendant, and verified by his oath, to the following effect :
+SEC. 319. A statement in writing must be made, signed by the defendant, and verified by his oath, to the following effect :
 
 1. It must state the amount for which judgment may be entered, and authorize the entry of judgment therefor.
 
@@ -3679,9 +3571,7 @@ sum confessed therefor is justly due or to become due.
  If it be for the purpose of securing the plaintiff against a
 contingent liability, it must state concisely the facts constituting the liability.
 
-SEC. 320. Judgment and Execution.
-
-The statement may be filed with the clerk of the court, who
+SEC. 320. The statement may be filed with the clerk of the court, who
 shall endorse upon it, and enter in the judgment book, a judgment of the circuit court for the amount confessed, with ten dollars costs, together with disbursements. The statement and
 ailidavit, with the judo‘ment endorsed, shall thenceforth become
 the judgment roll‘ Executions may be issued and enforced
@@ -3699,8 +3589,6 @@ security for the instalments thereafter to become due; and Whenever any further 
 manner, be issued for the collection and enforcement of the
 same.
 
-Q17‘2«3r of the Defe72.clam to C'0mp7"omz'se the Whole or (1 Part
-of the Action. .
 
 SEC. 321. Oder of Compromise.
 
