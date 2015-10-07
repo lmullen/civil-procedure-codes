@@ -9,8 +9,7 @@ the Territory
 of Nebraska,
 as follows:
 PRELIMINARY PROVISIONS.
-SEC. 1.
-This act shall be
+SEC. 1. This act shall be
 known as the Code
 of Civil Procedure
 
@@ -41,9 +40,7 @@ I.
 FORM
 OF CIVIL
 ACTIONS.
-SEC.
-3.
-The
+SEC. 3. The
 distinction
 between
 actions
@@ -71,8 +68,7 @@ shall be
 called
 a civil
 action. 
-§ 4.
-In such action, the party
+§ 4. In such action, the party
 complaining, shall be
 known
 as the
@@ -84,8 +80,7 @@ party
 as
 the de- 
 fendant.
-§
-5. There can
+§ 5. There can
 be no feigned
 issues;
 but a question
@@ -132,8 +127,7 @@ I.
 ACTIONS
 IN
 GENERAL.
-SEc. 6.
-This title
+SEc. 6. This title
 shall
 not apply
 to
@@ -202,13 +196,12 @@ a
 conveyance
 of
 it.
-7. Civil actions can
+§ 7. Civil actions can
 only be commenced within the
 periods
 prescribed
 in
-this
-title,
+this title,
 after
 the
 cause
@@ -238,8 +231,7 @@ FOR
 THE RECOVERY
 OF
 REAL PROPERTY.
-SEc. 8.
-An action for
+SEc. 8. An action for
 the recovery
 of the title, or
 possesSion
@@ -268,8 +260,7 @@ commence any
 action for the
 recovery
 of
-the
-title
+the title
 or
 possession
 of
@@ -318,8 +309,7 @@ disability
 is
 removed,
 and at no time thereafter.
-§ 10.
-An
+§ 10. An
 action
 for
 the
@@ -364,9 +354,7 @@ periods
 after the cause of
 action shall have
 accrued.
-§
-12. Within
-fifteen
+§ 12. Within fifteen
 years:
 An
 action
@@ -379,9 +367,7 @@ agreement,
 contract, 
 or promise in
 writing. 
-§
-13.
-Within
+§ 13. Within
 six
 years:
 An
@@ -394,8 +380,7 @@ implied.
 An action upon a liability created by statute, other
 than
 a forfeiture or penalty.
-§
-14. Within
+§ 14. Within
 four
 years:
 An
@@ -434,9 +419,7 @@ accrued,
 until the discovery
 of the
 fraud.
-§
-15.
-Within
+§ 15. Within
 one
 year:
 An action
@@ -464,8 +447,7 @@ may
 be brought
 within the
 period so limited.
-§
-16. An action
+§ 16. An action
 upon the official
 bond or undertaking
 an executor,
@@ -553,9 +535,7 @@ by this chapter, after
 such disability shall be removed.
 CHAPTER IV.
 GENERAL PROVISIONS.
-SEC.
-19.
-An
+SEC. 19. An
 action
 shall
 be
@@ -564,8 +544,7 @@ commenced
 within
 the
 meaning
-of this
-title, as
+of this title, as
 to each defendant,
 at the date
 of
@@ -621,8 +600,7 @@ thereof,
 within
 the
 mean-
-ing of this
-title, when the party
+ing of this title, when the party
 faithfully, properly, and
 diligently
 endeavors
@@ -634,8 +612,7 @@ followed
 by service
 within sixty
 days.
-§ 20.
-If
+§ 20. If
 when
 a
 cause
@@ -807,9 +784,7 @@ within
 one
 year after such reversal or failure.
 paymenth
-§
-23.
-In
+§ 23. In
 any
 case
 founded
@@ -869,9 +844,7 @@ or promise.
 TITLE III.
 PARTIES
 TO CIVIL ACTIONS.
-SEc.
-24.
-Every
+SEc. 24. Every
 action
 must
 be
@@ -885,8 +858,7 @@ in interest,
 except
 as otherwise
 provided
-in
-section
+in section
 twenty-six.
 § 25. In the case
 of an assignment of a thing
@@ -904,8 +876,7 @@ or other
 defense
 now
 allowed;
-but this
-section
+but this section
 shall
 not apply
 to negotiable
@@ -923,8 +894,7 @@ consi-
 deration,
 before
 due.
-§ 26.
-An
+§ 26. An
 executor,
 administrator,
 guardian,
@@ -982,8 +952,7 @@ may be
 sued upon
 i.a
 the same way.
-§ 27.
-Where
+§ 27. Where
 a
 married
 woman
@@ -1040,9 +1009,7 @@ by
 
 her
 next friend.
-§
-28.
-If
+§ 28. If
 a
 husband
 and
@@ -1115,8 +1082,7 @@ person,
 as the
 next
 friend.
-§ 30.
-The
+§ 30. The
 guardian
 or
 the
@@ -1200,8 +1166,7 @@ as directed
 by
 this
 code.
-§ 32.
-The
+§ 32. The
 appointment
 may
 be
@@ -1250,8 +1215,7 @@ on that of
 the plaintiff
 in the
 action.
-§ 33.
-All
+§ 33. All
 persons
 having
 an
@@ -1275,11 +1239,8 @@ except
 as
 otherwise
 provided
-in this
-title.
-§
-34.
-Any
+in this title.
+§ 34. Any
 person
 may
 be
@@ -1379,7 +1340,7 @@ option
 of
 the
 plaintiff.
-38. An
+§ 38. An
 action
 does not abate
 by the
@@ -1440,9 +1401,7 @@ may be continued in the
 name of the ori-
 ginal party; or the court may allow the person to whom the
 transfer is made, to be substituted in the action.
-§
-39.
-The
+§ 39. The
 court
 may
 determine
@@ -1477,8 +1436,7 @@ parties, the
 court must
 order them to
 be brought in.
-§
-40. When,
+§ 40. When,
 in an action
 for the recovery
 of real
@@ -1609,14 +1567,11 @@ order of
 the court for the payment,
 deposit, or delivery
 thereof.
-§
-42.
-The
+§ 42. The
 provisions
 of
 the
-last
-section
+last section
 shall
 be
 applica-
@@ -1656,8 +1611,7 @@ its proceeds,
 the action is brought, was
 taken under such
 process.
-§ 43.
-In
+§ 43. In
 an
 action
 against
@@ -1706,8 +1660,7 @@ IN WHICH
 ACTIONS
 ARE TO
 BE BROUGHT.
-SEc.
-44. Actions
+SEc. 44. Actions
 for the
 following
 causes,
@@ -1742,9 +1695,7 @@ lien,
 or other incumbrance
 or
 charge. 
-§
-45.
-If
+§ 45. If
 the
 real
 property
@@ -1920,8 +1871,7 @@ undertaking
 of a
 public
 officer.
-§ 47.
-An
+§ 47. An
 action
 other
 than
@@ -1932,10 +1882,8 @@ mentioned
 in
 the
 first
-three
-sections
-of this
-chapter,
+three sections
+of this chapter,
 against
 a
 corporation
@@ -1968,8 +1916,7 @@ or
 some
 part thereof,
 arose.
-§
-48. An
+§ 48. An
 action
 against
 a rail
@@ -2006,8 +1953,7 @@ or into which
 the said
 road or
 line passes.
-§ 49.
-An
+§ 49. An
 action
 other
 than
@@ -2017,11 +1963,9 @@ mentioned
 in
 the
 first
-three
-sections
+three sections
 of
-this
-chapter,
+this chapter,
 against
 a turnpike
 road
@@ -2039,7 +1983,7 @@ part
 of
 the road
 lies.
-50. The provisions
+§ 50. The provisions
 of this chapter
 shall not apply
 in
@@ -2070,11 +2014,9 @@ of those
 mentioned
 in the
 first
-three
-sections
+three sections
 of
-this
-chapter,
+this chapter,
 against
 a
 non-resident
@@ -2109,8 +2051,7 @@ where the
 cause, or some
 part thereof,
 arose.
-§ 52.
-Every
+§ 52. Every
 other
 action must
 be
@@ -2130,9 +2071,7 @@ defendants,
 resides, 
 or may
 be summoned.
-§
-53.
-In
+§ 53. In
 all
 cases
 in
@@ -2179,9 +2118,7 @@ OF SUMMONS.
 CHAPTER I.*
 fANNER OF COMIENCING
 CIVIL ACTIONS.
-SEC.
-54.
-A
+SEC. 54. A
 civil
 action
 must
@@ -2369,8 +2306,7 @@ according
 to
 the
 provisions
-of
-title
+of title
 four,
 a
 summons
@@ -2388,8 +2324,7 @@ at
 the
 plaintiff's
 request.
-§ 58.
-Where
+§ 58. Where
 the time
 for bringing
 parties
@@ -2457,9 +2392,7 @@ CHAPTER
 II.
 SERVICE OF SUMMONS.
 Actual Service.
-SEc.
-60.
-The
+SEc. 60. The
 summons
 shall
 be
@@ -2526,9 +2459,7 @@ return
 shall
 be verified by oath
 or affirmation.
-§
-61.
-The
+§ 61. The
 service
 shall
 be
@@ -2551,9 +2482,7 @@ time
 before
 the- return
 day.
-§
-62.
-In
+§ 62. In
 all
 cases,
 the
@@ -2566,8 +2495,7 @@ and
 manner
 of
 service.
-§ 63.
-The
+§ 63. The
 officer
 to
 whom
@@ -2579,8 +2507,7 @@ return the
 same at the
 time therein
 stated.
-64.
-An
+§ 64. An
 acknowledgment
 on
 the
@@ -2595,9 +2522,7 @@ of a
 defendant,
 is equivalent
 to a service.
-§
-65.
-A
+§ 65. A
 summons
 against
 a
@@ -2674,8 +2599,7 @@ having a managing agent in this territory, the service
 may
 be upon
 such agent.
-§
-68. When
+§ 68. When
 the defendant
 is
 a minor
@@ -2753,9 +2677,7 @@ case of
 adults.
 Constructive
 Service.
-§
-69.
-Service
+§ 69. Service
 may
 be
 made
@@ -2772,8 +2694,7 @@ under
 the
 forty-fourth
 and
-forty-fifth
-sections
+forty-fifth sections
 of
 this code,
 where
@@ -2932,8 +2853,7 @@ concealed
 therein
 with the
 like intent.
-§ 70.
-Before
+§ 70. Before
 service
 can
 be
@@ -2969,8 +2889,7 @@ of
 those
 mentioned
 in
-the preceding
-section.
+the preceding section.
 When
 such
 affidavit
@@ -2986,8 +2905,7 @@ to make
 service
 by
 publication.
-§ 71.
-The
+§ 71. The
 publication
 must
 be
@@ -3061,8 +2979,7 @@ they
 are required
 to
 answer.
-§ 72.
-Service
+§ 72. Service
 by
 publication
 shall
@@ -3085,8 +3002,7 @@ time
 prescribed
 in
 the
-preceding 
-section;
+preceding section;
 and
 such
 service
@@ -3115,8 +3031,7 @@ person
 knowing
 the
 same.
-73.
-In all
+§ 73. In all
 cases
 where
 service
@@ -3141,8 +3056,7 @@ be made
 out
 of
 the territory.
-§ 74.
-A
+§ 74. A
 party
 against
 whom
@@ -3285,9 +3199,7 @@ proceeding
 
 under
 
-this
-
-section,
+this section,
 
 nor
 
@@ -3297,9 +3209,7 @@ they
 
 affect
 
-the
-
-title
+the title
 of
 any
 property
@@ -3322,8 +3232,7 @@ or order,
 as
 provided
 by
-this
-section,
+this section,
 shall
 be
 allowed
@@ -3351,8 +3260,7 @@ court
 and make
 his
 defense.
-§ 15.
-In actions
+§ 75. In actions
 where it
 shall be
 necessary
@@ -3423,9 +3331,7 @@ not be
 less
 than
 four weeks.
-§
-16.
-Where
+§ 76. Where
 the
 action
 is
@@ -3510,9 +3416,7 @@ can be acquired by third
 persons in the subject
 matter
 thereof, as against the plaintiff's title.
-§
-78.
-When
+§ 78. When
 any
 part
 of
@@ -3563,8 +3467,7 @@ as a
 notice, so as
 to charge
 third persons
-as provided in the preceding
-section. It shall
+as provided in the preceding section. It shall
 operate as such
 notice,
 without record,
@@ -3579,9 +3482,7 @@ in force, which does
 not require such record.
 TITLE VI.
 JOINDER IN ACTIONS.
-§
-79.
-The
+§ 79. The
 plaintiff
 may
 unite
@@ -3717,9 +3618,7 @@ IN PLEADING
 AND AMENDMENTS.
 CHAPTER I.
 PLEADINGS IN GENERAL.
-SEc.
-81.
-The
+SEc. 81. The
 pleadings
 are
 tOe
@@ -3732,9 +3631,7 @@ of the facts, constituting
 their respective
 claims
 and defenses.
-§
-82.
-The
+§ 82. The
 rules
 of
 pleading,
@@ -3781,9 +3678,7 @@ by
 this
 
 code.
-§
-83.
-The
+§ 83. The
 only
 pleadings
 allowed,
@@ -3803,9 +3698,7 @@ plaintiff.
 CHAPTER
 II.
 THE PETIrION.
-SEc.
-84.
-The
+SEc. 84. The
 petition
 must
 contain,
@@ -3879,9 +3772,7 @@ to
 be
 computed,
 shall also be stated.
-§
-85.
-Where
+§ 85. Where
 the
 petition
 contains
@@ -3896,8 +3787,7 @@ stated and numbered.
 CHAPTER
 III.
 DEMURRER.
-SEc.
-86. The
+SEc. 86. The
 defendant
 may demur
 to
@@ -3958,8 +3848,7 @@ a
 
 cause
 of action.
-§ 87.
-The
+§ 87. The
 demurrer
 shall
 specify
@@ -4038,9 +3927,7 @@ sufficient
 to constitute
 a cause
 of action.
-§
-89.
-When
+§ 89. When
 a demurrer
 is
 sustained
@@ -4097,8 +3984,7 @@ in
 without
 further
 service.
-§ 90.
-The defendant
+§ 90. The defendant
 may
 demur
 to one or
@@ -4120,9 +4006,7 @@ residue.
 CHAPTER
 IV.
 ANSWER.
-SEC.
-91.
-The
+SEC. 91. The
 answer
 shall
 contain,
@@ -4158,8 +4042,7 @@ and concise
 language
 and without
 repetition.
-§
-92. The
+§ 92. The
 defendant
 may
 set forth
@@ -4199,14 +4082,12 @@ which
 they are
 intended
 to answer.
-§
-93. The
+§ 93. The
 counter
 claim,
 mentioned
 in
-the last
-section,
+the last section,
 must
 be one
 existing
@@ -4240,9 +4121,7 @@ of the
 plaintiff's claim, or
 connected with the subject
 of the action.
-§
-94.
-If
+§ 94. If
 the
 defendant
 omit
@@ -4259,8 +4138,7 @@ the plaintiff in
 any
 subsequent
 action thereon;
-but this
-section shall
+but this section shall
 not apply
 to
 causes
@@ -4280,9 +4158,7 @@ ninety-five and
 one
 hundred
 and eighteen.
-§
-95.
-When
+§ 95. When
 it
 appears
 that
@@ -4318,8 +4194,7 @@ out of the answer,
 and made the subject
 of a
 separate action.
-§ 96.
-A
+§ 96. A
 set-off
 can
 only
@@ -4346,9 +4221,7 @@ decision
 of
 the
 court.
-§
-97.
-When
+§ 97. When
 it
 appears
 that
@@ -4387,8 +4260,7 @@ unless
 permitted
 to use
 it as a set-off.
-§ 98.
-When
+§ 98. When
 cross
 demands
 have
@@ -4429,9 +4301,7 @@ must be deemed
 compensated, so far as
 they equal
 each other.
-.§
-99.
-The
+§ 99. The
 guardian
 of
 an
@@ -4457,15 +4327,13 @@ such defendant.
 CHAPTER
 V.
 REPLY.
-SEc.
-100. There
+SEc. 100. There
 shall be no
 reply, except
 upon the allegation
 
 of a counter-claim or set-off in the answer.
-§ 101.
-When
+§ 101. When
 the
 answer
 contains
@@ -4510,8 +4378,7 @@ residue.
 CHAPTER VI.
 GENERAL
 RULES OF PLEADING.
-§ 102.
-The
+§ 102. The
 answer
 or the
 demurrer
@@ -4531,12 +4398,10 @@ adopted
 the court
 in which the
 action is pending.
-§ 103.
-The court, or
+§ 103. The court, or
 the judge thereof
 in vacation,
 for 
-0 
 good cause shown, may extend the
 time for filing an ans-teeex
 wer
@@ -4549,9 +4414,7 @@ as
 may
 be
 just.
-§
-104.
-Every
+§ 104. Every
 pleading
 in
 a
@@ -4566,8 +4429,7 @@ by
 the party
 or his
 attorney. 
-§ 105.
-Every
+§ 105. Every
 pleading
 of
 fact must
@@ -4604,8 +4466,7 @@ party.
 § 106. The
 verification
 mentioned
-in the last
-section, shall
+in the last section, shall
 not be required
 to the answer
 of a guardian
@@ -4636,8 +4497,7 @@ together, the affidavit
 may be made
 by any one 
 such parties.
-§ 108.
-The
+§ 108. The
 affidavit
 shall
 be
@@ -4657,8 +4517,7 @@ the
 pleading
 to 
 true.
-§ 109.
-In all
+§ 109. In all
 cases where
 the party
 pleading
@@ -4703,8 +4562,6 @@ be filed
 with the pleading intended
 to be verified
 thereby.
-0
-1 
 § 110. The
 affidavit
 verifying
@@ -4767,8 +4624,7 @@ and that
 he
 was such
 officer.
-§
-111. The verification
+§ 111. The verification
 of the
 pleading does
 not apply
@@ -4782,9 +4638,7 @@ founded
 on contracts
 express or implied, for the payment of money
 only.
-§
-112.
-When
+§ 112. When
 the
 affidavit
 is
@@ -4883,13 +4737,10 @@ substantial
 justice
 between
 the parties.
-§
-114. All fictions
+§ 114. All fictions
 in pleading
 are abolished.
-115.
-The
-title
+§ 115. The title
 of
 a
 cause
@@ -4901,9 +4752,7 @@ in
 any
 of
 Its stages.
-§
-116.
-If
+§ 116. If
 the
 action,
 counter-claim
@@ -4949,8 +4798,7 @@ the reason
 thereof must
 be shown
 in the pleading.
-§117-
-If
+§ 117. If
 redundant,
 scandalous
 or
@@ -5075,8 +4923,7 @@ given
 or made. If such allegation be controverted, the party
 pleading must establish, on the trial, the facts conferring
 jurisdiction.
-§ 120.
-In
+§ 120. In
 pleading
 the
 performance
@@ -5111,9 +4958,7 @@ party
 pleading
 must 
 establish, on the trial, the facts showing such performance.
-§
-121.
-In
+§ 121. In
 an
 action,
 counter-claim
@@ -5172,8 +5017,7 @@ as they may
 be, which
 fix their
 liability.
-§ 122.
-In pleading
+§ 122. In pleading
 a private
 statute,
 or
@@ -5225,16 +5069,13 @@ was published
 or spoken
 of
 him.
-§
-124.
-In
+§ 124. In
 the
 actions
 mentioned
 in
 the
-last
-section,
+last section,
 the
 defendapt
 may
@@ -5264,8 +5105,7 @@ or
 ie
 may 
 prove either.
-§ 125.
-In an action
+§ 125. In an action
 for
 the recovery
 of real
@@ -5280,16 +5120,13 @@ will enable
 an officer holding
 an execution
 to identify it. 
-§
-126.
-Every
+§ 126. Every
 material
 allegation
 of
 the
 petition
-not COn-Every
-troverted
+not COntroverted
 by the answer,
 and every
 material
@@ -5360,8 +5197,7 @@ true,
 by failure
 to controvert
 them.
-§ 127.
-A material
+§ 127. A material
 allegation
 in a
 pleading,
@@ -5393,9 +5229,7 @@ without
 leaving it
 insufficient.
 of
-§
-128.
-Neither
+§ 128. Neither
 presumptions
 of
 law,
@@ -5411,8 +5245,7 @@ be stated
 in
 the
 pleading.
-§ 129.
-If an
+§ 129. If an
 original
 pleading
 be
@@ -5432,9 +5265,7 @@ IN
 PLEADING,
 AND
 AMENDMENTS.
-SEC.
-130.
-No variance
+SEC. 130. No variance
 between
 the
 allegation
@@ -5496,8 +5327,7 @@ to be amended, upon
 such
 terms as
 may be just.
-§
-131. When
+§ 131. When
 the
 variance
 is not
@@ -5505,8 +5335,7 @@ material,
 as provided
 in
 the
-last
-section,
+last section,
 the
 court
 may
@@ -5521,8 +5350,7 @@ and may order an immediate
 amendment
 without
 costs.
-§ 132.
-When,
+§ 132. When,
 however,
 the allegation
 of
@@ -5555,8 +5383,7 @@ and meaning, it is
 not to be deemed a
 case of variance
 within the last two sections, but a failure of proof.
-§ 133.
-The plaintiff
+§ 133. The plaintiff
 may
 amend
 his petition
@@ -5591,9 +5418,7 @@ thereto,
 as to
 the original
 petition.
-§
-134.
-At
+§ 134. At
 any
 time
 within
@@ -5642,8 +5467,7 @@ not
 de,
 mur for
 delay.
-§ 136.
-The
+§ 136. The
 court may,
 before
 judgment,
@@ -5689,8 +5513,7 @@ thereto,
 
 by
 amendment.
-§ 137.
-The
+§ 137. The
 court,
 in
 every
@@ -5716,8 +5539,7 @@ or affected, by
 reason
 of such error
 or defect.
-§
-138. If the
+§ 138. If the
 demurrer
 be sustained,
 the
@@ -5728,9 +5550,7 @@ if the defect can be
 remedied, by way of 
 amendment, with, or without costs, as the court in its diS-allowed.
 cretion shall direct.
-§
-139.
-When
+§ 139. When
 either
 party
 shall
@@ -5750,8 +5570,7 @@ trial in consequence
 thereof, a continuance
 may be granted
 to some day in term, or to another term of the court.
-§ 140.
-When the
+§ 140. When the
 plaintiff
 shall be
 ignorant
@@ -5774,8 +5593,7 @@ and a copy
 thereof must
 be served personally
 upon the defendant.
-§ 141.
-Either
+§ 141. Either
 party
 may
 be
@@ -5812,9 +5630,7 @@ the
 former
 petition,
 answer, or reply.
-§
-142.
-Whenever
+§ 142. Whenever
 two or
 more
 actions
@@ -5864,10 +5680,10 @@ judge
 thereof
 in
 vacation.
-PROVISIONAL
-REMEDIES.
+
 Chapter
-1.-ARREST
+PROVISIONAL
+REMEDIES.1.-ARREST
 AND
 BAIL.
 2.-REPLEVIN OF PROPERTY.
@@ -5881,8 +5697,7 @@ CHAPTER
 I.
 ARREST
 AND BAIL.
-SEC.
-144. A defendant
+SEC. 144. A defendant
 in a
 civil action,
 can be arrested
@@ -5935,8 +5750,7 @@ for
 crimes,
 misdemeanors
 or offenses.
-§ 145.
-An
+§ 145. An
 order
 for
 the
@@ -6048,8 +5862,7 @@ claimed to justify the belief
 in the existence of one or
 ;nore of the
 above particulars.
-§
-146. The
+§ 146. The
 order
 of arrest
 shall
@@ -6070,8 +5883,7 @@ not exceeding double the
 amount
 of the plaintiff's claim
 stated in the affidavit.
-§ 147.
-The order
+§ 147. The order
 may
 be made
 to accompany
@@ -6085,8 +5897,7 @@ time
 afterwards,
 before
 judgment. 
-§ 148.
-The
+§ 148. The
 order
 of arrest
 shall
@@ -6125,8 +5936,7 @@ of the summons;
 when issued afterwards,
 it shall be fifteen
 days after it issued.
-§ 150.
-The sheriff
+§ 150. The sheriff
 shall
 execute
 the order
@@ -6146,8 +5956,7 @@ than the county in
 which the action
 is
 brought.
-§ 151.
-The defendant,
+§ 151. The defendant,
 when arrested,
 shall be committed
 by
@@ -6190,8 +5999,7 @@ any
 be
 given,
 shall be released.
-§ 153.
-The
+§ 153. The
 sheriff
 shall
 pay into
@@ -6214,9 +6022,7 @@ pay it on the first day of the next term, if received during
 a
 term, he shall pay
 it in immediately.
-§
-154.
-The
+§ 154. The
 court
 shall
 make
@@ -6271,9 +6077,7 @@ thereto,
 as
 in other cases
 of delinquency.
-§
-156.
-Bail
+§ 156. Bail
 may
 be
 given
@@ -6333,9 +6137,7 @@ clerk's
 office,
 and the defendant
 discharged.
-§
-157.
-The
+§ 157. The
 plaintiff,
 or
 his
@@ -6392,8 +6194,7 @@ of
 arrest, the plaintiff
 shall have notice
 thereof.
-§ 158.
-On
+§ 158. On
 the
 receipt
 of
@@ -6477,9 +6278,7 @@ as the
 officer
 may
 think proper.
-§
-160.
-If
+§ 160. If
 the
 officer
 finds
@@ -6495,9 +6294,7 @@ and the sheriff shall there-
 upon
 be discharged
 from liability.
-§
-161.
-If
+§ 161. If
 after
 being
 arrested,
@@ -6529,9 +6326,7 @@ sufficient
 bail at
 any time
 before judgment.
-§
-162.
-The
+§ 162. The
 return
 of
 "
@@ -6579,8 +6374,7 @@ on his
 official bond,
 as in other
 cases of delinquency.
-§ 163.
-The bail adjudged
+§ 163. The bail adjudged
 insufficient,
 shall be liable
 to
@@ -6591,8 +6385,7 @@ he may
 sustain by
 reason ofble 
 such insufficiency.
-§ 164.
-The
+§ 164. The
 liability
 of
 the bail
@@ -6603,8 +6396,7 @@ the
 man-
 ner
 provided
-in
-section
+in section
 one
 hundred
 and
@@ -6621,8 +6413,7 @@ and the
 bail
 can be
 proceeded against in an action only.
-§ 165.
-A surrender
+§ 165. A surrender
 of the defendant
 to the
 sheriff of the
@@ -6713,13 +6504,11 @@ sheriff of the county
 in which he was
 arrested in
 execution thereof,
-within the time fixed in
-section one hundred
+within the time fixed in section one hundred
 
 and sixty-five, or within such further time as the court
 in which the action is pending may allow.
-§ 168.
-If money
+§ 168. If money
 be
 deposited
 by the
@@ -6752,8 +6541,7 @@ direct that the
 money deposited be refunded to the defendant, and it must
 be refunded
 accordingly,
-§ 169.
-If,
+§ 169. If,
 at
 any
 time
@@ -6795,18 +6583,14 @@ on such proceedings, the
 judgment against the principal
 shall be reversed, and the principal discharged from said
 suit, the bail shall be discharged from the undertaking.
-§ 170.
-A defendant
+§ 170. A defendant
 arrested
 may
 at any
 time before
 the
-vacate,,
-o '"
-n
-justif
-ication
+vacate,
+justification
 of
 the bail,
 apply
@@ -6841,8 +6625,6 @@ be
 given
 to the
 plaintiff.
--
-5 1l.
 If
 the
 motion
@@ -6876,9 +6658,7 @@ of
 arrest
 was
 made.
-§
-172.
-Any
+§ 172. Any
 person
 causing
 another
@@ -6899,8 +6679,7 @@ costs of the case.
 CHAPTER
 II.
 REPLEVIN OF PROPERTY.
-SEC. 173.
-The plaintiff
+SEC. 173. The plaintiff
 in an action to
 recover, the
 pos-
@@ -6924,10 +6703,8 @@ claim
 the
 ininediate
 delivery of such property,
-as provided in this
-chapter.
-§ 174.
-An
+as provided in this chapter.
+§ 174. An
 order
 for the
 delivery
@@ -6959,8 +6736,7 @@ in
 which
 
 the
-.I
-acti n is brought, when there is filed in his office an affidavit
+action is brought, when there is filed in his office an affidavit
 
 of the
 plaintiff, his agent
@@ -6988,12 +6764,10 @@ against him, or by virtue
 of an
 order of delivery
 issued
-under this
-chapter, or
+under this chapter, or
 any
 other mesne or final process issued against the plaintiff.
-§
-175. The order for the delivery
+§ 175. The order for the delivery
 of the property to the
 laitiff
 shall
@@ -7021,9 +6795,7 @@ to
 make return
 of the order on a
 day to be named therein.
-§
-176.
-The
+§ 176. The
 return
 day
 of
@@ -7041,9 +6813,7 @@ it shall be twenty
 days
 after it
 issued.
-§
-177.
-The
+§ 177. The
 sheriff
 shall
 execute
@@ -7109,7 +6879,7 @@ and damages, which
 may be awarded against
 him.
 The undertaking shall be returnedwith the order.
-§ 17 9. For the purpose of
+§ 179. For the purpose of
 fixing the amount of the under-
 taking,
 the
@@ -7126,13 +6896,11 @@ of two or more responsible
 persons, whom the
 sheriff or other officer shall swear truly to assess the value
 thereof.
-§ 180.
-If
+§ 180. If
 the
 undertaking,
 required
-by
-section
+by section
 one
 hun-officers'dutyand
 dred and
@@ -7176,8 +6944,7 @@ security,
 be shall be liable
 to the defendant
 in damages.
-§ 181.
-The defendant
+§ 181. The defendant
 may,
 within
 twenty-four
@@ -7220,8 +6987,7 @@ when the undertaking, required by section one hundred
 and seventy-eight,
 has been
 given.
-§ 182.
-If
+§ 182. If
 the property
 have
 been
@@ -7280,9 +7046,7 @@ the defendant
 as are right and proper;
 for which, with costs
 of suit, the court shall render judgment for the defendant.
-§
-183.
-In
+§ 183. In
 all
 cases,
 when
@@ -7335,8 +7099,7 @@ court shall
 render judgment
 for the
 defendant.
-§
-184. In
+§ 184. In
 all cases,
 when
 the property
@@ -7378,8 +7141,7 @@ court shall
 render judgment
 for de-
 fendant.
-§
-185. When the
+§ 185. When the
 property claimed
 has not
 been taken,
@@ -7432,8 +7194,7 @@ all costs
 made by
 taking
 the same.
-186.
-An order
+§ 186. An order
 may
 be-directed
 to
@@ -7456,9 +7217,7 @@ only one of them shall be
 taxed in the costs, unless other-
 wise ordered
 by the court.
-§
-187.
-The
+§ 187. The
 sheriff
 or
 other
@@ -7503,8 +7262,7 @@ the same.
 § 188. No suit shall
 be instituted on the undertaking
 given
-under
-section
+under section
 one
 hundred
 and
@@ -7524,9 +7282,7 @@ to levy and
 make the amount of such
 judg-
 ment, can not be found in the county.
-§
-189.
-Any
+§ 189. Any
 order
 for
 the
@@ -7609,8 +7365,7 @@ SuDsIVISIoN
 1.
 Grounds
 of Attachment.
-SEC.
-190. The
+SEC. 190. The
 plaintiff,
 in a civil
 action for
@@ -7833,9 +7588,7 @@ decree.
 SUBDIVISION
 2.
 Iloo an Attachment is obtained.
-§
-191.
-An
+§ 191. An
 order
 of
 attachment
@@ -7859,8 +7612,7 @@ case
 mentioned
 in
 the
-preceding
-section,
+preceding section,
 when
 there
 is filed
@@ -7897,8 +7649,7 @@ at-
 tachment,
 enumerated
 in the
-preceding
-section.
+preceding section.
 § 192. When the
 ground of the
 attachment
@@ -7983,8 +7734,7 @@ be
 wrongfully
 
 obtained.
-§ 193.
-The
+§ 193. The
 order
 of attachment
 shall
@@ -8060,8 +7810,7 @@ not exceeding
 fifty
 
 dollars.
-§ 194.
-Orders
+§ 194. Orders
 of attachment
 may be
 issued
@@ -8124,8 +7873,7 @@ SUBDiViSON 3.
 Execution
 and Return
 thereof.
-§ 196.
-When
+§ 196. When
 there
 are several
 orders
@@ -8145,8 +7893,7 @@ were
 received
 by the
 sheriff. 
-§ 197.
-The
+§ 197. The
 order
 of
 attachment
@@ -8227,8 +7974,7 @@ custody, and
 hold it subject
 to the
 order of the court.
-(198.
-The
+§ 198. The
 sheriff
 shall deliver
 the
@@ -8312,8 +8058,7 @@ remitted
 to
 the person
 so bound.
-§ 199.
-When
+§ 199. When
 the
 plaintiff,
 his
@@ -8388,9 +8133,7 @@ two
 hundred
 and
 thirteen.
-§
-200.
-The
+§ 200. The
 copy
 of
 the
@@ -8502,8 +8245,7 @@ the
 manner prescribed in section
 one hundred and
 ninetynine.
-§
-203. The officer shall'return upon
+§ 203. The officer shall'return upon
 every order of attachinent
 
 what he has done under it. The return must show
@@ -8520,8 +8262,7 @@ must be stated. The
 officer shall, also, return
 with
 the order all undertakings given under it.
-§ 204.
-An
+§ 204. An
 order
 of
 attachment
@@ -8599,9 +8340,7 @@ his hands by virtue
 of his appointment, at
 such times and
 in such manner as'the court may direct.
-§
-206.
-Such
+§ 206. Such
 receiver
 shall
 take
@@ -8667,8 +8406,7 @@ shall
 be impaired
 or
 affected.
-§ 207.
-Such
+§ 207. Such
 receiver
 shall
 forthwith
@@ -8717,8 +8455,7 @@ from them
 to the defendant in attachment,
 and shall account
 therefor to the receiver.
-§ 208.
-Such
+§ 208. Such
 receiver
 shall,
 when required,
@@ -8777,8 +8514,7 @@ commence and maintain actions in his own name as such
 officer.
 He may be required to give security, other than his offi-
 cial undertaking.
-§ 210.
-The court
+§ 210. The court
 shall
 make
 proper
@@ -8850,8 +8586,7 @@ in lieu
 of bail.
 SumDIvisioN 5.
 Proceedings upon Attachment.
-§ 211.
-If
+§ 211. If
 the
 defendant,
 or
@@ -8871,7 +8606,6 @@ an
 undertaking
 to
 be 
-'. 
 executed to the plaintiff by one or more sureties, resident
 in
 the
@@ -8902,8 +8636,7 @@ for any property
 of the defendant
 in his hands.
 § 212. The undertaking
-mentioned in the last
-section,
+mentioned in the last section,
 may,
 in
 vacation,
@@ -8931,8 +8664,7 @@ approved ly the officer
 before whom the undertaking
 is
 executed.
-§ 213.
-The
+§ 213. The
 garnishee
 shall
 appear
@@ -8980,9 +8712,7 @@ of the
 defendant,
 at or after
 the service of notice.
-§
-214.
-A
+§ 214. A
 garnishee
 may
 pay
@@ -9021,16 +8751,14 @@ the same according to the
 order of
 the court, he shall
 be allowed his costs.
-§ 215.
-If the
+§ 215. If the
 garnishee
 do
 not appear
 in court
 and
 answer,
-as required by
-section two hundred
+as required by section two hundred
 and thirteen,
 the court
 may
@@ -9043,8 +8771,7 @@ as
 for
 a
 contempt.
-§ 216.
-If
+§ 216. If
 the
 garnishee
 appear
@@ -9089,9 +8816,7 @@ sureties, to the effect,
 that the amount shall
 be paid, or the
 property forthcoming, as the court may direct.
-l
-217.
-If
+§ 217. If
 the
 garnishee
 fail
@@ -9133,8 +8858,7 @@ money
 Owing
 into court,
 or give the undertaking
-required in the preceding
-section,
+required in the preceding section,
 the plaintiff may proceed
 against him in an action,
 by filing a petition in
@@ -9250,8 +8974,7 @@ or
 as the court
 may think right
 and proper.
-§ 219.
-If judgment
+§ 219. If judgment
 be
 rendered
 in
@@ -9272,9 +8995,7 @@ shall
 be returned
 to
 him.
-§
-220.
-If judgment
+§ 220. If judgment
 be rendered
 for
 the plaintiff,,
@@ -9312,8 +9033,7 @@ if
 any,
 whether
 held
-by legal or equitable
-title,
+by legal or equitable title,
 as may be
 neces-
 sary
@@ -9408,8 +9128,7 @@ attachments
 as in
 cases
 of contempt.
-§ 222.
-The court
+§ 222. The court
 may order
 the
 sheriff to
@@ -9440,8 +9159,7 @@ as
 he would have
 under an
 order of attachment.
-§ 223.
-If personal
+§ 223. If personal
 property which
 has been attached,
 be
@@ -9477,8 +9195,7 @@ the property
 had been
 seized upon
 execution, and claimed by a third person.
-§ 224.
-Where
+§ 224. Where
 several
 attachments
 are
@@ -9512,9 +9229,7 @@ and priori-
 ties of the several attachments.
 SUBDIVIsIoN 6.
 General Provisions.
-§
-225.
-From
+§ 225. From
 the
 time
 of the
@@ -9561,8 +9276,7 @@ foreign corporation,
 his legal representatives
 shalll be made
 parties to the action.
-§ 226.
-The
+§ 226. The
 defendant
 may,
 at any
@@ -9624,9 +9338,7 @@ sufficient
 security
 is given
 by the plaintiff.
-§
-227.
-The
+§ 227. The
 defendant
 may
 at
@@ -9689,8 +9401,7 @@ ATTACHMENTS
 IN
 CERTAIN
 ACTIONS.
-SEC.
-229. 1. Where
+SEC. 229. 1. Where
 a debtor
 has
 sold, conveyed,
@@ -9770,14 +9481,12 @@ against
 the property
 of the
 debtor.
-§ 230.
-The
+§ 230. The
 attachment
 authorized
 by
 the
-last
-section,
+last section,
 may
 be
 granted
@@ -9812,8 +9521,7 @@ and the existence of some
 one of
 the grounds
 for attachment, enumerated
-in the preceding
-section.
+in the preceding section.
 § 231. If the court
 or judge refuse to grant
 an order of
@@ -9845,8 +9553,7 @@ satisfy the plaintiff's claim
 and the
 probable costs
 of the action.
-§ 233.
-The order of attachment,
+§ 233. The order of attachment,
 as granted by the court
 or judge, shall not
 be issued by the clerk, until
@@ -9858,8 +9565,7 @@ the plaintiff, as
 is directed by section one
 hundred and
 ninety-two.
-§ 234.
-The plaintiff
+§ 234. The plaintiff
 in such
 action
 shall
@@ -9877,17 +9583,13 @@ ings
 on attachment may
 be conducted without
 delay.
-§
-235.
-The
+§ 235. The
 proceedings
 in
 the
-first
-article
+first article
 of
-this
-chapter
+this chapter
 subsequent
 to section
 one
@@ -9907,9 +9609,7 @@ this article.
 CHAPTER
 IV.
 INJUNCTION.
-SEC.
-236.
-The
+SEC. 236. The
 injunction
 provided
 by
@@ -9942,8 +9642,7 @@ The
 writ
 of injunction
 is abolished.
-§ 237.
-When
+§ 237. When
 it
 appears
 by
@@ -10040,9 +9739,7 @@ case where it is
 specially
 authorized by
 statute.
-§
-238.
-The
+§ 238. The
 injunction
 may
 be
@@ -10101,8 +9798,7 @@ plaintiff
 is
 entitled
 thereto.
-§ 239.
-If
+§ 239. If
 the
 court
 or
@@ -10145,8 +9841,7 @@ may,
 in the meantime,
 restrain
 such party.
-§ 240.
-An injunction
+§ 240. An injunction
 shall
 not
 be granted
@@ -10194,8 +9889,7 @@ injunction
 ought
 not to have
 been granted.
-§ 242.
-The
+§ 242. The
 order
 of injunction
 shall
@@ -10260,8 +9954,7 @@ injunction,
 shall be notice
 of its
 allowance.
-§ 243.
-Where
+§ 243. Where
 the
 injunction
 is allowed
@@ -10314,8 +10007,7 @@ plicant
 therefor,
 is
 executed.
-§ 245.
-No
+§ 245. No
 injunction
 shall
 be
@@ -10359,9 +10051,7 @@ inferior
 jurisdiction
 or any judge
 thereof.
-§
-246.
-An
+§  246. An
 injunction
 granted
 by
@@ -10437,8 +10127,7 @@ with
 such requirement,
 or be otherwise
 legally discharged.
-§
-247. A party
+§ 247. A party
 enjoined
 may,
 at any
@@ -10486,8 +10175,7 @@ time
 sufficient
 security
 be given.
-§ 248.
-On the bearing
+§ 248. On the bearing
 of an
 application
 for an
@@ -10536,9 +10224,7 @@ injunction, shall be returned to the office of the clerk of the
 court in which the action is brought, and recorded
 and
 obeyed, as if made by the court.
-§
-250.
-If
+§ 250. If
 the
 application
 be
@@ -10575,8 +10261,7 @@ the
 manner
 prescribed 
 in
-this
-chapter.
+this chapter.
 CHAPTER
 V.
 RECEIVERS
@@ -10686,9 +10371,7 @@ or in imminent danger of insolvency, or has forfeited
 its corporate rights.
 6. In all other cases where receivers have heretofore
 been appointed by the usages of courts of equity.
-§
-253.
-No
+§ 253. No
 party,
 or
 attorney,
@@ -10700,8 +10383,7 @@ an
 action,
 shall be appointed
 receiver therein. 
-§ 254.
-Before entering
+§ 254. Before entering
 upon
 his duties,
 the receiver
@@ -10731,9 +10413,7 @@ discharge
 the duties of receiver in the action, and obey the orders of
 the
 court therein.
-§
-255.
-The
+§ 255. The
 receiver
 has,
 under
@@ -10759,9 +10439,7 @@ the same, to make transfers and generally to do such
 acts respecting
 the property as the
 court may authorize.
-§
-256.
-Funds
+§ 256. Funds
 in
 the
 hands
@@ -10814,8 +10492,7 @@ security,
 subject
 to the further direction
 of the court.
-§ 258.
-Whenever,
+§ 258. Whenever,
 in the exercise
 of its authority,
 a court
@@ -10854,8 +10531,7 @@ Chapter
 2.-TRIAL.
 CHAPTER I.
 ISSUE.
-SEc. 259.
-Issues arise
+SEc. 259. Issues arise
 on the pleadings,
 where a
 fact, or
@@ -10920,10 +10596,7 @@ REFEREES.
 ARTICLE I.
 TRIAL
 IN GENERAL.
-.
-SEc.
-261.
-A
+SEc. 261. A
 trial
 is
 a
@@ -10935,12 +10608,11 @@ issues,
 whether of law
 or of fact, in an
 action.
-262. Issues of law
+§ 262. Issues of law
 must be tried by the court,
 unless
 referred as
-provided in
-section two
+provided in section two
 hundred and
 eighty.
 I8sues of fact
@@ -10970,8 +10642,7 @@ ordered
 as
 hereinafter
 provided.
-§ 263.
-All
+§ 263. All
 other
 issues
 of fact
@@ -11016,9 +10687,7 @@ SUBDIVISION
 1.
 Formation
 of the Jury.
-SEc.
-264.
-The
+SEc. 264. The
 general
 mode
 of summoning,
@@ -11033,7 +10702,7 @@ code.
 SUBDIVISION 2.
 Conduct
 of the Trial.
-§ 264. When the jury has been sworn, the trial shall 
+§ 265. When the jury has been sworn, the trial shall 
 proceed
 in
 the
@@ -11113,8 +10782,7 @@ order.
 is
 
 concluded.
-§ 266.
-Whenever,
+§ 266. Whenever,
 in
 the opinion
 of the
@@ -11256,8 +10924,7 @@ their deliberations
 or the
 verdict agreed
 upon.
-§
-268. If
+§ 268. If
 the jury
 are permitted
 to separate
@@ -11353,8 +11020,7 @@ or after notice
 to the
 parties of
 their counsel.
-§ 270.
-The
+§ 270. The
 jury
 may be
 discharged
@@ -11416,8 +11082,7 @@ as
 the
 court
 may direct.
-§ 272.
-When
+§ 272. When
 the
 jury
 have
@@ -11456,9 +11121,7 @@ jury must again
 be sent
 out for further
 deliberation.
-§
-273.
-The
+§ 273. The
 verdict
 shall
 be
@@ -11514,8 +11177,7 @@ corrected by the
 court.
 SUBDIvIsIoN 3.
 Verdict.
-§ 274.
-The
+§ 274. The
 verdict
 of
 a
@@ -11570,9 +11232,7 @@ but to draw
 from them
 conclu-
 sions of law.
-§
-275.
-In
+§ 275. In
 every
 action
 for
@@ -11642,9 +11302,7 @@ ver-
 dict must assess the amount of recovery.
 ARTICLE. III.
 TRIAL BY THE COURT.
-SEc.
-278.
-The
+SEc. 278. The
 trial
 by
 jury
@@ -11708,8 +11366,7 @@ court
 entered
 on the
 journal.
-it 279.
-Upon the
+§ 279. Upon the
 trial of questions
 of fact by
 the court,
@@ -11775,9 +11432,7 @@ IV.
 TBIAL
 BY
 REFEREES.
-SEC.
-280.
-All
+SEC. 280. All
 or
 any
 of
@@ -11928,8 +11583,7 @@ in any
 stage
 of
 an action.
-§ 282.
-The
+§ 282. The
 trial before
 referees
 is
@@ -12043,8 +11697,7 @@ the effect
 of
 a special
 verdict.
-§ 283.
-In all
+§ 283. In all
 cases
 of reference,
 the parties,
@@ -12095,8 +11748,7 @@ to
 the reference
 and
 referees. 
-§ 285.
-It shall be the duty of
+§ 285. It shall be the duty of
 the referees to sign
 any
 true exceptions taken to any order or decision by themalgn 
@@ -12107,8 +11759,7 @@ with their
 report to
 the court making
 the reference.
-§
-286. A judge
+§ 286. A judge
 in vacation, upon
 the written
 consent of 
@@ -12141,7 +11792,7 @@ with the clerk
 of the court with the
 other papers in the
 case.
-. § 287. The referees must
+§ 287. The referees must
 be sworn or affirmed well and
 faithfully
 to hear
@@ -12169,8 +11820,7 @@ any
 person authorized
 to take
 depositions.
-§ 288.
-The
+§ 288. The
 referees
 shall
 be
@@ -12192,9 +11842,7 @@ the costs in
 the case.
 ARTICLE V.
 EXCEPTIONS.
-SEc.
-289.
-An
+SEc. 289. An
 exception
 is
 an
@@ -12261,8 +11909,7 @@ be taken by
 the party causing
 to be
 noted, at the end of the decision, that he excepts. 
-§ 293.
-Where
+§ 293. Where
 the
 decision
 is
@@ -12343,9 +11990,7 @@ then
 be signed
 as
 aforesaid.
-§
-294.
-No
+§ 294. No
 exception
 shall
 be
@@ -12365,8 +12010,7 @@ rights
 the
 party
 ex-
-§ 295.
-Exceptions
+§ 295. Exceptions
 taken-
 to
 the
@@ -12406,9 +12050,7 @@ are recorded.
 ARTICLE
 VI.
 NEW TRIAL.
-SEC.
-296.
-A new
+SEC. 296. A new
 trial
 is a,
 re-examination
@@ -12549,8 +12191,7 @@ and
 excepted
 to
 by the party making the, application.
-§ 297.
-A
+§ 297. A
 new
 trial
 shall
@@ -12608,8 +12249,7 @@ trial, shall be within three days after the verdict or deci-
 sion was
 rendered, unless unavoidably
 prevented.
-§ 299.
-The
+§ 299. The
 application
 must
 be
@@ -12625,8 +12265,7 @@ the motion.
 The
 causes
 enumerated
-in
-subdivisions
+in subdivisions
 two,
 three
 and
@@ -12671,8 +12310,7 @@ or
 publication
 made
 as prescribed
-in
-section
+in section
 seventy-one.
 The facts
 stated in the petition shall
@@ -12709,9 +12347,7 @@ ARTICLE
 VII.
 GENERAL
 PROVISIONS.
-SEC.
-301.
-Whenever
+SEC. 301. Whenever
 damages
 are
 recoverable
@@ -12731,8 +12367,7 @@ action
 established. 
 § 302. The
 provisions
-of this
-title respecting
+of this title respecting
 trials by
 jury,
 apply,
@@ -12749,8 +12384,7 @@ by the court.
 '
 ARTICLE VIII.
 TIME OF TRIAL.
-SEc.
-303. The
+SEc. 303. The
 clerk
 of
 the
@@ -12770,8 +12404,7 @@ appearance
 docket,
 the
 trial docket, the journal, the record, and execution docket.
-§ 304.
-On
+§ 304. On
 the
 appearance
 docket,
@@ -12796,9 +12429,7 @@ the time of the return
 thereof by the officer and
 his return thereon, the time of filing the petition, and all
 subsequent pleadings.
-§
-305.
-The
+§ 305. The
 trial
 docket
 shall
@@ -12839,8 +12470,7 @@ issue shall be considered
 as made up, when
 either party is
 in default of a pleading.
-§ 306.
-The
+§ 306. The
 trial
 of
 an
@@ -12913,8 +12543,7 @@ time
 for
 hearing
 motions.
-§ 307.
-In
+§ 307. In
 any
 civil
 action
@@ -12972,9 +12601,7 @@ the
 court shall
 continue
 the same.
-§
-308.
-In
+§ 308. In
 actions
 wherein
 default
@@ -13013,9 +12640,7 @@ days
 before
 the
 term.
-§
-309.
-The
+§ 309. The
 clerk
 shall
 make
@@ -13084,8 +12709,7 @@ for the
 purpose of lessening
 
 its credibility.
-§ 312.
-A
+§ 312. A
 person
 who
 has
@@ -13102,9 +12726,7 @@ the opposite
 party, as
 hereafter
 provided.
-§
-313.
-The
+§ 313. The
 husband
 can
 in
@@ -13134,9 +12756,7 @@ witnesses
 for
 each
 other.
-§
-314.
-Neither
+§ 314. Neither
 husband
 nor
 wife
@@ -13168,8 +12788,7 @@ made
 while
 the marriage
 subsisted.
-§ 315.
-No practicing
+§ 315. No practicing
 attorney,
 counselor,
 physician,
@@ -13213,12 +12832,10 @@ of
 practice
 or
 discipline.
-§ 316.
-The
+§ 316. The
 prohibitions
 in the
-prpceding
-sections
+prpceding sections
 do
 not
 apply
@@ -13235,8 +12852,7 @@ respect-byparty,
 ive provisions are
 enacted waives the rights
 thereby conferred.
-§ 317.
-A public
+§ 317. A public
 officer
 can not
 be examined
@@ -13248,8 +12864,7 @@ to him in official
 confidence, when the
 public
 interests would suffer by the disclosure.
-§ 318.
-A witness
+§ 318. A witness
 is
 not excused
 from answering
@@ -13266,8 +12881,7 @@ be thereby
 sub-
 jected to
 a civil liability.
-§ 319.
-But when
+§ 319. But when
 the matter sought
 to be elicited
 would
@@ -13290,7 +12904,7 @@ to inswer,
 except
 as
 provided in the next section.
-§ 320. A-
+§ 320. A
 witness may be
 interrogated
 as to his previous
@@ -13305,8 +12919,7 @@ of
 such
 con-
 viction is competent except the record thereof.
-§ 321.
-When
+§ 321. When
 part
 of
 an act,
@@ -13363,8 +12976,7 @@ the
 same, may
 also be given
 in evidencc.
-§ 322.
-When
+§ 322. When
 an
 instrument
 consists
@@ -13381,9 +12993,8 @@ former
 controls
 the
 latter,
-where the tivo are intonsistent. 3
-§ 323.
-When
+where the tivo are intonsistent.
+§ 323. When
 the
 terms
 of an agreement
@@ -13407,8 +13018,7 @@ to
 suppose
 the other
 understood it.
-§ 324.
-Historical
+§ 324. Historical
 works,
 books
 of science
@@ -13436,8 +13046,7 @@ of
 general notoriety
 or
 interest.
-§ 825.
-When
+§ 325. When
 a subscribing
 witness
 denies,
@@ -13457,8 +13066,7 @@ name
 is subscribed as such witness, its execution may be proved
 by other
 evidence.
-§ 326.
-Evidence
+§ 326. Evidence
 respecting
 handwriting
 may be
@@ -13468,9 +13076,7 @@ by experts or by the jury
 with writings
 of the same persons,
 which are proved to be genuine.
-§
-321.
-The
+§ 327. The
 entries
 and
 other
@@ -13519,7 +13125,7 @@ in the performance of a duty
 specially
 enjoined
 by law.
-§ 328, Books of account,
+§ 328. Books of account,
 containing charges by one
 party
 against
@@ -13580,8 +13186,7 @@ to the effect that
 they believe
 them just and true, or a sufficient reason must be given why
 the verification is not made.
-§ 329.
-Every private
+§ 329. Every private
 writing,
 except
 a last
@@ -13606,8 +13211,7 @@ or
 acknowledgment
 of conveyances of real property, may be read in evidence
 without further proof.
-§ 330.
-The
+§ 330. The
 judge
 of
 the
@@ -13647,8 +13251,7 @@ and to
 take place
 before another
 judge.
-§ 331.
-The
+§ 331. The
 usual
 protest
 by
@@ -13677,9 +13280,7 @@ II.
 MEANS
 OF PRODUCING
 WITNESSES.
-SEC.
-332.
-The
+SEC. 332. The
 clerks
 of
 the
@@ -13761,9 +13362,7 @@ shall be allowed
 except
 when served
 by an officer.
-§
-333.
-The
+§ 333. The
 subpoena
 shall
 be
@@ -13807,8 +13406,7 @@ to
 produce
 as
 evidence.
-§ 334.
-When the attendance of the
+§ 334. When the attendance of the
 witness before any
 officer,
 authorized
@@ -13821,8 +13419,7 @@ sub-
 pcena
 shall be issued by such
 officer.
-§ 335.
-The subpcena
+§ 335. The subpcena
 shall be
 served
 either
@@ -13847,9 +13444,7 @@ name
 of
 any
 other witness.
-§
-336.
-A
+§ 336. A
 witness
 shall
 not
@@ -13902,8 +13497,7 @@ is
 served
 upon
 him.
-§
-337. A
+§ 337. A
 witness
 may
 demand
@@ -13947,8 +13541,7 @@ stated
 in
 the
 return.
-§ 338.
-Disobedience
+§ 338. Disobedience
 of
 a
 subpcena,
@@ -13996,8 +13589,7 @@ attendance
 or testimony
 is
 required.
-§ 339.
-When
+§ 339. When
 a witness
 fails
 to attend
@@ -14168,12 +13760,10 @@ not
 issue
 against
 him.
-§ 340.
-The punishment
+§ 340. The punishment
 for the contempt
 mentioned
-in
-section
+in section
 three
 hundred
 and
@@ -14294,8 +13884,7 @@ by his failure
 to attend,
 or his refusal to be sworn,
 testify or give his deposition.
-§ 341.
-A witness
+§ 341. A witness
 so imprisoned
 by an officer
 before whom
@@ -14319,8 +13908,7 @@ court,
 who shalljudge.
 have power to discharge him if it appear that his imprison-
 ment is illegal.
-§ 342.
-Every attachment
+§ 342. Every attachment
 for the arrest
 or order of com-
 mitment
@@ -14389,9 +13977,7 @@ charge, who shall afford
 reasonable facilities for the
 taking
 of the deposition.
-§
-345.
-A
+§ 345. A
 witness
 shall
 not
@@ -14415,8 +14001,7 @@ obedience
 to
 a
 subpcena. 
-§ 346.
-At
+§ 346. At
 the
 commencement
 of
@@ -14440,8 +14025,7 @@ ance in obedience
 to a subpoena, and
 if the'same be not
 paid, he shall not be required to remain.
-§ 347.
-Before
+§ 347. Before
 testifying,
 the witness
 shall
@@ -14460,9 +14044,7 @@ OF WITNESSES.
 Article
 1.-AFFIAvrr.
 2.-DEPOSITION.
-SEC.
-348.
-The
+SEC. 348. The
 testimony
 of witnesses
 is
@@ -14477,8 +14059,7 @@ affidavit.
 deposition.
 3. By oral
 examination.
-§ 349.
-An
+§ 349. An
 affidavit
 is
 a
@@ -14492,9 +14073,7 @@ notice
 to the
 adverse
 party.
-§
-350.
-A deposition
+§ 350. A deposition
 is
 a written
 declaration
@@ -14512,9 +14091,7 @@ and cross-examine;
 or, upon
 Written
 interrogatories.
-§
-351.
-An
+§ 351. An
 oral
 examination
 is
@@ -14546,9 +14123,7 @@ witness.
 ARTICLE
 I.
 AFFIDAVIT.
-SEc.
-352.
-An
+SEc. 352. An
 affidavit
 may
 be
@@ -14584,8 +14159,7 @@ motion,
 and in any
 other case permitted
 by law.
-§ 353.
-An affidavit
+§ 353. An affidavit
 may be
 made in and
 out of
@@ -14624,9 +14198,7 @@ To
 DEPOSITIONS.
 SUBDIVISION 1.
 When to be used.
-SEc.
-354.
-The
+SEc. 354. The
 deposition
 of
 any
@@ -14707,9 +14279,7 @@ by a special commission; but depositions taken in this
 territory to be used therein, must-be taken by an officer or
 person whose authority is derived
 within the territory.
-§
-357.
-Depositions
+§ 357. Depositions
 may
 be
 taken
@@ -14735,9 +14305,7 @@ or any
 person authorized by
 a special commission
 from this territory.
-§
-358.
-The officer
+§ 358. The officer
 before
 whom
 depositions
@@ -14803,8 +14371,7 @@ SUBDIvIsIoN
 Manner of taking
 and akthenticating
 them.
-§ 360.
-Prior
+§ 360. Prior
 to
 the taking
 of any
@@ -14866,8 +14433,7 @@ adjourned
 from
 day to
 day. .
-§ 361.
-When
+§ 361. When
 the
 party
 against
@@ -14947,12 +14513,9 @@ proved
 in the
 manner
 prescribed
-in
-section
+in section
 seventy-two.
-§
-362.
-The
+§ 362. The
 deposition
 shall
 be
@@ -14975,8 +14538,7 @@ and
 subscribed
 by the
 witness.
-§
-363. The
+§ 363. The
 deposition
 so taken
 shall be
@@ -15031,14 +14593,11 @@ of a
 party to the action
 or proceeding,
 or his attorney.
-§
-364.
-Depositions
+§ 364. Depositions
 taken
 pursuant
 to
-this
-article,
+this article,
 shall
 be
 admitted
@@ -15107,8 +14666,7 @@ judicial
 officer,
 arbitrator,
 or referees.
-§ 365.
-When
+§ 365. When
 a
 deposition
 has
@@ -15147,12 +14705,10 @@ thereto
 under
 the provisions
 of this title.
-§ 366.
-Depositions
+§ 366. Depositions
 taken
 pursuant
-to this
-article,
+to this article,
 by
 any
 judicial
@@ -15279,8 +14835,7 @@ That the deposition was taken at the time and place specified
 
 in
 tl e notice.
-§ 368.
-When a deposition
+§ 368. When a deposition
 is offered to be read
 in evidence,
 
@@ -15298,8 +14853,7 @@ fifty-
 four, the attendance
 of the witness can
 not be procured.
-§
-369. Every
+§ 369. Every
 deposition
 intended
 to be
@@ -15310,9 +14864,7 @@ the trial, must be filed at
 least one day before the
 day
 of trial.
-§
-370.
-The
+§ 370. The
 following
 fees
 shall
@@ -15382,8 +14934,7 @@ until the said
 fees are paid.
 SUBDIVISION 4.
 Exceptions to Depositions.
-§371.
-Exceptions
+§ 371. Exceptions
 to
 depositions
 shall
@@ -15396,8 +14947,7 @@ of objection,
 and filed with
 the 
 papers in the cause.
-§ 372.
-No exception
+§ 372. No exception
 other
 than
 for
@@ -15416,8 +14966,7 @@ before
 the 
 commencement
 of the trial.
-§ 373.
-The
+§ 373. The
 court
 shall,
 on
@@ -15457,8 +15006,7 @@ PRODUCTION
 OF
 DOCUMENTS,
 AND GENERAL PROVISIONS. -
-SEc.
-375. Either
+SEc. 375. Either
 party
 may
 exhibit
@@ -15527,9 +15075,7 @@ unless it shall appear to the satisfaction of the
 court
 that there were good
 reasons for the refusal.
-§
-876.
-Either
+§ 376. Either
 party
 or
 his
@@ -15578,9 +15124,7 @@ it to be.
 This section is not to be construed to prevent a party
 from compelling another to produce any book, paper or
 document when he is examined as a witness.
-§
-377.
-Either
+§ 377. Either
 party
 or
 his attorney,
@@ -15634,8 +15178,7 @@ a copy
 has
 been
 refused.
-This
-section
+This section
 shall
 not
 apply
@@ -15743,9 +15286,7 @@ V.
 PROCEEDINGS
 TO PERPETUATE
 TESTIMONY.
-SEC.
-379.
-The
+SEC. 379. The
 testimony
 of
 a witness
@@ -15755,8 +15296,7 @@ in
 the
 following
 manner:
-§ 380.
-The
+§ 380. The
 applicant
 shall
 file in
@@ -15879,9 +15419,7 @@ to
 be
 the
 plaintiff.
-*
-381.
-The
+§ 381. The
 court,
 or
 judge
@@ -15932,8 +15470,7 @@ they
 shall
 be
 notified.
-3 382.
-When
+§ 382. When
 it
 appears
 satisfactorily
@@ -16020,9 +15557,7 @@ a reasonable
 fee therefor,
 to be taxed in the
 bill of costs.
-§
-383.
-Such
+§ 383. Such
 depositions
 shall
 be
@@ -16045,9 +15580,7 @@ office of the court in
 which the petition
 
 was filed.
-§
-384.
-The
+§ 384. The
 court
 or
 judge,
@@ -16129,9 +15662,7 @@ to depositions
 taken
 pending
 an action.
-§
-385.
-The
+§ 385. The
 applicant
 shall
 pay
@@ -16142,9 +15673,7 @@ proceedings
 
 under
 
-this
-
-chapter.
+this chapter.
 TITLE
 XI.
 JUDGMENT.
@@ -16243,8 +15772,7 @@ defendants, or to proceed in the cause against the defendant,
 or
 
 defendants served.
-§ 388.
-An
+§ 388. An
 action
 may
 be
@@ -16279,8 +15807,7 @@ other cases, upon the trial
 of the action, the decision
 must
 be upon the merits.
-§ 389.
-In any case
+§ 389. In any case
 where a
 set-off or
 counter-claim
@@ -16338,9 +15865,7 @@ CHAPTER III.
 JUDGMENT
 BY
 CONFESSION.
-SEC.
-391.
-Any
+SEC. 391. Any
 person
 indebted,
 or
@@ -16365,8 +15890,7 @@ judgment
 shall
 be entered
 accordingly.
-§ 392.
-The
+§ 392. The
 debt
 or cause
 of action
@@ -16450,8 +15974,7 @@ which the
 judgment
 shall be
 entered.
-§ 395.
-If any person
+§ 395. If any person
 be in custody
 in a
 civil action,
@@ -16550,8 +16073,7 @@ reserved
 for
 future argument
 or consideration.
-397.
-Where
+§ 397. Where
 the
 verdict
 is
@@ -16571,9 +16093,7 @@ or
 where
 the court has ordered the case to be reserved, it shall
 order what judgment shall be entered.
-§
-398.
-Where,
+§ 398. Where,
 upon
 the
 statements
@@ -16596,9 +16116,7 @@ though
 a verdict
 has
 been found against such party.
-§
-399.
-If
+§ 399. If
 a
 counter-claim
 or
@@ -16634,8 +16152,7 @@ any
 affirmative
 re-
 lief, judgment shall be given therefor.,
-400.
-It shall
+§ 400. It shall
 not
 be
 necessary
@@ -16662,8 +16179,7 @@ in
 which,
 but
 for
-this
-section,
+this section,
 such
 reservation
 would
@@ -16682,8 +16198,7 @@ against
 such order
 or
 judgment.
-401.
-All judgments
+§ 401. All judgments
 and orders must
 be entered
 on the
@@ -16719,8 +16234,7 @@ or some
 part thereof
 be
 duly waived.
-§ 403.
-He
+§ 403. He
 shall make
 up such
 record
@@ -16795,8 +16309,7 @@ made up and recorded within such time as it may direct.
 When they are made up, and upon examination found to be
 correct, the presiding judge of such court shall subscribe
 the same.
-§ 406.
-No
+§ 406. No
 complete
 record
 shall
@@ -16830,8 +16343,7 @@ shall declare
 their agreement that no
 record shall be
 made.
-§ 407.
-In cases where an action
+§ 407. In cases where an action
 has been dismissed
 without
 prejudice to
@@ -16929,12 +16441,10 @@ may act as a
 master commissioner
 under
 the
-second
-subdivision
+second subdivision
 of
 the
-preceding
-section.
+preceding section.
 Sales
 made
 under
@@ -16984,9 +16494,7 @@ SURVIVE,
 AND ABATEMENT
 OF
 ACTIONS.
-SEC.
-412.
-In
+SEC. 412. In
 addition
 to
 the
@@ -17101,8 +16609,7 @@ or the cessation
 of his
 powers, being
 stated on the record.
-§ 415.
-Where
+§ 415. Where
 one
 of
 several
@@ -17163,8 +16670,7 @@ revived,
 and proceed
 in their
 names.
-§ 417.
-The revivor
+§ 417. The revivor
 shall be, by
 a conditional
 order of
@@ -17181,9 +16687,7 @@ whose powers
 ceased, and proceed in
 favor of, or against
 them.
-§
-418.
-The
+§ 418. The
 order
 may
 be
@@ -17212,9 +16716,7 @@ capacities of his representatives
 or successor, shall
 be
 stated in the order.
-§
-419.
-If
+§ 419. If
 the
 order
 is
@@ -17264,8 +16766,7 @@ ficient cause
 be not shown against
 the revivor, the action
 shall stand reviyed.
-§ 420.
-When
+§ 420. When
 the
 plaintiff
 shall
@@ -17304,8 +16805,7 @@ them, are unknown
 to the affiant, a notice
 may be published
 for four consecutive
-weeks, as provided by
-section seventyone,
+weeks, as provided by section seventyone,
 
 notifying them
 to appear on a day therein
@@ -17370,7 +16870,7 @@ name;
 where it has passed to his heirs or devisees, who could
 support the action if brought anew, the revivor may be in
 their names.
-.§ 422. Upon the death
+§ 422. Upon the death
 of a defendant in an action,
 wherein
 the
@@ -17406,9 +16906,7 @@ defendant,
 or both, when the right of action or any part thereof survives
 
 against them.
-§
-423.
-Upon
+§ 423. Upon
 the
 death
 of
@@ -17450,11 +16948,9 @@ made,
 in the manner
 directed
 in the preceding
-
-sections of
+ sections of
 this title.
-§ 424.
-An
+§ 424. An
 order to
 revive
 an action
@@ -17475,9 +16971,7 @@ unless
 in one year from
 the time it could have
 been first made.
-§
-425.
-An order
+§ 425. An order
 to
 revive
 an action
@@ -17520,8 +17014,7 @@ be
 made
 in the period limited
 in the last action.
-§426.
-When
+§ 426. When
 it
 appears
 to the
@@ -17610,8 +17103,7 @@ CHAPTER II.
 REVIVOR
 AND NEW PARTIES
 TO JUDGMENT.
-SEc.
-429. When
+SEc. 429. When
 a judgment
 is
 recovered
@@ -17669,8 +17161,7 @@ the representatives,
 real
 or
 personal, or both, of such deceased party.
-§ 431.
-If a judgment
+§ 431. If a judgment
 become
 dormant,
 it may
@@ -17720,9 +17211,7 @@ JUSTICES
 OF
 THE
 PEACE.
-SEC.
-432.
-Executions
+SEC. 432. Executions
 shall
 be
 deemed
@@ -17749,8 +17238,7 @@ counties
 at
 the same
 time.
-§ 433.
-Executions
+§ 433. Executions
 are
 of
 three
@@ -17783,9 +17271,7 @@ CHAPTER I.
 EXECUTIONS AGAINST
 'THE PROPERTY OF THE
 JUDGMENT DEBTOR.
-SEC.
-434.
-Lands,
+SEC. 434. Lands,
 tenements,
 goods
 and
@@ -17817,9 +17303,7 @@ as
 hereinafter
 
 provided.
-§
-435.
-The
+§ 435. The
 lands
 and
 tenements
@@ -17876,9 +17360,7 @@ they shall
 be
 seized
 in execution.
-§
-436.
-If
+§ 436. If
 execution
 shall
 not
@@ -17936,9 +17418,7 @@ to operate
 as
 a lien on the estate
 of the judgment debtor.
-§
-437.
-The
+§ 437. The
 writ
 of
 execution
@@ -18116,10 +17596,8 @@ on the
 lands
 of the
 judgment
-debtor.'
-I
-db439.
-The
+debtor.
+§ 439. The
 officer
 to
 whom
@@ -18170,8 +17648,7 @@ debtor,
 which
 may be liable to satisfy
 the judgment.
-§
-440. If the
+§ 440. If the
 officer,
 by virtue
 of any writ
@@ -18311,9 +17788,7 @@ the party,
 his
 agent
 or attorney.
-§
-441.
-The
+§ 441. The
 jury
 summoned
 as
@@ -18468,8 +17943,7 @@ executed,
 as
 provided
 in
-the next
-section)
+the next section)
 shall
 be
 a justification
@@ -18626,8 +18100,7 @@ shall
 not
 be liable to the
 claimant therefor.
-443.
-In
+§ 443. In
 all
 cases
 where
@@ -18882,8 +18355,7 @@ and place of sale be
 advertised, as hereinbefore
 
 provided.
-§ 445.
-When
+§ 445. When
 any
 writ
 shall
@@ -18946,9 +18418,7 @@ of the judgment debtor,
 sufficient to satisfy
 the
 debt.
-J 
-§ 446.
-If
+§ 446. If
 execution
 be levied
 on lands
@@ -18996,9 +18466,7 @@ value
 in money,
 of said.
 property.
-§
-447.
-The
+§ 447. The
 officer
 receiving
 such
@@ -19102,8 +18570,7 @@ act;
 and
 nothing
 in
-this
-section
+this section
 contained
 shall
 in
@@ -19173,9 +18640,7 @@ so levied on,
 shall be
 sold without
 valuation.
-§
-450.
-Lands
+§ 450. Lands
 and
 tenements,
 taken
@@ -19244,8 +18709,7 @@ be set aside, on motion,
 by the court to which
 the execution
 is returnable.
-§ 451.
-If the
+§ 451. If the
 court,
 upon
 the
@@ -19283,8 +18747,7 @@ conformity
 to the
 provisions
 of
-this
-title,
+this title,
 the court
 shall
 direct
@@ -19344,8 +18807,7 @@ agreeably
 to the order
 of
 the court.
-§ 452.
-The sheriff,
+§ 452. The sheriff,
 or other
 officer,
 who,
@@ -19531,9 +18993,7 @@ such officer, so much
 money as will be sufficient
 to discharge
 the fees of the printer, for publishing such notice.
-§
-454.
-Before
+§ 454. Before
 any
 officer
 shall
@@ -19629,9 +19089,7 @@ may be
 issued
 to sell the lands so
 levied upon.
-§
-457.
-In
+§ 457. In
 all
 cases,
 when
@@ -19748,8 +19206,7 @@ chargeable
 
 thereon, as near as may be, according to the appraised
 value of each separate parcel of said real property.
-§ 458.
-If
+§ 458. If
 the term
 of
 service
@@ -19869,9 +19326,7 @@ who
 made
 sale, had executed
 the same.
-§
-459.
-If on
+§ 459. If on
 any
 sale
 made
@@ -19911,8 +19366,7 @@ on
 demand, pay the balance to the defendant in execution or
 his
 legal representatives.
-§ 460.
-If any
+§ 460. If any
 judgment
 or judgments,
 in satisfaction
@@ -19933,8 +19387,7 @@ such reversal
 shall
 not defeat
 or affect 
-the
-title
+the title
 of
 the
 purchaser
@@ -19948,8 +19401,7 @@ moneys, for which such lands or tenements were sold, with
 lawful interest
 from the day
 of sale.
-§ 461.
-No
+§ 461. No
 judgment
 heretofore
 rendered,
@@ -20139,8 +19591,7 @@ issue,
 as the
 case
 may require.
-§ 462.
-The
+§ 462. The
 sheriff
 or
 other
@@ -20171,8 +19622,7 @@ days
 from
 the date
 thereof.
-§ 463.
-In all cases
+§ 463. In all cases
 where judgment
 is rendered
 in any
@@ -20296,8 +19746,7 @@ summoned to appraise
 real estate
 eunder
 the provisions
-Qf this
-chapter,
+Qf this chapter,
 shall
 be
 allowed
@@ -20337,9 +19786,7 @@ forfeit and pay the sum of fifty cents, for every such neg-
 lect, unless he can render a reasonable excuse. Such sum
 shall be collected by said justice, and paid into the county
 treasury for the use of the county.
-§
-465.
-If
+§ 465. If
 any
 sheriff
 or
@@ -20551,8 +19998,7 @@ shall not be liable for
 any amercement or penalty,
 
 if it do not reach the office in due time.
-§ 469.
-No
+§ 469. No
 sheriff
 shall
 forward
@@ -20621,8 +20067,7 @@ same
 force
 and 
 effect as a judgment.
-§
-470. Each and
+§ 470. Each and
 every surety
 of any sheriff
 or other of- 
@@ -20666,8 +20111,7 @@ proceeding against such
 sheriff
 or other officer, by attachment
 at his election.
-§ 471.
-In
+§ 471. In
 cases
 where
 a sheriff,
@@ -20698,8 +20142,7 @@ PROCEEDINGS
 IN
 AID
 OF EXECUTION.
-§ 472.
-When a judgment
+§ 472. When a judgment
 debtor
 has not
 personal or
@@ -20781,13 +20224,10 @@ or
 
 as
 in
-this
-chapter
+this chapter
 pre-
 scribed.
-§
-473.
-When
+§ 473. When
 an
 execution
 against
@@ -20889,8 +20329,7 @@ the execution
 wus
 
 issued.
-§ 474.
-After
+§ 474. After
 the
 issuing
 of
@@ -20971,8 +20410,7 @@ provided
 in
 the
 last
-two
-sections,
+two sections,
 the judge may,
 upon proof to his satisfaction,
 by affidavit
@@ -21074,15 +20512,13 @@ of the county by warrant
 of the judge, as for
 a
 contempt.
-§
-476. No
+§ 476. No
 person
 shall,
 on
 examination
 pursuant
-to this
-chapter,
+to this chapter,
 be
 excused
 from
@@ -21109,8 +20545,7 @@ evidence against
 him in
 a prosecution
 for such fraud.
-§
-477. After
+§ 477. After
 the issuing
 of execution
 against
@@ -21193,9 +20628,7 @@ concerning the same.
 The judge may also, in his discretion, require notice of such
 proceeding to be given to any party in the action, in such
 manner as may seem to him proper.
-§
-479.
-Witnesses
+§ 479. Witnesses
 may
 be
 required
@@ -21220,8 +20653,7 @@ this chapter, in the
 same manner as upon
 the trial of an
 issue.
-§ 480.
-The
+§ 480. The
 party
 or
 witness
@@ -21246,8 +20678,7 @@ the answer
 must be on the oath
 of an officer
 thereof.
-§ 481.
-The
+§ 481. The
 judge
 may
 order
@@ -21283,8 +20714,7 @@ family supported
 wholly or
 partly by his
 labor.
-§ 482.
-The
+§ 482. The
 judge
 may
 also,
@@ -21308,9 +20738,7 @@ debtor, not
 exempt by law, and
 any interference
 therewith.
-§
-483.
-If
+§ 483. If
 the
 sheriff
 shall
@@ -21349,8 +20777,7 @@ same effect, before acting
 as such receiver.
 
 The undertaking
-mentioned in this
-section shall be
+mentioned in this section shall be
 to the Territory of
 Nebraska, and actions
 may be prosecuted
@@ -21359,8 +20786,7 @@ for a breach thereof, by any person interested, in the
 same manner
 as upon a sheriff's
 official bond.
-§ 484.
-The
+§ 484. The
 judge,
 or
 referee,
@@ -21381,8 +20807,7 @@ until
 they
 are
 completed.
-§ 485.
-The judge
+§ 485. The judge
 may, in his
 discretion,
 order a reference
@@ -21395,7 +20820,6 @@ theJudge.
 evidence
 of the
 facts.
-,
 § 486. If any person,
 party or witness, disobey
 an order
@@ -21411,8 +20835,7 @@ by the
 judge
 as for
 contempt.
-§ 487.
-The
+§ 487. The
 orders
 to
 judgment
@@ -21476,8 +20899,7 @@ of
 filing
 the
 same.
-§ 488.
-The
+§ 488. The
 judge
 shall
 allow
@@ -21518,8 +20940,7 @@ to
 pay
 the
 same.
-§ 489.
-The
+§ 489. The
 county
 judge
 shall
@@ -21551,8 +20972,7 @@ III.
 EXECUTIONS
 AGAINST
 THE PERSON.
-SEC. 490.
-An execution
+SEC. 490. An execution
 against
 the person
 of the
@@ -21571,8 +20991,7 @@ or be
 discharged
 according
 to law.
-§ 491.
-An
+§ 491. An
 execution
 against
 the person
@@ -21674,8 +21093,7 @@ not been set
 aside, as
 improperly
 made.
-b.492.
-An
+§ 492. An
 execution
 against
 the
@@ -21719,11 +21137,8 @@ mentioned
 in
 
 the last
-preceding
-section.
-§
-493.
-A
+preceding section.
+§ 493. A
 justice
 of
 the
@@ -21755,8 +21170,7 @@ by
 the like
 affidavit
 and evidence.
-§ 494.
-In
+§ 494. In
 all
 cases
 in which
@@ -21788,8 +21202,7 @@ may
 issue
 of
 course.
-§
-495. Any
+§ 495. Any
 person
 taken
 in
@@ -21853,8 +21266,7 @@ arrest
 had
 been
 made.
-§ 497.
-If a
+§ 497. If a
 person
 imprisoned
 under
@@ -21874,8 +21286,7 @@ lie shall be discharged from
 such
 r
 imprisonment.
-§ 498.
-In
+§ 498. In
 cases
 of Commitment
 under
@@ -21939,9 +21350,7 @@ be
 just.
 CHAPTER IV.
 EXECUTIONS FOR THE DELIVERY OF REAL PROPERTY.
-SEC.
-499.
-If the
+SEC. 499. If the
 execution
 be
 for
@@ -21961,8 +21370,7 @@ to deliver
 the
 same,'particularly
 describing the
-property, to the party en-
-titled thereto,
+property, to the party entitled thereto,
 and may at the same time
 require the officer to
 satisfy
@@ -22159,8 +21567,7 @@ rendered
 in the
 district
 court.
-§ 503
-Execution
+§ 503. Execution
 may
 be
 issued thereon
@@ -22203,8 +21610,7 @@ as
 in
 other
 cases.
-§ 504.
-The justice
+§ 504. The justice
 of the
 peace shall
 certify
@@ -22398,9 +21804,7 @@ the
 time
 of the
 offer.
-§
-506.
-The
+§ 506. The
 making
 of
 an
@@ -22409,8 +21813,7 @@ pursuant
 to
 the
 provisions
-contained in the foregoing
-section, shall not be a
+contained in the foregoing section, shall not be a
 cause for
 a
 continuance
@@ -22427,9 +21830,7 @@ CHAPTER
 II.
 SUBMITTING
 A CONTROVERSY.
-SEC.
-507.
-Parties
+SEC. 507. Parties
 to
 a question
 which
@@ -22518,8 +21919,7 @@ and
 the judgment
 shall
 constitute the record.
-§ 509.
-The judgment
+§ 509. The judgment
 shall
 be with
 costs, may
@@ -22545,8 +21945,7 @@ OFFER
 TO
 CONFESS
 JUDGMENT.
-SEc.
-510. After
+SEc. 510. After
 an
 action
 for the
@@ -22689,9 +22088,7 @@ in evidence.
 CHAPTER IV.
 MOTIONS
 AND ORDERS.
-SEC.
-512.
-A
+SEC. 512. A
 motion
 is
 an
@@ -22712,9 +22109,7 @@ proceeding,
 or
 one interested
 therein.
-§
-513.
-Several
+§ 513. Several
 objects
 may
 be
@@ -22737,9 +22132,7 @@ the action
 or proceeding
 in which
 it is made.
-§
-514.
-Where
+§ 514. Where
 notice
 of
 a
@@ -22785,14 +22178,11 @@ reasonable time before
 
 the hearing.
 .
-b
-515.
-Notices
+§ 515. Notices
 of motions
 mentioned
 in
-this
-chapter
+this chapter
 may
 be served by a sheriff, coroner or constable, or by any disinterested
 
@@ -22815,8 +22205,7 @@ service
 shall
 be made
 upon each party or his attorney.
-§ 516.
-The
+§ 516. The
 service
 of a
 notice
@@ -22834,9 +22223,7 @@ served
 by an officer, he shall
 be entitled to like
 fees.
-§
-517.
-Motions
+§ 517. Motions
 to
 strike
 pleadings
@@ -22853,9 +22240,7 @@ court or
 judge
 shall direct.
 -
-§
-518.
-Every
+§ 518. Every
 direction
 of
 a
@@ -22868,8 +22253,7 @@ entered
 in writing and not included
 in a judgment,
 is an order.
-§ 519.
-Orders
+§ 519. Orders
 made
 out
 of court,
@@ -22942,10 +22326,8 @@ a summary
 application in an action
 afterjudgment, is a
 final order which
-may be vacated, modified or reversed as provided in this
-title.
-§ 522.
-A judgment
+may be vacated, modified or reversed as provided in this title.
+§ 522. A judgment
 rendered
 or
 final
@@ -22968,8 +22350,7 @@ errors
 appearing
 on
 the record.
-§ 523.
-A judgment
+§ 523. A judgment
 rendered
 or
 final order
@@ -23010,9 +22391,7 @@ court,
 or a
 judge
 thereof.
-§
-524.
-The
+§ 524. The
 proceedings
 to
 obtain
@@ -23079,15 +22458,12 @@ shall be made ten
 days before the end of the
 term, the case
 shall stand for hearing at the term.
-§
-525.
-The
+§ 525. The
 summons
 mentioned
 in
 the
-last
-section,
+last section,
 shall,
 upon
 the written
@@ -23141,9 +22517,7 @@ waive in writing
 the issuing
 or service of the
 summons.
-§
-526.
-The
+§ 526. The
 plaintiff
 in
 error
@@ -23158,8 +22532,7 @@ containing the final judg-
 ment or
 order sought to be reversed,
 vacated or modified.
-§ 527.
-Judges
+§ 527. Judges
 of
 county
 courts,
@@ -23200,8 +22573,7 @@ any person
 interested
 in procuring
 such transcript.
-§ 5V.
-No proceeding
+§ 528. No proceeding
 to reverse,
 vacate
 or modify
@@ -23214,8 +22586,7 @@ as
 provided
 in
 the
-next
-section,
+next section,
 and
 the fourth subdivision
 of this section,
@@ -23386,17 +22757,14 @@ abide
 the
 judgment and pay costs,
 if the same shall be affirmed.
-§
-529.
-Instead
+§ 529. Instead
 of
 the
 undertaking
 prescribed
 in
 the
-second
-subdivision
+second subdivision
 of
 the last section,
 the
@@ -23418,9 +22786,7 @@ or
 order made,
 to abide the judgment
 of appellate court.
-§
-530.
-Before
+§ 530. Before
 the
 written
 undertaking
@@ -23456,9 +22822,7 @@ file the same
 in his office, for the defendant
 in
 error.
-§
-531.
-In
+§ 531. In
 an
 action
 arising
@@ -23493,8 +22857,7 @@ restitution to the plaintiff
 in error of the money
 by him
 received under the judgment.
-§532.
-No proceeding for reversing,
+§ 532. No proceeding for reversing,
 vacating or modify-when
 ing
 judgments
@@ -23520,8 +22883,7 @@ the per-
 son entitled to such proceeding be an infant, a married
 woman, a person of unsound mind, or imprisoned, within
 three years as aforesaid, exclusive of the time of such disability.
-§ 533.
-No proceeding to reverse,
+§ 533. No proceeding to reverse,
 vacate or modify any
 judgment
 rendered,
@@ -23597,8 +22959,7 @@ same time for prosecuting
 the same, before
 
 he is barred,
-as is provided in the last
-section, unless
+as is provided in the last section, unless
 the said judgment has
 been paid off or satisfied prior
 to
@@ -23721,9 +23082,7 @@ by
 the
 supreme
 court.
-§
-535.
-When
+§ 535. When
 a
 judgment,
 or
@@ -23752,12 +23111,9 @@ equally
 divided
 between
 the parties.
-§ 536.
-When a judgment
+§ 536. When a judgment
 or final order
 shall be affirmed
-§
-53.Weaajdmnfofiairdrsalbeafre
 in the supreme court, the said court shall also render judgment
 
 against
@@ -23826,8 +23182,7 @@ the
 mistake,
 neglect
 or omission occurred.
-§ 538.
-Rendering
+§ 538. Rendering
 judgment before
 the action
 stood for
@@ -23893,8 +23248,7 @@ under writs
 of error
 and
 certiorari.
-§ 540.
-If the judgment of a justice
+§ 540. If the judgment of a justice
 of the peace, taken
 On
 error
@@ -23937,8 +23291,7 @@ judgment
 had been rendered
 in the district
 court.
-§
-541. When
+§ 541. When
 the proceedings
 of a justice
 of
@@ -23969,15 +23322,13 @@ cause shall be retained by the
 court for trial and final judgment,
 
 as in cases of appeal.
-PROCEEDINGS
+CHapter 2. PROCEEDINGS
 TO REVERSE,
 VACATE: OR MODIFY JUDGMENTS
 AND ORDERS
 IN THE COURTS IN
 WHICH THEY ARE RENDERED.
-§
-542.
-A
+§ 542. A
 district
 court,
 shall
@@ -24074,8 +23425,7 @@ order on
 the grounds
 mentioned
 in subdivisions 
-four, five, six, seven, eight and nine of the last preceding
-section shall be
+four, five, six, seven, eight and nine of the last preceding section shall be
 by petition verified by affidavit, setting
 forth the judgment, or order, the
 grounds to vacate, or
@@ -24108,8 +23458,7 @@ unless the court or a judge thereof, shall indorse
 upon the
 petition permission
 to issue such summons.
-§ 544.
-The proceedings to correct
+§ 544. The proceedings to correct
 mistakes or omissions 
 of
 the clerk,
@@ -24155,8 +23504,7 @@ days
 of
 the succeeding
 term.
-§ 545.
-The
+§ 545. The
 court
 may
 first
@@ -24179,9 +23527,7 @@ the.validity
 of the
 defense or
 cause of action.
-§
-546.
-A judgment
+§ 546. A judgment
 shall
 not
 be
@@ -24218,9 +23564,7 @@ preserved
 to the
 modified
 judgment.
-§
-547.
-The
+§ 547. The
 party
 seeking
 to
@@ -24250,9 +23594,7 @@ that the party is entitled to have such judgment or
 order
 vacated or
 modified.
-§
-548.
-Wh'en
+§ 548. When
 the judgment
 was
 rendered
@@ -24268,8 +23610,7 @@ to the defendants the same rights of delay he would have
 had if the
 judgment had been rendered
 at the proper time.
-§
-549. Proceedings
+§ 549. Proceedings
 to
 vacate,
 or modify
@@ -24284,8 +23625,7 @@ four, five
 and
 cednsunderhude
 seven
-of
-section
+of section
 five
 hundred
 and forty-two,
@@ -24321,24 +23661,19 @@ ceedings for the causes mentioned in subdivisions three, and
 six,
 of the same section, shall
 be within three years,
-and in
-subdivision
+and in subdivision
 nine
 within one
 year after
 the defendant
 has
 notice of the judgment.
-§
-550.
-The
+§ 550. The
 provisions
 of
-this
-title
+this title
 subsequent
-to
-section
+to section
 five hundred and forty-one
 shall apply to the supreme
 court
@@ -24390,8 +23725,7 @@ first commencing
 on the
 first
 day of January of each year.
-§ 551.
-Cases pending
+§ 551. Cases pending
 in
 appellate
 courts on
@@ -24431,9 +23765,7 @@ TITLE XVII.
 COSTS.
 CHAPTER
 I.
-SEC.
-552.
-In
+SEC. 552. In
 all cases
 in which
 the
@@ -24537,9 +23869,7 @@ judg-
 ment,
 or
 not.
-§
-553.
-An
+§ 553. An
 action
 in
 which
@@ -24550,8 +23880,7 @@ is
 required
 by
 the
-last
-section,
+last section,
 and
 has
 not
@@ -24591,9 +23920,7 @@ for
 costs
 be
 given.
-§
-554:
-If the
+§ 554. If the
 plaintiff
 in
 an
@@ -24626,11 +23953,8 @@ restrictions
 provided
 in the
 two
-preceding
-sections.
-§
-555.
-In
+preceding sections.
+§ 555. In
 an
 action
 in
@@ -24714,8 +24038,7 @@ given
 by
 the
 plaintiff.
-§ 556.
-After
+§ 556. After
 final
 judgment
 has
@@ -24782,8 +24105,7 @@ cases, for the use and benefit
 of the persons entitled
 to such
 costs.
-§ 557.
-If
+§ 557. If
 any
 informer,
 under
@@ -24819,14 +24141,11 @@ it is to
 commence
 the
 same.
-§
-558.
-Where
+§ 558. Where
 defendants
 disclaim
 having
-any
-title
+any title
 or
 interest
 in land
@@ -24848,9 +24167,7 @@ for
 special
 reasons the court
 decide otherwise.
-§
-559.
-Unless
+§ 559. Unless
 othetwise
 providvd
 by
@@ -24874,8 +24191,7 @@ its
 discretion
 may
 direct.
-§ 560.
-Where it is
+§ 560. Where it is
 not otherwise
 provided by this
 and
@@ -24897,8 +24213,7 @@ of money only,- or
 for the recovery of specific
 real
 or personal property.
-§ 561.
-If it
+§ 561. If it
 shall
 appear
 that
@@ -24951,8 +24266,7 @@ in
 the
 last two sections.
 .
-§
-563. In
+§ 563. In
 other
 actions
 the court
@@ -25049,8 +24363,7 @@ I.
 ACTIONS
 CONCERNING REAL
 PROPERTY.
-SEC. 566.
-In an action for the recovery
+SEC. 566. In an action for the recovery
 of real property,
 it
 shall
@@ -25074,8 +24387,7 @@ describing
 the
 same,
 as required
-by
-section
+by section
 one
 hundred and
 twenty-five,
@@ -25096,8 +24408,7 @@ estate
 or ownership
 is
 derived.
-§
-567. It shall
+§ 567. It shall
 be sufficient,
 in
 such action,
@@ -25161,11 +24472,9 @@ what
 is required
 in
 the
-first
-section
+first section
 of
-this
-chapter, 
+this chapter, 
 that
 the defendant
 either denies
@@ -25243,8 +24552,7 @@ on the journal, and
 thereupon the
 judgment shall be vacated, and the action shall stand for
 trial at the next term.
-§ 571.
-No further
+§ 571. No further
 trial can
 be had in
 such action,
@@ -25259,7 +24567,7 @@ shown
 as
 in other
 actions.
-§ 572. The-
+§ 572. The
 parties in an action
 for the recovery of
 property,
@@ -25309,8 +24617,7 @@ waste
 thereon, he is liable to pay three times the damages which
 have resulted from such waste, to the person who is entitled
 to sue therefor.
-§ 574.
-Judgment
+§ 574. Judgment
 of
 forfeiture
 and conviction
@@ -25376,8 +24683,7 @@ or enjoy
 the
 property
 aforesaid.
-§ 577.
-Nothing
+§ 577. Nothing
 herein
 contained
 authorizes
@@ -25400,9 +24706,7 @@ bridge, upon
 the land
 in its immediate
 neighborhood.
-§
-578.
-The
+§ 578. The
 owner
 of
 an
@@ -25430,9 +24734,7 @@ for
 life
 or
 years.
-§
-579.
-An
+§ 579. An
 heir,
 whether
 a
@@ -25462,8 +24764,7 @@ time, unless
 barred by
 the statute
 of limitations.
-580.
-Where
+§ 580. Where
 lands
 or-tenements
 are
@@ -25486,8 +24787,7 @@ occurring
 or existing
 after his
 purchase.
-§ 581.
-This provision is not
+§ 581. This provision is not
 intended to prevent the
 per-
 o son who
@@ -25508,8 +24808,7 @@ of making
 suitable
 repairs
 thereon.
-§ 582.
-But
+§ 582. But
 if
 for this
 purpose
@@ -25531,8 +24830,7 @@ ACTIONS
 ON
 OFFICIAL
 SECURITIES.
-SEC.
-583. When
+SEC. 583. When
 an
 officer,
 executor
@@ -25614,8 +24912,7 @@ by the
 person holding
 the original
 thereof.
-§ 584.
-A
+§ 584. A
 judgment
 in
 favor
@@ -25735,9 +25032,7 @@ its
 judgment, or proceed to the discharge of any of its functions,
 
 it can not control judicial discretion.
-§
-587.
-This
+§ 587. This
 writ
 may
 not
@@ -25753,8 +25048,7 @@ law. It may issue on the
 information of the
 party benefically
 interested.
-§
-588. The
+§ 588. The
 writ is either
 alternative
 or peremptory.
@@ -25826,8 +25120,7 @@ done
 as commanded,
 must
 be omitted.
-§ 589.
-When
+§ 589. When
 the
 right
 to
@@ -25853,9 +25146,7 @@ writ
 must
 be first
 issued.
-§
-590.
-The
+§ 590. The
 motion,
 for
 the
@@ -25883,8 +25174,7 @@ show cause why it should
 not be allowed, or may
 grant the
 writ without notice.
-§ 591.
-The allowance
+§ 591. The allowance
 of the
 writ must
 be
@@ -25916,8 +25206,7 @@ must be served personally upon the defendant. If the defendant
 
 duly served neglect to return the same, he shall be
 proceeded against, as for a contempt.
-§ 592.
-On
+§ 592. On
 the return
 day of
 the
@@ -25930,9 +25219,7 @@ the writ shall have been served, may show cause, by answer
 
 made, in the same manner as an answer to a petition
 in a civil action.
-b
-593.
-If
+§ 593. If
 no
 answer
 be
@@ -25963,8 +25250,7 @@ suffici-
 ency, or may countervail it by proof, either in direct denial
 or by way
 of avoidance.
-§ 594.
-No
+§ 594. No
 other
 pleading
 or written
@@ -26022,8 +25308,7 @@ same
 man-
 ner, as in
 a civil action.
-§ 595.
-If judgment be given for
+§ 595. If judgment be given for
 the plaintiff, he shall re- 
 cover
 the
@@ -26147,6 +25432,7 @@ neglect to
 perform
 the duty
 so enjoined.
+TITLE
 GENERAL PROVISIONS
 APPLICABLE
 TO THE WHOLE
@@ -26170,8 +25456,7 @@ CODE.
 CHAPTER
 I.
 PROCESS.
-SEC. 598.
-The style of
+SEC. 598. The style of
 all process shall
 be " The Territory 
 of
@@ -26287,8 +25572,7 @@ II.
 DUTIES
 OF
 CLERKS.
-SEC.
-601.
+SEC. 601.
 All
 writs
 and
@@ -26350,8 +25634,7 @@ of
 such
 writ
 or process.
-§ 602.
-It is
+§ 602. It is
 the duty
 of the
 clerk of
@@ -26374,8 +25657,7 @@ action
 or
 special
 proceeding.
-§ 603.
-He
+§ 603. He
 shall
 indorse
 upon
@@ -26399,8 +25681,7 @@ the day
 of its
 return to
 his office.
-§ 604.
-He
+§ 604. He
 shall,
 upon the
 return
@@ -26443,7 +25724,7 @@ the court,
 and
 record
 its proceedings.
-606. The provisions
+§ 606. The provisions
 of article 8, of title 9, prescribing
 the
 duties
@@ -26468,8 +25749,7 @@ other
 courts
 of
 record.
-§ 607.
-The
+§ 607. The
 clerk of
 each of
 the courts
@@ -26508,9 +25788,7 @@ CHAPTER
 III.
 DUTIES OF
 SHERIFFS.
-SEC.
-608.
-The
+SEC. 608. The
 sheriff
 shall
 indorse
@@ -26560,8 +25838,7 @@ not exceeding one thousand dollars, and shall be liable to
 the action of any
 person aggrieved by
 such failure.
-§ 610.
-The
+§ 610. The
 sheriff
 shall
 exercise
@@ -26583,8 +25860,7 @@ law.
 CHAPTER
 IV.
 MISCELLANEOUS PROVISIONS.
-SEC. 611.
-Any duty enjoined
+SEC. 611. Any duty enjoined
 by this
 code upon a
 minis-
@@ -26688,8 +25964,7 @@ or more sureties in the same undertaking,
 they must in the
 aggregate have the qualifications prescribed in this sec-
 tion.
-§ 617.
-The
+§ 617. The
 judges
 of
 the
@@ -26795,9 +26070,7 @@ CHAPTER VI.
 PROVISIONS AS
 TO THE OPERATION
 OF THE CODE.
-SEC.
-
-619: Rights
+SEC. 619. Rights
 of civil action
 given, or secured
 by existing
@@ -26823,8 +26096,7 @@ en-]sngintepodd
 this
 code, except
 as provided
-in
-section
+in section
 six hundred
 and
 twenty.
@@ -26851,8 +26123,7 @@ may be adopted,
 so far
 as may
 be necessary to prevent a failure of justice.
-§
-620. Until
+§ 620. Until
 the legislature
 shall
 otherwise
@@ -26904,8 +26175,7 @@ obtained
 by action; but such proceedings may be prosecuted
 
 under the code, whenever it is applicable.
-§ § 621.
-Where,
+§ 621. Where,
 by
 statute,
 a civil
@@ -26993,8 +26263,7 @@ PROVISIONS.
 SEC. 622. The following
 acts and parts of
 acts, are hereby
-repealed:
-Chapters
+repealed: Chapters
 seven,
 eight,
 nine,
@@ -27014,21 +26283,17 @@ twenty-three,
 twenty-nine,
 thirty,
 thirty-one;
-the first twenty-seven
-sections, and
+the first twenty-seven sections, and
 all after the
-fifty-second
-section
+fifty-second section
 of chapter
-thirty-three;
-chapters
+thirty-three; chapters
 thirtyfour
 
 and
 thirty-eight, of the Code
 of Nebraska, approved
-February 13, 1857.
-Chapter seventeen, of
+February 13, 1857. Chapter seventeen, of
 the Code of Nebraska, approved
 January 25th, 1856, entitled " Mechanics' Liens."
 An
@@ -27044,8 +26309,7 @@ shall have at-
 tached,
 by virtue of the provisions
 contained in any
-of the
-chapters
+of the chapters
 above repealed, under
 any cause of action
 accru-
@@ -27065,50 +26329,7 @@ parts of acts,
 inconsistent
 with
 this act, are hereby repealed.
-§ § 623. This act shall take
+§ 623. This act shall take
 effect and be in force, from
 and
 after the 1st day of April, 1859.
-Approved November 1, 1858.
-AN ACT
-Supplemental
-to An Act entitled
-"An Act to Establish
-a Code
-of
-Civil
-Procedure."
-Approved November
-1,
-1858.
-SEc. 1. Be it enacted
-by the Council and House
-of Representatives
-
-of the Territory of Nebraska: That the 22d section
-of the act establishing
-a code of civil procedure,
-passed
-at the present session
-of the legislative
-assembly, be so
-amended
-as to read as
-follows:
-§ 622. This act sball
-take effect and be in
-force, from and
-after
-the let
-day of February,
-A.
-D. 1859.
-§ 2. That
-section 622 of the act
-to which this is supplementary,
-
-be,
-
-and the
-same is, hereby repealed.
-Approved November 4, 1858.
