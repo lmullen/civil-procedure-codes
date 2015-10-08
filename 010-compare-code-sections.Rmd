@@ -2,9 +2,6 @@
 title: "Test comparing sections of codes"
 author: "Lincoln Mullen"
 date: "September 22, 2015"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 ```{r}

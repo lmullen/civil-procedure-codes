@@ -2,26 +2,34 @@
 title: "Calculate minhash pairs manually"
 author: "Lincoln Mullen"
 date: "September 25, 2015"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 As the textreuse package is currently implemented, the `lsh()` function gets bogged down with large numbers of documents. The implementation with the hash package is probably unneccessary; we can do it a lot faster with dplyr. So we will implement a specific solution here before revising the textreuse package. (Thanks for an assist from [Stack Overflow](http://stackoverflow.com/questions/32783727/turn-ordered-pairs-into-unordered-pairs-in-a-data-frame-with-dplyr/32784685#32784685).)
 
 ```{r message=FALSE}
+library("readr")
 library("textreuse")
 library("dplyr")
 library("digest")
 library("stringr")
 library("tidyr")
-library("readr")
 ```
 
 Load the corpus.
 
 ```{r}
-corpus <- readRDS("cache/corpus-n5-minhash-h1500-seed623.rds")
+cache <- "cache/corpus-n5-minhash-h1500-seed623.rds"
+if (!file.exists(cache)) {
+  corpus <- TextReuseCorpus(dir = "legal-codes-split", tokenizer = NULL)
+  wc <- wordcount(corpus)
+  corpus <- corpus[wc > 5]
+  minhash <- minhash_generator(n = 1500, seed = 623)
+  corpus <- tokenize(corpus, tokenizer = tokenize_ngrams, n = 5,
+                     hash_func = minhash, keep_tokens = TRUE)
+  saveRDS(corpus, file = cache)
+} else {
+  corpus <- readRDS(cache)
+}
 ```
 
 ```{r}

@@ -2,9 +2,6 @@
 title: "Candidates for whole codes"
 author: "Lincoln Mullen"
 date: "September 21, 2015"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 The goal for this document is to decide on the comparison measure to be used. 

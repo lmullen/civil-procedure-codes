@@ -2,9 +2,6 @@
 title: "Network of all codes based on sections borrowed"
 author: "Lincoln Mullen"
 date: "September 26, 2015"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 Earlier we made a network graph of all codes using ratio of matches in a code to code comparison. Now lets make a network graph based on sections borrowed.

@@ -2,9 +2,6 @@
 title: "Best matches for code sections"
 author: "Lincoln Mullen"
 date: "September 25, 2015"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 ```{r message=FALSE}

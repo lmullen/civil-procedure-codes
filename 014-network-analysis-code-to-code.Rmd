@@ -2,9 +2,6 @@
 title: "Network analysis of code to code comparison"
 author: "Lincoln Mullen"
 date: "September 24, 2015"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 ```{r message=FALSE}
