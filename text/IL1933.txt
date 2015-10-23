@@ -1,6 +1,6 @@
 ARTICLE I. SCOPE AND NATURE OF ACT
 
-SECTION 1. (Scope of Act.) The provisions of this Act shall
+§ 1. The provisions of this Act shall
 apply to all civil proceedings, both at law and in equity, unless their
 application is otherwise herein expressly limited, in courts of record,
 except in attachment, ejectment, eminent domain, forcible entry and’
@@ -9,7 +9,7 @@ replevin, or other actions in which the procedure is regulated by special
 statutes. As to all matters not regulated by statute or rule of court, the
 practice at common law and in equity shall prevail.
 
-§ 2. (Supreme Court to have power to make rules.) (1) The
+§ 2. The
 Supreme Court of this State shall have power to make rules of pleading,
 practice and procedure for the City, County, Circuit, Superior, Appellate
 and Supreme Courts supplementary to but not inconsistent with the
@@ -23,17 +23,17 @@ may make such rules regulating dockets, calendars, and the conduct of
 
 the business of such courts, as they may deem expedient.
 
-§ 3. (Schedule of rules authorized.) The schedule of rules as
+§ 3. The schedule of rules as
 set forth in Article IX of this Act shall be deemed to be the rules of
 'court, subject to suspension and amendment in any part thereof, by the
 Supreme Court, as experience shall show to be expedient.
 
-§ 4. (Act to be liberally construed.) This Act shall be liberally
+§ 4. This Act shall be liberally
 construed, to the end that controversies may be speedily and finally
 determined according to the substantive rights of the parties, and the
 rule that statutes in derogation of the common law must be strictly construed shall not apply to this Act or to the rules made pursuant thereto.
 
-N o statute hereafter enacted shall be construed to limit or affect
+No statute hereafter enacted shall be construed to limit or affect
 
 the provisions of this Act or the rules adopted in accordance therewith,
 unless expressly declared to supersede or take precedence of designated
@@ -41,13 +41,12 @@ provisions thereof or designated rules adopted pursuant thereto.
 
 ARTICLE II. PROCESS—VENUE
 
-§ 5. (Commencement of civil actions——Form of process——Alias
-writs.) Every civil action, unless otherwise expressly provided by
+§ 5. Every civil action, unless otherwise expressly provided by
 statute shall be commenced by the issuance of a summons. The clerk
 shall issue summons upon request of the plaintiff. The form and substance of such summons, and of all other process, and the issuance of
 alias and pluries writs, shall be according to rules of court.
 
-§ 6. (Who authorized to serve writs.) (1) Writs shall be
+§ 6. Writs shall be
 served by a sheriff, or if he be disqualified, by a coroner of some county
 of the State, unless the court shall order service to be made by some
 other person. It shall not be necessary that service be made by a sheriff
@@ -64,7 +63,7 @@ cause a written notice of such rule to be served on such sheriff, coroner
 or other person, and if good and sufficient cause be not shown to excuse
 such officer or other person, the court shall judge him guilty of a contempt, and shall proceed to punish him as in other cases of contempt.
 
-§ 7. (Venue-—Defendants in different counties.) Except as
+§ 7. Except as
 otherwise provided in this Act, every civil action shall be commenced in
 the county where one or more defendants reside or in which the transaction or some part thereof occurred out of which the cause of action arose,
 but if venue is based on residence in an action to recover money or
@@ -78,7 +77,7 @@ him and was not joined solely for the purpose of nxing the venue of the
 action in that county. If all defendants are non-residents of the State,
 an action may be commenced in any county.
 
-'3’ 8. (Venue-—Corporations.) (1) Civil actions may be commenced against any private corporation or against a railroad or bridge
+§ 8. Civil actions may be commenced against any private corporation or against a railroad or bridge
 company in the county in which such corporation has its principal office
 or is doing business or in which the transaction or some part thereof
 occurred out of which the cause of action arose.
@@ -93,8 +92,7 @@ overflowed or otherwise damaged by reason of any act of any such corporation may
 in the county where such corporation is located, at the option of the
 party claiming to be injured.
 
-§ 9. (Venue~—Local actions.) (1) Any civil action to quiet
-title to real estate, or to partition or recover possession thereof or to
+§ 9.  Any civil action to quiet title to real estate, or to partition or recover possession thereof or to
 foreclose a mortgage or other lien thereon, shall be brought in the county
 where the real estate or some part of it is situated.
 
@@ -104,7 +102,7 @@ in the county designated in such statute.
 (3) Actions for injunctions to stay proceedings at law shall be
 brought in the county in which the proceedings at law are had.
 
-§ 10. (Service of writ outside county of venue.) (1) When a
+§ 10. When a
 civil action is properly commenced in any county, summons may be
 served upon defendants not found in that county wherever they may be
 found in the State by any person authorized to serve Writs. An officer
@@ -116,16 +114,16 @@ return by mail.
 (2) One or more duplicate original summonses may be issued,
 marked first duplicate, second duplicate, etc., as the case may be, whenever it will facilitate the service of summons in several counties.
 
-§ 11. (Effect of wrong venue.) Where" the parties appear without making objection to the venue, no order, judgment or decree shall be
+§ 11. Where the parties appear without making objection to the venue, no order, judgment or decree shall be
 deemed void for want of jurisdiction because rendered in the wrong
 venue.
 
-§ 12. (Place of trial.) All actions shall be tried in the county in
+§ 12. All actions shall be tried in the county in
 which they are instituted, except as otherwise provided by law.
 
 ARTICLE III. SERVICE OF PROCESS
 
-§ 13. (Service on individuals.) Except as.- otherwise expressly
+§ 13. Except as.- otherwise expressly
 provided herein, service of summons upon an individual defendant in
 any civil action shall be made (1) by leaving a copy thereof with the
 defendant personally or (2) by leaving such copy at his usual place of
@@ -137,7 +135,7 @@ sent such copy in pursuance of this section shall be evidence that he has
 
 done so.
 
-§ 14. (Service by publication—Af1"idavit—Mailing—Certificate.)
+§ 14.
 Whenever, in any civil action affecting property or status within the
 jurisdiction of the court, or in any action at law to revive a judgment
 or decree, plaintiff or his attorney shall file in the office of the clerk of
@@ -149,23 +147,21 @@ inquiry his place of residence cannot be ascertained, the clerk shall cause
 publication to be made in some newspaper published in the county where
 the suit is pending, and if there be no newspaper published in such
 county then in a newspaper published in an adjoining county in this
-State, having a circulation in the county in which suit is pending, containing notice of the pendency of such suit, the title of the court, the
-title of the case showing the names of the first named plaintiff and first
+State, having a circulation in the county in which suit is pending, containing notice of the pendency of such suit, the title of the court, the title of the case showing the names of the first named plaintiff and first
 named defendant, the number of the case, the names of the parties to be
 served by publication, and the date on or after which default may be
 entered against him; and he shall also, within ten days of the first publication of such notice, send a copy thereof by mail, addressed to each such
 defendant whose place of residence is stated in such affidavit. The
-certificate of the clerk that he has sent such copy in pursuance of this
-section, shall be evidence that he has done so.
+certificate of the clerk that he has sent such copy in pursuance of this section, shall be evidence that he has done so.
 
-§ 15. (Period of publication—Default.) The notice required in
+§ 15. The notice required in
 the preceding section may be given at any time after the commencement of the suit, and shall be published at least once in each week for
 three successive weeks and no default or proceeding shall be taken
 against any defendant not served with summons, or a copy of the complaint, and not appearing, unless the first publication be at least thirty
 days prior to the time when such default or other proceeding is sought
 to be taken.
 
-§ 16. (Personal service outside State.) Personal service of
+§ 16. Personal service of
 summons and copy of complaint outside of this State, may be made by
 
 any person over twenty—one years of age not a party to the action, and
@@ -178,7 +174,7 @@ default judgment rendered on personal service within the jurisdiction.
 An aflidavit of the server shall be ‘dled showing the manner in which
 such service has been made.
 
-§ 17. (Service on private corporations.) An incorporated company may be served with process by leaving a copy thereof with any
+§ 17. An incorporated company may be served with process by leaving a copy thereof with any
 officer or agent of said company found in the county; and in case the
 oflicer or other person attempting to make service shall make return or
 affidavit upon such process that he cannot in his county find any such
@@ -187,8 +183,7 @@ any other county of this State, in the manner provided in section 10 of
 this Act, or may be notified by publication and mail in like manner and
 with like effect as is provided in sections 14 and 15 of this Act.
 
-§ 18. (Service on public, municipal, governmental and quasi-public
-corporations.) In actions against public, municipal, governmental or
+§ 18. In actions against public, municipal, governmental or
 quasi-public corporations, summons may be served by leaving a copy
 thereof with the chairman of the county board or county clerk in the
 
@@ -199,7 +194,7 @@ village, with the supervisor or town clerk in the case of a town, and With
 the president or clerk or other officer corresponding thereto in the case
 of any other public, municipal, governmental or quasi-public corporation or body.
 
-§ 19. (Service on receiver or trustee of corporation.) Any receiver or trustee of any incorporated company or its property may be
+§ 19. Any receiver or trustee of any incorporated company or its property may be
 served with process by leaving a copy thereof with such receiver or
 trustee, if found in the county Where the action» is brought, and if not so
 found, then by leaving such copy with any agent in the employ of such
@@ -214,7 +209,7 @@ mail in like manner and with like effect as is provided in sections 14
 and 15 of this Act.
 ARTICLE IV. APPEARANCE
 
-§ 2(_). (Appearance.) Every appearance in a civil action, whether
+§ 20. Every appearance in a civil action, whether
 general or special and whether in person or by attorney, shall be made
 in writing, by filing a pleading or motion in the cause, which said
 pleading or motion shall state with particularity an address where service
@@ -224,13 +219,11 @@ appearing.
 
 ARTICLE V. PARTIES
 
-§ 21. (Designation of parties.)
-(1) The party commencing a civil action shall be called the plaintiff, and the adverse party shall be called the defendant.
+§ 21. The party commencing a civil action shall be called the plaintiff, and the adverse party shall be called the defendant.
 
 (2) In all appeals the relative position of the parties and their
 designation as plaintiffs or defendants shall be the same as in the court
-whose action is in question; but they shall be further designated in the
-title of the case as appellants and appellees.
+whose action is in question; but they shall be further designated in the title of the case as appellants and appellees.
 
 (3) Misnomer of parties plaintiff or defendant shall not be
 
@@ -238,7 +231,7 @@ ground for abatement, but the names of any parties may be corrected
 at any time, before or after judgment, on motion, upon such terms and
 
 proof as the court shall require.
-§ 22. (Who may be plaintiff.) The assignee and owner of a nonnegotiable chose in action may sue thereon in his own name, and he
+§ 22. The assignee and owner of a nonnegotiable chose in action may sue thereon in his own name, and he
 shall in his pleading on oath, allege that he is the actual bona fide
 owner thereof, and set forth how and when he acquired title; but such
 action shall be subject to any defense or set-off existing before notice
@@ -270,7 +263,7 @@ by his affidavit where pleading is not required, allege that he is the
 actual bona fide subrogee and set forth how and when he became such
 subrogee.
 
-§ 23. (J oinder of plaintiffs.) Subject to rules, all persons may
+§ 23. Subject to rules, all persons may
 join in one action as plaintiffs, in whom any right to relief in respect
 of or arising out of the same transaction or series of transactions is
 alleged to exist, Whether jointly, severally or. in the alternative, where
@@ -285,7 +278,7 @@ relief to which he or they may be entitled.
 If any one who is a necessary plaintiff declines to join, he may
 be made a defendant, the reason therefor being stated in- the complaint.
 
-§ 24. (Joinder of defendants.) (1) Any person may be made
+§ 24. Any person may be made
 a defendant Who, either jointly, severally or in the alternative, is
 alleged to have or claim an interest in the controversy, or in any part
 thereof, or in the transaction or series of transactions out of which the
@@ -307,7 +300,7 @@ plead separate counts in the alternative against different defendants, to
 the intent that the question which, if any, of the defendants is liable,
 and to what extent, may be determined as between the parties.
 
-§ 25. (Bringing in new parties.) Where a complete determination of the controversy cannot be had without the presence of other
+§ 25. Where a complete determination of the controversy cannot be had without the presence of other
 parties, the court may direct them to be brought in. Where a person,
 not a party, has an interest or title which the judgment may affect, the
 court, on application, shall direct him to be made a party. A new
@@ -316,13 +309,13 @@ drawn in the usual form with the addition of the statement, preceding
 the taste thereof, that this summons is issued pursuant to an order of
 the said court made on a date named.
 
-§ 26. (Non-joinder and mis-joinder of parties.) No action shall
+§ 26. No action shall
 be defeated by non-joinder or mis-joinder of parties. New parties may
 be added and parties mis-joined may be dropped by order of the court,
 at any stage of the cause, before or after judgment, as the ends of
 justice may require.
 
-§ 27. (Action against joint debtors no bar.) When several joint
+§ 27. When several joint
 debtors are sued, and any one or more of them shall not be served with
 process, the pendency of such suit or the recovery of a judgment against
 the parties served shall not be a bar to a recovery on the original cause
@@ -330,7 +323,7 @@ of action against such as are not served, in any action which may be
 thereafter brought. This section shall not be so construed as to allow
 more than one satisfaction.
 
-§ 28. (Saving clause as to change of parties.) No change in
+§ 28. No change in
 parties, made by order of the court, shall impair any previous attachment of the estate or body of any person remaining a defendant in the
 action; nor impair bonds or recognizances of any person remaining a
 party, either as against himself or his sureties; nor impair receipts to
@@ -339,7 +332,7 @@ court may order new bonds it such new bonds are deemed necessary.
 Orders of court concerning change in parties may be upon terms at
 the discretion of the court.
 
-§ 29. (Unknown parties.)' If in any action there are persons
+§ 29. If in any action there are persons
 interested in the same whose names are unknown, it shall be lawful to
 make such persons pa.rties to such action by the name an-d description
 of unknown owners, or unknown heirs or devisees of any deceased person, who may have been interested in the subject matter of the action
@@ -349,7 +342,7 @@ names of such persons are unknown; and process may issue and publication may be 
 given, and judgments rendered in respect to such parties shall be of the
 same effect as though they had been designated by their proper names.
 
-§ 30. (Suits against receivers.) Every receiver of any property
+§ 30. Every receiver of any property
 appointed by any court of the State of Illinois may be sued in respect of
 any act or transaction of his in carrying on the business connected with
 such property, without the previous leave of the court in which such
@@ -359,7 +352,7 @@ so far as the same shall be necessary to the ends of justice.
 
 ARTICLE VI. PLEADING
 
-§ 31. (Forms of action.) (1) Neither the names heretofore
+§ 31. Neither the names heretofore
 used to distinguish the different ordinary actions at law, nor any formal
 requisites heretofore appertaining to the manner of pleading in such
 actions respectively, shall hereafter be deemed necessary or appropriate,
@@ -372,13 +365,13 @@ fact necessary to state any cause of action either at law or in equity.
 eareat, quo Warranto and replevin, or other actions in which the procedure is regulated by special statutes, shall be in accordance with the
 statutes dealing therewith.
 
-§ 32. (Designation and order of pleadings.) The first pleading
+§ 32. The first pleading
 by the plaintiff shall be designated a complaint. The first pleading by
 the defendant shall be designated an answer. When new matter by
 way of defense or counterclaim is pleaded in the answer, a reply shall
 be filed by the plaintiff. Further pleadings may be permitted as required by the court.
 
-§ 33. (Form of pleadings.) ( 1) All pleadings shall contain a
+§ 33. All pleadings shall contain a
 plain and concise statement of the pleader’s cause of action, counterclaim, defense, or reply.
 
 (2) Each separate claim or cause of action upon which a separate recovery mightrbe had, shall be stated in a separate count or counterclaim, as the case may be, and each count, counter claim, defense or
@@ -388,7 +381,7 @@ shall be divided into paragraphs numbered consecutively, each paragraph containi
 (3) Pleadings shall be liberally construed with a view to doing
 substantial justice between the parties.
 
-§ 34. (Prayer for relief.) Every complaint and counterclaim '
+§ 34. Every complaint and counterclaim '
 
 shall contain specific prayers for the relief to which the pleader deems
 himself entitled. Such relief. whether based on one or,more counts.
@@ -400,7 +393,7 @@ relief is sought the court shall, by proper orders, and upon such terms
 as may be just, protect the adverse party against prejudice by reason
 of surprise.
 
-§ 35. (Verification of pleadings.) (1) Any pleading, although
+§ 35. Any pleading, although
 not required to be sworn to, may be verified by the oath of the party
 filing the same or of any other person or persons having knowledge
 of the facts pleaded. Corporations may verify by the oath of any odicer
@@ -417,7 +410,7 @@ court. If the party making such denial be not the party alleged to
 have executed or assigned such instrument, the denial may be made
 on the information and belief of such party.
 
-§ 36. (Exhibits.) Whenever a.n action, defense or counterclaim
+§ 36. Whenever a.n action, defense or counterclaim
 is founded upon a written instrument, a copy thereof, or of so much
 of the same as is relevant, must be attached to the pleading as an exhibit or recited therein, unless the pleader shall attach to his pleading an
 affidavit stating facts showing that such instrument is not accessible to
@@ -425,7 +418,7 @@ him. In pleading any written instrument a copy thereof may be attached to the pl
 constitute a part of the pleading for all purposes. No profert shall be
 necessary.
 
-§ 37. (Bills of particulars.) (1) Where allegations are so wanting in details, that the opposite party should be entitled to a bill of
+§ 37. Where allegations are so wanting in details, that the opposite party should be entitled to a bill of
 particulars, the pleader shall file and serve a copy of such bill on being
 served with a notice demanding the same, which notice shall point out
 specifically the defects complained of or the details desired, and if such
@@ -451,7 +444,7 @@ has been made believes that the party demanding the same is not entitled
 to the particulars asked for, he may move the court that the demand
 be denied or modified.
 
-§ 38. (Counterclaims.) (1) Subject to rules, any 'demand by
+§ 38. Subject to rules, any 'demand by
 one or more defendants against one or more plaintiffs, or against one
 or more co-defendants, whether in the nature of set-off, recoupment;
 cross-bill in equity or otherwise, and whether in tort or contract. for
@@ -466,14 +459,14 @@ designated as a counterclaim.
 with the same particularity as a complaint, and shall be complete in
 itself, but allegations set forth in other parts of the answer may be incorporated by specific reference instead of being repeated.
 
-§ 39. (Supplemental pleadings.) Subject to rules, supplemental
+§ 39. Subject to rules, supplemental
 pleadings, setting up matters which have arisen after the original pleadings were filed, may be filed within a reasonable time by either party by
 leave of court and upon terms, but no pleading in the nature of a plea
 puis darrein continuance shall constitute a waiver of other answers or
 
 defenses.
 
-§ 40. (Pleadings to be specific.) (1) General issues shall not
+§ 40. General issues shall not
 be employed, and every answer and subsequent pleading shall contain an
 explicit admission or denial of each allegation of the pleading to which it
 relates.
@@ -489,24 +482,24 @@ shall attach an aiiidavit of the truth of such statement of want of knowledge, o
 damages only, he may do so by stating in his pleading that he desires to
 contest only the amount of the damages.
 
-§ 41. (Untrue statements.) Allegations and denials, made without reasonable cause and not in good faith, and found to be untrue, shall
+§ 41. Allegations and denials, made without reasonable cause and not in good faith, and found to be untrue, shall
 subject the party pleading the same to the payment of such reasonable
 expenses, to be summarily taxed by the court at the trial, as may have
 been actually incurred by the other party, by reason of such untrue
 pleading.
 
-§ 42. (Insufficient pleadings.) (1) If any pleading is lIlS11fl'lcient in substance or form the court may order a fuller or more particular ‘
+§ 42. If any pleading is insufficient in substance or form the court may order a fuller or more particular ‘
 
 statement; and if the pleadings do not sufficiently define the issues the
 court may order other pleadings prepared.
 
-(2) N o pleading shall be deemed bad in substance which shall contain such information as shall reasonably inform the opposite party of
+(2) No pleading shall be deemed bad in substance which shall contain such information as shall reasonably inform the opposite party of
 the nature of the claim or defense which he is called upon to meet.
 
 (3) All defects in pleadings, either in form or substance, not
 objected to in the trial court, shall be deemed to be waived.
 
-§ 43. (Separate counts and defenses.) (1) Parties may plead
+§ 43. Parties may plead
 as many causes of action, counterclaims, defenses, and matters in reply or
 
 rejoinder as they may have, and each shall be separately designated and
@@ -534,9 +527,7 @@ which if not expressly stated in the pleading, would be likely to take the
 opposite party by surprise, must be plainly set forth in the answer
 or reply.
 
-§ 44. (J oinder of causes of action and use of counterclaims—
-
-«Transfer from one docket to another.) (1) Subject to rules any
+§ 44. Subject to rules any
 
 plaintiff or plaintiffs may join any causes of action, whether legal or
 equitable or both, against any defendant or defendants; and subject to
@@ -556,7 +547,7 @@ though commenced on the proper side of the court; and any issue may
 at any time, by order of the court, be transferred for trial to the proper
 side of the court. .
 
-. §45. (Motions to be used in place of demurrers.) (1) All
+§ 45. All
 objections to pleadings heretofore raised by demurrer shall be raised by
 motion. Such motion shall point out specifically the defects complained
 of, and shall ask for such relief as the nature of the defects may make
@@ -582,9 +573,7 @@ defects in prior pleadings may be considered in so far as they are
 
 material to the ruling sought.
 
-§ 46. (Amendments.)
-
-(1) At any time before final judgment in a civil action, amendments may be allowed on such terms as are just and reasonable,
+§ 46. At any time before final judgment in a civil action, amendments may be allowed on such terms as are just and reasonable,
 introducing any party who ought to have been joined as plaintiff or
 defendant, discontinuing as to any plaintiff or defendant, changing the
 cause of action or defense or adding new causes of action or defenses,
@@ -616,14 +605,14 @@ so amended.
 (3) A pleading may be amended at any time, before or after judgment, to conform the pleadings to the proofs, upon such terms as to
 costs and continuance as may be just.
 
-§ 47. (Lost pleadings.) In any action where any pleading or
+§ 47. In any action where any pleading or
 
 paper nled in the cause has been lost or mislaid, the court in which saidaction is pending may permit such files to be supplied by the filing of a
 copy authenticated by such aflidavits as the court may require.
 
 ARTICLE VII. TRIAL COURT PRACTICE
 
-§ 48. (Involuntary dismissal for certain defects.) Defendant
+§ 48. Defendant
 may, within the time for pleading, file a motion to dismiss the action or
 suit, where any of the following defects appear on the face of the complaint, and he may within the same time, file a similar motion supported
 by affidavits where any of the said following defects exist but do not
@@ -670,12 +659,11 @@ motion shall not preclude the raising of them subsequently by answer
 unless the court shall have made a decision therein; and a failure" to
 raise any of them by motion shall not prejudice raising them by answer.
 
-§ 49. (Practice on motions.) The form and contents of motions,
+§ 49. The form and contents of motions,
 notices regarding the same, hearings on motions, and all other matters
 of’ procedure relative thereto, shall be according to rules.
 
-§ 50. (Judgment for or against some of the parties——Default—
-Confession.) (1) Judgment may be given for or against one or more
+§ 50. Judgment may be given for or against one or more
 of several plaintiffs, and for or against one or more of several defendants; and the court may determine the ultimate rights of the parties
 on each side as between themselves, and grant to the defendant any
 aflirmative relief to which he may be entitled on his pleadings and
@@ -737,12 +725,12 @@ the law to redeem in equity from such sale, the court shall enter its
 decree permitting such redemption to be made at any time within
 ninety days thereafter, upon such terms as shall be equitable and just.
 
-§ 51. (Consolidation and severance of actions.) An action may
+§ 51. An action may
 be severed, and actions pending in the same court may be consolidated,
 as an aid to convenience, whenever it can be done without prejudice to
 a substantial right.
 
-§ 52. (Voluntary dismissal.) The plaintiff may, at any time
+§ 52. The plaintiff may, at any time
 before trial- or hearing begins, upon notice to the defendant or his attorney, and on the payment of costs, dismiss his action or any part
 thereof as to such defendant, without prejudice, by order filed in the
 cause. Thereafter he may dismiss, on the same terms, only (1) upon
@@ -751,7 +739,7 @@ the order of the court or judge made on special motion in which the
 ground for such dismissal shall be set forth and which shall be supported by affidavit. After a counterclaim has been pleaded by a defendant no dismissal may be had as to him except by consent of the
 defendant.
 
-§ 53. (Actions on penal bonds.) In an action on a penal bond
+§ 53. In an action on a penal bond
 the plaintiff may allege as many breaches as he may think fit and
 damages shall be assessed for such of the breaches as are proved, and
 the judgment for the penalty shall stand as security for such other
@@ -763,7 +751,7 @@ assessment of damages for an execution on said judgment for the
 amount of damages so assessed until the full amount of such judgment
 shall be paid.
 
-§ 54. (Abatement—Change of interest or liability.) Where by
+§ 54. Where by
 reason of marriage, death, bankruptcy, assignment, or any other event
 occurring after the commencement of a cause or proceeding, either before
 or after judgment and in the trial or reviewing court, causing a change
@@ -780,18 +768,18 @@ anyone interested supported by affidavits, and such reasonable notice of
 the order to any new parties to be brought in as the court or tribunal
 may designate in such order.
 
-§ 55. (Scire facias no longer necessary.) It shall not be necessary to use a writ of scire facias, but any relief which heretofore might
+§ 55. It shall not be necessary to use a writ of scire facias, but any relief which heretofore might
 have been obtained by scire facias may be had by employing an ordinary
 civil action at law.
 
-§ 56. (Arrest of judgment.) When judgment shall be arrested
+§ 56. When judgment shall be arrested
 for any defect in the record of proceedings after the first process, the
 plaintiff shall not be compelled to commence his action anew; but the
 
 court shall order new pleadings to commence with the error which cause
 the arrest.
 
-§ 57. (Summary judgments.) Subject to rules, if the plaintiff,
+§ 57. Subject to rules, if the plaintiff,
 in any action upon a contract, express or implied, or upon a judgment
 or decree for the payment of money, or in any action to recover possession
 of land, with or without rent or mesne profits, or in any action to recover
@@ -810,7 +798,7 @@ dispute as though the action had been originally brought therefor; and
 in such case the court may make such order as to the costs of the suit
 as may be equitable.
 
-§ 58. (Discovery.) (1) Wherever a bill for discovery, or interrogatories in a bill for relief, would heretofore have been available, the
+§ 58. Wherever a bill for discovery, or interrogatories in a bill for relief, would heretofore have been available, the
 same discovery may hereafter be' had by motion iiled in the cause
 wherein the matters sought to be discovered would be used.
 
@@ -819,7 +807,7 @@ any fact may be requested of any other party, and the deposition of any
 other party or of any person may be taken, at such times and under
 such terms and conditions as may be prescribed by rules.
 
-§ 59. (Extension of time and continuances.) Additional time
+§ 59. Additional time
 may be granted on good cause shown, in the discretion of the court and
 on such terms as may be just, for the doing of any act or the taking of
 any step or proceeding prior to judgment in any civil action.
@@ -828,8 +816,7 @@ The circumstances, terms and conditions under which continuances
 may be granted, the time and manner in which application therefor
 shall be made, and the effect thereof, shall be according to rules.
 
-§ 60. (Examination of parties at instance of adverse party.)
-Upon the trial of any case any party thereto or any person for whose
+§ 60. Upon the trial of any case any party thereto or any person for whose
 immediate benefit such action is prosecuted or defended, or the officers,
 directors, or managing agents of any corporation which is a party to the
 action, may be examined as if under cross examination at the instance
@@ -841,27 +828,25 @@ examination as any other witness, to testify, but the party calling for
 such examination shall not be concluded thereby but may rebut the
 testimony thus given by counter testimony.
 
-§ 61. (References to master or referee.) Subject to rules, the
+§ 61. Subject to rules, the
 court may in any chancery action, or in any action at law in which
 matters of account are in controversy, on default or upon issue joined,
 
 refer the cause to a master or referee to take testimony and report his
 conclusions thereon.
 
-§ 62. (Subpoenas.) The clerk of any court in which an action is
+§ 62. The clerk of any court in which an action is
 pending shall, from time to time, issue subpoenas for such witnesses and
 to such counties in the State as may be required by either party, and
 every clerk who shall refuse so to do shall be nned, at the discretion of
 the court, in any sum not to exceed $100.00.
 
-§ 63.. (Juries in equity cases.) Subject to rules providing otherwise, the court may in its discretion direct an issue or issues to be tried
+§ 63. Subject to rules providing otherwise, the court may in its discretion direct an issue or issues to be tried
 by a jury, whenever it shall be judged necessary in any cause in equity
 pending therein. In all other cases in equity, the mode of trial shall be
 the same as has been heretofore practiced in courts of chancery.
 
-§ 64. (Trial of actions at law without juries—Findings of fact.)
-
-(1) A plaintiff desirous of a trial by jury shall make his demand for
+§ 64. A plaintiff desirous of a trial by jury shall make his demand for
 a jury in writing, and file such demand with the clerk at the time suit
 is commenced, and a defendant desirous of a trial by jury shall make
 such demand and file the same at the time of filing appearance; otherwise
@@ -876,7 +861,7 @@ necessary in any case at law tried without a jury to support the judgment or as 
 * (3) No special findings of fact or certificate of evidence shall be
 necessary in any case in equity to support the decree.
 
-§ 65. (Special interrogatories.) In any case in which the jury
+§ 65. In any case in which the jury
 render a general verdict. they may be required by the court, and must be
 required on request of any party to the action,'to nnd specially upon any
 material question or questions of fact which shall be stated to them in
@@ -888,14 +873,14 @@ When the special finding of fact is inconsistent with the general verdict,
 the former shall control the latter and the court may render judgment
 accordingly.
 
-§ 66. (Impanelling the jury.) (1) In all civil actions each
+§ 66. In all civil actions each
 party shall be entitled to challenge five jurors without showing cause for
 such challenges. Where there is more than one plaintiff or more than
 one defendant, the judge shall allow additional challenges not to exceed
 three in number to each additional plaintiff or defendant without
 showing cause.
 
-§ 67. (Instructing the jury.) The court shall give instructions to
+§ 67. The court shall give instructions to
 the jury only as to the law of the case. They shall be in writing, in the
 form of a continuous and connected narrative and not a series of separate
 instructions. To assist the court in fully and accurately instructing the
@@ -918,7 +903,7 @@ into court, and nled as a part of the proceedings in the cause. Papers
 read in evidence, other than depositions, may be carried from the bar by
 the jury. '
 
-§ 68. (Verdict—-New trial.) (1) It shall be suflicient for the
+§ 68. It shall be suflicient for the
 jury to pronounce their verdict, by their foreman, in open court, without
 reducing the same to writing if it is a general verdict, and the clerk
 shall enter the same in form, under the direction of the court; and if
@@ -982,7 +967,7 @@ the party in whose favor judgment notwithstanding the verdict was
 entered, to a new trial if such judgment had not been entered by the
 trial court, in which case a new trial shall be ordered.
 
-§ 69. (Affidavits) (1) All aiiidavits read in court during the
+§ 69. All aiiidavits read in court during the
 progress of any case and relating thereto, shall be filed and preserved by
 the clerk.
 
@@ -995,9 +980,7 @@ court, or, before a master in chancery, upon notice to all parties not in
 default, or their attorneys, and whenever such evidence is presented by
 oral examination, an adverse party shall have the right to cross examination. This section shall not apply to applications for change of venue. .
 
-§ '70. (Motion to quash.)
-
-A party intending to move, to set aside or quash any execution,
+§ 70. A party intending to move, to set aside or quash any execution,
 bond or other proceeding, may apply to the court or to the judge at
 his chamber for a certificate (and which the said judge may, in his
 discretion, grant) certifying that there is probable cause for staying
@@ -1012,7 +995,7 @@ unless the applicant shall have given notice of such motion to the
 opposite party, or his attorney of record, if they or either of them
 can be found in the county from which the writ issues.
 
-§ 71. (Assessment of damages by court.) In all actions in the
+§ 71. In all actions in the
 courts of record in this State upon default, when the damages are to
 be assessed, it shall be lawful for the court to hear the evidence and
 assess the damages without a jury for that purpose. In all cases where
@@ -1022,7 +1005,7 @@ money only, and the damages’ rest in computation, the court may refer
 it to the clerk, to assess and report the damages, and may enter" judgment therefor: Promlded, that either party may have the damages
 assessed by a jury.
 
-§ 72. (Correction of errors of fact in judicial records.) The writ
+§ 72. The writ
 of error comm nobis is hereby abolished, and all errors in fact, committed in the proceedings of any court of record, and which, by the
 common law, could have been corrected by said writ, may be corrected
 by said writ, may be by the court in which the error was committed,
@@ -1030,12 +1013,12 @@ upon motion in writing, made at any time within five years
 after the rendition of final judgment in the case, upon reasonable
 notice. When the person entitled to make such motion shall be an infant, non compos mantis or under duress, at the time of passing judgment, the time of such disability shall be excluded from the computation of said five years.
 
-§ 73. (Effect of Act on judgments and supplementary proceedings.) This Act shall not be deemed to affect the enforcement of
+§ 73. This Act shall not be deemed to affect the enforcement of
 judgments or decrees or proceedings supplementary thereto.
 
 ARTICLE VIII. APPELLATE PRACTICE
 
-§ '74. (Method of Appellate review.) (1) Every order, determination, decision, judgment or decree, rendered in any civil proceeding, if reviewable by the Supreme or Appellate Court of this State
+§ 74. Every order, determination, decision, judgment or decree, rendered in any civil proceeding, if reviewable by the Supreme or Appellate Court of this State
 by. writ of error, appeal or otherwise, shall hereafter be subject to
 review by notice of appeal, and such review shall be designated an appeal and shall constitute a continuation‘ of the proceeding in the court
 below. Such appeal shall be deemed to present to the court all issues
@@ -1049,7 +1032,7 @@ record by the judge thereof. All matters in the trial court record actually befo
 purposes, but if not properly authenticated the court may order such
 further authentication as it may deem advisable. w
 
-§ 75. (Jurisdiction of Appellate and Supreme Courts.) (1) Appeals shall betaken directly to the Supreme Court in all cases in which
+§ 75. Appeals shall betaken directly to the Supreme Court in all cases in which
 a franchise or freehold or the validity of a statute or a construction of
 
 the constitution is involved, and in cases in which the validity of a
@@ -1095,7 +1078,7 @@ shall have been denied or the day upon which the leave to apply for
 a rehearing shall have expired without any such application having been
 made, otherwise said power of the Supreme Court to review the judgment and decree of the Appellate Court shall cease to exist.
 
-§ 76. (Limitation of review—Perfection of appeal.) (1) No
+§ 76. No
 appeal shall be taken to the Supreme or Appellate Court after the expiration of ninety days from the entry of the order, decree, judgment
 or other determination complained of; but, notice of appeal may be
 filed after the expiration of said ninety days, and within the period of
@@ -1127,15 +1110,13 @@ shall be filed in the lower court. After being duly perfected no appeal
 shall be dismissed without notice, and no step other than that by which
 the appeal is perfected shall be deemed jurisdictional.
 
-§ 77. (Judgments, decrees and orders subject to review—Leave
-to appeal.) (1) Appeals shall lie to the Appellate or Supreme Court, in
+§ 77. Appeals shall lie to the Appellate or Supreme Court, in
 cases where any form of review may be allowed by law, to revise the final
 judgments, orders or decrees of the Circuits Courts, the Superior Court
 of Cook County, the County Courts, the City Courts and other courts
 whose judgments, orders and decrees are reviewable therein, under such
 limitations and conditions as may be imposed by law and subject to
-such rules of court as may be established and promulgated under this
-chapter. An order granting a new trial shall be deemed to be a final
+such rules of court as may be established and promulgated under this chapter. An order granting a new trial shall be deemed to be a final
 order, but no appeal may be taken therefrom, except on leave granted
 by the reviewing court, or by a judge thereof in vacation within thirty
 days after the entry of the order, on motion and notice to adverse
@@ -1144,8 +1125,7 @@ parties.
 (2) Leave to appeal shall first be obtained only where such leave
 is expressly required by law.
 
-§ 7 8. (Appeal from interlocutory orders concerning injunctions
-and receivers.) Whenever an interlocutory order or decree is entered
+§ 78. Whenever an interlocutory order or decree is entered
 granting an injunction, or overruling a motion to dissolve the same, or
 enlarging the scope of an injunction order, or appointing a receiver, or
 giving other or further powers or property to a receiver already appointed,
@@ -1171,7 +1151,7 @@ to exceed one hundred dollars, to be taxed as part of the costs of the
 appeal. N o appeal shall be taken from the order entered by said
 Appellate Court on any such appeal. ~
 
-§ 79. (Regulations of procedure for review.) The Supreme Court
+§ 79. The Supreme Court
 may, by general rules, regulate and determine the practice and procedure
 by which cases shall be reviewed in the Appellate and Supreme Court,
 including the joinder, severance, adding, dropping and substitution of
@@ -1180,11 +1160,11 @@ the specification of grounds therefor, hearings and rehearings, the form,
 contents, filing and service of records and briefs, and all other matters
 of practice in connection with the review of cases.
 
-§ 80. (Exceptions.) No formal exception need be taken to any
+§ 80. No formal exception need be taken to any
 ruling or action of the court in any matter or proceeding, in order to
 make such ruling or action a ground for review.
 
-§ 81. (Any of several parties may appeal.) In all cases where a
+§ 81. In all cases where a
 judgment, order or decree, reviewable by. the Appellate or Supreme
 Court, shall be rendered in any court of record, in any case or proceeding whatever, against two or more persons, either one of said persons
 
@@ -1196,7 +1176,7 @@ right heretofore possessed by any person not a party to the record to
 review a judgment or decree by writ of error “shall be preserved by notice
 of appeal.
 
-§ 82. (Appeal—Supersedeas—-—Bonds.) (1) An appeal to the
+§ 82. An appeal to the
 Appellate or Supreme Court shall operate as a supersedeas only if and
 when the appellant, after notice duly served, shall give and file a bond,
 in a reasonable amount, to secure the adverse party. If the bond is
@@ -1242,7 +1222,7 @@ court, or standing affirmed in any court, pursuant to the mandate of the
 Appellate Court, may be stayed by the Supreme Court upon such terms
 as it shall fix.
 
-§ 83. (Examination of surety.) (1) Every court, judge or clerk
+§ 83. Every court, judge or clerk
 of court shall have power to examine on oath the person offering to become surety on any bond, concerning his property and the sumciency of
 such surety. If a party who has had no opportunity to examine a surety
 shall file objections to the sufficiency of any bond, given or offered, such
@@ -1256,17 +1236,17 @@ may file a new and sufficient bond, and if the time limited for the filing
 thereof has expired, shall have five days’ additional time for that
 purpose. .
 
-§ 84. (Certification of questions of‘ law.) The Supreme Court
+§ 84. The Supreme Court
 may provideby general rules for the certification of questions of law to
 the Appellate or Supreme Court in any case reviewable by either of said
 courts, and may regulate the practice relating thereto.
 
-§ 85. (Agreed case.) The Supreme Court may by general rules
+§ 85. The Supreme Court may by general rules
 authorize the making of agreed cases and the certification of the same
 to the Appellate or Supreme Court, and may regulate the practice in
 regard thereto. ,
 
-§ 86. (Transfer of case appealed to wrong court.) Where an
+§ 86. Where an
 appeal is taken to either the Supreme or Appellate Court and it is found
 or adjudged that the case was wrongly appealed to such court, it shall be
 the duty of such court to direct the clerk to transmit the transcript and
@@ -1277,15 +1257,14 @@ the inferior court. Any bond executed in any case which may be transferred as af
 force and effect as if given in a case taken directly to the court to which
 the case was transferred.
 
-§ 87. (Dismissalof appeal—Judgment for damages.) When any
+§ 87. When any
 appeal is dismissed or any judgment, decree or order is affirmed for want
 of prosecution, the reviewing court shall enter judgment against the
 appellant for not less than fifty dollars damages and for not more than
 ten per cent of the amount recovered below when such percentage
 exceeds fifty dollars.
 
-§ 88. (Transcript of order of reviewing court filed in the trial
-court.) ( 1) When an appeal is dismissed, or a judgment, order or
+§ 88. When an appeal is dismissed, or a judgment, order or
 decree is afhrmed, execution may issue and other proceedings may be had
 thereon in all respects, as if no appeal had been taken upon the filing of
 the mandate of the reviewing court in the ofhce of the clerk of the court
@@ -1305,7 +1284,7 @@ papers upon attorneys, or as the trial court may direct.
 judgment, order or decree, unless the mandate shall be filed in the trial
 court within one year after final determination by the reviewing court.
 
-§ 89. (Recital of facts in final order of Appellate Court.) If any
+§ 89. If any
 final determination of any cause or proceeding tried without a jury,
 except as to equitable issues, shall be made by the Appellate Court, as
 
@@ -1321,11 +1300,11 @@ order, judgment or decree, or from an examination of the two, no such
 final order, judgment or decree shall be reversed for failure to recite
 such facts. .
 
-§ 90. (Notice of appeal.) Notice of the taking of an appeal
+§ 90. Notice of the taking of an appeal
 shall be given to the appellee or his attorney in such manner as may be
 provided by rules.
 
-§ 91. (Process, in the Supreme and Appellate Courts.) (1) The
+§ 91. The
 form and substance of process, in the Supreme or Appellate Courts shall
 be prescribed by rules made by the Supreme Court and shall be uniform
 as far as practicable. _
@@ -1335,7 +1314,7 @@ whom it is directed or to whom it is given for service, in any county or
 place in this State, and duly returned, in the same manner that process
 usually is or may be required to be executed and returned.
 
-§ 92. (Powers of reviewing court.) (1) In all appeals the reviewing court may, in its discretion, and on such terms as it deems
+§ 92. In all appeals the reviewing court may, in its discretion, and on such terms as it deems
 j ust,—
 
 (a) Exercise all or any of the powers of amendment of the trial
@@ -1381,39 +1360,9 @@ that, except as to equitable issues, the Supreme Court shall re-examine
 cases brought to it by appeal from the Appellate Courts, as to questions
 of law only. I
 
-§ 93. (Short title.) This Act shall be known as the ‘Civil Practice Act,’ and may hereafter be referred to by that designation.
+§ 93. This Act shall be known as the ‘Civil Practice Act,’ and may hereafter be referred to by that designation.
 
 § 94. The following Acts and parts of Acts are hereby repealed:
-
-“An Act in relation to practice and procedure in courts of record,”
-approved June 3, 1907, as amended; .
-
-“An Act in relation to suits and proceedings against receivers appointed by any court of the State of Illinois,” approved June 23, 1913,
-as amended;
-
-Sections 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
-21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39.
-40, and 43 of “An Act to regulate the practice in courts of chancery,”
-approved March 15, 1872, as amended;
-
-Sections 25, 27, 29 and 34 of “An Act to revise the law in relation
-to Circuit Courts and the Superior Court of Cook County,” approved
-February 16, 1874, as amended;
-
-Sections 9, 10 and 12 of “An Act to revise the law in relation to
-the Supreme Court,” approved March 23, 1874, as amended;
-
-Sections 10 and 12 of “An Act to establish Appellate Courts,”
-approved June 2, 1877, as amended;
-
-Section 6 of “An Act in regard to evidence an-d depositions in civil
-cases,” approved March 29, 1872, as amended;
-
-Sections 14, 21 and 22 of “An Act to revise the law in relation to
-abatement,” approved March 2, 1874, as amended;
-
-Section 18 of “An Act to revise the law in relation to injunction,”
-approved March 25, 1874, as amended.
 
 All other Acts and parts of Acts inconsistent with this Act are
 hereby repealed. Nothing in this provision for repeal shall impair or
@@ -1424,7 +1373,7 @@ The provisions of this Act shall take effect January 1, 1934.
 
 ARTICLE IX. SCHEDULE OF RULES OF COURT
 
-§ 95. Rule 1. (Sun1mons—Content and form—Service and return.) (1) The summons shall be issued under the seal of the court,
+§ 95. Rule 1. The summons shall be issued under the seal of the court,
 tested in the name of the clerk of such court and signed with his name,
 dated on the day it shall be issued, shall be directed to the defendant
 or defendants, and shall be made returnable on a return day designated
@@ -1501,7 +1450,7 @@ O O O O O O O O O 0 O O I O O O O 0 O 0 I O I O O O I O 0 U O O O O C O
 be in the form commonly used in other courts of record so far as the
 same is applicable.
 
-§ 96. Rule 2. (Alias Writs.) _ (1) Whenever it shall appear
+§ 96. Rule 2. Whenever it shall appear
 from the return or affidavit of service, that a Writ has not been served,
 the clerk shall issue successive alias writs, on the request of the
 plaintiff.
@@ -1511,7 +1460,7 @@ plaintiff.
 service through the issuance of alias writs, the action may be dismissed
 on the application of the defendant or on the court’s own motion.
 
-§ 97. Rule 3. (Form of papers.) Papers in original proceedings
+§ 97. Rule 3. Papers in original proceedings
 shall be prepared as follows: °
 
 (1) All papers and the copies thereof for filing and service shall
@@ -1536,8 +1485,7 @@ opposite party shall have subscribed thereto, or indorsed thereon, the
 business address of the attorney filing the same, or of the party who
 appears in his own proper person.
 
-§ 98. Rule 4. (Manner of serving and nling papers other than
-process). (1) When a party is represented by an attorney of record,
+§ 98. Rule 4. When a party is represented by an attorney of record,
 service shall be made upon such attorney, otherwise service may be
 made upon the party.
 
@@ -1556,7 +1504,7 @@ at his business address, or to the party at his business address or residence, w
 (3) In cases where there are two or more plaintiffs or defendants, who appear by different attorneys, service of all papers shall
 be made on the attorney for each of said parties.
 
-§ 99. Rule 5. (Filing and serving papers.) The complaint
+§ 99. Rule 5. The complaint
 shall be filed with the clerk at the time when the summons is issued.
 
 (2) The defendant shall appear on or before the first return day
@@ -1595,8 +1543,7 @@ pleading or the doing of any act which is required by the rules to be
 done, within a limited time, either before or after the expiration of the
 time.
 
-§ 100. Rule 6. (Miscellaneous allegations and defenses.) (1)
-Different breaches of a contract, bond or other obligation, and different
+§ 100. Rule 6. Different breaches of a contract, bond or other obligation, and different
 breaches. of duty, whether statutory or at common law or both, growing
 out of the same transaction, may be set up in the same count, and
 where a breach of statutory duty is alleged, the statute shall be cited
@@ -1616,8 +1563,7 @@ contract, it shall be sufficient to allege generally that the party performed al
 facts must be alleged in connection with such denial showing wherein
 there was a failure to perform.
 
-§ 101. Rule 7. (Motions for continuance and practice thereon.)
-(1) When either party shall apply for a continuance of a cause on
+§ 101. Rule 7. When either party shall apply for a continuance of a cause on
 account of the absence of material evidence, the motion shall be
 supported by the affidavit of the party so applying or his authorized
 agent, showing that due diligence has been used to obtain such evidence,
@@ -1670,7 +1616,7 @@ paid, on affidavit of the fact, such continuance may be vacated, or the
 court may enforce such payment, with the accruing costs, by contempt
 proceedings.
 
-§ 102. Rule 8. (Affidavits in proceedings for summary judgmcnt.) (1) The affidavits in support of a motion for summary judgment shall be made on the personal knowledge of the affiants; shall
+§ 102. Rule 8. The affidavits in support of a motion for summary judgment shall be made on the personal knowledge of the affiants; shall
 
 set forth with particularity the facts upon which the plaintiff’s cause
 of action is based; shall have attached thereto sworn or certified copies
@@ -1697,7 +1643,7 @@ answers thereto, depositions so taken, and sworn copies of papers and
 in support of plaintiff’s claim or of the affidavit of merits as the case
 may be. '
 
-§ 103. Rule 9. (Discovery of documents an-d books.) (1) Any
+§ 103. Rule 9. Any
 party may, without filing an affidavit, by motion seasonably made,
 -either before or after issue joined and irrespective of the right to employ
 interrogatories in a complaint in equity, or to file a complaint for
@@ -1807,7 +1753,7 @@ obtaining such order, after the same shall have been complied with or
 vacated, shall have the like time to file and serve his complaint, answer,
 of replication, to which he was entitled at the time of making the order.
 
-§ 104. Rule 10. (Admissions from adverse party.) (1) Either
+§ 104. Rule 10. Either
 party may exhibit to the other or to his attorney at any time before the
 trial. any paper material to the action, and request an admission in
 writing of its genuineness. If the adverse party or his attorney fail to
@@ -1851,7 +1797,7 @@ in so far as its inaccuracy shall be pointed out under oath by the adverse party
 of such notice and not less than four days before the case shall be
 called for trial.
 
-§ 105. Rule. 11. (Discovery by deposition.) (1) Any party
+§ 105. Rule. 11. Any party
 to a civil action may cause to be taken, on oral or written interrogatories
 by deposition before trial, in the manner provided by law, the testimony
 of any other party or of any other person, which is relevant to the prosecution or defense of the action, and, if hostile, such person may be examined as though under cross-examination. *
@@ -1865,11 +1811,11 @@ is relevant. may be so taken.
 a deposition for discovery not authorized by this rule, the court _may
 assess damages as costs.
 
-§ 106. Rule 12. (Disclosure not conclusive.) N o disclosure as
+§ 106. Rule 12. No disclosure as
 to any matter, whether obtained by complaint for discovery or by motion
 under rules, shall be conclusive, but may be contradicted by other testimony.
 
-§ 107. Rule 13. (Trial court dockets.) (1) The clerk of each
+§ 107. Rule 13. The clerk of each
 court shall keep a docket of all causes pending in his court, in which
 shall be entered the names of the parties, the nature of the cause of
 action, and the name of the plaintiff’s attorney.
@@ -1881,11 +1827,10 @@ local rules of court.
 they are placed upon the docket, unless the court, for good and sufiicient
 cause. shall otherwise direct.
 
-§ 108. Rule 14. (Short cause calendar.) Any court shall have
+§ 108. Rule 14. Any court shall have
 power to provide by local rules for the expedited trial of short causes.
 
-§ 109. Rule 15. (Form and contents of notice of appeal.) ' (1)
-The notice of appeal shall be entitled as follows:
+§ 109. Rule 15. The notice of appeal shall be entitled as follows:
 
 (a) At the top shall appear the statement, “Appeal to the
 . . . . . . . . . . . .Court,” naming the court to which the appeal is taken,
@@ -1905,8 +1850,7 @@ from a part thereof only, it shall specify which part.
 (3) It shall state what judgments, decrees, orders or proceedings
 are desired from the reviewing court by way of relief.
 
-§ 110. Rule 16. (Leave to appeal from the Appellate to the
-Supreme Court.) (1) The party applying for leave ‘to appeal from an
+§ 110. Rule 16. The party applying for leave ‘to appeal from an
 Appellate Court to the Supreme Court shall file a petition therefor in
 the Supreme Court, stating therein the reasons and grounds of appeal.
 The clerk of the Supreme Court shall thereupon transmit of such filing
@@ -1953,7 +1897,7 @@ Court shall transmit to the clerk of the Supreme Court the original
 record on appeal of the Appellate Court and the certincate of its clerk
 together with the certificate of importance of the Appellate Court.
 
-§ 111. Rule 17. (Service of notice of appeal.) A copy of the
+§ 111. Rule 17. A copy of the
 notice by which the appeal is perfected shall be served upon each appellee
 and upon any co-party who does not appear as appellant, and upon any
 other person or officer entitled by law to a notice of appeal, within 5
@@ -1986,8 +1930,7 @@ with proof of the facts authorizing posting if such method has been
 employed, shall be filed, and no action shall be taken until such evidence
 and proof has been filed.
 
-§ 112. Rule 18. (Notice of appearance and cross-appeal.) (1)
-Each appellee, and each co-party who did not join as appellant, shall
+§ 112. Rule 18. Each appellee, and each co-party who did not join as appellant, shall
 within ten days after service of notice of appeal, serve a notice of appearance upon each party or attorney or firm of attorneys who signed
 the notice of appeal and file a copy thereof in the lower court.
 
@@ -2010,7 +1953,9 @@ Appellate to the Supreme Court, of any additional items to be incorporated in th
 as appellant who, after being served with notice of appeal, does not
 appear and become a co-appellant by serving and filing a notice of
 appearance, shall be barred from thereafter prosecuting any appeal
-from the said judgment, order or decree. . § 113. Rule 19. (The record on appeal.) (1) (a) In appeals taken directly to the Appellate or Supreme Court, the appellant
+from the said judgment, order or decree. . 
+
+§ 113. Rule 19. In appeals taken directly to the Appellate or Supreme Court, the appellant
 shall within 10 days after the notice of appeal has been filed prepare
 and file a pmecipe with the clerk of the trial court and serve a copy
 thereof on the appellee or his attorney, in which appellant shall designate what parts of the trial court record are to be incorporated in the
@@ -2095,8 +2040,7 @@ appeal, it shall be returned to the trial court upon the application of
 either party after the cause or proceeding has been finally decided by
 the Appellate or Supreme Court.
 
-§ 114. Rule 20. (Supersedeas in reviewing court——Manner of
-applying for bond.) (1) If application is made for a supersedeas in
+§ 114. Rule 20. If application is made for a supersedeas in
 the Supreme or Appellate Court the transcript of the portions of the
 record designated in the praecipe iiled in the trial court in accordance
 with Rule 19 and upon which application for supersedeas is made, must
@@ -2144,14 +2088,14 @@ which the judgment or decree complained of is entered. ,
 by the reviewing court, the appellant shall serve notice thereof upon the
 opposing parties within five days after the granting of such supersedeas.
 
-§ 115. Rule 21. (Original actions in the Supreme Court.) In
+§ 115. Rule 21. In
 proceeding in the Supreme Court in original actions relating to therevenue, process shall be served on the defendant at least twenty days
 before the first day of the term. If there shall not be twenty days
 between the day of service and the first day of the term or if a complaint setting forth the cause of action shall not be filed at least twenty
 days before the first day of the term, the cause may be continued on
 the application of the defendant.
 
-§ 116. Rule 22. (Abstracts.) In all cases the party prosecuting
+§ 116. Rule 22. In all cases the party prosecuting
 an appeal in this court shall furnish a complete abstract of the record,
 referring to the pages of the record by numerals on the margin. Where
 the record contains the evidence it shall be condensed in narrative form
@@ -2170,7 +2114,7 @@ understanding of the questions presented for decision unless the opposite party 
 additions. Such further abstract may be filed if the original abstract is
 incomplete or inaccurate in any substantial part.
 
-§ 117. Rule 23. (Briefs.) Each party shall file a printed brief
+§ 117. Rule 23. Each party shall file a printed brief
 in the cause. The brief of appellant shall contain a short and clear
 statement of the case, showing, first, the nature of the action; second.
 the nature of the pleading sufficiently to show what the issues were, and
@@ -2216,8 +2160,7 @@ points contained in the brief. Evidence shall not be copied at length in
 such argument, but reference shall be made by number to the page
 or pages of the abstract where such evidence may be found.
 
-§ 118. Rule 24. (Printing and service of abstracts and briefs.)
-(1) Abstracts and briefs shall be printed on both sides of the paper
+§ 118. Rule 24. Abstracts and briefs shall be printed on both sides of the paper
 in a neat and workmanlike manner, in small pica type and leaded lines,
 upon white paper 6% by 10 inches, as near as may be, bound in book
 or pamphlet form, with a suitable cover containing the title of the reviewing court, of the court from which the case is brought and of the
@@ -2235,8 +2178,7 @@ Attorney General and a State’s attorney both appear for the opposite
 party in this court the proof of service shall show the service of three
 copies on each.
 
-§ 119. Rule 25. (Time of filing and serving abstracts and briefs
-and transmitting record.) The abstract and the brief of the appellant,
+§ 119. Rule 25. The abstract and the brief of the appellant,
 together with proof of service of copies of such abstract and brief on the
 opposite party or his counsel, as required by Rule 24, must be filed in the
 clerk’s office on or before twenty days before the first day of the term
@@ -2256,7 +2198,7 @@ written motion filed with the clerk in term time or with one of the
 justices in vacation, in accordance with Rule 29. Such motions will be
 considered the day following their presentation.
 
-§ 120. Rule 26. (Appeal dockets.) (1) No case on appeal
+§ 120. Rule 26. No case on appeal
 shall be placed on the docket for hearing unless the record is transmitted
 and filed in the reviewing court on or before 20 days before the first
 day of the term, except on special application in extraordinary cases.
@@ -2287,7 +2229,7 @@ court on its own motion.
 
 they are placed a.t the foot of the docket.
 
-§ 121. Rule 27. (Transferred causes.) If any cause is appealed
+§ 121. Rule 27. If any cause is appealed
 to the Supreme Court which should have gone to the Appellate Court,
 or vice versa, it may be transferred to the proper court on motion, and
 upon an order for transferrence being made all documents already filed
@@ -2295,7 +2237,7 @@ in the wrong court shall be transmitted by the clerk to the proper court,
 and the case shall proceed from that point in all respects as though
 the appeal had originally been taken to the proper court.
 
-§ 122. Rule. 28. (Oral arguments.) Oral argument in the
+§ 122. Rule. 28. Oral argument in the
 
 ' Supreme or Appellate Court will be heard on behalf of each party who
 
@@ -2339,7 +2281,7 @@ upon briefs and oral argument or upon briefs, only, no brief or memorandum in re
 
 by the court or one of the justices, after notice to opposing counsel.
 
-§ 123. Rule 29. (Motions in reviewing courts.) Motions in the
+§ 123. Rule 29. Motions in the
 Supreme or Appellate Court shall be filed with the clerk at least one day
 before they are presented to the court and must be submitted at least one
 day before the cause stands for hearing. All motions will be presented
@@ -2356,7 +2298,7 @@ must be filed within twenty-four hours after the motion is presented to
 the clerk for filing. All motions shall be submitted without oral argument upon the written suggestions and affidavits for and against the
 motions.
 
-§ 124. Rule 30. (Rehearings in reviewing court.) (1) A party
+§ 124. Rule 30. A party
 desiring a rehearing in any cause in either the Supreme or Appellate
 Court shall within fifteen (15) days after the nling of the opinion file
 with the clerk and deliver to the official reporter a notice in writing of
@@ -2376,11 +2318,11 @@ justices and he shall be of the opinion the case should be further
 considered by the court on such petition he shall stay all further proceedings in the cause until the next term. Such application shall be
 presented, if practicable, to the justice who wrote the opinion.
 
-§ 125. Rule 31. (Final process from reviewing court.) N 0 final
+§ 125. Rule 31. No final
 process shall issue in any case from the Supreme or Appellate Court
 before the close of the term unless for good cause shown the court shall
 otherwise order.
-§ 126. Rule 32. (Agreed case on appeal.) N o judgment will be
+§ 126. Rule 32. No judgment will be
 pronounced in any agreed case placed upon the docket of the Supreme
 or Appellate Court unless an affidavit shall be filed setting forth that
 the matters presented by the record were litigated in good faith about a
@@ -2388,19 +2330,18 @@ matter in actual controversy between the parties, and that the opinion
 of the reviewing court is not sought with any other purpose than to
 adjudicate and settle the law relative to the matter in actual controversy
 between the parties to the record.
-§ 127. Rule 33. (Inspection of original papers on appeal.)
-Whenever, in the opinion of the trial judge, an inspection of an original
+§ 127. Rule 33. Whenever, in the opinion of the trial judge, an inspection of an original
 paper in an action on appeal shall be important to a correct decision of
 the case, such judge may make such order for the transmission, safe
 keeping and return of such original paper as to him may seem proper.
 ' The clerk of the reviewing court will receive such original paper in connection with the record and hold the same subject to such order.
-§ 128. Rule 34. (Security for costs on appeal.) In any appeal
+§ 128. Rule 34. In any appeal
 in a civil action at law, upon the filing by the appellee of an ailidavit
 that any appellant is not a resident of this State or is insolvent and that
 no bond for costs has been filed, with proof of service of a copy of the
 affidavit, a rule shall be entered against the appellant, of which he shall
 take notice, to show cause why the appeal should not be dismissed.
-§ 129. Rule 35. (Taxing printer’s fees for abstracts.) When
+§ 129. Rule 35. When
 copies of the printed abstract are furnished in conformity with the rules
 of the court, the clerk shall tax a printer’s fee at the rate of one dollar
 and twenty-five cents for each page of one copy of such abstract against
@@ -2410,7 +2351,7 @@ abstract under the rules of this court and shall be successful in the cause
 he shall be entitled to have taxed like fees for such additional abstract
 on motion, if the court shall be of the opinion that such additional
 abstract was necessary.
-§ 130. Rule 36. (Removing records from reviewing court.) N 0
+§ 130. Rule 36. No
 record shall be taken from the files of the court except on special leave
 granted by the court, and it is made the duty of the clerk to report
 promptly to the court every violation of this rule. In cases transferred
@@ -2421,16 +2362,14 @@ trial or hearing, such original report of proceedings at the trial shall,
 on the written request of either party desiring to use it in another trial
 or hearing, be transmitted by the clerk of the reviewing court to’ the
 clerk of the court to which such cause has been remanded.
-§ 131. Rule 37. (Library of Supreme and Appellate Court.)
-The librarian of the Supreme or Appellate Court library shall not permit any person, except the justices, to take from the library any book
+§ 131. Rule 37. The librarian of the Supreme or Appellate Court library shall not permit any person, except the justices, to take from the library any book
 
 without the consent of the court or the chief justice. N 0 books shall
 be marked or underlined with pen or pencil, nor shall the pages of the
 same be folded down, and anyperson offending against these provisions
 shall be considered in contempt of court.
 
-§ 132. Rule 38. (Seniority in Supreme Court—Chief Justice-—
-Order of succession.) Seniority among the justices shall be determined
+§ 132. Rule 38. Seniority among the justices shall be determined
 by length of continuous service, but if the terms of two or more justices
 shall. begin at the same time they shall determine the seniority as between or among themselves by lot, unless they shall be able to determine
 it by agreement. The term of chief justice shall begin on the first Tuesday of June in each year. No justice shall be eligible to act as chief
@@ -2440,7 +2379,7 @@ justice shall be preferred, and among the latter, seniority as determined
 by this rule shall control. When all eligible justices shall have theretofore served as chief justice, then the justice whose last term as chief is
 most remote shall succeed.
 
-§ 133. Rule 39. (Reporting and publishing decisions.) (1) As
+§ 133. Rule 39. As
 to the time and manner of publishing decisions in the Supreme Court,
 the following rules shall be observed:
 
@@ -2691,8 +2630,7 @@ of five dollars. Each applicant for admission to the bar, whether upon
 examination or admission on a foreign license, shall pay to the board
 in advance a fee of fifteen dollars. The blanks for all information required shall be furnished by the board. —
 
-§ 135. Rule 41. .(Proceeding to strike attorney’s name from roll.)
-In case an application shall be made to strike the name of an attorney
+§ 135. Rule 41. In case an application shall be made to strike the name of an attorney
 from the roll there shall be filed an information making clear and
 specific charges, giving time, place and acts of misconduct with reasonable certainty, signed by the Attorney General, a State’s attorney, the
 president and secretary of a regular organized bar association, either incorporated or unincorporated, or any person aggrieved by the misconduct
