@@ -15,6 +15,6 @@ pattern <- regex("(\n§((\\s+)?)\\d+((\\.)?)|\n\\$((\\s+)?)\\d+((\\.)?)|\nchapte
 chunks <- str_split(doc, pattern)[[1]]
 chunks <- str_trim(chunks)
 for (i in seq_along(chunks)) {
-  filename <- str_c(out_file_stem, "-", str_pad(i * 10, 8, pad = "0"), ".txt")
+  filename <- str_c(out_file_stem, "-", str_pad(i * 10, 6, pad = "0"), ".txt")
   writeLines(chunks[[i]], filename)
 }
