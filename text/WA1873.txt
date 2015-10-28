@@ -5,17 +5,17 @@ Of the Parties to Civil Actions.
 CH.APTER I. 
 Be it enacted Liy the Legrsla u ve Assembly of the Territory
 of Washington: 
-~ection 1. 'I'hat the common law of England, so far as it
+SEC. 1. That the common law of England, so far as it
 is uot repugnant to, or inconsistent with the constitution and 
 laws of the united States and the organic act and laws of
 Washington Territory, shall be the rule of decision in all the 
 courts of this Territory.
-~ec. ~- All common law torms of action, and all distinc­ 
+SEC. 2. All common law torms of action, and all distinc­ 
 tions between law and equity are hereby abolished, and here·
 after there shall be in this 1'erritory but one form of action to
 establish and enforce private rights, which shall be called a 
 civil action.
-~ec. a. The party commencing the action shall be 
+SEC. 3. The party commencing the action shall be 
 known as the plaintiff, and the opposite party the defendant.
 Sec. 4. Every action shall be presented in t he name 
 of the real party in interest, except as is otherwise provided 
@@ -90,7 +90,7 @@ either by joining the plaintiff in claiming what is sought by
 the complaint, or by uniting with the defendant in resisting
 the claims of the plaintiff, or by demanding anything adverse­
 ly to both the plaintiff and defendant. 
-Rec. 15. The intervention shall be by petition or com­
+SEC. 15. The intervention shall be by petition or com­
 plaint filed in the court in which the action is pending, and
 must set forth the grounds on which it is based, and a copy
 thereof be served upon the party or parties against whom
@@ -102,9 +102,8 @@ vening is not sustained, he shall pay ail costs incurred by the
 intervention· Provided, That no Intervention shall 'be cause
 for delay in the trial of an action between the original parties
 thereto beyond the term to which the action is brought. 
-Of Limitation of Actions.
-CHAPTER II. 
-Sec. lG. Actions can only be commenced within the
+
+Sec. 16. Actions can only be commenced within the
 periods herein prescribed after the cause of action shall have
 accrued, except when in special cases a ditf erent limitation is 
 prescribed by statute; but in the district court the objection
@@ -119,7 +118,7 @@ maintained for such recovery unless it appear that the plain­
 tiff, his ancestor, predecessor or grantor was seized or pos­
 sessed of the premises in question within twenty years before
 the commencement of the action. 
-Sec. 1.8. Within six years: 
+Sec. 18. Within six years: 
 1. An action upon a judgment or decree of any court of
 the United States. · 
 2. An action upon a contract in writing, or liability ex­
@@ -173,7 +172,7 @@ due upon a mutual open and current account, where there
 have been reciprocal demands between the parties, the cause 
 of action shall be deemed to have accrued from the time of
 the last item proved in the account on either side. 
-Sec. 24. 'I'he limitations prescribed in this act shall
+Sec. 24. The limitations prescribed in this act shall
 apply to actions brought in the name of the Territory or for its
 benefit, in the same manner as to actions by private parties. 
 Sec. 25. If when the cause of action shall accrue against
@@ -186,7 +185,7 @@ shall depart from and reside out of this Territrory or conceal
 himself, the time of his absence or concealment shall not be
 deemed or taken as any part of the time limited for the com­
 mencement of such action. 
-Sec. 2G. If a person entitled to bring an action men­
+Sec. 26. If a person entitled to bring an action men­
 tioned in this act, except for a penalty or forfeiture, or
 against a sheriff or other officer, for an escape, be at the time 
 the cause of action accrued either:
@@ -219,24 +218,24 @@ plaintiff be reversed on error or appeal. the plaintiff. or if he
 die and the cause of action survives, his heirs or representa- 
 ti ves may commence a new action within one year after the
 reversal. 
-See. 31. No person shall avail himself of a disability
+SEC. 31. No person shall avail himself of a disability
 unless it existed when his right of action accrued. 
 Sec. 32. When two or more disabilities shall co-exist
 at the time the right of action accrues, the limitation shall not
 attach until they all be removed. 
-Sec. ::m. No acknowledgment or promise shall be suffi­
+Sec. 33. No acknowledgment or promise shall be suffi­
 cient evidence of a new or continuing contract whereby to take
 the case out of the operation of this act, unless the same
 is contained in some writing signed t>y the party to be charged 
 thereby; but this section shall not alter the etf ect of any pay­
 ment of principal or interest. 
-Sec. 84. Whenever any payment of principal or interest
+Sec. 34. Whenever any payment of principal or interest
 has been or shall be made upon any existing contract, whether
 it be a bill of exchange, · promissory note, bond or other evi­
 deuce of indebtedness, if such payment be made after the same
 shall have become due, the limitation shall commence from
 the time the last payment was made. 
-Sec. H5. When the cause of ar-tion has arisen · in an­
+Sec. 35. When the cause of ar-tion has arisen · in an­
 other state, territory or country between non-residents of this
 Territory, and by the laws of the state, territory or country
 where the cause of action arose, an action cannot be main­
@@ -250,8 +249,7 @@ the statutes now in force, be revived by the provisions of this
 act, but upon any cause of action, now existing, time already
 elapsed prior to the passage of this act shall be computed as
 if the same had elapsed under this act. 
-Of Venue of Civil Actions.
-CHAPTER III. 
+
 Sec. 37. Actions for the following causes shall be
 commenced in the county or district in which the subject of 
 the action, or some part thereof, is situated.
@@ -298,8 +296,7 @@ and transmit such transcript, together with all the papers on
 file in his office, connected with such action, to the clerk of the
 district court of such newly created county, wherein it shall 
 be proceeded with as in other cases. 
-Manner of Commencement of Civil Actions.
-CHAPTER IV. 
+
 Sec. 40. Civil actions in the several district courts of this
 Territory shall be commenced by the service upon the defend­
 ant of a copy of the complaint and a notice, which notice shall
@@ -321,7 +318,7 @@ of parties, which shall not have been received and placed on
 file before the second day of the term, or which i.;ha II not ap­ 
 pear to have been served on the dcf'oudunt t wvut y day:,; or
 more before the commencement of the term. 
-Ree. -!:!. In ull cases, except where the HPnh·t· iH mudr- by
+SEC. 42. In ull cases, except where the HPnh·t· iH mudr- by
 publication as is hereinafter provided for, the not icr- :,;ha II be
 served by the sln-rift' of the countv wln-re the def «udan t is 
 found, Or by his deputy, Ol' by a pt•rson other than t he plain­ 
@@ -332,7 +329,7 @@ and signed by the party making them. 'I'Iu- uot ice shn ll he re­
 turned to the office of the district ck-i-k with t lu- return of the
 sheriff or his deputy endorsed t hr-rt-ou ; 01· if :,;p1·n·1l by a per­
 son special ly appointed, his affidn v it. 
-~1·<·. -t:t T'lu- nnt ie« slui ll lit• :-lPl'VPd by dt>lin·l'ing a eopy
+SEC. 43. The notice shall be served by delivering a eopy
 thereof, together with a: cert ifled l'Opy of tho complaint as fol­ 
 lows: 
 1. If the snit be against a corporution, to the presidcut or 
@@ -391,7 +388,7 @@ placed upon flle : Provided, That personal sorvice out of the
 dist rict or tr-rritorv shall be equivalent to personal service
 within the dist rlr-t or 'l'ert-itor-v, at the expiration of two
 months from the time servic« is made. 
-SP,·. 45. Whenever it shall appear by the return of the
+SEC. 45. Whenever it shall appear by the return of the
 sheritf. or his deputy, or the person appointed to spryp a no­
 fice, that he has not served it upon t he defendants us pre­
 scribed, the plaintiffs may issue another notice, and so on till 
@@ -425,12 +422,12 @@ Territory in which the defendant was served or the affidavit
 of the person appointed to make the service. In case of ser­
 vice otherwise than by publication, the certiflcat« .. , affldavit or 
 admission must state the time, place and manner of service.
-Rn'. 48. The r-ourt shall be deemed to have obtained 
+SEC. 48. The court shall be deemed to have obtained 
 possession of the case from the time the complaint is flied with
 the clerk after completion of the service, whether by publica­
 tion or otherwise, and shall have control of all subsequent 
 proceedings.
-Rec. M). A voluntary appearance of the defendant shall 
+SEC. 49. A voluntary appearance of the defendant shall 
 be equivalent to personal service, but no motion which may
 properly be made before demurrer or answer filed, shall be 
 deemed a ·voluntary appearance. 
@@ -472,10 +469,9 @@ Sec. 55. The demurrer shall distinctly specify the
 ~rounds of objection to the complaint; unless it does so, it may
 be disregarded; it may be taken to the whole complaint; or 
 ~I) any one of the alleged causes of action stated therein.
-Rec. 56. When any of the matters enumerated in sec· 
-tion fifty-four do not appear upon the face of the com­
+SEC. 56. When any of the matters enumerated in section fifty-four do not appear upon the face of the com­
 plaint, the objection may be taken by answer. 
-Rec. 57. If no objection be taken, either by demurrer or
+SEC. 57. If no objection be taken, either by demurrer or
 answer, the defendant shall be deemed to have waived the
 same, excepting only the objection to the jurisdiction of the
 court, and the objection that the complaint does not state
@@ -509,24 +505,24 @@ to such new matter in the answer ; or he may demur to the
 same for insufficiency, stating in his demurrer the grounds
 thereof, and the plaintiff may demur to one or more of several
 defenses or set-offs in the answer, and reply to the residue. 
-8ec. 63. If the answer contain a statement of new mat­
+SEC. 63. If the answer contain a statement of new mat­
 ter constituting a defense, and the plaintiff fa ils to r·t·ply or
 demur : hereto, within the time prescribed by law, the (lpfpnd­ 
 and may move in the court for such judgment HR In- shall be
 entitled t o upon such statement, and if t he case rr-qui rt- H, n
 writ of damages may be issued. 
-Rec. (Lt If a reply of the plaintiff to any def ensr- set- np
+SEC. 64. If a reply of the plaintiff to any def ensr- set- np
 by the answer of the defendant be insufflcient. t lu- dofr-ndant
 may demur thereto, and shall state th« grounds thereof', 
-Rec. 65. 'I'he court shall establish the rules prr-scrib­
+SEC. 65. The court shall establish the rules prr-scrib­
 ing the time in which pleadings subsequent to the corn­ 
 plaint shall be filed. 
-CHAP'fER VI. 
+CHAPTER VI. 
 Verification of Pleadings.
-8(•c. GG. Every pleading shall be subscribed by the parry 
+SEC. 66. Every pleading shall be subscribed by the parry 
 or his attorney, and except a demurrer shall also be ver-lfied
 by a Illda vit, as set forth in the next section. 
-Sec. t:i'i. The verification shall be to the effect thu t the
+Sec. 67. The verification shall be to the effect thu t the
 same is true, except as to matters stated on information, and 
 as to those matters that he believes them to be true. The affl·
 davit may be made by the party, or if there be several parties,
@@ -569,11 +565,11 @@ thereof. 'I'hc court, or a judge thereof, may order a further ac­
 count, when the one delivered is defective; and the court may,
 in all cases, order a bill of particulars of the claim of either
 party to be furnished. . 
-Rec. {1!). In the consrruction of a pleading, for the
+SEC. 69. In the consrruction of a pleading, for the
 purpose of determining its effect, its allegations shall be liber- 
 ally construed, with a view to substantiate justice between the
 parties. 
-Sec. 70 .. If irrelevant or redundant matter be in­
+Sec. 70. If irrelevant or redundant matter be in­
 serted in a pleading it may be stricken out on motion ol any
 person aggrieved thereby; and when the allegations of a plead· 
 ing are so indefinite or uncertain that the precise nature of the
@@ -658,13 +654,7 @@ of, by virtue of a special property therein, he shall not thereby
 be defeated of his action. but shall be permitted to amend, on
 reasonable terms his complaint. and he =ntltled to iudgment. 
 according to the proof in the case. 
-~t·(_·. ~7. ~o JH1·~on sh.i l l k~ annnt·d DI' lu-ld to hai l in 
-any aetio11, t·xe<•pt upon tlu- order of tlu- «nm-t w lu-rr- the ac­ 
-tion is ln-oughr, 01· a judge of the suprc-ru« «ourr.
-Bc·e. ~~- ThP dcfrHdnnt ma v be- ;.u·,·p:-:tP,1 as i~ lu-rt-iuaf'ter 
-provided in t lu- f'ol lowlug eH~l'~ and f'o r t ht> fol l owinjr t·a USPS 
-only: 
-Amedments of Pleadings.
+
 Sec. 83. At any time before judgment, the court, on 
 motion, may authorize any of the pleadings to be amended on
 such terms as shall be deemed reasonable; and at any tune
@@ -675,27 +665,29 @@ able notice to the adverse party, or his attorney, may relieve
 a party from such judgment, order, or proceeding taken
 against him through his mistake, inadvertence, surprise, or
 excusable neglect, and supply an omission in any proceedings. 
-~ee. M. vv hen the pla int itf shall be- iguorunr or trre 
+SEC. 84. When the pla int itf shall be- iguorunr or trre 
 nauu- of t lu- defr-ndunt , it shall l>t> so stnr--d i11 tlu- pleading, 
 and such defendant may be designated in any pleading or pro­
 ceeding by any name, and when his true name shall be discov­
 ered. the pleading or proceeding may be amended accordiuuly. 
-~e<·. ~5. TlH• court sha II, iu <'\'<•t·y i-;t ,t:.r<' of an action, 
+SEC. 85. the court sha II, iu <'\'<•t·y i-;t ,t:.r<' of an action, 
 disregard any 1:•1Tor 01· defect in plt->a<ling~ 01· procevdings 
 which shall not affect the substantial 1·ig·hts of t he adverse
 party, and no judamvnt slial l be 1·t~,·p1·~ed or a tf'er-tr-d by reason
 of such error or defect. 
-~P<'. ~f), 'l'h« court may. on m ot iou. allow supploun-ntal
+SEC. 86. The court may. on m ot iou. allow supploun-ntal
 procer-dinus, show inz fa,1-s whir-h 01·1·111T<'cl dtl'J' t lu- former 
 pleadings were filed. 
 CHAPTER VIII. 
 l'HAPTEH IX. 
 Of .\ JTP:-:t. 
-1. \\· 1i<,n 1"11<> ad ion is upon n «on tru <·t to r<·1·0,·1·1· dam­ 
+SEC. 87. No person shall be arrested or held to bail in any action, except upon the order of the court where the action is brought, or a judge of the supreme court.
+SEC. 88. THe defendant may be arrested as is hereinafter provided in the following cases and for the following causes only:
+1. When the action is upon a contract to recover dam­ 
 aµ:n,, and t lu- dd~·tHl.rnt has m onev or p1·01w1·ty, and is about 
 to abscond f'roiu 1 IH· 'L'('t·1·it01·y with. or <·011cTal or dispo:--e of
 the same, with intent to defraud his creditors. 
-:!. \\·lwn t lie action is to rvvovc-r pm,~P:-:~Lrn of SJH·eific 
+2. When the action is to rvvovc-r pm,~P:-:~Lrn of SJH·eific 
 articles of personal property, or any instrument of writing,
 and the defendant conceals, or is about to conceal, destroy or
 dispose of the subject matter of the suit, with intent to de­ 
@@ -716,14 +708,14 @@ to comply with the legal order of the court, with intent to de­
 fraud the plaintiff; or, when any one or more of the causes
 exist for which an arrest is allowed, in the first class of cases
 mentioned in this section. 
-~,'.c. :,.:fl. The court or judge making the order sha1l first
+SEC. 89. The court or judge making the order sha1l first
 bl' safo·1P<l by the affidavit of the party, and ot her proof', that 
 the ,·;1~P is oru- in which an arrest is provided for in section 
 t·ighty-dght, and that one or more of theprescribed can scs ex­
 ist. which prnof shal l bl' in writiug, and, together with the 
 order, be tih-d w it h t lu- vle rk, Li. Io re he sha ll issue any war­
 runt for t lu- arr.st. 
-~t·<·. !)0. 'l'Iu- court or jndgP uiakiug the order shal l, in 
+SEC. 90. The court or jndgP uiakiug the order shal l, in 
 all cases, specify therein the amount in which the de­
 fendant shall be In-Id to bair, which shall, in no case, exceed
 the demand of the plaintiff', and one hundred dollars in addi­
@@ -732,7 +724,7 @@ writ, and the court shall also, in the order, fix the amount of
 the bond to be given by the plaintiff, as provided in the next 
 succeeding section. which amuunt sha ll in no case be less than
 one hundred do] la rs. 
-~p(·. !ll. Bdo1·<· am· clerk sha 11 issue a warrant fur the
+SEC. 91. Before any clerk sha 11 issue a warrant fur the
 arrest of the defendant, he shall require the plaintiff 
 to place on file in his office, a eopy of the order granting the
 warrant, unless the same was made in open court and ap­
@@ -745,7 +737,7 @@ suffer. and all expenses he shall incur by reason of such arrest
 or imprisonment, if the order sha ll be vacated in the manner 
 provided for in the next succeeding section, or if the plajntiff
 fail to recover in his action. 
-Het·. H:!. The defendant may, on motion apply to the
+SEC. 92. The defendant may, on motion apply to the
 court to vacate the order of arrest, on the ground of in·
 sufficiency of the proof, or he may show that the facts alleged
 upon which the order issued, are untrue, or he may apply to
@@ -755,7 +747,7 @@ charged from the arrest, and any bond he may have given
 shall be canceled, but the action, unless dismissed for other
 cause, shall be conducted in the same manner as in cases 
 where complaint and notice were duly served and filed. 
-~<.-'('. H:L When an order of an arrest is granted prior lo the
+SEC. 93. When an order of an arrest is granted prior lo the
 filing of the complaint, the warrant shall not issue 
 until the complaint is tiled with the clerk, and a copy of r;aid
 wurruut sha ll he served on the defendant with the wnrrant ;
@@ -763,10 +755,10 @@ but an order of arrest may be granted at any time after the
 action is commenced and before judgment is satisfied, when
 the party seeking the order shall comply with the preceding
 provisions in regard to arrests. 
-~t'<.-. !l4. The warrant must be delivered tn the sheriff,
+SEC. 94. The warrant must be delivered tn the sheriff,
 who, upon arresting the defendant, must deliver to him a ~opy
 thereof. 
-~t·<·. H:i. Thr- 1-1lwriff shall execute the wnrrant bv ar­
+SEC. 95. The sheriff shall execute the wnrrant bv ar­
 resting the defendant, and keeping him in custody ~ntil 
 discharged by law. And the plaintiff, in first instance,
 shall be liable for the sheriff's fees, for the food and mainte­ 
@@ -777,7 +769,7 @@ and be collected as other costs. And if the plaintiff shall
 neglect to pay such fees for t h ree days after a demand, in
 writing. upon the plaintiff or his attorney, for payment, the
 sheriff may discharge the defendant out of custody. 
-Kn·. !Ht ThP defendant may gin:' bail by causing a bond
+SEC. 96. THe defendant may gin:' bail by causing a bond
 to be executed by two or more sufficient sureties, stat­ 
 ing their places of residence and occupations, conditioned
 that the defendant shall at all times render himself amenable 
@@ -813,14 +805,14 @@ order and the papers used on such application, they shall be
 exonerated accordingly. But this section does not apply to
 an arrest for the cause meutioned in the third subdlvision of
 section eighty-eight. 
-Sec. !lU. For the purpose of surrendering the defendant
+Sec. 99. For the purpose of surrendering the defendant
 the bail, at any time or place before they are finally
 discharged, may themselves arrest him, or, by written auth­ 
 thority, indorsed upon a certified copy of the bond, may em·
 power any person of suitable age and discretion to do so. 
 Sec. 100. In case of failure to comply with the condition
 of the bond, the bail can be proceeded against by action only. 
-St•e. 101. The bail may be exonerated, either by the
+SEC. 101. The bail may be exonerated, either by the
 death of the defendant, or his imprisonment in a peni­
 tentiary, or by bis legal discharge from the obligation to
 render himself amenable to the process, or by his surrender
@@ -828,7 +820,7 @@ to the sherift of the county where he was arrested, in exon­
 eration thereof. within twenty days after the commencement
 of the action against the bail, or within such further time as
 may be granted by the court. 
-Sec. 102. ,vithin the time limited for that purpose, the
+Sec. 102. Within the time limited for that purpose, the
 sheriff must deliver the order of arrest to the clerk. with
 his return endorsed thereon, and the bond of the bail or a 
 copy thereof. The plaintiff. within ten days thereafter, may
@@ -844,7 +836,7 @@ of the peace, at a specined time and place, the time to be not
 less than ti ve days nor more than ten thereafter. In case
 other bail be given there must be a new bond in the form
 prescribed in section ninety-six. 
-l:5ec. 104. The qualificatlous of the Lail shall Le as fol­
+SEC. 104. The qualificatlous of the Lail shall Le as fol­
 lows: 
 1. Each of them shall be a resident of the Territory; but
 no counsellor or attorney at law, sheriff, clerk of the district
@@ -858,7 +850,7 @@ execution; but the judge or justice, on justification, may ullow
 more than two sureties to Justify, severally, in amounts less
 than that expressed in the order, if the whole justiflcatton be
 equivalent to that of two sufficient bail. 
-See. 105. For tlu- purpose of justitlcat ion, 1',u·h of the
+SEC. 105. For tlu- purpose of justitlcat ion, 1',u·h of the
 bail must attend before the judge or justice of the peace
 at the time and place mentioned in the notice, and may be
 examined on oath on the part of the plaintiff touching his
@@ -866,30 +858,30 @@ sufficiency, in such manner as the judge or justice of the
 peace, in his discretion, may think proper. 'I'he examination
 must be reduced to writing and subscribed by the bail, if re­
 quired by the plaintiff. 
-RP,·. HHi. If tlu- juctg-<' or just ice find t h« hail sutflcieut,
+SEC. 106. If tlu- juctg-<' or just ice find t h« hail sutflcieut,
 he shall annex the examination tr, the bond, endorse his al­
 lowance thereon and cause them to be filed with the clerk, 
 and the sheriff shall thereupon be oxoneraterl from liability.
-RPe. 107. ThP dof'endnnt may at tho t im» of his arrr-st, 
+SEC. 107. ThP dof'endnnt may at tho t im» of his arrr-st, 
 instead of giYing bail, deposit with the sheriff the amount
 mentioned in the ordl·r.-1'he sheriff must thereu pon give the
 defendant a certlflcnte of deposit, and the defendant shall be
 discharged out of .-ustodv. 
-Rt-1<·. 10~. Thr- slu-i-iff shall, w it h in tr-n dan.: a f'tr-r t lu­ 
+SEC. 108. The slu-i-iff shall, w it h in tr-n dan.: a f'tr-r t lu­ 
 deposit, pay the same into court, and take froi'n the officer
 receiving the same two cerfiflcates of such pavment. the one
 of which he must deliver to the plaintiff and the other to the
 defendant F'lr any rlef<:\P14- in making such pnvment, the
 same pl'O<'PPdings mav bl' had on the offlcin l bond of thP shr-i-iff 
 to cnllr-ct the sum deposited, as in othr-r r·ai,;pi,; of ,lf•linqn,.nry.
-Rer·. Hl!l. If mOJH'.Y lw deposited, as prnvid,«! in the 
+SEC. 109. If mOJH'.Y lw deposited, as prnvid,«! in the 
 last two sections, bail may be given and justified, upon
 notice as hereinbef'ore provided, at any time before judgment;
 and thereupon the judge before whom [ustiflcation is had,
 shall direct in the order of allowance that the money depos­
 ited be refunded by the sheriff or clerk to the defendant, and
 it shall be refunded accordingly. 
-Sec. 110. ,vhen money shall have been so deposited, if
+Sec. 110. When money shall have been so deposited, if
 it remain on deposit at the time of an order or [udg­
 ment for the payment of money to the plaintiff, the clerk
 shall, under the direction of the court, apply the same in the
