@@ -1,14 +1,14 @@
 TITLE FIRST.
 OF ORIGINAL WRITS.
 
-1. All personal Actions, except Replevin, brought
+SEC. 1. All personal Actions, except Replevin, brought
 in any Court of Law in this State, shall be commenced by Writ of Summons; and the said Writ shall
 be issued by the clerks of the said Courts respectively, directed to the Sheriff or other proper officer.
 
-2. It shall not be necessary to mention any Form
+SEC. 2. It shall not be necessary to mention any Form
 or Cause of Action in any Writ of Summons.
 
-3. Every Writ of Summons shall contain the name
+SEC. 3. Every Writ of Summons shall contain the name
 or names of the Plaintiff or Plaintiffs, and of the Defendant or Defendants; and shall state the day and
 the place when and where the Defendant or Defendants is or are to appear to answer the Action; and
 shall bear date on the day on which the same shall be
@@ -19,7 +19,7 @@ of the Court from which it shall issue; and shall be
 signed, and sealed with the seal of the Court, by the
 Clerk thereof.
 
-4. The Writ of Summons shall be in the following form:
+SEC. 4. The Writ of Summons shall be in the following form:
 
  
 
@@ -50,7 +50,7 @@ the day of in the year &.c.
 
 , Clerk.”
 
-5. Before the issuing of any Writ of Summons,
+SEC. 5. Before the issuing of any Writ of Summons,
 the Plaintiff or Plaintiffs, or his, her, its or their Attorney, shall deliver a Memorandum in writing according to the following form, or to the like effect:
 
 . .0
@@ -73,7 +73,7 @@ or his, her, its or their Attorney.
 
 Brought the
 
-6. If any Defendant or Defendants named in any
+SEC. 6. If any Defendant or Defendants named in any
 Writ of Summons shall not have been served therewith, 'by the return day of th.e Writ, such Writ may
 3be renewed, at any time before the next term of the
 Court, and be returnable to the same, and may be so
@@ -85,22 +85,22 @@ time for the commencement of the Action may be
 ilimited, and for all other purposes, from the date of
 athe issuing the original Writ of Summons.
 
-\7. The ‘Sheriff or other person serving the Writ of
+SEC. 7. The ‘Sheriff or other person serving the Writ of
 Summons, shall endorse on -the same “Summoned” -or
 “Can not be found” orl“Is dead” or -as the case may
 ‘be. And such endorsement shall be sufficient evi-dence of the fact endorsed.
 
-8. The service of the Writ of Summons shall be
+SEC. 8. The service of the Writ of Summons shall be
 as heretofore personal.
 
-9. In any Action brought against two or more Defendants, if one "or more of such Defendants, only,
+SEC. 9. In any Action brought against two or more Defendants, if one "or more of such Defendants, only,
 shall appear, and another or others of them shall not
 appear: provided the Writ of Summons has been
 served upon such as do not appear, it shall be lawful
 for the Plaintiff or Plaintiffs to declare against all of
 the Defendants, and proceed as if they all had appeared. ~
 
-10. A Defendant or Defendants may appear at any
+SEC. 10. A Defendant or Defendants may appear at any
 time before judgment; and if he, she, or they appear
 after the time specified in the Writ of Summons, he,
 she or they shall, after notice of such appearance to
@@ -111,7 +111,7 @@ day in the Writ, shall not be entitled to any further
 time for pleading or any other proceeding, than if he
 had appeared within the appointed time.
 
-11. The mode of Appearance to every Writ of
+SEC. 11. The mode of Appearance to every Writ of
 
 Summons, shall be by delivering a Memorandum in '
 
@@ -129,7 +129,7 @@ against C. B. and others. B., appears for him.
 Such Memorandum to be delivered to the Clerk of
 the Court, and to be dated on the day of the delivery thereof, and signed by the Defendant or Defendants, or his, her, its or their Attorney.
 
-12. In any case where the Defendant has been
+SEC. 12. In any case where the Defendant has been
 
 summoned, and does not appear by the return day of '
 
@@ -138,12 +138,12 @@ it had appeared.
 
 \
 
-13. The Action of Replevin shall be brought for
+SEC. 13. The Action of Replevin shall be brought for
 
 the specific recovery of personal property, and fordamages for the detention of the same; and in caseof the property being eloigned, for damages only, anti
 costs.
 
-14. The Writ of Replevin shall specify the particular goods and chattels to be replevied, and shall contain the name or names of the Plaintiff or Plaintiffs,,
+SEC. 14. The Writ of Replevin shall specify the particular goods and chattels to be replevied, and shall contain the name or names of the Plaintiff or Plaintiffs,,
 and of the Defendant or Defendants ;. and shall contain a Summons for the Defendant or Defendants to
 appear before the Court, and. shall state the time and
 the place for such appearance; and shall bear date
@@ -154,7 +154,7 @@ tested in the name of the Judge of the Court from
 which it shall issue; and shall be signed, and sealed
 with the seal of the Court, by the Clerk thereof.
 
-'15. The Writ of Replevin shall be in the following form-:
+SEC. 15. The Writ of Replevin shall be in the following form-:
 
 *“ County (or City) ‘to wit:
 
@@ -187,7 +187,7 @@ Clerk.”
 
  
 
-I6‘. It shall not be necessary, for the. Plaintiff or‘
+SEC. 16. It shall not be necessary, for the. Plaintiff or‘
 Plaintiffs in an Action of Replevin, to deliver to the
 Clerk of the Courta Memorandum. inwriting, as-is.
 required to be done before the issuing of a. Writ of
@@ -196,7 +196,7 @@ by the Clerk of the Court, upon alproper Bond being delivered to him, and the ot
 
 the law, if any, complied with..
 
-17'. The mode of’ Appearance to av Writ of Re-- ’
+SEC. 17. The mode of’ Appearance to av Writ of Re-- ’
 
 plevin by the Defendant or Defendants, shall be by
 delivering. a Memorandum in Writing to the Clerk of
@@ -204,7 +204,7 @@ delivering. a Memorandum in Writing to the Clerk of
 the Court, like the one required ‘for. appearing to. the
 Writ of Summons..
 
-18. In- all actions of ' Replevin, if the Defendant or
+SEC. 18. In all actions of ' Replevin, if the Defendant or
 Defendants shall be returned “Summoned” and shall
 not appear in person or by Attorney, on or before the
 fourth day of the term, next succeeding that to which
@@ -213,7 +213,7 @@ for the Plaintiff or Plaintiffs for the property replevied, and for damages in t
 upon satisfactory proof of any, and costs; which judgment shall be as valid and effectual, as any judgment
 rendered on the verdict of a jury.
 
-. 19. The sheriff‘ or other person serving the writ
+SEC. 19. The sheriff‘ or other person serving the writ
 of Replevin shall endorse on the same “-Repleviedr
 
 and delivered” or “Eloigned” as a return to that
@@ -223,12 +223,12 @@ Defendants to be summoned, the same returns as on
 the Writ of Summons; and such endorsements shall
 be sufficient evidence of the facts endorsed.
 
-20. In case of the return by the Sheriff of “Eloigned” to any Writ of Replevin, the Writ may be
+SEC. 20. In case of the return by the Sheriff of “Eloigned” to any Writ of Replevin, the Writ may be
 renewed in the same manner as the Writ of Summons; and no alias or pluries Writ of Replevin, or
 Capias in Withernam shall hereafter be used. And
 upon the renewal or renewals of such Writ of Replevin the Bond upon which the first Writ was issued shall be responsible.
 
-21. If, in any action of Replevin the Defendant or
+SEC. 21. If, in any action of Replevin the Defendant or
 Defendants or one or more of them shall reside in a
 different jurisdiction or jurisdictions in the State from
 that in which the goods and chattels to be replevied
@@ -246,7 +246,7 @@ Fojicer) of
 it, but returnableat the next » term,'when it is issued
 upon the return of the Writ.
 
-22. The Notice required by the preceding rule
+SEC. 22. The Notice required by the preceding rule
 shall be as follows:
 
 (C
@@ -286,7 +286,7 @@ Court, the———-day of in the year, &.c.
 
  
 
-23. Before the issuing ofany‘ Notice in m Action:
+SEC. 23. Before the issuing ofany‘ Notice in m Action:
 of Replevin, the Plaintifiior I?laintiE‘s,. or'his,.her, its
 or their Attorney shall deliver a Memorandum in writing according, to the following, form or to the. like effeet:
 
@@ -307,7 +307,7 @@ Such. Memorandum to- be deliveredlto the- Clerk of
 the Court, andtto be dated on the day of the. delivery thereof, and signed by the Plaintiff or Plaintiffs,
 or his, he.r,_,its. or their Attorney.
 
-«24. And in case the D‘efend'an~t or Drefendiants so»
+SEC. 24. And in case the D‘efend'an~t or Drefendiants so»
 
 residing in a different jurisdiction shall be returned‘
 
@@ -320,16 +320,17 @@ any, and costs; which jtrdagment shall be as valid and
 e%'ectua1 as any judgment. rendered on the verdict of
 a Jury, .'
 
-25. And suLh Notice to a D‘efend‘a~nt or’ Defendants, residing in .a different jurisdintion,,shall, upon a
+SEC. 25. And suLh Notice to a D‘efend‘a~nt or’ Defendants, residing in .a different jurisdintion,,shall, upon a
 return of “ Cannot be found,” be renewable, in the
-same ‘manner as a Writ of ' Summon.s,.against any defendant not served therewithCHA PTER Is'r ..
+same ‘manner as a Writ of ' Summon.s,.against any defendant not served therewith
+
 TITLE SECOND.
 
 IO-INDER OF‘ PARTIES. T03 ACTIONS.
 ARTICLE 194'.
 J-OINDER OF‘ PLAINTIFFS.
 
-26. It shall and maybe lawful for the Court, at
+SEC. 26. It shall and maybe lawful for the Court, at
 any time before the trial of "a »ca=use, to order that any_
 person or persons, not joined as Plaintiff or Plaintiffs’
 in such cause, shall .be- so joined’, or that any person
@@ -350,7 +351,7 @@ shall have been added as Co-plaintiff or Co-plaintiffs
 shall, subject to any terms imposed as aforesaid, be.
 the same as if such person or persons had been originally joined in the cause.
 
-27. In case it shall appear at the trial of any action, that there has been a misjoinder of Plaintiffs, or
+SEC. 27. In case it shall appear at the trial of any action, that there has been a misjoinder of Plaintiffs, or
 that some person or persons not joined as Plaintiff or
 Plaintiffs ought to have been so, joined, such misjoinder or non-joinder may be amended as a variance at
 the trial, if it shall appear to the Court that injustice
@@ -371,7 +372,7 @@ to any terms imposed as aforesaid, be the same as if
 such person or persons had been originally joined in
 such action.
 
-28. In all cases where a plea in abatement of nonjoinder of a person or persons as Co-plaintifff or C0plaintifffs shall be pleaded, the Plaintiff shall be at
+SEC. 28. In all cases where a plea in abatement of nonjoinder of a person or persons as Co-plaintifff or C0plaintifffs shall be pleaded, the Plaintiff shall be at
 
 liberty without any order of the Court, to amend the
 Writ and other proceedings before plea, by adding the
@@ -379,7 +380,7 @@ name or names of the person or persons named in
 such plea, and proceed_in the action without any further appearance, on payment of the costs of, and occasioned by such amendment only, and in such case,
 the Defendant shall be at liberty to plead de novo.
 
-29. In any action brought by a man and his wife,
+SEC. 29. In any action brought by a man and his wife,
 in respect of which she is necessarily joined as Coplaintifff, it shall be lavvful for the husband to add
 thereto claims in his own right; and separate actions
 brought in respect of such claims may be consolidated, if the Court shall think lit ; provided, that in the '
@@ -407,7 +408,7 @@ manner as the misjoinder of Plaintiffs has been before
 directed to be amended, and upon such terms as the
 Court shall think proper. , i
 
-31. In any action on contract where the non-jo.inderof any person or personsas a Co-defendant or C0defendants has been pleaded" in ab‘at_ement,_ the Plaintiff, shall be at, liberty, Without ' any order, to amend
+SEC. 31. In any action on contract where the non-jo.inderof any person or personsas a Co-defendant or C0defendants has been pleaded" in ab‘at_ement,_ the Plaintiff, shall be at, liberty, Without ' any order, to amend
 
 the Writ of Summons and the Declaration by adding.
 
@@ -419,7 +420,9 @@ against the original Defendant or Defendants, and
 the person or persons-so named in such plea in abatement: provided that ,the,_ date ‘of. such, amendment
 shall, as between the person or persons so‘ named in
 such .p1ea « in abatement and  ,Bl§.in.tiff,, he seasidered for all purposesas the co1I1mencem.ent'of the
-aption._;'-  32. In all cases after such ~ plea in abatement and
+aption._;'-  
+
+SEC. 32. In all cases after such ~ plea in abatement and
 amendment, if it shall appear upon the trial of the
 action that the person olri'p'ersons, so named in such
 plea abatement, was er were jointly.l_iafile with
@@ -449,7 +452,7 @@ TITLE THIRD.
 
 JOINDER OF CAUSES OF ACTION.
 
-3. Causes of Action of whatever kind, provided
+SEC. 33. Causes of Action of whatever kind, provided
 they be by and against the same parties, and in the
 same rights, may be joined in the same suit; but this
 shall not extend to Replevin or Ejectment: but the
@@ -465,7 +468,7 @@ CHAPTER 2ND.
 GENERAL RULES OF PLEADING APPLICABLE TO ALL CASES.
 FUNDAMENTAL RULE.
 
-34. The Pleadings shall be so conducted, as to evolve upon the record by the effect of the allegations
+SEC. 34. The Pleadings shall be so conducted, as to evolve upon the record by the effect of the allegations
 themselves, the questions of law and of fact disputed
 
 between the parties, and present them as the subject
@@ -478,7 +481,7 @@ RULES WHICH BRING THE PARTIES TO
 
 GENERAL RULE.
 
-35. The Plaintiff shall first state his cause of action in a Declaration. After the Declaration, the
+SEC. 35. The Plaintiff shall first state his cause of action in a Declaration. After the Declaration, the
 parties shall, at each stage, demur, or plead by way
 of traverse, or by way of confession and avoidance.
 And in case a party does neither, but confesses the
@@ -488,7 +491,7 @@ shall give judgment for the adverse party.
 ARTICLE lstr.
 OF DEMURRER.
 
-36. Either party may object by Demurrer to the
+SEC. 36. Either party may object by Demurrer to the
 Pleading of the opposite party, on the ground that
 such pleading does not set forth sufficient ground of
 action, defense, or reply, as the case may be. But
@@ -496,7 +499,7 @@ no pleading shall be deemed insuilicient for any defect which could heretofore o
 special demurrer, nor for the violation of any rule
 hereinafter prescribed which relates only to form, unless specially provided for_.
 
-37. Every Demurrer shall particularly express the
+SEC. 37. Every Demurrer shall particularly express the
 causes of the same, not in general terms, but in a
 
 specific statement of some point of law showing in
@@ -514,15 +517,15 @@ be stated; and if ‘any Demurrer without such statement or with a frivolous sta
 may be set aside by the Court, and judgent may be
 entered up for want of a plea.
 
-38. The Form of a J oinder in Demurrer shall be
+SEC. 38. The Form of a J oinder in Demurrer shall be
 as follows or to the like effect:
 
 “ The Plaintiff (or Defendant) says that the Declaration (or Plea, &c.) is good in substance.”
 
-39. Every Demurrer shall be taken as a confession
+SEC. 39. Every Demurrer shall be taken as a confession
 of all the facts pleaded without regard to form.
 
-40. When issue is joined on Demurrer, at any
+SEC. 40. When issue is joined on Demurrer, at any
 stage of the cause, the Court shall consider the allegations through the whole series of pleadings, and
 give judgment according as the very right of the
 cause and matter in law shall appear unto it, without
@@ -531,75 +534,77 @@ regarding“  ‘imperfection, omission‘, defect "in, or
 lack’ of foam,‘ for the gpartywho on-theiwhole appears
 ‘to be entitled to it. And no judgment shall be arrested, stayed sor reversed for any such imperfection, omission, rdefectgin or glackrof form.
 
-4l.>‘There shall not bea Demurrer upon a Demuro'er. ' E
+SEC. 41. There shall not be a Demurrer upon a Demurrer.
+
+TITLE 
 
 or THE EFFECT or TPLEADING OVER
 WITHOUT DEMURRER.
 
-42. If a declaration be defective in substance, and
+SEC. 42. If a declaration be defective in substance, and
 the defendant pleads over; and the plea supplies, by
 {express statement of fact, but not otherwise, the deSfect ‘in the declaration, such defect shall .be thereby
 lcured.
 
-43. Where there is any ‘imperfection, or omission
+SEC. 43. Where there is any ‘imperfection, or omission
 twhatever, in any , pleading, which would be a fatal
 «objection on Demurrer, yet if the issue joined be such
 -as necessarily required on the trial ‘proof of the facts
 -.-so imperfectly stated, or omitted, such imperfection or
 «omission shall be cured by the verdict.
 
-M ARTICLE 2m).
+ARTICLE 2m).
 or "TRAVERSE,  
 
-44. There shall be only two forms of Traverse,
+SEC. 44. There shall be only two forms of Traverse,
 «Liz: a Direct Traverse, and an Indirect Traverse.
 
 The General Issues, and the Replication dc injuria,
 and the formal Traverse with an absque .hoc shall not
 be used. . l »
+TITLE
+OF DIRECT TRAVERSec.
 
-OF DIRECT TRAVERSE.
-
-45. A Direct Traverse shall consist of a direct denial of the facts alleged by the opposite party; and it
+SEC. 45. A Direct Traverse shall consist of a direct denial of the facts alleged by the opposite party; and it
 shall always be expressed in the negative, unless opposed to a precedent negative, then it may be expressed in the afiirmative. 4
 
-46. Where, to any action for injury to. person or
+SEC. 46. Where, to any action for injury to. person or
 character, or property, any matter of excuse or justiiication is pleaded, the plaintifff shall, in the Replication, deny it in the words of the excuse or justification or to the like effect, or may plead some special
 defense.
-
+TITLE
 OF INDIRECT TRAVERSE,
 
-47. All defenses, except a direct denial of the facts
+SEC. 47. All defenses, except a direct denial of the facts
 alleged, shall be pleaded specially. I ‘
 
-48. Whenever a defendant shall plead special facts
+SEC. 48. Whenever a defendant shall plead special facts
 which deny indirectly the facts alleged by the plaintifff, if the plaintifff do not demur, he shall in the replication, either deny directly the special facts so
 pleaded, or plead some matter by Way of confession
 
 and avoidance, and in either case the defendant shall
 pmmm;
 
-49. Any defense, showing that a parol contract or
+SEC. 49. Any defense, showing that a parol contract or
 deed sued on, is void or voidable, or the fact that the
 alleged deed was delivered to a third person as an
 escrow, shall he pleaded specially.
 
-‘ ARTICLE 331:.
+ARTICLE 331:.
 OF CONFESSION AND AVOIDANCE.
 
-50. Any ground of defense, that admits the facts.
+SEC. 50. Any ground of defense, that admits the facts.
 
 , alleged in the Declaration or in any other pleading,
 
 but avoids their legal elfect, by some matter of justiiication or excuse, or of discharge or release, shall be:
 specially pleaded.
 
-51. The fiction. of Express C'.‘oIor- shall not he al;lowable.
+SEC. 51. The fiction. of Express C'.‘oIor- shall not he al;lowable.
 
 ARTICLE 4111..
 OF PLEADINGS IN GENERAL”
 
-52.. Whatever facts are necessary to» constitute the
+SEC. 52. Whatever facts are necessary to» constitute the
 ground of Action, Defence, or Reply, as the case may
 he, shall he stated in the Pleading, and nothing more;
 _and facts only shall be, stated, and- not arguments, or
@@ -607,7 +612,7 @@ jnferences, or matter of. law, or of evidence, or of
 
 . which the Court takes. notice ex ojicio.
 
-s  Allstatements which need me! bepreved, such
+SEC. 53. All statements which need me! bepreved, such
 as the statement-of Time, Quantity, Quality, and "Val'ue,'where these are immaterial; the statement of lo-sing and finding, and Bailment, in Actions for goods,
 :or their value; the statement of Acts of Trespass
 having been committed ‘wi,thi'orce‘and arms, and against ‘the peace, dignity and government of t'he'State
@@ -616,31 +621,33 @@ of Maryland; the statement of taking in Actions of
 ‘be proved, or promises in Indebitatus counts, and
 mutual promisesfto perform agreements; and all statements -:of a like kind, shall be omitted.
 
-'54. An allegation shall not have two intendments:
+SEC. 54. An allegation shall not have two intendments:
 but it "shall state one point distinctly, so that the adverse ‘party may know on what to join issue. And
 if an allegation shall have two intendments, it shall,
 upon motion, be considered ‘by the Court as anullity.
 
-55. Where there are material allegations in a
+SEC. 55. Where there are material allegations in a
 pleading, that are repugnant to each other, the first
 in order shall be considered the ‘proper one, and all
 others inconsistent with it, shall be rejected, even
 though the pleading be thereby left without an allegation of some material fact.
 
-'56. N o superfluous allegation, whether it be consistent or inconsistent with the necessary and material allegations,'ner any impertinent allegation shallv;itiate a pleading.
+SEC. 56. No superfluous allegation, whether it be consistent or inconsistent with the necessary and material allegations,'ner any impertinent allegation shallv;itiate a pleading.
 
-57'. Il'.'any Pleading be; sos framed asto-prejudice,
+SEC. 57. If any Pleading be; sos framed asto-prejudice,
 embarrass or delay" the fairtrialof. the, action, the op»
 posite party may movethe-.a Court.‘ tostrike: out or:a.mend such.pleading,_.and the Court shall make such
 order respectingthe same, and also. respecting, the
 costs, asthe Court shall. se'evli..t..
 
-58. It sha1L not be necessaryto make.Prof"ert offany:
+SEC. 58. It sha1L not be necessaryto make.Prof"ert offany:
 Deed or otherrdocument mentioned. on relied on in;
 any pleading; and if. Profert shall.be.~ made,.it, shall.
 
 n.ot entitle the opposite party to crave Oyer of.or. set.
-out upon Oyer such deed,_. or other document'59. A Party pleading, in answer; to: any pleading"
+out upon Oyer such deed,_. or other document
+
+SEC. 59. A Party pleading, in answer; to: any pleading"
 
 in Which. any document is mentioned or referred. to,
 shall be at liberty to set out the whole,. or such. part
@@ -648,12 +655,12 @@ thereof, as may be material, and the matter, so set
 out, shall be deemed and taken tobe part of the
 Pleading in which it is set out. '
 
-60. Where in a Pleading, any thing is alleged generally to have been done, it shall be considered as
+SEC. 60. Where in a Pleading, any thing is alleged generally to have been done, it shall be considered as
 meaning legally done, ‘and, by the proper instrument
 of Writing Where one is required, without stating how
 or in what manner it was done; ' ‘
 
-1, 61.. It shall be lawfulfor the Plaintiff or Defendant;_in.ariy_,acti0.n, to. aver pe_rformance’of conditions
+SEC. 61. It shall be lawfulfor the Plaintiff or Defendant;_in.ariy_,acti0.n, to. aver pe_rformance’of conditions
 precedemgenerally, and the.op,posi,teT party shallnot
 
 deny such averment generally, but shall specify in his
@@ -662,43 +669,43 @@ pleading the condition or conditions precedent, the‘
 
 performance of which he intends to contest.
 
-62. Parties shall be -respectively confined to the
+SEC. 62. Parties shall be -respectively confined to the
 grounds both of fact and of law which they take in
 the declaration and the plea, and shall not resort to
 another in any subsequent pleading.
 
-63. A Pleading should not anticipate the answer
+SEC. 63. A Pleading should not anticipate the answer
 of the opposite party. It is sufficient that each pleading contain facts which constitute a good, prima facie
 claim or defense, or reply, without reference to possible objections not yet urged. But where the matter is such, that its affirmation or denial is essential to
 the apparent or prima facie right of the party pleading, there it ought to be affirmed or denied in the
 first instance, though it may be such as would otherwise properly form the subject of objection on the
 other side.
 
-- 64. The Form of pleading shall in no case whatever control its substance. Matter, though alleged in
+SEC. 64. The Form of pleading shall in no case whatever control its substance. Matter, though alleged in
 the form of inducement, if it be of the substance of
 
 the cause, may be pleaded to. And so, in all like
 instances.
 
-65. If the plaintifff allege a greater title or estate
+SEC. 65. If the plaintifff allege a greater title or estate
 than is necessary to sustain his cause of action and It
 
 be traversed to the full extent, he shall not be compelled to ‘prove’ more than is necessary to sustain his
 action. And if ‘a defendant puts into his plea more
 than is needed for. his defense, he shall not be compelled to prove more than is needed for his defense.
 
-66. When a pleading can be taken two ways it
+SEC. 66. When a pleading can be taken two ways it
 
 shall be taken in that which is most against the party
 pleading it. - ‘
 
-.67. Every Pleading shall be in writing, and signed
+SEC. 67. Every Pleading shall be in writing, and signed
 either by the party or his Attorney.
 
-i 68. Every Declaration and other Pleading shall be
+SEC. 68. Every Declaration and other Pleading shall be
 entitled of the proper Court.
 
-69. Whenever any rule of Pleading contained in
+SEC. 69. Whenever any rule of Pleading contained in
 this code shall specify in terms, only one or more
 species, as Declaration, Plea, or any other, yet if in
 its nature and scope the rule be applicable to other
@@ -710,18 +717,18 @@ ARTICLE 513.
 
 OF THE DECLARATION.
 
-70. -A ~PlaintiE shall recover only in respect of the
+SEC. 70. A Plaintiff shall recover only in respect of the
 ground of action stated in his declaration, and not in
 
 respect of another disclosed by the Defendant’s plea.
 
-71*. Whenever 9. Plaintiff claims a right derogatony fromthe: general law, or when his claim is founded upon: an exception of. any kind, he shall set forth:
+SEC. 71. Whenever a Plaintiff claims a right derogatony fromthe: general law, or when his claim is founded upon: an exception of. any kind, he shall set forth:
 such claim or such. exception particularly. in. his de.elaration. ‘
 
-72. In all’ actions‘ ontybondss with conditions, theP1aintif1" shall in the declaration notice the conditions,
+SEC. 72. In all’ actions‘ ontybondss with conditions, theP1aintif1" shall in the declaration notice the conditions,
 and allege the breach or breaches- relied. on; ‘
 
-73. In- all actions of’ Libel and"Sland'er5. the’-Plaintiff shall be. at liberty to aver that the wordssor matter complained; of were used in- at defamatory sense,.
+SEC. 73. In all actions of’ Libel and"Sland'er5. the’-Plaintiff shall be. at liberty to aver that the wordssor matter complained; of were used in- at defamatory sense,.
 specifying such defamatory sense,twi;thout any prefatory averment, toxshow howqsuch. Words or-‘matter’
 were used. in that sense, and such: averment shall. beput in issue by the denial of the: alleged Libels or
 
@@ -729,10 +736,10 @@ Slander; and. where thewords, or: matter set forth,.
 
 with or without the alleged meaning, show. a cause:
 of action,.the Declarationshall be:sufi‘icient.. ,
-
+TITLE 
 (lF COMMEvN=C'ElVIENT'S’ AN;-D “ CLUSIONS OF DECLARATIONS? 5 ’
 
-‘Z4. Every Declaration; shall commenceas fol1ows,,
+SEC. 74. Every Declaration; shall commenceas fol1ows,,
 or to. the, like effect; ’
 
 ..i
@@ -754,36 +761,36 @@ ARTICLE 6TH.
 OF PLEADINGS SUBSEQUENT TO THE
 DECLARATION.
 
-75. Every Pleading must be an answer to the
+SEC. 75. Every Pleading must be an answer to the
 whole of what is adversely alleged; but where there
 are several allegations, each of which is essential to
 the supportof the Pleading, the opposite party may
 traverse one, or more of them, as he pleases.
 
-76. Whenever a plea does not answer the whole
+SEC. 76. Whenever a plea does not answer the whole
 Declaration, whether it professes to do so or not, the
 Plaintiff may have judgment, as by nil dicit, against
 the Defendant, in respect of what is not answered.
 
-77. Every pleading shall be considered as confessing such traversable matters alleged on the other side,
+SEC. 77. Every pleading shall be considered as confessing such traversable matters alleged on the other side,
 as it does not traverse; but facts not traversed shall
 not be taken as admitted for any other action between
 the same parties, if the present issue be found for the
 person traversing.
 
-78. Apleadingrshall not be consideredas admitting the sufficiency in law, of the facts adversely alleged.
+SEC. 78. Apleadingrshall not be consideredas admitting the sufficiency in law, of the facts adversely alleged.
 
-79. A traverse must not be taken upon matter of
+SEC. 79. A traverse must not be taken upon matter of
 law; but where a mere legal inference is stated in a
 pleading, and the opposite party wishes to deny it,
 
 his course shall be, to demur. But where an allegation is mixed of law and fact, it may be traversed.
 
-80. A traverse must not be taken upon matter not
+SEC. 80. A traverse must not be taken upon matter not
 alleged; but it may be taken upon matter, which
 though not expressly alleged, is necessarily implied.
 
-81. 'Where a part of the facts stated constitute a
+SEC. 81. 'Where a part of the facts stated constitute a
 cause of action or a defense,‘the part must be denied
 as well as the whole 3 and if the part be proved it will
 be sufficient. And where a sum of money -is alleged
@@ -792,17 +799,17 @@ and a general denial or a denial that the whole sum
 isnot due, shall be taken to mean that no part of the
 sum is due.
 
-82. W here an allegation, ‘less general than the one
+SEC. 82. Where an allegation, ‘less general than the one
 ‘set forth in a Pleading, would constitute a cause of
 action, or a defenc'e,~or a reply, the Defendant or Plaintiff shall .not deny it generally, but shall so plead as
 to deny any cause of action or defense in the case.
 
-83. Whenever the traverse tendered by a Plaintiff
+SEC. 83. Whenever the traverse tendered by a Plaintiff
 to the Defendant’s plea is such as will enable the
 Plaintiff to recover, without proving his right, it shall
 upon motion be amended by the Court.
 
-84. Whenever a plea does not answer the whole
+SEC. 84. Whenever a plea does not answer the whole
 declaration, and the Plaintiff demurs to "it, without
 
 entering judgment for that part of his Declaration,
@@ -813,22 +820,24 @@ apply to the plea, in the same manner, as if judgment
 had been entered for the part of the declaration not
 answered.
 
-85. It shall not be allowable, both to plead and (lee
+SEC. 85. It shall not be allowable, both to plead and (lee
 mur to the same matter: but if the Demurrer be
 
 overruled, then the party shall be allowed to withdraw the Demurrer and to plead.
 
-86. ‘All questions of law, unless raised by demure
+SEC. 86. All questions of law, unless raised by demure
 rer, shall fall under the decision of the Jury in the issue in fact, subject to the direction of the Court, upon
 a prayer for that purpose. '
 
-87. When a party pleads, it mustbe either by way
+SEC. 87. When a party pleads, it mustbe either by way
 of traverse, or of confession and avoidance; and if
 the pleading amounts to neither of these modes of
 answer, it shall, upon motion, be set aside.
 
-88. Wherever in pleading, there shall be two affirmatives. which do not impliedly negative each other,
-the next pleading to be pleaded shall deny the last affirmative; and the other shall go for nothing89. The Plaintiff in any action may plead, in answer to the Plea or any subsequent Pleading of the
+SEC. 88. Wherever in pleading, there shall be two affirmatives. which do not impliedly negative each other,
+the next pleading to be pleaded shall deny the last affirmative; and the other shall go for nothing.
+
+SEC. 89. The Plaintiff in any action may plead, in answer to the Plea or any subsequent Pleading of the
 Defendant, as many several matters as he shall think
 necessary to sustain his action: and the Defendant in
 any action may plead, in answer to the Declaration,
@@ -842,9 +851,8 @@ and in fact. And the costs of any issue, either of
 fact or law, shall follow the finding or judgment upon such issue, and be adjudged to the successful party, whatever may be the result of the other issue or
 issues,
 
-5
 
-90. In a Plea or subsequent pleading it shall not be
+SEC. 90. In a Plea or subsequent pleading it shall not be
 necessary to use any allegation of ./fctionem mm, or
 Jfctionem ulterius non, or Onerari non, or to the like
 effect, or any Prayer of Judgment, nor shall it be necessary in any Replication or subsequent Pleading, to
@@ -852,7 +860,7 @@ effect, or any Prayer of Judgment, nor shall it be necessary in any Replication 
 use any allegation of Precludi non, or to the like effect, or any Prayer of Judgment.
 n
 
-91. N o formal Defence shall be required in a Plea,
+SEC. 91. No formal Defence shall be required in a Plea,
 or Avowry, or Cognizance, and it shall commence as
 follows, or to the like effect:
 
@@ -884,17 +892,17 @@ and no formal Conclusion shall be necessary to any
 Plea, Avowry, Cognizance, or other Subsequent
 Pleading.
 
-92' Any defense. arising after the commencement
+SEC. 92. Any defense. arising after the commencement
 of any action shall he pleaded according to the fact,
 Without any formal Commencement or Conclusion;
 and any Plea, which does not state, whether the defense therein set ‘up, arose before or after Action,
 shall be deemed to be a Plea of matter arising before
 action.
 
-93. Any defense which may arise after the last
+SEC. 93. Any defense which may arise after the last
 pleading, in any case, may be pleaded with an allegation that the matter has arisen since the last pleading.
 
-94. It shall be lawful for the defendant, or for one
+SEC. 94. It shall be lawful for the defendant, or for one
 or more of several defendants in all actions (except
 Actions for Assault and Battery, false Imprisonment,
 Libel, Slander, Malicious Arrest or Prosecution,
@@ -907,7 +915,7 @@ A of the Court, and the Clerk shall give a receipt for it
 upon the back of the plea, and the said sum shall be
 paid out to the'Plaintiff or his Attorney, upon a written authority from the Plaintiff on demand.
 
-95. When money is paid into Court, such payment
+SEC. 95. When money is paid into Court, such payment
 
 shall he pleaded as'near as may be, in the following
 form:
@@ -923,7 +931,7 @@ matter herein pleaded to~.”‘
 
  
 
-96.. The Plaintiff, after the delivery of. a Plea of
+SEC. 96. The Plaintiff, after the delivery of. a Plea of
 Payment of money into Court, shall be at liberty to
 reply to the same, by accepting the sum so paid into
 Court in fullsatisfaction and discharge of the cause
@@ -934,7 +942,7 @@ Court is. not enough to» satisfy the claim of the Plaintiff in respectof the ma
 for the Defendant, the defendant shall be entitled to
 judgment and his costs of suit.
 
-97. Wherever there may arise a doubt whether
+SEC. 97. Wherever there may arise a doubt whether
 the cause of action is of the nature of a breach of
 contract or of a wrong, the Court shall give the defendant the benefit of the doubt; and any Plea in
 
@@ -944,7 +952,7 @@ be objectionable on the ground of its treating the
 Declaration, either as framed for a breach of contract
 or for a wrong. _
 
-98. Pleas of Payment and Set-oil‘ and all other
+SEC. 98. Pleas of Payment and Set-oil‘ and all other
 Pleadings, capable of being construed distributively,
 shall be taken distributively, and if issue is taken
 thereon, and so much thereof, as shall be sufficient
@@ -953,7 +961,7 @@ be found true by the Jury, a verdict shall pass for the
 Defendant in respect of so much of the causes of action as shall be answered, and for the Plaintiff in respect of so much of the causes of action as shall not
 be so answered.
 
-99. Either party may plead, in answer to the Plea
+SEC. 99. Either party may plead, in answer to the Plea
 or Subsequent Pleading of his adversary, that he
 joins issue thereon, which Joinder of Issue may be as
 follows, or to the like effect:
@@ -967,29 +975,29 @@ Replication to the 1st. &.c., (specifying what) Plea ;”
 And such Form of oinder of Issue shall be deemed to be a direct Denial of the Substance of the’Plea
 or other Subsequent Pleading, and an issue thereon.
 
-100. Whenever any particular fact is selected and
+SEC. 100. Whenever any particular fact is selected and
 ‘directly denied, as Well as where all the facts are directly denied, by any pleading, the party to plead
 next, shall merely add a joinder of issue.
 
-101. Whenever a-Defendant cannot take any new
+SEC. 101. Whenever a-Defendant cannot take any new
 or other issue in his rejoinder, than the matter he has
 pleaded, without a departure from his plea, or where
 the issue on the rejoinder would be the same in substance, as on the plea, the Plaintiff shall, in his Replication, plead that he joins issue on the Defendant’s
 plea, and may add a joinder of , issue for the Defendant.
 
-102. If a traverse be taken upon an immaterial allegation, that is, on matter which is either irrelavent
+SEC. 102. If a traverse be taken upon an immaterial allegation, that is, on matter which is either irrelavent
 or insufficient in law, or matter which is only introductory or explanatory, or matter -of aggravation, the
 opposite party may have judgment as for want of a
 plea.
 
-103. N o more of an allegation shall be traversed,
+SEC. 103. No more of an allegation shall be traversed,
 than is material. The circumstances, which though
 forming a part of the allegation, are immaterial to the
 merits of the action, must not be traversed, and if
 traversed, the traverse shall upon motion be corrected,
 the party so traversing paying costs.
 
-104. It shall not be necessary for the defendant to
+SEC. 104. It shall not be necessary for the defendant to
 verify the truth of any plea, except dilatory pleas, by
 affidavit or aE‘irmation; nor being heir, executor or
 administrator, to obtain leave of the Court, to" put in
@@ -1000,7 +1008,7 @@ ARTICLE 7rn.
 
 OF’ NEW ASSIGNMENT.
 
-105. Where the Defendant pleads an evasive plea,
+SEC. 105. Where the Defendant pleads an evasive plea,
 either as to the whole or a part of the cause of action
 set forth in. the Declaration, the Plainti&' may avoid
 the effect of such Plea, by restating his cause.of action with more particularity, consistently however
@@ -1008,7 +1016,7 @@ the effect of such Plea, by restating his cause.of action with more particularit
 with the more general statement set forth in the
 Declaration.
 
-106. One New Assignment only shall be pleaded
+SEC. 106. One New Assignment only shall be pleaded
 to any number of Pleas to the same cause of action ;
 
 and such new assignment shall be consistent with
@@ -1018,7 +1026,7 @@ for causes of action different from all those which the
 Pleas "profess to justify, or for an excess over and above what the defenses set up in such pleas justify,
 or both.
 
-107. N o Plea, which has already been pleaded to
+SEC. 107. No Plea, which has already been pleaded to
 the Declaration, shall be pleaded to such new Assignment, except a Plea in direct denial, unless by
 leave of the Court; and such. leave shall only be
 granted, upon satisfactory proof that the repetition
@@ -1032,13 +1040,13 @@ ARTICLE 151:.
 
 OF NAMES OF PERSONS.
 
-108. The Declaration as well as the~Summons shall
+SEC. 108. The Declaration as well as the~Summons shall
 set forth accurately the Christian names and Surnames of both parties, and the Christian names and
 Surnames of persons not parties to the action: but
 Where the name of a person, not a party to the action, shall not be known, an allegation of the fact
 shall be sufiicient.
 
-109. Wherever a party shall be sued by a wrong
+SEC. 109. Wherever a party shall be sued by a wrong
 Christian name or Surname, or both, upon aliidavit
 
 or other proof to the satisfaction of the Court, at any
@@ -1048,7 +1056,7 @@ shall, upon motion, direct any writ, declaration or
 other pleading, or any entry, to be amended, by inserting therein, the true name of the party, on. such
 terms as the Court shall deem lit.
 
-110. A mistake in the name either of a party to
+SEC. 110. A mistake in the name either of a party to
 
 the action, or of a person not a party to the action,
 may be objected to as a variance, at the trial.
@@ -1056,7 +1064,7 @@ may be objected to as a variance, at the trial.
 ARTICLE 22m.
 OF TIME.
 
-111. When Time ‘forms a material point in the
+SEC. 111. When Time ‘forms a material point in the
 merits of a cause, the day, month and year, or when
 there is a continuous act, the period of its duration,
 must be alleged, and proved as laid. When time is
@@ -1066,7 +1074,7 @@ ARTICLE 3119.
 
 5OF PLACE.
 
-112. It shall be necessary to allege aplace only
+SEC. 112. It shall be necessary to allege aplace only
 when it is descriptive of the subject matter of the
 action, and forms a part of the substance of the issue; and it must be proved as laid.
 
@@ -1074,10 +1082,10 @@ ARTICLE 413.
 
 OF QUALITY OR KIND. ‘
 
-113. In actions for injuries to goods "and chattels,
+SEC. 113. In actions for injuries to goods "and chattels,
 their kind or species shall be alleged in the declaration, and must be proved as laid
 
-114. In actions for breaking the plaintifff ’s close, or
+SEC. 114. In actions for breaking the plaintifff ’s close, or
 for any injury to real property, the plaintifff shall describe the property, and when the injury is to an incorporeal hereditament, shall describe the property in
 
 respect of which the right is claimed, (as well as the
@@ -1088,41 +1096,39 @@ which the property is patented, or by its abuttals, or
 
 has acquired by reputation, or by some other description certain enough to identify it.
 
-ARTI(:}l'_.lil 5TH.
+ARTICLE 5TH.
 or QUANTITY AND VALUE.
 
-115. Where quantity forms a part of the substance
+SEC. 115. Where quantity forms a part of the substance
 of the issue, it must be alleged, and specified with
 
 reference to the ordinary measures of extent, Weight
 or capacity. And where value forms a part of the
 substance of the issue, it must be alleged, and specified by the current coin of the United States..
 
-116. A verdict shall not be for a larger quantity or
+SEC. 116. A verdict shall not be for a larger quantity or
 value than is alleged.
 
 ARTICLE 6'rH.
 
 OF TITLE.
 
-117. When, in pleading, any right or authority is
-set up in respect of property, personal or real, some ’
-
-title to that property must be alleged in the party, or
+SEC. 117. When, in pleading, any right or authority is
+set up in respect of property, personal or real, some title to that property must be alleged in the party, or
 in some other person from whom he derives his authority. And if a party be charged with any liability
 
 inrespect of property, personal or real, his title to
 that property must be alleged, and proved as laid.
 
-118. In no case shall it be -necessary to allege title
+SEC. 118. In no case shall it be -necessary to allege title
 more particularly than is sufficient to show the right
 or authority claimed, or the liability charged.
 
-119. In the action of Replevin, for Cattle taken
+SEC. 119. In the action of Replevin, for Cattle taken
 damage feasant, it shall be sufficient for the Defendant
 to allege mere title of possession.
 
-120. -In .an action for breaking the Plaintiff ’s close,
+SEC. 120. In an action for breaking the Plaintiff ’s close,
 when the Defendant justifies under a right of way or
 other incorporeal right over or in the Plaintilf’s close,
 it shall not be necessary for the Defendant, in ‘his
@@ -1135,13 +1141,13 @@ of the close; as a plaintiff is allowed to do in his declaration, when sueing fo
 ARTICLE 7m.
 OF DERIVATION OF TITLE.
 
-121. It shall not be necessary to allege the commencement of either aparticular or of a superior estate, unless it be essential to the merits of the cause.
+SEC. 121. It shall not be necessary to allege the commencement of either aparticular or of a superior estate, unless it be essential to the merits of the cause.
 
-122. Where a party claims by inheritance, either
+SEC. 122. Where a party claims by inheritance, either
 by immediate or mediate descent, he shall allege how
 he is heir, as son, nephew, or otherwise.
 
-123. Where ‘a party claims by conveyance, ‘he may
+SEC. 123. Where ‘a party claims by conveyance, ‘he may
 
 , state it according to its legal effect or name.
 
@@ -1149,13 +1155,13 @@ TITLE THIRD.
 
 RULES WHICH MAKE THE ISSUE A SINGLE ONE.
 
-124. Any number of facts constituting one cause
+SEC. 124. Any number of facts constituting one cause
 of action, or one defense, or one reply, or any other
 pleading, may be combined: but each cause of action,
 and each defense, and each reply, shall be stated in
 a separate paragraph, and shall be numbered.
 
-125. If each cause of action, or each defense, or
+SEC. 125. If each cause of action, or each defense, or
 each reply, or other pleading shall not be stated in a
 separate paragraph and numbered, the Court, or the
 Judge, at any time after such pleading is ‘filed, and
@@ -1172,7 +1178,7 @@ TITLE FOURTH.
 
 OF JUDGMENT.
 
-126. Whenever judgment is to be given, whether
+SEC. 126. Whenever judgment is to be given, whether
 the issue be in law or in fact, and whether the cause
 
 has proceeded to issue or not, and whether there has
@@ -1182,7 +1188,7 @@ whole series of pleadings and adjudge for the plaintifff
 or defendant, according to the legal right as it may on
 the whole series of pleadings appear.
 
-127. In all, actions where the Plaintiff recovers a
+SEC. 127. In all, actions where the Plaintiff recovers a
 sum of money, the amount to. which he is entitled
 may be awarded to him by the judgment generally,
 without, any distinction being therein made as to,
@@ -1190,13 +1196,13 @@ without, any distinction being therein made as to,
 whether such sum is recovered by way of debt or
 damages.
 
-128. The form of all judgments shall be merely a
+SEC. 128. The form of all judgments shall be merely a
 statement, in common language, of the award of the
 Court, without regard to the forms of action heretofore existing.
-
+TITLE 
 JUDGMENT JVOJV‘ OBST./QJVTE VEREDICTO.
 
-129. Whenever the plea issuch as to show to the
+SEC. 129. Whenever the plea issuch as to show to the
 
 Court, that the Defendant is not entitled to recover
 upon the merits, and the issue’ joined thereon be
@@ -1207,7 +1213,7 @@ the Plaintiff non obstante veredicto.
 TITLE FIFTH.
 REPLEADER.
 
-130. Wherever the issue joined and tried shall be
+SEC. 130. Wherever the issue joined and tried shall be
 an immaterial one, the Court shall award a Repleader ; and the parties shall begin to replead at the first.
 fault which produced the immaterial issue. And the
 pleadings in such case, shall be in the forms hereinbefore prescribed for pleadings in general; and shall
@@ -1216,17 +1222,17 @@ be substituted for the defective pleadings.
 TITLE SIXTH.
 ABATEME N T.
 
-131. It shall not be necessary to use any prayer of
+SEC. 131. It shall not be necessary to use any prayer of
 judgment in any Plea in Abatement. Nor shall it be
 necessary, in any Plea in Abatement to crave oyer of
 any instrument of writing on which the suit is brought,
 nor to insert it in the Plea.
 
-132. * No formal Defence, and no formal‘Conclusion shall be required in Pleas in Abatement. \ They
+SEC. 132. No formal Defence, and no formal‘Conclusion shall be required in Pleas in Abatement. \ They
 shall commence in the Form hereinbefore prescribed
 for Pleas in bar, or to the like effect.
 
-133. In a Plea in Abatement for the non-joinder of
+SEC. 133. In a Plea in Abatement for the non-joinder of
 
 a co—defendant or co-defendants, it shall be necessary
 to allege, and to prove, that the persons mentioned
@@ -1234,7 +1240,7 @@ as not joined, are still living and are residing in the
 County in which the suit is brought, or the City of
 Baltimore, if the suit be brought there.
 
-134. All defects in Pleas in Abatement shall be
+SEC. 134. All defects in Pleas in Abatement shall be
 
 corrected, upon motion, as in other pleadings under
 this code.
@@ -1243,7 +1249,7 @@ TITLE SEVENTH.
 
 MOTIONS.
 
-135. Every motion required by this code shall be
+SEC. 135. Every motion required by this code shall be
 
 in writing, and shall assign reasons: but no particular
 form shall be necessary.
@@ -1252,7 +1258,7 @@ TITLE EIGHTH.
 
 GENERAL PROVISIONAL RULES.
 
-136. Any matter of Pleading, which shall not come
+SEC. 136. Any matter of Pleading, which shall not come
 within the special provisions of this code, and for
 which, there is not now some rule, which does not
 conflict with the principles and rules of this code,
@@ -1260,13 +1266,15 @@ shall be provided for upon the analogies of the provisions which seem to bear mo
 and of this the Court shall Judge, whenever any such
 Pleadings shall have been framed in a cause, and the
 question is raised by motion. And if the Court shall
-determine such pleading to be erroneously framed, it
+determine such pleading to be erroneously framed, it shall have it corrected; an din such case the costs of the amendment shall be in the discretion of the Court.
+
+SEC. 137. All laws so far as they are inconsistent with the provisions of this Code are hereby repealed. THe laws and usages of this STate relating to pleading, practice and proceedings in civil actions, so far as they are not inconsistent with the provisions of this Code, and as far as the same may operate in aid of those provisions, or to supply any omitted case, are hereby continued in force.
 
 CHAPTER 3111)..
 
 FoRMs or PLEADINGS.
 
-138. The Forms of Pleadings which follow, shall
+SEC. 138. The Forms of Pleadings which follow, shall
 be sufficient; and those and the like Forms may be
 used, with such modifications as may be necessary to
 meet the facts of the case: but nothing herein contained shall render it erroneous or irregular to depart
@@ -1644,7 +1652,7 @@ the filing of his Petition.
 
    
 
-139. A Defendant may plead, as in the above Form,
+SEC. 139. A Defendant may plead, as in the above Form,
 that he has applied by Petition as an insolvent debtor
 to the proper Court, and that the proceedings under
 
@@ -1883,7 +1891,7 @@ them.
 CII. A Messuage and Lands sold and conveyed
 by O. H. in his life time to the Defendant.
 
-0111. The good will of a business of o. H., sold
+CIII. The good will of a business of o. H., sold
 
 and given up by O. H. in his life time to the Defendant.
 

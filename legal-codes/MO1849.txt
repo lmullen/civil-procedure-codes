@@ -52,9 +52,6 @@ ARTICLE I.
 
 OF THE FORM OF CIVIL ACTIONS.
 
-§ 1. Abolition of distinctions in actions at law {g 2. Parties to an action, how designated.
-and equity; one form of action declared. .
-
 § 1. The distinction between the’difl'erent actions at law, and between
 actions at law and suits in equity, and the forms of all. such actions and
 suits heretofore existing, are abolished; and there shall be in this State,
@@ -62,14 +59,14 @@ hereafter, but one form' of action for the enforcement or protection of
 private rights, and the redress or prevention of private wrongs, which
 shall be denominated a civil action. ,
 
-§2. In such action, the party complaining shall be known as the
+§ 2. In such action, the party complaining shall be known as the
 plaintifff, and the adverse party as the defendant. . , t ’ 
 
 ARTICLE II.
 
 OF THE TIME OF COMMECING CIVIL ACTIONS.
 
-§ 1. Certain sections of act of limitation, of otherwise rovided for; relief on the
+1. Certain sections of act of limitation, of otherwise rovided for; relief on the
 1845, repealed; provisions of this arti- ground of read, within five years.
 ale substituted; restrictions to this ar- 5. Actions against a sheriff or coroner, for
 ticle. ‘ liability; for enalty or forfeiture upon
@@ -128,14 +125,13 @@ constituting the fraud.
 
 § 5. Within three years: First, an action against a sherid'_ or coroner,
 upon a liability incurred by the doing ’of an act in his odicia'l capacity,
-and in virtue of his allies, or by the omission of an odicial duty, including the non-payment of money collected upon an executionz—but this
-section shall not apply to an action for an escape; Second, an action a on a statute for a penalty of forfeiture, where the action is given to t e
+and in virtue of his allies, or by the omission of an odicial duty, including the non-payment of money collected upon an executionz—but this section shall not apply to an action for an escape; Second, an action a on a statute for a penalty of forfeiture, where the action is given to t e
 party aggrieved, or to such party: and the State, except where the
 statute imposing it prescribes a different limitation.
 
 § 6. Within two years: First, an action for libel,‘ slander, assault, battery,'or false imprisonment; Second, an action upon a statute for a penal or- forfeiture to the State. a : ' .
 
-277. Within one year: an action against a sheriff or other officer for
+§ 7. Within one year: an action against a sheriff or other officer for
 the escape of a prisoner arrested or imprisoned on civil process.
 
 § 8. In an action brou ht to recover a balance due on a mutual, 0 on
@@ -157,7 +153,7 @@ ARTICLE 111.
 
 or ran Harms 'ro crvu. ACTIONE.
 
-§ 1. Action to he in the name of the real par- 2 8. When different parties to the same inty in interest. ‘ . strument may be sued together.
+1. Action to he in the name of the real par- 2 8. When different parties to the same inty in interest. ‘ . strument may be sued together.
 2. Executors, administrators, 8m, may sue 9. Proceedings u a death, marriage, or
 in their own names, Sic. other disabih y, or transfer of interest
 3. Assignment of a thing, in action, not to during the pendency of the action. .
@@ -198,7 +194,9 @@ in the controversy adverse to the plaintifff. _
 § 7. Of the parties to the action, those who are united in interest
 must be joined as plaintifffs 'or defendants; but if the consent of any one
 who should have been joined as plaintifff cannot be obtained, hemay be
-made a. defendant, the reason thereof being stated in the petition. 3§ 8. Persons severally liable,‘including the parties to bills of exchange
+made a. defendant, the reason thereof being stated in the petition. 
+
+§ 8. Persons severally liable,‘including the parties to bills of exchange
 and promissory notes, may, all or any of them, be included in the same
 action, at the option of the plaintifff; and where severally liable, an ,executor or administrator, or other person liable in a representative charapter, irfnay be joined with others originally liable, at the Option of the
 p ainti . 7 . «
@@ -227,7 +225,7 @@ may be consistent with the provisions of this act. ~
 ARTICLE IV.
 IN WHAT COUNTY sun's MAYBE BROUGHT.
 
-§ 1. Suits, instituted by summons, ma be one defendant resides. Defendants all
+1. Suits, instituted by summons, ma be one defendant resides. Defendants all
 brought in the county in which p ain- non-residents, then in any county.
 tiff or defendant resides. Defendants 2. Suits by attachment, to be brought m the
 residing-in different counties, suits may county where the prOperty is found;
@@ -252,13 +250,13 @@ some residents and others non-residents of the State, suit may be brought
 in any county in which any defendant resides; .S'ecoley, if all the defendants are non-residents of the State, and an action will lie against
 them, it may be brought in any county.
 
-§'2. Suits brought by attachment against the pr0perty of a person,
+§ 2. Suits brought by attachment against the pr0perty of a person,
 shall be brought in the county in which such property may be found;
 when a defendant or defendants, in a suit instituted by attachment, have
 prOperty in several counties, separate writs may be issued to every such
 county.
 
-i} 3. If at any time after the commencement of a suit the parties shall
+§ 3. If at any time after the commencement of a suit the parties shall
 agree upon any other county to which they desire the same to be removed, it shall, by order of court, he removed accordingly to such
 county.
 
@@ -309,7 +307,9 @@ such term be within fifteen days thereafter; and in that case the sum‘mons sha
  
 
 summons be served less than fifteen days, he shall be bound to appear at
-the term next after the return term of such writ. §.3. Where there are several defendants residing in different counties,
+the term next after the return term of such writ. 
+
+§ 3. Where there are several defendants residing in different counties,
 a separate summons shall be issued to each county, including all the defendants residing therein; and when any defendant or defendants are
 non-residents of the State, the pla‘intif may take his writ against him .or
 them, or separate writs a ainst each, directed to the sheriff of any coun‘ty in the Statein which t e plaintifff believes such defendant or defendants may betemporarily found. . _ '
@@ -336,7 +336,7 @@ a copy of such petition and writ.
 and writ read, or to receive a copy thereof, the oEer of the officer to read
 the same, or to deliver a copy thereof, and such refusal shall be a sufficient service of such writ. .
 
-§ 8. If ° any plaintid', or other person for him, shall file with his etition an affidavit stating that part or all of the defendants are non-resiclents
+§ 8. If any plaintid', or other person for him, shall file with his etition an affidavit stating that part or all of the defendants are non-resiclents
 of the State, the court, or clerk in vacatibn, shall make an order directed
 to the non-residents, notifying them of the commencement of the suit,
 and stating briefly the object and general nature of the etition, and re,quiring them to appear on a day to be therein named, al owing sufficient
@@ -353,7 +353,7 @@ proc’eSs shall be issued against them as in other cases.
 not be found, the court, being first satisfied that process cannot be served, shall make an order as is required in the preceding sections in case
 of non-resident defendants.
 
-, § 11. If any complainant shall allege in his petition that there are, or
+§ 11. If any complainant shall allege in his petition that there are, or
 that he verily believes there are persons interested in the subject matter
 of the petition, whose names he cannot insert therein, because they are
 unknown to him, and shall describe the interest of such persons, and
@@ -390,8 +390,8 @@ ARTICLE VI.
 
 OF THE PLEADINGS IN CIVIL ACTIONS.
 
-1. First leading a petition, to be in ordinary § 6. Objection not a on tition to be
-§ and Idemise language; what it must con- taken by answer. nei er demurrer
+1. First leading a petition, to be in ordinary 6. Objection not a on tition to be
+and Idemise language; what it must con- taken by answer. nei er demurrer
 rain, nor answer, objection waived except as
 2. Headings on the part of the defendant de- to jurisdiction and cause of action.
 mm and answer, and when they must 7. Answer—what to contain; to be inordinary
@@ -404,7 +404,7 @@ s in the demurrer. 9. Proceedings where defendant sets up edicts
 in twenty days; also amendment attcr ( 10. Rules governing demurrer to offsets.
 decision on demurrer. ' - .
 
-§ 1'. The first tpleadi2g on the' part of the plaintifff is the petition. The
+§ 1. The first tpleadi2g on the' part of the plaintifff is the petition. The
 petition shall contain, z'rst, The title of the cause, specifying the name
 
 of the court and county‘in which the action is brought, and the names
@@ -433,7 +433,9 @@ or, Fourth, That there is adefect of parties, plaintifff or defendant; 0r,
 Fifth, That the petition does not state facts sullicient to constitute a
 cause of action.
 § 4. The demurrer shall distinctly specify the grounds. of objection to
-the petition; unless ‘it does so, it may be disregarded. § 5. After a demurrer, the plaintiE may amend of course, and with or
+the petition; unless ‘it does so, it may be disregarded. 
+
+§ 5. After a demurrer, the plaintiE may amend of course, and with or
 without costs, as the court may order. ,Upon the decision of the demur-‘rer, the plaintifff may amend, or the defendant withdraw his demurrer and
 answer. The amendment and answer hall be filed within such time as
 the court may‘prescribe. .
@@ -451,51 +453,15 @@ to enable‘a person of common understanding to know what is intended.
 § 8. The defendant may set forth in his answer as many grounds of
 defense as he shall have. They shall be separately stated, and may refer to the. causes of action which they are intended to answer, in any
 manner by which they may be intelligibly distin uished. '
-§9. If the defendant sets up an offset or ol§sets in his answer, the
+§ 9. If the defendant sets up an offset or ol§sets in his answer, the
 plaintifff shall within two days after the filing said answer, demur or reply to said offsets. The reply shall be governed by the rules herein prescribed in relation to answers. The court may, for good cause shewn,
 enlarge the time for filing the reply. i ’
-‘ § 10. The demurrer to an offset shall be governed by- the rules hereinbefore prescribed, in cases of demurrers to petitions [answers] where
+§ 10. The demurrer to an offset shall be governed by- the rules hereinbefore prescribed, in cases of demurrers to petitions [answers] where
 
 they apply.
 
- 
-
- 
-  
-
 ARTICLE VII.
 
-    
-    
-    
- 
-    
-   
-    
- 
- 
- 
-    
-   
-    
-  
- 
- 
- 
- 
-   
-  
- 
- 
- 
- 
- 
- 
- 
- 
-   
-     
-     
 
 GENERAL RULES OF PLEADING.
 
@@ -533,14 +499,15 @@ delivered, he shall be precluded from giving evidence thereof.
 § 5. In the construction of a pleadin , for the purpose of determining
 its effect, its allegations shall be liberal y construed, with a view to substantial justice between the parties. .
 
-§6. If irrelevant or redundant matter be inserted in a pleading, it
-may be stricken out, on motion of any person aggrieved thereby§ 7. In pleading a judgment or other‘determination of a court or oilicer of special jurisdiction, it shall- not be necessary to state the facts
+§ 6. If irrelevant or redundant matter be inserted in a pleading, it
+may be stricken out, on motion of any person aggrieved thereby.
+§ 7. In pleading a judgment or other‘determination of a court or oilicer of special jurisdiction, it shall- not be necessary to state the facts
 conferring jurisdiction; but such judgment or determination may be
 stated to have. been duly given or made. If such allegation be made in
 a' petition, and be not controverted in the answer; or be made inan answer in relation to an offset, and be not controverted in the reply, it need
 not be roved on trial; in other cases it shall be proved’cn trial.
 
-§ 8. n pleading a private statute, or a right derived therefrom,
+§ 8. In pleading a private statute, or a right derived therefrom,
 it shall be sufficient to refer to such statute by its title, and the
 day of its passage, and the court shall thereupon take judicial‘notice
 thereof.
@@ -598,10 +565,10 @@ CLAIM AND DELIVERY OF PERSONAL PROPERTY. ‘
 
  
 
-§ 7. Expenses allowed sheriff; ower in execut- erty. ,
+. Expenses allowed sheriff; ower in execut- erty. ,
 ing order for delivery 0 property. $§9. The and taken, to be filed—when forfeit8. Enforcement of order for delivery of prop-z ed, proceedings on it by motion.
 
-. § 1. If the plaintiR', in his petition, claims the possession of any personal property, he may, 'either at the time of filing his petition or at any
+§ 1. If the plaintiR', in his petition, claims the possession of any personal property, he may, 'either at the time of filing his petition or at any
 time afterwards, file his affidavit or the'affidavit of some erson in his
 ~ behalf, shewing, First, That the plaintifff is the owner of t e property
 claimed, (suiliciently describing it) or is lawfully entitled to the possession,thereof by virtue of a special tplroperty therein; Second, That the
@@ -612,12 +579,12 @@ from such seizure; Fourth, The actual value of such property; and, Fifth,
 That the plaintifff will be in danger of losing his said pr0perty unless it
 be taken out of the defendant’s possession or otherwise secured.
 
-‘ § 2. Upon filing such atiidavit, the court, or judge, or clerk in v'a'cation, shall make an order requiring the defendhnt to deliver the preperty
+§ 2. Upon filing such atiidavit, the court, or judge, or clerk in v'a'cation, shall make an order requiring the defendhnt to deliver the preperty
 specified in the affidavit to the sheriff, and requiring the sheriff, if the
 same be not delivered to him, to take it from the defendant and deliver
 it'to the plaintifff. ' .
 
-E? 3. The sheriff shall not receive or take such property until the plainti shall deliver to him a bond, executed by one or more sufficient securities, approved by the sheriff, to the effect that they are bound to the
+§ 3. The sheriff shall not receive or take such property until the plainti shall deliver to him a bond, executed by one or more sufficient securities, approved by the sheriff, to the effect that they are bound to the
 defendant in double the value of the property as stated in‘the affidavit,
 for the prosecution of the action, for the return of the property to the
 defendant, if return thereof be adjudged, and for the payment to him of
@@ -632,7 +599,7 @@ adjudged, and for the payment to him of suc sum as may, for any cause
 growing out 'of the taking and detention of such property by defendant,
 be recovered against him.
 
-? 5. Each of the securities must be a resident and householder or freeho der within the State. They must be worth the amount for which the
+§ 5. Each of the securities must be a resident and householder or freeho der within the State. They must be worth the amount for which the
 bond is iven, exclusive of property exempt from execution, and after
 paying 1 just debts. '
 
@@ -651,7 +618,7 @@ they be not opened.
 § 8. The court may enforce the order for delivery of property, as other
 - orders of court are enforced.
 
-§ 9. 'Whon a bond is taken, as in this article is provided, it shall be
+§ 9. When a bond is taken, as in this article is provided, it shall be
 returned by the sheriff and filed in court; and if any such bond shall be
 forfeited, the party aggrieved may proceed thereon, by motion in open
 court, at any time within one Year after the determination of the origi—
@@ -661,7 +628,7 @@ county in which the original suit was determined; and if they are not
 inhabitants thereof, then a copy of such notice shall be osted up at the
 court house door of said county, in each case, ten days icfore the hearing of said motion.
 
-~ ARTICLE IX.
+ARTICLE IX.
 
 INJUNC’I‘IOII.
 
@@ -717,7 +684,7 @@ produce satisfactory proof that there is not than any circuit court in
 session, or any judge thereof within such county; and if such proof is
 not produced the application shall not be entertained.
 
-§5. In addition to the cases enumerated in section three,,where a
+§ 5. In addition to the cases enumerated in section three,,where a
 temporary injunction may be granted, it may also be granted in any case
 wherein it is particularly authorized by statute.
 
@@ -746,13 +713,14 @@ as will cover costs.
 § 9. Every such injunction shall operate as a release of all errors in.
 the proceedings at law that are prayed to be enjoined.
 
- 10. N o injunction (unless on final hearing or jud ment) shall issue
+§ 10. No injunction (unless on final hearing or jud ment) shall issue
 in any case until the plaintifff execute a bond, with su cient security, to
 the other party, in such sum as the court or judge shall deem suBicient
 to secure the amount or other matter to be enjoined, and all damages
 that may be occasioned by such injunction, conditioned that the plaintifff
 will abide the decision which shall be made therein, and pay all sums of
-money, damages and costs that shall be adjudged against him, if the injunction shall be dissolved. - § 11. Such bond shall be filed with the clerk of the circuit court of
+money, damages and costs that shall be adjudged against him, if the injunction shall be dissolved.
+§ 11. Such bond shall be filed with the clerk of the circuit court of
 the county to which the injunction is returnable, and the bond may be
 entered into before said clerk, if the court or} judge granting the injunction shall first approve of the security. Suit may be brought on such .
 bond in the manner directed in article VIII, section nine, of this act, in
@@ -803,7 +771,7 @@ petition or answer, which may be read on the hearing such motion; and
 depositions taken to support, or dissolve an injunction may be read on
 the final trial or other proceedin in such cause.
 
-. § 19. When an application sha 1 be made for an injunction, as hereinbefore is provided, and no notice of such application is required by this
+§ 19. When an application sha 1 be made for an injunction, as hereinbefore is provided, and no notice of such application is required by this
 act, and no notice is in fact given, and the court, justices or judge to
 which the application is made, shall deem it proper that the defen ant,
 or any of several defendants, should be heard before granting the injunction, he may, by an order, require cause to bee shewn at a specified time
@@ -823,11 +791,11 @@ point receivers, and direct the deposit of money ,or other thin in court,
 ‘ and grant the other provisional remedies now existing accor ing to the
 present practice, except as otherwise provided in this act.
 
-’ ARTICLE XI.
+ARTICLE XI.
 
 MISTAKES IN PLEADING, AND AMENDMENTS AND NEW TRIAL.
 
-§ 1. Material variances, how provided for. ‘ § 4. Amendments of course.
+1. Material variances, how provided for. ‘ § 4. Amendments of course.
 2. Immaterial variances, immediately amend- 5. Amendments by the court.
 
 ed. 6. No error or defect to be regarded, unless
@@ -838,7 +806,7 @@ of proof, new trial, and pleadings to be 7. Supplemental. petition, answer or re
 amended; also, in cases of fraud, perju-  8. Continuance in cases of amendment.
 ry, mistake, ac.
 
-§ 1. N o variance between the allegation in a pleading and the proof,
+§ 1. No variance between the allegation in a pleading and the proof,
 shall be deemed material, unless it have actually misled the adverse
 party to~his prejudice in maintaining his action or defense upon the mer—
 its. When it shall be alleged that a party has been so mis ed, that fact
@@ -866,7 +834,9 @@ or mistake has been committed by a witness, and is also satisfied that an
 impmper verdict or finding was occasioned by any of the matters afore~
 said, and that the party has a just cause of action or defense, it shall
 grant a new trial, and, if necessary, permit the pleadings to be amended, I
-on such terms as may be just and reasonable. § 4. Any pleading may be amended by the party of course, without
+on such terms as may be just and reasonable. 
+
+§ 4. Any pleading may be amended by the party of course, without
 costs and without prejudice to the proceeding already had, at any time
 before the answer to it shall be' filed.
 
@@ -897,12 +867,12 @@ ARTICLE XII.
 
 JUDGMENT UPON FAILURE TO ANSWER.
 
-§ 1. Judgment, definition of. § 4. In no case, damages or other relief to be
+1. Judgment, definition of. 4. In no case, damages or other relief to be
 2. Proceedings in cases where the defendant greater‘than that asked for in the retition
 has failed to answer. _ as filed and served.
 3. Court may appoint referees, &c. ‘
 
-§ 1. A‘ judgment is the final determination of the right of the parties
+§ 1. A judgment is the final determination of the right of the parties
 
 in the action.
 
@@ -926,7 +896,7 @@ ARTICLE x111.
 
 ISSUES AND THE MODE OF TRIAL.
 
-§ 1. Issues, definition of, and kinds. _ 6. ,When issues of fact must be tried by a
+1. Issues, definition of, and kinds. _ 6. ,When issues of fact must be tried by a
 2. Cases in which issues of law arise. jury.
 3. Cases in which issues of fact arise. 7. Issues, when triable by the court.
 4. On issues both oflaw and fact, issues of 8. Separate trials of the several causes of
@@ -945,7 +915,7 @@ are of two kinds: First, of law; and, Second, of fact.
 Second, upon an allegation of fact in a pleading by the one party, the
 truth of which is not controverted by the other.
 
-§3. An issue of fact arises: First, upon a material allegation of the
+§ 3. An issue of fact arises: First, upon a material allegation of the
 petition, controverted by the answer; or, Second, upon matter of offset
 in the answer, controverted by the reply; or, Third, upon other new
 matter in the answer; or, Fourth, upon new matter in reply to offsets.
@@ -954,13 +924,12 @@ matter in the answer; or, Fourth, upon new matter in reply to offsets.
 the same action. In such case the issues of law must be disposed of,
 unless the court otherwise direct.
 
-§ 5. A- trial is the judicial examination of _the issues between the parties, whether they be issues 'of law or of ‘ fact.
+§ 5. A trial is the judicial examination of _the issues between the parties, whether they be issues 'of law or of ‘ fact.
 
-‘3 6. Whenever in an action for the recovery of money only,“ or of spec' c real or personal property, there shall be an issue of fact, it must be
-tried by a 'ury, unless a jury trial be waived as' rovided in section 1, of
-Article X , or a reference be ordered as provi ed in Article XVI.
+§ 6. Whenever in an action for the recovery of money only,“ or of spec' c real or personal property, there shall be an issue of fact, it must be
+tried by a 'ury, unless a jury trial be waived as' rovided in section 1, of Article X , or a reference be ordered as provi ed in Article XVI.
 
-7. Every other issue is triable by the‘ court, which, however, may
+§ 7. Every other issue is triable by the‘ court, which, however, may
 or er the whole issue, or any specihc question of fact involved therein,
 to be tried by a jury; or may refer it as provided in the last section, and
 those to which it refers.
@@ -974,7 +943,7 @@ as circumstances may require. And in all cases where there are separate causes o
 costs against the unsuccessful party, unless for 'good cause it shall otherwise order. The judgment upon such separate finding shall await the
 trial of all the issues.
 
-7 ARTICLE XIV.
+ARTICLE XIV.
 
 TRIAL BY JURY.
 
@@ -1007,13 +976,15 @@ and entered upon the minutes. .
 § 4. Where a s ecial finding of facts shall be inconsistent with the
 general verdict, t e former shall control the latter, and the court shall
 give judgment accordingly.
-. § 6. When a verdict shall be found for the plaintifff in an action for the
+§ 6. When a verdict shall be found for the plaintifff in an action for the
 recovery of money only, the  shall also assess the amount of the recovery. So also if they find for the defendant in case of off sets or other
-demand for money. ARTICLE XV.
+demand for money. 
+
+ARTICLE XV.
 
 TRIAL BY THE COURT.
 
-2 § 1. Trial by jury waived; failure to appear, 3. Exce tions, &c.; when and how taken;
+1. Trial by jury waived; failure to appear, 3. Exce tions, &c.; when and how taken;
 or by consent in writing, or oral. app ication tor a review.
 2. On trial by court decision in writing; to 4. 0n juedfment on issue of law; mode of
 be filed with clerk; facts to be stated; proc ure. '
@@ -1043,13 +1014,11 @@ an account or the proof of any fact be necessary to enable the court to '
 
 complete the judgment, a reference may be ordered as is provided in article XVI. '
 
- 
-
 ARTICLE XVI.
 
 TRIAL BY ‘ nnrnnnns.’
 
-_§ 1. Any issue referable by consent. 4. Parties may agree‘upon persons to act as
+1. Any issue referable by consent. 4. Parties may agree‘upon persons to act as
 2. Compulsory reference; in what cases di- referees.
 rected. 5. General or special commissioners may be
 3. Redport of referees topstand as decision of appointed by the court; their duties
@@ -1076,7 +1045,7 @@ reference shall be ordered accordingly . If the parties do notagree, the
 court shall appoint one or more referees, not exceeding three, who shall
 be free from all exception.
 
-§5. The court may appoint a general or special commissioner, to
+§ 5. The court may appoint a general or special commissioner, to
 whom any of the matters aforesaid may he referred, when the parties do
 not agree on referees, and who shall have the powers, and proceed as
 commissioners in chancery, Saccording to the present practice,) are required to proceed, and with ilre effect.
@@ -1085,11 +1054,13 @@ ARTICLE XVII.
 
 ‘wnemnnr AND THE manner. 'or ENTERING r-r.
 
-§ 1; Judgment for or against any plaintifff or; 3. Measure of relief granted to plaintiffm
+1; Judgment for or against any plaintifff or; 3. Measure of relief granted to plaintiffm
 
 defendant. 4. Rate of damages where damages are re2. Times at which judgments are to be en- 2 coverable.
 
-tered. 5. Entry of judgment on records of court§ 1. J udgmen‘t may be given for-or against one. or more of the several
+tered. 5. Entry of judgment on records of court.
+
+§ 1. Judgment may be given for-or against one. or more of the several
 plaintifffs, and for or against one or more of several defendants, and it
 may determine the ultimate rights of the parties on each side as between
 themselves.
@@ -1104,16 +1075,16 @@ court for good cause shall continue the cases. In other cases, the actions shall
 and continued until the nextterm, when judgments shall be given therein,
 unless the court for good cause shall continue the-same.
 
-‘ § 3. The relief granted to the plaintifff, if there be no answer, cannot
+§ 3. The relief granted to the plaintifff, if there be no answer, cannot
 be other or greater than that which he shall have demanded in his petition, as originally filed and‘served on defendant; but in any other case,
 the court may grant him any relief consistent with the case made by the
 complainant and embraced within the issue. '
 
-§ 4'. Whenever damages are recoverablé,the plaintifff may claim and
+§ 4. Whenever damages are recoverablé,the plaintifff may claim and
 receive, if he shew himself entitled thereto, any rate of damages which
 he might have heretofore recovered for the same cause of action.
 
-§ 5, The judgment shall be entered on therecords of the court, and
+§ 5. The judgment shall be entered on therecords of the court, and
 shall specify clearly the relief granted, or other determination of the
 action.
 
@@ -1121,7 +1092,7 @@ ARTICLE XVIII.
 
 THE EXECUTION.
 
-§ 1. Judgments may be enforced any time 5. To what counties execution may be iswrthin five years. S sued.
+1. Judgments may be enforced any time 5. To what counties execution may be iswrthin five years. S sued.
 
 different counties.
 7. Certain existing laws applied to executions under this act.
@@ -1136,7 +1107,7 @@ only by leave of the court.
 used, are modified in conformity to this act, and the party in whose favor judgment is given, may at any time, within five years after the entry
 of judgment, proceed to enforce the same by execution.
 
-. § 2. After the lapse of five years from the entry of judgment, an execution may be issued only by leave of the court, on motion, with notice
+§ 2. After the lapse of five years from the entry of judgment, an execution may be issued only by leave of the court, on motion, with notice
 to the adverse party. Such leave shall not be given unless it be established by the oath of the party, or other proof, that the judgment or some
 part thereof remains unsatisfied and due. If any part appears to have
 been satisfied or paid, it shall be so endorsed on the execution; and the
@@ -1144,7 +1115,7 @@ remainder only collected. ,
 
 § 3. The notice prescribed in the last section may be given as prescribed in cases of injunction, in Article IX, section 7. '
 
-§. 4. When a judgment requires the performance of any other act than
+§ 4. When a judgment requires the performance of any other act than
 the payment of money, a certified copy of the judgment may be served
 upon the party against whom it is given, and his obedience thereto required. If he neglect or refuse, he may be punished by the court as for
 
@@ -1168,7 +1139,7 @@ ARTICLE XIX.
 
 APPEALS IN CIVIL ACTIONS.
 
-§ 1. Any egg? vedv party may appeal. § 10. Notice of appeal, when not taken at the
+1. Any egg? vedv party may appeal. § 10. Notice of appeal, when not taken at the
 2 Parties, 0 desi ated on appeal. circuit court.
 
 3. A peal from w at judgments allowed; 11. Unless bond be given, appeal not to opeow t’ar restricted. rate as asupersedeas.
@@ -1196,16 +1167,18 @@ cases authorized by t is article. .
 § 2. The party appealing shall be known as the appellant, and the adverse ,party as the respondent; but the titleof the action shall not be
 changed, in consequence of the appeal. - .
 
-g 3. An appeal shall only be taken from a judgment, as defined in Artic e XII, section 1. ~ '
+§ 3. An appeal shall only be taken from a judgment, as defined in Artic e XII, section 1. ~ '
 
 § 4. Upon an appeal from. a judgment, the court may review any intermediate order, involving the merits, and necessarily affecting the
 judgment, or any order made on a summary application in an action after judgjment. .
 
 § 5. pon an appeal, the appellate court may reVerse, affirm, or modify th 'udgment; and may, if necessary or proper, order, a new trial.
 
-§6. xceptions may be taken to the opinions of the circuit court,
+§ 6. xceptions may be taken to the opinions of the circuit court,
 during the progress ,of any civil action, and bills of exceptions shall be
-allowed, signed, and made part of the record, in the manner as heretofore. ‘ § 7. An order made out of court, without notice to the adverse party, '*
+allowed, signed, and made part of the record, in the manner as heretofore. ‘ 
+
+§ 7. An order made out of court, without notice to the adverse party, '*
 
 may be vacated or modihed, without notice, by the judge .who made it,
 or may be vacated, or modified on notice, in the manner in which other
@@ -1225,7 +1198,8 @@ and within two years from the rendition of judgment, upon reasonable
 notice to the adverse party, and exhibiting to said supreme court‘or
 judge a copy of the record, and obtaining an order for an appeal; and
 filing the same, and the bond aforesaid, with the clerk of the circuit
-court in which the judgment Was rendered. § 9. The supreme court or judge shall not grant an order for an appeal, unless he believes from an inspection of the record, that an error
+court in which the judgment Was rendered. 
+§ 9. The supreme court or judge shall not grant an order for an appeal, unless he believes from an inspection of the record, that an error
 was committed by the circuit court against the appellant, and materially
 affecting the merits of the action.
 
@@ -1235,8 +1209,7 @@ shall be given to the respondent, at least fifteen days before the commencement 
 to be sent.
 
 § 11. An appeal shall not be a supersedeas to the proceedings in the '
-circuit court, unless the bond shall in addition to the requirements of
-section 8, be in a sum sufiicient, and also to the effect, that the appellant
+circuit court, unless the bond shall in addition to the requirements of section 8, be in a sum sufiicient, and also to the effect, that the appellant
 shall prosecute his appeal, and shall perform such judgment, as shall be
 given by the supreme court, and such as the supreme court may direct
 the circuit court to give; and if the judgment, or any part thereof be
@@ -1274,7 +1247,7 @@ make out and send up to the supreme court, a complete copy of the record.
 court, against the appellant, and materially affecting the merits of the
 action.
 
-§ .18. An executor or administrator, guardian or-curabr,suing or sued
+§ 18. An executor or administrator, guardian or-curabr,suing or sued
 
  
 
@@ -1287,7 +1260,7 @@ ARTICLE XX.
 
 SUBMITTING A CONTROVEBSY WITHOUT ACTION»
 
-§ 1. Parties may submit a controversy Without % 2. In such case, what to constitute the record.
+1. Parties may submit a controversy Without % 2. In such case, what to constitute the record.
 action. ' 3. Enforcing judgment, and appeal therefrom.
 
 § 1. Parties to a question in difference, which might be the subject of
@@ -1312,7 +1285,7 @@ ARTICLE XXI.
 PROCEEDINGS AGAINST JOINT DEBTORS} AND AGAINST HEIRS, DEVISEES,
 LIGATEES, AND TENANTB HOLDING UNDER A JUDGMENT DEBTOB.
 
-§ 1. Parties not summoned in an action on joint § 4. Aflidavit required of amount due on jug.
+1. Parties not summoned in an action on joint 4. Aflidavit required of amount due on jug.
 contract, may be summoned after judg— ment. .
 mentJ 5. Part summoned may answer and defend.
 2. On death of judgment debtor, his represen- 6. Re y and trial as in other actions; the retatives may be summoned. p y and answer to be verified.
@@ -1326,7 +1299,7 @@ originally summoned to answer the petition, and who did not appear,
 may be summoned to show cause why they should not be bound by the
 judgment, in the same manner as if they had been originally summoned.
 
-§2. In case of the death of a (judgment debtor after 'udgment, the
+§ 2. In case of the death of a (judgment debtor after 'udgment, the
 . personal representatives, heirs, evisees or legatees ofl the 'udgment
 
 debtor, or the tenants of real preperty owned by him and ad" cted by
@@ -1334,7 +1307,7 @@ the 'udgment, may be summoned to show cause why the judgment should
 not he enforced against the estate of the judgment debtor in their hands
 respectively. ‘
 
-§ 3.“ The summons provided .in the last two sections, shall be issued
+§ 3. The summons provided .in the last two sections, shall be issued
 on the application of the judgment creditor, or his representatives in
 
 case of his death, and shall so state, and shall describe the judgment,
@@ -1362,7 +1335,7 @@ ARTICLE XXII.
 
 CONFESSION‘OF JUDGMENT W'ITHOUT ACTION.
 
-§ 1. Judgment by confession, on debt, or con- 3. To b ‘ filed, and court, or clerk in vacation,
+1. Judgment by confession, on debt, or con- 3. To b ‘ filed, and court, or clerk in vacation,
 
 tingent liability, authorized. to enter 'udgment, if satisfied cf identity
 
@@ -1421,12 +1394,12 @@ ARTICLE XXIV.
 ADHIISION, INSPECTION AND PRODUCTION-‘0? WRITINGS, AND EXAMINATION
 0F PARTIES. '
 
-§ 1. Eitherpar
+1. Eitherpar
 
 may be required to admit a
 paper to '
 
-§.9. Where answer to interrogatories contains
+9. Where answer to interrogatories contains
 e genume, or pay the expense
 
 new atter.
@@ -1499,7 +1472,7 @@ may nonsuit him, or strike out any answer or motion, or debar him from
 any particular defense to which the evidence to be produced was to ‘
 3 1y. ,
 
-Pg 5. Either party .may apply to the court or judge, by motion in writing, for an order to examine the adverse party on interrogatories in relation to any fact or facts material in the trial of any issue or on the
+§ 5. Either party .may apply to the court or judge, by motion in writing, for an order to examine the adverse party on interrogatories in relation to any fact or facts material in the trial of any issue or on the
 hearing of any motion. The motion shall state the factshe expects to
 prove by the examination of the party, and 'be accompanied by the interrogatories, and may be made either upon reasonable notice to the adverse party or his attorney, or upon a rule to show cause at a certain
 time and place, to be served as the notice.
@@ -1544,28 +1517,29 @@ and for that purpose may be subpoenaed or otherwise compelled to attend and test
 examination, and "under like circumstanCes, as other witnesses, and his
 deposition may be taken and used as that of other witnesses.
 
-§ 12. If a‘party refuses to attend, as in the last section is prescribed,
+§ 12. If a party refuses to attend, as in the last section is prescribed,
 and testify, either in court or before any person authorized to take‘his
 deposition, besides. being punished himself as for a contempt, his etition,
 answer or reply may be rejected, or a motion, if made by himse f, overruled, or, if made by the advel'se party, sustained.
 
-13. The testimony of the party may be rebutted by adverse testimony.
+§ 13. The testimony of the party may be rebutted by adverse testimony.
 
-g 14. A party examined by an adverse party, as insections ll, 12 and.~
+§ 14. A party examined by an adverse party, as insections ll, 12 and.~
 13is provided, may be examined on his own behalf in respect to any
 matter pertinent to the issue; but if he testify to any new matter not
 responsive to the inquiries put to him by the'adverse party, such adverse
 party may offer himself as a witness on his own behalf in reSpect to the i
-new matter, and shall be so received. § 15. A person for whose immediate benefit the action is prosecuted
+new matter, and shall be so received. 
+
+§ 15. A person for whose immediate benefit the action is prosecuted
 or defended, though not a party to the action, may be eramined as a
 witness, in the same manner and subject to the same rules of. examination, as if he were named as a party. ' '
 
 § 16. The evidence taken under the provisions of the five last sections, shall, as to the weight to be given thereto, be subject to the provisions contained in section eight of this article. '
 
 ARTICLE XXV.
-examnsnon or wrrnnssss.
-
-§ 1. No witness to be excluded by reason of in-{ §5. Witness not excused from answering questerest. ' \ tions which may establish that he owes a
+examnsnon or wrrnnssss
+1. No witness to be excluded by reason of in-{ §5. Witness not excused from answering questerest. ' \ tions which may establish that he owes a
 
 2. Qualification at the rule. 8’ debt or is subject to a civil action.
 
@@ -1584,7 +1558,7 @@ interest in the event of the action. A
 ' any person for whose immediate benefit it is prosecuted, or defendant,
 nor to any assignor of a thing in action, assigned for the purpose of making him a witness. . ,
 
-H§ 3. If any person, other than those mentioned in the lastsection, be
+§ 3. If any person, other than those mentioned in the lastsection, be
 0 ered as a witness, and ob'ected to on the ground that the verdict
 or judgment in the action in which it is proposed to examine him, would
 be admissible in evidence for or against him, such witness shall nevertheless be examined; but, in that case, a verdict or judgment in that action in favor of the party on whose behalf he shall have been examined,
@@ -1602,11 +1576,11 @@ under the seal of the court, shall be sufficient evidence that shch witness
 was examined, in any subsequent proceeding in which the verdict or
 judgment shall be oil'ered in evidence.
 
-. § 5., N o competent witness in a cause shall be excused from answering a question relevant to the matter in issue, on the ground merely that
+§ 5. No competent witness in a cause shall be excused from answering a question relevant to the matter in issue, on the ground merely that
 the answer to such question may establish or tend to establish that such
 witness owes a debt or is otherwise subject to a civil action.
 
-§ 6. N 0 person, on account of his opinion in relation to the Supreme
+§ 6. No person, on account of his opinion in relation to the Supreme
 Being or a future state of rewards and punishments, shall be incompetent to testify as a witness, nor shall he be interrogated in relation
 thereto.
 
@@ -1616,7 +1590,7 @@ thereto.
 
 MOTIONS AND ORDERS.
 
-x} I. Order, definition of. § § 5. Notice of motion, when necessary, must
+x} I. Order, definition of.. Notice of motion, when necessary, must
 2. A motion defined. . . be served live days.
 3. Motions, how and where to be made. 6. Time within which proceedings in actions
 4. Orders may be made with or without notice is to be had, may e enlarged on adidato show cause. vit. , '
@@ -1651,7 +1625,7 @@ may prescribe a different time for the service of such rulef,‘ ;  3 .
 
 }
 
-. § 6. The time within which any proceeding in an action mristaliefhad
+§ 6. The time within which any proceeding in an action mristaliefhad
 after its commencement and before judgment, may be enlarged, upon an ,
 affidavit showing grounds therefore, by- a judge of the court. The afi‘i- .
 davit, or a copy t erect, and a copy of the order, must be served on the '
@@ -1661,7 +1635,7 @@ ARTICLE XXVII.
 
 ENTITLING AFFIDAVITS.
 
-§ 1. Aliidavit defectively entitled, valid.
+. Aliidavit defectively entitled, valid.
 
 § 1. It shall not be necessary to entitle an affidavit in the action, but
 an affidavit made without a title, or with a defective title, shall be as
@@ -1672,7 +1646,7 @@ ARTICLE XXVIII.
 
 COMPUTATION OF TIME.
 
-§ 1. Time how computed.
+1. Time how computed.
 
 § 1. The time within which an act is to be done, as herein provided,
 shall be computed by excluding the first day and including the last. If
@@ -1682,7 +1656,7 @@ ARTICLE XXIX.
 
 NOTICES, AND FILING AND SERVICE OF PAPERS.
 
-§ 1. Notices to be in writing, and how to be 3 § 7. Where plaintifff or defendanthave demuré
+Where plaintifff or defendanthave demuré
 
 served. A 'jx. red, and are non-residents, service may
 
@@ -1700,7 +1674,8 @@ made on a defendant.  sheriffs, coroners, and others.
 
 § 1. Notices shall be in writing; and notices and other papers inay he
 served on the party or his attorney in the maner prescribed in the next
-nine sections, unless otherwise provided by this act. § 2. The service may be personally made bydelivering to the party
+nine sections, unless otherwise provided by this act. 
+§ 2. The service may be personally made bydelivering to the party
 or attorney on whom the service is required to be made, or it may e as
 
  
@@ -1713,7 +1688,7 @@ white person Qamiitoh'lefage and discretion. Second, If upon a party,
 it may be made,- leaving the paper at his residence, between the hours
 of sigtin. Bie'morning and nine in the evening, with some white person
 ' 0f. 33:951.; age and discretion. . .
- :-§- 3. Service  mail may be made where the person making the ser—
+§ 3. Service  mail may be made where the person making the ser—
 5 ’vice and the person upon whom it is to be made reside in different places
 between which there is a regular" communication by mail. '
 § 4. In case of service by mail, the paper must be deposited in the
@@ -1729,11 +1704,11 @@ not have answered or demurred, service of notice or papers need not be
 
 made up‘clm him.
 
-, § 7. hen a plaintifff or defendant, who has demurred oranswered, resides out of the State and .has no- attorney living in the State, the service
+§ 7. hen a plaintifff or defendant, who has demurred oranswered, resides out of the State and .has no- attorney living in the State, the service
 may be made on the clerk of the court wherein the action is pending for
 the arty. .
 
- Where a party shall have, anattorney in the action living in- the
+§ 8. Where a party shall have, anattorney in the action living in- the
 town where the action is depending, the service shall be made upon the
 attorney instead of the party.
 
@@ -1756,7 +1731,7 @@ ARTICLE XXX.
 
 GENERAL AND MISCELLANEOUS PROVISIONS.
 
-§ 1. Definition of “real property.’.‘ ‘ ‘. rights, how prosecuted; in certain cases
+Definition of “real property.’.‘ ‘ ‘. rights, how prosecuted; in certain cases
 2. Definition of “per one] property.” ' existing practice to continue.
 3. Definition of “property.” 5 5. Rules and practice inconsistent with this
 4. Statt'tory provnsions repealed; existing 3‘ actabrogated.
@@ -1792,7 +1767,7 @@ adopted, so far as may be necessary to prevent a failure of justice.
 § 5. The present rules and practice of the courts, in civil actions, inconsistent with this act, are abrogated, but where consistent with this
 act they shall continue in force. .
 
-§6. Until the legislature shall otherwise provide, this act shall not
+§ 6. Until the legislature shall otherwise provide, this act shall not
 affect proceedings upon mandamus, quo warranto, prohibition, information, scire facias, to repeal letters patent, nor to any special statutory
 remedy not heretofore obtained by action or. bill in equity; nor any existing statutory provisions relating to actions, not inconsistent with
 this act, and in substance applicable to the actions hereby provided, nor
@@ -1867,7 +1842,7 @@ for other breaches. (17. Answer to such petition; affidavit thereto.
 7. Action for a libel. 5’18. Replication to an offset in the answer.
 8. Action for slander. l19. Demurrer to a petition.
 
-No. l.—P1~:rrr10N.—-Action on promissory note; payee against maker;
+§ 1.—P1~:rrr10N.—-Action on promissory note; payee against maker;
 when there are no credits:
 
  
@@ -2156,11 +2131,10 @@ the objection.) , C. D.
 
 ARTICLE .XXX'II.
 
-WHEN “rims ac'r SHALL TAKE armor.
-§ 1. Period at which this act shall take effect.
+WHEN “rims ac'r SHALL TAKE armor. Period at which this act shall take effect.
 § 1. This act shall take ed‘ect on‘the fourth day of July next, but shall
 
 not a ply to actions previously brought.
-prroved February 24, 1849. p
+prroved February 24, 1849.
 
 

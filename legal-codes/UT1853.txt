@@ -1,6 +1,8 @@
-the court before joining issue, on oath or affirmation in relation to the facts in the case.
+SEC. 1. Be it enacted by the Governor and Legislative Assembly of the Territory of Utah, That if any person or persons commence a suit in any of the courts in this Territory, it shall be his, her, or their duty to file his, her, or their note, or book accounts, or for damage or trespass as the case may be, with said court, and state the facts in relation to the same on oath or affirmation, to be recorded by the court for the examination of the adverse party. 
 
-Sac. 3. That in all suits, either party have a right to
+SEC. 2. It shall be required of the defendant, to file his, her, or their claim, or set-off, if any they have, with the court before joining issue, on oath or affirmation in relation to the facts in the case.
+
+SEC. 3. That in all suits, either party have a right to
 call on the adverse party for their testimony, the same as
 other witnesses.
 
@@ -10,7 +12,7 @@ SEC. 4. It shall be required of all persons going to
 do the same, shall for ever be deprived of the power of
 collecting such claims.
 
-._ SE0. 5. That nothing in this act shall prevent agents
+SEC. 5. That nothing in this act shall prevent agents
 t-or attorneys from planting suits, or defending ‘suits; but
 at the same time they shall give all the information they
 have, in relation to the amount so filed, on oath or afiirmation.
@@ -28,15 +30,12 @@ an not to exceed fifty dollars, may be staid sixty days ;
 _all sums over fifty dollars and not to exceed one hundred
 dollars may be staid ninety days ; all sums over one hundred dollars may be staid six months. _
 
-y SEC. 8. That at the eXpiration of the stay of any exefécution, if not satisfied, it shall be the duty of the court to
+SEC. 8. That at the eXpiration of the stay of any exefécution, if not satisfied, it shall be the duty of the court to
 issue an execution, for the property of the defendant, or
 defendants, and in all cases the security to stay an execution shall be considered one of the defendants; but in all
 cases the property of the principal, shall first be taken and
 
 eXposed to pay the debt.
-Approved March 3rd, 1852.
-
-AN ACT FOR THE REGULATIQN OF ATTORNEYS.
 
 SEC. 1. Beitenacted by the Governor and Legislatwe As-l
 senany of the Territory of Utah, That the right of being”,
@@ -52,7 +51,7 @@ SEC. 2. No person or persons, employing counsel in:
 any process of law to pay the counsel so employed, for
 any services rendered as counsel, before or after, or during the process of trial in the case.
 
-31910.3. It shall be the duty of the Judges of all courts:
+SEC. 3. It shall be the duty of the Judges of all courts:
 in this Territory, to forbid and prevent all indecent and:
 exciting language and behavior in their courts; and in"
 case of a rebuke to counsel being disregarded, and resented by said counsel, it shall be the duty of the Judge
@@ -87,11 +86,7 @@ requirements of this act, shall be liable to all the penalty
 hereinbefore provided fer, and the further penalty of not
 less than one dollar at the discretion of the court.
 
-' Approved Feb. 18th, 1852.
-
-AN ACT IN RELATION TO MARSHALS ANDTATTORNEYS.
-
-‘ SE0. 1. Be it enacted by the Governor and Legislative
+SEC. 1. Be it enacted by the Governor and Legislative
 Assembly of the Territory of Uta/2., That a Marshal shall
 be elected by a joint vote of both Houses of the Legislaa,tive Assembly, whose term of oil‘ice shall be four years,
 unless sooner removed by the Legislative Assembl , or
@@ -102,19 +97,19 @@ penal sum of not exceeding twenty thousand dollars, conditioned for the faithful
 with securities, is to be approved by the Secretary of the
 Territory, and filed in his office.
 
-See. 2. Said Marshal shall have power to appoint one
+SEC. 2. Said Marshal shall have power to appoint one
 or more deputy Marshals, in each Judicial District of the
 Territory, as the necessity of the case may require, whose
 :term of oilice shall ex ire with that of the Marshal; but
 they may at any time c removed at his discretion.
 
-_ Sea. 3. It shall be the duty of the Marshal, or any
+SEC. 3. It shall be the duty of the Marshal, or any
 of his deputies, to execute all orders, or processes of the
 Supreme or District Court, in all cases arising under the
 laws of the TerritOry, and such other duties as the executive may direct, or may be required by law pertaining to
 the duties of his oHiee.
 
-Sun. 4. An Attorney General shallbe elected by the
+SEC. 4. An Attorney General shallbe elected by the
 joint vote of the Legislative Assembly, wheee term of
 oEce shall be four years, unless sooner removed by. the
 Legislative Assembly, or until hi successor is elected and
@@ -123,7 +118,7 @@ office, take an oath of oiiice, and give bonds and security
 to the people of the Territory, conditioned for the faithful
 performance of his duty, to be approved by the Secretatary of the Territory and filed in his office.
 
-Sac. 5. It shall be the duty of the Attorney General
+SEC. 5. It shall be the duty of the Attorney General
 to keep his oilice at the seat of Government, to attend to
 all legal business on the part of the Territory, before the
 courts, where the Territory is a party, and prosecute individuals accused of crimes in the Judicial District in which
@@ -158,8 +153,6 @@ odices, take an oath of ohice, and give bonds with securities, conditioned for t
 pties, to be approved by the cler of the Probate Court,
 and filed in his oiiice. Approved March 3, 1852'.
 
-AN ACT IN RELATION TO WRITS 0F HABEAS
-CORPUS.
 
 SEC. 1. Be it enacted by the Governor and Legislative
 Assembly of the Territory of Utah, That the petition for
@@ -176,20 +169,19 @@ given.
 SEC. 2. Upon the presentation of the foregoinlgI etition to any court having jurisdiction, the writ of abeas
 Corpus shall be awarded, unless it shall appear from the
 petition itself, or the documents annexed, or the showing
-of the petitioner, the party so applying would not be end
-titled to any relief.
+of the petitioner, the party so applying would not be entitled to any relief.
 
 SEC. 3. The Writ of Habeas Corpus may be allowed
 by the Supreme, District, or Probate Court, or any Judge
 thereof, and may be served in any part of the Territory.
 
-Sac. 4 Application for this writ must be made to the
+SEC. 4 Application for this writ must be made to the
 court or Judge most convenient in point of distance to the
 applicant, and the more remote court, or Judge, if applied
 to for the writ, may refuse the same, unless a suHicient
 reason he adduced in the petition for not making the application to the more convenient court, or Judge.
 
-Sac. 5-. When the writshall be awarded, it shall-appear under the seal of the court issuing the same, or if it
+SEC. 5. When the writshall be awarded, it shall-appear under the seal of the court issuing the same, or if it
 be issued by any Judge it shall be signed by him, and
 shall be substantially in the following words, to wit:
 Territory of Utah. To the Marshal, or sheriff, or. other;
@@ -207,11 +199,11 @@ your doings in the premises.
 
  
 
-Sire. 6. When the writ is disallowed, the courtor J udgel
+SEC. 6. When the writ is disallowed, the courtor J udgel
 shall cause the reasons of aid disallowance to be appen-c
 
 ded to the-petition, and returned to the person applying
-for the writ. '\\
+for the writ.
 
 SEC. 7. To the intent that no 'oiiicer, sheriff, jailor,
 constable, or other person, or (persons whatsoever, upon
@@ -223,28 +215,30 @@ said prisoner or prisoners shall make return of such writ,
 and shall bring or cause to be brought, the body or bodies
 of such person, or persons, before the court or Judge issuing said writ according to the requirements of the same.
 
-Sac. 8. Whenever the court or Judge, authorized to,
+SEC. 8. Whenever the court or Judge, authorized to,
 grant this writ, has evidence that any person within the ju-i
 risdiction of such court or Judge is unjustly imprisoned, or‘
 restrained of his liberty, it is the duty of such court or
-Judge to issue, or cause to be issued, the writ as aforesaid, though no application be made therefore. SEC. 9. The writ may be served by the odicer, or by:
+Judge to issue, or cause to be issued, the writ as aforesaid, though no application be made therefore. 
+
+SEC. 9. The writ may be served by the odicer, or by:
 any other person appointed for that purpose b the court.
 or Jud e, by whom it is issued or allowed. I served by‘
 any ot er person than the officer, he possesses the same
 power, and is liable to the same penalty for a non-performance of his duty as though he were the oiiicer.
 
-SIC. 10. The proper mode of service is by leaving the
+SEC. 10. The proper mode of service is by leaving the
 
  writ with the defendant, or personholding or detaining such plaintifff or prisoner, and preserving a copy,
 on which to make the return of service.
 
-Sac. 11. If the defendant cannot be found; or if he
+SEC. 11. If the defendant cannot be found; or if he
 have not the plaintifff in custody, the service shall be made
 .upon any person having the plaintifff in custody, in the
 same manner and with the same effect as though he had
 been made defendant therein. ,
 
-Sac. ~12. If the defendant conceal himself, or refuse
+SEC. 12. If the defendant conceal himself, or refuse
 admittance to the person attempting to serve the writ; or
 'if he attempt wrongfully to carry the person out of the
 county Or Territory after the service of the writ as aforesaid,
@@ -270,18 +264,18 @@ same power is iven to the odicer or per having the writ,
 as is 'ven to s eriii' for the arrest of a per-son charged
 with elony. o
 
-81:0. 14. A willful failure to comply with the requisitions of this act, renders the defendant or offending5 party,
+SEC. 14. A willful failure to comply with the requisitions of this act, renders the defendant or offending5 party,
 liable to be attached for a contem t, and to be imprisoned
 till a compliance is obtained, an also subjects him to a
 forfeiture of one thousand dollars to the party thereby aggrieved '
 
-Bus. ’15 .The defendant in his answer must state plainly and unequivocally, whether he then has, or at any time‘
+SEC. 15 .The defendant in his answer must state plainly and unequivocally, whether he then has, or at any time‘
 has had the plaintifff under his control and restraint, and
 if so, the cause thereof. If he has transferred him, he
 must state the fact, and to whom, and the time thereof, as
 well as the reason or authority therefore.
 
-SEO. 16 Any Judge, whether acting individually, or,
+SEC. 16 Any Judge, whether acting individually, or,
 as a member of the court, who wrongfully and willfully re-t
 fuses to award such writ whenever proper application for
 the same is made, shall forfeit and pay the sum of one thousand dollars, which may be recovered by an action of debt
@@ -293,7 +287,7 @@ is determined, the defendant may retain the plaintifff in:
 his ustody, and may use all necessary and proper means
 for that purpose.
 
-See. 18. The plaintiE in writing, or by his Attorney]
+SEC. 18. The plaintiE in writing, or by his Attorney]
 may waive his right to be present at the trial, in whichl
 ease the proceedings may be had in his absence The
 writ.- in such cases will be modified accordingly. If no
@@ -323,12 +317,12 @@ term of one year; and any person knowingly aiding and
 abetting in any such act, shall be subject to the like puné
 ishment.
 
-r- Sac. 21. Any officer refusing to deliver a copy of any
+SEC. 21. Any officer refusing to deliver a copy of any
 legal process by which he detains the plaintifff in custody,
 to any person who demands such copy, for the purpose of
 taking out a writ of Habeas Corpus, shall forfeit not exceeding two hundred dollars to the person so detained.
 
-81:0. 22. All persons admitted to bail on Habeas Corpus, shall enter recognizance with suiiicient sureties, in
+SEC. 22. All persons admitted to bail on Habeas Corpus, shall enter recognizance with suiiicient sureties, in
 such sum as the court shall direct, having regard to the
 circumstances of the laintid', and the nature of the offense, conditioned for is, her, or their appearance at the
 next term of the court to be holden in the county where
@@ -343,13 +337,7 @@ Sec. 23. The recovery of any penalties incurred by
 reason of the provisions of this act, shall be no bar to a
 civil suit for damag s.
 
-e
-Approved Feb. 2d, 1852.
-
-AN ACT GOVERNING WRITS OF ATTACHMENT
-‘ AND CAPIAS.
-
-SE0. 1. Be it enacted by the Governor and Legislative
+SEC. 1. Be it enacted by the Governor and Legislative
 Assembly of the Territory of Utah, That when any person
 or persons, shall file an aiiidavit in any of the courts of
 this Territory, that some person or persons are about to
@@ -372,17 +360,17 @@ and any such person so notified or served withan Attachment shall be considered 
 shall be held liable for the debt of the defendant until the
 same shall be satisfied.
 
-Sac. 2. In all cases of Attachment, bail may be taken”
+SEC. 2. In all cases of Attachment, bail may be taken”
 to the satisfaction of the court for debt and cost; and in
 case bail is given, the prOperty shall be free from the Attachment. The court, on issuing an Attachment, shall
 notify the person whose goods are attached. of a set time
 and place for trial.
 
-SEC. 3. y In case an Attachment shall be obtained from!)
+SEC. 3. In case an Attachment shall be obtained from!)
 any court, and upon trial, no judgment shall be‘ found for!"
 the plaintifff, the defendant whose goods have been attached, may recover by law all the damage, he may have sustained by such Attachment.
 
-Sac. 4. Capias may be served on any person not a0
+SEC. 4. Capias may be served on any person not a0
 householder: Provided, That any person shall not be held
 With Capias, more than fortyeight hours without trial.
 Capias may also be served on any person while in the act of
@@ -400,10 +388,7 @@ shall be held to pay all the debts such debtor shall have
 left unpaid, if upon a trial a judgment shall be had against
 the defendant.
 
-Approved, March 3d, 1852.
-
-AN ACT CONCERNING WRITS OF REPLEVIN.
-Susi“! .‘ Be it enacted by the Governor and Legislative
+SEC. 1. Be it enacted by the Governor and Legislative
 Assembly of the Territory of Uta/z, That when any person
 lor persons shall have any species of property in his, her,
 _°"or their possession, and such property shall be claimed by
@@ -424,7 +409,7 @@ until a decree of 'court shall be had thereon; the officer
 shall deliver all such property to the person or party in
 whose favor the decree of the court shall have been made.
 
-SEC .3 In all cases, the defendant‘shall have the right
+SEC. 3. In all cases, the defendant‘shall have the right
 Vto give good and sumcient bail to the court issuing a
 ywrit of Replevin, conditioned for the payment for all dam—
 ages and costs, and when bail is extended, the defendant
@@ -436,24 +421,16 @@ that may accrue, take into his possession the property in
 dispute, and retain the same until a decree of court shall
 be had thereon.
 
-'; SEC. 4. A Justice of the Peace may issue a writ for
+SEC. 4. A Justice of the Peace may issue a writ for
 the replevy of property, and try all cases of Replevin,
 where the amount of property in dispute shall not exceed
-
-A ‘I
-
 one hundred dollars; where the amount in dispute shall"
 exceed that sum, he shall transmit a copy of 1118 proceed:
 ings in issuing said writ, to a hi her court, who shall try';
 all such cases, the same as if t e writ had been issued
 
 from that respective court.
-Approved March 3d, 1852.
-
-AN ACT IN RELATION TO WRITS OF EJECT»
-MENT.
-
-Sac. 1. Be it enacted by the Governor and Legislative Assembly of the Territory of Utah, That where any land, or
+SEC. 1. Be it enacted by the Governor and Legislative Assembly of the Territory of Utah, That where any land, or
 lands, house, buildings or- anypremises have been let, leas'
 ed,or contracted for a term,and at the exPiration of the contract, the lessee refuses to yield up the possession to the
 lessor, in such case the lessor may enter complaint inI
@@ -472,11 +449,15 @@ within five days-from the time of the rendering of said
 judgment, and shall be held for the costs of suit and damages. And should the lessee refuse or neglect to comply
 with said judgment in yielding possession, the lessor may‘
 compel by writ of ejectment the required possessisn forth-.
-with. Soc. 2-. Wherever any person or persons shall be in
+with. 
+
+SEC. 2. Wherever any person or persons shall be in
 possession of a house, farm, or parcel of land; and such
 house, farm, or. parcel of land 3 all be claimed as proviq
-ded for by this act, the party claiming hall be entitled toil
+ded for by this act, the party claiming shall be entitled toil
 
-dis- A
+dispossess the occupant, and the defendant shall ahve all the benefit of law as above provided.
+
+SEC. Nothing herein contained shall be so construed as to prevent any justice of the peace from having jurisdiction, after the proper security shall have been given, to issue ejectment, try the merits and enforce the judgment thereon in a summary manner. 
 
 

@@ -358,7 +358,6 @@ Judge immediately to give notice to the Clerk that a special term of the Circuit
 the time prescribed by this Act; and on receiving such notice, it shall be the
 duty of the Clerk to make publication thereof, as required by this Act, and, together with the Sheriff, proceed to draw the jury; and the Clerk shall issue the
 venirefacias, and the Sheriff shall serve the same in the manner now required
-
 by law; and it shall, moreover, be the duty of said Judge, so notified, to attend
 at said special term and hold the Court. See a. 9
 
@@ -9402,7 +9401,7 @@ such deceased person.
 writ of error or supersedeas in the Supreme Court, no appeal, writ of error or
 supersedeas shall be allowed.
 
-ART 2. From the Circuit Court Act-—June 28, 1822.
+ARTICLE 2. From the Circuit Court Act-—June 28, 1822.
 
 § 149. How Writs of Error allowed—-how Judgment or Decree superseded
 —Damages of A_[7irmance. N o writ of error shall be allowed by the Supreme
@@ -9420,13 +9419,13 @@ render therein; And in case the Supreme Court shall affirm entirely, an ' judgme
 pay to the de endant in error, ten per centum damages on the amount due,
 besides interest from the time of rendering the original judgment or decree.But see a. 4, s. 4, a. 5, c. 54, a. 19, s. 8.
 
-150. Appeal from Circuit Court only in Term-—No Appeal or Writ qf
+§ 150. Appeal from Circuit Court only in Term-—No Appeal or Writ qf
 Error until after Final Judgment. No appeal shall be taken from the judgment of any Circuit Court, unless the same be prayed for, and allowed, during
 the term at which such judcrment was rendered; and no writ of error or supersedeas shall be granted in any case until final judgment in the Circuit
 
 ourt. - _ j
 
-151. Clerk below to give the Transcript on anwal, cj-c.—his Dutg/—Pen.
+§ 151. Clerk below to give the Transcript on anwal, cj-c.—his Dutg/—Pen.
 alty for Refusal or Insujficient Transcript. hen any appeal, writ of error
 or supersedeas shall be granted on an judgment or decree of a Circuit Court
 or Court of Chancery, the clerk of such court shall immediately make up a full
@@ -9448,7 +9447,7 @@ in the transcript of the record and proceedings on any appeal, writ of error or
 supersedeas, to enable them to proceed thereon to a final decision, the same
 shall not be dismissed for want of form, any thing herein contained to the contrary notwithstanding.
 
-l52. Damages of Ajirmance on Failure to prosecute Appeal, <§~c. If any
+§ 52. Damages of Ajirmance on Failure to prosecute Appeal, <§~c. If any
 party praying, and obtaining an appeal, writ of error or supersedeasgon any
 judgment or decree of a Circuit Court or Court of Chancery, to the Supreme
 Court, shall fail to prosecute such appeal, writ of error, or supersedeas, or shall
@@ -9459,10 +9458,10 @@ the court below, in case the same be for lathe payment 0 mone ,as if such
 judgment or decree had been entirely affirmed, and the clerk 0 such 0011“
 shall issue execution thereon accordingly.—See c. 54, a. 19, § 8.
 
-Art. 3. An Act to provide for giving notice to Absent Defendants in certain
+ARTICLE. 3. An Act to provide for giving notice to Absent Defendants in certain
 cases —Jan. 29, 1829.
 
-Publication to Non-resident Defendant. Whenever a cause shall bere moved
+§ 1. Whenever a cause shall bere moved
 to the Supreme Court, by writ of error, and the court is satisfied, that the defendant in error is a non-resident, and has no attorney of record within this
 state, it shall be the duty of the said court, to cause notice of the pendency of
 said cause to be published for three weeks in some public newspaper, the first
@@ -9471,28 +9470,28 @@ the court in which the case is pending, within this state, on proof of which
 publication, the court shall proceed to hear and determine said cause, in the
 same manner, as if process ad been actually served upon the said defendant.
 
-ART. 4. An Act to Amend the 54th section of an Act entitled “ an Act to establish a Court of Chancery in this State, and to prescribe the Rules of Proceeding therein-Passed November 27, 1821; and for other purposes’’—Feb. 10, 1830.
+ARTICLE. 4. An Act to Amend the 54th section of an Act entitled “ an Act to establish a Court of Chancery in this State, and to prescribe the Rules of Proceeding therein-Passed November 27, 1821; and for other purposes’’—Feb. 10, 1830.
 
-§ 1, 2. VVhen Depositions to be part of Record or Transcri t. So much of
+§ 1. So much of
 the act as authorizes the clerks of the respective Courts of Chancery, after a
 determination of any suit, to record the depositions or other testimony taken
 in such suit, shall be, and the same is hereby repealed: Provided, That this
 act shall not be construed to ap ly to copies of records required to be made out
 of cases taken to the Supreme ourt by Appeal.
 
-The first section of this act shall govern the clerk of the Supreme Court of
+§ 2. The first section of this act shall govern the clerk of the Supreme Court of
 the State of Mississippi, in all cases which have been, or may be transferred
 to that court from a Court of Chancery, before a final decision in a Court of
-Chancery.—See c. 54, a. 2, § 54.
+Chancery.
 
-3. Clerk may issue Execution for Costs. In all cases which have been, or
+§ 3. Clerk may issue Execution for Costs. In all cases which have been, or
 may hereafter be determined in the Supreme Court of the State of Mississippi,
 it shall be lawful for the clerk to issue execution or executions for the costs
 which shall have accrued in said court, in the same manner that clerks of
 the Circuit Courts are by law authorized to issue executions for costs which
-accrue in the Circuit Courts.-—See a. 1. § 19, c. 33, a. 26, §2.
+accrue in the Circuit Courts.
 
-4. Writ of Error demandable of Right within three years—supersedeas at
+§ 4. Writ of Error demandable of Right within three years—supersedeas at
 any time pending the Writ-—but no Writ of Error on a Confessed Judgment.
 Hereafter writs of error shall be demandable as a matter of right, upon the
 party applying for such writ filing in the office of the clerk of the Supreme
@@ -9504,12 +9503,9 @@ judge, and a supersedeas may be granted at any time during the pendency of
 such writ: Provided, That no writ of error shall issue unless within three
 years from the rendition of the 'udgment or decree, sought to be reversed:
 And provided, also, that no writ 0 error shall issue to reverse any judgment
-rendered by confession.—See a. 2, § 149 ante.
+rendered by confession.
 
-ART. 5. Ninth Section of the Amendment of the Circuit Court Act of 1822
-—Dec. 16, 1830.
-
-Writs of Error and Citation to be issued by the Clerks below. Writs
+§ 1. Writs
 
 of error and citations, now issuable by the clerk of the Supreme Court,
 shall hereafter be issued by the clerk of the Circuit Courts and Courts of
@@ -9518,12 +9514,10 @@ Chancery respectively, returnable to the Supreme Court: and that so much
 of the fourth section of an act, passed the 10th day of February, 1830, as anthorizes the clerk of the Supreme Court, to issue said writs and citations, is
 hereby repealed.
 
-Arr. 6. From the Act of hlarch 2, 1833, Organizing the Present Circuit
+ARTICLE. 6. From the Act of hlarch 2, 1833, Organizing the Present Circuit
 Court.
 
-§ 15. A1) eal from the Judgment or Decree qf the Circuit Court ; Points how
-reserved; {transcript ; Fee of Clerk below; duty of Clerk above; Appeal how
-heard. In all controversies in law and equity depending in the Circuit Courts,
+§ 15. In all controversies in law and equity depending in the Circuit Courts,
 every suitor or party litigant deeming himself or herself aggrieved by the opinions of the court, in matters of law, whether given by char e or instruction
 to the jury, or as a specified sentence, 'udgment or decree o the court, may
 thereon appeal to the High Court of rrors and Appeals, and shall forthwith tender a bill of exceptions to such charge or instructions, sentence,
@@ -9542,9 +9536,9 @@ the High Court of Errors and Appeals as are had on appeals in the Supreme Court,
 of Assembly, passed June 29th, 1822, entitled “An act to establish and organize the Supreme Court, and to define the powers and jurisdiction thereof ;” and the said suit shall so be proceeded on until final judgment and
 execution shall be had therein.
 
-ART. 7. An Act in Relation to Writs of Error—]lIay 13, 1837.
+ARTICLE. 7. An Act in Relation to Writs of Error—]lIay 13, 1837.
 
-§1. Writ of Error Granted by Clerk below. Hereafter, when any party,
+§ 1. Hereafter, when any party,
 plaintifff, or defendant to any judgment or decree rendered in any court in this
 state. shall desire to have such judgment or decree revived by the High Court
 of Errors and Appeals, he, she, or they, may apply by petition, to the clerk of
@@ -9554,22 +9548,19 @@ with two or more good and sufficient sureties, to be approved of by said clerk.
 conditioned in the manner now prescribed by law. And said clerk shall thereupon, also issue a citation to the adverse party, directed and returnable in the
 manner now directed b law.
 
-2. Security Justified hr Rejected by a High Judge in Vacation. The stifliciency of such security taken as aforesaid, may be excepted to in vacation,
+§ 2. The stifliciency of such security taken as aforesaid, may be excepted to in vacation,
 before any judcre of said High Court of Errors and Appeals; and if such exceptions shall be sustained, and security be not immediately thereafter p6f°
 fected, such writs of error shall cease to operate as a supersedeas, and 83'
 ecution may immediately issue on such judgment or decree. A
 
-4. No rit of Error to Reverse a Judgment after Foifeiture of a Forth‘
-
-coming Bond, <}~c. No writ of error shall be granted in a case where a forthcoming bond shall have been given and forfeited ; and upon all affirmances of
+§ 4. No writ of error shall be granted in a case where a forthcoming bond shall have been given and forfeited ; and upon all affirmances of
 the judgments under this act, the same damages shall be allowed, as are now
 recognised on appeal cases.
 
-ART. 8. From the Act Regulating the ‘Proceedings in the High Court—Feb.
+ARTICLE. 8. From the Act Regulating the ‘Proceedings in the High Court—Feb.
 14, I839.
 
-§6. Errors may be Assigned when the Division of the Docket of this Case is
-Opened. Whenever by law, or the rules of the said High Court of Errors and
+§ 6. Whenever by law, or the rules of the said High Court of Errors and
 Appeals, it shall be necessary to assign errors or plead to such assignments to
 enter the appearance of either arty or any motion on the first day of any
 term, or within a limited time a ter, it shall be sufiicient if the same be done
@@ -9578,11 +9569,10 @@ on the day prescribed for taking up the docket on which ma be placed the
 case in which such proceeding shall be necessary, or within t e same limited
 time after.
 
-ART. 9. An Act to Secure the Right of Appellants and Plaintifs in Error,
+ARTICLE. 9. An Act to Secure the Right of Appellants and Plaintifs in Error,
 and for other purposes—Feb. 6. 1841.
 
-§ 1, 2. If Citation be not Served, Alias to issue and no Dismission, for
-want of Assignment 0 Error. Hereafter no writ of error shall be dismissed
+§ 1. Hereafter no writ of error shall be dismissed
 by the High Court of rrors and Appeals of this state, at the term to which the
 same is returned into said court, for want of citation, or service, or for improper service thereof, upon the defendant or defendants in error; but in case no such
 citation shall appear from the record or papers filed therewith to have been issued, or havinrr been issued not to have been served, or to have been improperly served, t e said High Court of Errors and Appeals shall, upon motion of
@@ -9594,12 +9584,11 @@ defendant or defendants in error duly cited to the first term, it may discharge 
 but it shall be the duty of the Court, in all cases, to examine the record and determine the cause according to law, whether the error, if any, be assigned or
 not.
 
-ART 10. An Act supplemental to an Act entitled “ an Act to secure the ri hts
+ARTICLE 10. An Act supplemental to an Act entitled “ an Act to secure the ri hts
 
 of Appellants and Plaintiffs in error, and for other purposes, approved ebruary 6th, l84l.”—July 25, 1843.
 
-Cases to be taken up on Written Briefs—or decided on the Record—unless
-continued or cause shown. Either of the parties in an cause taken into the
+§ 1. Either of the parties in an cause taken into the
 High Court of Errors and Appeals of this State, shall ave the right to file
 among the papers in any such cause, a brief or written argument at any‘ time
 before the cause is taken out for final decision by the court; and it s all be

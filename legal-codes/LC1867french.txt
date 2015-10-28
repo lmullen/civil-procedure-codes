@@ -248,7 +248,7 @@ jour
 auquel
 une chose doit
 etre
-faite conformment
+faite conform§ment
 a
 la loi
 est
@@ -272,7 +272,7 @@ jour
 se faire
 avec
 le
-mme
+m§me
 assistent
 aux
 s6ances
@@ -565,7 +565,7 @@ par
 les lois
 qui reglent
 leur
-tat ou
+§tat ou
 leur
 capacite
 respective.
@@ -888,7 +888,7 @@ dispositions
 33.
 Aucun officier
 public
-devoirs
+devoirs
 ou
 fonctions
 publiques,
@@ -1191,7 +1191,7 @@ Gaspe
 et
 les Isles de
 la
-dans
+dans
 les
 chapitres
 77, 78,
@@ -2502,7 +2502,7 @@ d'inserer son
 nom collectif
 et le lieu ou il a son
 principaletablissement.
-5. Un
+5©. Un
 expose
 des
 causes
@@ -2701,7 +2701,7 @@ en
 laissant a
 la
 partie
-dfettderesse
+d§fettderesse
 une
 copie
 du
@@ -3213,7 +3213,7 @@ contenu dans Particle
 qui
 precede,
 lorsqu'un
-dfendeur
+d§fendeur
 ayant
 des biens dans
 le
@@ -3291,7 +3291,8 @@ desquels
 le
 eertificat
 doit etre
-assermentdevant
+assermen§
+devant
 un
 de
 paix
@@ -3323,7 +3324,7 @@ lui
 etre
 donn<se
 personnellenlent
-7.
+7©.
 L'assignation
 d'une
 71. On
@@ -3369,7 +3370,8 @@ On
 cette
 fin.
 tout
-jourdl'annee non
+jourd«
+l'annee non
 ferie.
 peut
 assigner
@@ -3406,7 +3408,7 @@ est
 de
 dix
 jours
-intermdiaires
+interm§diaires
 entre
 le
 celui fixe
@@ -3643,7 +3645,7 @@ DEUXIEME.
 DE
 L'ENTREE
 DE LA
-CAUSE.
+CAUSec.
 8
 1
 .
@@ -3679,7 +3681,7 @@ tel
 les heures de
 que
 ci-dessus
-regl,
+regl§,
 le
 defendeur
 peut
@@ -4582,7 +4584,7 @@ cause devient comparties
 en
 ainsi
 depositaire.
-10i. Le
+10»i. Le
 protonotaire
 l'instance,
 copies
@@ -4646,7 +4648,7 @@ CHAPITRE TROISIEME.
 DE
 LA CONTESTATION
 EN
-CAUSE.
+CAUSec.
 SECTION
 I.
 DISPOSITIONS
@@ -4684,7 +4686,7 @@ doivent
 du
 rapport
 du
-18. Le
+1©8. Le
 demandeur est tenu
 d'y
 repondre
@@ -4707,7 +4709,7 @@ compter
 tels
 garants
 eux.
-19. Le
+1©9. Le
 exception
 ;
 de
@@ -4755,7 +4757,7 @@ production
 de
 toute autre
 piece
-ncessaire,
+n§cessaire,
 ou
 permise
 par
@@ -4782,7 +4784,7 @@ la contestation.
 telles
 exceptions
 preliminaires,
-rponses
+r§ponses
 et
 repliques,
 tation,
@@ -4890,7 +4892,7 @@ d'incompetence,
 le tribunal
 ger
 des
-dpens
+d§pens
 suivant les circonstances.
 plaidee,
 si
@@ -4971,7 +4973,7 @@ ou
 de
 la
 declaration
-st
+«st
 incorrecte,
 ou differente
 de
@@ -5111,7 +5113,7 @@ demande
 plusieurs
 a des
 modes d'instruction
-diffirents
+diffi§rents
 ;
 ou
 sujets
@@ -6111,7 +6113,7 @@ prive
 pagnee
 sur
 lequel
-est base une
+est bas§e une
 demande,
 doit
 etre accomou de
@@ -6777,7 +6779,7 @@ le
 tribunal,
 ou
 par
-qui
+qui
 peut
 etre
 faite en tout
@@ -6824,7 +6826,7 @@ elle est
 du
 certificat
 du
-cense
+cens§e
 non avenue et
 n'a aucun effet
 protonotaire
@@ -7353,7 +7355,7 @@ lequel
 elle
 se
 trouve,
-mie
+mi§e
 et
 ee
 a
@@ -7378,7 +7380,7 @@ renvois,
 paraphes
 autres circonstances
 du
-mme
+m£me
 genre
 ;
 et le
@@ -7408,7 +7410,7 @@ protonotaire
 piece
 est
 ainsi
-paraphe
+paraph§e
 que
 par
 les
@@ -7805,6 +7807,7 @@ n'y
 delai
 pour
 de
+¦
 telle declaration
 ;
 apres
@@ -7951,7 +7954,7 @@ contre
 le
 seul
 juge
-rsiau chef-lieu d'Un
+r£siau chef-lieu d'Un
 district
 voisiri
 indique par
@@ -7965,7 +7968,7 @@ et le dossier
 y
 est imm6diateprotonotaire.
 ,
-18. Si
+18©. Si
 le recusant
 h'a
 point
@@ -8299,7 +8302,7 @@ au
 m6me
 etat
 qu'a
-l'poque
+l'§poque
 ou
 tels actes
 d6savoues
@@ -8483,7 +8486,7 @@ etre
 deboutee
 sauf
 a se
-30>.
+30»>.
 La
 revocation
 de
@@ -8549,7 +8552,7 @@ que
 la
 contestation
 est
-iie
+ii§e
 suivant
 les
 regies prescrites,
@@ -8732,7 +8735,7 @@ juge.
 l'articulation
 sont
 consid6res
-comme averes :
+comme averes :
 1.
 Si la
 partie
@@ -9082,7 +9085,7 @@ tribunal,
 ou
 devant
 peuvent
-tre
+£tre
 interrogees
 sur
 faits
@@ -9181,12 +9184,14 @@ interrogatoires.
 a
 qui
 l'assignation
-a etsignifiee,
+a e§
+signifiee,
 peut
 demander
 qu'un
 d61ai soit
-accordsur commission
+accord§
+sur commission
 rogatoire,
 comparution
 de
@@ -9604,6 +9609,7 @@ taxe est
 ex6cutoire contre
 Pautre
 partie.
+§
 repondre
 avant d'etre
 ses frais soient
@@ -10275,6 +10281,7 @@ par
 cour.
 344.
 Les
+§
 ,
 promulguee
 dans les
@@ -10466,7 +10473,8 @@ assigne
 qui
 sans
 cause suffisante
-naux
+n©
+aux
 lieu,
 jour
 et heure
@@ -10515,7 +10523,7 @@ jugement
 independamment
 du recours
 de la
-assign, pour
+assign§, pour
 les
 dommages
 qu'elle
@@ -10639,7 +10647,7 @@ se
 prevaloir
 si elle
 avait
-te
+§te
 peut
 etre
 reguliereassignee,
@@ -10740,7 +10748,7 @@ enjoignant
 de l'amener devant le tribunal
 pour
 y
-.
+§.
 a cet
 au
 ecrit.]
@@ -10953,7 +10961,7 @@ n'est
 a
 l'egard
 de cette
-.
+§.
 4.
 De
 l'appui
@@ -11476,7 +11484,7 @@ et
 ces
 copies
 de
-mme
+m£me
 que
 ou extraits
 certifies
@@ -11648,7 +11656,8 @@ n'ait
 pas
 deja
 ete
-paya cette
+pay§
+a cette
 partie
 memoire de
 frais
@@ -11692,6 +11701,7 @@ et de faire
 entendre
 temoins,
 absence, l'enquete
+§
 5. De
 Penquite
 ecrite
@@ -12017,6 +12027,7 @@ de la
 maniere
 prescrite
 au
+§
 3
 ci-dessus.
 393.
@@ -12231,12 +12242,13 @@ fixer
 un
 jour
 pour
+§
 6. De
 Venquite
 devant un
 commissaire
 enquiteur.
-SO. Le
+SO©. Le
 tribunal
 commissaire
 peut
@@ -12393,6 +12405,7 @@ a tous
 les
 pouvoirs
 du
+§
 4 de
 cette
 section.
@@ -12497,6 +12510,7 @@ par
 le
 tribunal ou le
 juge.
+§
 7.
 Des commissions
 rogatoires.
@@ -12879,6 +12893,7 @@ requierent.
 317.
 Lorsque
 la
+§
 plus
 longtemps
 que
@@ -13023,6 +13038,7 @@ que
 si la
 partie
 defenderesse avait
+§
 comparu
 et
 conteste.
@@ -13145,6 +13161,7 @@ pendant,
 ou
 1
 apres l'enquete.
+§
 cas
 ci-apres
 mentionnes,
@@ -13679,7 +13696,7 @@ d'apprecier
 les
 faits,
 et
-tre
+§tre
 signe
 par
 les
@@ -13733,6 +13750,7 @@ faire.
 astreint a suivre
 des
 experts,
+§
 ni celle de
 la
 majorite
@@ -13829,6 +13847,7 @@ tribunal
 des
 parties,
 renvoyer
+§
 3- Des
 peut
 arbitrages.
@@ -13939,6 +13958,7 @@ de
 motiver leur
 decision.
 Ils ne
+«
 peuvent
 adjuger
 sur
@@ -13954,6 +13974,7 @@ a moins
 que
 le
 tribunal
+§
 4.
 Dispositions
 generates
@@ -14002,6 +14023,7 @@ et
 si
 la
 praticiens
+§ §
 qui
 peuvent
 rapport,
@@ -14095,6 +14117,7 @@ que
 par
 admissible
 pour
+§
 et
 que
 jtigepartie
@@ -14419,7 +14442,7 @@ ne
 ait lieu dans un autre
 district,
 peut
-tre instruite
+§tre instruite
 avec
 dans
 le
@@ -14440,6 +14463,7 @@ et un autre
 lieu etre fixe
 en
 consequence.
+§
 2.
 Dujury.
 357
@@ -14872,6 +14896,7 @@ le tribunal
 a
 declare
 tels.]
+§
 3. De
 la
 formation
@@ -14958,7 +14983,7 @@ les
 jur6s
 a
 assigner
-dsign6es,
+d§sign6es,
 sont
 pris
 et choisis
@@ -14969,7 +14994,7 @@ personnes
 dans
 la liste
 des
-jurs,
+jur£s,
 eomme marchands ou
 commercants,
 et
@@ -15192,7 +15217,7 @@ tribunal
 ou du
 juge,
 en
-commenant
+commen£ant
 par
 le
 nom
@@ -15204,7 +15229,8 @@ a
 Ja
 tableau
 de
-jurefait
+jure§
+fait
 ;]
 premier
 jure
@@ -15381,7 +15407,7 @@ adverse
 -d'adopter
 les
 precedes
-ncessaires
+n§cessaires
 poUr
 jury
 de
@@ -15405,6 +15431,7 @@ indiquee
 au
 enquetes.]
 373Aussitot
+§
 4. De
 V
 assignation
@@ -15549,6 +15576,7 @@ doit etre fait
 de la
 meme
 ;maniere
+§
 rapport
 de cette
 que
@@ -15716,6 +15744,7 @@ confection
 des listes
 et
 du tableau.
+
 378.
 Cette recusation doit
 etre
@@ -16089,6 +16118,7 @@ des
 autres
 personnes
 assignees.
+«
 39 1 .
 Si
 plusieurs
@@ -16101,7 +16131,7 @@ sont
 recus6es ou font defaut et
 ayant
 les
-qualits
+quali§s
 requises
 ou
 le
@@ -16182,7 +16212,8 @@ alors avoir lieu.
 Lorsque
 le
 jure
-appeln'est
+appel§
+n'est
 la
 recusation
 est mise de
@@ -16197,6 +16228,7 @@ de la
 cause en
 juste,
 impartiale
+§
 litige
 pas
 recuse,
@@ -16378,7 +16410,7 @@ prealable.
 la
 preuve
 en doit etre
-397. Les tmoins sont entendus
+397. Les §moins sont entendus
 de vive voix
 devant
 le
@@ -16474,7 +16506,7 @@ est mise
 au
 dossier
 elle
-est considr6e
+est consid§r6e
 comrae
 formant
 le veritable
@@ -16745,6 +16777,7 @@ faite
 du dossier
 de
 la cause.
+§
 fait
 partie
 7.
@@ -16789,6 +16822,7 @@ sur les
 matieres
 de
 droit.
+§
 8.
 Du verdict.
 408.
@@ -16884,7 +16918,7 @@ resulter.
 parties
 en cause
 pour
-41. Le
+41©. Le
 jury
 peut
 en
@@ -16970,7 +17004,7 @@ jury.
 avoir
 constat^
 la
-prsence,de4aus
+pr§sence,de4aus
 les
 jures
 recoit
@@ -17202,7 +17236,7 @@ jury.
 ne
 peut
 en
-42.
+42©.
 Le
 juge
 siegeant
@@ -17227,7 +17261,8 @@ se
 glisser
 dans
 tout
-procedjury
+proced§
+jury
 ainsi
 que
 dans
@@ -17282,6 +17317,7 @@ jures
 l'occasion
 de
 se
+§
 reunir
 et
 de rendre
@@ -17688,7 +17724,7 @@ ou si le
 dossier
 h'etait
 s'est
-trouvabsent
+trouv§ absent
 lors
 assign6
 et
@@ -18249,6 +18285,7 @@ DU SERMENT
 DECISOIRE ET
 DU SERMENT DEFERE PAR
 LE JUGE.
+§
 1. Du sertnent dtcisoire.
 443.
 Lapartie
@@ -18415,7 +18452,8 @@ au
 tribunal,
 sans
 autre
-assi2.
+assi§
+2.
 Du serment
 448. Le tribunal
 des
@@ -18809,7 +18847,7 @@ ufile
 la
 signification
 doit
-tre
+£tre
 pent
 etre
 accorde
@@ -19391,7 +19429,7 @@ le
 juge.
 peut,
 sans
-formalit,
+formali§,
 condamnant a la
 restitution de fruits
 et
@@ -19421,7 +19459,7 @@ heritages,
 par
 et
 papiers
-reprsenter
+repr§senter
 et un etat
 des frais de
 labours,
@@ -19725,7 +19763,7 @@ honoraires ainsi
 que
 des debourses
 qu'ils
-ont rellement fails.
+ont r§ellement fails.
 Si
 cette
 demande n'est
@@ -19895,7 +19933,7 @@ et
 la
 simple
 opposition
-mentionne
+mentionn§e
 en
 Particle
 484,
@@ -19951,7 +19989,7 @@ defendeurs,
 ou d'une autre
 personne
 digne
-nonces
+nonces
 dans la
 requete
 ou
@@ -19976,7 +20014,8 @@ les
 faits
 plus
 etre
-deposprotonotaire
+depos§
+protonotaire
 une
 somme suffisante
 pour
@@ -22691,6 +22730,7 @@ resulter des
 l'execution
 du
 bref.
+§
 irregularites
 il est
 le sherif
@@ -23387,7 +23427,7 @@ la
 plus
 proche
 vendre.
-564-.
+564-.
 [Si
 de
 leur
@@ -23662,7 +23702,7 @@ refus.
 violence ou autre
 obstacle
 physique.
-57.
+57©.
 Si le d6biteur
 n'a
 le double du
@@ -24093,7 +24133,7 @@ ait
 rapport
 quant
 au bref
-.
+§.
 2.
 Des
 precedent.
@@ -24356,6 +24396,7 @@ aux
 oppositions.
 peremption
 d'instance
+§
 3.
 De la vente
 des meubles saisis.
@@ -24587,7 +24628,7 @@ et le
 proces-verbal
 ne
 sont
-pas repretre condamne meme
+pas repre£tre condamne meme
 par
 corps
 payer
@@ -24603,7 +24644,7 @@ II
 etablissant
 la valeur des effets
 non
-reprsentes,
+repr§sentes,
 le
 paiement
 de cette valeur.
@@ -24762,6 +24803,7 @@ a
 lieu.
 J
 protonotaire,
+§
 4.
 Du
 paiement
@@ -24795,7 +24837,7 @@ mains
 doit
 ;
 e"tre
-pays
+pay£s
 au
 cas contraireil
 rapporter
@@ -24835,7 +24877,7 @@ sauf
 n6anmoins le droit
 d'un
 saisissant
-antrieur
+an§rieur
 pour
 ses
 frais,
@@ -24866,7 +24908,7 @@ des
 deniers
 qui
 ne
-reprsentent
+repr§sentent
 pas
 les
 immeubles,
@@ -25100,7 +25142,8 @@ demandeur
 dans
 Paction
 est ensuite
-payfrais
+pay§
+frais
 d'action
 taxes
 comme dans
@@ -25111,7 +25154,7 @@ sans
 enquete.]
 607.
 La courottne a
-pr6frettce
+pr6f§rettce
 le tride
 ses
 aVant
@@ -25170,7 +25213,8 @@ l'a
 qui
 n'en
 a
-pas empechproduit
+pas empech§
+produit
 apres
 spepretee,
 lou6e ou
@@ -25178,7 +25222,7 @@ la
 vente,
 a
 droit
-collocation des creances enonces
+collocation des creances enonc§es
 aux articles
 1995
 et
@@ -25338,7 +25382,7 @@ Iorsque
 ce tiers ne consent
 voie
 de
-saisie-arrt.
+saisie-arr§t.
 La
 meme
 procedure
@@ -26346,6 +26390,7 @@ et
 des
 ne
 de
+§
 SECTION
 V.
 de l'execution
@@ -26618,7 +26663,7 @@ le district
 ou le
 jugement
 a
-etrendu
+e§ rendu
 et
 partie
 dans
@@ -26628,7 +26673,7 @@ il
 peut
 et
 Le
-tre saisi-execute
+£tre saisi-execute
 en
 totalite,
 comme s'il
@@ -26761,7 +26806,7 @@ rue,
 le
 rang
 et le
-numro
+num§ro
 de
 Pimmeuble,
 officiel de la
@@ -27203,7 +27248,7 @@ premiers
 frais
 des annonces
 ci-apres prescrites.
-.
+§.
 2.
 Des
 annonces.
@@ -27441,6 +27486,7 @@ a la
 porte
 du
 matin.
+§
 3. Des
 oppositions
 de
@@ -27645,7 +27691,7 @@ a la vente
 conformement aux conclusions
 de cette
 opposition.
-54. Toute
+©54. Toute
 doit etre
 delivree
 en
@@ -27955,6 +28001,7 @@ ete
 faite sans
 la
 participation
+§
 4.
 661. II est
 procede
@@ -28136,6 +28183,7 @@ ordre
 de
 sursis
 accorde
+§
 par
 le
 juge.
@@ -28790,6 +28838,7 @@ Penchensseur
 de
 consigner
 immediate*
+¦
 ment
 les
 deniers
@@ -29042,7 +29091,8 @@ la
 cause.
 Ce titre
 doit
-contenir1.
+contenir
+1.
 L'enonciation du bref'en vertu
 duquel
 la vente a lieu
@@ -29115,6 +29165,7 @@ ete
 cession
 de tous les droits du saisi sur
 l'immeuble.
+§
 6;
 690.
 Sur
@@ -29470,6 +29521,7 @@ folle
 enchere.
 697.
 [Le
+§
 7. Du
 rapport
 de Pexecution.
@@ -30083,7 +30135,8 @@ tellte
 autre
 division
 d'enregistrement,
-d^hypotheques
+d^»
+hypotheques
 enregistrees
 pendant que
 l'immeuble
@@ -30269,6 +30322,7 @@ des deniers
 qu'il
 a
 recus.
+§
 8. Des
 effets
 du decret.
@@ -30307,7 +30361,7 @@ egard
 augmentations
 qui
 sont survenues
-78.
+7©8.
 L'adjudication
 est
 toujours
@@ -30481,6 +30535,7 @@ pour
 vente
 a la folle
 enchere.
+§
 9.
 De
 la
@@ -30507,7 +30562,8 @@ interesse,
 S'il
 y
 a
-eu dol ou artifices la
+eu dol ou artifices «
+la
 connaissance de
 l'adjudica?
 taire
@@ -30684,6 +30740,7 @@ lequel
 on
 demande
 la vente a la folle enchere.
+§
 10. Des
 oppositions
 718.
@@ -30947,7 +31004,7 @@ ordonnant
 que
 les deniers
 soient
-suivant
+¦suivant
 leur
 sufnsance
 et
@@ -30964,7 +31021,7 @@ jusqu'a
 concurrence
 de
 sa
-recla11.
+recla§11.
 De Vordre et de la
 distribution des
 deniers
@@ -31183,7 +31240,7 @@ et la taxe
 sur
 les
 deniers
-prleves,
+pr£leves,
 s'il
 en
 est
@@ -31307,7 +31364,7 @@ deniers,
 deduction,
 faite
 neanmoins
-des crances*
+des cr§ances*
 auxquelles
 ils
 pouvaient
@@ -31714,7 +31771,7 @@ des
 parties
 interessees,
 apres
-avis donnaux
+avis donn§ aux
 autres,
 le
 tribunal
@@ -32297,7 +32354,7 @@ a cet
 egard.
 produire
 La
-contestation dans tous les cas doit tre
+contestation dans tous les cas doit §tre
 accompagnee
 des
 moyens
@@ -32821,6 +32878,7 @@ terme.
 Farqui
 ou
 hors
+§
 12. Du
 sous-ordre.
 753.
@@ -32956,6 +33014,7 @@ debiteur eut
 lui-meme
 fait
 valoir tels droits.
+§
 13.
 Du
 paiement
@@ -33071,7 +33130,7 @@ entre les mains
 du sherif
 ou aux
 parties
-interesses,
+interess§es,
 les
 deniers necessaires
 pour
@@ -33134,7 +33193,7 @@ qu'elle
 a
 La
 partie
-eranciere mentionnee au certificat du
+er§anciere mentionnee au certificat du
 qui
 n'a
 pas
@@ -33413,6 +33472,7 @@ et
 appelant
 les creanciers
 du
+
 ce
 769.
 [Adefautpar
@@ -33441,7 +33501,7 @@ en
 observant
 les memes
 formalites.]
-77.
+77©.
 Le
 curateur
 nomme est
@@ -34070,7 +34130,7 @@ ptivilegie.
 presence
 de
 quelque
-78.
+78».
 Nonobstant
 ce
 qui
@@ -34670,7 +34730,7 @@ profit,
 et
 qu'il
 continue son commerce.
-80. Ce
+8©0. Ce
 bref d'arrestation
 peut
 un
@@ -34925,7 +34985,7 @@ signifipour
 le
 il
 sous
-05.
+§05.
 Le
 bref
 de
@@ -34955,6 +35015,7 @@ Ni
 contre
 une
 personne
+
 quelque
 du
 sexe feminin :
@@ -35041,7 +35102,7 @@ par
 le
 protonotaire
 qui
-aseuie
+a» seuie
 juTidietion
 en
 matiere
@@ -35133,7 +35194,8 @@ ou
 a tout
 autre officier de
 de son
-veisinage.
+veisi
+nage.
 paix
 813. Ce mandat est
 au nom du
@@ -35141,6 +35203,7 @@ commissaire
 qui
 l'accorde
 cas,
+
 le
 :
 ,
@@ -35768,7 +35831,7 @@ un
 transport
 de l'acte
 de
-cau83. -II
+cau83©. -II
 tionnement
 qu'il
 a
@@ -36292,7 +36355,7 @@ ce
 mandat
 doit
 etre
-excute,
+ex§cute,
 ou a
 l'huissier ou officier de
 paix
@@ -36399,7 +36462,7 @@ delai
 un double avec
 de
 ses
-proceds,
+proced§s,
 au
 protonotaire
 pu
@@ -36411,6 +36474,7 @@ de la Cour
 de
 est
 il
+¦
 Circuit,
 qui
 doit
@@ -36794,7 +36858,7 @@ n'en
 soit
 ordonne autrement
 par
-54. L'arret
+§54. L'arret
 simple
 peut
 etre contests de la mememaniere
@@ -37634,7 +37698,7 @@ pour
 la vente
 sur une
 saisie
-88.
+88©.
 Si les
 choses
 sequestrees
@@ -38376,6 +38440,7 @@ connu,
 de
 tous les
 proprietaires
+¦
 l'immeuble n'est
 theque,
 et une
@@ -39377,7 +39442,7 @@ egalement homologue.
 Lorsque
 des immeubles ne
 peuvent
-tre
+§tre
 partages
 avantageusement,
 ou
@@ -39910,7 +39975,7 @@ l'adjudicataire
 son
 droit de fournir
 cautions en retenant les
-que
+¦que
 payer
 sur vente
 par
@@ -39931,7 +39996,7 @@ soumis
 aux
 memes
 peines
-obligations
+obligations
 que
 le fol
 adjudicataire
@@ -39941,7 +40006,7 @@ vendus sur
 938.
 Toute
 opposition
-sur les
+¦sur les
 deniers
 provenant
 greffe
@@ -39992,7 +40057,7 @@ formalit6s
 que
 dans le cas de
 ratification de titre et
-d'execution
+¦d'execution
 contre les
 immeubles,
 et le
@@ -40055,7 +40120,7 @@ ou
 que
 les bornes
 ne
-ou travaux
+ou travaux
 de
 ligne
 poursuivie
@@ -40146,7 +40211,7 @@ parties,
 le
 tribunal
 juge
-nces943.
+n£ces943.
 L'arpenteur
 ainsi nomme est
 tenu,
@@ -40172,7 +40237,8 @@ les
 experts.
 des
 parties,
-nommplus;
+nomm§
+plus;
 d'un
 la
 reconnaissance
@@ -40286,7 +40352,7 @@ depuis
 Les actions
 possessoires
 est
-aceorde
+aceord§e
 au
 possesseur
 un an
@@ -41562,7 +41628,7 @@ privileges
 affectant
 les
 immeubles.
-CHAPITRE
+CHAPITRE
 HUITIEME.
 DE
 LA
@@ -41747,7 +41813,7 @@ de
 biens
 ne
 peut
-tre
+£tre
 accordee
 sur
 la
@@ -41832,9 +41898,9 @@ separation,
 d'accepter
 ou
 de
-stances,
+¦stances,
 et
-a dfaut
+a d£faut
 repudier
 la
 communaute,
@@ -41925,7 +41991,7 @@ peut
 faire
 commerce
 avant
-d'avoir remis au
+d'avoir remis au
 protonotaire
 du district
 et
@@ -41937,10 +42003,10 @@ ou elle veut faire
 commerce,
 une
 declaration
-enoncant son intention et contenant ses
+enoncant son intention et contenant ses
 nom,
 prenoms
-de
+de
 son
 mari,
 et
@@ -41967,7 +42033,7 @@ Refondus
 La
 femme
 separee
-de
+de
 la
 mise en force
 du
@@ -41981,7 +42047,7 @@ de biens et faisant commerce au
 temps
 present
 code est tenue de
-formalits ci-dessus
+formali§s ci-dessus
 mentionnees dans
 les
 six mois de cette
@@ -42025,7 +42091,7 @@ personne
 qu'au
 nom du
 Souverain,
-et
+et
 moitie de l'amende
 appartient
 a
@@ -42096,7 +42162,7 @@ et
 qui
 contient
 telle
-stipulatin,
+stipulati©n,
 suivant
 les
 formes
@@ -42120,7 +42186,7 @@ volontairement,
 en,
 liquidation
 des
-Pexcution forcee
+Pex§cution forcee
 a lieu
 comme dans les
 cas
@@ -42544,13 +42610,14 @@ qui
 les
 regissent,
 ou dede la forfaiture de ses
-droits,ou
+droits,
+ou
 commet
 ou
 omet
 des actes
 dont l'execution ou l'omission
-quivaut
+§quivaut
 a
 une
 renonciation
@@ -42558,6 +42625,7 @@ aux
 droits,
 privileges
 ration,
+
 ou
 franchises de
 telle
@@ -42633,7 +42701,7 @@ des firais
 a
 998.
 L'assignation
-a cet effet doit tre
+a cet effet doit §tre
 pfecedee
 presentation
 a la
@@ -42757,7 +42825,7 @@ que
 present
 en
 Particle 75.
-1 9 1
+1 ©9 1
 . Les defendeurs sont tenus
 de
 comparaitre
@@ -42957,7 +43025,7 @@ des directeurs ou autres officiers
 qui
 la
 representent.
-108.
+1©08.
 Lorsqu'une
 corporation,
 corps
@@ -42984,7 +43052,7 @@ liquider
 les
 affaires.
 1
-09.
+©09.
 Ce
 curateur,
 apres
@@ -43077,7 +43145,7 @@ principal
 bureau
 d'affaire
 6tait
-situ,
+situ§,
 en
 donnant
 prealablement
@@ -43126,7 +43194,7 @@ dettes dues
 par
 sur
 poursuite
-intente
+inten§e
 contre
 le curateur en la
 forme
@@ -43162,7 +43230,8 @@ l'enchere,
 apres
 en
 avoir
-donnavis de
+donn§
+avis de
 la m6me
 maniere
 que
@@ -43185,9 +43254,10 @@ a
 tous
 les
 effets
-d'un dcret
-forc.
-115. Le curateur
+d'un d§cret
+forc§.
+1©
+15. Le curateur
 est
 ensuite
 tenu de rendre
@@ -43204,7 +43274,7 @@ SECTION II.
 USURPATION DE CHARGE
 PUBUQUE
 1
-1
+© 1
 6.
 Toute
 personne
@@ -43499,7 +43569,7 @@ assujetti.
 le
 SECTION III
 DU MANDAMUS.
-1 23.
+1 ©23.
 Dans
 les cas
 suiyants
@@ -43787,7 +43857,7 @@ avec un
 certificat sur ce bref de l'execution
 qu'il
 a recue.
-137.
+1©37.
 Dans le cas
 ou
 il
@@ -43999,7 +44069,8 @@ DES
 PROHIBITIONS.
 prohibition
 est
-adressa tout tribunal
+adress§
+a tout tribunal
 inferieur
 qui
 excede
@@ -44045,7 +44116,7 @@ II
 dispositions
 y
 a rendre
-tmoignage.
+§moignage.
 a
 appel
 de tout
@@ -44099,7 +44170,7 @@ Couronne
 peuvent
 Superieure
 6tre
-dclar6es
+d§clar6es
 nulles ou
 mises
 au
@@ -44178,7 +44249,7 @@ auxquels
 ces lettres
 patentes
 ont
-te
+§te
 accordees,
 ou
 ont,
@@ -44386,7 +44457,7 @@ personne
 sous la
 sonne
 ou
-detenu,lui
+detenu,»lui
 enjoignant
 devant
 le
@@ -44567,7 +44638,7 @@ le
 tribunal sous le
 sceau
 duquel
-le bref a te
+le bref a §te
 emis,
 et le
 de
@@ -44855,7 +44926,7 @@ peuvent
 etre
 d'elargir
 une
-personne emprisonne
+personne emprisonn§e
 pour
 dette,
 ou
@@ -45259,6 +45330,7 @@ ce
 code,
 savoir
 :
+
 proeede
 comme
 livre'ei-dessus de
@@ -45269,6 +45341,7 @@ les
 Dispositions
 prtyiminaires
 ;
+
 de
 ce
 dans
@@ -45285,6 +45358,7 @@ premier,
 et
 huitieme
 ;
+
 deuxieme
 et
 troisieme
@@ -45295,6 +45369,7 @@ et
 dans le
 titre
 ;
+
 deuxieme,
 dans le
 titre
@@ -45306,11 +45381,12 @@ sections
 4
 et
 5
-1,
+§1,
 12,
 et sections
 6 et 7
 ;
+
 et
 dans
 le
@@ -45323,6 +45399,7 @@ deuxieme,
 troisieme,
 quatrieme
 et cinquieme,
+
 s'appliquent
 egalement
 a
@@ -45602,7 +45679,7 @@ plus
 d'un endroit
 dans
 certains
-comts,
+com§s,
 tel
 que
 pourvu
@@ -45756,7 +45833,7 @@ avec
 l'extension
 ordinaire
 lorsque
-167.
+1©67.
 Lorsque
 un
 autre
@@ -45899,7 +45976,7 @@ la Cour de
 Circuit.
 SECTION II.
 DE LA CONTESTATION EN
-CAUSE.
+CAUSec.
 1070.
 La contestation en
 cause
@@ -46476,10 +46553,10 @@ second
 cas,
 le
 etre de
-meme adressa un
+meme adress§ a un
 huissier,
 ou au
-shrifde
+sh§rifde
 tel
 autre
 n'a
@@ -46705,6 +46782,7 @@ procedure
 immeubles
 saisis en
 vertu des
+»
 incjdente
 a
 la
@@ -48180,7 +48258,7 @@ du
 souveraih,
 aux
 juges
-Sup#rieure,
+Sup#rieure,
 leur
 enjoignant
 de
@@ -48770,7 +48848,8 @@ exagere'
 qu'il
 a
 ete
-forcde
+forc£
+de
 donner.
 1
 132. Si les deux
@@ -49213,7 +49292,7 @@ prononeiation
 qui
 veut
 appeler
-da
+¦da
 doit,
 dans
 leg
@@ -49290,6 +49369,7 @@ ou
 il a
 ete donne.
 jugement
+¦
 des;
 greffier
 de la
@@ -50021,6 +50101,7 @@ registre
 du tribunal.
 enregistree
 dans le
+
 1161.
 Lorsqu'un juge
 trouve
@@ -50550,7 +50631,7 @@ de
 quelqu'un
 raison,
 Pordre de deliberer doit etre
-tre ordonnee
+£tre ordonnee
 par
 1173. La
 cour
@@ -51914,7 +51995,7 @@ suffisante
 1301.
 [A
 en faux.
-d'allgation
+d'all§gation
 moins
 que
 la
@@ -51940,7 +52021,7 @@ cour,
 la
 partie
 est
-dchue
+d£chue
 de
 son droit d'evocation,
 et la
@@ -52068,7 +52149,7 @@ en
 l'avoir
 obtenu sous de faux
 pretextes,
-consquence,
+cons§quence,
 procureur
 et de
 plus
@@ -52102,7 +52183,8 @@ jplus
 agir
 de l'une des
 parties.
-assignconsentent :
+assign§
+consentent :
 la
 cause
 peut
@@ -52122,7 +52204,7 @@ y
 le
 rapport,
 et
-juge.
+jug§e.
 En tout
 autre
 cas,
@@ -53255,7 +53337,7 @@ que
 prescrites
 quant
 a certaines
-congrgations
+congr§gations
 religieuses
 par
 des actes
@@ -54387,7 +54469,7 @@ moins
 que,
 avant de
 famille,
-il n'ait etfait
+il n'ait e§ fait
 une
 visite
 de
@@ -54435,7 +54517,7 @@ convocation
 du conseil
 de famille
 est demandee.
-127.
+127©.
 Les
 avoir ete
 assermentes
@@ -54846,7 +54928,7 @@ Urie.
 description
 sommaire des
 effets
-trouvs
+trouv£s
 en evidence
 et
 mis sous scelles
@@ -54868,7 +54950,7 @@ dans
 le
 lieu, qu'il
 n'a rien
-etdetourn6
+e§ detourn6
 directement
 ni
 indirectement,
@@ -54981,7 +55063,7 @@ du defunt
 en
 forme
 authentique
-saire
+¦saire
 en fait
 la
 description
@@ -55058,7 +55140,7 @@ employer
 arier et la force necessaire.
 Le commissaire
 peut
-des lieux afin
+¦des lieux afin
 etre
 l'avoir
 l'aide d'un serrudans
@@ -55112,7 +55194,7 @@ outre.
 1388. Dans tous les cas ou il en est
 refer6 au
 juge,
-st fait ou ordonne
+«st fait ou ordonne
 est
 constate a la suite du
 du commissaire.
@@ -55362,7 +55444,7 @@ interessees.
 Le tribunal
 ou
 le
-scells,
+scell§s,
 ordonne
 qu'il
 soit
@@ -55439,7 +55521,7 @@ de
 l'inventaire.
 lis
 sont
-reapposs
+reappos§s
 le
 contenu n'est
 pas
@@ -55628,7 +55710,8 @@ par
 1305. II doit
 y
 etre
-proceddroit
+proced§
+droit
 d'y
 assister,
 ou
@@ -55652,7 +55735,7 @@ qui
 ont
 les avoir mises en demeure
 de la
-imme maniere
+im§me maniere
 que
 pour
 proceder
@@ -56130,7 +56213,8 @@ parties
 absentes,
 pr6sentes,
 et
-leet l'avis
+le»
+et l'avis
 qui
 a
 ete
@@ -56895,6 +56979,7 @@ et
 objets
 tea
 et
+
 etreleur;
 juger
 suivant
@@ -57165,7 +57250,8 @@ sentence
 arbitmle rendue
 extra-judiciairemtSnt
 peut
-etreexecutee
+etre»
+executee
 que
 sous
 l'autorite du
@@ -57273,6 +57359,7 @@ vingt
 districts,
 en
 la
+
 dont
 la
 premiere
@@ -57284,6 +57371,7 @@ sont
 compris
 chaque
 district
+
 la
 seconde
 colonne,
@@ -57310,6 +57398,7 @@ et
 prison
 du district
 :]
+
 pres
 duquel
 et
@@ -57419,6 +57508,7 @@ loi relatives
 a
 telles
 charges respectivement,
+
 et des
 peretre
 nominees
@@ -57546,7 +57636,7 @@ quelque
 disposition
 qui
 a
-exiressementou
+exi»ressementou
 implicitement
 cet effet
 2. Dans les cas ou elles sont contraires
@@ -57661,7 +57751,7 @@ compatible
 des lois
 existantes
 doit
-prvaloir.
+pr§valoir.
 Si la difference se trouve dans un article
 modifiant
 les
@@ -57686,3 +57776,4 @@ ordinaires
 legale,
 doit
 prevaloir.
+

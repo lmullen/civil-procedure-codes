@@ -1461,7 +1461,7 @@ defendant’s first, second, etc., pleas.
 plaintifff as to the second plea says (here state the answer to the
 plea as in the following forms.)
 
-3. To PLEA or RELEASE.——Tllat the alleged release is not the
+3. To PLEA or RELEASec.——Tllat the alleged release is not the
 plaintifff ’s deed.
 
 4. To PLEA or sEr—oFF.—That the alleged set-off did not
@@ -1680,7 +1680,7 @@ to the plaintifff’s claim, for (here state the cause of set-off as in a
 declaration), which amount the defendant is willing to set-off
 against the plaintiffi"s claim.
 
-7. RELEASE.-—That after the alleged claim accrued, and
+7. RELEASec.-—That after the alleged claim accrued, and
 before this suit, the plaintifff by deed released the defendant
 
 therefrom.
@@ -1903,7 +1903,7 @@ v. State, 25 Fla., 702. Peremptori y, after cha lenge for cause.-—Barber v. St
 13 Fla., 675. For cause after peremptory challen withdrawn.—Savage v. State,
 18 Fla., 909. After juror sworn, when permitte .—State v. Madoil, 12 Fla., 151.
 
-2. FOR CAUSE.——The court shall, on motion of each party in
+2. FOR CAUSec.——The court shall, on motion of each party in
 any suit, examine on oath any person who is called as a juror
 therein to know Whether he is related to either party, or has any
 interest in the cause, or has expressed or formed any opinion, or
@@ -5397,7 +5397,7 @@ Report as to condition of. Section . . . . . . . . . . . . . 1339
 1336. The 1ibra.rian.—The librarian and his compensation
 are provided for by sections 1319 and 1321.
 
-1337. Acquisition of books.1. BY PURCHASE.—-From proceeds of sales of reports, see
+1337. Acquisition of books.1. BY PURCHASec.—-From proceeds of sales of reports, see
 
 section 1333.
 
@@ -5553,7 +5553,7 @@ required.
 
 ARTICLE 3.
 
-REPORTS OF CASE.
+REPORTS OF CASec.
 
 . 1350. Duty to make report of cases, etc.——He shall within
 thirty days after the final adjournment of the circuit court, at
@@ -8474,7 +8474,7 @@ by said county.
 
 CHAPTER XIII.
 
-NECESSARY ARTICLES FOR ITS USE.
+NECESSARY ARTICLES FOR ITS USec.
 
 1571.—To be procured by the sheriff, when and how: See section 1398.
 
@@ -9889,7 +9889,7 @@ and chattels of the party against whose property the writ is
 issued as will be sufficient to satisfy. the debt or sum demanded,
 with costs.
 
-2. IN AID or SUITS T0 FORECLOSE.-—-Ill suits to foreclose mortgages, the writ shall describe the property and command the ofIicer to take and hold such property, or so much thereof as can be
+2. IN AID or SUITS T0 FORECLOSec.-—-Ill suits to foreclose mortgages, the writ shall describe the property and command the ofIicer to take and hold such property, or so much thereof as can be
 found sufficient to satisfy the debt to be foreclosed.
 
 1649. Return of writ.—The Writ shall be returnable when

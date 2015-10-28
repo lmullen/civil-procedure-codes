@@ -1,41 +1,39 @@
-adoption of the present Constitution, except so far as the same
+SEC. 1. The practice, proceedings and pleadings in teh several courts of law, shall be the same that were used an dpracticed in teh courts of law of this state at the time of the adoption of the present Constitution, except so far as the same
 may be altered and changed by this code.
 
-PLEADING.
-
-2. Whatever facts are necessary to constitute the ground of
+SEC. 2. Whatever facts are necessary to constitute the ground of
 action, defense, or reply, as the case may be, shall be stated
 in the pleading and nothing more; and facts only shall be
 stated, and not arguments, or inferences, or matter of law or
 of evidence, or of which the court takes notice ex oflicio.
 
-3. Any declaration which contains a plain statement of the
+SEC. 3. Any declaration which contains a plain statement of the
 facts necessary to constitute a ground of action shall be suHicient, and any plea necessary to form a legal defense shall be
 suiiicient without reference to mere form ; this to apply to
 replications, rejoinders and all subsequent pleadings.
 
-4. It shall not be necessary to state any formal commencement or conclusion to any declaration or other plea.
+SEC. 4. It shall not be necessary to state any formal commencement or conclusion to any declaration or other plea.
 
-5. It shall not be necessary to state time or place in any
+SEC. 5. It shall not be necessary to state time or place in any
 declaration or plea, except in cases where time or place forms
 a part of the cause of action or ground of defense.
 
-6. No special demurrer shall be allowed in any civil case.
+SEC. 6. No special demurrer shall be allowed in any civil case.
 
-7. No general demurrer shall be allowed for a mere informal
+SEC. 7. No general demurrer shall be allowed for a mere informal
 statement of a cause of action or defense; Provided, such
 statement is sufficient in substance.
 
-8. No judgment shall be arrested or set aside for any omission of mere matter of form, nor because one or more of the
+SEC. 8. No judgment shall be arrested or set aside for any omission of mere matter of form, nor because one or more of the
 counts in the declaration may be bad, if there be one count
 suilicient in substance.
 
-9. Where there is any im erfection, or omission whatever,
+SEC. 9. Where there is any im erfection, or omission whatever,
 in any pleading, which won d be a fatal objection on demurrer, yet if the issue joined be such as necessarily required on
 the trial proof of the facts so imperfectly stated or omitted,
 such imperfection or omission shall be cured by the verdict.
 
-10. The plaintifff in any action may plead, in answer to
+SEC. 10. The plaintifff in any action may plead, in answer to
 the plea or any subsequent pleading of the defendant, as
 many several matters as he shall think necessary to sustain
 
@@ -46,13 +44,13 @@ consistent with his previous allegation, and not a departure
 therefrom, and that no one plea contain distinct matters of
 defense or reply.
 
-11. No lea of “non est factum” shall be received in any
+SEC. 11. No plea of “non est factum” shall be received in any
 action, un ess the party for whom such plea be tendered verify
 the same by affidavit, or unless the defendant being heir, executor or administrator of the person alleged to have made
 the deed, obtained leave from the court upon showing just
 cause to put in such plea.
 
-12. In any suit brought on any judgment, bond or other
+SEC. 12. In any suit brought on any judgment, bond or other
 writing sealed by the party, if the defendant shall have any
 demand or claim against the plaintifff upon judgment, bond,
 or other instrument under seal, or upon note, agreement, assumpsit or account roved, he shall be at liberty to file his
@@ -63,34 +61,34 @@ sum which shall remain due after such discount be sufficient
 to support a judgment in the court where the cause may be
 tried, according to its established jurisdiction.
 
-13. In any suit upon simple contract, the defendant may
+SEC. 13. In any suit upon simple contract, the defendant may
 file an account in bar or plead discount of any claim he may
 have against the plaintifff, proved according to law, which
 may be of an equa or superior nature to the plaintifff’s claim,
 and judgment shall be given as aforesaid.
 
-14. In case any person shall be prosecuted by indictment
+SEC. 14. In case any person shall be prosecuted by indictment
 or any other criminal prosecution for a libel, the party so
 prosecuted, shall be entitled to give the truth of the matter
 charged in the said indictment or other prosecution in evidence under the general issue, by way of justification.
 
-15. In any suit on the bond of any clerk or register, it
+SEC. 15. In any suit on the bond of any clerk or register, it
 shall not be necessary to suggest the breaches in the replication, and if plea of performance is pleaded by defendants, it
 shall be suilicient to reply generally that the obligor has not
 performed the condition of his bond, and give the special
 matter in evidence.
 
-' 16. The plea of non damnificatus shall not be received to
+SEC. 16. The plea of non damnificatus shall not be received to
 any suit on the bond of a clerk or register.
 
-17. Whenever any recognizance taken for the appearance
+SEC. 17. Whenever any recognizance taken for the appearance
 of any person to answer, or of any person to testify, shall be
 forfeited in any court of record, the State's Attorney may
 
 order a writ of execution to be issued for the sum or sums
 thereon due.
 
-18. Where any execution has issued on a forfeited recognizance against a person for not appearing according to the
+SEC. 18. Where any execution has issued on a forfeited recognizance against a person for not appearing according to the
 tenor of the recognizance, such person on the return of the
 execution, may appear and plead in discharge thereof, any
 plea which would have been good and sufficient to a scire facias on said recognizance, if a scire facias had issued thereon ;
@@ -104,13 +102,13 @@ costs due upon such execution, conditioned to appear and plead
 in discharge of the said execution, and to abide by and fulfil
 the judgment of the court thereupon.
 
-19. It shall be lawful for the defendant, or for one or more
+SEC. 19. It shall be lawful for the defendant, or for one or more
 of several defendants in all actions (except actions for assault
 and battery, false imprisonment, libel, slander, malicious arrest or prosecution, criminal conversation, or debauching of
 the pla1ntiif’s daughter or servant,) to pay into court a sum
 of money by way of compensation or amends.
 
-20. The plaintifff, after payment of money into court, shall
+SEC. 20. The plaintifff, after payment of money into court, shall
 be at liberty to re ly to the same, by accepting the sum so
 paid into court in ull satisfaction and discharge of the action,
 and he shall be at liberty in such case to have his costs taxed,
@@ -123,14 +121,12 @@ and in the event of an issue thereon being found for the defendant, the defendan
 and the plaintifff to so much of the sum paid into court as
 shall be found for him.
 
-21. It shall not be necessary to state the name by which
+SEC. 21. It shall not be necessary to state the name by which
 lands may have, been patented, in declarations in actions of
 ejectment, dower, trespass or case, but the same may be described by abuttals, course and distance, by any name it may
 have acquired by reputation, or by any other description certain enough to identify the same.
 
-FORMS OF PLEADINGS.
-
-22. The forms of pleadings which follow, shall be suf1icient; and the like forms may be used, with such modifications as may be necessary to meet the facts of the case; but
+SEC. 22. The forms of pleadings which follow, shall be suf1icient; and the like forms may be used, with such modifications as may be necessary to meet the facts of the case; but
 nothin herein contained shall render it erroneous or irregular to epart from said forms, so long as substance is expressed.
 
 COMMENCEMENT OF DECLARATIONS.
@@ -723,25 +719,20 @@ require a bill of articnlars where the pleading is so general
 as not to give su cient notice to the opposite party of the
 evidence to be offered in support of it.
 
- 
 
-I
-
-PRACTICE.
-
-23. In all suits and actions at law, any of the proceedings,
+SEC. 23. In all suits and actions at law, any of the proceedings,
 including the writ or summons, may be amended so that such
 case may be tried on its real merits and the purposes of justice subserved; writs may be amended from one form of action to another, when the ends of justice require it; and any
 amendment may be made at any time before the jury retire
 to make up their verdict, in cases of jury trial, and in cases
 of demurrer and other trials before the court, at any time before judgment is entered.
 
-24. No continuance shall be granted, upon amendments of
+SEC. 24. No continuance shall be granted, upon amendments of
 the plots, writs or any of the proceedings, but the case shall
 proceed as if no amendment had been made, unless the court
 shall be satisiied that the ends of justice require a continuance.
 
-25. No writ or actioh shall abate or be discontinued because
+SEC. 25. No writ or actioh shall abate or be discontinued because
 of the misnomer of any defendant named therein, but the
 
 court, on suggestion supported by the affidavit of the plantiff,
@@ -752,17 +743,17 @@ time before judgment, direct the writ or any of the proceedings to be amended by
 de endant, at the discretion of the court. This section to apply to foreign attachments, cases against corporations, and
 all other suits and actions.
 
-26. If there be a non-joinder or misjoinder of plaintifffs, the
+SEC. 26. If there be a non-joinder or misjoinder of plaintifffs, the
 court may allow an amendment by which a plaintifff may be
 added or stricken out, as the case may require.
 
-27. If there be a misjoinder or non-joinder of defendants,
+SEC. 27. If there be a misjoinder or non-joinder of defendants,
 the court may allow a defendant to be stricken out or added,
 as the case may require, but if a new defendant be added, he
 shall be summoned and have the same time to plead as if a
 new action were brought against him.
 
-28. Amendments for misjoinder or non-joinder of either
+SEC. 28. Amendments for misjoinder or non-joinder of either
 plaintifff or defendants may be made at any time before the
 Jury retire, to make up their verdict, or before judgment given
 on demurrer, as the case may be, and the court may grant
@@ -770,36 +761,36 @@ such continuances, and may award such costs against the party
 
 zxgking the amendment as may be deemed Just and reasona e.
 
-29. In amendments for non-joinder or misjoinder entire,
+SEC. 29. In amendments for non-joinder or misjoinder entire,
 new parties, either plaintiE or defendants, cannot be introduced, but some one of the original plaintifffs and some one of
 the original defendants must remain parties to the action,
 and in no case of amendment can entire new parties, either
 plaintifffs or defendants, be made.
 
-30. Where an heir at law or devisee has been omitted as a
+SEC. 30. Where an heir at law or devisee has been omitted as a
 defendant, the plaintifff may amend by making such heir or
 devisee a party, and such proceedings shall be had as will
 produce a fair trial.
 
-31. Nothing in the preceding sections of ‘this article relating to amendments, shall affect any_plea of limitations, in
+SEC. 31. Nothing in the preceding sections of ‘this article relating to amendments, shall affect any_plea of limitations, in
 abatement, to the jurisdiction or other dilatory plea.
 
-32. Where an amendment is allowed after the jury is sworn,
+SEC. 32. Where an amendment is allowed after the jury is sworn,
 and the court shall consider a continuance necessar to a fair
 trial of the cause, a juror shall be withdrawn, buti the court
 considers that a continuance is not necessary to a fair administration of justice, the jury may proceed and try the case after
 the amendment.
 
-33. In all cases of amendment, the allowance of costs shall
+SEC. 33. In all cases of amendment, the allowance of costs shall
 be in the discretion of the court.
 
-34. No cause shall be continued beyond the second term
+SEC. 34. No cause shall be continued beyond the second term
 after process has been served on the defendant, unless by
 
 consent of parties, or upon good cause shown by the party
 asking the continuance.
 
-35. Upon suggestion, supported by the affidavit of the party
+SEC. 35. Upon suggestion, supported by the affidavit of the party
 or some other credible person, that the evidence of a witness
 is wanting who resides in some place beyond the limits of
 this State, or the evidence of a witness residing within this
@@ -807,7 +798,7 @@ State, the court shall continue the cause for such time as may
 be deemed necessary to enable the party to procure the attendance or obtain the testimony of such absent witness ; Provided, the party applying for the continuance shall comply
 with the provisions of the two following sections.
 
-36. The party applying for a continuance under the preceding section, shall prove by his aiiidavit, or the affidavit of
+SEC. 36. The party applying for a continuance under the preceding section, shall prove by his aiiidavit, or the affidavit of
 some other credible person, to be filed in the cause, that the
 testimony of the absent witness (naming him,) is material,
 competent and proper in such suit; that he believes that the
@@ -815,7 +806,7 @@ cause cannot be tried with justice to the party without such
 evidence; that he has used his proper and reasonable endeavors to procure the same, and that he has a reasonable expectation and belief that the same can thereafter be procured
 in some reasonable time.
 
-37. The court may examine, on oath, a party making the
+SEC. 37. The court may examine, on oath, a party making the
 affidavit under the preceding section as it regards the materiality of the testimony, the probability of procuring the attendance of the witness in a reasonable time, and on what information or knowledge he believes the witness- will prove
 what he alleges, and if on such examination the court is satisfied of the truth of the affidavit, and that the testimony is
 material, a continuance shall be granted unless the adverse
@@ -823,20 +814,20 @@ material, a continuance shall be granted unless the adverse
 party will admit the truth of the facts which it is so alleged
 the absent witness will prove.
 
-38. Where a new trial is granted, or a commission shall
+SEC. 38. Where a new trial is granted, or a commission shall
 issue for the taking of testimony, or where a judgment shall
 be set aside for fraud or irregularity, the court may continue
 
 the cause so long as they shall deem necessary for a trial of
 the same onits merits.
 
-39. Where a arty to a suit dies, and new parties are made
+SEC. 39. Where a arty to a suit dies, and new parties are made
 or to be made, the court may continue the case so long as may
 be deemed necessary for the due administration of justice, not
 exceeding the end of the fourth court after the death is suggested, unless by consent of parties, or testimohy or platts
 are wanting.
 
-40. Where a party in any action brought to recover lands,
+SEC. 40. Where a party in any action brought to recover lands,
 or in which the title thereof is involved, shall die, and the
 pro r person to be made a party in the place of the person
 
@@ -846,33 +837,33 @@ such infant satisfy the court that it will be for the benefit of
 the infant to have the action tried during his infancy, but the
 action may be continued until the infant arrives at age.
 
-41. If any infant is entitled to lands by purchase, he shall
+SEC. 41. If any infant is entitled to lands by purchase, he shall
 not be obliged to answer any suit or action, except in cases
 where the eir would be bound by law to answer.
 
-42. In any case where the attendance of a witness residing
+SEC. 42. In any case where the attendance of a witness residing
 within this State to a material fact cannot be procured, the
 case may be continued as long as the court thinks proper, if
 the adverse party will not admit the facts, or consent to the
 taking the deposition of such witness on interrogatories, before some justice of the peace where the witness resides.
 
-43. On a special verdict, or case stated, the court shall not
+SEC. 43. On a special verdict, or case stated, the court shall not
 
 continue any case on a curia advisari vult longer than two
 terms.
 
-44. If plots returned in any cause are defective, and cannot
+SEC. 44. If plots returned in any cause are defective, and cannot
 be amended at bar, or if plots are not returned from the neglect of the surveyor, his sickness, or other accident, and the
 court shall think a continuance necessary for a fair trial of
 
 the cause, the same may be continued for such reasonable time
 as the court may determine.
 
-45. In all cases where a continuance is granted the party
+SEC. 45. In all cases where a continuance is granted the party
 applying for the same shall pay the costs of the term, unless
 the court shall otherwise direct.
 
-46. Where a tract of land, or contiguous tracts, lie partly
+SEC. 46. Where a tract of land, or contiguous tracts, lie partly
 in one county and partly in another, an action of ejectment
 may be brought for the whole land in the Circuit Court of
 one of the counties; Provided, if one person is in possession
@@ -881,7 +872,7 @@ county where such person resides, and if the person in possession does not resid
 shall be brought in the county where the greater part of the
 land lies.
 
-47. In actions brought under the preceding section, the
+SEC. 47. In actions brought under the preceding section, the
 court shall have the same ower to try the same, to order
 writs of re-survey and awar writs of possession for the whole
 land, as if the whole land lay in the county where the court
@@ -889,23 +880,23 @@ is held, the writs of possession to go to the sheriffs of the respective countie
 the same, and the survey shall be made by the surveyor of
 the county where the action is brought.
 
-48. In any action of ejectment against two or more defendants, they may sever in their defense; but if plats be necessary, there shall be but one set returned, which shall show
+SEC. 48. In any action of ejectment against two or more defendants, they may sever in their defense; but if plats be necessary, there shall be but one set returned, which shall show
 the claims and pretensions of all the parties. '
 
-49. Where defendants in ejectment sever in their distance,
+SEC. 49. Where defendants in ejectment sever in their distance,
 the court shall apportion the costs in such manner as may
 seem reasonable and just.
 
-50. In all cases of a joint holding by two or more persons,
+SEC. 50. In all cases of a joint holding by two or more persons,
 they may declare on a joint demise whether they hold as joint
 tenants, tenants in common, or in any other manner.
 
-51. If, on the trial of an ejectment, title be shown in any
+SEC. 51. If, on the trial of an ejectment, title be shown in any
 of the lessors of the plaintifff, it shall be suliicient to authorize
 him to recover to the extent of such title, though other lessors may be joined who have no interest, or may have parted
 with their interest.
 
-52. In all actions at law where the title to land is in question, it shall not be necessary for any party to any such action to prove that the lands in controversy have been patented ;
+SEC. 52. In all actions at law where the title to land is in question, it shall not be necessary for any party to any such action to prove that the lands in controversy have been patented ;
 but a patent shall in all cases be presumed in favor of the
 party showing a title otherwise good; and actual enclosure
 shall not be necessary to prove possession, but acts of exclusive user and ownership other than enclosure may be given
@@ -915,33 +906,33 @@ fifteen years any previously existing laws relating to the title
 to lands held in any part of the State, which were granted
 for military service.
 
-53. No warrant of re-survey shall issue in any action of
+SEC. 53. No warrant of re-survey shall issue in any action of
 ejectment, unless the court shall be satisfied that there is a
 dispute about the location of the lands claimed in said action,
 nor shall any issue in other actions, unless there is a dis ute
 about the location of the lands for the injury of which amages are claimed, or unless the court shall be satisfied that
 plats are necessary for illustration.
 
-54. In any action where the parties hold or claim under
+SEC. 54. In any action where the parties hold or claim under
 the same title the lands in dispute, no warrant of re-survey
 shall issue, except in cases where the parties claim different
 parcels under the same title, and it ap ears to the court there
 is a dispute about the location of the ivisional line or lines.
 
-55. Where the court shall consider a warrant of re-survey
+SEC. 55. Where the court shall consider a warrant of re-survey
 necessary, if the same be had at the instance of the defendant, or is made necessary by the defense taken in such case,
 the defendant shall first make his survey; and if the warrant
 be had at the instance of the plantiff, he shall first make his
 survey; and if it shall appear to the court at the trial of the
 cause that a survey was not necessary, then the party requiring the same shall pay all the costs of the surveys.
 
-56. Where surveys and late are necessary, the line or lines
+SEC. 56. Where surveys and late are necessary, the line or lines
 (the location of which is isputed,) may be located without
 locating the whole tract; so where lines of a neighboring
 tract are necessary for proof or illustration, such line or lines
 may be located without locating the whole tract.
 
-57. The late and certificates of survey in every case may
+SEC. 57. The late and certificates of survey in every case may
 be amend at bar; where the locations do not correspond
 
 with the variation the same may be amended at bar to correspond therewith; objects to which the proof applies may be
@@ -952,13 +943,13 @@ Provided, the court shall be satisfied the ends of justice will
 be attained by such amendment of plats, and admission of
 witnesses.
 
-58. In no action shall lats be considered as leadings or
+SEC. 58. In no action shall lats be considered as leadings or
 evidence per se; nor shall any counter location necessary
 to put the party locating any tract, line or object, on the proof
 of such location; and the opposite party may controvert the
 same without any counter location.
 
-59. The court upon return of any writ of replevin shall
+SEC. 59. The court upon return of any writ of replevin shall
 have power, upon motion being made by the defendant for a
 return of the property taken under the writ, to inquire into
 the circumstances and manner of the defendant's obtaining
@@ -968,14 +959,14 @@ possession being first in the plaintifff was got or retained by
 the defendant without proper authority or right derived from
 the plaintifff, the court may refuse to order a return to the defendant until a judgment is given in the action.
 
-60. If the defendant in replevin shall be returned “summoned,” and shall not appear in person or by attorney, on
+SEC. 60. If the defendant in replevin shall be returned “summoned,” and shall not appear in person or by attorney, on
 or before the fourth day of the term next succeeding that to
 which such return shall be made, the court shall on motion
 enter judgment for the plaintifff for the property replevied,
 and for nominal damages and costs ; and the same proceedings shall be had upon the return of two “non est” as upon
 a return of “ summoned.”
 
-61. Upon the allowance of any writ of certiorari for the
+SEC. 61. Upon the allowance of any writ of certiorari for the
 removal of the proceedings by a justice of the peace, between
 landlords and tenants, and also in all cases of inquest for a
 forcible entry and detainer, or a forcible detainer, the party
@@ -988,7 +979,7 @@ the delay of the proceedings, if the matter in controversy
 upon such writ shall be decided against the person obtaining
 the same.
 
-62. When an interlocutory judgment is entered in any of
+SEC. 62. When an interlocutory judgment is entered in any of
 the courts of this State, whereby the right of the plaintifff is
 established, but the damages sustained by him cannot be ascertained without the intervention of a jury, the court where
 judgment is given shall, on motion of the plaintifff or of his
@@ -1004,7 +995,7 @@ and seals, and thereupon the court shall proceed to judgment,
 
 as upon inquisitions of that kind returned by the sheriff.
 
-63. In all cases of actions brought for the penalty of any
+SEC. 63. In all cases of actions brought for the penalty of any
 bond, bill, covenant or contract with penalty, the jury may,
 under the direction of the court, upon the plea of payment or
 performance of the conditions or terms of the contract, ascertain and by their verdict find what sum of money is really
@@ -1014,7 +1005,7 @@ sum really due as aforesaid, or in any other manner ascertained, upon bonds and 
 penalty, shall be considered in law as the true debt, and shall
 be so pleaded by and allowed to administrators and others.
 
-64. Whenever any lands or tenements shall be sold by any
+SEC. 64. Whenever any lands or tenements shall be sold by any
 sheriff, coroner, or elisor, by virtue of any recess of execution from any court of this State, and the ebtor named in
 such execution, or any other person holding under said debtor
 named in such execution, or any other person holding under
@@ -1029,13 +1020,13 @@ had on said process, thereby commanding the said sheriff,
 coroner, or elisor, to deliver possession of the said lands or
 tenements to the purchaser thereof.
 
-65. The said sheriff, coroner, or elisor, shall have all the
+SEC. 65. The said sheriff, coroner, or elisor, shall have all the
 powers in the execution of said writ that he may have in the
 execution of any writ of habere facias possessionem, to him
 
 directed.
 
-66. If the said sherili‘, coroner, or elisor, shall die, resign,
+SEC. 66. If the said sherili‘, coroner, or elisor, shall die, resign,
 or be removed from or disqualified for office, or have his authority otherwise terminated after such sale, and before the
 writ in the nature of a writ of habere facias possessionem
 shall have been issued and executed, the court shall issue said
@@ -1047,21 +1038,20 @@ have his authority otherwise terminated before such writ shall
 be finally executed and returned, said writ shall be delivered
 to and executed, and returned by any succeeding sheriff, coroner, or elisor.
 
-67. The provisions of the three last preeceding sections
+SEC. 67. The provisions of the three last preeceding sections
 shall apply to sales made by constables or sheriffs, upon executions issued by justices of the peace, after such sale is connrmed by the court, and the said writ may be issued by the
 court to which the proceedings as to such sales shall be returned, as if the execution under which such sales shall have
 been made had issued from such court on a judgment therein
 recovered.
 
-68. No application for a writ of habere under this article,
+SEC. 68. No application for a writ of habere under this article,
 shall abate by reason of the death of the purchaser, before
 obtaining possession of the lands and tenements; but his
 heir or devisee shall have all the rights and remedies therein
 given to the purchaser.
 
-PRODUCTION OF BOOKS AND ANSWERING BILL OF DISCOVERY.
 
-69. The court shall have power in the trial of actions at
+SEC. 69. The court shall have power in the trial of actions at
 law, on motion made at the first court after the appearance
 court, supported by affidavit that the same is not intended for
 delay, and due notice thereof being given, to require the
@@ -1087,7 +1077,7 @@ or defendant may, in compliance with any rule for producing
 extracts of such books or papers bring into court the original
 books or papers.
 
-70. At the trial of any suit instituted upon the bond of any
+SEC. 70. At the trial of any suit instituted upon the bond of any
 clerk or register for neglect of duty, it shall be the duty of
 the clerk or register, when required, to exhibit to the court his
 dockets, records and fee books, and the measure of damages
@@ -1096,9 +1086,7 @@ not performed, unless special damage has been suffered by
 some person, and if so the jury shall in addition allow for
 such special damage.
 
-REMOVAL OF CAUSES.
-
-71. In all suits or actions at law, issues from the Orphans’
+SEC. 71. In all suits or actions at law, issues from the Orphans’
 Court, or any court sitting in equity in petitions for freedom,
 and in all presentments and indictments instituted in any of
 the Courts of Law of this State, the judge thereof, upon suggestion in writing if made by the State’s Attorney or the prosecutor for the State, or upon suggestion in writing, supported
@@ -1114,7 +1102,7 @@ county be within the judicial circuit or not, for trial, which
 court shall hear and determine the same in like manner as if
 it had been originally instituted therein.
 
-72. Such suggestion shall be made before or during the
+SEC. 72. Such suggestion shall be made before or during the
 term in which the issue or issues may be joined in said suit
 or action, issues or petition, presentment or indictment, unless the party applying for such removal shall, in addition to
 such affidavit, further state he had come tosuch belief, or had
@@ -1124,7 +1112,7 @@ up; on which additional statement being made and filed, the
 cause shall be removed, notwithstanding the issueshad been
 made up.
 
-73. When any suit or action, issues, petition, presentment
+SEC. 73. When any suit or action, issues, petition, presentment
 or indictment shall be removed to an adjoining county according the provisions of the two last preceding sections, it shall
 be lawful for the party at whose instance the same was not
 removed, if he shall think that justice cannot be done him in
@@ -1135,7 +1123,7 @@ county, whereupon the said court shall remove said cause to
 such adjoining county as the said court shall think will best
 tend to justice between the parties thereto.
 
-74. If it shall appear to any court to which any civil or
+SEC. 74. If it shall appear to any court to which any civil or
 criminal case has been removed, that the transcript of the
 record in said case is not a true transcript of the record or
 
@@ -1148,7 +1136,7 @@ duty of . said clerk receiving sue; transcript so to him returned to correct the
 the corrections so made, or to prepare a new transcript of the
 said record, which shallbe correct in all its parts.
 
-75. The court to which any imperfect transcript is sent
+SEC. 75. The court to which any imperfect transcript is sent
 shall have power to order the delivery thereof to the clerk of
 the court from which the case was removed as often as may
 be necessary to the perfection of said transcript as a true copy
@@ -1158,7 +1146,7 @@ as may be ; and all recognizances and other proceedings had
 in the court to which the case is removed, shall be as good
 and valid as if the transcript of the record originally transmitted had been correct in all its parts.
 
-76. In all civil cases which may be removed to another
+SEC. 76. In all civil cases which may be removed to another
 county under the provisions of this article, and in which a
 dual judgment may be obtained, the clerk of the court in
 which such judgment may be obtained, shall, on application
@@ -1169,7 +1157,7 @@ city in which said case shall have been originally instituted,
 or if the judgment is for the defendant he may have the same
 remedy.
 
-77. Any such execution shall be directed to and served by
+SEC. 77. Any such execution shall be directed to and served by
 the sheriff or coroner, as the case may be, of the county or
 city in which the case was originally instituted, and returned
 to the Circuit Court for the county of which he is sheriff, or
@@ -1180,7 +1168,7 @@ the same shall be returnable, a short copy of the judgment
 by him obtained, attested by the clerk of the court before
 which the same is had.
 
-78. Every court to which any cause may be removed shall
+SEC. 78. Every court to which any cause may be removed shall
 have power to issue a warrant of re-survey, order, or other
 process to the sheriff, surveyor or other oiiicer of the county
 from which such caue has been removed, to the sheriff or
@@ -1201,27 +1189,26 @@ name of the State, but for the use of the_ party aggrieved by
 such neglect, who may issue execution thereon as upon other
 judgments.
 
-PROCESS.
 
-79. In all civil suits or actions in the Circuit Courts where
+SEC. 79. In all civil suits or actions in the Circuit Courts where
 capies ad respondendem formerly issued, a writ of summons
 shall be issued for the defendant, in which shall be stated the
 purpose for which he is summoned ; and the said summons
 shall be returnable on the first day of the term next after
 issuing the same.
 
-80. If the summons is returned “summoned,” and the defendant returned “summoned” shall fail to appear, the court
+SEC. 80. If the summons is returned “summoned,” and the defendant returned “summoned” shall fail to appear, the court
 shall on the second day of the term to which the summons is
 returnable, enter the appearance of any defendant so summoned and failing to appear, and the action shall proceed in
 the same manner as if the party had appeared in person.
 
-81. Where there is more than one defendant, and some
+SEC. 81. Where there is more than one defendant, and some
 shall appear, and some who have been summoned shall fail
 to appear, the court shall have an appearance entered for those
 who fail to appear, and the same proceedings shall be pursued
 as if all had appeared.
 
-82. No person shall be sued out of the county in which he
+SEC. 82. No person shall be sued out of the county in which he
 resides, until the sheriff or coroner of the county in which
 he resides shall have returned a non est on a summons issued
 in such county; Provided, that nothing herein contained shall
@@ -1232,7 +1219,7 @@ ejectment, dower, replevin, scire facias on judgment or decree,
 nor to heirs, devisees or terre-tenants against whom process
 may be issued to another county.
 
-83. If any trespass shall be committed on any real property,
+SEC. 83. If any trespass shall be committed on any real property,
 and the person committing the same shall remove from the
 
 county where such property may lie, or cannot be found in
@@ -1240,7 +1227,7 @@ such county, such trespasser may be sued in any county where
 he may be found, and an executor may be sued either in the
 county where he resides or where he obtained administration.
 
-84. Every county lying on any navigable river in this State,
+SEC. 84. Every county lying on any navigable river in this State,
 shall extend its jurisdiction from the shore to the channel of
 the river that divides the counties, except where a dividing
 line has been fixed in such river by law; and where any ship
@@ -1250,7 +1237,7 @@ that can first serve it; but if she is moored or fastened to the
 land on either side of said river, then she shall be considered
 as in the county to whose shore she is fastened.
 
-85. If any person shall commit any crime or offense in any
+SEC. 85. If any person shall commit any crime or offense in any
 county of which he is not an inhabitant, or if any person shall
 commit any crime or offense in the county of which he is an
 inhabitant and shall remove after the commission thereof and
@@ -1262,16 +1249,16 @@ return such process as if issued by a court of his county, and
 upon neglect or delay, may be fined by the court issuing the
 same.
 
-.86. Where a testator devises lands and dies in debt, any of
+SEC. 86. Where a testator devises lands and dies in debt, any of
 his creditors may sue his devisees without making his heirs at
 law arties, unless such heirs are known to the plaintifff and
 resi e in this State.
 
-87. It shall not be necessary for any oihcer, in serving any
+SEC. 87. It shall not be necessary for any oihcer, in serving any
 writ of scire facias, or attachment with clause of scire facias,
 to serve the same in the presence of witnesses.
 
-88. In cases of writs of scire facias against heirs and terre
+SEC. 88. In cases of writs of scire facias against heirs and terre
 tenants, where any of the heirs or terre tenants reside in
 another county than that in which the judgment on which
 such scire facias is issued was obtained, duplicates of such writ
@@ -1283,7 +1270,7 @@ the party so summoned by means of such duplicates shall he
 proceeded against in the same manner as if they were residents
 of the county in which the judgment was obtained.
 
-89. In all cases where a joint action is instituted against
+SEC. 89. In all cases where a joint action is instituted against
 heirs and devisees, and any of such heirs or devisees shall be
 residents of another county, a duplicate writ may issue to the
 county where any of said heirs or devisees reside, directed to
@@ -1294,7 +1281,7 @@ the suit was brought; Provided, all such actions shall be instituted in the coun
 his heirs reside there, and if not, in the county in which his
 real estate or some part thereof is situated.
 
-90. An execution or attachment may issue on any judgment
+SEC. 90. An execution or attachment may issue on any judgment
 or decree to the sheriff of any other county, if an execution
 or attachment has been issued to the sheriff of the county
 where the judgment or decree was obtained and returned
@@ -1308,7 +1295,7 @@ returned shall upon the production of a short copy of the
 judgment, proceed in the same manner by renewal or otherwise as if the said execution or attachment had been issued
 by such court on a judgment or decree therein.
 
-91. A summons for witnesses residing in a different county
+SEC. 91. A summons for witnesses residing in a different county
 to testify in trials to be had before the Circuit Court, may issue,
 and shall be directed to the sheriff of the county where the
 witnesses reside, and all witnesses upon whom such summons
@@ -1317,7 +1304,7 @@ shall he served shall be liable to attachment and fine in like
 manner as if such witnesses resided in the county where the
 trial is had.
 
-92. If a witness residing in a different county from that in
+SEC. 92. If a witness residing in a different county from that in
 which the trial is to be had shall be summoned, or has removed
 from such county ‘after being summoned, and shall fail to appear after being so summoned, an attachment may issue for
 
@@ -1326,17 +1313,17 @@ resides, returnable to the court issuing the same, and if the
 sheriff take such witness, he shall produce him before the
 said court to abide its sentence thereupon.
 
-93. Process issued by any court of this State, against a corporation holding and exercising franchises within this State,
+SEC. 93. Process issued by any court of this State, against a corporation holding and exercising franchises within this State,
 may be served upon the president, or any director or manager
 or other officer of such corporation.
 
-94. If a suit shall be instituted against any corporation not
+SEC. 94. If a suit shall be instituted against any corporation not
 chartered by this State, but deemed to hold and exercise franchises therein, in the county or city where the office of such
 corporation is kept, the process in such suit may be served on
 
 the president or any director, or upon any agent of such corporation.
 
-95. But in a suit against ‘such corporation in any other
+SEC. 95. But in a suit against ‘such corporation in any other
 county or city than that in which its office is located, the
 plaintifff in such suit shall have the writ or summons, or a copy
 thereof, served on the clerk of the corporation, or in case of his
@@ -1345,8 +1332,7 @@ days before the return day of such writ or summons, and shall
 file the affidavit of some disinterested person that the same
 had been duly served or left at the oilice aforesaid.
 
-96. If any of the corporations embraced in the last two
-sections shall, after any liability shall occur within this State,
+SEC. 96. If any of the corporations embraced in the last two sections shall, after any liability shall occur within this State,
 withdraw its agents from this State, or shall revoke the authority of any agent, and shall not appoint another, and no
 president or director of such corporation can be found in this
 State, service of any writ or process on the person last the
@@ -1357,7 +1343,7 @@ incorporated, and an affidavit of such service be made before
 any person authorized by the laws of this State to take the
 acknowledgment of deeds.
 
-97. If any corporation whatever upon which process has
+SEC. 97. If any corporation whatever upon which process has
 been served as herein prescribed shall fail to appear during
 the term to which such process shall be returned, or by the"
 second day of the succeeding term, judgment by default shall
@@ -1366,7 +1352,7 @@ be entered against such corporation, and the amount of the
 claim of the plaintifff ascertained by a jury of inquiry or
 otherwise, as in other cases on judgments by default.
 
-98. When any of the clerks of any of the courts within this
+SEC. 98. When any of the clerks of any of the courts within this
 State shall be required to issue any writ or process whatever,
 to be served in any other county than that in which he is clerk,
 he shall issue the same directed to the sheriff, coroner, or
@@ -1384,7 +1370,7 @@ and in such letter or cover shall be written the usual docket
 entry of such process, so as to show the parties concerned,
 and the nature and purpose thereof. '
 
-99. Each clerk of the Circuit Courts for the several counties,
+SEC. 99. Each clerk of the Circuit Courts for the several counties,
 and the clerk of the Superior Court of Baltimore city, shall
 send to the post office nearest his residence daily, (if mails
 arrive at said odice daily,) and if not, as often as they arrive,
@@ -1395,7 +1381,7 @@ s eed deliver the same to the sheriff or other officer to whom
 t e same may be directed, and shall also endorse thereon the
 time of such delivery.
 
-100. Every clerk who shall receive and deliver any writ or
+SEC. 100. Every clerk who shall receive and deliver any writ or
 process as directed in the preceding section, shall transmit by
 the mail, and in due time before the session of the court to
 which such process shall be returnable, a certificate under his
@@ -1413,18 +1399,18 @@ be competent and suiheient evidence to prove the delivery of
 such process to such oiiieer; the provisions of this and the
 preceding section to apply to writs of fieri facias and attachments sent from one county to another.
 
-101. Every clerk who shall neglect or delay to perform the
+SEC. 101. Every clerk who shall neglect or delay to perform the
 duties required by the three preceding sections, shall forfeit
 and pay a sum not exceeding fifty dollars for every refusal or
 neglect, for the use of the State.
 
-102. The expense of postage incurred by the respective
+SEC. 102. The expense of postage incurred by the respective
 clerks, and a reasonable compensation for their services in the
 transmission, delivery, and receipt of process from one county.
 to another, shall be allowed to them by the county commissioners of their respective counties, and Mayor and City Council
 of Baltimore.
 
-103. Any process directed to another county instead of being
+SEC. 103. Any process directed to another county instead of being
 sent by mail as hereinbefore directed, may be sent by any
 person, and upon &proof of the delivery of the same to the
 sheriff or other e cer to the satisfaction of the court from
@@ -1432,7 +1418,7 @@ which the same issued, such delivery shall have the same
 effect to charge the sheriff or other officer as if delivered under
 the provisions of the preceding sections.
 
-104. In all cases where there is no coroner in a county, the
+SEC. 104. In all cases where there is no coroner in a county, the
 plaintifff may file his declaration against the sheriff and his
 securities, or against the person who is for the time the sheriff,
 .when the suit is against him on his individual account, and
@@ -1447,7 +1433,7 @@ own hand writing shall be evidence of the amount due the
 State; but no execution shall issue on such judgment until
 twelve months after said third day of the term.
 
-105. When the sheriff is a party to or interested in any suit
+SEC. 105. When the sheriff is a party to or interested in any suit
 or proceeding in any court so as to be disqualified from serving
 
 process, and there is no coroner duly qualified to serve such
@@ -1458,15 +1444,15 @@ disqualication, appoint an elisor to serve any rocess in such
 suit or proceeding, which ap ointment shall e in writing,
 signed by the judge, and file with the clerk issuing the process, and may be made either in court or during the recess.
 
-106. Every elisor appointed as aforesaid shall have the same
+SEC. 106. Every elisor appointed as aforesaid shall have the same
 power to serve any writ or process directed to him asthe
 sheriff has to serve similar process, and shall be entitled to
 the same fees therefore.
 
-107. If any elisor dies or refuses to act, the judge may
+SEC. 107. If any elisor dies or refuses to act, the judge may
 appoint another in his place.
 
-108. The city of Baltimore shall be regarded as a county,
+SEC. 108. The city of Baltimore shall be regarded as a county,
 so far as relates to the sending of process of any kind from
 one county to another, and each of its courts within its respective jurisdiction, shall have all the powers of the Circuit
 Court for a county in relation to such process, but all executions or attachments on judgments or decrees sent from

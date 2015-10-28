@@ -28,13 +28,13 @@ TITLE I.
 
 FORM OF CIVIL ACTIONS.
 
-SEC. 92. Distinction between actions at law and suits in equity
+92. Distinction between actions at law and suits in equity
 abolished.
 93. Parties, how designated.
 94. Actions on Judgments.
 95. Feigned issues abolished.
 
-SEO. 92. The distinction between actions at law and suits in equity. ,
+SEC. 92. The distinction between actions at law and suits in equity. ,
 
 and the forms of all such actions and suits, heretofore existing, are abolished ;, and there shall be in this State, hereafter, but one form of action
 for the enforcement or protection of private rights and the redress of private wrongs, which shall be denominated a civil action.
@@ -42,7 +42,7 @@ for the enforcement or protection of private rights and the redress of private w
 SEC. 93. In such action, the part com laining shall be known as the
 plaintifff, and the adverse arty as t e de endant.
 
-SEO. 94. N 0 action sha I be brought upon a judgment rendered in any
+SEC. 94. No action sha I be brought upon a judgment rendered in any
 
 Court in this State, except a Court of Trial Justice, between the same par- J
 
@@ -69,7 +69,7 @@ IV. General provisions.
 
 CHAPTER I.
 
-SEC. 96. Repeal of existing limitations.
+96. Repeal of existing limitations.
 97. Time for commencing actions, etc.
 
 SEC. 96. The provisions of this title shall not extend to actions already
@@ -87,7 +87,7 @@ limited can only be taken by answer.
 
 CHAPTER II.
 
-SEC. 98. When the State will not sue.
+98. When the State will not sue.
 99. When action cannot be brought by grantee from the State.
 100. When action by the State or their grantees to be brought within
 E twenty years.
@@ -110,8 +110,7 @@ legal title.
 111. Persons under disability. 7
 
 SEC. 98. The State will not sue any person for or in res ct to any
-real property, or the issues or profits thereof, by reason of t e right or
-title of the State to the same, unless:
+real property, or the issues or profits thereof, by reason of t e right or title of the State to the same, unless:
 
 1. Such right or title shall have accrued within forty years before any
 action or other proceedin for the same shall be commenced ; or unless,
@@ -163,8 +162,7 @@ shall be deemed to have been under and in subordination to the legal title, unle
 such action. a
 
 SEC. 105. Whenever it shall appear that the occupant, or those under
-whom he claims, entered into the possession of premises under claim of
-title, exclusive of any other right, founding such claim upon a written instrument, as being a conveyance of the premises in question, or upon the
+whom he claims, entered into the possession of premises under claim of title, exclusive of any other right, founding such claim upon a written instrument, as being a conveyance of the premises in question, or upon the
 decree or judgment of a competent Court, -and that there has been a con-.
 tinued occupation and possession of the premises included in such instrument, decree or judgment, or of some part of such remises, under such
 claim, for twenty years, the premises so included s all be deemed to have
@@ -206,8 +204,7 @@ SEC. 109. Whenever the relation of landlord and tenant shall have
 existed between any rsons, the possession of the tenant shall be deemed
 the possession of the andlord, until the expiration of twenty years from
 the termination of the tenancy ; or, where there has been no written
-lease, until the expiration of twenty years from the time of the last payment of rent, notwithstanding that such tenant may have acquired another
-title, or may have claimed to hold adversely to his landlord. But such
+lease, until the expiration of twenty years from the time of the last payment of rent, notwithstanding that such tenant may have acquired another title, or may have claimed to hold adversely to his landlord. But such
 presumptions shall notbe made after the periods herein limited.
 
 SEC. 110. The right of a person to the possession of any real property
@@ -218,8 +215,7 @@ SEC. 111. If a person entitled to commence any action for the recovery
 
 , of real property, or to make an entry or defense founded on the title to
 
-real property, or to rents or services out of the same, be, at thetime such
-title shall first descend or accrue, either1. Within the age of twenty-one years; or,
+real property, or to rents or services out of the same, be, at thetime such title shall first descend or accrue, either1. Within the age of twenty-one years; or,
 
 2. Insane; or,
 
@@ -239,7 +235,7 @@ CHAPTER III.
 TIME OF COMMENCING ACTIONS OTHER THAN FOR THE RECOVERY OF
 REAL PROPERTY.
 
-SEC. 112. Limitation prescribed.
+S. 112. Limitation prescribed.
 113. Twenty years.
 114. Six years.
 115. Three years.
@@ -254,7 +250,7 @@ SEC. 112. The periods prescribed in Section ninety-seven for the com- 1
 ,mencement of actions other than for the recovery of real property shall 2
 
 hes” f°i’1°§' “iv 1.
-EC. . it in twen years: I_
+SEC. 113. it in twen years: I_
 
 1. An action upon a ju gment or decree of any Court of the United
 States, or of any State or erritory within the United States.
@@ -281,7 +277,7 @@ enumerate . , .
 in such case not to be deemed to have accrued until the discovery by the
 aggrievcladfpaw thcil facts constituting the fraud.
 
-EC. . 1 m t ree ears:
+SEC. 115. in three years:
 
 1. An action against a Slieriff, Coroner or Constable, upon a liability
 incurred by the doing of an act in his ofiicial capacity, and in virtue of
@@ -326,7 +322,7 @@ CHAPTER IV.
 
 GENERAL PROVISIONS AS TO THE TIME OF COMMENCING ACTIONS.
 
-SEC. 122. When action deemed commenced.
+. 122. When action deemed commenced.
 123. Exception, defendant out of State.
 124. Exception as to person under disabilities.
 125. Death of person entitled before limitation expires..
@@ -350,7 +346,7 @@ the defendants or one of them usually or last resided ; or, if a corporation be 
 such corporation was established by law, or where its general business
 was transacted, or where it kept an office for the transaction of business.
 
-She. 123. If, when the cause of action shall accrue against any person,
+SEC. 123. If, when the cause of action shall accrue against any person,
 he shall be out of the State, such action may be commenced within the
 terms herein respectively limited, after the return of such person into
 this State; and if, after such cause of action shall have accrued, such
@@ -397,7 +393,7 @@ injunction or statutory prohibition, the time of the continuance of the
 injunction or prohibition shall not be part of the time limited for the
 commencement of the action.
 
-SEC. 129. N 0 person shall avail himself of a disability, unless it
+SEC. 129. No person shall avail himself of a disability, unless it
 existed when his right of action accrued.
 
 SEC. 130. When two or more disabilities shall co-exist at the time the
@@ -424,7 +420,7 @@ TITLE III.
 
 PARTIES TO CIVIL ACTIONS.
 
-SEC. 134. Party in interest to sue. Action by grantee of land held
+S. 134. Party in interest to sue. Action by grantee of land held
 adversely.
 
 135. Assignment of thing in action.
@@ -452,8 +448,7 @@ SEC. 134. Every action must be prosecuted in_ the name of the real
 party in interest, except as otherwise provided in Section one hundred
 and thirty-six; but this Section shall not be deemed to authorize the assignment of a thing in action not arising out of contract. But an action may be maintained by a grantee of land in the name of the grantor,
 or his or her heirs or legal representatives, when the grant or grants are
-void by reason of the actual possession of a person claiming under a
-title adverse to that of the grantor at the time of the delivery of the
+void by reason of the actual possession of a person claiming under a title adverse to that of the grantor at the time of the delivery of the
 grant, and the plaintifff shall be allowed to prove the facts to bring the
 case within this provision.
 
@@ -466,7 +461,9 @@ SEC. 136. An executor or administrator, a trustee of an express trust,
 
 - or a erson expressly authorized b statute, may sue, without joining
 ' with im the person for whose bene t the action is prosecuted. A trust% of an express trust, within the meaning of this Section, shall be construed to include a person with whom or in whose name a contract is
-made for the benefit of another. SEC. 137. When a married woman is a party, her husband must be
+made for the benefit of another. 
+
+SEC. 137. When a married woman is a party, her husband must be
 joined with her, except that,
 
 1. When the action concerns her separate property, she may sue or be
@@ -539,7 +536,7 @@ SEC. 143. Persons severally liable upon the same obligation or instrument, inclu
 all, or any of t em, be included in the same-action, at the option of the
 ilaintilf.
 
-1 SEC. 144. No action shall abate by the death, marriage, or other disability of a party, or by the transfer of any interest therein, if the cause
+SEC. 144. No action shall abate by the death, marriage, or other disability of a party, or by the transfer of any interest therein, if the cause
 of action survive or continue. In case of death, marriage, or other disability of a party, the Court, on motion, at any time within one year
 thereafter, or afterwards, on a supplemental complaint, may allow the
 action to be continued by or against his representative or successor in interest. In case of an other transfer of interest, the action shall be continued in the name 0 the original party, or the Court may allow the person to whom the transfer is made to be substituted in the action.
@@ -558,7 +555,7 @@ in its discretion, order that t e action be deemed a ated, un ess the same
 be continued by the proper arties, within a time to be fixed by the
 Court, not less than SIX mont s nor exceeding one year from the grantin of the order.
 
-%Eo. 145. The Court may determine any controversy between the parties before it, when it can be done without prejudice to the rights of
+SEC. 145. The Court may determine any controversy between the parties before it, when it can be done without prejudice to the rights of
 others, or by saving their rights; but when a complete determination of
 the controversy cannot be had without‘ the presence of other parties, the
 Court must cause them to be brought in. And when, in an action for
@@ -580,7 +577,7 @@ TITLE IV.
 
 OF THE PLACE OF TRIAL OF CIVIL ACTIONS.
 
-SEC. 146. Actions to be tried where subject-matter situated.
+S. 146. Actions to be tried where subject-matter situated.
 147. Actions to be tried where cause of action arose.
 148. Actions to be tried where the parties reside.
 149. Changing place of trial.
@@ -646,7 +643,7 @@ TITLE V.
 
 MANNER OF COMMENCING CIVIL ACTIONS.
 
-SEC. 150. Actions, how commenced.
+S. 150. Actions, how commenced.
 
 151. Summons, requisites of.
 
@@ -850,7 +847,9 @@ been pleaded in such action, the Plaintiff, in case the judgment therein
 shall remain unsatisfied, ma by action recover of such partner separately,
 upon proving his joint liabi ity, notwithstanding he may not have been
 named in the original action; but the Plaintiff shall have satisfaction of
-onl one judgment rendered for the same cause of action. SEC. 160. In the cases mentioned in Section one hundred and fiftyeight, the service of the summons shall be deemed complete at the expiration of the time prescribed by the order for publication.
+onl one judgment rendered for the same cause of action. 
+
+SEC. 160. In the cases mentioned in Section one hundred and fiftyeight, the service of the summons shall be deemed complete at the expiration of the time prescribed by the order for publication.
 
 SEC. 161. Proof of the service of the summons, and of the complaint
 or notice, if an , accompanying the same, must be as follows:
@@ -889,13 +888,14 @@ CHAPTER I.
 
 THE COMPLAINT.
 
-SEC. 163. Forms of pleading.
+S. 163. Forms of pleading.
 164. Complaint.
 165. Complaint, what to contain.
 
-, SEC. 163. All the forms of pleading heretofore existing are abolished ;
+SEC. 163. All the forms of pleading heretofore existing are abolished ;
 and, hereafter, the forms of pleading in civil actions in Courts of Record,
-and the rules by which the sufliciency of the pleadings is to be determined, are those prescribed by this Act. SEC. 164. The first pleading on the part of the Plaintiff is the complaint. ~
+and the rules by which the sufliciency of the pleadings is to be determined, are those prescribed by this Act. 
+SEC. 164. The first pleading on the part of the Plaintiff is the complaint. ~
 
 SEC. 165. The complaint shall contain: 1
 
@@ -915,7 +915,7 @@ be stated.
 CHAPTER II.
 THEADEMURRER.
 
-SEC. 166. Defendant to demur or answer.
+S. 166. Defendant to demur or answer.
 
 167. When the defendant may demur.
 
@@ -945,7 +945,7 @@ the same cause; or,
 6. That the complaint does not state facts sufficient to constitute a
 cause of action. ‘
 
-S130. 168. The demurrer shall distinctly specify the grounds of objection to the complaint. Unless it do so, it ma be disregarded. It may i
+SEC. 168. The demurrer shall distinctly specify the grounds of objection to the complaint. Unless it do so, it ma be disregarded. It may i
 
 -be taken to the whole complaint or to any of t e alleged causes of action 7
 
@@ -971,7 +971,7 @@ CHAPTER III.
 
 THE ANSWER.
 
-SEC. 172. Answer, what to contain.
+S. 172. Answer, what to contain.
 173. Counter claim. Several defenses.
 174. Demurrer and answer, when allowed.
 175. Sham and irrelevant defenses to be stricken out.
@@ -1010,7 +1010,7 @@ impose.
 CHAPTER IV.
 THE REPLY.
 
-SEC. 176. Reply. Demurrer to answer.
+S. 176. Reply. Demurrer to answer.
 177. Motion for judgment upon answer.
 178. Demurrer to reply.
 
@@ -1044,7 +1044,7 @@ and shall state the grounds thereof. '
 CHAPTER V.
 GENERAL RULES or PLEADING.
 
-SEC. 179. Pleadings to be subscribed and verified.
+S. 179. Pleadings to be subscribed and verified.
 
 180. Pleadings, how verified.
 
@@ -1074,9 +1074,7 @@ SEC. 179. Every pleading in a Court of Record must be subscribed. by
 the party or his attorney; and when any pleading is verified, every subse- 
 
 quent pleadinrg, except a demurrer, must be verified also.
-See. 180. h
-
-e verification must be to the effect that the same is true ,
+SEC. 180. The verification must be to the effect that the same is true ,
 
 to the knowledge of the person making it, except as to those matters a
 
@@ -1101,7 +1099,7 @@ in any Court of Record in this State may be omitted in all cases where
 the party called upon to verify would be privileged from testifying as a
 witness to the truth of any matter denied by such pleading.
 
-SEE). 181. It shall not be necessary for a party to set forth in a pleading the items of an account therein alleged; but he shall deliver to the
+SEC. 181. It shall not be necessary for a party to set forth in a pleading the items of an account therein alleged; but he shall deliver to the
 adverse party, within ten days after a demand therefore in writing, a copy
 of the account, which, if the pleading is verified, must be verified by his
 own oath, or that of his agent or attorney, if within the personal knowledge of such agent or attorney, to the effect that he believes it to be
@@ -1202,7 +1200,7 @@ CHAPTER VI.
 
 MIBTAKFS IN PLEADING, AND AMENDMENTS.
 
-SEC. 192. Material variances, how provided for.
+S. 192. Material variances, how provided for.
 
 193. Immaterial variances, how provided for.
 
@@ -1221,14 +1219,13 @@ SEC. 192. Material variances, how provided for.
 rig ts. *
 200. Supplemental complaint, answer, and reply.
 
-S130. 192. No variance between the alle tion in a pleading and the
+SEC. 192. No variance between the alle tion in a pleading and the
 proof shall be deemed material, unless it ave actually misled the adverse party, to his prejudice, in maintaining his action or defense, upon
 the merits. Whenever it shall be alleged that a party has been so misled, that fact shall be proved to the satisfaction of the Court, and in what
 respect he has been misled; and thereupon the Court may order the
 pleading to be amended, upon such terms as shall be just.
 
-SEC. 193. Where the variance is not material, as provided in the last
-Section, the Court may direct the fact to be found according to the evidence, or ma order an immediate amendment without costs.
+SEC. 193. Where the variance is not material, as provided in the last Section, the Court may direct the fact to be found according to the evidence, or ma order an immediate amendment without costs.
 
 SEC. 194. here, however, the allegation of the cause of action or
 defense to which the proof is directed is not proved, not in some particular
@@ -1236,7 +1233,7 @@ or particulars only, but in its entire scope and meaning, it shall not be
 deemed a case of variance, within the last two Sections, but a failure of
 
 roof.
-P SEC. 195. Any pleading may be once amended by the party of course,
+SEC. 195. Any pleading may be once amended by the party of course,
 without costs, and without prejudice to the roceedings already had, at
 any time within twenty days after it is serve , or at any time before the
 period for answering it expires; or it can be so amended at any time
@@ -1313,7 +1310,7 @@ CHAPTER I.
 
 ARREST AND BAIL.
 
-SEC. 201. No person to be arrested in a civil action, except as prescribed. A
+S. 201. No person to be arrested in a civil action, except as prescribed. A
 
 202. Arrest in civil actions, in what cases.
 
@@ -1442,7 +1439,7 @@ SEC. 207. The affidavit and order of arrest shall be delivered to the
 Sheriff or Constable, who, upon arresting the defendant, shall deliver to
 him a cop thereof.
 
-SEC. 20 . The Sheriff or Constable shall execute the order by arresting
+SEC. 208. The Sheriff or Constable shall execute the order by arresting
 the defendant and keeping him in custody until discharged by law, and
 may call the power of the County to his aid in the execution of the
 arrest, as in case of process.
@@ -1483,7 +1480,7 @@ him, or, by a written authority, indorsed on a certified copy of the undertaking
 SEC. 213. In case of failure to compl with the undertaking, the bail
 ma be roceeded against, by action onfy.
 
-EC. 14. The bail may be exonerated, either by the death of the defendant, or his imprisonment in a State prison, or by his legal discharge
+SEC. 14. The bail may be exonerated, either by the death of the defendant, or his imprisonment in a State prison, or by his legal discharge
 from the obligation to render himself amenable to the process, or by his
 surrender to the Sheriff or Constable of the County where he was arrested, in execution thereof, Within twenty days after the commencement
 of the action against the bail, or within such further time as may be
@@ -1538,7 +1535,7 @@ makin such payment the same proceedings may be had on the official bond
 of the Sheriff or Constable, to collect the sum deposited, as in other cases of
 delinquency.
 
-SEC. 22‘ . If money be deposited, as provided in the last two Sections, 1
+SEC. 222. If money be deposited, as provided in the last two Sections, 1
 bail ma be iven and justified upon notice, as prescribed in Section two .
 hundre an sixteen, any time before judgment; and thereupon the
 Judge before whom the justification is had shall direct, in the order of allowance, that the money deposited be refunded by the Sheriff or Constable to the defendant, and it shall be refunded accordingly.
@@ -1639,7 +1636,7 @@ by leaving them at the usual place of abode of either, with some person
 
 , of suitable a e and discretion.
 
-SEC. 233. e defendant may, within three days after the service of a copy
+SEC. 233. The defendant may, within three days after the service of a copy
 of the affidavit and undertaking, give notice to the Sheriff that he ex- ‘
 cepts to the sufficiency of the sureties. If he fail to do so, he shall be
 deemed to have waived all objection to them. When the defendant excepts, the sureties shall justif on notice, in like manner as upon bail on
@@ -1649,7 +1646,7 @@ or until they shall justifiy, or new sureties shall be substituted and justify.
 If the defendant except to the sureties, he cannot reclaim the property,
 as rovided in the next Section.
 
-‘EC. 234. At any time before the delivery of the property to the plain- ,
+SEC. 234. At any time before the delivery of the property to the plain- ,
 tiff, the defendant may, if he do not except to the sureties of the plaintifff, 1
 require the return thereof, upon giving to the Sheriff‘ a written undertaking, executed by two or more sufficient sureties, to the effect that they
 are bound in double the value of the property, as stated in the affidavit
@@ -1719,7 +1716,7 @@ in which the action is brought, or by a udge thereof, and in the absence
 from the Circuit, or inability, from any cause, of a Judge thereof, by a
 Judge of any other Circuit, or a Justice of the Sn reme Court.
 
-SEC. 242. [1] Where it shall a pear by the comp aint that the plaintifff’
+SEC. 242. Where it shall appear by the comp aint that the plaintifff’
 is entitled to the relief demanded: and such relief, or any part thereof,
 consists in restraining the commission or continuance of some act, the
 commission or continuance of which, during the litigation, would roduce injury to the plaintifff; or [2] when, during the litigation, it shall
@@ -1731,7 +1728,7 @@ dispose of his property, with intent to defraud his creditors, a temporary
 
 ginjunction ma be granted to restrain such removal or disposition.
 
-, SEC. 243. he injunction may be ranted at the time of commencing
+SEC. 243. he injunction may be ranted at the time of commencing
 the action, or at any time afterwards, efore judgment, upon its appearing
 satisfactorily to the Court or Judge, by the affidavit of the plaintifff, or of
 any other person, that sufficient grounds exist therefore. A copy of the
@@ -1742,7 +1739,7 @@ have answered, unless upon notice or upon an order to show cause; but
 in such case the defendant may be restrained until the decision of the
 Court or Jud granting or refusing the in'unction.
 
-SEC. 245. %hen no provision is made y statute as to security upon
+SEC. 245. When no provision is made y statute as to security upon
 an injunction, the Court or Judge shall require a written undertaking on
 the part of the plaintifff, with or without sureties,‘ to the effect that the
 plaintifff‘ will pay to the party enjoined such damages, not exceeding an
@@ -1783,7 +1780,7 @@ granted.
 CHAPTER IV.
 ATTACHMENT.
 
-SEC. 250. Property of foreign corporations, and of non-resident or absconding or concealed defendants, may be attached.
+S. 250. Property of foreign corporations, and of non-resident or absconding or concealed defendants, may be attached.
 
 251. Attachment, by whom granted. ’
 
@@ -2093,12 +2090,12 @@ CHAPTER I.
 
 JUDGMENT UPON FAILURE TO ANSWER, &C.
 
-SEC. 268. Judgment defined.
+S. 268. Judgment defined.
 269. Judgment on failure of defendant to answer, or for excess
 over counterclaim.
 270. Judgment on frivolous demurrer, answer or reply.
 
-SE0. 268. A judgment is the final determination of the rights of the
+SEC. 268. A judgment is the final determination of the rights of the
 parties in the action.
 
 SEC. 269. Judgment may be had, if the defendant fail to answer the
@@ -2162,7 +2159,7 @@ judgment may be given accordingly.
 CHAPTER II.
 ISSUES AND THE MODE or TRIAL.
 
-SEC. 271. The different kinds of issues.
+S. 271. The different kinds of issues.
 272. Issue of law.
 273. Issue of fact.
 
@@ -2220,7 +2217,7 @@ may order the whole issue, or any specific question of fact involved
 therein, to be tried by a jury, or may refer it, as provided in Sections two
 hundred and ninety-four and two hundred and ninety-five. ~
 
-SEC. 27 8. At any time after issue, and at least fourteen days before the
+SEC. 278. At any time after issue, and at least fourteen days before the
 Court, either party may give notice of trial. The party giving the noti.e shall furnish the Clerk, at least eight days before the Court, with a
 note of the issue containing the title of the action, the names of the attorneys, and the time when the last leading was served, and the Clerk shall
 thereupon enter the cause upon t e calendar, according to the date of the
@@ -2242,7 +2239,8 @@ in the Circuit out of any monies raised for County purposes, and in proportion t
 several County Auditors in a Circuit shall furnis the Circuit Solicitor,
 on demand, a certificate of the amount of taxable property in their respective Counties, upon which he shall apportion to said Counties the several sums to be paid by them to the stenographer, which sums shall be
 paid upon the order of the Solicitor, approved by the Judge of the Circuit. Any surplus in the fund received by County Treasurers to pay
-the salary of stenographers shall be appropriated to County purPOSGBSXB. 279. The Judges of the First, Second and Fifth Circuit Courts
+the salary of stenographers shall be appropriated to County 
+SEC. 279. The Judges of the First, Second and Fifth Circuit Courts
 shall each appoint a stenographer for their several Circuits, who shall be
 a sworn officer of the Court, and who shall hold office during the leasure
 of the Court, and shall be paid a salary of twenty-five hundr dollars
@@ -2263,7 +2261,7 @@ as hereinbefore provide , shall be deemed a necessary disbursement within
 the meaning of Section three hundred and thirty-seven of the Code of
 Procedure, and shall be allowed as such to the prevailing party in the action. ~
 
-SEO. 281. The issues on the calendar shall be disposed of in the following order, unless, for the convenience of parties or the dispatch of business,
+SEC. 281. The issues on the calendar shall be disposed of in the following order, unless, for the convenience of parties or the dispatch of business,
 
 the Court shall otherwise direct:
 1. Issues of fact to be tried by a jury;
@@ -2308,7 +2306,8 @@ or refuse to furnish the Court with a copy of the summons and p eadings and the 
 defendant.
 
 SEC. 284. A general verdict is that by which the jury pronounce generall upon all or an of the issuw, either _in favor of the plaintifff or defen ant. A special verdict is that by which the jury iind the facts
-only, leaving the judgment to the Court. ~ SEC. 285. In an action for the recovery of s ecific personal property,
+only, leaving the judgment to the Court. 
+SEC. 285. In an action for the recovery of s ecific personal property,
 if the roperty have not been delivered to the p aintiff, or if it have, and
 the de endant by his answer claim a return thereof, the jury shall assess
 the value of the property, if their verdict be in favor of the plaintifff; or
@@ -2338,7 +2337,7 @@ If a set-off, established at the trial, exceed the plaintili"s demand so establi
 it appear that the defendant is entitled to any other affirmative relief,
 judgment must be iven accordingly. '
 
-SEC. 288. [1.] pon receiving a verdict, the Clerk shall make an en- a
+SEC. 288. Upon receiving a verdict, the Clerk shall make an en- a
 
 try in his minutes, specifying the time and place of the trial, the names
 of the jurors and witnesses, the verdict, and either the judgment rendered
@@ -2375,7 +2374,7 @@ case presents only questions of law, tie Judge may direct a verdict.
 CHAPTER IV.
 TRIAL BY THE. COURT.
 
-SEC. 290. Trial by jury, howwaived. * J
+S. 290. Trial by jury, howwaived. * J
 291. On trial by the Court, judgment, how given. Motion for
 new trial.
 292. Exceptions, how and‘ when taken. Judgment at general term.
@@ -2394,7 +2393,7 @@ conclusions of law. Such decision shall be filed with the Clerk within
 sixty days after the Court at which the trial took place. Judgment upon
 the decision shall be entered accordingly.
 
-SEC. 292. [1.] For the purposes of an appeal, either party may except
+SEC. 292. For the purposes of an appeal, either party may except
 to a decision on a matter of law arising upon such trial within ten days
 after notice in writing of the judgment, in the same manner and with
 the same effect as upon a trial by jury : Provided, however, That where
@@ -2421,12 +2420,12 @@ in that Section provided.
 CHAPTER V.
 TRIAL‘ BY REFEREES.
 
-SEC. 294. All issues referable by consent.
+S. 294. All issues referable by consent.
 295. When a reference may be compulsorily ordered.
 296. Mode of trial. Effect of report. Review.
 297. Referees, how chosen. Report.
 
-SEC.” 294. All or any of the issues in the action, whether of fact or of
+SEC. 294. All or any of the issues in the action, whether of fact or of
 law, or both, may be referred upon the written consent of the parties.
 
 SEC. 295. Where the parties do not consent, the Court may, upon the
@@ -2487,7 +2486,7 @@ e ‘entitled to any fees.
 CHAPTER VI.
 MANNEB or ENTERING JUDGMENT.
 
-SEC. 298. Judgment may be for or against an of the parties to the
+S. 298. Judgment may be for or against an of the parties to the
 action; may grant defendant a rmative relief. Complaint ma be dismissed for neglect to prosecute the
 action. udgment against married women.
 
@@ -2507,7 +2506,7 @@ action. udgment against married women.
 
 County—efI'ect of.
 
-SEC. 298. 1. Judgment may be given for or against one or more of several plaintifffs, and for or against one more of several defendants; and it
+SEC. 298. Judgment may be given for or against one or more of several plaintifffs, and for or against one more of several defendants; and it
 may determine the ultimate rights of the parties on each side, as between
 themselves. .
 
@@ -2548,17 +2547,16 @@ same.
 SEC. 302. Judgment upon an issue of law, or of fact found, or upon
 confession, or upon failure to answer, or upon report of referees (except
 
-where the Clerk is authorized toenter the same, by the first sub-division of
-Section two hundred and sixty-nine, and by Section four hundred and one,)
+where the Clerk is authorized toenter the same, by the first sub-division of Section two hundred and sixty-nine, and by Section four hundred and one,)
 shall be entered upon the direction of a Judge, subject to review on appeal in the Sn reme Court.
 
-2 Sec. 303. T e Clerk shall keep among the records of the Court a book
+Sec. 303. T e Clerk shall keep among the records of the Court a book
 for the entry of judgment, to be called the “ Judgment Book.”
 
 SEC. 304. The jud ment shall be entered in the Judgment Book, and
 
 shall specify clearly t e relief granted, or other determination of the action.
-_ SEC. 305 Unless the party or his attorney shall furnish a judgment
+SEC. 305 Unless the party or his attorney shall furnish a judgment
 roll, the Clerk, immediately after entering the judgment, shall attach togeltlher, and file the following papers, which shall constitute the judgment
 to :
 
@@ -2575,7 +2573,7 @@ Common Pleas in an other County, and, when so docketed, shall have
 
  
 
-‘ TITLE IX.
+TITLE IX.
 or THE EXECUTION or THE JUDGMENT IN CIVIL scrroxs.
 
 CHAPTER I. The execution.
@@ -2584,7 +2582,7 @@ II. Proceedings supplementary to the execution.
 CHAPTER I.
 THE ExEoUTIoN{
 
-SEC. 306. Execution within five years of course.
+S. 306. Execution within five years of course.
 
 307. Execution can only be issued by leave of Court after five years.
 Leave, how obtained.
@@ -2603,7 +2601,7 @@ a married woman.
 313. Final judgments not a lien. Attachments on mesne process a
 lien for one hundred and twenty days after final judgment.
 
-SEC. 314. Attachment of real estate made by lodging a copy of execution, and officer’s return with Register of Deeds. Such
+S. 314. Attachment of real estate made by lodging a copy of execution, and officer’s return with Register of Deeds. Such
 attachment a lien for one hundred and twenty days.
 
 315. Execution to be returnable in sixt days.
@@ -2743,7 +2741,7 @@ and the roceedings to enforce those duties, and the liability of their sureties,
 CHAPTER II.
 PROCEEDINGS SUPPLEMENTARY TO THE EXECUTION.
 
-SEC. 318. Order for discovery of property, examination of judgment
+S. 318. Order for discovery of property, examination of judgment
 " debtor, &c.
 319. Any debtor to execution debtor may pay his debt to Sheriff.
 320. Examination of debtors of judgment debtor, or of those
@@ -2829,10 +2827,9 @@ cannot be so applied when it is made to appear, b the debtor’s affidavit
 or otherwise, that such earnings are necessary or the use of a family
 su ported wholly or rtly by his labor.
 
-E0. 324. The J u ge may also, by order, appoint a receiver of the
+SEC. 324. The Judge may also, by order, appoint a receiver of the
 property of the judgment debtor, in the same manner, and with the like
-authority, as if the appointment was made by the Court, according to
-Section two hundred and sixty-seven. But before the appointment of
+authority, as if the appointment was made by the Court, according to Section two hundred and sixty-seven. But before the appointment of
 such receiver, the Judge shall ascertain, if practicable, by the oath of
 the party or otherwise, whether any other supplementary proceedings
 are ndmg against the judgment debtor, and if such proceedin are so
@@ -2874,7 +2871,9 @@ Judge granting the same, at any time, on such security as he shall direct.
 SEC. 826. The Judge may, In his discretion, order a reference to a
 referee agreed upon by the parties, or appointed by him, to report the
 evidence or the facts, and may, in his discretion, appoint such referee in
-the first order, or at any timeSEC, 327. The Judge may allow to the judgment creditor, or to any
+the first order, or at any time.
+
+SEC. 327. The Judge may allow to the judgment creditor, or to any
 party so examined, whether a party to the actlon or not, witnesses’ fees
 and disbursements, and a fixed sum in addition, not exceeding thirty
 dollars, as costs.
@@ -2889,7 +2888,7 @@ in which the judgment was rendered, on such terms as may be just.
 TITLE X.
 on THE cosrs IN CIVIL ACTIONS.
 
-SEC. 329. Existing statutes regulating costs repealed.
+S. 329. Existing statutes regulating costs repealed.
 330. Costs, when allowed of course to the laintiff.
 331. Costs, when allowed of course to the efendant.
 332. Costs, when allowed to either party, in the discretion of
@@ -2900,7 +2899,7 @@ the Court.
 cases.
 336. Interest on verdict or report, when allowed.
 
-SEC. 337. Costs, how to be inserted in judgment. Adjustment of
+S. 337. Costs, how to be inserted in judgment. Adjustment of
 interlocutory costs.
 . 338. Clerk’s fees.
 
@@ -2926,7 +2925,7 @@ action.
 
 348. Costs on a settlement.
 
-S110. 329. All statutes establishing or regulating the costs or fees of attorneys, solicitors and counsel in ClVll actions are repealed; and hereafter
+SEC. 329. All statutes establishing or regulating the costs or fees of attorneys, solicitors and counsel in ClVll actions are repealed; and hereafter
 the measure of such compensation shall be left to the agreement, express
 or implied, of the parties. But there may be allowed to the prevailing
 party, upon the judgment. certain sums, by way of indemnit , for his
@@ -3015,8 +3014,7 @@ admeasurements of real property aliened by the husband, the plaintifff
 shall not recover costs, unless it appear that the dower was demanded
 before the commencement of the action and was refused.
 
-The same costs shall be allowed to the plaintifff in roceedings under
-chapter two,-title twelve, of the second part of this Co e, (Sections three
+The same costs shall be allowed to the plaintifff in roceedings under chapter two,-title twelve, of the second part of this Co e, (Sections three
 hundred and ninety-two to three hundred and ninety-eight,) as upon the
 commencement of an action.
 
@@ -3051,7 +3049,7 @@ has been had, and in actions or proceedings for the partition of real estate, th
 any party, not exceeding five per cent. upon the amount of the recovery
 or claim, or subject-matter involved. ,
 
-‘SEC. 336. When the judgment is for the recovery of money, interest,
+SEC. 336. When the judgment is for the recovery of money, interest,
 from the time of the verdict or report until judgment be iinally entered, shall be computed by the Clerk, and added to the costs of the party
 entitled thereto. ,
 
@@ -3079,7 +3077,8 @@ transcript, twenty-live cents; 7
 On entering judgment, iifty cents. .
 He shall receive no other fee for any services whatever, in a civil
 
-action, except for copies of papers, at the rate of ten cents for every hundred words. -SEC. 339. The fees of , referees shall be three dollars to each, for every 3
+action, except for copies of papers, at the rate of ten cents for every hundred words. 
+SEC. 339. The fees of , referees shall be three dollars to each, for every 3
 
 day spent in the business of the reference; but the parties may agree in
 writing upon any other rate of compensation.
@@ -3134,7 +3133,6 @@ demanded from the defendant as costs than at the rates prescribed by
 
 that Section.
 
-LT
 
 TITLE XI.
 or APPEALS IN crvn. ACTIONS.
@@ -3149,7 +3147,7 @@ CHAPTER I.
 
 APPEALS IN GENERAL.
 
-SEC. 349. Writs of error abolished, and appeals substituted.
+S. 349. Writs of error abolished, and appeals substituted.
 
 350. Orders made out of Court, how vacated or modified.
 
@@ -3177,14 +3175,14 @@ party, may be vacated or modified, without notice, by the Judge who
 made it, or may be vacated or modified on notice, in the manner in which
 other motions are made.
 
-hSEC.1351. Any party aggrieved may appeal in the cases prescribed in
+SEC. 351. Any party aggrieved may appeal in the cases prescribed in
 t is tit e.
 
 SEC. 352. The party appealing shall be known as the appellant, and
 the adverse party as the respondent. But the title of the action shall
 not be changed in consequence of the appeal.
 
-SEC. 353. (1.) An appeal must be made by the service of a notice, in
+SEC. 353. An appeal must be made by the service of a notice, in
 writing, on the adverse party, and on the Clerk with whom the judgment
 or order appealed from is entered, stating the appeal from the same or
 
@@ -3216,8 +3214,7 @@ all of the parties, and may, if necessary or proper, order a new trial.
 When the judgment is reversed or modified, the Appellate Court may
 make complete restitution of all property and rights lost by the erroneous judgment.
 
-SEC. 357. The a peal to the Sn reme Court under sub-division two of .
-Section eleven of t 1s Code, must e taken within sixty days after writ- ‘
+SEC. 357. The a peal to the Sn reme Court under sub-division two of Section eleven of t 1s Code, must e taken within sixty days after writ- ‘
 ten notice of the order shall have been given to the party appealing;
 
 . every other appeal allowed by the second chapter of this title must be
@@ -3229,7 +3226,7 @@ CHAPTER II.
 
 APPEALS TO THE SUPREME COURT.
 
-SEC. 358. Appeal, in what cases.
+S. 358. Appeal, in what cases.
 
 359. On appeal, security must be given or deposit made, unless
 waived.
@@ -3245,7 +3242,7 @@ and deposited.
 363. Security where judgment is to deliver real property, or for a
 sale of mortgaged premises.
 
-SEC. 364. Sta of roceedings upon security being’ given.
+S. 364. Sta of roceedings upon security being’ given.
 365. Un erta ings may be in one instrument or several.
 366. ‘Security to be approved and sureties to justify.
 367. Perishable property ma be sold, notwithstanding appeal.
@@ -3264,7 +3261,7 @@ hereafter be brought. When the return has already been fil with the
 Clerk of the Supreme Court such statement shall be filed with him, and
 be deemed a art of such return.
 
-SEC. 359. o render an appeal effectual for any purpose, a written undertaking must be executed on the art of the appellant by at least two
+SEC. 359. To render an appeal effectual for any purpose, a written undertaking must be executed on the art of the appellant by at least two
 sureties, to the effect that the a pel ant will pay all costs and damages
 which may be awarded against liim on the appeal, not exceeding three
 
@@ -3305,12 +3302,12 @@ such amount as the Court, or a udge thereof, shall direct, to the effect
 that the appellant will obey the order of the Appellate Court upon the
 a eal.
 
-PSEC. 362. If the judgment appealed from direct the execution of a
+SEC. 362. If the judgment appealed from direct the execution of a
 conveyance or other instrument, the execution of the judgment shall not
 he stayed by the appeal until the instrument shall _have been executed
 and de sited with the Clerk with whom the judgment is entered, to
 abide t e jud ment of the Appellate Court.
-~ SEC. 363. I the judgment appealed from direct the sale or delivery of
+SEC. 363. I the judgment appealed from direct the sale or delivery of
 possession of real property, the execution of the same shall not be stayed,
 unless a written undertaking be executed on the part of the appellant, ”
 with two sureties, to the effect that, during the possession of such property
@@ -3339,7 +3336,7 @@ iifty-nine, three hundred and sixty, three hundred and sixty-one, and
 three hundred and sixty-three, may be in one instrument or several, at
 the option of the appellant; and a copy, including the names and residence of the sureties, must be served on the adverse arty, with a notice of appeal, unless a deposit is made as provided in ction three hundred and fifty-nine, and notice thereof given. _
 
-SEC. 366. _An undertaking upon an appeal shall be of no elfect, unless
+SEC. 366. An undertaking upon an appeal shall be of no elfect, unless
 
 it be -accompanied by the affidavit of the sureties that they are each
 worth double the amount specified therein. The respondent may, however, except to the sufliciency of the sureties, within ten days after the notice of the appeal ; and unless they or other sureties 'ustify before a Judge
@@ -3357,18 +3354,15 @@ the proceeds thereof to be deposited or invested in this State or United
 States bonds, to abide the judgment of the Appellate Court.
 
 SEC. 368. The undertaking must be filed with the Clerk with whom the
-judgment or order appealed from was entered. The provisions of this
-chapter as to the security to be given upon appeals, and as to the stay of
+judgment or order appealed from was entered. The provisions of this chapter as to the security to be given upon appeals, and as to the stay of
 
 proceedings, shall apply to appeals taken under sub-division three of Section eleven. .
-
-A
 
 CHAPTER III.
 
 APPEAL TO THE CIRCUIT COURT FROM AN INFERIOR COURT.
 
-SEC. 369. By what Courts judgments to be reviewed. New trial.
+S. 369. By what Courts judgments to be reviewed. New trial.
 
 370. Appeal, when to be taken.
 
@@ -3472,7 +3466,7 @@ shall be credited on the execution issued on the judgment 0 afflrmance, to
 the extent thereof, and the balance, if any, on the execution issued on the
 judgment ap ealed from. '
 
-SEC. 372. l’)Vhen, by the terms of Section three hundred and sixty-nine,
+SEC. 372. When, by the terms of Section three hundred and sixty-nine,
 
 S the appellant is entitled to a new trial in the Appellate Court, he shall,
 
@@ -3557,7 +3551,7 @@ Bo appeals heretofore taken and now pending, as those hereafter to be
 
 rou t.
 
-819%. 382. The a peal shall be heard on the original papers, and no
+SEC. 382. The a peal shall be heard on the original papers, and no
 copy thereof need furnished for the use of the Court.
 
 SEC. 383. Upon hearing the appeal, the Appellate Court shall ive
@@ -3632,7 +3626,7 @@ new‘ trials, and making up the judgment-roll in the Circuit Court, are
 
 hereby made applicable to all appeals brought up for trial, as in this chapter provided.
 
-SEC. -384. To every judgment upon an appeal there shall be annexed
+SEC. 384. To every judgment upon an appeal there shall be annexed
 
 the return on which it was heard, the notice of appeal, with any offer, ,
 verdict, decision of the Court, exceptions, case, and all orders and papers
@@ -3739,7 +3733,7 @@ XV. Miscellaneous provisions.
 CHAPTER I.
 _sUBmTTINo A coNTnovEasY WITHOUT AcT1oN..
 
-SEC. 389. Controversy, how submitted without action.
+S. 389. Controversy, how submitted without action.
 390. Judgment, how enforced. ~
 
 391. Judgment, how enforced or appealed from.
@@ -3758,19 +3752,17 @@ cases, but without costs for any proceeding prior to notice of trial. The
 case, the submission, and a copy of the judgment, shall constitute the
 judgment-roll. ’
 
-S1-30. 391. The judgment may be enforced in‘ the same manner as if it
+SEC. 391. The judgment may be enforced in‘ the same manner as if it
 
 had been rendered in an action, and shall be subject to appeal in like
-manner. '
-
-Q——j-gnu.
+manner. 
 
 CHAPTER II. S
 
 PROCEEDINGS AGAINST JoINT DE_BToRs, HEIRS, DEVISEES, LEGATEES, AND
 TENANTB HOLDING UNDER A JUDGMENT DEBTOR.
 
-SEC. 392. Parties, not summoned in action on joint contract, may be
+S. 392. Parties, not summoned in action on joint contract, may be
 . summoned after judgment. _
 
 393. If judgment debtor die, his representative may be summoned.
@@ -3801,7 +3793,8 @@ describe the judgment, and require the person summoned to show cause
 
 -within twenty days after the service of the summons; and shall be served
 
-in like manner as the original summonsSEC, 395. The summons shall be accom nied b an aiiidavit of the
+in like manner as the original summons.
+SEC. 395. The summons shall be accom nied b an aiiidavit of the
 
 person subscribing it, that the judgment as not en satisfied, to his
 nowledge or information and belief, and shall specify the amount due
@@ -3830,12 +3823,12 @@ CHAPTER III.
 
 COITFESSION OF JUDGMENT WITHOUT ACTION.
 
-SEC. 399. Judgment may be confessed for debt due or for contingent
+S. 399. Judgment may be confessed for debt due or for contingent
 liability.
 400. Statement in writing, and form thereof.
 401. Judgment and execution.
 
-_ SEC. 399. A judgment b confession may be entered, without action,
+SEC. 399. A judgment b confession may be entered, without action,
 either for money due, or to ecome due, or to secure any person against
 
 contingent liability on behalf of the defendant, or both, in the manner
@@ -3870,12 +3863,11 @@ a direction to the Sheriff to collect the amount due on such judgment, with
 interest and costs, which amount shall be stated, with interest thereon,
 and the costs of said judgment. Notwithstanding the issue and collection of such execution, the judgment shall remain as security for the installments thereafter to become due; and ‘whenever any further installments become due execution may, in like manner, be issued for the collection and enforcement of the same.
 
-_/
 
 CHAPTER IV.
 
 OFFER OF THE A DEFENDANT TO COMPROMISE THE WHOLE OR A PART
-OF THE ACTION. SEC. 402. Offer of compromise.
+OF THE ACTION. S. 402. Offer of compromise.
 403. Defendant may oE’er to liquidate damages.
 404. Effect of acceptance or refusal of oE’er.
 
@@ -3902,7 +3894,7 @@ t e notice of acceptance be not given, the offer is to be deemed withdrawn, and 
 greater amount than is (specified in said offer, he cannot recover costs,
 but must pay the plainti ’s costs from the time of the offer.
 
-SEC. 403. In“ anaction arising on contract, the defendant may, with
+SEC. 403. In anaction arising on contract, the defendant may, with
 his answer, serve upon the plaintifff an offer in writing, that if he fail in
 his defense, the damages be assessed at a specified sum; and if the plaintifff signify his acceptance thereof in writing, with or before the notice of
 trial, and on the trial have averdict, the i damages shall be assessed accordingly.
@@ -4009,7 +4001,7 @@ shall be so received.
 CHAPTER VII.
 EXAMINATION or wrrmzssns.
 
-SEC. 414. Interest not to exclude awitness.
+S. 414. Interest not to exclude awitness.
 415. Parties to actions and special proceedings may be -witnesses
 on their own behalf, except in certain cases.
 
@@ -4057,7 +4049,7 @@ communication made by one to the other during their marriage.
 
 MOTIONS AND ORDERS.
 
-SEC. 416. Definition of an order.
+S. 416. Definition of an order.
 
 417. Definition of a motion. Motions, how and when made. Stay
 of proceedings. Compelling parties to testify on motions.
@@ -4072,7 +4064,7 @@ Decision on motion.
 SEC. 416. Every direction of a Court or Judge, made or entered in
 writing, and not included in a judgment, is denominated an order.
 
-SEC. 417. (1.) An application for an order is a motion.
+SEC. 417. An application for an order is a motion.
 
 (2.) Motions may be made to a Judge or Justice out of Court, except
 for a new trial on the merits. ' ‘
@@ -4145,7 +4137,7 @@ CHAPTER XL
 
 NOTICES AND FILING AND SERVICE OF PAPERS.
 
-SEC. 423. Notices, &c., how served.
+S. 423. Notices, &c., how served.
 
 424. Service, how made.
 
@@ -4189,7 +4181,7 @@ SEC. 426. In case of service by mail, the paper must be deposited in
 the post office, addressed to the person dn whom it is to be served, at his
 place of residence, and the postage paid.
 
-SEC. 427 . When the service is by mail, it shall be double the time required in cases of personal service, except service of notice of trial, which
+SEC. 427. When the service is by mail, it shall be double the time required in cases of personal service, except service of notice of trial, which
 may_ be made sixteen days before the day of trial, including the day of
 service.
 
@@ -4197,7 +4189,7 @@ SEC. 428. Notice of a motion or other proceeding before a Court or
 Judge, when personally served, shall be given at least four days before
 the time a pointed therefore.
 
-SEC. 42$ When a defendant shall not have demurred or answered, service of notice or papers in the ordinary proceedings in an action, need
+SEC. 429. When a defendant shall not have demurred or answered, service of notice or papers in the ordinary proceedings in an action, need
 
 not be made upon him, unless he be imprisoned for want of a bail, but shall
 
@@ -4213,12 +4205,11 @@ without notice, to an order from a Jud e that the same be filed within a
 time to be specified in the order, or be eemed abandoned.
 
 SEC. 432. Where a party shall have an attorney in the action, the service of pa rs shall be made upon the attorney, instead of the party.
-SEC. 43 . The provisions of this cha tershall not apply to the service
+SEC. 433. The provisions of this cha tershall not apply to the service
 
 of a summons or other process, or 0 any paper to ring a party into
 contempt.
 
-2-1-22:
 
 CHAPTER XII.
 
@@ -4231,7 +4222,8 @@ him, and shall be equally liable in all res ts for neglect of duty; and
 if the Sheriff be.a party, the Coroner sh be bound to perform the service, as he is now bound to execute process where the Sheriff is a party;
 
 and all the provisions of this Act relating to_ Sheriffs shall apply to Coro—
-ners where t e Sheriff is a party. CHAPTER XIII.
+ners where t e Sheriff is a party. 
+CHAPTER XIII.
 
 A(X}OUN'.l‘ABILI'l'Y OF GUARDIANB.
 
@@ -4252,7 +4244,7 @@ generally the powers new vested in a referee by law.
 CHAPTER XV.
 MISCELLANEOUS PROVISIONS.
 
-SEC. 437. Igppers lost or withheld, how supplied.
+S. 437. Igppers lost or withheld, how supplied.
 6 s
 
 438. re undertakings to be filed.
@@ -4262,7 +4254,7 @@ J anua 1, 1870.
 440. Time for pu lication of notices, how computed.
 441. Laws of other States and governments, how proved.
 
-SEO. 437. If an original pleading or paper be lost or withheld by any
+SEC. 437. If an original pleading or paper be lost or withheld by any
 person, the Court may authorize a copy thereof to be filed and used
 instead of the original.
 
@@ -4271,7 +4263,7 @@ must be filed with the Clerk of the urt, unless the Court expressly provides for
 shall, after the justification of the sureties, be delivered by the S eriifs to
 the parties res ctively for whose benefit they are taken.
 
-SEO. 439. pon any bond and warrant of attorney, executed and delivered before the first day of January, 1870, judgment may be entered
+SEC. 439. pon any bond and warrant of attorney, executed and delivered before the first day of January, 1870, judgment may be entered
 in the manner prescribed by Sections ‘three hundred and ninet -nine,
 four hundred, four hundred and one, upon the plaintifff’s iilin suc bond
 and warrant of attorne , and the statement, signed and ver' ed by himself, in the form presc ' d b Section three hundred and ninety-nine.
@@ -4301,7 +4293,7 @@ CHAPTER I.
 
 ACTIONS AGAINST FOREIGN CORPORATIONS.
 
-SEC, 442. An action against a corporation created by or under the
+SEC. 442. An action against a corporation created by or under the
 laws of any other State, government, or country, may be brought in the
 Circuit Court:
 
@@ -4422,7 +4414,7 @@ claiming under him, have done or omitted an act, in violation of the
 terms and conditions on which the letters patent were granted, or have
 by any other means forfeited the interest ac uired under the same.
 
-, SEC. 449. When an action shall be broug t by the Attorney-General,
+SEC. 449. When an action shall be broug t by the Attorney-General,
 i by virtue of this chapter, on the complaint of any private party, or by a
 person having an interest in the question, the name of such person shall
 Ge joined wgi thet Statce as plaqililitifl‘, and in egrery such case the Attorneyenera or rcui u ge, as e case may e, may require, as a con 1tion precedent to bringing such action, that satisfactory security shall be
@@ -4455,7 +4447,9 @@ shall'be entitled, after takin the oath of office, and executing such othcial bo
 of the officeii and it slliall be his (hut , igmlegiateily thereafterilto demand
 of the defen ant in t e action a t e oo an pa ers in is custody,
 or withinl h(i1s ower, belonging to the office from which he shall have
-been exc u e . - b SE10. 453. If the defendant ihalil refusce olr nefgleiztlto delllilver ofver such
+been exc u e .
+
+SEC. 453. If the defendant ihalil refusce olr nefgleiztlto delllilver ofver such
 oo sorpapers, ursuantto t e eman , e s a e ' ty 0 a misdemeanor, and t e following proceedings shall be ha , to compel delivery of such books and papers: A
 
 1. .Whenever any rson shall be removed from oilice, or the term for
@@ -4547,7 +4541,7 @@ other 0 cers of such corporation.
 SEC. 459. When such judgment shall be rendered against a corporation,
 the Court shall have power to restrain the co oration, to appoint a receiver of its property, and totake an account, an make distribution thereof
 among its creditors; and it shallbe the duty of the Attorney-General,
-immediately after the rendition of such judgment, to institute proceedings for that urpose. . . _ _p .
+immediately after the rendition of such judgment, to institute proceedings for that urpose.
 
 SEC. 460. pon the rendition of such judgment against a corporation,
 or for the vacating or annulling of letters atent, it shall be the duty of
@@ -4564,11 +4558,11 @@ personal, shall be forfeited to t e State, or to any o cer for their use,
 an action for the recover of such property, alleging the grounds of the
 forfeiture, may be broug t by the proper officer in the Circuit Court.
 
-- TITLE XIV.
+TITLE XIV.
 
 PROVISIONS RELATING TO EXISTING SUITS.
 
-sec. 463. Writ of error in all cases abolished. Ap eal substituted.
+S. 463. Writ of error in all cases abolished. Ap eal substituted.
 464. Execution, when issuable on a judgment ocketed before July
 1st, 1870.
 
@@ -4585,7 +4579,7 @@ upon a judgment docketed before the first day of July, 1870, or now or
 hereafter to be rendered in an action pending on that day, at any time
 within five years aiter the rendering of the judgment.
 
-F SEC. 465. The provisions of this Act apply to future proceedings in
+SEC. 465. The provisions of this Act apply to future proceedings in
 ‘actions or suits heretofore commenced and now pending as follows:
 
 I 1. If there have been no pleading therein, to the pleadings and all
@@ -4597,7 +4591,7 @@ to be tried, to the trial and all subsequent proceedings. ‘
 TITLE XV.
 GENERAL PROVISIONS.
 
-SEC. 466. Definition of real pro rty.'
+S. 466. Definition of real pro rty.'
 467. Definition of personsfeproperty.
 468. Definitionof property.
 469. Definition of Clerk.
@@ -4607,7 +4601,7 @@ SEC. 466. Definition of real pro rty.'
 473. Judges to meet and make general rules.
 474. Justices of Supreme Court may’ make rules.
 
-_SEC. 466. The words “real property,” and “real estate,” as used in .
+SEC. 466. The words “real property,” and “real estate,” as used in .
 Act, are co-extensive with lands, tenements, and hereditaments. 1
 
 SEC. 467. The words “personal property,” as used in this Act, include
@@ -4658,8 +4652,5 @@ SEC. 474. The Justices of the Supreme Court shall from time to time
 
 they may deem proper, not inconsistent with this Act.
 SEC. 475. Until the Legislature shall otherwise provide, the second‘
-part of this Act shall not affect proceedings by mandamus or prohibition.
-
-Approved March 1, 1870.
-
+part of this 
 
