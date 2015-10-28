@@ -41,6 +41,12 @@ temp/%.txt : pdf/%.pdf
 clean :
 	rm -rf temp/
 
+.PHONY : clean-splits
+clean-splits :
+	rm -f legal-codes/*
+	rm -rf legal-codes-split
+	mkdir legal-codes-split
+
 .PHONY : clean-notebooks
 clean-notebooks :
 	rm -rf $(NOTEBOOKS)
