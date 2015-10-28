@@ -18,21 +18,21 @@ SECTION 1. Division of remedies.
 6. Definition of a civil action.
 7. Civil and criminal remedies, not merged in each other.
 8. Subjects embraced in this act.
-ง 1. Remedies in the courts of justice are divided into, 1. Actions, and
+ยง 1. Remedies in the courts of justice are divided into, 1. Actions, and
 2. Special proceedings.
-ง 2. An action is a regular judicial proceeding, in which a prosecutes another party, for the enforcement or protec- tion of a right, the redress or prevention of a wrong, or the
+ยง 2. An action is a regular judicial proceeding, in which a prosecutes another party, for the enforcement or protec- tion of a right, the redress or prevention of a wrong, or the
 punishment of a public offence. 
 
-ง 3. Every other remedy is a special proceeding. 
+ยง 3. Every other remedy is a special proceeding. 
 
-ง 4. Actions are of two kinds: 1. Civil, and 1Cito Criminal. 
+ยง 4. Actions are of two kinds: 1. Civil, and 1Cito Criminal. 
 
-ง 5. A criminal action is prosecuted by the state, as a party, against a person charged with a public offence, for the punishment thereof, 
+ยง 5. A criminal action is prosecuted by the state, as a party, against a person charged with a public offence, for the punishment thereof, 
 
-ง 6. Every other is a civil action, 
+ยง 6. Every other is a civil action, 
 
-ง 7. Where the violation of a right admits of both a civil anti criminal remedy, the right to prosecute the one is ufot merged in the other.
-ง 8. This act is divided into two parts.
+ยง 7. Where the violation of a right admits of both a civil anti criminal remedy, the right to prosecute the one is ufot merged in the other.
+ยง 8. This act is divided into two parts.
 The first rlates to the courts of justice, and their jurisdiction
 :
 The second relates to civil actions commenced in the courts
@@ -64,7 +64,7 @@ TITLE I.
 OF THE COURTS, IN GENERAL.
 SECTION 9. The several courts of this slate.
 19. Their jurisdiction generally.
-ง 9. The following are the courts of justice of this stateral
+ยง 9. The following are the courts of justice of this stateral
 f. The court for the trial of inpeachments.
 2. The court. of appeals.
 3. The supreme court.
@@ -87,14 +87,14 @@ Troy and Rochester.
 18. Th justices' courts of the cities of Albany, Troy and
 and Hudson.
 19. The police courts.
-ง 10. These courts shall continue to exercise the jurisdic-tion now vested in them respectively, except as otherwise prescribed by this act.
+ยง 10. These courts shall continue to exercise the jurisdic-tion now vested in them respectively, except as otherwise prescribed by this act.
 TITLE II.
 OF TLE COURT OF APPEALS.
 SECTION 11. Its jurisdiction.
 12. May reverse, affirm or modify judgment or order appealed from.
 13. Terms of court.
 14. Concurrence of five judges necessary to a judgment.
-ง 11. The court of appeals shall have exclusive jurisdic- to review, upon appeal, every actual determination
+ยง 11. The court of appeals shall have exclusive jurisdic- to review, upon appeal, every actual determination
 hereafter made, at a general term, by the supreme court, by
 time superior court of the city of New-York, or by the court
 of common pleas for the city anti county of New-York, in
@@ -112,13 +112,13 @@ the marine court of the t-ity of New-Yoik, or in an assistant
 justice's court of that city, or in the municipal court of tile
 city of Brooklyn, or in a justice's court of the cities of Albany,
 Troy and Hudson, respectively.
-ง 12. The court of appeals may reverse, aflirm or modify the judgment or order appealed from ; anti its judgment shall be remitted to the court below, to be enforcei according to law. 
+ยง 12. The court of appeals may reverse, aflirm or modify the judgment or order appealed from ; anti its judgment shall be remitted to the court below, to be enforcei according to law. 
 
-ง 13. There shall be six general terms, in each year, tIo commence on the first Tuesday of January, March, May, July, September and November, and to continue until the fourth Saturday thereafter, inclusive, unless all the causes
+ยง 13. There shall be six general terms, in each year, tIo commence on the first Tuesday of January, March, May, July, September and November, and to continue until the fourth Saturday thereafter, inclusive, unless all the causes
 ready for hearing be sooner heard. They may, however, be
 continued as much longer as the court shall deem netessary.
 Additional terms may also be held, by order of the court.
-ง 14. The concurrence of five judges shall be necessary,
+ยง 14. The concurrence of five judges shall be necessary,
 pronounce a judgment. If five do not concur) the ap- peal shall be reheard.
 TITLE 11I.
 OF TIE SUPREME COURT) CIRCUIT COURTSI AND COURTS'OF
@@ -148,7 +148,7 @@ the governor.
 30. Duties of the judges, as to business out of court.
 31. Rooms, fuel, &c., ho.w. to be furnished. 
 
-ง 15. All statutes) now in force, providing for the desigprovisions
+ยง 15. All statutes) now in force, providing for the desigprovisions
 nation of the times and places of holding the general and
 special terms of the supreme court, and the circuit courts and
 courts of oyer and terminer, and of the judges who shall
@@ -160,15 +160,15 @@ year 1847, and for the years 1848 anti 1849, and assigning
 the business andl duties thereof to the several judges of the
 court, is, from and after the first day of July next, abrogated;
 and the provisions of this title are substituted in place thereof.
-ง 16. Six general terms of the supreme court shall be held
+ยง 16. Six general terms of the supreme court shall be held
 annually in each judicial distrit, and be continued at least
 fifteen days, unless sooner adjourned for want of business.
 They may, however, be continued as much longer as the
 court shall d6em necessary.
-ง 17. The concurrence of a majority of the judges holdtoear
+ยง 17. The concurrence of a majority of the judges holdtoear
 a general term, shall be necessary to pronounce a judg.
 meet. If a majority do not concur, the case shall be reheard.
-ง 18. The number of special terms circuit courts and sea.crci
+ยง 18. The number of special terms circuit courts and sea.crci
 courts of oyer and .terminer, annually, in the several counaenrlody
 tsties) shall be as follows:
 Eleven, In thq city and county of New-York. Six, In the counties of Albany, Erie, Kings, Monroe and Oneida.
@@ -184,48 +184,48 @@ Clinton, Cortland, Essex, Franklin, Fulton with lamilton,
 Genesee) Greene, Lewis, Montgomery, Orkcans, Putnam,
 Queens, Richmond, Rockland, Schenectady, Schoharic, Seneca,
 Sullivan, Tioga, Warren, Wyoming and 'fates.
-ง 19. Special terms, circuit courts, and courts of oyer and terminer, shall be held at the same places, and commenced on the same day.
-ง 20. The special term shall continue until the adjourn- ment of the circuit court; and the judge may continue it longer, or adjourn it to any other time or place, within the
+ยง 19. Special terms, circuit courts, and courts of oyer and terminer, shall be held at the same places, and commenced on the same day.
+ยง 20. The special term shall continue until the adjourn- ment of the circuit court; and the judge may continue it longer, or adjourn it to any other time or place, within the
 county.
-ง 21. The circuit court shall continue at least twelve (lay"sd unless sooner adjourned for want of business. It may, how- ever, be continued as much longer as the court shall deem
+ยง 21. The circuit court shall continue at least twelve (lay"sd unless sooner adjourned for want of business. It may, how- ever, be continued as much longer as the court shall deem
 necessary.
-ง 22. The court of oyer ani terminer may continue, as long as the court shall deem necessary. 
+ยง 22. The court of oyer ani terminer may continue, as long as the court shall deem necessary. 
 
-ง 23. The governor shall, on or before the first day of May next, by appointment in writing, designate the times • and places of holding the general and special terms, circuit courts, and courts of oyer and termniner, and the judges by' whom they sholl be held; which appointment shall take ef- feet on the first day of July, thereafter, and shall continue until the thirty-first day of December, 1849. The judges ofo the supreme court shall, in like manner, at least one month before the expiration of that time, appoint the times and pl aces
+ยง 23. The governor shall, on or before the first day of May next, by appointment in writing, designate the times ย• and places of holding the general and special terms, circuit courts, and courts of oyer and termniner, and the judges by' whom they sholl be held; which appointment shall take ef- feet on the first day of July, thereafter, and shall continue until the thirty-first day of December, 1849. The judges ofo the supreme court shall, in like manner, at least one month before the expiration of that time, appoint the times and pl aces
 of holding those courts, for two years, commencing on
 the first day of January, 1850, and so on, for every two succeeding
 years. 
 
-ง 24. The governor may also appoint extraordinary gen- eral and special terms, circuit courts, and courts of oyer and terminer, whenever, in his judgment, the public good shall requ're it. 
+ยง 24. The governor may also appoint extraordinary gen- eral and special terms, circuit courts, and courts of oyer and terminer, whenever, in his judgment, the public good shall requ're it. 
 
-ง 25. The places appointed within the several counties, for holding the general and special terms, circuit courts, and courts of oyer and terminer, shall be those designated by
+ยง 25. The places appointed within the several counties, for holding the general and special terms, circuit courts, and courts of oyer and terminer, shall be those designated by
 statute for holding county or circuit courts. If a room for
 holding thecourt in such place shall not be provided by the
 superyisors, it may be held in any room provided for that
 purpose, by the sheriff, as prescribed by section thirty-one.
-ง 26. Every appointment, so made, shall be immediately
+ยง 26. Every appointment, so made, shall be immediately
 transmitted to the secretary of state, who shall cause it to be
 published in the newspaper, printed at Albany, in which legal
 notices are required to be inserted, at least once in each
 week, for three weeks, before tile holding or any court in
 pursuance thereof. The expense of the publication shall be
 paid out of the treasury of the state.
-ง 27. The designation of judges to hold the courts, shall be such, as that not more than one-h;ilf) nor less than onetherefor.
+ยง 27. The designation of judges to hold the courts, shall be such, as that not more than one-h;ilf) nor less than onetherefor.
 fourth of the courts to which each shall be assigned, shall be
 held out of the district within which lie was elected ; and so
 that, of the 'judges who shall hold a general term, one, at
 least, shall sit at the next succeeding general term, and shall
 deliver the judgments of.the judges who held the preceding
 term, in causes there argued and held. under advisement.
-ง 28. In case of the inability, for any cause, of a judge
+ยง 28. In case of the inability, for any cause, of a judge
 assigned for that purpose, to hold a special term or circuit court, or sit at a general term, or preside at a court of oyer
 anti terminer, any other judge may to so.
-ง 29. Within ten (lays after the expiration of every term
+ยง 29. Within ten (lays after the expiration of every term
 atlermandand circuit court, the clerk shall certify to the governor, the
 number of actions on the calendar, the number tried or
 heard, the number decided, tile number remaining uidisposed
 of, and tile duration of the term or circuit.
-ง 30. The judges shall, at all reasonable times, when not
+ยง 30. The judges shall, at all reasonable times, when not
 emnagya ged in holding court, transact such other business as be done out of court. One of the judges elected in the
 first judicial district, to be designated from time to time,
 among themselves, shall attend for that purpose, at the cityhall
@@ -235,7 +235,7 @@ and longer, if the business require it ; and every proveeding
 commenced before one of those judges, may be continued
 before another, with the same effect as if commenced
 before him.
-ง 31. The supervisors of the several counties shall prohow
+ยง 31. The supervisors of the several counties shall prohow
 vide the courts appointed to be held therein, with rooms, attendants, fuel, lights and stationery, suitable anti sufficient
 for the transaction of their busines. If the supervisors neglect,
 the court may order tht: sheriff to (to so ; and the expense
@@ -251,10 +251,10 @@ ECTION 32. Repeal of existing statutes, defining their jurisdiction.
 37. Proceedings on trial by jury.
 38. Juries in county courts dispensed with, and in general sessions
 provided for.
-ง 32. All statutes now in force, conferring or defining the arisdiction of the county courts, are repealed ; anti thos. e ourts shall have no other jurisdiction than that provided in he next section. But the repeal contained in this section
+ยง 32. All statutes now in force, conferring or defining the arisdiction of the county courts, are repealed ; anti thos. e ourts shall have no other jurisdiction than that provided in he next section. But the repeal contained in this section
 hall not affect any proceedings, now pending in those
 ,ourts.
-ง 33. The county courts .shall have jurisdiction, in the ollowing actions and proceedings :
+ยง 33. The county courts .shall have jurisdiction, in the ollowing actions and proceedings :
 1. The exclusive power to review a judgment rendered
 n a civil action within their respective counties, by a court
 )f a justice of the peace, or by the justices courts in the
@@ -282,24 +282,24 @@ creditors, and to voluntary asssignments by persons imprisoned
 on execution in civil cases ;
 9. In proceedings for the remission of fines and forfeited
 recognizances,
-ง 34. A general term of each county court, for the final hearing of actions or proceedings pending therein, shall e held at the places in the counties respectively designated by statute for holding county or circuit courts, on the first
+ยง 34. A general term of each county court, for the final hearing of actions or proceedings pending therein, shall e held at the places in the counties respectively designated by statute for holding county or circuit courts, on the first
 Tuesday of January, March, May, July, September and November,
 in each year, and may continue as long as the court
 deem necessary. The court shall be deemed always open,
 for the transaction of any other business.
-ง 35. An issue of fact hereafter joined in a county court, shall be tried by the court, unless, on motion of either par-
+ยง 35. An issue of fact hereafter joined in a county court, shall be tried by the court, unless, on motion of either par-
 ty, it shall order a jury trial.
-ง 36. If a jury trial be ordered, the court shall direct the
+ยง 36. If a jury trial be ordered, the court shall direct the
 sheriff to summon eighteen residents of the county, competent
 as jurors, to appear before the court, at a time and
 place to be specified.
-ง 37. A jury shall be drawn from the persons so sumt
+ยง 37. A jury shall be drawn from the persons so sumt
 moned, or ift there be a defect of jurors, it shall be supplied
 as in other cases. The practice appertaining to jury trials,
 and to the verdict of the jury, and the pioceedings thereon,
 as in this act provided, shall in all respects apply to such
 trial.
-ง 38. No jury shall hereafter be summoned for a county
+ยง 38. No jury shall hereafter be summoned for a county
 court, except as provided in the last section, nor shall a
 grand or petit jury be summoned for a court of general
 sessions of the peace, (except in the city and county of
@@ -317,7 +317,7 @@ pleas, in Neiv-Yorlc.
 43. Judgments, where given.
 44. Cdncurrence of two judges, necessary to a judgment, at a
 general term.
-ง 39. The jurisdiction of the superior court of the city
+ยง 39. The jurisdiction of the superior court of the city
 of New-York, of the court of common pleas for the city
 and county of New-York, of the mayors' courts of the cities
 of Albany, Hudson, Troy and Rochester, and of the recorders'
@@ -333,12 +333,12 @@ cities, respectively.
 of this state, and transacting their general business, or keeping
 an office for the transaction of business, within those
 cities, respectively, or established by law, therein, '
-ง 40. The superior court 'of the city of New York shall also have power to review the judgments of the marine , court of the city of New-Yorkand of the assistant justices courts in that city. 
-ง 41. The ,superior court of the city of New-York, and the court of common pleas, for the city and county of New• -I York, shall, within twenty days, appoint general and special terms of those courts respectively, and p,-escribe the dura- tion thereof ; ani they may, from time to time, respectively, alter such appointments : and hereaftrr, no fee shall be paid for any service of a judge of either of those courts.
-ง 42. A general term shall be 4eld by at least two of the judges of those courts respectively, and a special term by a single judge. 
-ง 43. Judgments uponC ) appeal shall be given at the gen-Juwdhgemreents
+ยง 40. The superior court 'of the city of New York shall also have power to review the judgments of the marine , court of the city of New-Yorkand of the assistant justices courts in that city. 
+ยง 41. The ,superior court of the city of New-York, and the court of common pleas, for the city and county of Newย• -I York, shall, within twenty days, appoint general and special terms of those courts respectively, and p,-escribe the dura- tion thereof ; ani they may, from time to time, respectively, alter such appointments : and hereaftrr, no fee shall be paid for any service of a judge of either of those courts.
+ยง 42. A general term shall be 4eld by at least two of the judges of those courts respectively, and a special term by a single judge. 
+ยง 43. Judgments uponC ) appeal shall be given at the gen-Juwdhgemreents
 eral term ; all others, at the special term. 
-ง 44. The concurrence bf two judges shall be necessary to pronounce a judgment at the general term. If two do not concur, the appeal shall be reheard. 
+ยง 44. The concurrence bf two judges shall be necessary to pronounce a judgment at the general term. If two do not concur, the appeal shall be reheard. 
 TITLE VI. OF TIHE COURTS OF JUSTICES OF TIE PEACE.
 SECTION 45. Repeal of certain existing provisions,
 46, 47. Jurisiliction of these courts.
@@ -346,13 +346,13 @@ SECTION 45. Repeal of certain existing provisions,
 6. Docleting their judgments, and effect thereof.
 57. Provisions !of this act, as to forms of action and pleading,
 applicable to these courts,
-ง 45. The provisions contained in sections 2, 3and 4, of • the article of the Revised Statutes, entitled " Of the juris- diction of justices' ecurts," as amended by sections 1 and 2, of the act concerning justices' courts, passed May 14, 1840,
+ยง 45. The provisions contained in sections 2, 3and 4, of ย• the article of the Revised Statutes, entitled " Of the juris- diction of justices' ecurts," as amended by sections 1 and 2, of the act concerning justices' courts, passed May 14, 1840,
 and the provisions contained in sections, 59 to 66, of the
 same article, both inclusive, are repealed, and the provisions
 of this title substituted in place thereof. But this repeal
 shall not affect any action heretofore commenced, in a couit
 of a justice of the peace.
-ง 46. Justices of the peace shall have civil jurisdiction in the following actions, and no other :
+ยง 46. Justices of the peace shall have civil jurisdiction in the following actions, and no other :
 1. An action arising on contract for the recovery of money
 only, if the sum claimed do not exceed one hundred
 dollars ;
@@ -372,7 +372,7 @@ alments, an action may be brought for each instalment , as
 it shall become due;
 6. An action upon a surety bond taken by them, though
 the penalty or amount claimed exceed one hundred dollars.
-ง 47. But no justice of the peace shall have cognizance
+ยง 47. But no justice of the peace shall have cognizance
 of an action:
 1. In wvhich the people of this state are a party, excepting
 for penalties not exceeding tifty dollars;
@@ -386,7 +386,7 @@ or seduction;
 justice, shall exceed four hundred dollars;
 5. Nor of an action against an executor or administrator,
 as such.
-ง 48. In every action brought in a court of a justice of
+ยง 48. In every action brought in a court of a justice of
 the peace, where the title to real property shall come in question,
 the defendant may, either with or without other matter
 of defence, set forth in his answer, any matter showing that
@@ -394,7 +394,7 @@ such title will come in question. Such answer shall be in
 writing, signed by the defendant or his attorney, and delivered
 to the justice. The justice shall thereupon countersign
 the same, and deliver it to the plaintiff.
-ง 49. At the time of answering, the defendant shall deliv-
+ยง 49. At the time of answering, the defendant shall deliv-
 er to the justice a vritten undertaking, executed by at least
 one sufficient surety, anti approved by the justice, to the effect
 that if the plautitiff shall, within thirty (lays thereafter,
@@ -409,24 +409,24 @@ of the action, and to such as may be issued to enforce the
 judgment therein. In case of failure to comply with the
 undertaking, the surety shall be liable, not exceeding one
 hundred dollars.
-ง 50. Upon the delivery of the undertaking, to ihe justice, the action before him shall be discontinued, and each party shall pay his own costs. The costs so paid by either party shall be allowed to him, if he recover costs in the action to
+ยง 50. Upon the delivery of the undertaking, to ihe justice, the action before him shall be discontinued, and each party shall pay his own costs. The costs so paid by either party shall be allowed to him, if he recover costs in the action to
 be brought for the same cause in the supreme court. If no
 such action be brought within thirty days after the delivery
 of the undertaking, the defendant's costs before the justice
 may be recovered of 'the plaintiff.
-ง 51. If the under.ta.kin.g be not delivered to the justice, lie shall have juristiction of the. cause, and shall proceed therein; anti the defendant shall be precluded, in, his defence, from drawing the title in question.
-ง 52. If, however, it appear on the trial, from the plain- .... • , ... tiff's own showing, that the title to real property is in ques- tinn, and such title shall be disputed by the defendant, the justice shall di.miss the action, anti the plaintiff shall pay the
+ยง 51. If the under.ta.kin.g be not delivered to the justice, lie shall have juristiction of the. cause, and shall proceed therein; anti the defendant shall be precluded, in, his defence, from drawing the title in question.
+ยง 52. If, however, it appear on the trial, from the plain- .... ย• , ... tiff's own showing, that the title to real property is in ques- tinn, and such title shall be disputed by the defendant, the justice shall di.miss the action, anti the plaintiff shall pay the
 costs..
-ง 53. When a suit before a justice shall be discontinued by the delivery of an answer and undertaking as provided in sections 48, 49 and 50, the plaintiff may prosecute an action
+ยง 53. When a suit before a justice shall be discontinued by the delivery of an answer and undertaking as provided in sections 48, 49 and 50, the plaintiff may prosecute an action
 for the same cause, in the supreme court, anti shall corn- p)lain for the same cause of action only, on which he relied
 before the justice ; and the answer of the defendant shall be
 the same which he made before the justice.
-ง 54. If the judgment in the supreme court be for the plaintiff, lie shall recover costs. If it be for the defendant, ie shall recover costs; except that upon a verdict, lie shall pay costs to the plaintiff, unless the judge certify that the title to real property came in question on the trial.
-ง 55. If, in an action before a justice, the plaintiff have sever-l causes of action, to one of which the defence of title to real property shall be interposed, anI as to such cause, the" defendant shall answer and deliver an undertakin) as b provided in sections 48 and 49, the justice shall discontinue
+ยง 54. If the judgment in the supreme court be for the plaintiff, lie shall recover costs. If it be for the defendant, ie shall recover costs; except that upon a verdict, lie shall pay costs to the plaintiff, unless the judge certify that the title to real property came in question on the trial.
+ยง 55. If, in an action before a justice, the plaintiff have sever-l causes of action, to one of which the defence of title to real property shall be interposed, anI as to such cause, the" defendant shall answer and deliver an undertakin) as b provided in sections 48 and 49, the justice shall discontinue
 the proceedings as to that cause, and the plaintiff may commence
 another action in the supreme couit therefor. As to
 the other causes of'action, the justice may continue his proceedings.
-ง 56. A justicre of the peace, on the demand of a •p art.y" in whose favor he shall have rendered a judgment, shall give a transcript thereof, which may be filed'and docketed in the office of the clerk of the county where the judgment was
+ยง 56. A justicre of the peace, on the demand of a ย•p art.y" in whose favor he shall have rendered a judgment, shall give a transcript thereof, which may be filed'and docketed in the office of the clerk of the county where the judgment was
 rendered. The time of the receipt of the transcript by the
 clerk, shlall be noted thereon and entered in the docket; and,
 from that time, the judgment shall have the same effect, as a
@@ -436,7 +436,7 @@ be filed and docketed in the clerk's office of any other courtty,
 and with the like effect, in every respect, as in the county
 where the judgment was rendered; except, that it shall be
 a lien, only from the time of filing and docketing the transcript.
-ง 57. The provisions of this act, respecting forms of action,
+ยง 57. The provisions of this act, respecting forms of action,
 pleadings, and the rules of evidence, and the times of comph,
 mencing actions, shall apply to the courts of justices of the
 peace, except that the pleadings may be o~ral, and made at
@@ -451,7 +451,7 @@ IV. General provisions.
 CHAPTER I.
 TIlE MIARINE COURT OF TIE CITY OF NEW-YORK.
 SECTION 55. Its jurisdiction.
-ง 58. The, marine court of the city of New-York shall
+ยง 58. The, marine court of the city of New-York shall
 have jurisdiction in the following cases, and no other:
 1. In actions similar to those in which courts of justices
 of the peace have jurisdiction, as provided by sections 46 and
@@ -481,7 +481,7 @@ CHAPTER II.
 TIlE AL!SISTANT JUSTICES) COURTS) IN TIlE CITY OF
 NEW-YORK.
 SECTION 59. Their jurisdiction.
-ง 59. The assistant justices' courts in the city of New-York, shall have jurisdiction in the following cases, and no
+ยง 59. The assistant justices' courts in the city of New-York, shall have jurisdiction in the following cases, and no
 other:
 1. In actions similar to those in which justices of the
 peace have jurisdiction, as provided by sections 46 and 47
@@ -496,7 +496,7 @@ TIE MUNICIPAL COURT OF TIIE CITY OF BROOKLYN AND TIlE
 JUSTICES) COURTS OF TIIE CITIES OF ALBANY; TROY AND
 HtU DSON.
 SECTION 60. Their jurisdiction.
-ง 60. The municipal court of the city of Brooklyn, andJurisdict'n.
+ยง 60. The municipal court of the city of Brooklyn, andJurisdict'n.
 the justices' courts of the cities of Albany, Troy and Hudson,
 respectively, shall have jurisdiction in the following eases,
 and no other :
@@ -509,7 +509,7 @@ shall not exceed one hundred dollars.
 CHAPTER IV.
 GENERAL PROVISIONS.
 S CTIOX 61. Sections 48 - 57 applied to these courts.
-ง 61. The provisions of sections 48 to 57, both inclusive, relating to forms of action, to pleadings', to the times of comnimencing actions, to the rules of' evidence, to filing and docketing transcripts of judgments, to their effect and the
+ยง 61. The provisions of sections 48 to 57, both inclusive, relating to forms of action, to pleadings', to the times of comnimencing actions, to the rules of' evidence, to filing and docketing transcripts of judgments, to their effect and the
 mode of enforcing them, and to proceedings where title to
 real property shall come in question, shall apply to the courts
 embraced in this title ; except, that after the discontinuance
@@ -544,16 +544,16 @@ forms of such actions anti suits, abolished.
 63. Parties to an action, how designated.
 64. Actions on judgments, abolished.
 65. Feigned issues, abolished.
-ง 62. The distinction between actions at law anti suits in
+ยง 62. The distinction between actions at law anti suits in
 netq uity, and the fo'ms of all such actions anti suits heretolaw
 oIisi~aeabls u fore existing, are abolished ; and, there shall be in this state,
 hereafter, but one form of action, for the enforcement or
 protection of private rights and the redress or prevention of
 private wrongs, which shall be denominated a civil action.
-ง 63. In such action, the party complaining shall be
+ยง 63. In such action, the party complaining shall be
 known as the plaintiff, and the adverse party as the defendnated.
 ant.
-ง 64. No action shall be brought upon a judgment renofcourtsof
+ยง 64. No action shall be brought upon a judgment renofcourtsof
 dered in any court of this state, (except a court of a justice
 of the peace,) between the same parties, without leave of
 the court, for good cause shown on notice to the adverse
@@ -561,7 +561,7 @@ party ; and no action on a judgment rendered by a justice
 of the peace shall be commenced within two years after its
 rendition, except in case of his death, resignation, incapacity
 to act, or removal from the county.
-ง 65. Feigned issues are abolished; and instead thereof, in the cases where the power now exists to order -a feigned issue, or when a question of fa'ct, not put in issue by the
+ยง 65. Feigned issues are abolished; and instead thereof, in the cases where the power now exists to order -a feigned issue, or when a question of fa'ct, not put in issue by the
 pleadings, is to be tried by a jury, an order for the trial may
 be made, stating, distinctly and plainly, the question of fact
 to be tried, and such order shall be the only authority necessary
@@ -576,20 +576,20 @@ CHAPTER I.
 TIE TIME OF COMIMENCING ACrIONS IN GENERAL.
 SECTION 66. Repeal of existing limitations.
 67. Time for commencing civil actions.
-ง 66. The provisions contained in the second, third, fourth, and sixth articles of the chapter of the revised statutesl " of actions and the times of commencing them,"
+ยง 66. The provisions contained in the second, third, fourth, and sixth articles of the chapter of the revised statutesl " of actions and the times of commencing them,"
 are repealed, and the provisions of this title are substituted
 ip their stead. This title shall not extend to actions already
 commenced, or to cases where the right of action has already
 accrued; but the statutes now in force shall be applicable to
 such cases, according to the subject of the action, and without
 regard to the form.
-ง 67. The civil actions enbraced within section 66, can only be commenced within the periods prescribed in this ti- tle, after the cause of action shall have accrued, except where, in special cases, a different limitation is prescribed by
+ยง 67. The civil actions enbraced within section 66, can only be commenced within the periods prescribed in this ti- tle, after the cause of action shall have accrued, except where, in special cases, a different limitation is prescribed by
 statute.
 CHAPTER II.
 TlE TIME OF COMMENCING ACTIONS FOR TIE RECOVERY OF
 REAL PROPERTY.
 SECTION 68. Limitation of actions for the recovery of real property.
-ง 68. The provisions of the Revised Statutes, containedI in the article entitled " Of the time of commencing actions to real property," sliall, until otherwise provided by statute, continue in force, and be applicable to actions for the recovery of real property.
+ยง 68. The provisions of the Revised Statutes, containedI in the article entitled " Of the time of commencing actions to real property," sliall, until otherwise provided by statute, continue in force, and be applicable to actions for the recovery of real property.
 CHAPTER III.
 OF TIE TIME OF COMMENCING ACTIONS, OTHER THAN FOR THE
 RECOVERY OF REAL PROPERTY.
@@ -605,15 +605,15 @@ account.
 when to be brought.
 77. Actions for relief, not before provided for.
 78. Actions by the people, subject to the same limitation.
-ง 69. The periods prescribed in section 67, for the comhimitntion
+ยง 69. The periods prescribed in section 67, for the comhimitntion
 mencement of actions other than for the recovery of real
 property, shall be as follows:
-ง 70. Within twenty years:
+ยง 70. Within twenty years:
 1. An action upon a judgment or decree of any court of
 the United States, or of any state or territory within the
 United States.
 . 2. An action upon a sealed instrument.
-ง 71. Within six years:
+ยง 71. Within six years:
 1. An action upon a ,contract, obligation or liability, express
 or implied; excepting those mentioned in section seventy.
 2. An action upon a liability created by statute, other than
@@ -629,7 +629,7 @@ anti not hereinafter enumerate(].
 of action in such case not to be deemed to have accruetl, until
 the discovery by the aggrieved party, of the facts constituting
 the fraud.
-ง 72. Within three years.
+ยง 72. Within three years.
 1. An action against a sheriff or coroner, upon a liability
 incurred by the doing of an act in his official capacity, and
 in virtue of his office, or by the omission of an official duty ;
@@ -640,17 +640,17 @@ escape.
 where the action is given to the party aggrieved, or to such
 party and the people of this state, except where the statute
 imposing it prescribes a different limitation.
-ง 73. Within two years: 1. An action for libel, slander, assault, battery, or false imprisonment.
+ยง 73. Within two years: 1. An action for libel, slander, assault, battery, or false imprisonment.
 2. An action upon a statute, for a forfeiture or penalty to
 the people of this state.
-ง 74. Within one year. 1. An action against a sheriff or other officer, for the es- cape of a prisoner arrested or imprisoned on civil process.
-ง 75. In an action brought to recover a'balance due up a mutual, open anti current account, where there have been reciprocal demands between the parties, the cause of action shall be deemed to have accruedi from the time of the hist item in the account, on ihe adverse side.
-ง 76. An action u•p on a statute for a penalty or forfeiture, given in whole or in part to any person who will prosecute for the same, must be commenced within one year after the commission of the offence; and if the action be not con-sue.mencet within the year, by a private party, it may be commenced
+ยง 74. Within one year. 1. An action against a sheriff or other officer, for the es- cape of a prisoner arrested or imprisoned on civil process.
+ยง 75. In an action brought to recover a'balance due up a mutual, open anti current account, where there have been reciprocal demands between the parties, the cause of action shall be deemed to have accruedi from the time of the hist item in the account, on ihe adverse side.
+ยง 76. An action uย•p on a statute for a penalty or forfeiture, given in whole or in part to any person who will prosecute for the same, must be commenced within one year after the commission of the offence; and if the action be not con-sue.mencet within the year, by a private party, it may be commenced
 within two years thereafter, in behalf of the people
 of this state, by the attorney-general, or the district jttorney
 of the county where the offence was committed.
-ง 77. An action for relief, not hereinbefore provided for,) must be commenced within ten years after the cause a ac- shall have accrued. 
-ง 78. The limitations prescribed in this title shall apply to actions brought in the name of the people of this state or for their benefit, in the same manner as to actions by private parties.
+ยง 77. An action for relief, not hereinbefore provided for,) must be commenced within ten years after the cause a ac- shall have accrued. 
+ยง 78. The limitations prescribed in this title shall apply to actions brought in the name of the people of this state or for their benefit, in the same manner as to actions by private parties.
 CHAPTER IV.
 GENERAL PROVISIONS AS TO THE TIME OF COMMENCING
 ACTIONS.
@@ -670,7 +670,7 @@ bank notes.
 89. Nor to actions against directors or stockholders of monied corporations.
 Limitation, in such cases, prescribed.
 W. New promise must be In writing.
-ง 79. An action shall not be deemed commenced, within Xneaning of this title, unlesq it appear: 1. That the summons or other process therein was duly served upon the defendants, or one of them; or
+ยง 79. An action shall not be deemed commenced, within Xneaning of this title, unlesq it appear: 1. That the summons or other process therein was duly served upon the defendants, or one of them; or
 2. That the summons was delivered, with. the intent that
 should be actually served, to the sheriff of the county in
 which the defendants, or one of them, usually or last resided;
@@ -678,14 +678,14 @@ or if a corporation be defendant, to the sheriff of the county
 in which such corporation was establi'shed by law, or where
 its general business was transacted, or where it kept an office
 for the transaction of business.
-ง 80. If, when the cause of action shall accrue, against a
+ยง 80. If, when the cause of action shall accrue, against a
 person, he be out'of the state, the action may be commenced
 within the term herein limited, after his return to the state ;
 and if, after the cause of action shall have accrued, he depart
 from and reside out of the state, the time of his absence
 shall not be part of the time limited for the commencement
 of the action.
-ง 81. If a person entitled to bring an action except for
+ยง 81. If a person entitled to bring an action except for
 penalty or forfeiture, or against a sheriff or other officer
 for an escape, be at the time the cause of action accrued,
 either :
@@ -697,30 +697,30 @@ life ; or
 4. A married woman
 The time of such disability shall not be part' of the time
 limited for the commencement of the action.
-ง 82. If a peison entitled to bring an action die before pe"s on •ntitl bri-ng
+ยง 82. If a peison entitled to bring an action die before pe"s on ย•ntitl bri-ng
 the expiration of the time limited for the commencement
 thereof, and the. cause of action survive, his representatives
 may commence the action, after the expiration of that time,
 and within one year from his death.
-ง 83. When a person shall be an alien subject or citizen of a country at war with the United States, tile time of the
+ยง 83. When a person shall be an alien subject or citizen of a country at war with the United States, tile time of the
 continuance of the war shall not be part of the period limited
 for the commencement of the action.
-ง 84. If an action shall be commenced within the time
+ยง 84. If an action shall be commenced within the time
 prescribed therefor, and a judgment therein for the'plaintiff
 be reversed, on appeal, the plaintiff) or if he die and the
 cause of action survive, his heirs or representatives may
 commence a new action within one year after the reversal.
-ง 85. When the commencement of an action shall be stayf'onb
+ยง 85. When the commencement of an action shall be stayf'onb
 ed by injunction, the time of the continuance of the injuncjunctiddopn
 tion shall not be part of the time limited for the commence-
 ment',of the action.
-ง 86. No person shall avail himself of a disability, unless
+ยง 86. No person shall avail himself of a disability, unless
 it existel when his right of action accrued.
-ง 87. When two or more disabilities shall exist, the limiv6
+ยง 87. When two or more disabilities shall exist, the limiv6
 aatailo n shall not attach until they all be removed.
-ง 88. This title shall not affect actions to enforce the p, of bills, notes or oth. er.. evidences .of deb.tn oits sued by me-nied corporations, or issued or put in circulation as money. 
-ง 89. This title shall not affect actions against directors or -stockholders of a monied corporation, to recover a penaltyor or forfeiture imposed, or to enforce a liability created, by the second title of the chapter of the Revised Statutes, entitled "Of incorporations ;" but such actions must be brought tu . within six years after the discovery, by the aggrieved party, the facts upon which the penalty or forfeiture attached, or the liability was created. 
-ง 90. Where the time for commencing an 0 action arising contract shall have expirel, the cause of action shall not be deemed revived by an acknowledgment or new promise unless the same be in writing., subscribed by the party to be charged theieby. 
+ยง 88. This title shall not affect actions to enforce the p, of bills, notes or oth. er.. evidences .of deb.tn oits sued by me-nied corporations, or issued or put in circulation as money. 
+ยง 89. This title shall not affect actions against directors or -stockholders of a monied corporation, to recover a penaltyor or forfeiture imposed, or to enforce a liability created, by the second title of the chapter of the Revised Statutes, entitled "Of incorporations ;" but such actions must be brought tu . within six years after the discovery, by the aggrieved party, the facts upon which the penalty or forfeiture attached, or the liability was created. 
+ยง 90. Where the time for commencing an 0 action arising contract shall have expirel, the cause of action shall not be deemed revived by an acknowledgment or new promise unless the same be in writing., subscribed by the party to be charged theieby. 
 TITLE III.
 OF TIE PARTIES TO CIVIL ACTIONS.
 SECTION 91. Action to be in the name of the real party in interest.
@@ -739,16 +739,16 @@ paper.
 102. Court may require all persons to be made parties who may be
 necessary to a complete determination of the controversy. 
 
-ง 91. Every action must be prosecuted in the name of the real party in interest, except as otherwise provided in sec- tion 93. 
+ยง 91. Every action must be prosecuted in the name of the real party in interest, except as otherwise provided in sec- tion 93. 
 
-ง 92. In tie case of an assignment of a • thin• g .imne nat ction, the action by the assignee shall be without prejudice to any set-off or other tlefence cxisting at the time of, or before no- tice of the assignment ; but this section shall not apply to negotiable prommissory note or bill of exchange. 
-ง 93. An executor or administrator, a trustee of an ex-press trust, or a person expressly authorised by statute, may 1,- sue without joining with him the persons for whose benefit the suit is prosecuted. 
+ยง 92. In tie case of an assignment of a ย• thinย• g .imne nat ction, the action by the assignee shall be without prejudice to any set-off or other tlefence cxisting at the time of, or before no- tice of the assignment ; but this section shall not apply to negotiable prommissory note or bill of exchange. 
+ยง 93. An executor or administrator, a trustee of an ex-press trust, or a person expressly authorised by statute, may 1,- sue without joining with him the persons for whose benefit the suit is prosecuted. 
 
-ง 94. hen a married woman is a party, her husband must be joined with her except that, 1. When tll action concerns her separate property, she may sue alone: 2. When the action is between herself and her husbandad.
+ยง 94. hen a married woman is a party, her husband must be joined with her except that, 1. When tll action concerns her separate property, she may sue alone: 2. When the action is between herself and her husbandad.
 she may sue or be sued alone.
-ง 95. WUrhen an infant is a party, he must appear by guar- dian, who may be appointed by the court in which the action
+ยง 95. WUrhen an infant is a party, he must appear by guar- dian, who may be appointed by the court in which the action
 is prosecuted, or by-a judge thereof,
-ง 96. The guardian shall be appointed as follows 1. When the infant is plaintiff, upon the petition of the
+ยง 96. The guardian shall be appointed as follows 1. When the infant is plaintiff, upon the petition of the
 infant, if he be of the age of fourteen years, or if under
 that age upon the petition of some other party to the suit,
 or of a relative or friend of the infant :
@@ -758,20 +758,20 @@ within twenty days after the service of the summons. If he
 be under the age of fourteen, or neglect so to apply, then,
 upon the petition of any other party to the action, or of a
 relative or friend of the infint.
-ง 97. All persons having an interest in the subject of the
+ยง 97. All persons having an interest in the subject of the
 action, and in obtaining the relief demanded, may be joined
 as plaintiffs, except as otherwise provided in this title.
-ง 98. Any person may be made a party defendant, who has an interest in the controversy, adverse to the plaintiff. 
-ง 99. Of the parties to the action, those who are united
+ยง 98. Any person may be made a party defendant, who has an interest in the controversy, adverse to the plaintiff. 
+ยง 99. Of the parties to the action, those who are united
 in interest must be joined as plaintiffs or defendants; but if
 the consent of any one, who should have been joined as'plaintiff,
 cannot be obtained, he may be made a defendant, the
 reason thereof being stated in the complaint.
-ง 100. Persons severally liable upon the same obligation
+ยง 100. Persons severally liable upon the same obligation
 or instrument, including the parties to bills of exchange and
 promissory notes, may, all 'or any of them, be included in
 the same action at the option of the plaintiff.
-ง 101. INo action shall abate by the death, marriage or . ..
+ยง 101. INo action shall abate by the death, marriage or . ..
 other disability of a party, or by the transfer of any interest
 therein, if the cause of action survive or contmue. In case
 of deaih, marriage, or other disability of a party, the court,
@@ -781,7 +781,7 @@ or successor in interest. In case of any other transfer
 of interest, the action shall be continued in the name of theoriginal
 party; or the court may allow the person to whom
 the transfer is made to be substituted in the action.
-ง 102. When a complete determination of the controversy
+ยง 102. When a complete determination of the controversy
 cannot be had without the presence of other parties, the
 court may order them to be brought in, by an amendment of
 the complaint, or by a supplemental complaint, and a new
@@ -791,7 +791,7 @@ OF TIIE PLACE OF TRIAL OF CIVIL ACTIONS.
 SECTION 103. Certain actions to utated. be tried where the subject arose or is sit-
 104. Other actions, where any party resides.
 105. Actions may be tried in any county unless defendant objects..
-ง 103. Actions for the following causes, must be tried the county wh'wehriec ht h~e ~ca~u se o"r •s ome part thetrhe~ osfu baerotosfet,- or which the subject of the action or some part thereof is situa- ted, subject to tie power of the court to change the place trial, in the cases provided by statute.
+ยง 103. Actions for the following causes, must be tried the county wh'wehriec ht h~e ~ca~u se o"r ย•s ome part thetrhe~ osfu baerotosfet,- or which the subject of the action or some part thereof is situa- ted, subject to tie power of the court to change the place trial, in the cases provided by statute.
 1. For the recovery of real property -or of an estate or interest
 therein, or for the determination, in any form, of such
 right or interest, and for injuries to real propeity:
@@ -809,11 +809,11 @@ to the place where the offence was committed:
 to execute his duties, for an act (lone by him in virtue of his
 office, or against a person, who by his command or in his aid,
 shall do any thing touching the duties of such officer.
-ง 104. In all other cases, the action shall be tried in the in which the parties or any of them shall reside the commencement of the action; or if none of the parties 'shall reside in the state, the same may be tried in any county
+ยง 104. In all other cases, the action shall be tried in the in which the parties or any of them shall reside the commencement of the action; or if none of the parties 'shall reside in the state, the same may be tried in any county
 which the plaintiff shall designate in his complaint; subject,
 however, to the power of the court to change the place
 ,of trial, in the cases provided by statute.
-ง 105. If the county designated for that purpose inM tahlnet complaint, be not the proper county, the action may, not- withstanding, be tried therein, unless the defendant shallฐbefore the time for answering expire, demand in writing that the trial be had 'in the proper county.
+ยง 105. If the county designated for that purpose inM tahlnet complaint, be not the proper county, the action may, not- withstanding, be tried therein, unless the defendant shallยฐbefore the time for answering expire, demand in writing that the trial be had 'in the proper county.
 TITLE V.
 OF TIE MANNER OF COMMENCING CIVIL ACTIONS.
 SECTION 106. Actions, how commenced.
@@ -830,22 +830,22 @@ to pay costs.
 115. Several defendants, anti part only served, how to proceed.
 116. When service deemed made in such case.
 117. Service how proved..
-ง 106. Civil actions in the courts of record in this state, shall be commenced by the service of a summons.
-ง 107. The summons shall be subscribed by the plaintiff, or
+ยง 106. Civil actions in the courts of record in this state, shall be commenced by the service of a summons.
+ยง 107. The summons shall be subscribed by the plaintiff, or
 his attorney, and directed to the defendant, and shall require
 him to answer the complaint, and serve a copy of his answer
 on the person whose name is subscribed to the summons,
 at a place within the state, to be therein specified, in
 which there is a post office, within twenty days after theservice
 of the summons, exclusive of the day of service.
-ง 108. The plaintiff shall also insert in the summons a notice, in substance as follows: 1. In an action arising on contract, for the recovery of
+ยง 108. The plaintiff shall also insert in the summons a notice, in substance as follows: 1. In an action arising on contract, for the recovery of
 money only, that he will take judgment for a sum specified
 therein, if the defendant fail to answer the complaint:
 2. In other actions, that if the defendant fail to answer
 the complaint, the plaintiff will apply to the court, at a specified
 time anti place, (after the expiration of the time for
 answering,) for the relief demanded in the complaint.
-ง 109. A copy of the complaint shall be served with the
+ยง 109. A copy of the complaint shall be served with the
 summons,. except, that in the case of a defendant against
 whom. no personal claim is made, in an action for' the parti-
 tion of real property, or for the foreclosure of a mortgage,
@@ -857,9 +857,9 @@ by it,. and that no personal claim is made against such
 defendant; in which case no copy of the complaint need be
 served on such defendant, unless, within the time for answer-
 ing, he shall, in writing, demand the same.
-ง 110. If a defendant , on whom such notice is served,
+ยง 110. If a defendant , on whom such notice is served,
 unreasonably defend the action, he shall pay costs to the pay,, ,i
-ง 111. In an action affecting the title to real property, the
+ยง 111. In an action affecting the title to real property, the
 ppllinaiifn;attaifnfo tmat any time after the commencement thereof, may
 ile with the clerk of each county, in which the property is, situated, a notice of the pendency of the action, containing the names of the parties, the object of the action, and a
 description of the property in that county affected thereby
@@ -868,14 +868,14 @@ date of the mortgage, the parties thereto, and the time and
 place of recoiding the same. In such case only, shall the
 pendency of the action be constructive notice to a purchaser
 or incumbrancer of the property affected thereby.
-ง 112. The summons may be served by the sheriff of the county, where the defendant may be found, or by any other person, not a party to the action. The service shall be made,
+ยง 112. The summons may be served by the sheriff of the county, where the defendant may be found, or by any other person, not a party to the action. The service shall be made,
 and the summons returned, with proof of the service, to the
 persdn whose name is subscribed thereto, with all reasonable'
 diligence. The person subscribing the summons, may, at
 his option, by an endorsement on the summons, fix the time,
 for the service thereof, and the service shall then be made
 accordingly.
-ง 113. The summons shall be served by delivering a copy thereof, as follows: 1. If the suit be against a corporation, to the president, or other head of the corporation, secretary, cashier, or managing
+ยง 113. The summons shall be served by delivering a copy thereof, as follows: 1. If the suit be against a corporation, to the president, or other head of the corporation, secretary, cashier, or managing
 agent thereof:
 2. If against a minor, under the age of fourteen years, to
 such minor personally, and also to his father, mother, or
@@ -888,7 +888,7 @@ of habitual drunkenness, and for whom a committee
 has been appointed, to the committee; and to the defendant
 personally:
 4.' In all other eases, to the defendant personally.
-ง 114. When the person on whom the service is to be ' Tnade, cannot after, due diligence be found within the state, • • . and that fact shall appear by affidavit to the satisfaction of the court, or a judge thereof; and it shall in like manner
+ยง 114. When the person on whom the service is to be ' Tnade, cannot after, due diligence be found within the state, ย• ย• . and that fact shall appear by affidavit to the satisfaction of the court, or a judge thereof; and it shall in like manner
 appear that a cause of action exists against the defendant, in
 respect to whom the service is to be made, and that such defendant
 is a resident of this state, or has property therein;
@@ -912,7 +912,7 @@ after its rendition, on such terms as shall be just; and if' the
 defence be successful, and the judgment or any part thereof
 shall have been collected or otherwise enforced; such restitution
 may thereupon be compelled as the court shall direct.
-ง 115. Where the action is against several defendants, any
+ยง 115. Where the action is against several defendants, any
 areone of'whoin is actually served with the summons, the plainseveral
 tift, instead of service of the summons, actually or by pubfendatis,
 ,
@@ -926,10 +926,10 @@ effect, unless the court shall otherwise direct:
 amend his complaint, of course, by striking out the name of
 the other defendants, and may proceed against the defendants
 ser ved.
-ง 116. In the cases mentioned in the 114th section, the
+ยง 116. In the cases mentioned in the 114th section, the
 ser"v ic-e of the surmmons shall be deemed complete, at the exlcatiop
 piration of the time prescribed by the order for publication.
-ง 117. Proof of the service of the summons, and of the
+ยง 117. Proof of the service of the summons, and of the
 complaint or notice, if any, accompanying the same, shall be
 as follows:
 1. If served by the sheriff, his certificate thereof; or
@@ -954,10 +954,10 @@ CHAPTER 1.
 SECTION 118. Forms of pleadings heretofore existing, abolished
 119. First pleading to be complaint.
 120. What It must contain.
-ง 118. All the forms of pleading heretofore existing, are abolished anti hereafter, the forms of pleading in civil actions,
+ยง 118. All the forms of pleading heretofore existing, are abolished anti hereafter, the forms of pleading in civil actions,
 and the rules by which the sufficiency of the pleadings is to be determined, shall be those which arc prescribed by this act.
-ง 119. The first pleading on the part of the plaintiff, the complaint. 
-ง 120. The complaint shall contain :whtcom. 1. The title of the cause, specifying the name of the court in which the action is brought, the name of the county
+ยง 119. The first pleading on the part of the plaintiff, the complaint. 
+ยง 120. The complaint shall contain :whtcom. 1. The title of the cause, specifying the name of the court in which the action is brought, the name of the county
 in which the plaintiff desires the trial to be had, and the
 names of the parties to the action, plaintiff and defendant :
 2. A statenlnt of the facts constituting the cause of action,
@@ -976,8 +976,8 @@ SECTION 121. Defendant to demur or answer.
 12M. low to proceed if complaint be amended.
 126. Objection not appearing on complaint may be taken by aniwer.
 127. If neither, defendant deemed to have waivcl it except as jurl~iction and cause of action.
-ง 121. The only pleading on the part of the defendant, either a demurrer or an answer. It must be served within twenty diys after service of the copy of the complaint.
-ง 122. The defendant may demur to the complaint, when shall appear upont the face thereof, either 1. That the court has no jurisdiction of the person of the
+ยง 121. The only pleading on the part of the defendant, either a demurrer or an answer. It must be served within twenty diys after service of the copy of the complaint.
+ยง 122. The defendant may demur to the complaint, when shall appear upont the face thereof, either 1. That the court has no jurisdiction of the person of the
 defendant, or the subject of the action ; or
 2. That the plaintiff has not legal capacity to sue ; or
 3. That there is another action pending between the same
@@ -988,23 +988,23 @@ or
 united ; or
 6. That the complaint does not state facts sufficient to
 constitute a cause of action.
-ง 123. The demurrer shall distinctly specify the grounds h hl
+ยง 123. The demurrer shall distinctly specify the grounds h hl
 of objection to the complaint. Unless it do so, it may bd
 disregarded.
-ง 124. After a demurrer, the plaintiff may amend, of
+ยง 124. After a demurrer, the plaintiff may amend, of
 course: and without costs, within twenty (lays. Upon the decision of the demurrer, the court may, if justice require it, allow the plainliff to amend, or the defendant to withsion
 draw his demurrer and to answer.
-ง 125. If the complaint be amended, a copy thereof must
+ยง 125. If the complaint be amended, a copy thereof must
 be served on the defendant, who must answer it within
 twenty days, or the plaintiff upon filing with the clerk an
 affidavit of the service, and of the defendant's omission, may
 proceed to obtain judgment, as provided by section 202, but
 where iin application to, the court for judgment is necessary,
 eight lays notice thereof must be given to the defendant.
-ง 126. When any of the matters enumerated in section
+ยง 126. When any of the matters enumerated in section
 122, do not appear upon the face of the complaint, the objecby
 tion may be taken by answer.
-ง 127. If no such objection be taken, either by demurrer
+ยง 127. If no such objection be taken, either by demurrer
 or answer the defendant shall be deemed to have waived
 the saute, excepting only the objection to tie jurisdiction of
 the court over the subject of the action ; and the objectojuriidic-
@@ -1015,7 +1015,7 @@ TIE ANSWER.
 SECTION 128. Answer, what to contain.
 129. May set forth all the grounds of dcfence.
 130. If no reply and judgment on answer, plaintiff may amend.
-ง 128. The answer of the defendant shall contain
+ยง 128. The answer of the defendant shall contain
 1. In respect to each allegation of the complaint controverted
 by the defendant, a specific denial thereof, or of any
 knowledge thereof sufficieit to form a belief ;
@@ -1023,14 +1023,14 @@ knowledge thereof sufficieit to form a belief ;
 in ordinary and concise language, without repetition, and in
 such a manner as to enable a person of common understanding
 to know what is intended.
-ง 129. The defendant may set forth in his answer, asra,,many grounds of defence asf he shall have. They shall be separately stated, and may refer to the causes of action which they are intended to answer, in any manner by which
+ยง 129. The defendant may set forth in his answer, asra,,many grounds of defence asf he shall have. They shall be separately stated, and may refer to the causes of action which they are intended to answer, in any manner by which
 they may be intelligibly distinguished.
-ง 130. If the answer set up new matter whith is not r- plied to as provided in the next section, and the action be tried'on complaint and answer alone, anti judgment be given thereon for the plaintiff, the court may permit the defendant to withdraw or amend the answer, upon such terms as shall
+ยง 130. If the answer set up new matter whith is not r- plied to as provided in the next section, and the action be tried'on complaint and answer alone, anti judgment be given thereon for the plaintiff, the court may permit the defendant to withdraw or amend the answer, upon such terms as shall
 be just.
 CHAPTER IV.
 TIE REPLY.
 SECTION 131. Reply, when to be put in, and what to contain.
-ง 131. When the answer shall contain new matter, the plaintiff may within twenty days, reply to it, denying par- ticularly each allegation controverted by him, or any knowl- edge thereof sufficient to form a belief ; and lie may allege,
+ยง 131. When the answer shall contain new matter, the plaintiff may within twenty days, reply to it, denying par- ticularly each allegation controverted by him, or any knowl- edge thereof sufficient to form a belief ; and lie may allege,
 in ordinary and concise language, withodt repetition, and in
 such a manner as to enable a person of common understanding
 to know what is intended, any new matter not inconsistent
@@ -1050,48 +1050,48 @@ noticed.
 1,11. Libel anti slander, how stated in complaint.
 1,12. What answer may contain, in such cases.
 143. What causes of action may be joined in the same action. 1,1-. Allegation not denied, to be deemed true. 
-ง 132. No other pleading shall be allowed, than the com- plaint, demurrer, answer anti reply. 
-ง 133. Every pleading must be subscribed by the party, or his attorney, and the complaint, answer anti reply, must be verified by the party, his agent or attorney, to the effect that
+ยง 132. No other pleading shall be allowed, than the com- plaint, demurrer, answer anti reply. 
+ยง 133. Every pleading must be subscribed by the party, or his attorney, and the complaint, answer anti reply, must be verified by the party, his agent or attorney, to the effect that
 he believes it to be true.. But the verification may be omitted,
 when tie party would be privileged fro i testifying, as
 a witness, to the same atter. And no pleading, verified as
 herein required, shall be used in a criminal prosecution against
 the party, as proof of a fact admitted or alleged in such
 pleading.
-ง 134. Neither presumptions of law, nor matters of which
+ยง 134. Neither presumptions of law, nor matters of which
 judicial notice is taken, need be stated in a pleading.
-ง 135. It shall not be necessary for a party to set forth in
+ยง 135. It shall not be necessary for a party to set forth in
 a pleading, the items of an account therein nlleed, where
 they exceed twenty in number ; but he shall deliver to the
 adverse party, within ten days, after a demand thereof inhow
 writing, a copy of the account verified by his own oath, or
 that of his agent, or attorney- to the effect that he believes
 it to be true, or be precluded from giving evidence thereof.
-ง 136. In the construction of a pleading, for the purpose
+ยง 136. In the construction of a pleading, for the purpose
 of determining its effect, its allegation shall be liberally construed
 strued, with a view to substantial justice between the parties.
 & 17tI
-ง 137. If irrelevant or redundant matter be inserted in a
+ยง 137. If irrelevant or redundant matter be inserted in a
 pleading, it may be stricken out, on motion of any person
 aggrieved thereby.
-ง 138. In pleading a judgment, or other determination of
+ยง 138. In pleading a judgment, or other determination of
 a court, or officer of special jurisdiction, it shall not be nespecialin.
 cessary to state the facts conferring jurisdiction, but such
 plead.judgment or determination may be stated to have bleen duly
 given or made. IC such allegation be controverted, the party
 pleading shall be bound to establish on the trial the facts
 conferring jurisdiction. 
-ง 139. In pleading the performance of conditions preeod
+ยง 139. In pleading the performance of conditions preeod
 cedent in a contract, it shall not be ,necessary to state the
 facts, showing such performance ; but it may be stated generally,
 that the party duly performed all the conditions on
 his part ; and if such allegation be controverted, the party
 pleading shall be bound to establish, qn the trial, the facts
 showing such performance.
-ง 140. In pleading a private statute, or a right derived
+ยง 140. In pleading a private statute, or a right derived
 therefrom, it shall be suflicient to refer to such statute, by its title and the (lay of its passage, and the court shall thereupon
 take judicial notice thereof.
-ง 141. In an action for libel or slander, it shall not be ne-
+ยง 141. In an action for libel or slander, it shall not be ne-
 cessary to state in the complaint, any extrinsic facts, for the
 purpose of showing the application to the plaintiff, of the defamatory
 matter out of which the cause of action arose ; but
@@ -1099,13 +1099,13 @@ it shall be sufficient to state generally, that the same was
 published or spoken concerning the plaintiff, and if such alegation
 be controverted, the plaintiff shall be bound to establish,
 on the trial, that it was so published or spoken.
-ง 142. In the actions mentioned in the last section, the desuch
+ยง 142. In the actions mentioned in the last section, the desuch
 cases.fendant may, in his answer, allege both the truth of the matter
 charged as defamatory, and any mitigating circumstances
 legally admissible in evidence, to reduce the amount of damacs
 ; and whether lie prove the justification or not lie may
 give in evidence the mitigating circumstances.
-ง 143. The plaintiff may unite several causes of action in the same cpmplaint, where they all arise out of, . Contract, express or implied ; or, 2. Injuriesliy force, to person or property ; or 3. Injuries withotut force to person or property ; or
+ยง 143. The plaintiff may unite several causes of action in the same cpmplaint, where they all arise out of, . Contract, express or implied ; or, 2. Injuriesliy force, to person or property ; or 3. Injuries withotut force to person or property ; or
 4. Injuries to character ; or
 5. Claims to recover real property ; with or without damages,
 for the withholding thereof ; or,
@@ -1115,7 +1115,7 @@ damages for the withholding thereof ; or,
 operation of law.
 But the causes of action, so united, must all belong to one
 only of these classes, and must equally affect all the parties to the action, and not require different places of trial. 
-ง 144. Every material allegatkon of the complaint, notedtrue.
+ยง 144. Every material allegatkon of the complaint, notedtrue.
 specifically controverted by the answer, as prescribed in section
 one hundred and twenty-eight ; and every material allegation
 of new matter in the answer, not specifically controverted
@@ -1137,27 +1137,27 @@ amended afterwards.
 151. No error or defect to be regarded, unless it affect substantial
 rights.
 152. Supplemental complaint, answer and reply. 
-ง 145. No variance between the allegatiMoon in a pleading and the proof, shall ,be deemed mateial, unless it have ae- tually misled the adverse party, to his prejudice, in maintaining
+ยง 145. No variance between the allegatiMoon in a pleading and the proof, shall ,be deemed mateial, unless it have ae- tually misled the adverse party, to his prejudice, in maintaining
 his action or defence, upon the metits Whenever it
 shall be allegerl, that a party has been so misled, that fact
 shall be proved to the satisfaction of the court, by affidavit,
 shewing. in what respect he has been misled ; and thereupon,
 the court may order the pleading to be amended, upon such
 terins as shall be just. .Immaterial
-ง 146. Where the variance is not materia•l , at, s lp'tr ovided" t in the last section, the court may direct the fact to he found ac- cording to the evidence, or may order an immediate amendment,
+ยง 146. Where the variance is not materiaย•l , at, s lp'tr ovided" t in the last section, the court may direct the fact to he found ac- cording to the evidence, or may order an immediate amendment,
 without costs.
-ง 147. Where, however, the allegation 6f the cause of acavaiace.
+ยง 147. Where, however, the allegation 6f the cause of acavaiace.
 tion or defence to which the proof is directed is unproved,
 not in some particular or particulars only, but in its entire
 scope and meaning, it shall not be deemed a case of variance,
 within the last two sections, but a failure of proof.
-ง 148. A
+ยง 148. A
 pleading may be amended by te party of
 course, without costs, and without prejudice to the proceedings
 already had, at any time before the period for answering
 it shall expire. In such case a copy of the amended
 pleading shall be served on the adverse party.
-ง 149. The court may, at any time, in furtherance of jusmenu
+ยง 149. The court may, at any time, in furtherance of jusmenu
 tice, and on such terms as may be proper, amend any pleading
 or proceeding, by adding or striking out the name of any
 party or a mistake i any other respect, or by inserting other
@@ -1165,18 +1165,18 @@ llegations, material to the case, or by conforming the.pleadi:
 mg or proceeding to the fNcts proved, whenever the amendmeant
 shall not change substantially the cause of action or
 defence.
-ง 150. When the plaintiff shall be ignorant of the name
+ยง 150. When the plaintiff shall be ignorant of the name
 etiliaouf sa defendant, such defendant may be designated in any
 pleading or proceeding, by any name ; and when his true
 name shall be discovered, the pilead.ng or proceeding may be
 amended accordingly.
-ง 151. The court shall, in every stage of an action, disre- a ] ere,,
+ยง 151. The court shall, in every stage of an action, disre- a ] ere,,
 gard any error, or defect in the pleadings or proceedings,
 which shall not affect the substantial rights of the adverse
 hso'hadee
 party ; and no judgment shall be reversed or affected by rearights,
 son of such error or defect.
-ง 152. The plaintiff and defendant respectively, may be
+ยง 152. The plaintiff and defendant respectively, may be
 allowed, on motion, to make a supplemental complaint, an- swer or reply, alleging facts material to the case, occurring
 after the former complaint, answer or reply.
 TITLE VII.
@@ -1214,8 +1214,8 @@ his rejection of the undertaking.
 177. Proceedings" on judgment against sherll.
 117798.. Bail liable to sherif.
 lso. lotion to vacate order of arrest, or reduce bail.
-ง 153. No person shall be arrested in a civil action, except as prescribed by this act; but this provision shall not affect the act to abolish imprisonment for debt, ar.d to punish fraud- ulent debtors, passed April 26, 1831, or any act amending the same, nor shall it apply to proceedings for contempts.
-ง 154. The defendaint may be arrested, as hereinafter pre- scribed, in the following cases: 1. In an action for the recovery of damages, on a cause of action not arising out of contract.
+ยง 153. No person shall be arrested in a civil action, except as prescribed by this act; but this provision shall not affect the act to abolish imprisonment for debt, ar.d to punish fraud- ulent debtors, passed April 26, 1831, or any act amending the same, nor shall it apply to proceedings for contempts.
+ยง 154. The defendaint may be arrested, as hereinafter pre- scribed, in the following cases: 1. In an action for the recovery of damages, on a cause of action not arising out of contract.
 2. In an action for a fine or penalty, or on a promise to
 marry, or for moneys collected by a public officer, or by an
 attorney, solicitor or counsellor, in the course of his employment
@@ -1229,15 +1229,15 @@ provided in the next chapter.
 But no female sh'all be arrested in an action arising on
 contract, or in any other action, except for a wilful injury to
 person, character or property.
-ง 155. An order for the arrest of the defendant, must be obtained from a judge of the court in which the action is
+ยง 155. An order for the arrest of the defendant, must be obtained from a judge of the court in which the action is
 brought, or from a county judge.
-ง 156. The order may be made, where it shall appear to
+ยง 156. The order may be made, where it shall appear to
 the judge by the affidavit of the plaintiff, or of any other
 person, that a sufficient cause of action exists, and (excepting
 in the cases mentioned in the second subdivision of seetion
 154,) that the defendant is not a resident of the state,
 or is about to remove therefrom.
-ง 157. Before making the order, the judge shall require a
+ยง 157. Before making the order, the judge shall require a
 written undertaking, on the part of the plaintiff, with or
 without sureties, to the effect, that if the defendant recover
 judgment, the plaintiff will pay all costs that may be awar-
@@ -1249,30 +1249,30 @@ without sureties, lie shall annex thereto an affidavit that he
 is a resident and householder or fr ehohler within the state,
 and worth double the sum specified in the undertaking, over
 all his debts and liabilities.
-ง 158. The order may be made at the time of commencing
+ยง 158. The order may be made at the time of commencing
 the action, or at any time afterwards, before judgment. It shall require the sheriff of the county, where the defendant.
 may be found, forthwith to arrest him and hold him to bail
 in a specified sum, anti to return the same at a time and place
 therein mentioried, to the plaintiff or attorney by whom it
 shall be subscribed or endorsed.
-ง 159. The affitlavit and order of arrest shall be delivered
+ยง 159. The affitlavit and order of arrest shall be delivered
 to the sheriff, who, upon arresting the defendant, shall delivand
 er to him a copy thereof.
-ง 160. The sheriff shall execute the order, by arresting the
+ยง 160. The sheriff shall execute the order, by arresting the
 defendant and keeping hitn in custody, until discharged by
 law; anti may call the power of the county to his aid, in the
 execution of the arrest, as in case of process.
-ง 161. The defendant, at any time before execution, shall
+ยง 161. The defendant, at any time before execution, shall
 be discharged from the arrest, either upon giving bail, or upon depositing the amount mentioned in the order of arrest,
 as provided in this chapter.
-ง 162. The defendant may give bail, by causing a written
+ยง 162. The defendant may give bail, by causing a written
 undertaking to be executed by two or more sufficient bail,
 stating their places of residence and occupations, to the effect
 that the defendant shall at all times render himself amenable
 to the process of the court, during the pendency of the
 action, and to such as may be issued to enforce the judgment
 therein.
-ง 163. At any time before a failure to comply with their untlertaking, the bail may surrender the defendant in their exoneration, or he may surrender himself to the sheriff of
+ยง 163. At any time before a failure to comply with their untlertaking, the bail may surrender the defendant in their exoneration, or he may surrender himself to the sheriff of
 the county here he was arrested, in the following manner
 1. A certified copy of the undertaking of the bail shall be
 delivered to the sheriff, who shall detain the defendant in his
@@ -1284,17 +1284,17 @@ of eight days, with a copy of the undertaking and certificate,
 order that the bail be exonerated ; and on filing the
 order and the papers used on such application, they shall be
 exonerated accordingly.
-ง 164. For the purp•l os'le ,of surrenderingo the defendant, the bail, at any time or place, before they are finally charged, may themselves arrest hni, or by a written authority, endors- ed on a certified copy of the undertaking, may empower any
+ยง 164. For the purpย•l os'le ,of surrenderingo the defendant, the bail, at any time or place, before they are finally charged, may themselves arrest hni, or by a written authority, endors- ed on a certified copy of the undertaking, may empower any
 person of suitable age and discrution to do so.
-ง 165. In case of failure to comply with the undertaking, the bail may be proceeded against by action only. 
-ง 166. The bail may be exonerated, either by the death Offl the defendant, or by his legal discharge from the obligation
+ยง 165. In case of failure to comply with the undertaking, the bail may be proceeded against by action only. 
+ยง 166. The bail may be exonerated, either by the death Offl the defendant, or by his legal discharge from the obligation
 to render himself amenable to the process, or by his surrender
 to the sheriff of the county where he was arrested, in
 execution thereof, within twenty days after the commencement
 of the action against the bail, or within such further
 time as may be granted by the court.
-ง 167. Within the time limited for that purpose, the sheriffeold shall deliver the order of arrest to the plaintiff or attorney by whom it is subscribed, with his return endorsed, and he undertaking of the bail. The plaintiff, within ten days there- after, may return the undertaking to the sheriff, with a no- tice that he does not accept it ; or he shall be deemed to have accepted it, and the sheriff shall be exonerated from liability.
-ง 168. On the receipt of the undertaking and notice, the sheriff or defendant may, wtthin tell days thereafter, give tojsficon
+ยง 167. Within the time limited for that purpose, the sheriffeold shall deliver the order of arrest to the plaintiff or attorney by whom it is subscribed, with his return endorsed, and he undertaking of the bail. The plaintiff, within ten days there- after, may return the undertaking to the sheriff, with a no- tice that he does not accept it ; or he shall be deemed to have accepted it, and the sheriff shall be exonerated from liability.
+ยง 168. On the receipt of the undertaking and notice, the sheriff or defendant may, wtthin tell days thereafter, give tojsficon
 the plaintiff or attorney by whom the order of arrest is subscribed,
 notice of the justification of the same or other bail,
 (specifying the places of residence and occupations of the
@@ -1303,7 +1303,7 @@ time to be.not less than five, nor more than ten days thereafter.
 In case other bail be given, there shall be a new undertaking,
 in the form prescribed in section one hundred and
 sixty-two.
-ง 169. The qualifications of bail must be as follows;
+ยง 169. The qualifications of bail must be as follows;
 fi'eehiitolE.l daec)h, owfi tthhienm t hem ustsat teb.e a resident, and householder or
 2. They must each be worth the amount specified in the
 order of arrest, exclusive of property exempt from execution ;
@@ -1311,35 +1311,35 @@ but the judge, oir justification, may allow more than two bail
 to justify severally in amounts less than that expressed in the
 order, if the whole justification be equivalent to that of two
 sufficient bail.
-ง 170. For the purpose of justification, each of the bail
+ยง 170. For the purpose of justification, each of the bail
 shall attend before the judge, at the time and place mentioned
 in the notice, and may be examined on oath, on the part
 of the plaintiff, touching his sufficiency, in such manner as
 the judge, in his discretion, may think proper. The examiAlho~
 nation shall be reduced to writing and subscribed by the bail.
-ง 171. If the judge find the bail sufficient, lie shall annex
+ยง 171. If the judge find the bail sufficient, lie shall annex
 the examination to the undertaking, endorse his allowance
 thereon, and deliver the same to the plaintiff, or cause them
 to be filed ; and the sheriff shall thereupon be exonerated
 from liability.
-ง 172. The defendant may, at the time of his arrest, insheriff,
+ยง 172. The defendant may, at the time of his arrest, insheriff,
 stead of giving bail, deposit with the sheriff the amount mentioned
 in the order. Time sheriff shall thereupon give the
 defendant a certificate of the deposit, and the defendant shall
 be discharged out of cuitody.
-ง 173. The sheriff shall within four days after the deposit,
+ยง 173. The sheriff shall within four days after the deposit,
 tpwayo tcheer tisfaimcaet esi notof scuocuhr tp a; yamnedn ts, hathlle reocneei voef fwrohmic ht hhee cslhearlkl
 deliver to the plaintiff, and the other to the defendant. For
 any default in making such payment, the same proceedings
 may be had on the official bond of the sheriff to collect the
 sum deposited, as in other cases of delinquency.
-ง 174. If money be depositetil, as provided in the last two sections, bail may be given and justified upon notice as prescribed
+ยง 174. If money be depositetil, as provided in the last two sections, bail may be given and justified upon notice as prescribed
 in section one hundred and sixty-eight, any time before
 judgment ; and thereupon the judge before whom the
 justification is had, shall direct, in the order of allowance,
 that the money deposited be refunded by the sheriff to the
 defendant, and it shall be refunded accordingly.
-ง 175. Where money shall have been so deposited, if it
+ยง 175. Where money shall have been so deposited, if it
 remain on deposit at the time of an order or judgment for
 the payment of money to the plaintiff, the clerk shall under
 the direction of the court, apply the same in satisfaction
@@ -1347,18 +1347,18 @@ thereof and efter satisfying the judgment, shall refund the
 surplus, if any, to the defendant. If the judgmemt be in favor
 of the defendant, the clerk shall refund to him the whole
 sum deposited and remaining unapplied.
-ง 176. If, after being arrested, the lefentlant escape or be rested, or bail be not given and justified, or a depoiit be not made instead thereof, the sheriff shall himself be liable aSd,,bail. But he may tlischarge himself from such liability, by the giving and justification of bail as provided in sections
+ยง 176. If, after being arrested, the lefentlant escape or be rested, or bail be not given and justified, or a depoiit be not made instead thereof, the sheriff shall himself be liable aSd,,bail. But he may tlischarge himself from such liability, by the giving and justification of bail as provided in sections
 one hundred and sixty-eight, one hundred and sixty-nine, one
 hundred and seventy, and one hundred and seventy-one, at anly
 time before process against the person of the defendant to
 enforce an order or judtgneit in the action.
-ง 177. If a judgment be recovered against the sheriff, upon his liability as bail, and an execution thereon be retuined lin- satisfied in whole or in part, the same proceedings may behi
+ยง 177. If a judgment be recovered against the sheriff, upon his liability as bail, and an execution thereon be retuined lin- satisfied in whole or in part, the same proceedings may behi
 had on the official bond of the sheriff, to collect the deficiency,
 as in other cases of delinqquency.
-ง 178. The bail taken upon the arrest, shall, unless they justify, or oilier bail be given and justified, be liable to theto sheriff, by action, for all damages which lie may sustain by
+ยง 178. The bail taken upon the arrest, shall, unless they justify, or oilier bail be given and justified, be liable to theto sheriff, by action, for all damages which lie may sustain by
 reason of such omission.
-ง 179. A defendant arrestel, Inay, at amy time hefore the justification of bail, apply, on motion, to vacate the order of arrest, or to reduce the amount of the bail.
-ง 180. If the motion be made upon affidavits on the lrt of the defendant, but not otherwise, the plaintiff may opposeoil the same by affidavits or other proofs, in addition to those on
+ยง 179. A defendant arrestel, Inay, at amy time hefore the justification of bail, apply, on motion, to vacate the order of arrest, or to reduce the amount of the bail.
+ยง 180. If the motion be made upon affidavits on the lrt of the defendant, but not otherwise, the plaintiff may opposeoil the same by affidavits or other proofs, in addition to those on
 which the order of arrest was made.
 CHAPTER I.
 CLAIM AND IELIVERY OF PERSONAL IIROPERTY.
@@ -1374,8 +1374,8 @@ when acion is commenced.
 189. Property how taken, when concealed in building or enclo.
 sure. 190. Property, how kept. 
 
-ง 181. The plaintiff, in ,an action to recover the possession of personal property, may, at the time of conimencing the action, clain, the immediate delivery of such property, as provided in this chapter. 
-ง 182. Where a delivery is claimed, an affidavit must be""made by the plaintiff, or by some one in his behalf, showing 1. That the plaintiff is the owner of the property claimed,
+ยง 181. The plaintiff, in ,an action to recover the possession of personal property, may, at the time of conimencing the action, clain, the immediate delivery of such property, as provided in this chapter. 
+ยง 182. Where a delivery is claimed, an affidavit must be""made by the plaintiff, or by some one in his behalf, showing 1. That the plaintiff is the owner of the property claimed,
 (particularly describing it,) or is lawfully entitled to the possession
 thereof, by viirtue of a special property therein ; the
 facts in respect to which shall be set forth :
@@ -1389,11 +1389,11 @@ or attachment against the property of the plaintiff ; or if
 so seized) that it is, by statute, exempt from such seizure
 and
 5. The actual value of the property.
-ง 183. The plaintiff may, thereupon, by an endorsement
+ยง 183. The plaintiff may, thereupon, by an endorsement
 in writing upon the affidavit, require the sheriff of the couneliro,
 ty where the property claimed may be, to take the same
 from the defendant, and deliver it to the plaintiff.
-ง 184. Upon tile receipt of the affidavit and notice, with
+ยง 184. Upon tile receipt of the affidavit and notice, with
 partoitirJa& written undertaking, executed by one or more sufficient
 sureties, approved by the sheriff, to the effect that they are
 bound, in double the value of the property, as stated in the
@@ -1413,12 +1413,12 @@ age and discretion, with a notice in writing, that the sureties
 will justify before a judge of'the court, or a county judge,
 at a tite and place therein named ; the time to be not less
 than four nor more than eight days thereafter.
-ง 185. If the sureties do not justify, according to the noltojUl'If,
+ยง 185. If the sureties do not justify, according to the noltojUl'If,
 tice, the sheriff shall forthwith deliver the property to the
 defendant. If they justify, he shall deliver it to the plaintiff,
 unless the defendant shall entitle himself thereto, as provided
 by the next two sections.
-ง 186. At any time before the delivery of the property to
+ยง 186. At any time before the delivery of the property to
 the plaintiff, the defendant nay require the return thereof,
 upon giving to the sheriff a written undertaking, executed
 by two or more sufficient sureties, to the effect that they are
@@ -1427,13 +1427,13 @@ affidavit of the plaintiff, for the deli-very thereof to the plaintiff,
 if such delivery be adjudged, and for the payment to
 him of such sum, as may, for any cause, be recovered against
 the defendant.
-ง 187. The defendant's sureties, upon a notice to the of not less than four, nor more than eight days, justify before a judge, in the same manner as the sure-lies.
+ยง 187. The defendant's sureties, upon a notice to the of not less than four, nor more than eight days, justify before a judge, in the same manner as the sure-lies.
 ties given by the plaintiff ; and upon such justification, the
 sheriff shall deliver the property to the defendant.
-ง 188. The qualifications of sureties, and their justification, shall be as awe prescribed by sections one hundred and sixty- nine and one hundred and seventy, in respect to bail upon an order of arrest.
-ง 189. If the property or any part thereof be concealed in a building or enclosure, the sheriff shall publicly demand delivery. If it be not delivered, he shall cause the build- ing or enclosure to be broken open, and take the property into his possession ; and if necessary, he may call to his aid
+ยง 188. The qualifications of sureties, and their justification, shall be as awe prescribed by sections one hundred and sixty- nine and one hundred and seventy, in respect to bail upon an order of arrest.
+ยง 189. If the property or any part thereof be concealed in a building or enclosure, the sheriff shall publicly demand delivery. If it be not delivered, he shall cause the build- ing or enclosure to be broken open, and take the property into his possession ; and if necessary, he may call to his aid
 the power of his county.
-ง 190. When the sheriff shall hare taken property, as in this chapter provided, he shall ke p it in a secure place, and deliver it to the party entitled thereto, upon receiving his
+ยง 190. When the sheriff shall hare taken property, as in this chapter provided, he shall ke p it in a secure place, and deliver it to the party entitled thereto, upon receiving his
 lawful fees for taking, and his necessary expenses for keeping,
 the same.
 CHAPTER III.
@@ -1446,9 +1446,9 @@ SECTION 191. Writ of injunction abolished, anti order substituted.
 19. Order to shew cause.
 197. Security upon injunction to suspend business of corporation.
 198, 199. Motion to vacate or modify injunction.
-ง 191. The writ of injunction as a provisional remedy is abolished ; and anl injunction, by order, is. substituted there- for. The order may be mate by the court in which the ac- tion is brought, or by a judge thereof, or by a county judge in the cases provided in the next section ; and when made by
+ยง 191. The writ of injunction as a provisional remedy is abolished ; and anl injunction, by order, is. substituted there- for. The order may be mate by the court in which the ac- tion is brought, or by a judge thereof, or by a county judge in the cases provided in the next section ; and when made by
 a judge may be enforced as the order of the court.
-ง 192. Where it shall appear by the complaint, that the plaintiff is entitled to the relief demanded, and such relief, or any part thereof, consists in restraining the commission or continuance of some act of the defendant, the coinmission or
+ยง 192. Where it shall appear by the complaint, that the plaintiff is entitled to the relief demanded, and such relief, or any part thereof, consists in restraining the commission or continuance of some act of the defendant, the coinmission or
 continuance of which, during the litigation, would produce
 great or irreparable injury to the plaintiff; or where, during
 the litigation, it shall appear that the defendant is doing,
@@ -1456,15 +1456,15 @@ or threatens, or is about to do, some act in violatiof of the
 plaintiff's rights, respecting the subject of the action, and
 tending to render the judgment ineffectual, a temporary injunction
 ma- be granted, to restrain such act.
-ง 193. Thie ea cintijounn, ctoi•or. na tm aanyy bteim ger anaftetedr wata rtdhse, tibmefeo roef jcuodrng--
+ยง 193. Thie ea cintijounn, ctoiย•or. na tm aanyy bteim ger anaftetedr wata rtdhse, tibmefeo roef jcuodrng--
 ment, upon its appearing satisfactorily to the judge by the affidavit
 of the plaintiff, or of any other person, that sufficient
 grounds exist therefor. A copy of the affidavit must be served
 with the injunction.
-ง 194. An injunction shall not be allowed, after the de- fendant shall have answered, unless upon notice, or upon an
+ยง 194. An injunction shall not be allowed, after the de- fendant shall have answered, unless upon notice, or upon an
 orler to show cause ; but in such case, the defendant may be restrained, until the decision of the judge, granting or
 refusing the injunction.
-ง 195. Where no provision is made by statute, as to sojunction
+ยง 195. Where no provision is made by statute, as to sojunction
 curity upon an injunction, the judge shall require a written
 undertaking, on the part of the plaintit, with or without
 sureties, to the effect that the plaintiff will pay to the party
@@ -1473,12 +1473,12 @@ as he may sustain by reason of the injunction, if the
 court shall finally decide that the plaintiff was not entitled
 thereto, The damages may be ascertained by a reference,
 or otherwise, as the court shall direct.
-ง 196. If the judge deem it proper that the defendant, or any of several detendants, should be beard before granting
+ยง 196. If the judge deem it proper that the defendant, or any of several detendants, should be beard before granting
 the injunction, he may, by an order, require cause to be
 shown, at a specified time and place, why the injunction
 should not be granted; and lie may in the mean time restrain
 the defendant.
-ง 197. An injunction to suspend the general and ordinary
+ยง 197. An injunction to suspend the general and ordinary
 business of a corporation, shallnot be grantedI except by the
 orcourt or a judge thereof. Nor shall it be granted, without
 douf'eth neo tice of the application therefor, to the proper officers corporation, unless the plaintiff shall give a written
@@ -1490,21 +1490,21 @@ reason of the injunction, if the court shall finally decide that
 the plaintiff was not entitled thereto. The damages may be
 ascertained by a reference or otherwise, as the court shall
 direct.
-ง 198. If the injunction be granted by a jud e of the court
+ยง 198. If the injunction be granted by a jud e of the court
 toirm bey bae fcooreu nthtye tjruiadl,g em, awyi tahpopulty ,n outpiocen, ntohtei ced,c eton dthaen tj,u adtg ea noyf
 the court in which the action is brought, to vacate or modify
 the same. The application maybe made upon the complaint
 and the affidavits on which the injunction was granted,
 or rpon affidavits on the part of the defendant, with or
 without the answer.
-ง 199. If the application be made upo.n .atf fidav.its .on theAoffnl part of the defendant, but not otherwise, the plaintiff may
+ยง 199. If the application be made upo.n .atf fidav.its .on theAoffnl part of the defendant, but not otherwise, the plaintiff may
 oppose the same by affidavits or other proofs, in addition to
 those on which the injunction was granted.
 CHAPTER IV.
 OTHER PROVISIONAL REMEDIES.
 SEcI ION 200.' Powers of court, as to receivers, deposit of money, &c., In
 court, and other provisional remedies.
-ง 200. Until the legislature shall otherwise provide, the court may appoint receivers, and direct the deposit of money or other thing in court, and grant the other provisional reme- (lies now existing, according to the present practice,'except as otherwise provided in this act.
+ยง 200. Until the legislature shall otherwise provide, the court may appoint receivers, and direct the deposit of money or other thing in court, and grant the other provisional reme- (lies now existing, according to the present practice,'except as otherwise provided in this act.
 TITLE VIII.
 OF TIlE TRIAL AND JUDGMENT IN CIVIL ACTIONS.
 CIlArTER I. Judgment upon failure to answer.
@@ -1517,8 +1517,8 @@ CHAPTER I.
 JUDGMENT UPON FAILURE TO ANSWER.
 SECTIon 201. Judgment, what.
 202. Judgment, on failure of defendant to answer.
-ง 201. A judgment is the final determination of the rights of the parties in the action. 
-ง 202. Judgment may be had, if the defendant fail toJudgment
+ยง 201. A judgment is the final determination of the rights of the parties in the action. 
+ยง 202. Judgment may be had, if the defendant fail toJudgment
 answer the complaint, as follows: 1. In an actibn arisin on contract, for Ihe recovery ofanttonmoney
 only, tile plaintifl may file with the clerk the sum- mons and complaint, with proof of service, and that no
 answer has been received. The cleric shall thereupon enter
@@ -1550,45 +1550,45 @@ ordered.
 210. All issues to be tried before a single judge.
 211. Either psarty may give notice of trial; note of issue.
 212. Order of disposing of issues on tile calendar.
-ง 203. Issues arise upon .-the pleadings, when a fact or
+ยง 203. Issues arise upon .-the pleadings, when a fact or
 conclusion of law is maintained by the one party and controverted
 by the oier. They are of two kinds:
 1. Of law; and
 2. Of fact.
-ง 204. An issue of law arises,
+ยง 204. An issue of law arises,
 1. Upon a demurrer to the complaint: or
 2. Upon an allegation of fact in a pleading, by the one
 party, the truth of which is not controverted by the other.
-ง 205. An issue of fhct arises,
+ยง 205. An issue of fhct arises,
 1. Upon a material allegation of the complaint controverted
 by the answer: or,
 2. Upon new matter in the answer controverted by the
 reply: or,
 3. Upon new matter in the reply.
-ง 206. Issues both of law and of fact may arise upon the pleadings in the same action. In such case, the issues of
+ยง 206. Issues both of law and of fact may arise upon the pleadings in the same action. In such case, the issues of
 law must be first tried, unless the court otherwise direct.
-ง 207. A trial is the judicial examination of the issues
+ยง 207. A trial is the judicial examination of the issues
 between the parties, whether they be issues of law or of fact.
-ง 208. Whenever, in an action for the recovery of money
+ยง 208. Whenever, in an action for the recovery of money
 only or of specific real or personal property, there shall be
 an issue of fact, it must be tried by a jury, unless a jury trial
 be waived, as provided in section 221, or a reference be or-
 dered, as provided in sections 225 and 226.
-ง 209. Every other issue is triable by the court, which,
+ยง 209. Every other issue is triable by the court, which,
 however, may order th whole issue, or any specific question
 of fact involved therei li to be tried by a jury; or may refer
 it, as provided in sections 225 and 226.
-ง 210. All issues, whether of law or fact, triable by a jury
+ยง 210. All issues, whether of law or fact, triable by a jury
 abreod r by the court, shall be tried before a single judge. Issues
 in the supreme court shall be tried at the circuit courts.
-ง 211. At any time after issue, and at least ten days beve
+ยง 211. At any time after issue, and at least ten days beve
 fore the court, either party may give notice of trial. The pt ving the notice shall furnish the clerk, at least four
 days before the court, with a note of the issue, containing
 the title of the action, the names of the attorneys, and the
 time when the last pleading was served ; and the clerk shall
 thereupon enter the cause upon the calendar, according to the
 date of the issue.
-ง 212. The issues on the calendar shall be disposed of in the following order ; un"le' ss,• for the conveniece o"f pa•r ties, or the despatch of business, the court shall otherwise direct: 1. Issues of fact, to be tried by a jury 2. Issues of fact, to be tried by the court;
+ยง 212. The issues on the calendar shall be disposed of in the following order ; un"le' ss,ย• for the conveniece o"f paย•r ties, or the despatch of business, the court shall otherwise direct: 1. Issues of fact, to be tried by a jury 2. Issues of fact, to be tried by the court;
 3. Issues of law.
 CHAPTER III.
 TRIAL BY JURY.
@@ -1601,22 +1601,22 @@ when court may direct special lnding.
 218. Jury to assess damages and when.
 219. Entry of the verdict.
 220. Judgment to be given immediately unless, &c.
-ง 213. Either pa•r ty,, 'gD i*v ing/ .the notice may bring the issue to trial, and in the absence ,of the adverse party, unless the court, for good cause, otherwise direct, may proceed with his case, and take a dismissal of the complaint, or a verdict or
+ยง 213. Either paย•r ty,, 'gD i*v ing/ .the notice may bring the issue to trial, and in the absence ,of the adverse party, unless the court, for good cause, otherwise direct, may proceed with his case, and take a dismissal of the complaint, or a verdict or
 judgment, as the case may require. 
-ง 214. The plaintiff shall furnish the court With a copy Ofrupyr the summons and pleadings, with the oier of the defendant, if an), shall have been inade. 
-ง 215. The verdict of a jury is either gen'eral or special. A general verdict, is that by wich they pronounce generally upon all or any of the issues, either in favor of tile plaintiffed.
+ยง 214. The plaintiff shall furnish the court With a copy Ofrupyr the summons and pleadings, with the oier of the defendant, if an), shall have been inade. 
+ยง 215. The verdict of a jury is either gen'eral or special. A general verdict, is that by wich they pronounce generally upon all or any of the issues, either in favor of tile plaintiffed.
 or defendant. A special verdict is th'at by which the jury
 find the facts only, leaving the jugment to the court.
-ง 216. In every action for the recovery of money only, or . .. . " • specific real or personal property, the jury, in their discretion, may render a general or special verdict. In all other caseesr,d the court may direct the jury to find a special verdict in writing, upon all or any of the issues ; or may instruct them), if they render a general verdict, to find upon particular ques- tions of fact, to be stated in writing, and may direct a written
+ยง 216. In every action for the recovery of money only, or . .. . " ย• specific real or personal property, the jury, in their discretion, may render a general or special verdict. In all other caseesr,d the court may direct the jury to find a special verdict in writing, upon all or any of the issues ; or may instruct them), if they render a general verdict, to find upon particular ques- tions of fact, to be stated in writing, and may direct a written
 finding thereon. The special verdict or fin4ing shall be filed
 with the clerk, and entered upo. n. th..e minutes. . 
-ง 217. Where a special finding of facts shall be inconsls- tent with the general verdict. the former shall control the I and the court shall give judgment accordingly. 
-ง 218. When a verdict shall be found for the plaintiff, in an action for the recovery of money only, the jury shall also assess the amount of the recovery.
-ง 219. Upon receiving a verdict, the court shall direct an made, specifying tile time and place of the trial,
+ยง 217. Where a special finding of facts shall be inconsls- tent with the general verdict. the former shall control the I and the court shall give judgment accordingly. 
+ยง 218. When a verdict shall be found for the plaintiff, in an action for the recovery of money only, the jury shall also assess the amount of the recovery.
+ยง 219. Upon receiving a verdict, the court shall direct an made, specifying tile time and place of the trial,
 the names of the jurors and witnesses, the verdict, and either
 the judgment to be rendered thereon, or an order that the
 case be reserved for argument, or further consideration.
-ง 220. Judgment shall be entered by the clerk, in conform- t o ff u ' l y ,ul s ity tQ the verdict, after the expiration of four' days, unless
+ยง 220. Judgment shall be entered by the clerk, in conform- t o ff u ' l y ,ul s ity tQ the verdict, after the expiration of four' days, unless
 tie court order the case to be reserved for argument or further
 consideration.
 CHAPTER IV.
@@ -1625,19 +1625,19 @@ SECTION 221. Trial by jury how waived.
 222. On trial by court, judgment to be given in twenty days.
 izl. Exceptions, &c , how taken.
 U24. On judgment upon issue of law, how to proceed.
-ง 221. The trial by jury may be waived by the several
+ยง 221. The trial by jury may be waived by the several
 parties, to an issue of fact in the manner following
 1. By failing to appear at the tri];
 2. By written consent, in person or by attorney, filed with
 the clerk ;
 3. By oral consent in open court, entered in the minutes.
-ง 222. Upon a trial of a question of fact by the court, its
+ยง 222. Upon a trial of a question of fact by the court, its
 decciissiioon shall be given in writng, and filed wvith the clerk,
 within t-wenty days after the court at which the trial took
 place. In giving the decision, the facts found shall be first
 stated, and then the conclusion of law upon them. Judgment
 upon the decision shall be entered accordingly.
-ง 223. Either party may except to a 'decisiono n a matter
+ยง 223. Either party may except to a 'decisiono n a matter
 of law arising upon such trial, within ten days after notice
 thereof, in the same manner, and with the same effect, as
 upon a trial by jury. And either party desiring a review
@@ -1646,7 +1646,7 @@ of fact or of law, may at any time within ten (lays after
 notice of the judgment, make a case containing so much of
 the evidence as may be material to the question to be raised.
 The case shall be settled according to the existing practice.
-ง 224. On a judgtment for the plaintiff upon an issue of Wlw the plaintitt may proceed in the same manner as upon
+ยง 224. On a judgtment for the plaintiff upon an issue of Wlw the plaintitt may proceed in the same manner as upon
 the failure of the deendant to answer, as prescribed by. section 202. If judgment be for the defendant, upon an issue
 ot law, and the taking of an account or the proof of any
 fact be necessary to enable the court to complete the judgment,
@@ -1658,8 +1658,8 @@ SECTION 225. Reference of all issues by consent.
 227. Report to stanl as decision of the court upon a trial.
 228. Referees, how chosen out of the city of New-York.
 229. How chosen in the city of New-York.
-ง 225. All or any of the issues in the action, whether of fact or of law, or both, may be referred, upon the written consent of the parties.
-ง 226. Where the parties do not consen_t 3- . the court m. ay- the application of either,- or of its own motion, direct a reference in the following cases: 1. Where the trial of an issue of fact shall require the examination
+ยง 225. All or any of the issues in the action, whether of fact or of law, or both, may be referred, upon the written consent of the parties.
+ยง 226. Where the parties do not consen_t 3- . the court m. ay- the application of either,- or of its own motion, direct a reference in the following cases: 1. Where the trial of an issue of fact shall require the examination
 of a long account on either side ; in which case,
 the referees may be directed to hear and decide the whole
 issue, or to report upon any specific question of fact involved
@@ -1670,12 +1670,12 @@ a judgment or order into efflct ; or,
 3. Where a question of fact, other than upon the pleadings,
 shall arise, upon motion or otherwise, in any stage of
 the action.
-ง 227. The report of the referees upon th-.e whole issue,• shall stand as the decision of the tvourt, in the same mannercisio, as if the action had been tried by the court; and their (Ic.. cision upon the matter referred, may be excepted to and re- viewed in like manner.
-ง 228. In all cases of reference, the parties may agree upon suitable person or persons, not exceeding three ; and on filing such agreement, the reference shall bp ordered accord- igly. It the parties do not agree, the court shall (except
+ยง 227. The report of the referees upon th-.e whole issue,ย• shall stand as the decision of the tvourt, in the same mannercisio, as if the action had been tried by the court; and their (Ic.. cision upon the matter referred, may be excepted to and re- viewed in like manner.
+ยง 228. In all cases of reference, the parties may agree upon suitable person or persons, not exceeding three ; and on filing such agreement, the reference shall bp ordered accord- igly. It the parties do not agree, the court shall (except
 in the city and county of New-York,) appoint one or more
 referees, not exceedinig three, who shall be free from exception,
 and reside i the county where the action is triable.
-ง 229. In th e city and county of New-York, when the par- ' • 1" • I 1 1 , ties do not otherwise agree, there shall be three referees, Who shall be free from exception and reside in that city. They shall be appointed as follows : Each party shall name one,
+ยง 229. In th e city and county of New-York, when the par- ' ย• 1" ย• I 1 1 , ties do not otherwise agree, there shall be three referees, Who shall be free from exception and reside in that city. They shall be appointed as follows : Each party shall name one,
 and these two shall name the third. If they fail to do so
 within two (lays after their own appointment, the name of
 the third referee shall be drawn by the clerk from the jury
@@ -1692,31 +1692,31 @@ SECTION 230. Judgment for or against any plaintiff or defendant.
 235. Judgment to be entered in judgment book.
 2d. Judgment roll, what to contain.
 237. Judgment to be docketed.
-ง 230. Judgment may be given, for or against one or more
+ยง 230. Judgment may be given, for or against one or more
 of several plaintiffs, and for or against one or more of several defendants, and it may determine the ultimate rights of the
 parties on each side as between themselves.
-ง 231. The relief granted to the plaintiff, if there be no
+ยง 231. The relief granted to the plaintiff, if there be no
 answtr, cannot exceed that which he shall have demanded
 in his complaint ; but in any other case, the court may grant
 him any relief consistent with the case made by the coinplaint,
 and embraced within the issue.
-ง 232. Whenever damages are recoverable, the plain.
+ยง 232. Whenever damages are recoverable, the plain.
 tiff may claim and recover, it he shew himself entitled thereto,
 any rate of damages, which he might have heretofore recovercovetable
 ed'for the same cause of action.
-ง 233. Judgment upon an issue of law or of fact, or upon
+ยง 233. Judgment upon an issue of law or of fact, or upon
 confession or upon failure to answer (except where the clerk
 direetionriS authorized to enter the same by the first subdivision of section 202, and by section 337,) shall in the first instance
 be entered upon the direction of a single judge, subject to
 review at the general term, on the demand of either party,
 as herein provided.
-ง 234. Phe clerk shall keep among the records of the
+ยง 234. Phe clerk shall keep among the records of the
 court a book for the entry of judgments, to be called the
 "judgment book."
-ง 235. The judgment shall be entered in the judgment
+ยง 235. The judgment shall be entered in the judgment
 book, and shall specify clearly the relief granted, or other
 determination of the action.
-ง 236. The clerk, immediately after entering the judgment,
+ยง 236. The clerk, immediately after entering the judgment,
 sotai,,Sathtaacllh together and file the following papers, which
 shall constitute the judgment roll.
 1. In case the complaint be not answered, the summons
@@ -1727,7 +1727,7 @@ of the judgment, with any verdict or report, the offer of the
 defendant, case, exceptions, and all orders relating to a
 change of parties or in any way involving the merits, and
 necessarily affecting the judgment.
-ง 237. On filing a judgment roll upon a judgment directcases
+ยง 237. On filing a judgment roll upon a judgment directcases
 ing in whole or in part the payment of money, it may be
 docketed with the clerk of the county where it was rendered,
 and in any other county, upon filing with the clerk thereof
@@ -1750,28 +1750,28 @@ SCTcoN 238. Certain judgments may be enforced by executionq.
 245. To be returned in sixty (lays.
 2-16.E xisting laws relating to executions, continued until otherwise
 provided.
-ง 238. Writs of execution for the enforcement ofjudgments as now used, are modified in conformity to this title, and the party in whose favor judgment is given, may at any time within five years after the entry of judgment, proceed to en-yeurs.
+ยง 238. Writs of execution for the enforcement ofjudgments as now used, are modified in conformity to this title, and the party in whose favor judgment is given, may at any time within five years after the entry of judgment, proceed to en-yeurs.
 force the same as prescribed by this title.
-ง 239. After the lapse of five years from the entry ofjudg- ment, an execution may be issued only by leave of the court on motion, with nctice to the adverse party. Such leave shall not be given unless it be established by the oath of the party or other proof that the judgment or some part thereof
+ยง 239. After the lapse of five years from the entry ofjudg- ment, an execution may be issued only by leave of the court on motion, with nctice to the adverse party. Such leave shall not be given unless it be established by the oath of the party or other proof that the judgment or some part thereof
 remains unsatisfied and due.
-ง 240. Where a judg• ment req-u- ires the payvm ent of money or the delivery of real or personal property, the same may be enforced in those respects by execution as provided in this title. Where it requires the performance of any other act, a
+ยง 240. Where a judgย• ment req-u- ires the payvm ent of money or the delivery of real or personal property, the same may be enforced in those respects by execution as provided in this title. Where it requires the performance of any other act, a
 certified copy of the judgment may be served upon the party
 against whon itis given, and his obedience thereto required.
 If he refuse, he may be punished by the court as for a contempt.
-ง 241. There shall be three kinds of execution; one against the property of the judgment debtor; another against hIs per- son ; and the third for the delivery of the possession of real
+ยง 241. There shall be three kinds of execution; one against the property of the judgment debtor; another against hIs per- son ; and the third for the delivery of the possession of real
 or personal property. They shall be deemed the process of
 the court, but they need not be scaled nor subscribed, except
 as prescribed in section 244.
-ง 242. Where the execution is against the property of the judgment debtor, it may be issued to the sheriff of any coun- ty where the judgment is docketted. Where it requires the delivery of real or personal property, it must be issued to the sheriff of the county where the property, or some part thereof
+ยง 242. Where the execution is against the property of the judgment debtor, it may be issued to the sheriff of any coun- ty where the judgment is docketted. Where it requires the delivery of real or personal property, it must be issued to the sheriff of the county where the property, or some part thereof
 is situated. Executions may be issued, at the same time,
 to different counties.
-ง 243. If the action be one in which the defendant might
+ยง 243. If the action be one in which the defendant might
 have been arrested, as provided in section 154, an execution
 against the person of the judgment debtor may beissued to
 any county within the jurisdiction of the court, after the return
 of an execution against his property, unsatisfied in whole
 or in part.
-ง 244. The execution must be directed to the sheriff subexecution.
+ยง 244. The execution must be directed to the sheriff subexecution.
 scribed by the party issuing it or his attorney, and must intelligibly
 refer to the judgment ; stating the court, the county
 where the judgment roll is filed, the names of the parties,
@@ -1793,10 +1793,10 @@ or be discharged according to law;
 property, it shall require the sheriff to deliver the possession
 of the same (particularly describing it) to the party
 entitled thereto.
-ง 245. The sheriff shall, in all cases, return the execution
+ยง 245. The sheriff shall, in all cases, return the execution
 within sixty days after its receipt to tite clerk with whom
 the record of .Judgment is filed.
-ง 246. Until otherwise provided by the legislature, the exexecutions
+ยง 246. Until otherwise provided by the legislature, the exexecutions
 isting provisions of law relating to execotions, arid their inci- al
 dents, including the Sale anredemptmon of property. the
 powers and rights of officers, their duties thereon, and the
@@ -1816,34 +1816,34 @@ property allowed.
 255. Judge may order reference.
 2.56. May allow costs to a party or witness.
 257. Disobedience to be punished as contempt.
-ง 247. When an execution against property of the jtUdg- ment debtor, issued to'the sher;.IF of the count) where lie re- sides, or if he reside out of the state, to the sheriff of the county where the judgment roll is filed, shall be returned un- satisfied in whole or in part, the judgment creditor may ob- ain an order from a judge of the court or a county judge
+ยง 247. When an execution against property of the jtUdg- ment debtor, issued to'the sher;.IF of the count) where lie re- sides, or if he reside out of the state, to the sheriff of the county where the judgment roll is filed, shall be returned un- satisfied in whole or in part, the judgment creditor may ob- ain an order from a judge of the court or a county judge
 of the county to which the execution was issued, requiring
 the judgment debtor to appear and make discovery on oatlh,
 concerning his property, before such judge, at a time and
 place secified in the order.
-ง 248. After the iss•u ing . of execution ag.a. inst property. , any. person indebted to the jud gment debtor, may pay to tle sheriff the amount of his tlebt, or so much thereof as shall be necessary to satisfy tie execution, and the sheriff's receipt
+ยง 248. After the issย•u ing . of execution ag.a. inst property. , any. person indebted to the jud gment debtor, may pay to tle sheriff the amount of his tlebt, or so much thereof as shall be necessary to satisfy tie execution, and the sheriff's receipt
 shall be a sufficient discharge therefor.
-ง 249. Upon an aflidavit, that any person has property Of tie judgtment debtor, or is indebted to him, the judge may by an order require such person to appear at a specified time
+ยง 249. Upon an aflidavit, that any person has property Of tie judgtment debtor, or is indebted to him, the judge may by an order require such person to appear at a specified time
 and plate, ant be examined, concerning the same.
-ง 250. Witnesses may be required to appear and testify in any proceeding under this chapter in the same manner as upon the trial of the issue. 
-ง 251. If the party or witness reside in the county where time order is made, he shall be required to attend before the judge ; if in any other county, beftre a referee, as - .rov.in section 255. In such case the examination shall be taken by the referee, and certified to the judge.
-ง 252. The judge may order any property of the, ju, d., gmentv not exempt from execution, in the hands either oflpertry himself or ot any other person, or due to the judgment debt- or, to be applied towards the satisfaction of the judgment.
-ง 253. The judge may also, by order, appoint a receiver dth we itphr otpieer tyli koef the judgment debtor, in the same manner, authothreitayst,I uatIss if the appointment were made by the court, according to section 200. The judge may also, by order, forbid a transfer of the property of the judgment
+ยง 250. Witnesses may be required to appear and testify in any proceeding under this chapter in the same manner as upon the trial of the issue. 
+ยง 251. If the party or witness reside in the county where time order is made, he shall be required to attend before the judge ; if in any other county, beftre a referee, as - .rov.in section 255. In such case the examination shall be taken by the referee, and certified to the judge.
+ยง 252. The judge may order any property of the, ju, d., gmentv not exempt from execution, in the hands either oflpertry himself or ot any other person, or due to the judgment debt- or, to be applied towards the satisfaction of the judgment.
+ยง 253. The judge may also, by order, appoint a receiver dth we itphr otpieer tyli koef the judgment debtor, in the same manner, authothreitayst,I uatIss if the appointment were made by the court, according to section 200. The judge may also, by order, forbid a transfer of the property of the judgment
 debtor, and any interference therewith.
-ง 254. If it app- ear that a person so brought before the
+ยง 254. If it app- ear that a person so brought before the
 judge, claims an interest in the property of the judgment
 debtor, adverse to him, such interest shall be recoverable
 only in an action by the receiver ; but the judge may by order,
 forbid a transfer or other disposition of such interest, till a sufficient opportunity be given to the receiver to commence
 the action.
-ง 255. The judge may, in his discretion, order a reference
+ยง 255. The judge may, in his discretion, order a reference
 to a referee agreed upon or appointed as prescribed in sections
 228 and 229, to report the evidence or the facts.
-ง 256. The judge may allow to the judgment creditor or
+ยง 256. The judge may allow to the judgment creditor or
 to any party or witness so examinedl his travelling expenses,
 antia fixed sum in addition, not exceeding thirty dollars as
 costs.
-ง 257. If any party or witness disobey an order of the
+ยง 257. If any party or witness disobey an order of the
 judge, duly served, such party or witness may be punished
 by the judge, as for a contempt.
 TITLE X.
@@ -1861,7 +1861,7 @@ SECTIoN 258. Fee bill abolished. Specific allowances given, termed costs.
 2GS.. Referee's fees.
 269. Postponement of trial, amount payable thereon.
 270. No costs on motion.
-ง 258. Ail statutes establishing ti regeilating the costs or
+ยง 258. Ail statutes establishing ti regeilating the costs or
 fees of attoiaeys, solicitors and counsel in civil actions, and
 all existing rules and provisions of law, restricting or con- trolling the right of a party to agree with an attorney, solicitor
 or counsel, for his compensation, are repettled ; and hereafter
@@ -1870,7 +1870,7 @@ agreement, express or implied, of the parties. But there
 may be allowel to the prevailing party, upon time judgment,
 certain sums by way of indennity, for his expenses in the
 action; which allowances are in this act termed costs.
-ง 259. Costs shall be allowed of course to tIhe plaintiff
+ยง 259. Costs shall be allowed of course to tIhe plaintiff
 upon a recovery, in the following cases
 1. In an action for the recovery of real property, or when
 a claim of title to real property arises on the pleadings, or is
@@ -1880,10 +1880,10 @@ certified by the court to have come in question at the trial.
 court of a justice of the peace has no jurisdiction.
 4. In an action for the recovery of money, where the
 plaintiff shall recover fifty dollars or more. 
-ง 260. Costs shall be allowed of course to the defendant, in the actions mentioned in the last section, unless the plaintiff
+ยง 260. Costs shall be allowed of course to the defendant, in the actions mentioned in the last section, unless the plaintiff
 be entitled to costs therein.
-ง 261. In other actions, costs may be allowed or not, in the discretion of the court.
-ง 262. When allowed, costs shall be as follows: 1. To the plaintiff, for all proceedings before notice of tri- al (including judgment when entered,)
+ยง 261. In other actions, costs may be allowed or not, in the discretion of the court.
+ยง 262. When allowed, costs shall be as follows: 1. To the plaintiff, for all proceedings before notice of tri- al (including judgment when entered,)
 In an action where judgment upon failure to answer, may
 be had without application to the court, seven dollars; in an
 action where judgment can only be taken on aiplication to
@@ -1909,20 +1909,20 @@ argument, twenty dollars; for argument, fifty dollars:
 7. To either party, for every circuit or term, at which the
 cause is necessarily on the calendar, and not reached or postponed,
 excluding that at which it is tried or heard, ten dolars.
-ง 263. In addition to these allowances, if the action be for the recovery of money, or of real or personal property prpety and a trial has been had, the court may in its discretion, in difficult or extraordinary cases, make an allowance of not more than ten per cent. on the recovery or claim, as in the next section prescribed, for any amount not exceeding five
+ยง 263. In addition to these allowances, if the action be for the recovery of money, or of real or personal property prpety and a trial has been had, the court may in its discretion, in difficult or extraordinary cases, make an allowance of not more than ten per cent. on the recovery or claim, as in the next section prescribed, for any amount not exceeding five
 hundred dollars; and not more than five per cent. for any addlitional
 timount.
-ง 264. These rates shall be estimated as follows: 1. If the plaintiff recover judgment, it shall be upon the amount of money, or the value of the property, recovered.
+ยง 264. These rates shall be estimated as follows: 1. If the plaintiff recover judgment, it shall be upon the amount of money, or the value of the property, recovered.
 2. If the defendant recover judgment, it shall be upon the
 amount of money, or the value of the property, claimed by
 the plaintiff.
 Where the action is for real, or personal property, the
 value thereof must be determined by the jury, court or referees,
 by whom the action is tried.
-ง 265. When the judgment is for the recovery of money, interest from the time of the verdict or report, until judgment
+ยง 265. When the judgment is for the recovery of money, interest from the time of the verdict or report, until judgment
 be finally entered, shall be computed by the clerk, and added
 to the costs of the party entitled thereto.
-ง 266. The clerk shall insert in the entry of judgment on
+ยง 266. The clerk shall insert in the entry of judgment on
 the application of the prevailing party, upon two days' notice
 to the other, the sum of the charoe- for costs, as above
 provided, and the necessary disburements, allowed by law,
@@ -1930,7 +1930,7 @@ including the compensation of referees, and the expense of
 printing the papers uponi any appeal. The disbursements
 shall be stated in detail, and verified by affidavit, which shall
 be filed.
-ง 267. The clerk shall receive,
+ยง 267. The clerk shall receive,
 On every trial, from the party bringing it on, one dollar;
 On enteriig judgment, one (1dollar.
 He shall receive no other fee, for any service whatever in
@@ -1943,15 +1943,15 @@ for the use of the city of New-York, to the credit of
 the fund for the payment of those clerks, one dollar for the
 entry of every judgment, in place of the fees now charged
 for services of the judges of those courts, at chambers.
-ง 268. The fees of referees shall be three dollars to each,
+ยง 268. The fees of referees shall be three dollars to each,
 for every day spent in the business of the reference; but
 the parties may agree in writing upon any other rate of compensation.
-ง 269. When an application shall be made to a court or
+ยง 269. When an application shall be made to a court or
 referees, t6 postpon a trial, the payment to ihe adverse party
 of a sum not exceeding ten dollars, besides the fees of witnesses,
 may be imposed, as the condition of granting the
 postponement.
-ง 270. No costs shall be allowed on a motion, except the
+ยง 270. No costs shall be allowed on a motion, except the
 costs of resisting, in the discretion of the court, not exceedindicr.,
 ing ten dollars.
 TITLE XI.
@@ -1978,26 +1978,26 @@ on the appeal.
 279. Certain appeals to be within two years.
 '280. Other appeals within ten days.
 281. Appellant to furnish papers to the court.
-ง 271. Writs of error and appeals in civil actions, as they have heretofore existed, are abolished, and the ojily mode Ofuperdas
+ยง 271. Writs of error and appeals in civil actions, as they have heretofore existed, are abolished, and the ojily mode Ofuperdas
 revieving a judgment, or order, in a civil action, shall be that prescribed by this title. 
-ง 272. An order, made out of court, withou• t • notice to .the adverse party, may be vacated or modified, without notice, by the judgep who made it, or may be vacated or modified on notice, in the manner in which other motions are made.
-ง 273 Any party aggrievud may appeal in the cases pres- cribed in this title.
-ง 274. The party appealing, shall be known as the appel- lant, and the adverse party as the rspondent. But the title of the action shall not be changed, in consequence of the appeal.
-ง 275. An appeal must be made by the service of a notice in writing, on the adverse party, and on the clerk, with whom the judgment or order appealed from is entered, stating
+ยง 272. An order, made out of court, withouย• t ย• notice to .the adverse party, may be vacated or modified, without notice, by the judgep who made it, or may be vacated or modified on notice, in the manner in which other motions are made.
+ยง 273 Any party aggrievud may appeal in the cases pres- cribed in this title.
+ยง 274. The party appealing, shall be known as the appel- lant, and the adverse party as the rspondent. But the title of the action shall not be changed, in consequence of the appeal.
+ยง 275. An appeal must be made by the service of a notice in writing, on the adverse party, and on the clerk, with whom the judgment or order appealed from is entered, stating
 the appeal from the same or some specified part thereof.
-ง 276. Upon the appeal,. . a.llo..w ed by the second and thi.rd chapters of this title, being perfected, the clerk with whom the notice of appeal is filed, shall, at the expense of the appellant, forthwith transmit to the appellate court a certified
+ยง 276. Upon the appeal,. . a.llo..w ed by the second and thi.rd chapters of this title, being perfected, the clerk with whom the notice of appeal is filed, shall, at the expense of the appellant, forthwith transmit to the appellate court a certified
 copy of the notice of appeal and of the judgment roll. 
-ง 277. Upon an• ap" ip eal from a judO gm" ent, the court may- review any intermediate order, involving the lnerits, ante necessarily affecting the judgment. ง 278. Upon an appeal from a judgment or order, the appellate court may reverse, affirm or modify the judgment
+ยง 277. Upon anย• ap" ip eal from a judO gm" ent, the court may- review any intermediate order, involving the lnerits, ante necessarily affecting the judgment. ยง 278. Upon an appeal from a judgment or order, the appellate court may reverse, affirm or modify the judgment
 or order ippealed from, in the respect mentioned in the
 notice of appeal, and may, if necessary or proper, order a
 new trial.
-ง 279. The appeal allowed by the second and third chap-
+ยง 279. The appeal allowed by the second and third chap-
 " ters of-this title, must be taken within two years after the
 judgment.
-ง 280. The appeal allowed by the fourth chapter of this title, must be taken, within ten days, after written notice of
+ยง 280. The appeal allowed by the fourth chapter of this title, must be taken, within ten days, after written notice of
 the judgment or order shall have been given to the party app
 eal ing.
-ง 281. The appellant shall furnish the court with copies,
+ยง 281. The appellant shall furnish the court with copies,
 Ioff hthe e fanilo ttoic ed oo fs oa,p ptehael , apapneda l osfh athlle boer ddeirs moirs sjeudd, gumnelensts rothlle.
 court shall otherwise direct.
 CHAPTER II.
@@ -2013,9 +2013,9 @@ SECTION 282. Appeal in what cases taken.
 290. Security to be approved, anti to justiry.
 291. Perishable property may be sol.
 22. Undertaking to be tiled.
-ง 282. An appeal may be taken to the court of appeals, in
+ยง 282. An appeal may be taken to the court of appeals, in
 the cases mentioned in section eleven.
-ง 283. To render an appeal effectual for any purpose, a
+ยง 283. To render an appeal effectual for any purpose, a
 written undertaking must be executetd, on the part of the
 appellant, by at least two sureties, to the effect, that the
 nemonap-appellant will pay all costs and damages, which may be
@@ -2024,7 +2024,7 @@ and fifty dollars ; or that sum must be deposited with
 the clerk, with whom the judgment or order was entered, to
 abide the event of the appeal. Such undertaking or deposit
 may be waived by a written consent on the part of the respondent.
-ง 284. If the appeal be from a judgment directing the pay."
+ยง 284. If the appeal be from a judgment directing the pay."
 mmeenntt , ouf'n lmesosn eay ,w irt itstheanl l unnodte rsttaakyi nthge bee xeexceuctuiotend of the judg- on the part
 of the appellant, by at least two sureties, to the effbct, that
 if the judgment appealed from, or any part thereof, be'
@@ -2033,7 +2033,7 @@ paid by the judgment, or the part of such amount as to
 which the judgment shall he affirmed, if it be affirmet only
 in part, and al dalnages which shall be awarded against the
 appellant, upon the appeal.
-ง 285. If the judgutent appealed from, direct the assign- mlOdie of doumnso personal ro y the
+ยง 285. If the judgutent appealed from, direct the assign- mlOdie of doumnso personal ro y the
 m u rdelivery ofdcmns or pesnlpopry h execution
 of the judgment shall not be stayed by appeal, unless things required to be assigned or delivered, be brought into court, or placed in the custody of such oflicer or receiver
 as the court shall appoint, or unless an undertaking be entered
@@ -2041,8 +2041,8 @@ into, on the part of the appellant, by at least two sureties,
 and in such amount as the court shall uirect, to the effect
 that the appellant will obey the order of the appellate
 court, upon the appeal.
-ง 286. If the judgment appealed from, direct the execu-of a conveyance or other instrument, the execution o the judgment shall not be stayed by.the appeal, until the in- shall have been executed and (leposited with the,,,,clerk with whom the judgment is entered, to abide the judg- ment of the appellate court.
-ง 287. If the judgment appealed from, direct the sale or delivery of possession of real property, the execution of the same shall not be stayed, unless a written undertaking beirtodr executed on the part of' the appellant, witb two sureties, to  the effect that during the possession of such property by appellant, he will not commit, or suffer to be committed, any waste thereon, and that if the judgment be aflirmned, lie will
+ยง 286. If the judgment appealed from, direct the execu-of a conveyance or other instrument, the execution o the judgment shall not be stayed by.the appeal, until the in- shall have been executed and (leposited with the,,,,clerk with whom the judgment is entered, to abide the judg- ment of the appellate court.
+ยง 287. If the judgment appealed from, direct the sale or delivery of possession of real property, the execution of the same shall not be stayed, unless a written undertaking beirtodr executed on the part of' the appellant, witb two sureties, to  the effect that during the possession of such property by appellant, he will not commit, or suffer to be committed, any waste thereon, and that if the judgment be aflirmned, lie will
 pay the value of the use and occupation of the property, froin
 the time of the appeal until the delivery of possession thereof,
 pursuant to the judgment, not exceeding a sum to be fixed
@@ -2051,12 +2051,12 @@ and which shall be specified in the undertaking. When the
 judgment is for the sale of mortgaged premises, and the payment
 of a deficiency arising upon the sale, the undertaking
 shall also piovide for the payment of such deficiency.
-ง 288. Whenever an appeal shall be perfected, as provi- ded by sections 284, 285, 286 and 287, it shall stay .dl fur. ther proceedings in the court below, upon the judgment appealed
+ยง 288. Whenever an appeal shall be perfected, as provi- ded by sections 284, 285, 286 and 287, it shall stay .dl fur. ther proceedings in the court below, upon the judgment appealed
 from, or upon the matter embraced therein ; but the
 court below may proceed, upon any other matter included in
 the action, and not affected by the judgment appealed from.
-ง 289. The undertakings prescribed by sections 283, 284, ,,i • • I"ll| 285, and 287, may be in one instrument or several, at the Op- tion of the appellant. 
-ง 290. An undertaking upon an appeal shall be of no ef- feet, unless it be approved in the first instance by a judge O the court below, or a county judge. The respondent maysaretics.
+ยง 289. The undertakings prescribed by sections 283, 284, ,,i ย• ย• I"ll| 285, and 287, may be in one instrument or several, at the Op- tion of the appellant. 
+ยง 290. An undertaking upon an appeal shall be of no ef- feet, unless it be approved in the first instance by a judge O the court below, or a county judge. The respondent maysaretics.
 however, except to the sufficiency of the sureties, within ten
 (lays after notice of' the appeal ; and uiless they, or other
 sureties justify, before a judge of the court below, or a county
@@ -2066,7 +2066,7 @@ the appeal shall be regarded as if no undertaking had
 been given. The justification shall be upon a notice of not
 less than five lays. The sureties must have the same quali-.
 fications as bail, pursuant to section 169.
-ง 291. In the cases not provided for in sections 284) 285,
+ยง 291. In the cases not provided for in sections 284) 285,
 22 86, 287 and 288, the perfecting of an appeal, by giving; the
 undertaking mentioned in section 283, shall stay proceedings
 in the court below, upon the judgment appealed from, except,
@@ -2074,7 +2074,7 @@ that where it directs the sale of perishable property,
 the court below may order the property to be sold, and the
 proceeds thereof to be deposited or invested, to abide the
 judgment of the appellate court.
-ง 292. The undertaking must be filed with the clerk, with
+ยง 292. The undertaking must be filed with the clerk, with
 whom the judgment or order appealed from was entered.
 CHAPTER III.
 APPEALS TO THE SUPRI.ME, COURT FROM AN INFERIOR COURT.
@@ -2082,21 +2082,21 @@ SECTION 293. Appeal, In what cases.
 294. Security to be given as on appeal to courls of appeals.
 293. Where heard.
 296. Papers, by whom furnished.
-ง 293. An appeal may be taken to the supreme court,
+ยง 293. An appeal may be taken to the supreme court,
 from the judgment rendered by a county court, or by the
 mayors' court of either of the cities of Albany, Hudson,
 Troy and Rochester, or by the recorders' court of either of
 the cities of Buffalo and Utica.
-ง 294. Security must be given upon such appeld, in the
+ยง 294. Security must be given upon such appeld, in the
 same manner, and to the same extent, as upon in appeal to
 the court of appeals.
-ง 295. Appeals in the supreme court shall be heard at a
+ยง 295. Appeals in the supreme court shall be heard at a
 general term, either in the district embracing the coulnty
 where the judgment or order appealed fromN was entered, or
 in a county adjoining that county, except that where the
 judgmetit or order was enlered in the city and county of
 New-York, the appeal shall be heard in the first district.
-ง 296. When the appeal is heard in a county other than that where the judgment roll is filed, the jlldgment upon the
+ยง 296. When the appeal is heard in a county other than that where the judgment roll is filed, the jlldgment upon the
 appeal1 shi all be certified to the clerk with wh"ilom the roll is
 judg filed, to be there entered and docketed.
 CHAPTER IV.
@@ -2108,15 +2108,15 @@ in general term; where heard, anti security required.
 298. Decision on facts at general term final,
 29. Orders in certain cases may be appealed from.
 300. Orders at chambers to be entered before appeal.
-ง 297. In the supreme court, the superior court of the city
+ยง 297. In the supreme court, the superior court of the city
 of New-York, and the court of common pleas for the city
 and county of New-York, an appeal, upon either the law or
 the fact, may be taken to the general term, from a judgment
 entered upon the direction of a single judge of the same
 -court. Security must be given upon such appeal, in the same manner as upon an appeal to the court of appeals. In the supreme court, the appeal shall be heard in the same manner
 as if it were an appeal from an inferior court.
-ง 298. Upon bseu ch appfenaal,l dtehcei sdioenci sion upon the facts shall be final, 
-ง 299. An appeal may in like m' anner," an. d with. in the same time, be taken from an order made by a single judge of the same court, and may be thereupon reviewed, in the following
+ยง 298. Upon bseu ch appfenaal,l dtehcei sdioenci sion upon the facts shall be final, 
+ยง 299. An appeal may in like m' anner," an. d with. in the same time, be taken from an order made by a single judge of the same court, and may be thereupon reviewed, in the following
 ,cases :
 1. When the order grants or refuses a provisional remedy.
 2. When it involves the merit of the action, or some part
@@ -2124,7 +2124,7 @@ thereof.
 But no appeal under this section, shall be taken, unless judge of the same court certify that in his opinion it is proper
 that the question arising on the appeal should be decided
 before the judgment.
-ง 300. The last section shall include an order made out of court upon notice ; but in such case, the order must be first *entered with the clerk. And for the purpose of an appeal, any party, affected by such order, may require it to be enter- ed with the clerk, and it shall be entered accordingly.
+ยง 300. The last section shall include an order made out of court upon notice ; but in such case, the order must be first *entered with the clerk. And for the purpose of an appeal, any party, affected by such order, may require it to be enter- ed with the clerk, and it shall be entered accordingly.
 CHAPTER V.
 APPEAL TO TIE SUPERIOR COURT OF TIlE CITY OF NEW-YORK)
 OR TO A COUNTY COURT, FROM AN INFERIOR COURT.
@@ -2152,7 +2152,7 @@ courts.
 321. Costs to whom awarded.
 322. Restitution may be ordered.
 323. Costs set off in certain cases. 3'24. What costs allowed. 
-ง 301. All statutes now in force, providing for the rev je Njudgents
+ยง 301. All statutes now in force, providing for the rev je Njudgents
 'of judgments in civil cases, rendered by courts of justices ofdti.
 the peace, by the marittn e court of tt he cc,i' ty of New-Yrk, by
 the assistant justice's courts in the city of New-York, by the
@@ -2161,18 +2161,18 @@ courts of the cities of Albany, Troy and Iludson, and regulating
 the practice in rclatioo" to such review, are repealed ;
 and hereafter, the only mode of reviewing such judgments
 shall be an appeal, as prescribed by this chapter.
-ง 302. When the judgment shall have been rendered by
+ยง 302. When the judgment shall have been rendered by
 tile marine court of the city of New-York, or by an assistant
 justices' court in that city, the appeal shall be to the superior
 court e1 the city of New-York ; and when rendered by an)
 of the other courts enumerated in the last section, to the
 count) court c., the county where the judgment was rendered.
-ง 303. The appellant shall, within twenty days after the
+ยง 303. The appellant shall, within twenty days after the
 judgment, make, or cause to be made, an affidavit, stating
 the substance of the testimony and proceedings before the
 court below, and the grounds upon which the appeal is
 founded.
-ง 304. A copy of the affidavit shall, within the same time,
+ยง 304. A copy of the affidavit shall, within the same time,
 be served on the respondent, if he be a resident of the city or county, or if he be not a resident, on the attorney or agent,
 if any, who appeared for him on the trial, or on the justice ;
 with a notice, stating that the appellant appeals from the
@@ -2180,73 +2180,73 @@ judgment, and that tile appeal will be heartl b)., the appelate
 court, at a time and place therein designated, either in or out
 of term ; which copy and notice shall be served at least ten
 days, before the time for hearing the appeal.
-ง 305. If the appellant desire a stay of execution of the judgmen•.t , lie shall present tie affidavit to a judge of tile ap- pellate court, or a justice of 'the supreme court, who may,
+ยง 305. If the appellant desire a stay of execution of the judgmenย•.t , lie shall present tie affidavit to a judge of tile ap- pellate court, or a justice of 'the supreme court, who may,
 thereupon, in his discretion, make an order that all liroceedings
 on the judgment be stayed, upon security being given,
 as provided 'n tie next section.
-ง 306. The security shall be a written undertaking, exebe
+ยง 306. The security shall be a written undertaking, exebe
 :
 cuted by one or more sufficient sureties, approved by the
 judge making the order, or by the court below, to the effect
 that if judgment be rendered against the appellant, and execution
 thereon be returned unsatisfied, in whole or in part,
 the sureties will pay the amount unsatisfied.
-ง 307. The delivery of the order and undertaking to tile
+ยง 307. The delivery of the order and undertaking to tile
 court below, shall stay the issuing of execution ; or if it
 have been issued, the service of a copy of the order and un- dertaking, certified by the court below, upon the officer holding
 the execution, with payment of his fees, shall stay further
 proceedings thereon.
-ง 308. Where, by reason of the death of a justice of the
+ยง 308. Where, by reason of the death of a justice of the
 peace, or his removal from the county, or any other cause,
 the order to stay and the undertaking on the appeal cannot
 be delivered to him, they shall be filed with the clerk of the
 appellate court, and notice thereof given to the respondent.
 They shall, thereupon, have the same efhect as if delivered
 to the justice.
-ง 309. When the affidavit and notice of appeal shall have been served, the respondent may supply or correct material omissions or mis'statements therein, by an allidavit on his
+ยง 309. When the affidavit and notice of appeal shall have been served, the respondent may supply or correct material omissions or mis'statements therein, by an allidavit on his
 part ; a copy of which shall be served on the attorney, if any,
 who prosecutes the appeal, or if there be none, on tie appellaIn,
 or on the attorney or agent, if any, who appeared for
 him on the trial, at least four days before the time for hearing
 the appeal.
-ง 310. The appellate court shall proceed to hear the ap- peal, at the time and place mentioned in the notice, or to awsh itchhe tchoeu rht esahrainllg apmpoa;yi nbt,e oafd j\ovuhrincehd ,a t olre aastt stuecnh doatyhse rn otitmicee sal e ourt gliwapon, ofwih'"las e day shall have been givn, and may deeide the same upon the
+ยง 310. The appellate court shall proceed to hear the ap- peal, at the time and place mentioned in the notice, or to awsh itchhe tchoeu rht esahrainllg apmpoa;yi nbt,e oafd j\ovuhrincehd ,a t olre aastt stuecnh doatyhse rn otitmicee sal e ourt gliwapon, ofwih'"las e day shall have been givn, and may deeide the same upon the
 affidavits ; or if they be contradictory or defective in material
 points, may or(Ier the court below to make a return of the
 testimony and proceedings before it, within ten days after"
 the service of the order. and affidavits, or of copies thereof. *
-ง 311. The court below shall, thereupon, within • th" e timet limited by the order, make a return to the appellate court the testimony, proceedings and ijudgment, and file the same with the order and affidavits, in the appellate court ; and may be compelled to do so by attachment. But no justice
+ยง 311. The court below shall, thereupon, within ย• th" e timet limited by the order, make a return to the appellate court the testimony, proceedings and ijudgment, and file the same with the order and affidavits, in the appellate court ; and may be compelled to do so by attachment. But no justice
 of the peace shall be bound to make a return, unless the fee
 prescribed by the last section of this chapter, be paid on
 service of the order.
-ง 312. When a justice of the peace, by whom a judgment appealed from was rendered I shall have gone out of office, be- fore a return is ordered, lie shall, nevertheless, make a re- turn, in the same manner, and with the like etiket, as if he
+ยง 312. When a justice of the peace, by whom a judgment appealed from was rendered I shall have gone out of office, be- fore a return is ordered, lie shall, nevertheless, make a re- turn, in the same manner, and with the like etiket, as if he
 were still in office.
-ง 313. If the return be defective, the appellate court may direct a further or amended return, as often as may be neces- ary, and may compel a compliance with its order, by attachment.
-ง 314. If a justice of the .p-eace, whose judgm•ebne t is appeal-ed from, shall die, become insane, or remove from the state7 appellate court may examine witnesses, on oath, to the facts and circumstances of the trial or judgment, and deter- mine the appeal, as if the facts had been returned by the
+ยง 313. If the return be defective, the appellate court may direct a further or amended return, as often as may be neces- ary, and may compel a compliance with its order, by attachment.
+ยง 314. If a justice of the .p-eace, whose judgmย•ebne t is appeal-ed from, shall die, become insane, or remove from the state7 appellate court may examine witnesses, on oath, to the facts and circumstances of the trial or judgment, and deter- mine the appeal, as if the facts had been returned by the
 justice. If lie shall have removed to another county within
 the state, thr appellate court may compel him to make the
 return, as if he were still within the county where the judgment
 was rendered.
-ง 315. If a return •b e made, the appeal may be brought to a hearing at a general term of the appelhte court, upon a notice by either party, of not less tha.n eight days. It shall
+ยง 315. If a return ย•b e made, the appeal may be brought to a hearing at a general term of the appelhte court, upon a notice by either party, of not less tha.n eight days. It shall
 be placed upon the calkrdar, and continue thereon, without
 further notice, until fially disposed of ; but if neither party
 bring it to a hearing, before the end of the second term, the
 court shall dismiss Athc appeal, unless it continue the same,
 by special order, for cause shown.
-ง 316. The app'6 al, whether heard on the affidavits or repapers
+ยง 316. The app'6 al, whether heard on the affidavits or repapers
 turn shall be heard oin the original papers ; and no copy
 thereof need be furnished for the use of the court.
-ง 317. Upon the hearing of the appeal, either upon affidahow
+ยง 317. Upon the hearing of the appeal, either upon affidahow
 vits, or upon the return, the appellate court shall give judgment
 according to the justice of the case, without regard to
 technical errors or defc-N which (to not affect the merits.
 In giving judgment, the court may either order a new trial,
 or may affirm or reverse the judgment of the court 1 elow, in
 whole or in part, and as to any or all the parties.
-ง 318. To every judgment upon an appeal, there shall be
+ยง 318. To every judgment upon an appeal, there shall be
 annexed the aflidavits or return on which it was heard, which
 shall be filed with the clerk of the court, and shall constitute
 the judgment roll.
-ง 319. If a new trial he ordered, a concise statement of the
+ยง 319. If a new trial he ordered, a concise statement of the
 reasons for such order shall be tiled with the clerk, Tile
 court below shall thereupon proceed to try the action, upon
 .the iss. ue originally joined therein, or upon amended plead- ings, in its discretion ; and for that purpose, on the application
@@ -2262,25 +2262,25 @@ to take testimony, and the trial and all subsequent
 proceedings shall be had therein and conducted in like manner
 in all respects as in an action originally commenced before
 the same justice.
-ง 320. If a new trial be ordered, on an appeal from a
+ยง 320. If a new trial be ordered, on an appeal from a
 judgment of a justice of the peace, it shall be before the same
 justice, or before any other justice in the same county, in
 the discretion of the appellate court.
-ง 321. If the judgment be affirmed, costs shall be awarded
+ยง 321. If the judgment be affirmed, costs shall be awarded
 to the respondent. If it be reversed, costs shall be awa - ded
 to the appellant, unless a new trial be ordered ; in which
 case, they shall be in the discretion of the appellate court.
 If it be affirmed in part, the costs, or such part as the court
 shall deem just may be awarded to either party.
-ง 322. If the judgment below or any part theicof be colna
+ยง 322. If the judgment below or any part theicof be colna
 hected,-tand the judgment be afterwards reversed, the appel-
 t'e court shall order the amount collected to be restored,
 with interest from the time of collection. The order may be
 obtained upon proof of the facts made at or after the hearing,
 upbn a previous notice of six days.
-ง 323. If, upon an appeal, a recovery be had by one party and costs be awarded to the other, the appellate court shad , set off the one against the other, and render judgment for the
+ยง 323. If, upon an appeal, a recovery be had by one party and costs be awarded to the other, the appellate court shad , set off the one against the other, and render judgment for the
 balance.
-ง 324. The following fees and costs, and no other, shall be allowed on the appeals mentioned in this chapter :
+ยง 324. The following fees and costs, and no other, shall be allowed on the appeals mentioned in this chapter :
 To the appellant, on reversal, if upon affidavit, ten dollars
 ; if upon a return, fifteen dollars :
 To the respondent, on aflirmance, if upon affidavit) seven
@@ -2318,16 +2318,16 @@ SUBMITTING A CONTROVERSY, WITIIOUT ACTION.
 SECTIoN 3"25. Parties may submit controversy without action.
 326. Judgment on, same as in other cases, but without costs.
 327. Judgment may be enforced, or appealed from, as in an action,
-ง 325. IVarties to a question in difference, Nvhich might be the subject of a civil action, may, without action, agree upon a case containing the facts upon which the controversy depends, and present a submission of the same, to any court which would have jurisdiction, if an action had been brought.
+ยง 325. IVarties to a question in difference, Nvhich might be the subject of a civil action, may, without action, agree upon a case containing the facts upon which the controversy depends, and present a submission of the same, to any court which would have jurisdiction, if an action had been brought.
 But it must appear by affidavit, that the controversy is real,
 and the proceeding in good faith, to determine the rights of
 the parties. The court shall thereupon hear and determine
 the case, at a general term, and render judgment thereon, as
 if an action were depending.
-ง 326. Judgment shall be entered in the judgment book, as in other cases, but without costs. The case, the submission,
+ยง 326. Judgment shall be entered in the judgment book, as in other cases, but without costs. The case, the submission,
 and a copy of the judgment shall cbnstitute the judgment
 roll.
-ง 327. The judgment may be enforced in the same manner,
+ยง 327. The judgment may be enforced in the same manner,
 as if it had been rendered in an action, and shall be subject to
 appeal in like manner.
 CHAPTER II.
@@ -2342,44 +2342,44 @@ summoned after judtg
 332. Party summoned may defend be answer.
 333. Reply and trial as in other actions.
 334. Reply so, answer to be verified
-ง 328. When a judgment shall be recovered against one or more of several persons, jointly indebted upon a contract,
+ยง 328. When a judgment shall be recovered against one or more of several persons, jointly indebted upon a contract,
 by proceedings as provided in section 115, those who were
 not originally summoned to answer the complaint, may be
 summoned to show cause why they should not be boudt by
 the judgment, in the same manner as if they had been originally
 summened.
-ง 329. In case of the death of a judgment debtor after
+ยง 329. In case of the death of a judgment debtor after
 jugfltn'nt, the personal representatives, heirs, devisees, or
 legatees of the judgment debtor, or the tenants of real pro.
 perty, owned by him and affected by the judgment, may be
 summoned to show cause, why the judgment should not be
 enforced, against tile estate of the judgment debtor in their
 hands respectively.
-ง 330. The summons, provided in the last two sections,
+ยง 330. The summons, provided in the last two sections,
 shall be subscribed by the judgment creditor, his representatives,
 or attorney ; shall describe the judgment, and require
 the person summoned, to show cause, within twenty days
 after the service of the summons; and shall be served in like
 manner as the original summons.
-ง 331. The summons shall be accompanied by an affidavit
+ยง 331. The summons shall be accompanied by an affidavit
 of the person subscribing it, that the judgment has not been
 satisfied, to his knowledge, or information and belief, and
 shall specify the alnount due thereon.
-ง 332. Upon such summons, the party summoned may
+ยง 332. Upon such summons, the party summoned may
 answer within the time specified therein, denying the judgedwefeenr
 ment, or setting up any defence which may have arisen subsequently
 ; and in addition thereto, if he be proceeded against
 according to section: 328, he may make the same defence,
 which he might have originally made to the action.
-ง 333. The party issuing the summons, may reply to the answer, and the issue thereon may be tried and judgment given, in the.same manner, as in an action. 
-ง 334. The answer and reply shall be verified in like man- ner, and be subject to the same rules, as the answer and reply in an action. 
+ยง 333. The party issuing the summons, may reply to the answer, and the issue thereon may be tried and judgment given, in the.same manner, as in an action. 
+ยง 334. The answer and reply shall be verified in like man- ner, and be subject to the same rules, as the answer and reply in an action. 
 CHAPTER III.
 CONFESSION OF JUDGMENT, WITIIOUT ACTION.
 SrCTION 335. Judgment on debt, or liability authorized.
 3G. Statement, and what it must contain.
 3M. To be filed, anti clerk to enter judgment.
-ง 335. A judgment by confession may be entered, without action, either for money due or to become due, or to secure any person, against contingent liability on behalf of the defendant, or both, in the manner prescribed by this chapter.
-ง 336. A statement in writing must be made, signed by the defendant and verified by his oath, to the following effect 1. It must state the amount, for which judgment may be
+ยง 335. A judgment by confession may be entered, without action, either for money due or to become due, or to secure any person, against contingent liability on behalf of the defendant, or both, in the manner prescribed by this chapter.
+ยง 336. A statement in writing must be made, signed by the defendant and verified by his oath, to the following effect 1. It must state the amount, for which judgment may be
 entered, anti authorise the entry of judgment therefor.
 2. If it be for money due or to become due, it must state
 concisely the facts out of which it arose, and must show that
@@ -2388,7 +2388,7 @@ the sum confessed therefor, is justly due, or to become due.
 a contingent liability, it must state concisely the facts constituting
 the liability, and must show, that the sum confessed
 therefor'does not exceed the shine.
-ง 337. The statement may be filed with a county clerk wtl*o shall endorse upon it, and enter in the judgment book. a judgmnt of the supreme court for the amount confessedJudgment.
+ยง 337. The statement may be filed with a county clerk wtl*o shall endorse upon it, and enter in the judgment book. a judgmnt of the supreme court for the amount confessedJudgment.
 with five dollars costs. The statement and affidavit vith the
 judgment endorsed, shall thereupon become the judgment
 roll.
@@ -2399,7 +2399,7 @@ SECTION 338. Defendant may serve offer to compromise anti the proceedings
 thereon.
 .139. Defendant may offer to liquidate damages conditionally.
 340. If plaintiff accept or refuse, the effect thereof. 
-ง 338. In an action arising on contract, the defendant may, at any time before trial or judgment, serve upon the plaintiff an offer in writing, to allow judgment to be taken againstmipsreo,him, for the sum, or to the effect therein specified. If tihe plaintiff accept the offer, and give notice thereof, within ten
+ยง 338. In an action arising on contract, the defendant may, at any time before trial or judgment, serve upon the plaintiff an offer in writing, to allow judgment to be taken againstmipsreo,him, for the sum, or to the effect therein specified. If tihe plaintiff accept the offer, and give notice thereof, within ten
 (lays, he may file the summons, complaint, and offer, with
 an affidavit of notice of acceptance, and the clerk shall
 thereupon enter judgment accordingly. If the notice of
@@ -2407,13 +2407,13 @@ acceptance be not qiven, the offer shall be deemed withdrawn
 and shall not be given in evidence ; and if the plaintiff fail
 to obtain a more favorable judgment, he shall pay the defendant's
 costs, from the time of the offer.
-ง 339. In an action, arising on contract, the defendant may, with his answer, serve upon the plaintiff an offer in writing,
+ยง 339. In an action, arising on contract, the defendant may, with his answer, serve upon the plaintiff an offer in writing,
 that, if he fail in his defence, the damnages be assessed at a
 specified sum ; and if the plaintiff signify his acceptance
 thereof in writing, with or before the notice of trial, and
 on the trial have a verdict, the damages shall be assessed
 accordingly.
-ง 340. If the plaintiff do not accept the offer, he shall
+ยง 340. If the plaintiff do not accept the offer, he shall
 !rovn his damages, as if it had not been made, and shalll noot
 bte permitted to give it in evidence. And if the damages
 ieAn fj a ssessed in his favor shall not exceed the sum mentioned ine
@@ -2426,7 +2426,7 @@ AD'MISSION OR INSPECTION OF WRITINGS.
 SECTIoN 341. A party may be required to admit a paper to be genuine, or
 pay expense of proving it.
 142. A party may demand inspection and copy of a paper.
-ง 341. Either party may exhibit to the other, or to his atmay
+ยง 341. Either party may exhibit to the other, or to his atmay
 torney, at any tine before the trial, any paper, material to
 bitea'the action, and request an admission in writing of its
 geientueainme ness. If the adverse palryty or his attorney fail to
@@ -2437,7 +2437,7 @@ proved or admitted on the trial, such expense, to be ascertained
 at the trial, shall be paid by the party refusing the admission;
 unless it appear to the satisfaction of the court, that
 there were good reasons for the refusal.
-ง 342. The court before which an action is pendin , or a
+ยง 342. The court before which an action is pendin , or a
 o j 1 paerJudge or justice thereof, may in their discretion, amn1u1p on
 due notice, order either party to give to the other, within a
 specified time, an inspection and copy, or permission to take
@@ -2458,22 +2458,22 @@ SECTION 343. Abolishes the action for discovery.
 34% Te tinony by a party not responsive to the Inquiries, may be
 rcbuttcd by the oath of the party calling him.
 350. Persons for whom action is brought or defended.
-ง 343. No action to obtain discovery under oath in aid of~ , e the prosecution or defence of another action, shall he allw- ed, nor shall any examination of a party be had, on behalf of
+ยง 343. No action to obtain discovery under oath in aid of~ , e the prosecution or defence of another action, shall he allw- ed, nor shall any examination of a party be had, on behalf of
 the adverse party, except in the manner prescribed by this chapter.
-ง 344. A party to an action may be examined as a witness, at the inlstance of the adverse party, or of any one of seve-, adverse parties, and for that purpose may be compelled, in the same manner, and subject to the same rules of examination,
+ยง 344. A party to an action may be examined as a witness, at the inlstance of the adverse party, or of any one of seve-, adverse parties, and for that purpose may be compelled, in the same manner, and subject to the same rules of examination,
 as any other witness, to testify, either at the trial,
 or conditionally, or upon commission.
-ง 345. The examination, instead of being had as provided the last section, may be had, at any time before the trial, at the option of the party claimingi it, before a judge of the court or a county judge, on a previous notice to the party to
+ยง 345. The examination, instead of being had as provided the last section, may be had, at any time before the trial, at the option of the party claimingi it, before a judge of the court or a county judge, on a previous notice to the party to
 be examined, and any other adverse party, of at least five
 days, unless, for good cause shown, the judge order otherwise.
 But the party to be examined, shall not be compelled to attend in any other county than that of his residence, or" -%%here he may be served wit-h a summons for his attendance.
-ง 346. The party to be examined, as in the last section may be compelletl to attend, in the same manner as witness who is to be examined conditionally; and the exami- nation shall be taken and filed in like manner, and may be
+ยง 346. The party to be examined, as in the last section may be compelletl to attend, in the same manner as witness who is to be examined conditionally; and the exami- nation shall be taken and filed in like manner, and may be
 read by either party on the trial.
-ง 347. If a party refuse to'attend and testify as in the last three sections provided, besides being punished himself as for a contempt, his complaint, answer or reply may be re-jected. 
-ง 348. The examination of the party, may be rebutted by adverse testirony. 
-ง 349. A piirty examined by an adverse party, as in this chapter provided, may be examined, on his own behalf, ing, .. respect to any matter pertinent to the issue. But if he testi- fy to any newv matter, not responsive to the enquiries put to him by the adverse party, such adverse party may offier him self as a witness on his own behalf, in respect' to the new
+ยง 347. If a party refuse to'attend and testify as in the last three sections provided, besides being punished himself as for a contempt, his complaint, answer or reply may be re-jected. 
+ยง 348. The examination of the party, may be rebutted by adverse testirony. 
+ยง 349. A piirty examined by an adverse party, as in this chapter provided, may be examined, on his own behalf, ing, .. respect to any matter pertinent to the issue. But if he testi- fy to any newv matter, not responsive to the enquiries put to him by the adverse party, such adverse party may offier him self as a witness on his own behalf, in respect' to the new
 matter, and shall be so received.
-ง 350. A person for whose immediate benefit,the action is prosecuted or defended, though not a party to the action, may -
+ยง 350. A person for whose immediate benefit,the action is prosecuted or defended, though not a party to the action, may -
 examined as a witness, in the same manner, and subject
 the same rules of examination, as if he were named as a
 party.
@@ -2484,16 +2484,16 @@ SECTION 351.1
 335541.. Witness nit obliged to attend out of his county.
 355. Proceedings to examine witness out or his county.
 356. Witness disobeying order may be punished as for contempt.
-ง 351. No person offered as a witness, shall be excluded,
+ยง 351. No person offered as a witness, shall be excluded,
 reason of his interest in the event of the actibn.
-ง 352. The last section shall notapply to a party to the acrole.
+ยง 352. The last section shall notapply to a party to the acrole.
 tion, nor to any person for whose immediate benefit it is prosecuted
 or defended, not to any assignor of a thing in action,
 assigned for the purpose of making him a witness.
-ง 353. No person residing more than one hundred miles
+ยง 353. No person residing more than one hundred miles
 thalc f~b examination, shall be obliged to attend as
 witness before any court or judge, except as provided in section 355.
-ง 354. Whenever either party desires ihe examination of
+ยง 354. Whenever either party desires ihe examination of
 witness, who shall reside more than one hundred miles from
 the place where the trial or hearing is to be had, he may apaitne
 ly to a jutge of the court for an order to examine such wilneSS.
@@ -2503,7 +2503,7 @@ examitation, at a specified time and place, before the county
 udge of the county where the examination is to be had, or
 before a justice of the peace or referee residing therein, to be'
 designated by the judge making the order.
-ง 355. A copy ol such order shall be forthwith served on
+ยง 355. A copy ol such order shall be forthwith served on
 ioaed"e rse party, and notice of the time and place of examination
 given according to the provisions of section 374.
 The examination may thereupon be taken by such county
@@ -2518,7 +2518,7 @@ produce his witnesses, and any such witness to attend in open
 court, though residing more than one hundred miles from the la.c e of trial : and after such order is made, the written deposition
 of.any witness so ordered to be produced shall not
 read.
-ง 356. If any witness served with such order, or an order for his examination out of court, disobey it, he may be pun- iqshed by the court or judge as for a contempt, andi shall be liable to all the penalties to which a witness is liable, who is duly served with process for his attendance at a court, and
+ยง 356. If any witness served with such order, or an order for his examination out of court, disobey it, he may be pun- iqshed by the court or judge as for a contempt, andi shall be liable to all the penalties to which a witness is liable, who is duly served with process for his attendance at a court, and
 neglects to attend.
 CHAPTER VIII.
 MOTIONS AND ORDERS.
@@ -2533,22 +2533,22 @@ hearing.
 364. tn actions in supreme court county judge bay act.
 365. In the absence of judge, motion may be trantferred.
 366. Time may be enlarged on affidavit.
-ง 357. Every direction of a court or judge, mad, or en- tered in writing, and not included in a judgment, is denoMi- nated an order.
-ง 358. An application for an order is a motion. 
-ง 359. All motions may be made to the court, at a speciai term, except upon appeals.ง 360. Motions may likewise be made to a judge or jus- ice out of court, except for a new trial on the merits. 
-ง 361. Motions must be made within the district in whch the action is triable, or in a county adjoining that in which q ~ ~~~ , it is triable, except that where the action is triable in the first judicial district,.the motion must be made therein. 
-ง 362. Orders may be made upon or without notice, or on an order to show cause, according to the existing practice, .. . . exept as otherwise provided in this act. No order to stayorupon proceedings for a longer time than ten days shall be granted by a judge out of court, except upon previous notice to the
+ยง 357. Every direction of a court or judge, mad, or en- tered in writing, and not included in a judgment, is denoMi- nated an order.
+ยง 358. An application for an order is a motion. 
+ยง 359. All motions may be made to the court, at a speciai term, except upon appeals.ยง 360. Motions may likewise be made to a judge or jus- ice out of court, except for a new trial on the merits. 
+ยง 361. Motions must be made within the district in whch the action is triable, or in a county adjoining that in which q ~ ~~~ , it is triable, except that where the action is triable in the first judicial district,.the motion must be made therein. 
+ยง 362. Orders may be made upon or without notice, or on an order to show cause, according to the existing practice, .. . . exept as otherwise provided in this act. No order to stayorupon proceedings for a longer time than ten days shall be granted by a judge out of court, except upon previous notice to the
 adverse party.
-ง 363. When a notice of motion is necessary, it must be served five dayss ebbrevffoodrre e tfthiheee tiimdem~eyaecsnap p pooinnteedd fforr. hth.e heari.netgl* but the court or judge may, by an order to show cause, pre- scribe a shorter time.
-ง 364. In an action in the supreme court, a county judge, in addition to the powers conferred upon him by this act, may exercise, within his county, the powers of a judge out of court, according to the existing practice, except as other-wise provided in this act. And in all cases where an order is made by a county judge, it may be reviewed in the same
+ยง 363. When a notice of motion is necessary, it must be served five dayss ebbrevffoodrre e tfthiheee tiimdem~eyaecsnap p pooinnteedd fforr. hth.e heari.netgl* but the court or judge may, by an order to show cause, pre- scribe a shorter time.
+ยง 364. In an action in the supreme court, a county judge, in addition to the powers conferred upon him by this act, may exercise, within his county, the powers of a judge out of court, according to the existing practice, except as other-wise provided in this act. And in all cases where an order is made by a county judge, it may be reviewed in the same
 manner, as if it had been mnad, by a jude of the court. 
-ง 365. When notice of a motion is given, or an order to cause is returmible, before a judge out of court, and at t' t , --he time fixed for the motion, he is absent, or unable to near
+ยง 365. When notice of a motion is given, or an order to cause is returmible, before a judge out of court, and at t' t , --he time fixed for the motion, he is absent, or unable to near
 it, the same may be transferred, by his order, (or if no order
 be made, by a notice, from either party to the other, of not
 less than five days,) to some other judge, before whom the
 motion might originally have been made, as provided in section
 361.
-ง 366. The time, within which any proceeding. in an
+ยง 366. The time, within which any proceeding. in an
 acti.on must be had, after its commeannyc ement, anti biefore
 judgment, except the time within which an appeal must be
 taken, may be enlarged, upon an aflidavit shewing grounds
@@ -2559,7 +2559,7 @@ may be disregarded.
 CHAPTER IX.
 ENTITLING AFFIDAVITS.
 SECTiot 367. Aflidavits defective entitled, valid.
-ง 367. It shall not be necessary to entitle an affidavit in
+ยง 367. It shall not be necessary to entitle an affidavit in
 th e action : but an affidavit made without a title, or with a
 defective title, shall be as valid and effectual for every purpose,
 as if it were duly entitled, if it intelligibly refer to the
@@ -2567,7 +2567,7 @@ action or proceeding in which it is made.
 CHAPTER X.
 COMPUTATION OF TIME.
 SECTION 368. Time how computed.
-ง 368. The time within which an act is to be done, as
+ยง 368. The time within which an act is to be done, as
 herein provided, shall be computed, by excluding the first
 day and including the last. If'th e last day be Sunday, it
 shall be excluded.
@@ -2585,11 +2585,11 @@ service.
 378. Where party appears by attorney, service to be on the attorney.
 379. Provisions of this chapter not to apply to process for contempt,
 &ce.
-ง 369. Notices shall be in writing; and notices anti other
+ยง 369. Notices shall be in writing; and notices anti other
 papers may be served oil the party or attorney, in the manner
 prescribed in the next three sections, where not otherwise
 provided by this act.
-ง 370. The service may be personal, by delivery, to the party or attorney on whom the service is required to be
+ยง 370. The service may be personal, by delivery, to the party or attorney on whom the service is required to be
 made, or it may be as follows:
 1. If upon an attorney, it may be made, during his absence
 from his office, by leaving the paper with his clerk therein,
@@ -2603,23 +2603,23 @@ some person of suitable age and discretion.
 at his residence, between the hours of six in the morning and
 nine in the evening, with some person of suitable age and
 discretion.
-ง 371. Service by mail may be made, where the person making the service and the person on whom it is to be made, reside in diferent places, between which there is a regular
+ยง 371. Service by mail may be made, where the person making the service and the person on whom it is to be made, reside in diferent places, between which there is a regular
 communication by mail.
-ง 372. In .:ase of service by mail, the paper must be depo- sited in the post-office, addressed to the person on whom it is
+ยง 372. In .:ase of service by mail, the paper must be depo- sited in the post-office, addressed to the person on whom it is
 to be strved, at his place of residence, and the postage paid. 
-ง 373. Where a paper is served by mail it shall be double the time required in cases of personal service
-ง 374. Notice of a motion, or other proceeding, before court or judge, when personally served, shall be given at least five (lays before the time appointed therefor, if the per-son to be served reside within fifty miles of the place where" the hearing is to be had, and for every additional fifty miles, one day shall be added to the time of notice. 
-ง 375. Where a defendant shall not have answered, ser- vice of notices or papers, in the ordinary proceedings in an action, need not be made upon him, unless lie be imprisonvd for want of bail. 
-ง 376. Where a plaintiff, or a defendant who has demurred t or answered, resides out of the state or has no attorney in the action, the service may be made on the clerk, for the party. 
-ง 377. The summons, and the several pleadings in an action, shall be filed with the clerk within ten days after the service thereof, respectively, or the adverse party, on proof the omission, shall be entitled, without notice,'to an oider from a judge that the same be filed within a time to be spe- cified in the order, or be deemed abandoned.
-ง 378. Where a part) shall have an attorney in the ac- tion, the service of papers shall be made upon the attorney, instead of the party.
-ง 379. The provisions of this chapter shall not apply to
+ยง 373. Where a paper is served by mail it shall be double the time required in cases of personal service
+ยง 374. Notice of a motion, or other proceeding, before court or judge, when personally served, shall be given at least five (lays before the time appointed therefor, if the per-son to be served reside within fifty miles of the place where" the hearing is to be had, and for every additional fifty miles, one day shall be added to the time of notice. 
+ยง 375. Where a defendant shall not have answered, ser- vice of notices or papers, in the ordinary proceedings in an action, need not be made upon him, unless lie be imprisonvd for want of bail. 
+ยง 376. Where a plaintiff, or a defendant who has demurred t or answered, resides out of the state or has no attorney in the action, the service may be made on the clerk, for the party. 
+ยง 377. The summons, and the several pleadings in an action, shall be filed with the clerk within ten days after the service thereof, respectively, or the adverse party, on proof the omission, shall be entitled, without notice,'to an oider from a judge that the same be filed within a time to be spe- cified in the order, or be deemed abandoned.
+ยง 378. Where a part) shall have an attorney in the ac- tion, the service of papers shall be made upon the attorney, instead of the party.
+ยง 379. The provisions of this chapter shall not apply to
 the service of a summons, or other process, or of any paper
 orto bring a party into contempt, 
 CHAPTER XII.
 DUTIES OF SHERIFFS AND CORONERS.
 SECTION 380. Duty of sheriffand coroner in serving or executing proccss,&C.
-ง 380. Whenever, pursuant to this act, the sheriff may be
+ยง 380. Whenever, pursuant to this act, the sheriff may be
 required to serve or execute any summons or order, or to do
 any other act, le shall be bound to do so, in like manner as
 upon process issued to him, and shall be equally liable in all respects for neglect of duty ; and if the sheriff be a party,
@@ -2629,7 +2629,7 @@ party.
 CHAPTER XIII.
 ACCOUNTABILITY OF GUARDIANS.
 SECTION 381. Guardian not to receive property until security is given.
-ง 381. No guardian, appbinted for an infant, shall be perceive
+ยง 381. No guardian, appbinted for an infant, shall be perceive
 mitted to receive property of the infant, until he shall have
 given sufficient security, approved by a judge of the court or
 a county judge, to account for antl apply the same, under
@@ -2637,7 +2637,7 @@ the direction of the court.
 CHAPTER XIV.
 POWERS OF REFEREES.
 SECTION 382. Referees authorized to administer oaths, &c.
-ง 382. Every referee, appointed pursuant to this act shall
+ยง 382. Every referee, appointed pursuant to this act shall
 have power to administer oaths, in any proceedings before
 rheimfe,r eae nd shall have generally the powers now vested in a. by law.
 CHAPTER XV.
@@ -2651,26 +2651,26 @@ SECTION 383. Definition of "real property."
 389. Rules and practice inconsistent with this act repealed.
 390. This act not to affect certain provisions.
 391. This act, when to take effect.
-ง 383. The words "real property," as used in this act, are
+ยง 383. The words "real property," as used in this act, are
 co-extensive with lands, tenenents and heredifaments.
-ง 384. The words " personal property," as u,'ed in this
+ยง 384. The words " personal property," as u,'ed in this
 act, include money, goods, chattels, things in action, and
 evidences of debts.
-ง 385. The word " property," as used in this act, includes
+ยง 385. The word " property," as used in this act, includes
 property real and personal.
-ง 386. The word " district," as used in this act, signifies judicial district, except when otherwise specified. 
-ง 387. The word " clerk,",as used :n this act, signifies the clerk of the court where the actiin is pendink, and in the supreme court, the clerk in the county mentioned in the title
+ยง 386. The word " district," as used in this act, signifies judicial district, except when otherwise specified. 
+ยง 387. The word " clerk,",as used :n this act, signifies the clerk of the court where the actiin is pendink, and in the supreme court, the clerk in the county mentioned in the title
 of the complaint, or in another county to which the court
 may have changed the place of trial, unless otherwise speci.
 fled.
-ง 388. All statutory provisions inconsistent with this act, are repealed ; but this repeal shall not revive a statute law which may have been repealed or abolished by the provisions
-hereby repealed. •A nd• all rights of act.riioghnt s, given secured by existing laws, may be prosecuted in the mannerprosecutl.
+ยง 388. All statutory provisions inconsistent with this act, are repealed ; but this repeal shall not revive a statute law which may have been repealed or abolished by the provisions
+hereby repealed. ย•A ndย• all rights of act.riioghnt s, given secured by existing laws, may be prosecuted in the mannerprosecutl.
 provided by this act. If a case shall arise in which an action
 for the enforcement or protection or" a right, or the redress
-or prevention of a wrong, cannot be had under this act, • ' practice now in use may be adopted so far as may be neces- sary to prevent a failure of justice. 
-ง 389. The present rules and practice of the courts, in • . . •' .tpractiCe civil actions) inconsistent with this act, are abrogated ; but where consistent with this act, they shall continue in force subject to the powaers over the same, of the respective courts,
+or prevention of a wrong, cannot be had under this act, ย• ' practice now in use may be adopted so far as may be neces- sary to prevent a failure of justice. 
+ยง 389. The present rules and practice of the courts, in ย• . . ย•' .tpractiCe civil actions) inconsistent with this act, are abrogated ; but where consistent with this act, they shall continue in force subject to the powaers over the same, of the respective courts,
 as they now exist.
-ง 390. Until the legislature shall otherwise p,rto vide.," , t.his shall not affect proceedins upon mandamus, prolibition, quo warranto, information, scire facias to repeal letters patent;
+ยง 390. Until the legislature shall otherwise p,rto vide.," , t.his shall not affect proceedins upon mandamus, prolibition, quo warranto, information, scire facias to repeal letters patent;
 nor appeals from surrogates' courts ; nor any specialstatutory
 remedy not heretofore obtained by action' ; nor any
 existing statutory provisions relating to actions, not inconsistent
@@ -2686,4 +2686,4 @@ in conformity to this act; and except also, that where any
 particular provision of the titles anl chapters enumerated in
 this section shall be plainly inconsistent with this act, such
 provisions shall be deemed repealed.
-ง 391. This act shall take effect on the first day of July next; except that sections 23, 24, 25, 26 and 27, shall take effect immediately.
+ยง 391. This act shall take effect on the first day of July next; except that sections 23, 24, 25, 26 and 27, shall take effect immediately.

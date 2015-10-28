@@ -581,9 +581,9 @@ like Effect :
 [Venue.] " A.B. by E.F., his Attorney [or in Person, as the Case
 " may be], sues C. D. for [here state the Cause of Action] ;"
 And shall conclude as follows, or to the like Effect :
-"And the Plaintiff claims £ , [or, if the Action is
+"And the Plaintiff claims Â£ , [or, if the Action is
 " brought to recover specfic Goods, the Plaintiff claims a Return
-" of the said Goods or their Value, and £ for their
+" of the said Goods or their Value, and Â£ for their
 11 Detention.] "
 SEC. 60. In all Cases in which, after a Plea in Abatement of the
 Nonjoinder of another Person as Defendant, the Plaintiff shall,
@@ -672,7 +672,7 @@ pleaded in all Cases, as near as may be, in the following Form, mutatis
 mutandis :
 " The Defendant by his Attorney [or in Person, ic.]
 " [if pleaded to part say, as to . Parcel of the
-Money claimed], brings into Court the Sum of £
+Money claimed], brings into Court the Sum of Â£
 " and says that the said Sum is enough to satisfy the Claim
 of the Plaintiff in respect of the Matter herein pleaded to."
 SEC. 72. No Rule or Judge's Order to pay Money into Court shall be necessary, except in the Case of One or more of several Defendants, but the Money shall be paid to the proper Officer of each Court, who
@@ -1184,7 +1184,7 @@ way of Denial, or such Plea as may be appropriate to and rendered
 necessary by his Character of Executor or Administrator,, unless, by
 Leave of the Court or a Judge, he should be permitted to plead fresh
 Matter in answer to the Declaration ; and in case the Defendant shall
-have pleaded before the Death, but the Pleadings shall not ° have
+have pleaded before the Death, but the Pleadings shall not Â° have
 arrived at Issue, the new Defendant, besides pleading to the Suggestion,
 shall continue the Pleadings to Issue in the same Manner as the
 Deceased might have done, and the Pleadings upon the Declaration and
@@ -2380,37 +2380,37 @@ Special Indorsement.
 [After the Indorsement required by the 8th Section of this Act, this
 special Indorsement may be inserted.]
 The following are the Particulars of Plaintiff's Claim
-1849.-June 20. Half Year's Rent to this Day £ s. d.
+1849.-June 20. Half Year's Rent to this Day Â£ s. d.
 of H ouse an d Pr em is e s in --
 Street, Westminster - - - 25 10 0
 Sept. 12. Ten Sacks of Flour at 40s. - 20 0 0
 Dec. 1. Money received by Defendant - 17 0 0
 62 10 0
 Paid - - - 15 0 0
-Balance due - - £47 10 0
+Balance due - - Â£47 10 0
 Or,
 To Butchers Meat supplied between the 1st of January 1849 and
-the 1st of January 1850 - - - - - £52
+the 1st of January 1850 - - - - - Â£52
 Paid - - - 20
-Balance - - £32
+Balance - - Â£32
 [If any Account has been delivered, it may be referred to, with its
 Date, or the Plaintif may give such a Description of his Claim as in
 a Particular of Demand, so as to prevent the Necessity of an Application
 for further Particulars.]
 Or,
-£50 Principal and Interest due on a Bond dated the Day
+Â£50 Principal and Interest due on a Bond dated the Day
 of conditioned for the Payment of 1001.
 Or,
 Or,
-£90 Principal and Interest due on a Covenant contained in a Deed
+Â£90 Principal and Interest due on a Covenant contained in a Deed
 dated the Day of to pay 1001. and Interest.
 Or,
 A Penalty of 1001. under the Statute 55 Geo. III. c. 137.
 Or,
-£85 on a Bill of Exchange for 1001., dated the 2d February 1849,
+Â£85 on a Bill of Exchange for 1001., dated the 2d February 1849,
 accepted or drawn, or indorsed by the Defendant.
 Or,
-£50 on a Guarantee dated the 1st of January 1850, whereby the
+Â£50 on a Guarantee dated the 1st of January 1850, whereby the
 Defendant guaranteed the due Payment by E.F. of Goods supplied
 or to be supplied to him.
 [To any of the above may be added, in Cases where Interest is
@@ -2433,7 +2433,7 @@ to wit. 5 sued out a Writ of Summons against C.D., indorsed according
 to the " Common Law Procedure Act, 1852," as follows :
 [Here copy Special Indorsement,]
 And the said C.D. has not appeared : Therefore it is considered that
-the said A.B. recover against the said C.D. £ together with
+the said A.B. recover against the said C.D. Â£ together with
 -P for Costs of Suit.
 No. 6.
 In the Queen's Bench :
@@ -2487,7 +2487,7 @@ against a Representative, here insert, as Executor of the last Will
 and Testament of deceased, or as the Case may be] of
 a Judgment whereby the said A.B. [or as the Case may be], on
 the Day of in the said Court recovered
-against you [or as the Case may be] £ ; and take
+against you [or as the Case may be] Â£ ; and take
 notice, that in default of your so doing the said A.B. [or as the Case
 may be] may proceed to Execution.
 Witness, 4 c.
@@ -2673,19 +2673,19 @@ at his Request of Goods in Ships.
 14. The Demurrage of a Ship of the Plaintiff kept on Demurrage
 by the Defendant.
 15. That the Defendant on the Day of A.D.,
-by his Promissory Note, now over-due, promised to pay to the Plain- tiff £ Two Months after Date, but did not pay
+by his Promissory Note, now over-due, promised to pay to the Plain- tiff Â£ Two Months after Date, but did not pay
 the same.
 16. That one A., on, c-c. [Date], by his Promissory Note, now
-over-due, promised to pay to the Defendant, or Order, £ [Two] Months after Date ; and the Defendant indorsed the same to
+over-due, promised to pay to the Defendant, or Order, Â£ [Two] Months after Date ; and the Defendant indorsed the same to
 the Plaintiff; and the said Note was duly presented for Payment, and
 was dishonoured, whereof the Defendant had due Notice, but did not
 pay the same.
 17. That the Plaintiff, on, 4'c. [Date], by his Bill of Exchange,
 now over-due, directed to the Defendant, required the Defendant to
-pay to the Plaintiff £ Two Months after Date ; and the
+pay to the Plaintiff Â£ Two Months after Date ; and the
 Defendant accepted the said Bill, but did not pay the same.
 18. That the Defendant, on, 4'c. [Date], by his Bill of Exchange,
-directed to A., required A. to pay to the Plaintiff £ [Two] Months after Date ; and the said Bill was duly presented for
+directed to A., required A. to pay to the Plaintiff Â£ [Two] Months after Date ; and the said Bill was duly presented for
 Acceptance, and was dishonoured, of which the Defendant had due
 Notice, but did not pay the same.
 19. That the Plaintiff and Defendant agreed to marry one another,
@@ -2697,15 +2697,15 @@ on a Day now elapsed, and the Plaintiff was ready and willing to
 marry the Defendant on that Day, yet the Defendant neglected and
 refused to marry the Plaintiff.
 21. That the Defendant, by warranting a Horse to be then sound and quiet to ride, sold the said Horse to the Plaintiff, yet the said Horse was not then sound and quiet to ride.
-22. That the Plaintiff and the Defendant agreed by Charter-party, that the Plaintiff's Ship called the « Ariel " should with all convenient Speed sail to R., or so near thereto as she could safely get, and that Defendant should there load her with a full Cargo of Tallow or other lawful Merchandise, which she should carry to H., and there
-deliver, on Payment of Freight £ per Ton, and that the
+22. That the Plaintiff and the Defendant agreed by Charter-party, that the Plaintiff's Ship called the Â« Ariel " should with all convenient Speed sail to R., or so near thereto as she could safely get, and that Defendant should there load her with a full Cargo of Tallow or other lawful Merchandise, which she should carry to H., and there
+deliver, on Payment of Freight Â£ per Ton, and that the
 Defendant should be allowed Ten Days for loading, and Ten for
-Discharge, and Ten Days for Demurrage, if required, at £
+Discharge, and Ten Days for Demurrage, if required, at Â£
 per Day ; and that. the Plaintiff did all Things necessary on his" Part
 to entitle him to have the agreed Cargo loaded on board the said Ship
 at R., and that the Time for so doing has elapsed, yet the Defendant
 made default in loading the agreed Cargo,
-23. That the Plaintiff let to the Defendant a House, No. 401, Piccadilly, for Seven Years, to hold from the Day of A.D. at £ a Year, payable quarterly, of which
+23. That the Plaintiff let to the Defendant a House, No. 401, Piccadilly, for Seven Years, to hold from the Day of A.D. at Â£ a Year, payable quarterly, of which
 Rent quarters are due and unpaid.
 24. That the Plaintiff by Deed let to the Defendant a House, No. 401, Piccadilly, to hold for Seven Years from the Day of A.D. , and the Defendant by the said Deed
 covenanted with the Plaintiff well and substantially to repair the said
@@ -2722,7 +2722,7 @@ thereof was entitled to the Flow of a Stream for working the same,
 and the Defendant, by cutting the Bank of the said Stream, diverted
 the Water thereof away from the said Mill.
 31. That the Plaintiff was the first and true Inventor of a certain
-«
+Â«
 new Manufacture, that is to say, of certain Improvements in the
 Manufacture of Sulphuric Acid," and thereupon Her Majesty Queen
 Victoria, by Letters Patent under the Great Seal of England, granted
