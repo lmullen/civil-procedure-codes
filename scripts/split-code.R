@@ -23,7 +23,7 @@ uncleaned_files <- c("BI1859", "CA1868short", "CO1858", "CT1854", "CT1879",
                      "MA1836", "MA1851", "MA1858", "ME1840", "MI1853", "MO1835",
                      "MS1848", "ND1877short", "NH1842", "NJ1847", "NM1865",
                      "OH1853short", "OH1879", "UT1884", "VA1841", "VA1860",
-                     "WA1873", "WI1849", "WI1858", "WV1868")
+                     "WI1849", "WV1868")
 
 if (any(str_detect(out_file_stem, uncleaned_files))) {
   chunks <- str_split(doc, pattern_fuzzy)[[1]]
