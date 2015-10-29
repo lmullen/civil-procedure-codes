@@ -1,0 +1,51 @@
+---
+title: "Checking Sectioning of Codes"
+author: "Lincoln Mullen"
+date: "October 28, 2015"
+output: html_document
+---
+
+Create a corpus of the sections.
+
+```{r}
+library("textreuse")
+library("dplyr")
+library("stringr")
+library("readr")
+options("mc.cores" = 6L)
+sections <- TextReuseCorpus(dir = "legal-codes-split/", tokenizer = NULL)
+```
+
+Get the word counts of each section and turn that into a data frame.
+
+```{r}
+wc_raw <- wordcount(sections)
+wc <- data_frame(section = names(wc_raw), words = wc_raw)
+wc
+```
+
+Now detect the code name and calculate some summary statistics.
+
+```{r}
+wc_summary <- wc %>% 
+  mutate(code = str_replace(section, "-\\d+", "")) %>% 
+  group_by(code) %>% 
+  summarize(n_sections = n(),
+            total_words = sum(words),
+            min_words = min(words),
+            max_words = max(words),
+            mean_words = mean(words),
+            median_words = median(words)) %>% 
+  arrange(code)
+
+
+wc_summary %>% arrange(desc(n_sections))
+wc_summary %>% arrange(n_sections)
+```
+
+And write that file to disk.
+
+```{r}
+write_csv(wc_summary, "out/section-wordcounts-summary.csv")
+```
+
