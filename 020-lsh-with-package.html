@@ -70,52 +70,50 @@ img {
 
 <p>We have refined our technique for extracting matches. So the work in the document supercedes all previous work. The aim is to create the data frame of matches and other results and cache them for future use.</p>
 <pre class="r"><code>library(&quot;textreuse&quot;)
-library(&quot;dplyr&quot;)</code></pre>
-<pre><code>## 
-## Attaching package: 'dplyr'
-## 
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-## 
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union</code></pre>
-<pre class="r"><code>options(&quot;mc.cores&quot; = 6L)</code></pre>
+library(&quot;dplyr&quot;)
+options(&quot;mc.cores&quot; = 6L)</code></pre>
+<p>We want to have the smallest number of hashes and bands while still detecting all reasonable matchs. We will set the bands and number of minhashes as follows.</p>
+<pre class="r"><code>h &lt;- 120
+b &lt;- 60
+lsh_threshold(h, b)</code></pre>
+<pre><code>## [1] 0.1290994</code></pre>
 <p>Create the corpus.</p>
-<pre class="r"><code>cache_corpus &lt;- &quot;cache/corpus-sections-minash-n1500-seed623.rda&quot;
+<pre class="r"><code>cache_corpus &lt;- &quot;cache/corpus-sections-minash-n120-seed623.rda&quot;
 if (!file.exists(cache_corpus)) {
-  message(&quot;Creating the corpus&quot;)
-  minhash &lt;- minhash_generator(n = 1500, seed = 623)
+  message(&quot;Creating the corpus.&quot;)
+  minhash &lt;- minhash_generator(n = h, seed = 623)
   sections &lt;- TextReuseCorpus(dir = &quot;legal-codes-split/&quot;,
                               tokenizer = tokenize_ngrams, n = 5,
                               keep_tokens = FALSE,
                               minhash_func = minhash)
   save(sections, minhash, file = cache_corpus)
 } else {
-  message(&quot;Loading corpus from cache&quot;)
+  message(&quot;Loading corpus from cache.&quot;)
   load(file = cache_corpus)
 }</code></pre>
-<pre><code>## Loading corpus from cache</code></pre>
+<pre><code>## Creating the corpus.</code></pre>
+<pre><code>## Warning in TextReuseCorpus(dir = &quot;legal-codes-split/&quot;, tokenizer =
+## tokenize_ngrams, : Skipped 4063 documents that were too short. Use
+## `skipped()` to get their IDs.</code></pre>
 <p>Compute the LSH candidates, then compare them.</p>
 <pre class="r"><code>cache_lsh &lt;- &quot;cache/lsh-sections.rda&quot;
 if (!file.exists(cache_lsh)) {
-  message(&quot;Running LSH analysis&quot;)
-  section_buckets &lt;- lsh(sections, bands = 500)
+  message(&quot;Running LSH analysis.&quot;)
+  section_buckets &lt;- lsh(sections, bands = b)
   section_candidates &lt;- lsh_candidates(section_buckets)
   section_scores &lt;- lsh_compare(section_candidates, sections, jaccard_similarity)
   save(section_buckets, section_candidates, section_scores, file = cache_lsh)
   saveRDS(section_scores, &quot;cache/section-scores.rds&quot;)
 } else {
-  message(&quot;Loading LSH objects from cache&quot;)
+  message(&quot;Loading LSH objects from cache.&quot;)
   load(file = cache_lsh)
 }</code></pre>
-<pre><code>## Loading LSH objects from cache</code></pre>
+<pre><code>## Running LSH analysis.</code></pre>
 <p>How many pairs of matches do we have above <code>0.1</code> Jaccard score?</p>
 <pre class="r"><code>section_scores %&gt;% 
   filter(score &gt; 0.1) %&gt;% 
   nrow()</code></pre>
-<pre><code>## [1] 307894</code></pre>
+<pre><code>## [1] 300184</code></pre>
 
 
 </div>
