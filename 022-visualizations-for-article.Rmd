@@ -1,0 +1,81 @@
+---
+title: "Visualizations for article"
+author: "Lincoln Mullen"
+date: "November 3, 2015"
+output: html_document
+---
+
+```{r message=FALSE}
+library("readr")
+library("igraph")
+library("dplyr")
+library("stringr")
+library("parallel")
+library("textreuse")
+source("R/best-section-matches.R")
+source("R/summarize-borrowings.R")
+source("R/extract-date.R")
+source("R/extract_code_names.R")
+options("mc.cores" = 6L)
+```
+
+Read the data.
+
+```{r}
+cache_corpus <- "cache/corpus-sections-minash-n120-seed623.rda"
+load(file = cache_corpus)
+cache_lsh <- "cache/lsh-sections.rda"
+load(file = cache_lsh)
+borrowings <- section_scores %>% 
+  rename(section_a = a, section_b = b, similarity = score) %>% 
+  mutate(dissimilarity = 1 - similarity,
+         code_a = extract_code_names(section_a),
+         code_b = extract_code_names(section_b),
+         year_a = extract_date(code_a),
+         year_b = extract_date(code_b))
+codes <- c(borrowings$code_a, borrowings$code_b) %>% unique()
+```
+
+Calculate section matches and summarize them for a single code.
+
+```{r}
+CA1851 <- best_section_matches("CA1851", borrowings, threshold = 0.2)
+CA1851
+summarize_borrowings(CA1851)
+```
+
+Apply that to all the codes.
+
+```{r}
+section_pct <- codes %>% 
+  mclapply(best_section_matches, scores = borrowings, threshold = 0.2)  %>% 
+  mclapply(summarize_borrowings) %>% 
+  bind_rows()
+section_pct
+```
+
+Do some filtering and munge into an edge list.
+
+```{r}
+# Note that original code is a misnomer here
+edges <- section_pct %>% 
+  mutate(original_date = extract_date(original_code),
+         match_date = extract_date(match_code)) %>% 
+  filter(percentage_sections >= 0.05,
+         !is.na(match_code),
+         original_code >= match_code) %>% 
+  select(original_code, match_code, weight = percentage_sections)
+edges
+```
+
+Turn that into a graph.
+
+```{r}
+g <- graph_from_data_frame(edges, directed = TRUE)
+set.seed(4821)
+l <- layout.fruchterman.reingold(g, weights = E(g)$weight)
+par(mar = c(0,0,1,0))
+plot(g, edge.width = E(g)$weight * 8, layout = l,
+     edge.arrow.size = 0.65, vertex.size = 5)
+title("Codes of Civil Procedure by percentage of sections")
+```
