@@ -1,0 +1,190 @@
+---
+title: "Sparse matrix of comparisons"
+author: "Lincoln Mullen"
+date: "November 5, 2015"
+output: html_document
+---
+
+Our data is bigger than anticipated when the number of section by section comparisons is stored as a non-sparse matrix. So we are going to read in the section comparisons and convert them to a sparse matrix.
+
+```{r, message=FALSE}
+library("Matrix")
+library("dplyr")
+library("readr")
+library("textreuse")
+source("R/extract-date.R")
+source("R/extract_code_names.R")
+cache_lsh <- "cache/lsh-sections.rda"
+load(file = cache_lsh)
+cache_corpus <- "cache/corpus-sections-minash-n120-seed623.rda"
+load(file = cache_corpus)
+```
+
+Filter the sections down to a meaningful value.
+
+```{r}
+scores <- section_scores %>% 
+  filter(score >= 0.1)
+scores
+nrow(scores)
+```
+
+Get the sections involved:
+
+```{r}
+section_names <- lsh_subset(scores)
+head(section_names, 10)
+length(section_names)
+```
+
+Create a look up data frame of index positions
+
+```{r}
+lookup <- data_frame(section_names, index = 1:length(section_names))
+lookup
+scores <- scores %>% 
+  left_join(lookup, by = c("a" = "section_names")) %>% 
+  left_join(lookup, by = c("b" = "section_names")) 
+scores
+```
+
+Create the sparse matrix.
+
+```{r}
+n <- length(section_names)
+m <- sparseMatrix(i = scores$index.x, j = scores$index.y, x = scores$score,
+                  dims = c(n, n), symmetric = TRUE)
+colnames(m) <- section_names
+rownames(m) <- section_names
+```
+
+And write it to a file.
+
+```{r}
+writeMM(m, file = "out/sparse-section-similarity-matrix.MM")
+write_csv(scores, "out/section-scores.csv")
+```
+
+Now use affinity propagation clustering to create clusters.
+
+```{r}
+library("apcluster")
+clu <- apcluster(s = m,
+                 # maxits = 10e3, convits = 1e3,
+                 q = 0,
+                 seed = 2828, 
+                 includeSim = TRUE,
+                 # details = TRUE
+                 )
+```
+
+Get the top clusters
+
+```{r}
+clusters <- clu@clusters 
+names(clusters) <- names(clu@exemplars)
+clusters <- lapply(clusters, function(x) names(x))
+min_cluster_length <- 5
+selected_clusters <- clusters[sapply(clusters, length) >= min_cluster_length]
+head(selected_clusters)
+clusters_df <- selected_clusters %>% 
+  seq_along() %>% 
+  lapply(function(i) {
+    exemplar <- names(selected_clusters)[i]
+    doc <- selected_clusters[[i]]
+    data_frame(exemplar, doc, cluster_id = i)
+  }) %>% 
+  bind_rows() %>% 
+  mutate(exemplar_year = extract_date(exemplar),
+         doc_date = extract_date(doc)) %>% 
+  group_by(cluster_id) %>% 
+  mutate(earliest_date = min(doc_date),
+         earliest = doc[which.min(doc_date)]) %>% 
+  select(cluster_id, exemplar, exemplar_year, earliest, earliest_date,
+         doc, doc_date) %>% 
+  arrange(doc_date) %>% 
+  mutate(n = n()) %>% 
+  ungroup() %>% 
+  arrange(desc(n))
+clusters_df
+```
+
+That data frame has the following properties. It is sorted so that the clusters with the most documents appear first. Within each cluster, documents appear chronologically. Each cluster contains three columns for documents (with another three columns corresponding to years). One column is the "examplar" document identified by the affinity propagation clustering. The next is the earliest document in the cluster. If there are multiple documents from the earliest year, then only one is listed. The third is a list of all the documents in the cluster. The column `n` is the number of documents in the cluster. Only clusters with `r min_cluster_length` documents or more are included.
+
+Write that to disk:
+
+```{r}
+write_csv(clusters_df, "out/clusters.csv")
+```
+
+Some summary statistics about the borrowings. 
+
+The codes which most frequently provide exemplars, weighted by the size of the clusters for which they are exemplars.
+
+```{r}
+exemplars_summary <- clusters_df$exemplar %>% 
+  extract_code_names() %>% 
+  table() %>% 
+  as.data.frame() %>% as_data_frame() %>% 
+  rename(., code = `.`) %>% 
+  arrange(desc(Freq))
+write_csv(exemplars_summary, "out/clusters-exemplars-summary.csv")
+exemplars_summary %>% head(20)
+```
+
+The codes which most frequently provide the earliest documents in the clusters, weighted by the size of the clusters for which they are the earliest.
+
+```{r}
+earliest_summary <- clusters_df$earliest %>% 
+  extract_code_names() %>% 
+  table() %>% 
+  as.data.frame() %>% as_data_frame() %>% 
+  rename(., code = `.`) %>% 
+  arrange(desc(Freq)) 
+write_csv(earliest_summary, "out/clusters-earliest-summary.csv")
+earliest_summary %>% head(20)
+```
+
+Now let's write out the clusters to disk.
+
+```{r, message=FALSE}
+get_printable_code <- function(doc_id) {
+  require("stringr")
+  content <- str_wrap(content(sections[[doc_id]]))
+  str_c(doc_id, content, "-----------------------------------------------\n\n", 
+        sep = "\n\n")
+}
+
+get_cluster_header <- function(exemplar, earliest, n, cluster_id) {
+  require("stringr")
+  str_c("Exemplar: ", exemplar, "\n",
+        "Earliest: ", earliest, "\n",
+        "Documents in cluster: ", n, "\n",
+        "Cluster ID: ", cluster_id, "\n",
+        "\n",
+        "-----------------------------------------------\n\n")
+}
+
+write_cluster <- function(df) {
+  require("stringr")
+  exemplar <- unique(df$exemplar)
+  earliest <- unique(df$earliest)
+  n <- unique(df$n)
+  cluster_id <- unique(df$cluster_id)
+  header <- get_cluster_header(exemplar, earliest, n, cluster_id)
+  docs <- df$doc %>% sapply(get_printable_code) 
+  text <- str_c(header, docs, collapse = "\n") %>% 
+    str_split("\n") %>% 
+    unlist()
+  dir.create("clusters", showWarnings = FALSE)
+  filename <- str_c("clusters/", exemplar, ".txt")
+  message("Writing ", filename)
+  writeLines(text, filename)
+  df
+}
+
+clusters_df %>% 
+  group_by(cluster_id) %>% 
+  do(write_cluster(.))
+```
+
