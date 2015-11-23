@@ -1,0 +1,70 @@
+---
+title: "Comparison of New York codes"
+date: "November 23, 2015"
+output: html_document
+---
+
+```{r}
+library("textreuse")
+library("dplyr")
+library("readr")
+library("stringr")
+source("R/best-section-matches.R")
+source("R/summarize-borrowings.R")
+source("R/extract_code_names.R")
+source("R/extract-date.R")
+options("mc.cores" = 6L)
+h <- 120
+b <- 60
+minhash <- minhash_generator(n = h, seed = 623)
+ny_paths <- Sys.glob("legal-codes-split/NY*")
+```
+
+Create the corpus:
+
+```{r}
+ny_sections <- TextReuseCorpus(paths = ny_paths,
+                               tokenizer = tokenize_ngrams, n = 5,
+                               keep_tokens = FALSE,
+                               minhash_func = minhash)
+```
+
+Do the LSH for New York:
+
+```{r}
+ny_buckets <- lsh(ny_sections, bands = b)
+ny_scores <- ny_buckets %>% 
+  lsh_candidates() %>% 
+  lsh_compare(ny_sections, jaccard_similarity) %>% 
+  rename(section_a = a, section_b = b, similarity = score) %>% 
+  mutate(dissimilarity = 1 - similarity,
+         code_a = extract_code_names(section_a),
+         code_b = extract_code_names(section_b),
+         year_a = extract_date(code_a),
+         year_b = extract_date(code_b))
+```
+
+Write out the best section matches to disk.
+
+```{r}
+ny_codes <- c(ny_scores$code_a, ny_scores$code_b) %>% unique %>% sort
+
+lapply(ny_codes, function(x) {
+  best_section_matches(x, ny_scores, threshold = 0.15) %>% 
+    write_csv(str_c("out/NY-comparisons-", x, ".csv"))
+})
+```
+
+
+Summaries of matches.
+
+```{r}
+ny_codes %>% 
+  lapply(function(x) {
+    best_section_matches(x, ny_scores, threshold = 0.15) %>% 
+      summarize_borrowings()
+  })
+```
+
+
+
