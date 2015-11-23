@@ -1,6 +1,7 @@
     library("dplyr")
     library("stringr")
     library("readr")
+    library("tidyr")
     library("ggplot2")
     library("RColorBrewer")
     source("R/extract-date.R")
@@ -12,183 +13,151 @@ sections in that code with the best match to a non-anachronistic code.
 
 Read in the data.
 
-    scores <- read_csv("out/scores-all-sections-pairs.csv")
-    scores <- scores %>% 
+    load("cache/lsh-sections.rda")
+    scores <- section_scores %>% 
       rename(section_a = a, section_b = b) %>% 
       mutate(code_a = extract_code_names(section_a),
              code_b = extract_code_names(section_b),
              year_a = extract_date(code_a),
-             year_b = extract_date(code_b))
+             year_b = extract_date(code_b)) %>% 
+      rename(similarity = score) %>% 
+      mutate(dissimilarity = 1 - similarity)
     scores
 
-    ## Source: local data frame [274,359 x 8]
+    ## Source: local data frame [534,229 x 8]
     ## 
-    ##          section_a       section_b similarity dissimilarity code_a code_b
-    ##              (chr)           (chr)      (dbl)         (dbl)  (chr)  (chr)
-    ## 1  AK1900-00000010 AR1868-00000060  0.2162160      0.783784 AK1900 AR1868
-    ## 2  AK1900-00000010 AR1874-00001960  0.3750000      0.625000 AK1900 AR1874
-    ## 3  AK1900-00000010 AZ1865-00000020  0.2131150      0.786885 AK1900 AZ1865
-    ## 4  AK1900-00000010 CA1850-00000030  0.1791040      0.820896 AK1900 CA1850
-    ## 5  AK1900-00000010 CA1858-00000030  0.2131150      0.786885 AK1900 CA1858
-    ## 6  AK1900-00000010 CA1872-00002310  0.1967210      0.803279 AK1900 CA1872
-    ## 7  AK1900-00000010 CO1877-00000010  0.1730770      0.826923 AK1900 CO1877
-    ## 8  AK1900-00000010 DC1857-00000970  0.3918920      0.608108 AK1900 DC1857
-    ## 9  AK1900-00000010 DT1868-00000280  0.2761900      0.723810 AK1900 DT1868
-    ## 10 AK1900-00000010 DT1887-00000640  0.0900474      0.909953 AK1900 DT1887
-    ## ..             ...             ...        ...           ...    ...    ...
-    ## Variables not shown: year_a (int), year_b (int)
+    ##        section_a     section_b similarity code_a code_b year_a year_b
+    ##            (chr)         (chr)      (dbl)  (chr)  (chr)  (int)  (int)
+    ## 1  AK1900-000010 AR1868-000060 0.21333333 AK1900 AR1868   1900   1868
+    ## 2  AK1900-000010 AR1874-000090 0.36842105 AK1900 AR1874   1900   1874
+    ## 3  AK1900-000010 AZ1865-000020 0.20967742 AK1900 AZ1865   1900   1865
+    ## 4  AK1900-000010 CA1850-000030 0.17647059 AK1900 CA1850   1900   1850
+    ## 5  AK1900-000010 CA1851-000030 0.11940299 AK1900 CA1851   1900   1851
+    ## 6  AK1900-000010 CA1858-000030 0.20967742 AK1900 CA1858   1900   1858
+    ## 7  AK1900-000010 CA1868-000030 0.11940299 AK1900 CA1868   1900   1868
+    ## 8  AK1900-000010 CA1872-000220 0.03614458 AK1900 CA1872   1900   1872
+    ## 9  AK1900-000010 CA1872-002310 0.19354839 AK1900 CA1872   1900   1872
+    ## 10 AK1900-000010 CO1877-000010 0.17307692 AK1900 CO1877   1900   1877
+    ## ..           ...           ...        ...    ...    ...    ...    ...
+    ## Variables not shown: dissimilarity (dbl)
 
-    best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
-      require("dplyr")
-      require("stringr")
-      matches <- scores %>% 
-        filter(code_a == code_name | code_b == code_name) %>% 
-        mutate(match_code = ifelse(code_a == code_name, code_b, code_a),
-               code_of_interest = ifelse(code_a == code_name, code_a, code_b),
-               match_section = ifelse(code_a == code_name, section_b, section_a),
-               section_of_interest = ifelse(code_a == code_name, section_a, section_b),
-               match_year = ifelse(code_a == code_name, year_b, year_a)) %>% 
-        filter(match_code != code_of_interest,
-               match_year <= extract_date(code_name),
-               similarity >= threshold) %>% 
-        select(code_of_interest, section_of_interest, match_code, match_section,
-               similarity, dissimilarity) %>% 
-        group_by(section_of_interest) %>%
-        arrange(desc(similarity)) %>% 
-        top_n(top, similarity) 
-      
-      all_sections <- Sys.glob(str_c("legal-codes-split/", code_name, "-0*")) %>% 
-        str_replace("legal-codes-split/", "") %>% 
-        str_replace("\\.txt", "")
-      all <- data_frame(all_sections)
-      
-      all %>% 
-        left_join(matches, by = c("all_sections" = "section_of_interest")) %>% 
-        select(-code_of_interest)
-    } 
-
-Also a function to calculate summary statistics.
-
-    summarize_borrowings <- function(section_list) {
-      section_list %>% 
-        group_by(match_code) %>% 
-        summarize(mean_similarity = mean(similarity),
-                  n = n()) %>% 
-        mutate(percentage_sections = n / nrow(section_list)) %>% 
-        arrange(desc(n))
-    }
+    source("R/summarize-borrowings.R")
+    source("R/best-section-matches.R")
 
 Apply this to three codes:
 
     CA1851 <- best_section_matches("CA1851", scores, threshold = 0.2)
     CA1851
 
-    ## Source: local data frame [740 x 5]
+    ## Source: local data frame [761 x 6]
     ## 
-    ##       all_sections match_code   match_section similarity dissimilarity
-    ##              (chr)      (chr)           (chr)      (dbl)         (dbl)
-    ## 1  CA1851-00000010     CA1850 CA1850-00000010   0.285714      0.714286
-    ## 2  CA1851-00000020     NY1849 NY1849-00000630   0.333333      0.666667
-    ## 3  CA1851-00000030         NA              NA         NA            NA
-    ## 4  CA1851-00000040     CA1850 CA1850-00000040   1.000000      0.000000
-    ## 5  CA1851-00000050     CA1850 CA1850-00000070   1.000000      0.000000
-    ## 6  CA1851-00000060     CA1850 CA1850-00000090   0.619048      0.380952
-    ## 7  CA1851-00000070     CA1850 CA1850-00000100   0.815385      0.184615
-    ## 8  CA1851-00000080     NY1850 NY1850-00007050   0.500000      0.500000
-    ## 9  CA1851-00000090     CA1850 CA1850-00000120   0.782609      0.217391
-    ## 10 CA1851-00000100     NY1850 NY1850-00007070   0.461538      0.538462
-    ## ..             ...        ...             ...        ...           ...
+    ##     all_sections match_code match_section similarity dissimilarity
+    ##            (chr)      (chr)         (chr)      (dbl)         (dbl)
+    ## 1  CA1851-000010     CA1850 CA1850-000010  0.2857143    0.71428571
+    ## 2  CA1851-000020     NY1849 NY1849-000870  0.3333333    0.66666667
+    ## 3  CA1851-000030         NA            NA         NA            NA
+    ## 4  CA1851-000040     CA1850 CA1850-000040  1.0000000    0.00000000
+    ## 5  CA1851-000050     CA1850 CA1850-000070  0.9583333    0.04166667
+    ## 6  CA1851-000060     CA1850 CA1850-000090  0.5652174    0.43478261
+    ## 7  CA1851-000070     NY1851 NY1851-001370  0.8181818    0.18181818
+    ## 8  CA1851-000080     NY1850 NY1850-006570  0.4827586    0.51724138
+    ## 9  CA1851-000090     CA1850 CA1850-000120  0.7500000    0.25000000
+    ## 10 CA1851-000100     NY1850 NY1850-006590  0.4285714    0.57142857
+    ## ..           ...        ...           ...        ...           ...
+    ## Variables not shown: original_code (chr)
 
     summarize_borrowings(CA1851)
 
-    ## Source: local data frame [9 x 4]
+    ## Source: local data frame [10 x 5]
     ## 
-    ##   match_code mean_similarity     n percentage_sections
-    ##        (chr)           (dbl) (int)               (dbl)
-    ## 1     NY1850       0.5041585   313         0.422972973
-    ## 2         NA              NA   311         0.420270270
-    ## 3     CA1850       0.5151458    64         0.086486486
-    ## 4     NY1849       0.5439915    15         0.020270270
-    ## 5     NY1851       0.4553339    11         0.014864865
-    ## 6     KY1851       0.4601335    10         0.013513514
-    ## 7     MN1851       0.5440051    10         0.013513514
-    ## 8     MO1849       0.5832048     4         0.005405405
-    ## 9     NY1848       0.4083335     2         0.002702703
+    ##    original_code match_code mean_similarity     n percentage_sections
+    ##            (chr)      (chr)           (dbl) (int)               (dbl)
+    ## 1             NA         NA              NA   314         0.412614980
+    ## 2         CA1851     NY1850       0.4924215   301         0.395532194
+    ## 3         CA1851     CA1850       0.5066487    53         0.069645204
+    ## 4         CA1851     NY1851       0.5650909    28         0.036793693
+    ## 5         CA1851     NY1849       0.5247201    23         0.030223390
+    ## 6         CA1851     MN1851       0.5214114    19         0.024967148
+    ## 7         CA1851     NY1848       0.4821353    12         0.015768725
+    ## 8         CA1851     KY1851       0.5563984     6         0.007884363
+    ## 9         CA1851     MO1849       0.5906650     3         0.003942181
+    ## 10        CA1851     IA1851       0.2497914     2         0.002628121
 
     IA1859 <- best_section_matches("IA1859", scores, threshold = 0.2)
     IA1859
 
-    ## Source: local data frame [705 x 5]
+    ## Source: local data frame [1,441 x 6]
     ## 
-    ##       all_sections     match_code           match_section similarity
-    ##              (chr)          (chr)                   (chr)      (dbl)
-    ## 1  IA1859-00000010             NA                      NA         NA
-    ## 2  IA1859-00000020             NA                      NA         NA
-    ## 3  IA1859-00000030             NA                      NA         NA
-    ## 4  IA1859-00000040             NA                      NA         NA
-    ## 5  IA1859-00000050         OH1853         OH1853-00000030   0.592593
-    ## 6  IA1859-00000050 OH1853extended OH1853extended-00000030   0.592593
-    ## 7  IA1859-00000060             NA                      NA         NA
-    ## 8  IA1859-00000070             NA                      NA         NA
-    ## 9  IA1859-00000080             NA                      NA         NA
-    ## 10 IA1859-00000090         IA1851         IA1851-00000170   0.516854
-    ## ..             ...            ...                     ...        ...
-    ## Variables not shown: dissimilarity (dbl)
+    ##     all_sections match_code match_section similarity dissimilarity
+    ##            (chr)      (chr)         (chr)      (dbl)         (dbl)
+    ## 1  IA1859-000010         NA            NA         NA            NA
+    ## 2  IA1859-000020     KY1851 KY1851-000030  0.4782609     0.5217391
+    ## 3  IA1859-000030     KY1851 KY1851-000040  0.4843750     0.5156250
+    ## 4  IA1859-000040     KY1854 KY1854-000050  0.8000000     0.2000000
+    ## 5  IA1859-000050     KY1854 KY1854-000060  0.4310345     0.5689655
+    ## 6  IA1859-000060     KY1851 KY1851-000080  0.8750000     0.1250000
+    ## 7  IA1859-000060     KY1854 KY1854-000070  0.8750000     0.1250000
+    ## 8  IA1859-000060     NY1850 NY1850-006070  0.8750000     0.1250000
+    ## 9  IA1859-000070     KY1851 KY1851-000090  0.3333333     0.6666667
+    ## 10 IA1859-000080     KY1851 KY1851-000100  0.4255319     0.5744681
+    ## ..           ...        ...           ...        ...           ...
+    ## Variables not shown: original_code (chr)
 
     summarize_borrowings(IA1859)
 
-    ## Source: local data frame [21 x 4]
+    ## Source: local data frame [37 x 5]
     ## 
-    ##        match_code mean_similarity     n percentage_sections
-    ##             (chr)           (dbl) (int)               (dbl)
-    ## 1              NA              NA   415         0.588652482
-    ## 2          IA1851       0.3881678   162         0.229787234
-    ## 3          NE1857       0.3763200    43         0.060992908
-    ## 4          KY1851       0.3583913    18         0.025531915
-    ## 5          OH1853       0.3569757    13         0.018439716
-    ## 6  OH1853extended       0.3569757    13         0.018439716
-    ## 7          TN1858       0.3779235    11         0.015602837
-    ## 8          DC1857       0.3157854     8         0.011347518
-    ## 9          KS1859       0.2922814     5         0.007092199
-    ## 10         IN1852       0.3653533     3         0.004255319
-    ## ..            ...             ...   ...                 ...
+    ##    original_code match_code mean_similarity     n percentage_sections
+    ##            (chr)      (chr)           (dbl) (int)               (dbl)
+    ## 1             NA         NA              NA   679          0.47120056
+    ## 2         IA1859     IA1851       0.5500450   212          0.14712006
+    ## 3         IA1859     NE1857       0.5501511    92          0.06384455
+    ## 4         IA1859     KY1851       0.5113950    85          0.05898681
+    ## 5         IA1859     KY1854       0.4649492    83          0.05759889
+    ## 6         IA1859     OH1853       0.4721614    50          0.03469813
+    ## 7         IA1859     KS1859       0.4580576    40          0.02775850
+    ## 8         IA1859     NE1859       0.4735716    39          0.02706454
+    ## 9         IA1859     TN1858       0.4240072    26          0.01804303
+    ## 10        IA1859     IN1852       0.4242937    24          0.01665510
+    ## ..           ...        ...             ...   ...                 ...
 
     UT1870 <- best_section_matches("UT1870", scores, threshold = 0.2)
     UT1870
 
-    ## Source: local data frame [938 x 5]
+    ## Source: local data frame [1,166 x 6]
     ## 
-    ##       all_sections match_code   match_section similarity dissimilarity
-    ##              (chr)      (chr)           (chr)      (dbl)         (dbl)
-    ## 1  UT1870-00000010     CA1851 CA1851-00000010   0.211538     0.7884620
-    ## 2  UT1870-00000020         NA              NA         NA            NA
-    ## 3  UT1870-00000030     CA1850 CA1850-00000070   0.430769     0.5692310
-    ## 4  UT1870-00000030     CA1851 CA1851-00000050   0.430769     0.5692310
-    ## 5  UT1870-00000040     CA1851 CA1851-00000060   0.944444     0.0555556
-    ## 6  UT1870-00000040     CA1868 CA1868-00000060   0.944444     0.0555556
-    ## 7  UT1870-00000040     NV1869 NV1869-00000060   0.944444     0.0555556
-    ## 8  UT1870-00000050     AZ1865 AZ1865-00000060   0.456790     0.5432100
-    ## 9  UT1870-00000050     CA1851 CA1851-00000070   0.456790     0.5432100
-    ## 10 UT1870-00000050     CA1858 CA1858-00000070   0.456790     0.5432100
-    ## ..             ...        ...             ...        ...           ...
+    ##     all_sections match_code match_section similarity dissimilarity
+    ##            (chr)      (chr)         (chr)      (dbl)         (dbl)
+    ## 1  UT1870-000010     CA1851 CA1851-000010  0.2115385     0.7884615
+    ## 2  UT1870-000020     CA1851 CA1851-000030  0.2407407     0.7592593
+    ## 3  UT1870-000020     CA1868 CA1868-000030  0.2407407     0.7592593
+    ## 4  UT1870-000030     AR1868 AR1868-000070  0.5000000     0.5000000
+    ## 5  UT1870-000030     CA1850 CA1850-000040  0.5000000     0.5000000
+    ## 6  UT1870-000030     CA1851 CA1851-000040  0.5000000     0.5000000
+    ## 7  UT1870-000030     DC1857 DC1857-001000  0.5000000     0.5000000
+    ## 8  UT1870-000030     MN1859 MN1859-000030  0.5000000     0.5000000
+    ## 9  UT1870-000030     MT1865 MT1865-000020  0.5000000     0.5000000
+    ## 10 UT1870-000030     NV1861 NV1861-000020  0.5000000     0.5000000
+    ## ..           ...        ...           ...        ...           ...
+    ## Variables not shown: original_code (chr)
 
     summarize_borrowings(UT1870)
 
-    ## Source: local data frame [34 x 4]
+    ## Source: local data frame [40 x 5]
     ## 
-    ##    match_code mean_similarity     n percentage_sections
-    ##         (chr)           (dbl) (int)               (dbl)
-    ## 1      NV1869       0.5027795   230          0.24520256
-    ## 2      CA1858       0.5422966   125          0.13326226
-    ## 3      CA1851       0.5367899   109          0.11620469
-    ## 4      AZ1865       0.5357513   106          0.11300640
-    ## 5      NV1861       0.5222738   106          0.11300640
-    ## 6          NA              NA    72          0.07675906
-    ## 7      MT1865       0.5462576    43          0.04584222
-    ## 8      CA1868       0.5824809    39          0.04157783
-    ## 9      ID1864       0.4889488    31          0.03304904
-    ## 10     NY1850       0.4873133    17          0.01812367
-    ## ..        ...             ...   ...                 ...
+    ##    original_code match_code mean_similarity     n percentage_sections
+    ##            (chr)      (chr)           (dbl) (int)               (dbl)
+    ## 1         UT1870     NV1869       0.5019711   281          0.24099485
+    ## 2         UT1870     CA1858       0.5418125   165          0.14150943
+    ## 3         UT1870     CA1851       0.5274077   146          0.12521441
+    ## 4         UT1870     NV1861       0.5366067   138          0.11835334
+    ## 5         UT1870     AZ1865       0.5268139   107          0.09176672
+    ## 6             NA         NA              NA    70          0.06003431
+    ## 7         UT1870     CA1868       0.5616885    58          0.04974271
+    ## 8         UT1870     ID1864       0.5125771    51          0.04373928
+    ## 9         UT1870     MT1865       0.5195664    48          0.04116638
+    ## 10        UT1870     NY1850       0.4581878    14          0.01200686
+    ## ..           ...        ...             ...   ...                 ...
 
 Make a plot of code borrowings.
 
@@ -207,16 +176,16 @@ Plot some borrowings:
 
     plot_borrowings(CA1851)
 
-    ## Warning: Removed 311 rows containing missing values (position_stack).
+    ## Warning: Removed 314 rows containing missing values (position_stack).
 
     ## Warning in is.na(labels): is.na() applied to non-(list or vector) of type
     ## 'NULL'
 
-<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-7-1.png" title="" alt="" width="672" />
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-6-1.png" title="" alt="" width="672" />
 
     plot_borrowings(UT1870)
 
-    ## Warning: Removed 72 rows containing missing values (position_stack).
+    ## Warning: Removed 70 rows containing missing values (position_stack).
 
     ## Warning in RColorBrewer::brewer.pal(n, pal): n too large, allowed maximum for palette Dark2 is 8
     ## Returning the palette you asked for with that many colors
@@ -227,4 +196,219 @@ Plot some borrowings:
     ## Warning in RColorBrewer::brewer.pal(n, pal): n too large, allowed maximum for palette Dark2 is 8
     ## Returning the palette you asked for with that many colors
 
-<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-7-2.png" title="" alt="" width="672" />
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-6-2.png" title="" alt="" width="672" />
+
+Heatmaps of borrowings:
+
+    col_vector <- function(n, cols) {
+      r <- trunc(n / cols)
+      remainder <- n %% cols
+      if (remainder > 0)
+        c(rep(1:cols, r), 1:remainder)
+      else
+        c(rep(1:cols, r))
+    } 
+    row_vector <- function(n, cols) {
+      out <- NULL
+      for (i in seq_len((n / cols) + 1)) {
+         out <- c(out, rep(i, cols))
+      }
+      out[1:n]
+    }
+    n_columns <- 40
+
+Plot CA
+
+    other <- c("MN1851", "IA1851", "KY1851", "MO1849")
+    best_section_matches("CA1851", scores, threshold = 0.3) %>% 
+      mutate(match_code = ifelse(match_code %in% other,
+                                 "Other", match_code)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_code, alpha)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in CA1851",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-8-1.png" title="" alt="" width="672" />
+
+Plot UT1859
+
+    other <- c("NY1848", "WI1849", "CA1850", "NY1849", "IA1851", "NY1851", "WI1856",
+               "WI1858", "NY1853", "CA1851", "CA1858", "IA1859", "IN1852", "MA1858",
+               "MN1851", "TN1858", "KY1851", "MA1836", "MO1856", "NE1857", "OH1853",
+               "TX1855", "KS1859", "NE1859")
+    best_section_matches("UT1859", scores, threshold = 0.3) %>% 
+      mutate(match_code = ifelse(match_code %in% other,
+                                 "Other", match_code)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_code)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in UT1859",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-9-1.png" title="" alt="" width="672" />
+
+Plot WA1855
+
+    white_list <- c("CA1850", "NY1850", "WI1849", "CA1851", "OR1854", "IN1852")
+    other_maker <- function(x, white_list) {
+      ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+    }
+    best_section_matches("WA1855", scores, threshold = 0.3) %>% 
+      mutate(match_code = other_maker(match_code, white_list)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_code)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in WA1855",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-10-1.png" title="" alt="" width="672" />
+
+OR 1854
+
+    white_list <- c("CA1850", "NY1853", "NY1851", "WI1849", "MN1851", "NY1850", "CA1851")
+    other_maker <- function(x, white_list) {
+      ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+    }
+    best_section_matches("OR1854", scores, threshold = 0.15) %>% 
+      mutate(match_code = other_maker(match_code, white_list)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_code)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in OR1854",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-11-1.png" title="" alt="" width="672" />
+
+NC1868
+
+    white_list <- c("DT1668", "NY1851", "NY1849", "NY1850", "WI1858", "WI1856")
+    other_maker <- function(x, white_list) {
+      ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+    }
+    best_section_matches("NC1868", scores, threshold = 0.3) %>% 
+      mutate(match_code = other_maker(match_code, white_list)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_code)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in NC1868",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-12-1.png" title="" alt="" width="672" />
+
+IA1859
+
+    white_list <- c("IA1851", "NE1857", "KY1854")
+    other_maker <- function(x, white_list) {
+      ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+    }
+    best_section_matches("IA1859", scores, threshold = 0.3) %>% 
+      mutate(match_code = other_maker(match_code, white_list)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_code)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in IA1859",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-13-1.png" title="" alt="" width="672" />
+
+NM1897
+
+    white_list <- c("MO", "NM", "IA", "NY", "MN", "WI")
+    other_maker <- function(x, white_list) {
+      ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+    }
+    best_section_matches("NM1897", scores, threshold = 0.15) %>% 
+      mutate(match_state = str_sub(match_code, start = 1, end = 2)) %>% 
+      mutate(match_state = other_maker(match_state, white_list)) %>% 
+      mutate(., 
+             column = col_vector(nrow(.), n_columns),
+             row = row_vector(nrow(.), n_columns),
+             match_code = as.factor(match_code)) %>% 
+      ggplot(aes(x = column, y = -row, fill = match_state)) +
+      geom_tile(color = "lightgray") + 
+      theme_minimal(base_size = 16) +
+      coord_equal() +
+      labs(x = NULL, y = NULL, title = "Borrowed sections in NM1897",
+           fill = "Section borrowed from") + 
+      theme(legend.position = "bottom", 
+            axis.ticks = element_blank(),
+            axis.line = element_blank(), axis.text = element_blank(),
+            panel.background = element_blank(), panel.grid = element_blank()) +
+      scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+
+<img src="017-best-section-matches_files/figure-markdown_strict/unnamed-chunk-14-1.png" title="" alt="" width="672" />
+
+Summarize by state
+
+    summarize_by_state <- function(section_list) {
+      section_list %>% 
+        mutate(match_state = str_sub(match_code, start = 1, end = 2)) %>% 
+        group_by(match_state) %>% 
+        summarize(original_code = unique(original_code),
+                  mean_similarity = mean(similarity),
+                  n = n()) %>% 
+        mutate(percentage_sections = n / nrow(section_list)) %>% 
+        arrange(desc(n)) %>% 
+        select(original_code, match_state, mean_similarity, n, percentage_sections)
+    }

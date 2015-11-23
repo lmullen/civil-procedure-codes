@@ -59,11 +59,23 @@ lapply(ny_codes, function(x) {
 Summaries of matches.
 
 ```{r}
-ny_codes %>% 
+intra_code_network <- ny_codes %>% 
   lapply(function(x) {
     best_section_matches(x, ny_scores, threshold = 0.15) %>% 
       summarize_borrowings()
-  })
+  }) %>% 
+  bind_rows()
+```
+
+```{r}
+library("igraph")
+g <- intra_code_network %>% 
+  select(original_code, match_code, weight = percentage_sections) %>% 
+  filter(!is.na(match_code)) %>%
+  filter(weight >= 0.02) %>% 
+  graph_from_data_frame() %>% 
+  add_layout_(with_graphopt()) 
+plot(g, edge.width = E(g)$weight * 10)
 ```
 
 

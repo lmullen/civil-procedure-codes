@@ -166,7 +166,7 @@ sufficiently high, combine the two clusters.
       duplicate <- exs[ifelse(minval == 1, 2, 1)]
       clusters[[exemplar]] <<- c(clusters[[exemplar]], clusters[[duplicate]])
       clusters[[duplicate]] <<- NULL
-      as_data_frame(row)
+      dplyr::as_data_frame(row)
     }
 
     exemplars_scores %>% 
