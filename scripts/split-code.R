@@ -21,8 +21,8 @@ uncleaned_files <- c("BI1859", "CA1868short", "CO1858", "CT1854", "CT1879",
                      "GA1851", "GB1873", "GB1875", "HI1859", "IA1839", "IL1866",
                      "IN1843", "LA1825", "LA1825french", "LC1867", "LC1867french",
                      "MA1836", "MA1851", "MA1858", "ME1840", "MI1853", "MO1835",
-                     "MS1848", "ND1877short", "NH1842", "NJ1847", "NM1865",
-                     "OH1853short", "OH1879", "UT1884", "VA1841", "VA1860",
+                     "MS1848", "ND1877short", "NH1842", "NY1829", "NJ1847", "NM1865",
+                     "OH1853short", "VA1841", "VA1860",
                      "WI1849", "WV1868")
 
 if (any(str_detect(out_file_stem, uncleaned_files))) {
