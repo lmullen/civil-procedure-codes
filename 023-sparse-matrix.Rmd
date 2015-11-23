@@ -9,6 +9,7 @@ Our data is bigger than anticipated when the number of section by section compar
 
 ```{r, message=FALSE}
 library("Matrix")
+library("apcluster")
 library("dplyr")
 library("readr")
 library("textreuse")
@@ -37,7 +38,7 @@ head(section_names, 10)
 length(section_names)
 ```
 
-Create a look up data frame of index positions
+Create a look up data frame of matrix index positions.
 
 ```{r}
 lookup <- data_frame(section_names, index = 1:length(section_names))
@@ -58,40 +59,88 @@ colnames(m) <- section_names
 rownames(m) <- section_names
 ```
 
-And write it to a file.
-
-```{r}
-writeMM(m, file = "out/sparse-section-similarity-matrix.MM")
-write_csv(scores, "out/section-scores.csv")
-```
-
 Now use affinity propagation clustering to create clusters.
 
 ```{r}
-library("apcluster")
-clu <- apcluster(s = m,
-                 # maxits = 10e3, convits = 1e3,
-                 q = 0,
-                 seed = 2828, 
-                 includeSim = TRUE,
-                 # details = TRUE
-                 )
+cluster_cache <- "cache/clusters.rds"
+if (!file.exists(cluster_cache)) {
+  timing <- system.time(
+    clu <- apcluster(s = m,
+                     maxits = 100e3, convits = 10e3,
+                     q = 0,
+                     lam = 0.975,
+                     seed = 42325, 
+                     includeSim = TRUE,
+                     )
+  )
+  require("RPushbullet")
+  pbPost(title = "Clustering finished",
+         body = paste0("Finished in ", timing[["elapsed"]], "."))
+  saveRDS(clu, cluster_cache)
+} else {
+  clu <- readRDS(cluster_cache)
+}
 ```
 
-Get the top clusters
+Get the clusters in a slightly easier format to work with.
 
 ```{r}
 clusters <- clu@clusters 
 names(clusters) <- names(clu@exemplars)
-clusters <- lapply(clusters, function(x) names(x))
-min_cluster_length <- 5
-selected_clusters <- clusters[sapply(clusters, length) >= min_cluster_length]
-head(selected_clusters)
-clusters_df <- selected_clusters %>% 
+clusters <- lapply(clusters, names)
+```
+
+Now the problem is that some clusters have been inadequately joined together. We will compute simiarities on the examplars. If any of them have a high Jaccard similarity, we will join those clusters together.
+
+```{r}
+exemplars_corpus <- sections[names(clusters)]
+exemplars_scores <- exemplars_corpus %>% 
+  lsh(bands = 60) %>% 
+  lsh_candidates() %>% 
+  lsh_compare(exemplars_corpus, jaccard_similarity) %>% 
+  arrange(desc(score))
+```
+
+Here is a box plot of those scores:
+
+```{r}
+boxplot(exemplars_scores$score)
+```
+
+What is a good minimum match? Looking at the sections, `0.2` is clearly a match, while `0.1` is clearly not. An important observation is that the exemplars for the blood quantum sections have a Jaccard similarity of `0.15`. We will use that as the threshold.
+
+```{r}
+join_threshold <- 0.15
+exemplars_scores <- exemplars_scores %>% 
+  filter(score >= 0.15)
+```
+
+Now a function to iterate over that data frame. If the Jaccard score is sufficiently high, combine the two clusters.
+
+```{r}
+join_clusters <- function(row) {
+  exs <- c(row$a, row$b)
+  minval <- which.min(extract_date(exs))
+  exemplar <- exs[minval]
+  duplicate <- exs[ifelse(minval == 1, 2, 1)]
+  clusters[[exemplar]] <<- c(clusters[[exemplar]], clusters[[duplicate]])
+  clusters[[duplicate]] <<- NULL
+  dplyr::as_data_frame(row)
+}
+
+exemplars_scores %>% 
+  rowwise() %>% 
+  do(join_clusters(.))
+```
+
+Now convert the clusters into a data frame.
+
+```{r}
+clusters_df <- clusters %>% 
   seq_along() %>% 
   lapply(function(i) {
-    exemplar <- names(selected_clusters)[i]
-    doc <- selected_clusters[[i]]
+    exemplar <- names(clusters)[i]
+    doc <- clusters[[i]]
     data_frame(exemplar, doc, cluster_id = i)
   }) %>% 
   bind_rows() %>% 
@@ -109,7 +158,7 @@ clusters_df <- selected_clusters %>%
 clusters_df
 ```
 
-That data frame has the following properties. It is sorted so that the clusters with the most documents appear first. Within each cluster, documents appear chronologically. Each cluster contains three columns for documents (with another three columns corresponding to years). One column is the "examplar" document identified by the affinity propagation clustering. The next is the earliest document in the cluster. If there are multiple documents from the earliest year, then only one is listed. The third is a list of all the documents in the cluster. The column `n` is the number of documents in the cluster. Only clusters with `r min_cluster_length` documents or more are included.
+That data frame has the following properties. It is sorted so that the clusters with the most documents appear first. Within each cluster, documents appear chronologically. Each cluster contains three columns for documents (with another three columns corresponding to years). One column is the "examplar" document identified by the affinity propagation clustering. The next is the earliest document in the cluster. If there are multiple documents from the earliest year, then only one is listed. The third is a list of all the documents in the cluster. The column `n` is the number of documents in the cluster. All clusters regardless of length have been included.
 
 Write that to disk:
 
@@ -145,9 +194,11 @@ write_csv(earliest_summary, "out/clusters-earliest-summary.csv")
 earliest_summary %>% head(20)
 ```
 
-Now let's write out the clusters to disk.
+Now let's write out the clusters with a certain minimum number of documents to disk.
 
 ```{r, message=FALSE}
+dir.create("clusters", showWarnings = FALSE)
+
 get_printable_code <- function(doc_id) {
   require("stringr")
   content <- str_wrap(content(sections[[doc_id]]))
@@ -173,17 +224,18 @@ write_cluster <- function(df) {
   cluster_id <- unique(df$cluster_id)
   header <- get_cluster_header(exemplar, earliest, n, cluster_id)
   docs <- df$doc %>% sapply(get_printable_code) 
-  text <- str_c(header, docs, collapse = "\n") %>% 
+  text <- str_c(docs, collapse = "\n") %>% 
+    str_c(header, .) %>% 
     str_split("\n") %>% 
     unlist()
-  dir.create("clusters", showWarnings = FALSE)
-  filename <- str_c("clusters/", exemplar, ".txt")
+  filename <- str_c("clusters/", earliest, ".txt")
   message("Writing ", filename)
   writeLines(text, filename)
   df
 }
 
 clusters_df %>% 
+  filter(n >= 5) %>% 
   group_by(cluster_id) %>% 
   do(write_cluster(.))
 ```

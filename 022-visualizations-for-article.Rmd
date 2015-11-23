@@ -39,7 +39,7 @@ codes <- c(borrowings$code_a, borrowings$code_b) %>% unique()
 Calculate section matches and summarize them for a single code.
 
 ```{r}
-CA1851 <- best_section_matches("CA1851", borrowings, threshold = 0.2)
+CA1851 <- best_section_matches("CA1851", borrowings, threshold = 0.15)
 CA1851
 summarize_borrowings(CA1851)
 ```
@@ -48,7 +48,7 @@ Apply that to all the codes.
 
 ```{r}
 section_pct <- codes %>% 
-  mclapply(best_section_matches, scores = borrowings, threshold = 0.2)  %>% 
+  mclapply(best_section_matches, scores = borrowings, threshold = 0.15)  %>% 
   mclapply(summarize_borrowings) %>% 
   bind_rows()
 section_pct
@@ -58,24 +58,59 @@ Do some filtering and munge into an edge list.
 
 ```{r}
 # Note that original code is a misnomer here
-edges <- section_pct %>% 
+edges <-
+  section_pct %>% 
   mutate(original_date = extract_date(original_code),
          match_date = extract_date(match_code)) %>% 
   filter(percentage_sections >= 0.05,
          !is.na(match_code),
-         original_code >= match_code) %>% 
-  select(original_code, match_code, weight = percentage_sections)
+         original_date >= match_date) %>% 
+  select(original_code, match_code, weight = percentage_sections) %>% 
+  group_by(original_code) %>% 
+  top_n(2, weight)
 edges
 ```
 
 Turn that into a graph.
 
 ```{r}
-g <- graph_from_data_frame(edges, directed = TRUE)
-set.seed(4821)
-l <- layout.fruchterman.reingold(g, weights = E(g)$weight)
-par(mar = c(0,0,1,0))
-plot(g, edge.width = E(g)$weight * 8, layout = l,
-     edge.arrow.size = 0.65, vertex.size = 5)
-title("Codes of Civil Procedure by percentage of sections")
+g <- graph_from_data_frame(edges, directed = TRUE) 
+nodes <- distances(g, to = "NY1850", algorithm = "unweighted") %>% as.data.frame() %>% 
+  add_rownames() %>% 
+  rename(name = rowname, distance = NY1850) %>% 
+  mutate(color = ifelse(distance == 0, "red",
+                        ifelse(distance == 1, "green",
+                               ifelse(distance == 2, "yellow", "lightblue"))))
+
+nodes[nodes$name == "NY1848", "color"] <- "red"
+nodes[nodes$name == "NY1849", "color"] <- "red"
+nodes[nodes$name == "NY1850", "color"] <- "red"
+nodes[nodes$name == "NY1851", "color"] <- "red"
+g <- graph_from_data_frame(edges, directed = TRUE, vertices = nodes) 
+V(g)$year <- V(g)$name %>% extract_date()
+set.seed(4221)
+
+# g <- g %>% decompose() %>% `[[`(1)
+
+g <- add_layout_(g, with_graphopt(niter = 4000, spring.length = 25), normalize())
+
+plot_before_year <- function(x, year) {
+  x_before <- induced.subgraph(x, which(V(x)$year <= year))
+  n <- V(x)$name
+  n_before <- V(x_before)$name
+  filter <- n %in% n_before
+  x_before$layout <- x_before$layout[filter, ]
+  par(mar = c(0,0,1,0))
+  plot(x_before, edge.width = E(x_before)$weight * 8,
+       edge.arrow.size = 0.0, vertex.size = 5)
+  title(paste0("Codes of Civil Procedure before ", year))
+} 
+
+for (i in seq(1850, 1900, 5)) {
+  png(filename = paste0("out/field-code-network-ALL", i, ".png"), width = 1200,
+      height = 900)
+  plot_before_year(g, i)
+  dev.off()
+}
 ```
+

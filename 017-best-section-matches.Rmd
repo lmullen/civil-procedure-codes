@@ -8,6 +8,7 @@ date: "September 25, 2015"
 library("dplyr")
 library("stringr")
 library("readr")
+library("tidyr")
 library("ggplot2")
 library("RColorBrewer")
 source("R/extract-date.R")
@@ -19,58 +20,21 @@ The aim of this notebook is to create a function that takes a code's abbreviatio
 Read in the data.
 
 ```{r}
-scores <- read_csv("out/scores-all-sections-pairs.csv")
-scores <- scores %>% 
+load("cache/lsh-sections.rda")
+scores <- section_scores %>% 
   rename(section_a = a, section_b = b) %>% 
   mutate(code_a = extract_code_names(section_a),
          code_b = extract_code_names(section_b),
          year_a = extract_date(code_a),
-         year_b = extract_date(code_b))
+         year_b = extract_date(code_b)) %>% 
+  rename(similarity = score) %>% 
+  mutate(dissimilarity = 1 - similarity)
 scores
 ```
 
 ```{r}
-best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
-  require("dplyr")
-  require("stringr")
-  matches <- scores %>% 
-    filter(code_a == code_name | code_b == code_name) %>% 
-    mutate(match_code = ifelse(code_a == code_name, code_b, code_a),
-           code_of_interest = ifelse(code_a == code_name, code_a, code_b),
-           match_section = ifelse(code_a == code_name, section_b, section_a),
-           section_of_interest = ifelse(code_a == code_name, section_a, section_b),
-           match_year = ifelse(code_a == code_name, year_b, year_a)) %>% 
-    filter(match_code != code_of_interest,
-           match_year <= extract_date(code_name),
-           similarity >= threshold) %>% 
-    select(code_of_interest, section_of_interest, match_code, match_section,
-           similarity, dissimilarity) %>% 
-    group_by(section_of_interest) %>%
-    arrange(desc(similarity)) %>% 
-    top_n(top, similarity) 
-  
-  all_sections <- Sys.glob(str_c("legal-codes-split/", code_name, "-0*")) %>% 
-    str_replace("legal-codes-split/", "") %>% 
-    str_replace("\\.txt", "")
-  all <- data_frame(all_sections)
-  
-  all %>% 
-    left_join(matches, by = c("all_sections" = "section_of_interest")) %>% 
-    select(-code_of_interest)
-} 
-```
-
-Also a function to calculate summary statistics.
-
-```{r}
-summarize_borrowings <- function(section_list) {
-  section_list %>% 
-    group_by(match_code) %>% 
-    summarize(mean_similarity = mean(similarity),
-              n = n()) %>% 
-    mutate(percentage_sections = n / nrow(section_list)) %>% 
-    arrange(desc(n))
-}
+source("R/summarize-borrowings.R")
+source("R/best-section-matches.R")
 ```
 
 Apply this to three codes:
@@ -108,3 +72,224 @@ Plot some borrowings:
 plot_borrowings(CA1851)
 plot_borrowings(UT1870)
 ```
+
+Heatmaps of borrowings:
+
+```{r}
+col_vector <- function(n, cols) {
+  r <- trunc(n / cols)
+  remainder <- n %% cols
+  if (remainder > 0)
+    c(rep(1:cols, r), 1:remainder)
+  else
+    c(rep(1:cols, r))
+} 
+row_vector <- function(n, cols) {
+  out <- NULL
+  for (i in seq_len((n / cols) + 1)) {
+     out <- c(out, rep(i, cols))
+  }
+  out[1:n]
+}
+n_columns <- 40
+```
+
+Plot CA
+
+```{r}
+other <- c("MN1851", "IA1851", "KY1851", "MO1849")
+best_section_matches("CA1851", scores, threshold = 0.3) %>% 
+  mutate(match_code = ifelse(match_code %in% other,
+                             "Other", match_code)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_code, alpha)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in CA1851",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+Plot UT1859
+
+```{r}
+other <- c("NY1848", "WI1849", "CA1850", "NY1849", "IA1851", "NY1851", "WI1856",
+           "WI1858", "NY1853", "CA1851", "CA1858", "IA1859", "IN1852", "MA1858",
+           "MN1851", "TN1858", "KY1851", "MA1836", "MO1856", "NE1857", "OH1853",
+           "TX1855", "KS1859", "NE1859")
+best_section_matches("UT1859", scores, threshold = 0.3) %>% 
+  mutate(match_code = ifelse(match_code %in% other,
+                             "Other", match_code)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_code)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in UT1859",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+
+Plot WA1855
+
+```{r}
+white_list <- c("CA1850", "NY1850", "WI1849", "CA1851", "OR1854", "IN1852")
+other_maker <- function(x, white_list) {
+  ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+}
+best_section_matches("WA1855", scores, threshold = 0.3) %>% 
+  mutate(match_code = other_maker(match_code, white_list)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_code)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in WA1855",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+OR 1854
+
+```{r}
+white_list <- c("CA1850", "NY1853", "NY1851", "WI1849", "MN1851", "NY1850", "CA1851")
+other_maker <- function(x, white_list) {
+  ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+}
+best_section_matches("OR1854", scores, threshold = 0.15) %>% 
+  mutate(match_code = other_maker(match_code, white_list)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_code)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in OR1854",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+NC1868
+
+```{r}
+white_list <- c("DT1668", "NY1851", "NY1849", "NY1850", "WI1858", "WI1856")
+other_maker <- function(x, white_list) {
+  ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+}
+best_section_matches("NC1868", scores, threshold = 0.3) %>% 
+  mutate(match_code = other_maker(match_code, white_list)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_code)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in NC1868",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+IA1859
+
+```{r}
+white_list <- c("IA1851", "NE1857", "KY1854")
+other_maker <- function(x, white_list) {
+  ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+}
+best_section_matches("IA1859", scores, threshold = 0.3) %>% 
+  mutate(match_code = other_maker(match_code, white_list)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_code)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in IA1859",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+NM1897
+
+```{r}
+white_list <- c("MO", "NM", "IA", "NY", "MN", "WI")
+other_maker <- function(x, white_list) {
+  ifelse(is.na(x), NA, ifelse(x %in% white_list, x, "Other"))
+}
+best_section_matches("NM1897", scores, threshold = 0.15) %>% 
+  mutate(match_state = str_sub(match_code, start = 1, end = 2)) %>% 
+  mutate(match_state = other_maker(match_state, white_list)) %>% 
+  mutate(., 
+         column = col_vector(nrow(.), n_columns),
+         row = row_vector(nrow(.), n_columns),
+         match_code = as.factor(match_code)) %>% 
+  ggplot(aes(x = column, y = -row, fill = match_state)) +
+  geom_tile(color = "lightgray") + 
+  theme_minimal(base_size = 16) +
+  coord_equal() +
+  labs(x = NULL, y = NULL, title = "Borrowed sections in NM1897",
+       fill = "Section borrowed from") + 
+  theme(legend.position = "bottom", 
+        axis.ticks = element_blank(),
+        axis.line = element_blank(), axis.text = element_blank(),
+        panel.background = element_blank(), panel.grid = element_blank()) +
+  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+```
+
+Summarize by state
+
+```{r}
+summarize_by_state <- function(section_list) {
+  section_list %>% 
+    mutate(match_state = str_sub(match_code, start = 1, end = 2)) %>% 
+    group_by(match_state) %>% 
+    summarize(original_code = unique(original_code),
+              mean_similarity = mean(similarity),
+              n = n()) %>% 
+    mutate(percentage_sections = n / nrow(section_list)) %>% 
+    arrange(desc(n)) %>% 
+    select(original_code, match_state, mean_similarity, n, percentage_sections)
+}
+```
+
