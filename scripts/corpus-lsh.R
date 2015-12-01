@@ -23,4 +23,4 @@ scores <- buckets %>%
          code_b = extract_code_names(section_b),
          year_a = extract_date(code_a),
          year_b = extract_date(code_b))
-save(sections, buckets, scores, file = "cache/lsh-corpus.rda")
+save(sections, buckets, scores, file = "cache/corpus-lsh.rda")
