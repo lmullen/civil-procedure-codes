@@ -12,7 +12,7 @@ best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
            match_year <= extract_date(code_name),
            similarity >= threshold) %>%
     select(code_of_interest, section_of_interest, match_code, match_section,
-           similarity, dissimilarity) %>%
+           similarity) %>%
     group_by(section_of_interest) %>%
     arrange(desc(similarity)) %>%
     top_n(top, similarity) %>%

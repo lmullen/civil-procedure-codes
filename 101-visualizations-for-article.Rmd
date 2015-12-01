@@ -22,24 +22,14 @@ options("mc.cores" = 6L)
 Read the data.
 
 ```{r}
-cache_corpus <- "cache/corpus-sections-minash-n120-seed623.rda"
-load(file = cache_corpus)
-cache_lsh <- "cache/lsh-sections.rda"
-load(file = cache_lsh)
-borrowings <- section_scores %>% 
-  rename(section_a = a, section_b = b, similarity = score) %>% 
-  mutate(dissimilarity = 1 - similarity,
-         code_a = extract_code_names(section_a),
-         code_b = extract_code_names(section_b),
-         year_a = extract_date(code_a),
-         year_b = extract_date(code_b))
-codes <- c(borrowings$code_a, borrowings$code_b) %>% unique()
+load("cache/corpus-lsh.rda")
+codes <- c(scores$code_a, scores$code_b) %>% unique()
 ```
 
 Calculate section matches and summarize them for a single code.
 
 ```{r}
-CA1851 <- best_section_matches("CA1851", borrowings, threshold = 0.15)
+CA1851 <- best_section_matches("CA1851", scores, threshold = 0.15)
 CA1851
 summarize_borrowings(CA1851)
 ```
@@ -48,7 +38,7 @@ Apply that to all the codes.
 
 ```{r}
 section_pct <- codes %>% 
-  mclapply(best_section_matches, scores = borrowings, threshold = 0.15)  %>% 
+  mclapply(best_section_matches, scores = scores, threshold = 0.15)  %>% 
   mclapply(summarize_borrowings) %>% 
   bind_rows()
 section_pct
