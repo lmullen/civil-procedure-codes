@@ -3,16 +3,21 @@ CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 NOTEBOOKS   := $(patsubst %.Rmd, %.md, $(wildcard *.Rmd))
 
-all : $(NOTEBOOKS)
+all : $(NOTEBOOKS) lsh
 
 codes : $(CLEAN_CODES)
 
 splits : $(SPLIT_CODES)
 
+lsh : cache/corpus-lsh.rda codes
+
+cache/corpus-lsh.rda : $(SPLIT_CODES)
+	Rscript --vanilla scripts/corpus-lsh.R
+
 %.md : %.Rmd
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'all')"
 
-legal-codes-split/%-SPLIT.txt : legal-codes/%.txt
+legal-codes-split/%-SPLIT.txt : legal-codes/%.txt $(CLEAN_CODES)
 	Rscript --vanilla scripts/split-code.R $<
 	touch $@
 
@@ -39,12 +44,14 @@ temp/%.txt : pdf/%.pdf
 
 .PHONY : clean
 clean :
-	rm -rf temp/
+	rm -rf cache/*
+	rm -rf temp/*
 
 .PHONY : clean-splits
 clean-splits :
 	rm -f legal-codes/*
 	rm -rf legal-codes-split
+	rm -f cache/corpus-lsh.rda
 	mkdir legal-codes-split
 
 .PHONY : clean-notebooks
@@ -52,7 +59,7 @@ clean-notebooks :
 	rm -rf $(NOTEBOOKS)
 
 .PHONY : clobber
-clobber : clean clean-notebooks
+clobber : clean clean-splits clean-notebooks
 	rm -rf text/*
 	rm -rf legal-codes/*
 
