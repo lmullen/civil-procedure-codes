@@ -11,6 +11,7 @@ library("igraph")
 library("dplyr")
 library("stringr")
 library("parallel")
+library("scales")
 library("textreuse")
 source("R/best-section-matches.R")
 source("R/summarize-borrowings.R")
@@ -97,3 +98,50 @@ for (i in seq(1850, 1900, 5)) {
 }
 ```
 
+Create a graph based on numbers (not percentages) of sections shared. Notice that we are keeping only code to code matches that share a certain number of sections (`minimum_n`), we are keeping only a certain number of matches for each code (`top_matches`), and we are omitting codes that aren't part of the main network.
+
+```{r}
+minimum_n <- 3
+top_matches <- 2
+codes_not_to_plot <- c("LA1825", "LA1844")
+
+edges_n <- code_match_summary %>% 
+  mutate(borrower_date = extract_date(borrower_code),
+         match_date = extract_date(match_code)) %>% 
+  filter(!is.na(match_code),
+         borrower_date >= match_date,
+         n >= minimum_n) %>%  
+  select(borrower_code, match_code, weight = n) %>% 
+  group_by(borrower_code) %>% 
+  top_n(top_matches, weight) %>% 
+  ungroup() %>% 
+  mutate(weight = rescale(weight)) %>% 
+  filter(!borrower_code %in% codes_not_to_plot,
+         !match_code %in% codes_not_to_plot)
+edges_n
+
+g_n <- graph_from_data_frame(edges_n, directed = TRUE) 
+node_distances <- distances(g_n, to = c("NY1848", "NY1849", "NY1850", "NY1851"),
+                     algorithm = "unweighted") %>% 
+                     apply(1, min, na.rm = TRUE)
+nodes_n <- data_frame(name = names(node_distances), distance = node_distances) %>% 
+  mutate(color = ifelse(distance == 0, "red",
+                        ifelse(distance == 1, "green",
+                               ifelse(distance == 2, "yellow", "lightblue"))))
+
+g_n <- graph_from_data_frame(edges_n, directed = TRUE, vertices = nodes_n) 
+V(g_n)$year <- V(g_n)$name %>% extract_date()
+
+edge_size_clamp <- function(g, multiplier = 20, max_val = 6, min_val = 0.5) {
+  w <- E(g)$weight * multiplier
+  w[w > max_val] <- max_val
+  w[w < min_val] <- min_val
+  w
+}
+
+set.seed(4221)
+g_n <- g_n %>% add_layout_(with_graphopt(niter = 4000, spring.length = 45),
+                           normalize())
+par(mar = c(0,0,1,0))
+plot(g_n, edge.width = edge_size_clamp(g_n), edge.arrow.size = 0, vertex.size = 5)
+```
