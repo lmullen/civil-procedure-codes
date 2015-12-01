@@ -37,34 +37,29 @@ summarize_borrowings(CA1851)
 Apply that to all the codes.
 
 ```{r}
-section_pct <- codes %>% 
+code_match_summary <- codes %>% 
   mclapply(best_section_matches, scores = scores, threshold = 0.15)  %>% 
   mclapply(summarize_borrowings) %>% 
   bind_rows()
-section_pct
+code_match_summary
 ```
 
-Do some filtering and munge into an edge list.
+Create a network graph based on section percentages.
 
 ```{r}
-# Note that original code is a misnomer here
-edges <-
-  section_pct %>% 
-  mutate(original_date = extract_date(original_code),
+edges_pct <-
+  code_match_summary %>% 
+  mutate(borrower_date = extract_date(borrower_code),
          match_date = extract_date(match_code)) %>% 
   filter(percentage_sections >= 0.05,
          !is.na(match_code),
-         original_date >= match_date) %>% 
-  select(original_code, match_code, weight = percentage_sections) %>% 
-  group_by(original_code) %>% 
+         borrower_date >= match_date) %>% 
+  select(borrower_code, match_code, weight = percentage_sections) %>% 
+  group_by(borrower_code) %>% 
   top_n(2, weight)
-edges
-```
+edges_pct
 
-Turn that into a graph.
-
-```{r}
-g <- graph_from_data_frame(edges, directed = TRUE) 
+g <- graph_from_data_frame(edges_pct, directed = TRUE) 
 nodes <- distances(g, to = "NY1850", algorithm = "unweighted") %>% as.data.frame() %>% 
   add_rownames() %>% 
   rename(name = rowname, distance = NY1850) %>% 
@@ -76,11 +71,9 @@ nodes[nodes$name == "NY1848", "color"] <- "red"
 nodes[nodes$name == "NY1849", "color"] <- "red"
 nodes[nodes$name == "NY1850", "color"] <- "red"
 nodes[nodes$name == "NY1851", "color"] <- "red"
-g <- graph_from_data_frame(edges, directed = TRUE, vertices = nodes) 
+g <- graph_from_data_frame(edges_pct, directed = TRUE, vertices = nodes) 
 V(g)$year <- V(g)$name %>% extract_date()
 set.seed(4221)
-
-# g <- g %>% decompose() %>% `[[`(1)
 
 g <- add_layout_(g, with_graphopt(niter = 4000, spring.length = 25), normalize())
 

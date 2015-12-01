@@ -16,7 +16,7 @@ best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
     group_by(section_of_interest) %>%
     arrange(desc(similarity)) %>%
     top_n(top, similarity) %>%
-    mutate(original_code = code_name)
+    mutate(borrower_code = code_name)
 
   all_sections <- Sys.glob(str_c("legal-codes-split/", code_name, "-0*")) %>%
     str_replace("legal-codes-split/", "") %>%
