@@ -156,26 +156,26 @@ certain number of sections (`minimum_n`), we are keeping only a certain
 number of matches for each code (`top_matches`), and we are omitting
 codes that aren't part of the main network.
 
-    minimum_n <- 50
-    top_matches <- 4
+    minimum_n <- 20
+    top_matches <- 3
     codes_not_to_plot <- c(
-      "CO868", 
+      # "CO868", 
     #   "CT1879", 
-      "FL1847", 
-      "FL1892", 
+      # "FL1847", 
+      # "FL1892", 
       "GA1851",
       "GA1860", 
-    #   "HI1859", 
-    #   "HI1897", 
-      "IL1866", 
-    #   "LA1825", 
-    #   "LA1844", 
+      "HI1859", 
+      "HI1897", 
+      # "IL1866", 
+      "LA1825", 
+      "LA1844", 
     #   "MS1848", 
     #   "MS1857", 
-      "NY1876", 
-      "NY1879",
-      "VA1860", 
-    #   "VA1893", 
+      # "NY1876", 
+      # "NY1879",
+      # "VA1860", 
+      "VA1893", 
       "WV1868" 
       )
     # codes_not_to_plot <- NULL
@@ -195,20 +195,20 @@ codes that aren't part of the main network.
              !match_code %in% codes_not_to_plot)
     edges_n
 
-    ## Source: local data frame [177 x 3]
+    ## Source: local data frame [197 x 3]
     ## 
     ##    borrower_code match_code      weight
     ##            (chr)      (chr)       (dbl)
-    ## 1         AK1900     OR1862 0.391486811
-    ## 2         AR1868     KY1854 0.220023981
-    ## 3         AR1868     KY1851 0.207434053
-    ## 4         AR1874     AR1868 0.100119904
-    ## 5         AR1874     KY1851 0.037769784
-    ## 6         AR1874     KY1854 0.021582734
-    ## 7         AZ1865     CA1851 0.181055156
-    ## 8         AZ1865     CA1858 0.163669065
-    ## 9         AZ1865     NV1861 0.056354916
-    ## 10        AZ1865     MT1865 0.005995204
+    ## 1         AK1900     OR1862 0.401885681
+    ## 2         AK1900     NY1850 0.011196229
+    ## 3         AK1900     OR1854 0.004714202
+    ## 4         AR1868     KY1854 0.233352976
+    ## 5         AR1868     KY1851 0.220978197
+    ## 6         AR1868     OH1853 0.007660577
+    ## 7         AR1874     AR1868 0.115497938
+    ## 8         AR1874     KY1851 0.054213318
+    ## 9         AR1874     KY1854 0.038302887
+    ## 10        AZ1865     CA1851 0.195050088
     ## ..           ...        ...         ...
 
     g_n <- graph_from_data_frame(edges_n, directed = TRUE) 
@@ -227,7 +227,7 @@ codes that aren't part of the main network.
     g_n <- graph_from_data_frame(edges_n, directed = TRUE, vertices = nodes_n) 
     V(g_n)$year <- V(g_n)$name %>% extract_date()
 
-    edge_size_clamp <- function(g, multiplier = 20, max_val = 6, min_val = 0.5) {
+    edge_size_clamp <- function(g, multiplier = 20, max_val = 6, min_val = 1) {
       w <- E(g)$weight * multiplier
       w[w > max_val] <- max_val
       w[w < min_val] <- min_val
