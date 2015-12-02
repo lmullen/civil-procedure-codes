@@ -156,9 +156,29 @@ certain number of sections (`minimum_n`), we are keeping only a certain
 number of matches for each code (`top_matches`), and we are omitting
 codes that aren't part of the main network.
 
-    minimum_n <- 3
-    top_matches <- 2
-    codes_not_to_plot <- c("LA1825", "LA1844")
+    minimum_n <- 50
+    top_matches <- 4
+    codes_not_to_plot <- c(
+      "CO868", 
+    #   "CT1879", 
+      "FL1847", 
+      "FL1892", 
+      "GA1851",
+      "GA1860", 
+    #   "HI1859", 
+    #   "HI1897", 
+      "IL1866", 
+    #   "LA1825", 
+    #   "LA1844", 
+    #   "MS1848", 
+    #   "MS1857", 
+      "NY1876", 
+      "NY1879",
+      "VA1860", 
+    #   "VA1893", 
+      "WV1868" 
+      )
+    # codes_not_to_plot <- NULL
 
     edges_n <- code_match_summary %>% 
       mutate(borrower_date = extract_date(borrower_code),
@@ -175,21 +195,21 @@ codes that aren't part of the main network.
              !match_code %in% codes_not_to_plot)
     edges_n
 
-    ## Source: local data frame [181 x 3]
+    ## Source: local data frame [177 x 3]
     ## 
-    ##    borrower_code match_code       weight
-    ##            (chr)      (chr)        (dbl)
-    ## 1         AK1900     OR1862 0.4081632653
-    ## 2         AK1900     NY1850 0.0215743440
-    ## 3         AL1852     NY1850 0.0093294461
-    ## 4         AL1852     CA1851 0.0005830904
-    ## 5         AR1868     KY1854 0.2413994169
-    ## 6         AR1868     KY1851 0.2291545190
-    ## 7         AR1874     AR1868 0.1247813411
-    ## 8         AR1874     KY1851 0.0641399417
-    ## 9         AZ1865     CA1851 0.2034985423
-    ## 10        AZ1865     CA1858 0.1865889213
-    ## ..           ...        ...          ...
+    ##    borrower_code match_code      weight
+    ##            (chr)      (chr)       (dbl)
+    ## 1         AK1900     OR1862 0.391486811
+    ## 2         AR1868     KY1854 0.220023981
+    ## 3         AR1868     KY1851 0.207434053
+    ## 4         AR1874     AR1868 0.100119904
+    ## 5         AR1874     KY1851 0.037769784
+    ## 6         AR1874     KY1854 0.021582734
+    ## 7         AZ1865     CA1851 0.181055156
+    ## 8         AZ1865     CA1858 0.163669065
+    ## 9         AZ1865     NV1861 0.056354916
+    ## 10        AZ1865     MT1865 0.005995204
+    ## ..           ...        ...         ...
 
     g_n <- graph_from_data_frame(edges_n, directed = TRUE) 
     node_distances <- distances(g_n, to = c("NY1848", "NY1849", "NY1850", "NY1851"),
@@ -215,9 +235,10 @@ codes that aren't part of the main network.
     }
 
     set.seed(4221)
-    g_n <- g_n %>% add_layout_(with_graphopt(niter = 4000, spring.length = 45),
+    g_n <- g_n %>% add_layout_(with_graphopt(niter = 4000, spring.length = 25),
                                normalize())
     par(mar = c(0,0,1,0))
     plot(g_n, edge.width = edge_size_clamp(g_n), edge.arrow.size = 0, vertex.size = 5)
+    title("Borrowings between codes, number of sections borrowed")
 
 <img src="101-visualizations-for-article_files/figure-markdown_strict/unnamed-chunk-6-1.png" title="" alt="" width="672" />

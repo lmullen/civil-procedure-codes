@@ -101,9 +101,29 @@ for (i in seq(1850, 1900, 5)) {
 Create a graph based on numbers (not percentages) of sections shared. Notice that we are keeping only code to code matches that share a certain number of sections (`minimum_n`), we are keeping only a certain number of matches for each code (`top_matches`), and we are omitting codes that aren't part of the main network.
 
 ```{r}
-minimum_n <- 3
-top_matches <- 2
-codes_not_to_plot <- c("LA1825", "LA1844")
+minimum_n <- 50
+top_matches <- 4
+codes_not_to_plot <- c(
+  "CO868", 
+#   "CT1879", 
+  "FL1847", 
+  "FL1892", 
+  "GA1851",
+  "GA1860", 
+#   "HI1859", 
+#   "HI1897", 
+  "IL1866", 
+#   "LA1825", 
+#   "LA1844", 
+#   "MS1848", 
+#   "MS1857", 
+  "NY1876", 
+  "NY1879",
+  "VA1860", 
+#   "VA1893", 
+  "WV1868" 
+  )
+# codes_not_to_plot <- NULL
 
 edges_n <- code_match_summary %>% 
   mutate(borrower_date = extract_date(borrower_code),
@@ -140,8 +160,9 @@ edge_size_clamp <- function(g, multiplier = 20, max_val = 6, min_val = 0.5) {
 }
 
 set.seed(4221)
-g_n <- g_n %>% add_layout_(with_graphopt(niter = 4000, spring.length = 45),
+g_n <- g_n %>% add_layout_(with_graphopt(niter = 4000, spring.length = 25),
                            normalize())
 par(mar = c(0,0,1,0))
 plot(g_n, edge.width = edge_size_clamp(g_n), edge.arrow.size = 0, vertex.size = 5)
+title("Borrowings between codes, number of sections borrowed")
 ```
