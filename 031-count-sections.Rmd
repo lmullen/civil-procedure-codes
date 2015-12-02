@@ -1,0 +1,47 @@
+---
+title: "Number of actual sections"
+author: "Lincoln Mullen"
+date: "December 2, 2015"
+---
+
+Count the number of sections in each code.
+
+```{r}
+library("magrittr")
+library("readr")
+library("dplyr")
+library("stringr")
+library("knitr")
+code_files <- Sys.glob("legal-codes/*")
+codes <- lapply(code_files, read_lines)
+names(codes) <- code_files %>% basename() %>% str_replace_all("\\.txt", "")
+code_info <- read_csv("codes/code-generations.csv")
+```
+
+A section is a line with `§` or `SEC.` at the very beginning.
+
+```{r}
+pattern_clean <- regex("(^§|^SEC\\.)", ignore_case = FALSE)
+counts <- codes %>% 
+  lapply(str_detect, pattern_clean) %>% 
+  sapply(sum, na.rm = TRUE)
+section_counts <- data_frame(code = names(counts), sections = counts) %>% 
+  left_join(code_info)
+```
+
+The number of sections in each generation.
+
+```{r}
+section_counts %>% 
+  group_by(generation) %>% 
+  summarise(sections = sum(sections)) %>% 
+  kable()
+```
+
+The number of sections in each code.
+
+```{r}
+section_counts %>% 
+  kable()
+```
+
