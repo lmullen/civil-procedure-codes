@@ -27,3 +27,14 @@ best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
     left_join(matches, by = c("all_sections" = "section_of_interest")) %>%
     select(-code_of_interest)
 }
+
+summarize_borrowings <- function(section_list) {
+  section_list %>%
+    group_by(match_code) %>%
+    summarize(borrower_code = unique(borrower_code),
+              mean_similarity = mean(similarity),
+              n = n()) %>%
+    mutate(percentage_sections = n / nrow(section_list)) %>%
+    arrange(desc(n)) %>%
+    select(borrower_code, match_code, mean_similarity, n, percentage_sections)
+}
