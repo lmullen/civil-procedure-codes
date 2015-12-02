@@ -4,7 +4,7 @@ SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wi
 NOTEBOOKS   := $(patsubst %.Rmd, %.md, $(wildcard *.Rmd))
 NOTEBOOKS_HTML := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
-all : $(NOTEBOOKS) $(NOTEBOOKS_HTML) lsh
+all : $(NOTEBOOKS) lsh
 
 codes : $(CLEAN_CODES)
 
@@ -16,7 +16,7 @@ cache/corpus-lsh.rda : $(SPLIT_CODES)
 	Rscript --vanilla scripts/corpus-lsh.R
 
 %.md : %.Rmd
-	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'md_document')"
+	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = rmarkdown::md_document(fig_retina = 2))"
 
 %.html : %.Rmd
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'html_document')"
