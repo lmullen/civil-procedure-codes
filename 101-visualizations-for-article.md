@@ -9,6 +9,7 @@
     source("R/summarize-borrowings.R")
     source("R/extract-date.R")
     source("R/extract_code_names.R")
+    source("R/extract-state.R")
     options("mc.cores" = 6L)
 
 Read the data.
@@ -242,3 +243,73 @@ codes that aren't part of the main network.
     title("Borrowings between codes, number of sections borrowed")
 
 <img src="101-visualizations-for-article_files/figure-markdown_strict/unnamed-chunk-6-1.png" title="" alt="" width="672" />
+
+Now do a state to state network:
+
+    min_state_borrowings <- 100
+    top_matches <- 3
+    edges_states <- code_match_summary %>% 
+      mutate(borrower_date = extract_date(borrower_code),
+             match_date = extract_date(match_code),
+             borrower_state = extract_state(borrower_code),
+             match_state = extract_state(match_code)) %>% 
+      filter(!is.na(match_code),
+             borrower_date >= match_date,
+             borrower_state != match_state) %>% 
+      group_by(borrower_state, match_state) %>% 
+      summarize(n = sum(n)) %>% 
+      filter(n >= min_state_borrowings) %>% 
+      select(borrower_state, match_state, weight = n) %>% 
+      group_by(borrower_state) %>% 
+      top_n(top_matches, weight) %>% 
+      ungroup() %>% 
+      mutate(weight = rescale(weight))
+
+    edges_states
+
+    ## Source: local data frame [68 x 3]
+    ## 
+    ##    borrower_state match_state     weight
+    ##             (chr)       (chr)      (dbl)
+    ## 1              AK          OR 0.50000000
+    ## 2              AR          KY 0.72222222
+    ## 3              AZ          CA 0.78253968
+    ## 4              AZ          NV 0.05079365
+    ## 5              CA          AZ 0.07619048
+    ## 6              CA          NV 0.17936508
+    ## 7              CA          NY 0.82619048
+    ## 8              CO          CA 0.17777778
+    ## 9              CO          IL 0.03412698
+    ## 10             CO          NV 0.05555556
+    ## ..            ...         ...        ...
+
+    g_states <- graph_from_data_frame(edges_states, directed = TRUE)
+
+    state_distances <- distances(g_states, to = "NY", algorithm = "unweighted") 
+
+    ## Warning in distances(g_states, to = "NY", algorithm = "unweighted"):
+    ## Unweighted algorithm chosen, weights ignored
+
+    nodes_states <- data_frame(name = rownames(state_distances),
+                               distance = state_distances[, 1]) %>% 
+      mutate(color = ifelse(distance == 0, "red",
+                            ifelse(distance == 1, "green",
+                                   ifelse(distance == 2, "yellow", "lightblue"))))
+
+    g_states <- graph_from_data_frame(edges_states, directed = TRUE,
+                                      vertices = nodes_states) %>% 
+      decompose(min.vertices = 3) %>% 
+      `[[`(1)
+
+    set.seed(4221)
+    g_states <- g_states %>% add_layout_(with_graphopt(niter = 4000,
+                                                       spring.length = 25),
+                                         normalize())
+    par(mar = c(0,0,1,0))
+    plot(g_states, 
+         edge.width = edge_size_clamp(g_n), edge.arrow.size = 0.5,
+         edge.arrow.mode = 1,
+         vertex.size = 5, vertex.label.dist = 0.85, vertex.label.degree = pi)
+    title("Borrowings between states, number of sections borrowed")
+
+<img src="101-visualizations-for-article_files/figure-markdown_strict/unnamed-chunk-7-1.png" title="" alt="" width="672" />
