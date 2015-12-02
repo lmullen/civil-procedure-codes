@@ -2,8 +2,9 @@ OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 NOTEBOOKS   := $(patsubst %.Rmd, %.md, $(wildcard *.Rmd))
+NOTEBOOKS_HTML := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
-all : $(NOTEBOOKS) lsh
+all : $(NOTEBOOKS) $(NOTEBOOKS_HTML) lsh
 
 codes : $(CLEAN_CODES)
 
@@ -15,7 +16,10 @@ cache/corpus-lsh.rda : $(SPLIT_CODES)
 	Rscript --vanilla scripts/corpus-lsh.R
 
 %.md : %.Rmd
-	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'all')"
+	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'md_document')"
+
+%.html : %.Rmd
+	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'html_document')"
 
 legal-codes-split/%-SPLIT.txt : legal-codes/%.txt $(CLEAN_CODES)
 	Rscript --vanilla scripts/split-code.R $<
