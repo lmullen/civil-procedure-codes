@@ -1,6 +1,7 @@
 library("textreuse")
 library("dplyr")
 library("stringr")
+library("readr")
 source("R/helper.R")
 options("mc.cores" = 6L)
 
@@ -38,3 +39,4 @@ matches <- data_frame(borrower_section = names(sections)) %>%
   arrange(borrower_section, match_section)
 
 save(sections, buckets, scores, matches, file = "cache/corpus-lsh.rda")
+write_csv(matches, "cache/matches.csv")
