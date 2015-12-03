@@ -1,8 +1,10 @@
-library("textreuse")
+library("readr")
+library("plyr")
 library("dplyr")
 library("stringr")
-library("readr")
+library("textreuse")
 source("R/helper.R")
+source("R/section-matches.R")
 options("mc.cores" = 6L)
 
 h <- 120
@@ -28,7 +30,7 @@ scores_for_join <- bind_rows(scores, scores_swapped) %>%
   rename(borrower_section = a,
          match_section = b)
 
-matches <- data_frame(borrower_section = names(sections)) %>%
+all_matches <- data_frame(borrower_section = names(sections)) %>%
   left_join(scores_for_join, by = "borrower_section") %>%
   mutate(borrower_code = extract_code_names(borrower_section),
          borrower_year = extract_date(borrower_section),
@@ -38,5 +40,25 @@ matches <- data_frame(borrower_section = names(sections)) %>%
          match_state = extract_state(match_section)) %>%
   arrange(borrower_section, match_section)
 
-save(sections, buckets, scores, matches, file = "cache/corpus-lsh.rda")
-write_csv(matches, "cache/matches.csv")
+best_matches <- data_frame(borrower_section = names(sections)) %>%
+  left_join(get_best_matches(all_matches), by = "borrower_section") %>%
+  mutate(borrower_code = extract_code_names(borrower_section),
+         borrower_year = extract_date(borrower_section),
+         borrower_state = extract_state(borrower_section),
+         match_code = extract_code_names(match_section),
+         match_year = extract_date(match_section),
+         match_state = extract_state(match_section)) %>%
+  arrange(borrower_section, match_section)
+
+split_matches <- dlply(best_matches, "borrower_code", identity)
+
+save(sections, buckets, scores, all_matches, best_matches,
+     file = "cache/corpus-lsh.rda")
+
+dir.create("out/matches", showWarnings = FALSE)
+write_csv(all_matches, "out/matches/all_matches.csv")
+write_csv(best_matches, "out/matches/best_matches.csv")
+lapply(names(split_matches), function(x) {
+  write_csv(split_matches[[x]], str_c("out/matches/", x, "-best-matches.csv"))
+}) %>% invisible
+
