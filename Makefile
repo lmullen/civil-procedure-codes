@@ -1,25 +1,24 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
-NOTEBOOKS   := $(patsubst %.Rmd, %.md, $(wildcard *.Rmd))
-NOTEBOOKS_HTML := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
+INCLUDES  := $(wildcard www-lib/*.html)
+NOTEBOOKS   := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
-all : $(NOTEBOOKS) lsh
+all : $(NOTEBOOKS)
 
 codes : $(CLEAN_CODES)
 
 splits : $(SPLIT_CODES)
 
-lsh : cache/corpus-lsh.rda codes
+lsh : cache/corpus-lsh.rda
 
 cache/corpus-lsh.rda : $(SPLIT_CODES)
 	Rscript --vanilla scripts/corpus-lsh.R
 
-%.md : %.Rmd
-	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = rmarkdown::md_document(fig_retina = 2))"
+%.html : %.Rmd cache/corpus-lsh.rda $(INCLUDES)
+	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
 
-%.html : %.Rmd
-	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'html_document')"
+index.html : index.Rmd $(INCLUDES) $(filter-out index.html, $(NOTEBOOKS))
 
 legal-codes-split/%-SPLIT.txt : legal-codes/%.txt $(CLEAN_CODES)
 	Rscript --vanilla scripts/split-code.R $<
@@ -48,22 +47,16 @@ temp/%.txt : pdf/%.pdf
 
 .PHONY : clean
 clean :
-	rm -rf cache/*
+	rm -rf $(NOTEBOOKS)
 	rm -rf temp/*
 
 .PHONY : clean-splits
 clean-splits :
+	rm -rf text/*
 	rm -f legal-codes/*
 	rm -rf legal-codes-split
 	rm -f cache/corpus-lsh.rda
 	mkdir legal-codes-split
 
-.PHONY : clean-notebooks
-clean-notebooks :
-	rm -rf $(NOTEBOOKS)
-
 .PHONY : clobber
-clobber : clean clean-splits clean-notebooks
-	rm -rf text/*
-	rm -rf legal-codes/*
-
+clobber : clean clean-splits
