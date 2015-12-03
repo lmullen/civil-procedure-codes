@@ -1,9 +1,11 @@
 ---
-title: "Sparse matrix of comparisons"
+title: "Cluster the documents"
 author: "Lincoln Mullen"
 date: "November 5, 2015"
 output: html_document
 ---
+
+We are going to create clusters of our documents using the affinity propagration algorithm.
 
 Our data is bigger than anticipated when the number of section by section comparisons is stored as a non-sparse matrix. So we are going to read in the section comparisons and convert them to a sparse matrix.
 
@@ -13,27 +15,23 @@ library("apcluster")
 library("dplyr")
 library("readr")
 library("textreuse")
-source("R/extract-date.R")
-source("R/extract_code_names.R")
-cache_lsh <- "cache/lsh-sections.rda"
-load(file = cache_lsh)
-cache_corpus <- "cache/corpus-sections-minash-n120-seed623.rda"
-load(file = cache_corpus)
+source("R/helper.R")
+load("cache/corpus-lsh.rda")
 ```
 
 Filter the sections down to a meaningful value.
 
 ```{r}
-scores <- section_scores %>% 
+scores_clustering <- scores %>% 
   filter(score >= 0.1)
-scores
-nrow(scores)
+scores_clustering
+nrow(scores_clustering)
 ```
 
 Get the sections involved:
 
 ```{r}
-section_names <- lsh_subset(scores)
+section_names <- lsh_subset(scores_clustering)
 head(section_names, 10)
 length(section_names)
 ```
@@ -43,17 +41,19 @@ Create a look up data frame of matrix index positions.
 ```{r}
 lookup <- data_frame(section_names, index = 1:length(section_names))
 lookup
-scores <- scores %>% 
+scores_clustering <- scores_clustering %>% 
   left_join(lookup, by = c("a" = "section_names")) %>% 
   left_join(lookup, by = c("b" = "section_names")) 
-scores
+scores_clustering
 ```
 
 Create the sparse matrix.
 
 ```{r}
 n <- length(section_names)
-m <- sparseMatrix(i = scores$index.x, j = scores$index.y, x = scores$score,
+m <- sparseMatrix(i = scores_clustering$index.x,
+                  j = scores_clustering$index.y,
+                  x = scores_clustering$score,
                   dims = c(n, n), symmetric = TRUE)
 colnames(m) <- section_names
 rownames(m) <- section_names
@@ -163,7 +163,8 @@ That data frame has the following properties. It is sorted so that the clusters 
 Write that to disk:
 
 ```{r}
-write_csv(clusters_df, "out/clusters.csv")
+dir.create("out/clusters")
+write_csv(clusters_df, "out/clusters/clusters.csv")
 ```
 
 Some summary statistics about the borrowings. 
@@ -197,6 +198,7 @@ earliest_summary %>% head(20)
 Now let's write out the clusters with a certain minimum number of documents to disk.
 
 ```{r, message=FALSE}
+unlink("clusters", recursive = TRUE)
 dir.create("clusters", showWarnings = FALSE)
 
 get_printable_code <- function(doc_id) {
@@ -239,4 +241,3 @@ clusters_df %>%
   group_by(cluster_id) %>% 
   do(write_cluster(.))
 ```
-
