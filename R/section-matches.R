@@ -67,13 +67,12 @@ best_matches <- function(matches, threshold = 0.1, tolerance = 0.1) {
 
 }
 
-summarize_borrowings <- function(section_list) {
-  section_list %>%
-    group_by(match_code) %>%
-    summarize(borrower_code = unique(borrower_code),
-              mean_similarity = mean(similarity),
-              n = n()) %>%
-    mutate(percentage_sections = n / nrow(section_list)) %>%
-    arrange(desc(n)) %>%
-    select(borrower_code, match_code, mean_similarity, n, percentage_sections)
+summarize_borrowings <- function(matches) {
+  matches %>%
+    group_by(borrower_code, match_code) %>%
+    summarize(mean_score = mean(score, na.rm = TRUE),
+              sections_borrowed = n()) %>%
+    group_by(borrower_code) %>%
+    mutate(percent_borrowed = sections_borrowed / sum(sections_borrowed)) %>%
+    arrange(desc(sections_borrowed))
 }
