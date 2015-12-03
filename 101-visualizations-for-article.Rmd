@@ -9,53 +9,25 @@ library("readr")
 library("igraph")
 library("dplyr")
 library("stringr")
-library("parallel")
 library("scales")
 library("textreuse")
-source("R/best-section-matches.R")
-source("R/summarize-borrowings.R")
-source("R/extract-date.R")
-source("R/extract_code_names.R")
-source("R/extract-state.R")
-options("mc.cores" = 6L)
+source("R/helper.R")
+source("R/section-matches.R")
 ```
 
 Read the data.
 
 ```{r}
 load("cache/corpus-lsh.rda")
-codes <- c(scores$code_a, scores$code_b) %>% unique()
-```
-
-Calculate section matches and summarize them for a single code.
-
-```{r}
-CA1851 <- best_section_matches("CA1851", scores, threshold = 0.15)
-CA1851
-summarize_borrowings(CA1851)
-```
-
-Apply that to all the codes.
-
-```{r}
-code_match_summary <- codes %>% 
-  mclapply(best_section_matches, scores = scores, threshold = 0.15)  %>% 
-  mclapply(summarize_borrowings) %>% 
-  bind_rows()
-code_match_summary
 ```
 
 Create a network graph based on section percentages.
 
 ```{r}
-edges_pct <-
-  code_match_summary %>% 
-  mutate(borrower_date = extract_date(borrower_code),
-         match_date = extract_date(match_code)) %>% 
-  filter(percentage_sections >= 0.05,
-         !is.na(match_code),
-         borrower_date >= match_date) %>% 
-  select(borrower_code, match_code, weight = percentage_sections) %>% 
+edges_pct <- summary_matches %>% 
+  filter(percent_borrowed >= 0.05,
+         !is.na(match_code)) %>% 
+  select(borrower_code, match_code, weight = percent_borrowed) %>% 
   group_by(borrower_code) %>% 
   top_n(2, weight)
 edges_pct
@@ -91,10 +63,7 @@ plot_before_year <- function(x, year) {
 } 
 
 for (i in seq(1850, 1900, 5)) {
-  png(filename = paste0("out/field-code-network-ALL", i, ".png"), width = 1200,
-      height = 900)
   plot_before_year(g, i)
-  dev.off()
 }
 ```
 
@@ -102,36 +71,33 @@ Create a graph based on numbers (not percentages) of sections shared. Notice tha
 
 ```{r}
 minimum_n <- 20
-top_matches <- 3
+top_matches <- 2
 codes_not_to_plot <- c(
   # "CO868", 
-#   "CT1879", 
+  # "CT1879", 
   # "FL1847", 
   # "FL1892", 
   "GA1851",
   "GA1860", 
   "HI1859", 
-  "HI1897", 
+  "HI1897",
   # "IL1866", 
   "LA1825", 
-  "LA1844", 
+  "LA1844" 
 #   "MS1848", 
 #   "MS1857", 
   # "NY1876", 
   # "NY1879",
   # "VA1860", 
-  "VA1893", 
-  "WV1868" 
+  # "VA1893", 
+  # "WV1868" 
   )
 # codes_not_to_plot <- NULL
 
-edges_n <- code_match_summary %>% 
-  mutate(borrower_date = extract_date(borrower_code),
-         match_date = extract_date(match_code)) %>% 
+edges_n <- summary_matches %>% 
   filter(!is.na(match_code),
-         borrower_date >= match_date,
-         n >= minimum_n) %>%  
-  select(borrower_code, match_code, weight = n) %>% 
+         sections_borrowed >= minimum_n) %>%  
+  select(borrower_code, match_code, weight = sections_borrowed) %>% 
   group_by(borrower_code) %>% 
   top_n(top_matches, weight) %>% 
   ungroup() %>% 
@@ -171,8 +137,8 @@ Now do a state to state network:
 
 ```{r}
 min_state_borrowings <- 100
-top_matches <- 3
-edges_states <- code_match_summary %>% 
+top_matches <- 2
+edges_states <- summary_matches %>% 
   mutate(borrower_date = extract_date(borrower_code),
          match_date = extract_date(match_code),
          borrower_state = extract_state(borrower_code),
@@ -181,7 +147,7 @@ edges_states <- code_match_summary %>%
          borrower_date >= match_date,
          borrower_state != match_state) %>% 
   group_by(borrower_state, match_state) %>% 
-  summarize(n = sum(n)) %>% 
+  summarize(n = sum(sections_borrowed)) %>% 
   filter(n >= min_state_borrowings) %>% 
   select(borrower_state, match_state, weight = n) %>% 
   group_by(borrower_state) %>% 
