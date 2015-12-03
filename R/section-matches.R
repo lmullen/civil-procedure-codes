@@ -1,31 +1,70 @@
-best_section_matches <- function(code_name, scores, threshold = 0.1, top = 1) {
+best_matches <- function(matches, threshold = 0.1, tolerance = 0.1) {
+
   require("dplyr")
-  require("stringr")
-  matches <- scores %>%
-    filter(code_a == code_name | code_b == code_name) %>%
-    mutate(match_code = ifelse(code_a == code_name, code_b, code_a),
-           code_of_interest = ifelse(code_a == code_name, code_a, code_b),
-           match_section = ifelse(code_a == code_name, section_b, section_a),
-           section_of_interest = ifelse(code_a == code_name, section_a, section_b),
-           match_year = ifelse(code_a == code_name, year_b, year_a)) %>%
-    filter(match_code != code_of_interest,
-           match_year <= extract_date(code_name),
-           similarity >= threshold) %>%
-    select(code_of_interest, section_of_interest, match_code, match_section,
-           similarity) %>%
-    group_by(section_of_interest) %>%
-    arrange(desc(similarity)) %>%
-    top_n(top, similarity) %>%
-    mutate(borrower_code = code_name)
+  # message("Start: ", pnum(nrow(matches)))
 
-  all_sections <- Sys.glob(str_c("legal-codes-split/", code_name, "-0*")) %>%
-    str_replace("legal-codes-split/", "") %>%
-    str_replace("\\.txt", "")
-  all <- data_frame(all_sections)
+  # Remove matches from the same code
+  matches <- matches %>%
+    filter(borrower_code != match_code)
+  # message("Same code: ", pnum(nrow(matches)))
 
-  all %>%
-    left_join(matches, by = c("all_sections" = "section_of_interest")) %>%
-    select(-code_of_interest)
+  # Remove anachronistic matches
+  matches <- matches %>%
+    filter(borrower_year >= match_year)
+  # message("Anachronistic: ", pnum(nrow(matches)))
+
+  # Remove matches below threshold
+  matches <- matches %>%
+    filter(score >= threshold)
+  # message("Threshold: ", pnum(nrow(matches)))
+
+  # Keep matches within the tolerance
+  matches <- matches %>%
+    group_by(borrower_section) %>%
+    filter(score >= max(score) - tolerance)
+  # message("Tolerance: ", pnum(nrow(matches)))
+
+  # Keep matches within the same state, if there is one from the same state
+  matches <- matches %>%
+    group_by(borrower_section) %>%
+    mutate(state_same = borrower_state == match_state) %>%
+    top_n(1, wt = state_same)
+  # message("State: ", pnum(nrow(matches)))
+
+  # Split between sections that have matches within the state and sections
+  # that don't
+  matches_within_state <- matches %>%
+    filter(state_same)
+  # message("Within state: ", pnum(nrow(matches_within_state)))
+  matches_outside_state <- matches %>%
+    filter(!state_same)
+  # message("Outside state: ", pnum(nrow(matches_outside_state)))
+
+  # Within state matches, take the highest ranked match from year closest to
+  # the borrowing sections
+  matches_within_state <- matches_within_state %>%
+    group_by(borrower_section) %>%
+    arrange(desc(match_year), desc(score)) %>%
+    slice(1) %>%
+    ungroup()
+  # message("Within state sliced: ", pnum(nrow(matches_within_state)))
+
+  # Outside of state matches, take the highest ranked match
+  matches_outside_state <- matches_outside_state %>%
+    group_by(borrower_section) %>%
+    arrange(desc(score)) %>%
+    slice(1) %>%
+    ungroup()
+  # message("Outside state sliced: ", pnum(nrow(matches_outside_state)))
+
+  # Final cleanup
+  matches <- bind_rows(matches_outside_state, matches_within_state) %>%
+    select(-state_same) %>%
+    arrange(borrower_section)
+  # message("Final: ", pnum(nrow(matches)))
+
+  matches
+
 }
 
 summarize_borrowings <- function(section_list) {
