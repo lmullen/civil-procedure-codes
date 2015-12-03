@@ -74,5 +74,7 @@ summarize_borrowings <- function(matches) {
               sections_borrowed = n()) %>%
     group_by(borrower_code) %>%
     mutate(percent_borrowed = sections_borrowed / sum(sections_borrowed)) %>%
+    mutate(mean_score = ifelse(is.nan(mean_score), NA_real_, mean_score),
+           percent_borrowed = round(percent_borrowed, 4)) %>%
     arrange(desc(sections_borrowed))
 }

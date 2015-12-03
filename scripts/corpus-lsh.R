@@ -52,12 +52,15 @@ best_matches <- data_frame(borrower_section = names(sections)) %>%
 
 split_matches <- dlply(best_matches, "borrower_code", identity)
 
-save(sections, buckets, scores, all_matches, best_matches,
+summary_matches <- summarize_borrowings(best_matches)
+
+save(sections, buckets, scores, all_matches, best_matches, summary_matches,
      file = "cache/corpus-lsh.rda")
 
 dir.create("out/matches", showWarnings = FALSE)
 write_csv(all_matches, "out/matches/all_matches.csv")
 write_csv(best_matches, "out/matches/best_matches.csv")
+write_csv(summary_matches, "out/matches/summary_matches.csv")
 lapply(names(split_matches), function(x) {
   write_csv(split_matches[[x]], str_c("out/matches/", x, "-best-matches.csv"))
 }) %>% invisible
