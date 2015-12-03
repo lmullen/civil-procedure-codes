@@ -6,13 +6,14 @@ output: html_document
 
 ```{r echo=FALSE, results='asis'}
 rmd <- Sys.glob("*.Rmd")
+rmd <- rmd[rmd != "index.Rmd"]
 html <- sub(".Rmd", ".html", rmd)
 lines <- lapply(rmd, readLines)
 yaml <- lapply(lines, rmarkdown:::parse_yaml_front_matter)
 cat("<ul>")
 for (i in seq_along(rmd)) {
   cat(paste0("<li><a href='", html[i], "'>", yaml[[i]]$title, "</a><br/>",
-             "<code>", html[i], "</code>", "</li>"))
+             "<code>", rmd[i], "</code>", "</li>"))
 }
 cat("</ul>")
 ```
