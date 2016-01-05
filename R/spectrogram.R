@@ -3,6 +3,10 @@
 # threshold of `0.1`: in other words, if it didn't meet that minimum, we don't
 # consider it a match at all. Here we will have the option to increase the limit
 # but won't exercise it by default.
+#
+# The `white_list` argument takes either a count numeric, in which case it
+# white lists at most that number of codes to be explicitly named in the viz,
+# or a character vector of codes to white list.
 spectrogram <- function(code, matches_df, num_cols = 40, threshold = 0.0,
                         white_list = NULL) {
   require(dplyr)
@@ -13,6 +17,15 @@ spectrogram <- function(code, matches_df, num_cols = 40, threshold = 0.0,
     filter(score >= threshold)
 
   # Create the white list of codes that we want to explicitly name in the viz.
+  if (is.null(white_list)) {
+    white_list <- white_list_maker(matches_df)
+  } else if (is.numeric(white_list)) {
+    white_list <- white_list_maker(matches_df, n = white_list)
+  }
+
+  # Make all other codes "other"
+  match_df <- match_df %>%
+    mutate(match_code = other_maker(code_code, white_list))
 
 }
 
@@ -46,7 +59,6 @@ white_list_maker <- function(df, n = 5) {
     `$`("match_code")
 }
 
-white_list <- c("CA1850", "NY1850", "WI1849", "CA1851", "OR1854", "IN1852")
 
 best_section_matches("WA1855", scores, threshold = 0.3) %>%
   mutate(match_code = other_maker(match_code, white_list)) %>%
