@@ -21,6 +21,8 @@ Read the data.
 load("cache/corpus-lsh.rda")
 ```
 
+## Network graphs
+
 Create a network graph based on section percentages.
 
 ```{r}
