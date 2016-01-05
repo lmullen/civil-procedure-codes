@@ -147,6 +147,22 @@ Spectrogram of borrowings in CO1868. Should show heavy reliance on Illinois law.
 spectrogram("CO1868", best_matches, white_list = 8)
 ```
 
+
+Same query as number 6 and 7, but like Louisiana, the point is to show that no one borrows the later New York Code, the one that departs from the Field tradition.
+
+```{r}
+spectrogram("NY1876", best_matches, white_list = 8)
+```
+
+```{r}
+spectrogram("NY1879", best_matches, white_list = 8)
+```
+
+Here I'm looking for the reverse of the previous spectrograms. Rather than illustrate sections BORROWED FROM elsewhere, can we illustrate sections in the original Field Code that GET BORROWED elsewhere, and instead of coloring by where they end up, color based on how many times a particular section appears throughout the corpus?
+
+I expect the beginning of the code will be grey--no one has New York's particular court system, so no one copies the jurisdictional texts, then high heat at the heart of the Code with the Field reforms, slackening off around particular proceedings, some of which will be New York specific, then heating up again towards the end with the code of evidence.
+
+
 ## Network graphs
 
 Create a network graph based on section percentages.
