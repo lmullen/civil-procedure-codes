@@ -29,6 +29,123 @@ load("cache/corpus-lsh.rda")
 source("R/spectrogram.R")
 ```
 
+Spectrogram of borrowings in CA1850. I expect it will show heavily reliance on NY1849 amidst original material.
+
+```{r}
+spectrogram("CA1850", best_matches, white_list = 7)
+```
+
+Spectrogram of borrowings in MD1855. I expect to see reliance on English legislation (GB1852 and GB1854), amidst original material.
+
+```{r}
+spectrogram("MD1855", best_matches, white_list = 7)
+```
+
+Spectrogram of borrowings in WA1855. An earlier version show two long runs of borrowings from Oregon and Indiana. If the latest data, still visualizes that kind of splicing, I think it's a great illustration.
+
+```{r}
+spectrogram("WA1855", best_matches, white_list = 8)
+```
+
+
+The point of this and the next exercise is not to show borrowings from all sources, but similarity between two sources. Our normal spectrogram of NV1861 will show heavy reliance on California. I want this to show that even though Nevada is two steps away from New York, it's text is still very similar to New York throughout.
+
+```{r}
+all_NV1861 <- data_frame(borrower_code = "NV1861",
+                         borrower_section = all_matches %>% 
+                           filter(borrower_code == "NV1861") %>% 
+                           `$`("borrower_section") %>%
+                           unique() %>%
+                           sort()
+                        )
+
+matches_to_NY <- all_matches %>% 
+  filter(borrower_code == "NV1861",
+         str_detect(match_code, "NY"),
+         score >= 0.1,
+         match_year <= 1861) %>% 
+  group_by(borrower_section) %>% 
+  arrange(desc(score)) %>% 
+  slice(1) %>% 
+  ungroup() 
+
+NV1861toNY <- all_NV1861 %>% left_join(matches_to_NY) %>% 
+  arrange(borrower_section) 
+
+spectrogram("NV1861", NV1861toNY, white_list = 5,
+            title = "Sections in NV1861 with high similarity to NY codes")
+```
+
+Like the previous query for NV1861, Iowa is two steps away from New York. This time, however, the text is much less similar to New York. I only want one visualization for this, but I'm not sure if IA1851 or the revision IA1859 will be better, so can we do both?
+
+IA1851
+
+```{r}
+all_IA1851 <- data_frame(borrower_code = "IA1851",
+                         borrower_section = all_matches %>% 
+                           filter(borrower_code == "IA1851") %>% 
+                           `$`("borrower_section") %>%
+                           unique() %>%
+                           sort()
+                        )
+
+matches_to_NY <- all_matches %>% 
+  filter(borrower_code == "IA1851",
+         str_detect(match_code, "NY"),
+         score >= 0.1,
+         match_year <= 1851) %>% 
+  group_by(borrower_section) %>% 
+  arrange(desc(score)) %>% 
+  slice(1) %>% 
+  ungroup() 
+
+IA1851toNY <- all_IA1851 %>% left_join(matches_to_NY) %>% 
+  arrange(borrower_section) 
+
+spectrogram("IA1851", IA1851toNY, white_list = 10,
+            title = "Sections in IA1851 with matches to NY codes")
+```
+
+
+IA1859
+
+```{r}
+all_IA1859 <- data_frame(borrower_code = "IA1859",
+                         borrower_section = all_matches %>% 
+                           filter(borrower_code == "IA1859") %>% 
+                           `$`("borrower_section") %>%
+                           unique() %>%
+                           sort()
+                        )
+
+matches_to_NY <- all_matches %>% 
+  filter(borrower_code == "IA1859",
+         str_detect(match_code, "NY"),
+         score >= 0.1,
+         match_year <= 1859) %>% 
+  group_by(borrower_section) %>% 
+  arrange(desc(score)) %>% 
+  slice(1) %>% 
+  ungroup() 
+
+IA1859toNY <- all_IA1859 %>% left_join(matches_to_NY) %>% 
+  arrange(borrower_section) 
+
+spectrogram("IA1859", IA1859toNY, white_list = 10,
+            title = "Sections in IA1859 with matches to NY codes")
+```
+
+Spectrogram of borrowings in NC1868. Should show heavy reliance on one or another New York Code, with scattered provisions coming from elsewhere.
+
+```{r}
+spectrogram("NC1868", best_matches, white_list = 8)
+```
+
+Spectrogram of borrowings in CO1868. Should show heavy reliance on Illinois law.
+
+```{r}
+spectrogram("CO1868", best_matches, white_list = 8)
+```
 
 ## Network graphs
 
