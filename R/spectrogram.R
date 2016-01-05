@@ -24,6 +24,7 @@ spectrogram <- function(code, matches_df, num_cols = 40,
 
   # Assign the positions in the heatmap
   matches_df <- matches_df %>%
+    arrange(borrower_section) %>%
     mutate(.,
            column = col_vector(nrow(.), num_cols),
            row = row_vector(nrow(.), num_cols),
@@ -73,7 +74,7 @@ other_maker <- function(x, white_list) {
 white_list_maker <- function(df, num_codes = 5) {
   df %>%
     count(match_code) %>%
-    top_n(num_codes) %>%
+    top_n(num_codes, n) %>%
     arrange(desc(n)) %>%
     filter(!is.na(match_code)) %>%
     `$`("match_code")
