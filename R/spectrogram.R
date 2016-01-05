@@ -1,7 +1,8 @@
 # The `white_list` argument takes either a count numeric, in which case it
 # white lists at most that number of codes to be explicitly named in the viz,
 # or a character vector of codes to white list.
-spectrogram <- function(code, matches_df, num_cols = 40, white_list = NULL) {
+spectrogram <- function(code, matches_df, num_cols = 40,
+                        white_list = NULL, title = NULL) {
   require(dplyr)
   require(stringr)
   require(ggplot2)
@@ -29,7 +30,8 @@ spectrogram <- function(code, matches_df, num_cols = 40, white_list = NULL) {
            match_code = as.factor(match_code))
 
   # Create the title
-  title <- str_c("Borrowed sections in ", code)
+  if (is.null(title))
+    title <- str_c("Borrowed sections in ", code)
 
   # Make the plot
   matches_df %>%
