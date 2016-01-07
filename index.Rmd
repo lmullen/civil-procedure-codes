@@ -26,3 +26,6 @@ for (i in seq_along(rmd)) {
 }
 cat("</ul>")
 ```
+
+
+- [AHA 2016 lightening talk slides](talks/aha2016.html)
