@@ -1,0 +1,57 @@
+---
+title: "Sections with Racial Exclusions"
+author: "Lincoln Mullen"
+output: html_document
+---
+
+I used `ag` to search the split sections for `negro OR indian OR china OR chinese OR mongol OR blood`. We are going to load the corpus and that list of files, the create a chronological list of those sections.
+
+```{r}
+library(readr)
+library(textreuse)
+library(stringr)
+library(dplyr)
+source("R/helper.R")
+load("cache/corpus-lsh.rda")
+```
+
+Load the matching sections.
+
+```{r}
+exclusions <- read_lines("racial-exclusions/list-of-racial-sections.txt") %>% 
+  str_sub(end = -5)
+```
+
+Get those sections in the right order.
+
+```{r}
+ordered_sections <- data_frame(section = exclusions,
+                               year = extract_date(exclusions),
+                               code = extract_code_names(exclusions)) %>% 
+  arrange(year, code)
+```
+
+Print the sections to a file.
+
+```{r}
+get_printable_code <- function(doc_id) {
+  require("stringr")
+  content <- str_wrap(content(sections[[doc_id]]))
+  str_c(doc_id, content, "-----------------------------------------------\n\n", 
+        sep = "\n\n")
+}
+
+write_sections <- function(df) {
+  require("stringr")
+  docs <- df$section %>% sapply(get_printable_code) 
+  text <- str_c(docs, collapse = "\n") %>% 
+    str_split("\n") %>% 
+    unlist()
+  filename <- "racial-exclusions/exclusion-sections.txt"
+  writeLines(text, filename)
+  df
+}
+
+write_sections(ordered_sections)
+```
+
