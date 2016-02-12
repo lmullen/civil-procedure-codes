@@ -1,7 +1,6 @@
 ---
 title: "The Migration of the Field Code"
 author: "Kellen Funk and Lincoln Mullen"
-date: "February 17, 2016"
 output: tufte::tufte_handout
 ---
 
@@ -35,6 +34,7 @@ To answer these questions we have gathered a corpus of 115 codes of civil proced
 
 # How we found the borrowings
 
+We found out how the codes borrowed from one another by breaking the codes up into sections and comparing each section to every other section. We were justified in this approach because what we were doing was in essence repeating the process that nineteenth-century codifiers had taken. Newspapers and other observers mentioned the "the scissors and paste-pot " codes, and we have found in the archives codes which were marked up and edited by hand to be adopted for a different state. We think our method is successful because it mimics what we know to have happened by other historical methods.
 
 ## Preparing the corpus
 
@@ -97,7 +97,8 @@ sample_matrix <- sections[a_cluster] %>%
   pairwise_compare(jaccard_similarity, progress = FALSE, directional = TRUE) %>% 
   round(2) 
 sample_matrix[is.na(sample_matrix)] <- ""
-knitr::kable(sample_matrix, align = "c", caption = "A sample similarity matrix")
+knitr::kable(sample_matrix, align = "c", 
+             caption = "A subset of the similarity matrix")
 ```
 
 This matrix, however, required further filtering based on what we knew about the process of borrowing from other methods. For instance, a code from 1851 could obviously not have borrowed from a code from 1877. Furthermore, in chains of borrowing (e.g., MT1895 $\rightarrow$ CA1868 $\rightarrow$ CA1851 $\rightarrow$ NY1850) the latest section might have a high similarity to all of its parents, but was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code from the same state unless (6) there was a substantially higher match from a different code. The results was a sparse matrix of the most likely matches for each section.
