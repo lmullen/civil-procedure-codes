@@ -1,0 +1,47 @@
+---
+title: "The Migration of the Field Code"
+author: "Kellen Funk and Lincoln Mullen"
+date: "February 17, 2016"
+output: tufte::tufte_handout
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tufte)
+library(textreuse)
+```
+
+# The Field Code
+
+After the American Revolution, most states were common law jurisdictions, sometimes with courts of chancery. These courts had a complex system of pleading defined mostly be case law. By the 1840s, lawyers and the mercantile classes called for the codification of civil procedure. At stake in the ensuing debates were the rationality of the law a science, or the purity of Anglo-Saxon civilization. New York was the first state to codify its procedure, thanks to the efforts of David Dudly Field. New York's 1848 Field code became by the end of the century the model for the procedural codes in state jurisdiction.
+
+\begin{figure}
+\includegraphics{../aha2016/field-code-states-map.jpeg}
+\caption{Field Code states by date of enactment. Many states subsequently revised their codes of civil procedure.}
+\end{figure}
+
+Legal historians have long known that the Field code spread to other jurisdictions. Beyond the mere fact of its adoption, however, no one has studied the content of the borrowings. Which codes borrowed from each other? Which sections were borrowed, and which were modified? What were the patterns of borrowings and of innovations? 
+
+To answer these questions we have gathered a corpus of 115 codes of civil procedure containing about 7.6 million words, and detected the borrowings algorithmically. Our approach is one of two common approaches. We have gathered a dataset of sources to answer a given set of questions; the other option is to take the sources as given and explore the data to see what questions it raises.
+
+```{marginfigure}
+Against the buzzword "big data," I call this "middle data", which we might define as data that is too small for distributed computation but too big for naive algorithms. Alternatively, it is data where the size of the sample approaches the size of the population, but where the population is strictly constrained by the research problem. Against big data, middle data offers the most promising way to combine traditional and digital history methods.
+```
+
+# How we found the borrowings
+
+## Preparing the corpus
+
+Having identified all of the relevant codes of civil procedure in the nineteenth-century, including separately published codes, session laws, and statutes, we used OCR software to create plain-text versions of the codes. These OCR files received only a light cleaning: we edited the section markers by hand as necessary, and wrote a script to fix the most obvious OCR errors.
+
+We then split each section of each code into its own text file. 
+
+```{marginnote}
+A sample file:
+```
+
+
+This.^[The data and code to re-run our analyses are available in a GitHub repository: <https://github.com/lmullen/civil-procedure-codes>.]
+
+
+
