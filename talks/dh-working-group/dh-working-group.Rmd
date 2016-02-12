@@ -6,9 +6,18 @@ output: tufte::tufte_handout
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, comment = NA)
 library(tufte)
 library(textreuse)
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+library(readr)
+library(knitr)
+source("../../R/helper.R")
+source("../../R/section-matches.R")
+load("../../cache/corpus-lsh.rda")
+clusters <- read_csv("../../out/clusters.csv")
 ```
 
 # The Field Code
@@ -22,26 +31,73 @@ After the American Revolution, most states were common law jurisdictions, someti
 
 Legal historians have long known that the Field code spread to other jurisdictions. Beyond the mere fact of its adoption, however, no one has studied the content of the borrowings. Which codes borrowed from each other? Which sections were borrowed, and which were modified? What were the patterns of borrowings and of innovations? 
 
-To answer these questions we have gathered a corpus of 115 codes of civil procedure containing about 7.6 million words, and detected the borrowings algorithmically. Our approach is one of two common approaches. We have gathered a dataset of sources to answer a given set of questions; the other option is to take the sources as given and explore the data to see what questions it raises.
-
-```{marginfigure}
-Against the buzzword "big data," I call this "middle data", which we might define as data that is too small for distributed computation but too big for naive algorithms. Alternatively, it is data where the size of the sample approaches the size of the population, but where the population is strictly constrained by the research problem. Against big data, middle data offers the most promising way to combine traditional and digital history methods.
-```
+To answer these questions we have gathered a corpus of 115 codes of civil procedure containing about 7.6 million words, and detected the borrowings algorithmically. Our approach is one of two common approaches. We have gathered a dataset of sources to answer a given set of questions; the other option is to take the sources as given and explore the data to see what questions it raises.^[Against the buzzword "big data," I call this "middle data", which we might define as data that is too small for distributed computation but too big for naive algorithms. Alternatively, it is data where the size of the sample approaches the size of the population, but where the population is strictly constrained by the research problem. Against big data, middle data offers the most promising way to combine traditional and digital history methods.]
 
 # How we found the borrowings
 
+
 ## Preparing the corpus
 
-Having identified all of the relevant codes of civil procedure in the nineteenth-century, including separately published codes, session laws, and statutes, we used OCR software to create plain-text versions of the codes. These OCR files received only a light cleaning: we edited the section markers by hand as necessary, and wrote a script to fix the most obvious OCR errors.
+Having identified all of the relevant codes of civil procedure in the nineteenth-century, including separately published codes, session laws, and statutes, we used OCR software to create plain-text versions of the codes.^[The data and code to re-run our analyses are available in a GitHub repository: <https://github.com/lmullen/civil-procedure-codes>.] These OCR files received only a light cleaning: we edited the section markers by hand as necessary, and wrote a script to fix the most obvious OCR errors.
 
-We then split each section of each code into its own text file. 
+We then split each section of each code into its own text file. The corpus contains nearly 98,000 sections. Below is a sample file containing a single section from a single code.^[Section 151 of the California's 1851 code of civil procedures from the file `CA1851-001660.txt`.]
 
-```{marginnote}
-A sample file:
+```
+151. An issue arises when a fact or conclusion of law 
+is maintained by the one party, and is controverted 
+by theothsr. Issues are of two kinds: lst. Of law: 
+and,  _ 2d. or fact. if?
 ```
 
+## Tokenizing and measuring similarity
 
-This.^[The data and code to re-run our analyses are available in a GitHub repository: <https://github.com/lmullen/civil-procedure-codes>.]
+The next stage in our process was to measure the similarity of the sections one to another. ^[This stage of our process was embedded in the [textreuse package](https://github.com/ropensci/textreuse) for R, which was peer-reviewed by rOpenSci: <https://github.com/ropensci/textreuse>.  See also my blog post, "[An Introduction to the textreuse Package, with Suggested Applications](http://lincolnmullen.com/blog/an-introduction-to-the-textreuse-package/)": <http://lincolnmullen.com/blog/an-introduction-to-the-textreuse-package/>. ] We first had to tokenize the text, meaning that  After experimenting we found that five-grams worked well.^[We also hashed the tokens, meaning that we converted them to integer representations which permits considerable savings of memory.]  The use of n-grams, which is a ubiquitious technique, permits redudancy of phrasing, intentional word changes, and OCR errors. Below are the first five tokens from the section above.
 
+```{r}
+tokenize_ngrams("151. An issue arises when a fact or conclusion of law 
+is maintained by the one party, and is controverted 
+by theothsr. Issues are of two kinds: lst. Of law: 
+and,  _ 2d. or fact. if?", n = 5) %>% head(5)
+```
 
+Next we used the Jaccard similarity score for measuring document similarity. That measure, treating the tokens as a set, is the ratio of shared tokens to the ratio of total tokens in two documents. The result is a single number ranging from 0 (complete dissimilarity) to 1 (complete similarity).^[From MMDS. Formally, the definition of the Jaccard similarity score is $$J(A, B) = \frac{ | A \cap B| }{ | A \cup B|}$$] For instance, the section from the California 1851 code above was derived from section 756 of the New York 1850 code (`NY1850-008350.txt`). Because of changes to the wording and OCR errors, the Jaccard similarity between the two sections was `r jaccard_similarity(sections[["NY1850-008350"]], sections[["CA1851-001660"]]) %>% round(3)`. By carefully checking matching sections versus scores, we arrived at a rule of thumb that a Jaccard similarity score greater than 0.15 likely indicated a match, and a score greater than 0.2 almost certainly indicated a match.
 
+## Computing similarity for the entire corpus
+
+```{r}
+num_comparisons <- function(n) { ((n * (n - 1)) / 2) }
+billionize <- function(x) { round(x / 1e9, 1)}
+```
+
+The next step was to compute similarity for every section in the corpus. The difficulty is that to compare every section to every other section would require an enormous number of comparisons: approximately `r length(sections) %>% num_comparisons() %>% billionize()` billion for our corpus.^[Assuming that the similarity measure is bi-directional, the number of pairwise comparisons in a corpus is given by $(n^2-n) / {2}$.] Most of these comparisons would be wasted, since most sections have zero relationship to most other sections.
+
+```{r, fig.margin = TRUE, fig.cap = "This chart shows the threshold S-curves for various settings of the minhash/LSH algorithm. The x-axis shows the actual measured Jaccard similarity of the two documents; the y-axis shows the probability that they will be marked as a match. We used the settings for the leftmost curve, guaranteeing that we detected all matches above a similarity of 0.2."}
+prob_for_graph1 <- Vectorize(function(x) lsh_probability(120, 60, x))
+prob_for_graph3 <- Vectorize(function(x) lsh_probability(120, 30, x))
+prob_for_graph5 <- Vectorize(function(x) lsh_probability(120, 10, x))
+input <- data_frame(x = seq(0, 1, 0.001))
+ggplot(input, aes(x = x)) + 
+  stat_function(fun = prob_for_graph1, linetype = 1) +
+  stat_function(fun = prob_for_graph3, linetype = 2) +
+  stat_function(fun = prob_for_graph5, linetype = 5) +
+  theme_tufte() +
+  labs(x = "Jaccard similarity",
+       y = "Probability",
+       title = "Probability of detecting a match given real similarity") +
+  scale_x_continuous(breaks = seq(0, 1, .2))
+```
+
+We implemented the minhash/locality sensitive hashing (LSH) algorithm to detect candidate pairs, i.e., documents which were likely to be matches. This algorithm works by extracting a set number of random tokens from each document, allowing the documents to be represented uniformly and compactly. Then those random tokens are grouped into subsets. If any two documents have a matching subset, then they are considered a candidate pair. This algorithm has several useful properties. It approximates the Jaccard similarity of the two documents. The algorithm requires a computation for each document, not each pair of documents, so the compute time grows linearly not geometrically. And by controlling various parameters, one can determine a threshold similarity score above which one is likely to find a match and unlikely to find an inaccurate match.
+
+Once we had detected the candidate pairs, we measured the actual Jaccard similarity for those pairs. The result was a sparse matrix of similarity scores, with rows and columns for each section in the corpus. A tiny subset is shown below.
+
+```{r, fig.fullwidth = TRUE}
+a_cluster <- clusters %>% filter(cluster_id == 676) %>% `$`("doc")
+sample_matrix <- sections[a_cluster] %>% 
+  pairwise_compare(jaccard_similarity, progress = FALSE, directional = TRUE) %>% 
+  round(2) 
+sample_matrix[is.na(sample_matrix)] <- ""
+knitr::kable(sample_matrix, align = "c", caption = "A sample similarity matrix")
+```
+
+This matrix, however, required further filtering based on what we knew about the process of borrowing from other methods. For instance, a code from 1851 could obviously not have borrowed from a code from 1877. Furthermore, in chains of borrowing (e.g., MT1895 $\rightarrow$ CA1868 $\rightarrow$ CA1851 $\rightarrow$ NY1850) the latest section might have a high similarity to all of its parents, but was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code from the same state unless (6) there was a substantially higher match from a different code. The results was a sparse matrix of the most likely matches for each section.
