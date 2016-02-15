@@ -1,0 +1,70 @@
+---
+title: "Network graphs in ggraph"
+author: "Lincoln Mullen"
+---
+
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(igraph)
+library(ggplot2)
+library(ggraph)
+load("cache/corpus-lsh.rda")
+```
+
+The network graphs aren't very pretty so far, so we are going to see if we can do better in [ggraph](https://github.com/thomasp85/ggraph).
+
+Create an edge list based on numbers (not percentages) of sections shared. Notice that we are keeping only code to code matches that share a certain number of sections (`minimum_n`), we are keeping only a certain number of matches for each code (`top_matches`), and we are omitting codes that aren't part of the main network.
+
+```{r}
+minimum_n <- 50
+top_matches <- 2
+
+edges_n <- summary_matches %>% 
+  filter(!is.na(match_code),
+         sections_borrowed >= minimum_n) %>%  
+  select(borrower_code, match_code, sections_borrowed) %>% 
+  group_by(borrower_code) %>% 
+  top_n(top_matches, sections_borrowed) %>% 
+  ungroup() 
+```
+
+Now create a graph object of code to codes based on sections borrowed.
+
+```{r}
+codes_g <- graph_from_data_frame(edges_n, directed = TRUE) 
+node_distances <- distances(codes_g,
+                            mode = "out",
+                            to = c("NY1848", "NY1849", "NY1850",
+                                   "NY1851", "NY1853"),
+                            algorithm = "unweighted") %>% 
+                    apply(1, min, na.rm = TRUE)
+nodes_n <- data_frame(name = names(node_distances),
+                      distance = node_distances) 
+
+nodes_n <- nodes_n %>% 
+  filter(distance != Inf)
+edges_n <- edges_n %>% 
+  filter(borrower_code %in% nodes_n$name,
+         match_code %in% nodes_n$name)
+
+codes_g <- graph_from_data_frame(edges_n, directed = TRUE, vertices = nodes_n) 
+```
+
+Now use ggraph to plot it:
+
+```{r}
+ggraph(codes_g, "igraph", algorithm = "kk") +
+  geom_edge_fan(aes(edge_width = sections_borrowed, 
+                    alpha = sections_borrowed)) +
+  geom_node_point(aes(colour = as.factor(distance)), size = 6) +
+  scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") + 
+  scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
+  scale_color_discrete("Distance from a NY code") +
+  ggforce::theme_no_axes() +
+  geom_node_text(aes(label = name)) +
+  labs(title = "Code to code borrowings") +
+  theme(legend.position = "bottom")
+```
+
+
