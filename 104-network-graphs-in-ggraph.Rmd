@@ -9,7 +9,10 @@ library(dplyr)
 library(igraph)
 library(ggplot2)
 library(ggraph)
+library(stringr)
 load("cache/corpus-lsh.rda")
+source("R/helper.R")
+set.seed(82892)
 ```
 
 The network graphs aren't very pretty so far, so we are going to see if we can do better in [ggraph](https://github.com/thomasp85/ggraph).
@@ -56,7 +59,10 @@ Now use ggraph to plot it:
 ```{r}
 ggraph(codes_g, "igraph", algorithm = "kk") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
-                    alpha = sections_borrowed)) +
+                    alpha = sections_borrowed),
+                arrow = arrow(type = "closed", ends = "first",
+                              length = unit(0.20, "inches"),
+                              angle = 15)) +
   geom_node_point(aes(colour = as.factor(distance)), size = 6) +
   scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") + 
   scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
@@ -64,6 +70,49 @@ ggraph(codes_g, "igraph", algorithm = "kk") +
   ggforce::theme_no_axes() +
   geom_node_text(aes(label = name)) +
   labs(title = "Code to code borrowings") +
+  theme(legend.position = "bottom")
+```
+
+Now make a plot of state to state borrowings.
+
+```{r}
+min_state_sections <- 100
+max_state_connections <- 2
+
+states_edges <- summary_matches %>% 
+  mutate(borrower_state = extract_state(borrower_code),
+         match_state = extract_state(match_code),
+         borrower_date = extract_date(borrower_code),
+         match_date = extract_date(match_code)) %>% 
+  filter(!is.na(match_code),
+         borrower_date >= match_date,
+         borrower_state != match_state) %>% 
+  group_by(borrower_state, match_state) %>% 
+  summarize(sections_borrowed = sum(sections_borrowed)) %>% 
+  filter(sections_borrowed >= 100) %>% 
+  top_n(max_state_connections, sections_borrowed)
+
+state_nodes <- read.csv("regions.csv")
+
+states_g <- graph_from_data_frame(states_edges, directed = TRUE,
+                                  vertices = state_nodes) 
+```
+
+Now plot it.
+
+```{r}
+ggraph(states_g, "igraph", algorithm = "graphopt") +
+  geom_edge_fan(aes(edge_width = sections_borrowed, 
+                    alpha = sections_borrowed),
+                arrow = arrow(type = "closed", ends = "first",
+                              length = unit(0.20, "inches"),
+                              angle = 15)) +
+  geom_node_point(size = 6, alpha = 0.75, aes(color = region)) +
+  geom_node_text(aes(label = name)) +
+  scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") + 
+  scale_edge_alpha(range = c(0.3, 0.4), guide = "none") +
+  ggforce::theme_no_axes() +
+  labs(title = "State to state borrowings") +
   theme(legend.position = "bottom")
 ```
 
