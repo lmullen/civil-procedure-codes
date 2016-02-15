@@ -79,11 +79,11 @@ input <- data_frame(x = seq(0, 1, 0.001))
 ggplot(input, aes(x = x)) + 
   stat_function(fun = prob_for_graph1, linetype = 1) +
   stat_function(fun = prob_for_graph3, linetype = 2) +
-  stat_function(fun = prob_for_graph5, linetype = 5) +
+  stat_function(fun = prob_for_graph5, linetype = 2) +
   theme_tufte() +
   labs(x = "Jaccard similarity",
        y = "Probability",
-       title = "Probability of detecting a match given real similarity") +
+       title = "Probability of a match for a given similarity") +
   scale_x_continuous(breaks = seq(0, 1, .2))
 ```
 
@@ -101,4 +101,22 @@ knitr::kable(sample_matrix, align = "c",
              caption = "A subset of the similarity matrix")
 ```
 
-This matrix, however, required further filtering based on what we knew about the process of borrowing from other methods. For instance, a code from 1851 could obviously not have borrowed from a code from 1877. Furthermore, in chains of borrowing (e.g., MT1895 $\rightarrow$ CA1868 $\rightarrow$ CA1851 $\rightarrow$ NY1850) the latest section might have a high similarity to all of its parents, but was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code from the same state unless (6) there was a substantially higher match from a different code. The results was a sparse matrix of the most likely matches for each section.
+This matrix, however, required further filtering based on what we knew about the process of borrowing from other methods. For instance, a code from 1851 could obviously not have borrowed from a code from 1877. Furthermore, in chains of borrowing (e.g., MT1895 $\rightarrow$ CA1868 $\rightarrow$ CA1851 $\rightarrow$ NY1850) the latest section might have a high similarity to all of its parents, but was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code from the same state unless (6) there was a substantially higher match from a different code. The result was a sparse matrix of the most likely matches for each section.
+
+# Learning from the borrowings
+
+A similarity matrix is a common input to many other visualizations and algorithms. We used the matrix of best borrowings to learn how the codes were borrowed in several ways.
+
+## Clustering the borrowings
+
+We used a clustering algorithm to group similar sections together. There are innumerable clustering algorithms, but we needed one that could work with a sparse matrix and one whose assumptions aligned with the problem we were working on. We used the affinity propagation clustering algorithm.^[Brendan J. Frey and Delbert Dueck, "Clustering by Passing Messages Between Data Points," *Science* 315 (2007): 972--976.] That algorithm assumes that there is an "exemplar" item in each cluster. That assumption exactly matches the case with the Field code, where a single section (likely from NY1850) had many borrowings. Furthermore, even though the affinity propagation clustering algorithm did not fully converge on our peculiar dataset, it did do an adequate job of clustering the documents initially. Because there was an exemplar section for each cluster, we were able to merge clusters where the exemplar sections had a high Jaccard similarity score. 
+
+The result was a set of approximately 2,900 clusters which contained at least five sections. This probably overstates the number of ur-sections in the corpus. Each cluster contained a list of the section IDs that belonged to it. The biggest cluster, for instance, contained 
+
+# Takeaways
+
+Methodological:
+
+- harmony of methods
+- applicability to future
+
