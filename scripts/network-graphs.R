@@ -10,16 +10,24 @@ set.seed(82892)
 # We will keep edges that have at least a certain number of shared connections
 # OR a percentage of borrowings that is greater than than a set percentage, but
 # we will keep at most a certain number of edges per code.
+#
+# We will also prune second edges if they come from a different state than the
+# borrowing code AND are from the same state as a stronger borrowing.
 minimum_n <- 50
 minimum_percent <- 0.20
 top_matches <- 2
 
 edges_n <- summary_matches %>%
   filter(!is.na(match_code),
-         sections_borrowed >= minimum_n | percent_borrowed >= minimum_percent) %>%
+         sections_borrowed >= minimum_n |
+           percent_borrowed >= minimum_percent) %>%
   select(borrower_code, match_code, sections_borrowed) %>%
   group_by(borrower_code) %>%
   top_n(top_matches, sections_borrowed) %>%
+  arrange(desc(sections_borrowed)) %>%
+  filter(!(extract_state(match_code) == head(extract_state(match_code), 1) &
+             match_code != head(match_code, 1) &
+             extract_state(match_code) != extract_state(borrower_code))) %>%
   ungroup()
 
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE)
