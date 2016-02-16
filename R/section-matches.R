@@ -11,6 +11,24 @@ get_best_matches <- function(matches, threshold = 0.1, tolerance = 0.15) {
   # Remove anachronistic matches
   matches <- matches %>%
     filter(borrower_year >= match_year)
+
+  # White list matches within the same year; otherwise remove them
+  matches <- matches %>%
+    filter(
+      (borrower_year != match_year) | (borrower_code == "MO1849" & match_code == "NY1849"),
+      (borrower_year != match_year) | (borrower_code == "WI1849" & match_code == "NY1849"),
+      (borrower_year != match_year) | (borrower_code == "IA1851" & match_code == "KY1851"),
+      (borrower_year != match_year) | (borrower_code == "DC1857" & match_code == "NE1857"),
+      (borrower_year != match_year) | (borrower_code == "IA1859" & match_code == "KS1859"),
+      (borrower_year != match_year) | (borrower_code == "IA1859" & match_code == "NE1859"),
+      (borrower_year != match_year) | (borrower_code == "IA1859" & match_code == "MN1859"),
+      (borrower_year != match_year) | (borrower_code == "KS1859" & match_code == "NE1859"),
+      (borrower_year != match_year) | (borrower_code == "NC1868" & match_code == "DT1868"),
+      (borrower_year != match_year) | (borrower_code == "NC1868" & match_code == "ND1868"),
+      (borrower_year != match_year) | (borrower_code == "DT1887" & match_code == "AZ1887"),
+      (borrower_year != match_year) | (borrower_code == "ND1887" & match_code == "AZ1887")
+    )
+
   # message("Anachronistic: ", pnum(nrow(matches)))
 
   # Remove matches below threshold
