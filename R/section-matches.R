@@ -49,12 +49,18 @@ get_best_matches <- function(matches, threshold = 0.1, tolerance = 0.1) {
     ungroup()
   # message("Within state sliced: ", pnum(nrow(matches_within_state)))
 
-  # Outside of state matches, take the highest ranked match
+  # Outside of state matches, take the match from the code with the newest date
+  # as long as it is from the same state as the match that has the highest
+  # score
   matches_outside_state <- matches_outside_state %>%
     group_by(borrower_section) %>%
     arrange(desc(score)) %>%
+    mutate(matches_state_of_best_match = match_state == head(match_state, 1)) %>%
+    filter(matches_state_of_best_match) %>%
+    arrange(desc(match_year), desc(score)) %>%
     slice(1) %>%
-    ungroup()
+    ungroup() %>%
+    select(-matches_state_of_best_match)
   # message("Outside state sliced: ", pnum(nrow(matches_outside_state)))
 
   # Final cleanup
