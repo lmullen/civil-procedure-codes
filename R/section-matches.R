@@ -1,4 +1,4 @@
-get_best_matches <- function(matches, threshold = 0.1, tolerance = 0.1) {
+get_best_matches <- function(matches, threshold = 0.1, tolerance = 0.15) {
 
   require("dplyr")
   # message("Start: ", pnum(nrow(matches)))
