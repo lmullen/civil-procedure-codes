@@ -20,7 +20,7 @@ The network graphs aren't very pretty so far, so we are going to see if we can d
 
 
 ```{r}
-ggraph(codes_g, "igraph", algorithm = "kk") +
+ggraph(codes_g, "igraph", algorithm = "nicely") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
                     alpha = sections_borrowed),
                 arrow = arrow(type = "closed", ends = "first",
@@ -39,7 +39,7 @@ ggraph(codes_g, "igraph", algorithm = "kk") +
 Now make a plot of state to state borrowings.
 
 ```{r}
-ggraph(states_g, "igraph", algorithm = "graphopt") +
+ggraph(states_g, "igraph", algorithm = "nicely") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
                     alpha = sections_borrowed),
                 arrow = arrow(type = "closed", ends = "first",
