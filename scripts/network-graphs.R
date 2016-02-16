@@ -47,7 +47,7 @@ states_edges <- summary_matches %>%
          borrower_state != match_state) %>%
   group_by(borrower_state, match_state) %>%
   summarize(sections_borrowed = sum(sections_borrowed)) %>%
-  filter(sections_borrowed >= 100) %>%
+  filter(sections_borrowed >= min_state_sections) %>%
   top_n(max_state_connections, sections_borrowed)
 
 state_nodes <- read.csv("regions.csv")
