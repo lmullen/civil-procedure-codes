@@ -67,7 +67,7 @@ and,  _ 2d. or fact. if?
 
 ## Tokenizing and measuring similarity
 
-The next stage in our process was to measure the similarity of the sections one to another. We first had to tokenize the text, meaning that  After experimenting we found that five-grams worked well.^[We also hashed the tokens, meaning that we converted them to integer representations which permits considerable savings of memory.]  The use of n-grams, which is a ubiquitious technique, permits redudancy of phrasing, intentional word changes, and OCR errors. Below are the first five tokens from the section above.
+Next we tokenized the text into shingled n-grams.^[We also hashed the tokens, meaning that we converted them to integer representations.] After experimenting we found that five-grams worked best for detecting similarity despite intentional word changes and OCR errors. Below are the first five tokens from the section above.
 
 ```{r}
 tokenize_ngrams("151. An issue arises when a fact or conclusion of law 
@@ -76,7 +76,7 @@ by theothsr. Issues are of two kinds: lst. Of law:
 and,  _ 2d. or fact. if?", n = 5) %>% head(5)
 ```
 
-Next we used the Jaccard similarity score for measuring document similarity. That measure, treating the tokens as a set, is the ratio of shared tokens to the ratio of total tokens in two documents. The result is a single number ranging from 0 (complete dissimilarity) to 1 (complete similarity).^[From MMDS. Formally, the definition of the Jaccard similarity score is $$J(A, B) = \frac{ | A \cap B| }{ | A \cup B|}$$] For instance, the section from the California 1851 code above was derived from section 756 of the New York 1850 code (`NY1850-008350.txt`). Because of changes to the wording and OCR errors, the Jaccard similarity between the two sections was `r jaccard_similarity(sections[["NY1850-008350"]], sections[["CA1851-001660"]]) %>% round(3)`. By carefully checking matching sections versus scores, we arrived at a rule of thumb that a Jaccard similarity score greater than 0.15 likely indicated a match, and a score greater than 0.2 almost certainly indicated a match.
+Next we used the Jaccard similarity score for measuring document similarity. That measure, treating the tokens as a set, is the ratio of shared tokens to the ratio of total tokens in two documents. That ration can range from 0 (complete dissimilarity) to 1 (complete similarity).^[Jure Leskovec, Anand Rajaraman, and Jeff Ullman, *Mining of Massive Datasets*, 2nd ed. (Cambridge University Press, 2014), ch. 3, <http://www.mmds.org>. The formal definition of the Jaccard similarity score is $$J(A, B) = \frac{ | A \cap B| }{ | A \cup B|}$$] For instance, the section from the 1851 California code above was derived from the 1850 New York code.^[*Final Report of the Commission on Practice and Pleadings*, 2 *Documents of the Assembly of New York*, 73rd session, No. 16 (1850), 317, §756. This corresponds to our file `NY1850-008350.txt`.] Because of changes to the wording and OCR errors, the Jaccard similarity between the two sections was `r jaccard_similarity(sections[["NY1850-008350"]], sections[["CA1851-001660"]]) %>% round(3)`. By carefully checking matching sections versus scores, we arrived at a rule of thumb that a Jaccard similarity score greater than 0.15 likely indicated a match, and a score greater than 0.2 almost certainly indicated a match. Most matching sections had scores much higher that 0.2.
 
 ## Computing similarity for the entire corpus
 
