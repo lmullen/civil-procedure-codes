@@ -20,7 +20,7 @@ The network graphs aren't very pretty so far, so we are going to see if we can d
 
 
 ```{r}
-ggraph(codes_g, "igraph", algorithm = "nicely") +
+ggraph(codes_g, "igraph", algorithm = "fr") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
                     alpha = sections_borrowed),
                 arrow = arrow(type = "closed", ends = "first",
@@ -33,7 +33,8 @@ ggraph(codes_g, "igraph", algorithm = "nicely") +
   ggforce::theme_no_axes() +
   geom_node_text(aes(label = name)) +
   labs(title = "Code to code borrowings") +
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom",
+        panel.border = element_blank())
 ```
 
 Now make a plot of state to state borrowings.
@@ -51,7 +52,8 @@ ggraph(states_g, "igraph", algorithm = "nicely") +
   scale_edge_alpha(range = c(0.3, 0.4), guide = "none") +
   ggforce::theme_no_axes() +
   labs(title = "State to state borrowings") +
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom",
+        panel.border = element_blank())
 ```
 
 
