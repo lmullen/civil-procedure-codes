@@ -4,7 +4,7 @@ SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wi
 INCLUDES  := $(wildcard www-lib/*.html)
 NOTEBOOKS   := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 
-all : $(NOTEBOOKS)
+all : $(NOTEBOOKS) cache/corpus-lsh.rda cache/network-graphs.rda
 
 codes : $(CLEAN_CODES)
 
@@ -15,7 +15,10 @@ lsh : cache/corpus-lsh.rda
 cache/corpus-lsh.rda : $(SPLIT_CODES)
 	Rscript --vanilla scripts/corpus-lsh.R
 
-%.html : %.Rmd cache/corpus-lsh.rda $(INCLUDES)
+cache/network-graphs.rda : cache/corpus-lsh.rda
+	Rscript --vanilla scripts/network-graphs.R
+
+%.html : %.Rmd cache/corpus-lsh.rda cache/network-data.rda $(INCLUDES)
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
 
 index.html : index.Rmd $(INCLUDES) $(filter-out index.html, $(NOTEBOOKS))
