@@ -7,12 +7,16 @@ load("cache/corpus-lsh.rda")
 source("R/helper.R")
 set.seed(82892)
 
+# We will keep edges that have at least a certain number of shared connections
+# OR a percentage of borrowings that is greater than than a set percentage, but
+# we will keep at most a certain number of edges per code.
 minimum_n <- 50
+minimum_percent <- 0.20
 top_matches <- 2
 
 edges_n <- summary_matches %>%
   filter(!is.na(match_code),
-         sections_borrowed >= minimum_n) %>%
+         sections_borrowed >= minimum_n | percent_borrowed >= minimum_percent) %>%
   select(borrower_code, match_code, sections_borrowed) %>%
   group_by(borrower_code) %>%
   top_n(top_matches, sections_borrowed) %>%
