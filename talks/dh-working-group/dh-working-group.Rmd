@@ -2,7 +2,13 @@
 title: "The Migration of the Field Code"
 author: "Kellen Funk and Lincoln Mullen"
 output: tufte::tufte_handout
+date: "February 17, 2016"
 ---
+
+\begin{abstract}
+This handout describes our work in progress for the Digital Humanities Working Group at George Mason University.\\
+E-mail: \url{lincoln@lincolnmullen.com}, \url{kfunk@princeton.edu}
+\end{abstract}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, comment = NA)
@@ -26,26 +32,31 @@ clusters <- read_csv("../../out/clusters.csv")
 
 # The Field Code
 
-After the American Revolution, most states were common law jurisdictions, sometimes with courts of chancery. These courts had a complex system of pleading defined mostly be case law. By the 1840s, lawyers and the mercantile classes called for the codification of civil procedure. At stake in the ensuing debates were the rationality of the law a science, or the purity of Anglo-Saxon civilization. New York was the first state to codify its procedure, thanks to the efforts of David Dudly Field. New York's 1848 Field code became by the end of the century the model for the procedural codes in state jurisdiction.
+\begin{marginfigure}
+\includegraphics{../aha2016/field.jpg}
+\caption{David Dudley Field II (1805--1894).}
+\end{marginfigure}
+
+After the American Revolution, most states were common law jurisdictions, sometimes with courts of chancery. These courts had a complex system of pleading defined by case law. By the 1840s, lawyers and the mercantile classes called for the simplification and rationalization of civil procedure through codification. Factions for and against codification debated about whether codes were laws passed by democratic legislatures or anti-democratic legal elites, whether codification served only the needs of wealthy capitalists, and whether the purity of Anglo-Saxon civilization derived from the common law would be maintained. The economic capital New York was the first state to codify its procedure in 1848, thanks to the efforts of David Dudly Field. By the end of the century, New York's Field Code became the model for the codes of civil procedure in most states.
 
 \begin{figure}
 \includegraphics{../aha2016/field-code-states-map.jpeg}
-\caption{Field Code states by date of enactment. Many states subsequently revised their codes of civil procedure.}
+\caption{Field Code states by date of first enactment. Many states subsequently revised their codes of civil procedure.}
 \end{figure}
 
-Legal historians have long known that the Field code spread to other jurisdictions. Beyond the mere fact of its adoption, however, no one has studied the content of the borrowings. Which codes borrowed from each other? Which sections were borrowed, and which were modified? What were the patterns of borrowings and of innovations? 
+Legal historians have long known that the Field code spread to other jurisdictions. Beyond the mere fact of its adoption, however, no one has studied the content of the borrowings. Which codes borrowed from each other? Which sections were borrowed, and howe were they modified? What were the patterns and structures of borrowings and of innovations? To answer these questions we gathered a corpus of 115 codes and statutes of civil procedure from 1806 to 1933 containing about 7.6 million words, then algorithmically detected the borrowings within that corpus.
 
-To answer these questions we have gathered a corpus of 115 codes of civil procedure containing about 7.6 million words, and detected the borrowings algorithmically. Our approach is one of two common approaches. We have gathered a dataset of sources to answer a given set of questions; the other option is to take the sources as given and explore the data to see what questions it raises.^[Against the buzzword "big data," I call this "middle data", which we might define as data that is too small for distributed computation but too big for naive algorithms. Alternatively, it is data where the size of the sample approaches the size of the population, but where the population is strictly constrained by the research problem. Against big data, middle data offers the most promising way to combine traditional and digital history methods.]
+The aim of this handout is to describe our contributions to digital methods in legal history (and other fields), and to outline the interpretations we have drawn about the migration of the Field Code. Our method is one of two common approaches in computational history. We created a dataset to answer a given set of questions; a different approach is to take the sources as given and explore the data to see what questions it raises.^[This approach features "middle data" (not "big data") which we might define as data that is too small for distributed computation but too big for naive algorithms. Alternatively, it is data where the size of the sample approaches the size of the population, but where the population is strictly constrained by the research problem.] Our historical findings describe how American legal practice became standardized around a New York code yet varied by region.
 
 # How we found the borrowings
 
-We found out how the codes borrowed from one another by breaking the codes up into sections and comparing each section to every other section. We were justified in this approach because what we were doing was in essence repeating the process that nineteenth-century codifiers had taken. Newspapers and other observers mentioned the "the scissors and paste-pot " codes, and we have found in the archives codes which were marked up and edited by hand to be adopted for a different state. We think our method is successful because it mimics what we know to have happened by other historical methods.
+We found out how the codes borrowed from one another by splitting the codes into sections and comparing each section to every other section.^[The data and code to re-run our analyses are available in a GitHub repository: <https://github.com/lmullen/civil-procedure-codes>. We generalized our method in Lincoln Mullen, "textreuse: Detect Text Reuse and Document Similarity," R package version 0.1.2 (2015): <https://github.com/ropensci/textreuse>, which was peer-reviewed by rOpenSci.] This process in essence mimicked the way that nineteenth-century code commissioners literally cut and pasted sections from other jurisidictions. 
 
 ## Preparing the corpus
 
-Having identified all of the relevant codes of civil procedure in the nineteenth-century, including separately published codes, session laws, and statutes, we used OCR software to create plain-text versions of the codes.^[The data and code to re-run our analyses are available in a GitHub repository: <https://github.com/lmullen/civil-procedure-codes>.] These OCR files received only a light cleaning: we edited the section markers by hand as necessary, and wrote a script to fix the most obvious OCR errors.
+Having identified all of the relevant laws of civil procedure in the nineteenth-century, including codes, session laws, and statutes, we used OCR software to create plain-text versions of the codes. These OCR files received only a light cleaning: we edited the section markers by hand as necessary, and wrote a script to fix the most obvious OCR errors.
 
-We then split each section of each code into its own text file. The corpus contains nearly 98,000 sections. Below is a sample file containing a single section from a single code.^[Section 151 of the California's 1851 code of civil procedures from the file `CA1851-001660.txt`.]
+We then split each section of each code into its own text file. The corpus contains nearly 98,000 sections. Below is a sample file containing a single section from a single code.^[1851 California Laws 74, §151. This corresponds to our file `CA1851-001660.txt`. Notice the minor OCR errors.]
 
 ```
 151. An issue arises when a fact or conclusion of law 
@@ -56,7 +67,7 @@ and,  _ 2d. or fact. if?
 
 ## Tokenizing and measuring similarity
 
-The next stage in our process was to measure the similarity of the sections one to another. ^[This stage of our process was embedded in the [textreuse package](https://github.com/ropensci/textreuse) for R, which was peer-reviewed by rOpenSci: <https://github.com/ropensci/textreuse>.  See also my blog post, "[An Introduction to the textreuse Package, with Suggested Applications](http://lincolnmullen.com/blog/an-introduction-to-the-textreuse-package/)": <http://lincolnmullen.com/blog/an-introduction-to-the-textreuse-package/>. ] We first had to tokenize the text, meaning that  After experimenting we found that five-grams worked well.^[We also hashed the tokens, meaning that we converted them to integer representations which permits considerable savings of memory.]  The use of n-grams, which is a ubiquitious technique, permits redudancy of phrasing, intentional word changes, and OCR errors. Below are the first five tokens from the section above.
+The next stage in our process was to measure the similarity of the sections one to another. We first had to tokenize the text, meaning that  After experimenting we found that five-grams worked well.^[We also hashed the tokens, meaning that we converted them to integer representations which permits considerable savings of memory.]  The use of n-grams, which is a ubiquitious technique, permits redudancy of phrasing, intentional word changes, and OCR errors. Below are the first five tokens from the section above.
 
 ```{r}
 tokenize_ngrams("151. An issue arises when a fact or conclusion of law 
@@ -94,7 +105,7 @@ ggplot(input, aes(x = x)) +
 
 We implemented the minhash/locality sensitive hashing (LSH) algorithm to detect candidate pairs, i.e., documents which were likely to be matches. This algorithm works by extracting a set number of random tokens from each document, allowing the documents to be represented uniformly and compactly. Then those random tokens are grouped into subsets. If any two documents have a matching subset, then they are considered a candidate pair. This algorithm has several useful properties. It approximates the Jaccard similarity of the two documents. The algorithm requires a computation for each document, not each pair of documents, so the compute time grows linearly not geometrically. And by controlling various parameters, one can determine a threshold similarity score above which one is likely to find a match and unlikely to find an inaccurate match.
 
-Once we had detected the candidate pairs, we measured the actual Jaccard similarity for those pairs. The result was a sparse matrix of similarity scores, with rows and columns for each section in the corpus. A tiny subset is shown below.
+Once we had detected the candidate pairs, we measured the actual Jaccard similarity for those pairs. The result was a sparse matrix of similarity scores, with rows and columns for each section in the corpus. A tiny subset is shown below.^[Notice that all of the examples given from here on relate to the same set of codes from California, Oregon, and Washington, in order to demonstrate how the different parts of our method work together.]
 
 ```{r, fig.fullwidth = TRUE}
 a_cluster <- clusters %>% filter(cluster_id == 676) %>% `$`("doc")
@@ -171,6 +182,7 @@ ggraph(codes_g, "igraph", algorithm = "nicely") +
 
 This network shows the structure of the borrowings. In particular, it demonstrates the centrality of New York's code, especially the eponymous Field Code of 1850. The New York code then became the basis of other families of codes. Those codes heavily edited NY1850, but within the families (which were often based on the proximity of states) the borrowings tended to be much more close. Yet states could and did sometimes borrow from multiple states. Notice that this network graph moves both geographically an chronologically. It is later codes which tend to be on the outside of the network diagram, and they are the most distant from the original Field Code in both time and borrowings.^[If we move up a level of abstraction we can consider not code to code but state to state borrowings. This shows us the pattern of borrowings more clearly, albeit at a considerable loss of detail. While that is a constant challenge in any kind of visualization work, it is especially a challenge here where we know that our measures of borrowings can be inaccurate for individual sections, though they are reliable on the whole.]
 
+
 ```{r, eval=FALSE, fig.fullwidth=TRUE, fig.cap="State to state borrowings.", fig.height=3}
 set.seed(210)
 ggraph(states_g, "igraph", algorithm = "graphopt") +
@@ -200,16 +212,20 @@ spectrogram("WA1855", best_matches, white_list = 4)
 
 We can observe that most of the code is borrowed from some source or another. While there is a fair bit of "other" which are probably sections which we cannot adequately attribute, the pattern of borrowing is clear: IN1852 and OR1854 provide the majority of the borrowings, and they do so in two bands. This pattern is curious, because one might expect Washington to borrow from Oregon and California but Indiana is not an obvious choice. And why do the borrowings fall into these bands? Regulations on judgment were borrowed from Oregon, while enforcement provisions came from Indiana. We think this is because one of the Washington code commissioners, Edward Lander, was an Indiana appelate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. In other words, the law in this case moved with judges and lawyers who picked the parts they knew best.
 
-Of course we can also demonstrate in an obvious way when codes were borrwed heavily from one source:
+Of course we can also demonstrate in an obvious way when codes were borrwed heavily from one source, yet we can also note the unusual places in the code where apparently later innovations from Oregon were borrowed, or where the California codes were not strictly borrowed.
 
 ```{r}
 spectrogram("NV1861", best_matches, white_list = 4)
+
+spectrogram("NM1865", best_matches, white_list = 8)
 ```
 
-# Takeaways
+# Conclusions
 
-Methodological:
+There are two sets of conclusions, or at least observations, which can be drawn from this work in progress. 
 
-- harmony of methods
-- applicability to future
+We think that the methodology of this kind of work has a number of applications to historical problems. First, question framing. One very useful thing to do when framing a digital historical problem is to begin with exploratory data analysis of a large corpus---to let the sources drive the questions. We have modeled an approach that is at the opposite side of the interpretative spiral, by forming a corpus to answer an already formed historical question. The use of *medium data* permits us a close relationship between traditional and digital historical methods, which is our second point. Our methods produced useful historical knowledge because the digital methods were closely connected to assumptions we knew to be true about the data from our traditional historical work. To give a brief list of those harmonies: we knew that code commissioners worked with "the scissors and paste-pot," as political debates about the codes frequently complained, and we knew from examining codes in thea archives that commisions literally marked up the legislation of other states.^[*Rocky Mountain News*, January 20, 1877.] That knowledge, particularly the knowledge that the borrowings happened at the level of the section, justified our use of the minhash/LSH algorithm. Our knowledge that particular sections were frequently borrowed and thus were exemplars justified our use of the affinity propagration algorithm. And our assumptions about how codes were passed from state to state made network analysis an obvious fit.^[We might call these an example of the "no free lunch theorem" in action. See David Robinson, "K-means clustering is not a free lunch," *Variance Explained*, January 16, 2015: <http://varianceexplained.org/r/kmeans-free-lunch/>.] And third, we think that this method is widely applicable to different historical questions and sources, almost without modification in the case of corpora where the documents can be readily divided into sections. This method could be pursued in other legal documents such as treatises or statutes; it could also be pursued in sources of other domains, such as hymnbooks or tracts.
 
+Finally, the article that we are writing about the Field code will bring together what we have learned through traditional historical work and the digital methods described above. But we can sum up what we have learned primarily from the digital methods. This study is significant because it gets at the heart of lawmaking in U.S. history. Lawyers and judges, politicians and newspaper editors warred over whether codes that were drafted by commissioners and borrowed wholesale from one another were actually democratic laws or the imposition of a legal elite. Furthermore, these borrowings called into question the extent to which the United States was actually a federal system of laws. We have documented the scope and content of the exact borrowings. We have shown the dominance of New York's laws in a supposedly federal system, and shown exactly the extent to which code commissioners borrowed from that code and its descendants. Economic centers, which needed certain kinds of laws tied up with the expansion of markets and American capitalism, were in fact legal centers. But we have also demonstrated that regional distinctions were also significant, so that regional economic centers like California and Ohio generated separate Western and Midwestern families of codes. Finally we have shown how haphazard the process of codification could be, as in the case of the Washington code cited above where judges from jurisdictions borrowed laws that they were familiar with, and in the case of New Mexico, which borrowed Missouri's laws because those were the law books which were actually available.
+
+The specific provisions of the Field code aren't in continued use in every jurisdiction, (though in states like Missouri the Field Code provisions survive virtually unchanged) but the basic ideas embedded in the Field Code are standard practice which have spread throughout the entire country. Without too much exaggeration we might say that our method has revealed the spine of modern American legal practice.
