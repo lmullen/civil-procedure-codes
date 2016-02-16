@@ -27,7 +27,7 @@ source("../../R/section-matches.R")
 source("../../R/spectrogram.R")
 load("../../cache/corpus-lsh.rda")
 load("../../cache/network-graphs.rda")
-clusters <- read_csv("../../out/clusters.csv")
+clusters <- read_csv("../../out/clusters/clusters.csv")
 ```
 
 # The Field Code
@@ -76,7 +76,7 @@ by theothsr. Issues are of two kinds: lst. Of law:
 and,  _ 2d. or fact. if?", n = 5) %>% head(5)
 ```
 
-Next we used the Jaccard similarity score for measuring document similarity. That measure, treating the tokens as a set, is the ratio of shared tokens to the ratio of total tokens in two documents. That ration can range from 0 (complete dissimilarity) to 1 (complete similarity).^[Jure Leskovec, Anand Rajaraman, and Jeff Ullman, *Mining of Massive Datasets*, 2nd ed. (Cambridge University Press, 2014), ch. 3, <http://www.mmds.org>. The formal definition of the Jaccard similarity score is $$J(A, B) = \frac{ | A \cap B| }{ | A \cup B|}$$] For instance, the section from the 1851 California code above was derived from the 1850 New York code.^[*Final Report of the Commission on Practice and Pleadings*, 2 *Documents of the Assembly of New York*, 73rd session, No. 16 (1850), 317, §756. This corresponds to our file `NY1850-008350.txt`.] Because of changes to the wording and OCR errors, the Jaccard similarity between the two sections was `r jaccard_similarity(sections[["NY1850-008350"]], sections[["CA1851-001660"]]) %>% round(3)`. By carefully checking matching sections versus scores, we arrived at a rule of thumb that a Jaccard similarity score greater than 0.15 likely indicated a match, and a score greater than 0.2 almost certainly indicated a match. Most matching sections had scores much higher that 0.2.
+Next we used the Jaccard similarity score for measuring document similarity. That measure, treating the tokens as a set, is the ratio of shared tokens to the ratio of total tokens in two documents. That ration can range from 0 (complete dissimilarity) to 1 (complete similarity).^[Jure Leskovec, Anand Rajaraman, and Jeff Ullman, *Mining of Massive Datasets*, 2nd ed. (Cambridge University Press, 2014), ch. 3, <http://www.mmds.org>. The formal definition of the Jaccard similarity score is $$J(A, B) = \frac{ | A \cap B| }{ | A \cup B|}$$] For instance, the section from the 1851 California code above was derived from the 1850 New York code.^[*Final Report of the Commission on Practice and Pleadings*, 2 *Documents of the Assembly of New York*, 73rd session, No. 16 (1850), 317, §756. This corresponds to our file `NY1850-008350.txt`.] Because of changes to the wording and OCR errors, the Jaccard similarity between the two sections was `r jaccard_similarity(sections[["NY1850-008350"]], sections[["CA1851-001660"]]) %>% round(3)`. By carefully checking matching sections versus scores, we arrived at a rule of thumb that a Jaccard similarity score greater than 0.15 likely indicated a match, and a score greater than 0.2 almost certainly indicated a match.^[The mean score for the best section matches was `r best_matches$score %>% mean(na.rm = TRUE) %>% round(2)`.]
 
 ## Computing similarity for the entire corpus
 
@@ -85,7 +85,7 @@ num_comparisons <- function(n) { ((n * (n - 1)) / 2) }
 billionize <- function(x) { round(x / 1e9, 1)}
 ```
 
-The next step was to compute similarity for every section in the corpus. The difficulty is that to compare every section to every other section would require an enormous number of comparisons: approximately `r length(sections) %>% num_comparisons() %>% billionize()` billion for our corpus.^[Assuming that the similarity measure is bi-directional, the number of pairwise comparisons in a corpus is given by $(n^2-n) / {2}$.] Most of these comparisons would be wasted, since most sections have zero relationship to most other sections.
+The next step was to compute the similarity of every section in the corpus to every other section. That posed a problem: doing so would require an enormous number of comparisons, approximately `r length(sections) %>% num_comparisons() %>% billionize()` billion for our corpus.^[Assuming that the similarity measure is bi-directional, the number of pairwise comparisons in a corpus is given by $(n^2-n) / {2}$.] Most of these comparisons would be unnecessary, since each section has no relationship to most other sections.
 
 ```{r, fig.margin = TRUE, fig.cap = "This chart shows the threshold S-curves for various settings of the minhash/LSH algorithm. The x-axis shows the actual measured Jaccard similarity of the two documents; the y-axis shows the probability that they will be marked as a match. We used the settings for the leftmost curve, guaranteeing that we detected all matches above a similarity of 0.2."}
 prob_for_graph1 <- Vectorize(function(x) lsh_probability(120, 60, x))
@@ -103,25 +103,32 @@ ggplot(input, aes(x = x)) +
   scale_x_continuous(breaks = seq(0, 1, .2))
 ```
 
-We implemented the minhash/locality sensitive hashing (LSH) algorithm to detect candidate pairs, i.e., documents which were likely to be matches. This algorithm works by extracting a set number of random tokens from each document, allowing the documents to be represented uniformly and compactly. Then those random tokens are grouped into subsets. If any two documents have a matching subset, then they are considered a candidate pair. This algorithm has several useful properties. It approximates the Jaccard similarity of the two documents. The algorithm requires a computation for each document, not each pair of documents, so the compute time grows linearly not geometrically. And by controlling various parameters, one can determine a threshold similarity score above which one is likely to find a match and unlikely to find an inaccurate match.
+We implemented the minhash/locality sensitive hashing (LSH) algorithm to detect candidate pairs, i.e., documents which were likely to be matches. This algorithm works by extracting a set number of random tokens from each document, allowing the documents to be represented uniformly and compactly. Then those random tokens are grouped into subsets. If any two documents have a matching subset, then they are considered a candidate pair. This algorithm has several useful properties. It approximates the Jaccard similarity of the two documents. It requires a computation for each document rather than each pair of documents, so the computation time grows linearly not geometrically. And by controlling various parameters, one can set a threshold similarity score above which one is likely to find a genuine match and unlikely to find a spurious match.
 
-Once we had detected the candidate pairs, we measured the actual Jaccard similarity for those pairs. The result was a sparse matrix of similarity scores, with rows and columns for each section in the corpus. A tiny subset is shown below.^[Notice that all of the examples given from here on relate to the same set of codes from California, Oregon, and Washington, in order to demonstrate how the different parts of our method work together.]
+Once we detected the candidate pairs, we measured the actual Jaccard similarity of those pairs. The result was a sparse matrix of similarity scores, with rows and columns for each section in the corpus.
 
 ```{r, fig.fullwidth = TRUE}
-a_cluster <- clusters %>% filter(cluster_id == 676) %>% `$`("doc")
+a_cluster <- clusters %>%
+  filter(cluster_id == 10382) %>%
+  `$`("doc") %>% 
+  head(5)
 sample_matrix <- sections[a_cluster] %>% 
   pairwise_compare(jaccard_similarity, progress = FALSE, directional = TRUE) %>% 
   round(2) 
+sample_matrix[upper.tri(sample_matrix)] <- NA
+sample_matrix[3, 2] <- NA
+sample_matrix[4, 2:3] <- NA
+sample_matrix[5, 1:3] <- NA
 sample_matrix[is.na(sample_matrix)] <- ""
 knitr::kable(sample_matrix, align = "c", 
-             caption = "A subset of the similarity matrix")
+             caption = "A subset of the filtered similarity matrix.")
 ```
 
-This matrix, however, required further filtering based on what we knew about the process of borrowing from other methods. For instance, a code from 1851 could obviously not have borrowed from a code from 1877. Furthermore, in chains of borrowing (e.g., MT1895 $\rightarrow$ CA1868 $\rightarrow$ CA1851 $\rightarrow$ NY1850) the latest section might have a high similarity to all of its parents, but was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code from the same state unless (6) there was a substantially higher match from a different code. The result was a sparse matrix of the most likely matches for each section.
+This matrix required filtering based on what we knew about the process of borrowing. For instance, a code from 1851 obviously did not borrow from a code from 1877. Furthermore, in chains of borrowing (e.g., NY1850 $\rightarrow$ CA1851 $\rightarrow$ CA1868 $\rightarrow$ CA1872 $\rightarrow$ MT1895) the latest section might have a high similarity to all of its parents, but it was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code, (6) giving preference to codes from the same state, unless (7) there was a substantially higher match from a different code. The result was a sparse matrix of the most likely matches for each section, with at most one match for each section.
 
 # Learning from the borrowings
 
-A similarity matrix is a common input to many other visualizations and algorithms. We used the matrix of best borrowings to learn how the codes were borrowed in several ways.
+A similarity matrix is a common input to many algorithms and visualizations. From that matrix, we built several means of understanding how the codes borrowed from one another.
 
 ## Clustering the borrowings
 
