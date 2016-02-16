@@ -28,12 +28,6 @@ node_distances <- distances(codes_g,
 nodes_n <- data_frame(name = names(node_distances),
                       distance = node_distances)
 
-nodes_n <- nodes_n %>%
-  filter(distance != Inf)
-edges_n <- edges_n %>%
-  filter(borrower_code %in% nodes_n$name,
-         match_code %in% nodes_n$name)
-
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE, vertices = nodes_n)
 
 min_state_sections <- 100
