@@ -13,9 +13,14 @@ library(ggplot2)
 library(ggthemes)
 library(readr)
 library(knitr)
+library(igraph)
+library(ggraph)
+library(stringr)
 source("../../R/helper.R")
 source("../../R/section-matches.R")
+source("../../R/spectrogram.R")
 load("../../cache/corpus-lsh.rda")
+load("../../cache/network-graphs.rda")
 clusters <- read_csv("../../out/clusters.csv")
 ```
 
@@ -111,7 +116,95 @@ A similarity matrix is a common input to many other visualizations and algorithm
 
 We used a clustering algorithm to group similar sections together. There are innumerable clustering algorithms, but we needed one that could work with a sparse matrix and one whose assumptions aligned with the problem we were working on. We used the affinity propagation clustering algorithm.^[Brendan J. Frey and Delbert Dueck, "Clustering by Passing Messages Between Data Points," *Science* 315 (2007): 972--976.] That algorithm assumes that there is an "exemplar" item in each cluster. That assumption exactly matches the case with the Field code, where a single section (likely from NY1850) had many borrowings. Furthermore, even though the affinity propagation clustering algorithm did not fully converge on our peculiar dataset, it did do an adequate job of clustering the documents initially. Because there was an exemplar section for each cluster, we were able to merge clusters where the exemplar sections had a high Jaccard similarity score. 
 
-The result was a set of approximately 2,900 clusters which contained at least five sections. This probably overstates the number of ur-sections in the corpus. Each cluster contained a list of the section IDs that belonged to it. The biggest cluster, for instance, contained 
+The result was a set of approximately 2,900 clusters which contained at least five sections. This probably overstates the number of ur-sections in the corpus. Each cluster contained a list of the section IDs that belonged to it. The biggest cluster, for instance, contained 103 sections, which concerned the use of affidavits in pleading. Scholars in digital literary studies often speak of "deformance" of texts.^[Stephen Ramsay, *Reading Machines: Toward an Algorithmic Criticism* (University of Illinois Press, 2011), ch. 3.] Clustering the sections of the codes deformed them because it pulled the sections out of the codes from which they had been embedded in, and placed them in chronological order. This allowed us to see the development and spread of the law. You might consider this a method of distant reading which then permits a kind of close reading. Consider this (admittedly more important than usual) excerpt from one of the clusters which concerned the competence of witnesses:
+
+```
+Cluster ID: 10382          Documents in cluster: 20
+Exemplar: OR1854-003380    Earliest: NY1850-018680
+
+NY1850-018680 ------------------------------------------------------------------
+1709. The following persons are not admissible: 1. Those who are of unsound mind
+at the time of their production for examination: 2. Children under ten years of
+age, who appear incapable of receiving just impressions of the facts, respecting
+which they are examined, or of relating them truly.
+
+CA1851-004380 ------------------------------------------------------------------
+394. The following persons shall not be witnesses: ‘ lst. Those who areof
+unsound mind at the time of their production for examination: 2d. Children under
+ten years of age, who appear incapable of receiving just impressions of the
+facts respecting which they are examined, or of relating them truly: and, 3d.
+Indians, or persons having one fourth or more of Indian blood, in an action or
+proceeding to which a white person is a party: 4th. Negroes, or persons having
+one half or more Negro blood, in an action or proceeding to which a white person
+is a party.
+
+OR1854-003380 ------------------------------------------------------------------
+6. The following persons shall not be competent to testify 1. Those who are of
+unsound mind, or intoxicated at the time of their production for examination ;
+2. Children under ten years of age, who appear incapable of receiving just
+impressions of the facts respecting which they are examined, or of relating them
+truly; 4. Negroes, mulattocs and Indians, or persons one half or more of Indian
+blood, in an action or proceeding to which a white person is a party.
+```
+
+## Networks of borrowings
+
+A matrix of similarities can be thought of as an adjacency matrix to a network graph. We created network graph of the code to code borrowings. In an effort not to make this a typical hairball, we filtered the edges so that each code was connected to another code only if it borrowed at least fifty sections.
+
+```{r, fig.fullwidth=TRUE, fig.cap="Code to code borrowings.", fig.height=3}
+set.seed(21000)
+ggraph(codes_g, "igraph", algorithm = "nicely") +
+  geom_edge_fan(aes(edge_width = sections_borrowed, 
+                    alpha = sections_borrowed),
+                arrow = arrow(type = "closed", ends = "first",
+                              length = unit(0.10, "inches"),
+                              angle = 15)) +
+  geom_node_point(aes(color = as.factor(distance)), size = 2) +
+  scale_edge_width("Sections borrowed", range = c(0.25, 1), guide = "none") + 
+  scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
+  scale_color_brewer(palette = "Set1", "Distance from a NY code") +
+  ggforce::theme_no_axes(base_size = 4, base_family = "serif") +
+  geom_node_text(aes(label = name), size = 1.5) +
+  theme(legend.position = "bottom", 
+        panel.border = element_blank())
+```
+
+This network shows the structure of the borrowings. In particular, it demonstrates the centrality of New York's code, especially the eponymous Field Code of 1850. The New York code then became the basis of other families of codes. Those codes heavily edited NY1850, but within the families (which were often based on the proximity of states) the borrowings tended to be much more close. Yet states could and did sometimes borrow from multiple states. Notice that this network graph moves both geographically an chronologically. It is later codes which tend to be on the outside of the network diagram, and they are the most distant from the original Field Code in both time and borrowings.^[If we move up a level of abstraction we can consider not code to code but state to state borrowings. This shows us the pattern of borrowings more clearly, albeit at a considerable loss of detail. While that is a constant challenge in any kind of visualization work, it is especially a challenge here where we know that our measures of borrowings can be inaccurate for individual sections, though they are reliable on the whole.]
+
+```{r, eval=FALSE, fig.fullwidth=TRUE, fig.cap="State to state borrowings.", fig.height=3}
+set.seed(210)
+ggraph(states_g, "igraph", algorithm = "graphopt") +
+  geom_edge_fan(aes(edge_width = sections_borrowed, 
+                    alpha = sections_borrowed),
+                arrow = arrow(type = "closed", ends = "first",
+                              length = unit(0.10, "inches"),
+                              angle = 15)) +
+  geom_node_point(size = 3, aes(color = region)) +
+  scale_edge_width("Sections borrowed", range = c(0.25, 1), guide = "none") + 
+  scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
+  scale_color_brewer(palette = "Dark2", "Region") +
+  ggforce::theme_no_axes(base_size = 4, base_family = "serif") +
+  geom_node_text(aes(label = name), size = 1.5) +
+  theme(legend.position = "bottom", 
+        panel.border = element_blank())
+```
+
+## Borrowings within each code
+
+Finally, each of those nodes on the network diagram can be individualy investigated to get a more detailed perspective on how the codes were borrowed. We did this by creating a kind of "spectrograph" or fingerprint of which sections in a code were borrowed from which other codes. Take the case of Washington state's 1855 code. 
+
+
+```{r, fig.cap="Borrowed sections in Washington's 1855 code. Each section in the code is represented by a square, the color of which indicates where it was borrowed from."}
+spectrogram("WA1855", best_matches, white_list = 4)
+```
+
+We can observe that most of the code is borrowed from some source or another. While there is a fair bit of "other" which are probably sections which we cannot adequately attribute, the pattern of borrowing is clear: IN1852 and OR1854 provide the majority of the borrowings, and they do so in two bands. This pattern is curious, because one might expect Washington to borrow from Oregon and California but Indiana is not an obvious choice. And why do the borrowings fall into these bands? Regulations on judgment were borrowed from Oregon, while enforcement provisions came from Indiana. We think this is because one of the Washington code commissioners, Edward Lander, was an Indiana appelate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. In other words, the law in this case moved with judges and lawyers who picked the parts they knew best.
+
+Of course we can also demonstrate in an obvious way when codes were borrwed heavily from one source:
+
+```{r}
+spectrogram("NV1861", best_matches, white_list = 4)
+```
 
 # Takeaways
 
