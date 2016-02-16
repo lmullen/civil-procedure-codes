@@ -18,7 +18,7 @@ cache/corpus-lsh.rda : $(SPLIT_CODES)
 cache/network-graphs.rda : cache/corpus-lsh.rda
 	Rscript --vanilla scripts/network-graphs.R
 
-%.html : %.Rmd cache/corpus-lsh.rda cache/network-data.rda $(INCLUDES)
+%.html : %.Rmd cache/corpus-lsh.rda cache/network-graphs.rda $(INCLUDES)
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
 
 index.html : index.Rmd $(INCLUDES) $(filter-out index.html, $(NOTEBOOKS))
