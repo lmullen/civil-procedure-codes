@@ -2,7 +2,8 @@
 # white lists at most that number of codes to be explicitly named in the viz,
 # or a character vector of codes to white list.
 spectrogram <- function(code, matches_df, num_cols = 40,
-                        white_list = NULL, title = NULL) {
+                        white_list = NULL, title = NULL,
+                        base_size = 16, base_family = "") {
   require(dplyr)
   require(stringr)
   require(ggplot2)
@@ -38,7 +39,7 @@ spectrogram <- function(code, matches_df, num_cols = 40,
   matches_df %>%
   ggplot(aes(x = column, y = -row, fill = match_code)) +
   geom_tile(color = "lightgray") +
-  theme_minimal(base_size = 16) +
+  theme_minimal(base_size = base_size, base_family = base_family) +
   coord_equal() +
   labs(x = NULL, y = NULL, title = title,
        fill = "Section borrowed from") +
