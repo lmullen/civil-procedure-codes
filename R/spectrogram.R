@@ -38,7 +38,7 @@ spectrogram <- function(code, matches_df, num_cols = 40,
 
   # Make the plot
   matches_df %>%
-  ggplot(aes(x = column, y = -row, fill = match_code)) +
+  ggplot(aes(x = column, y = -row, fill = match_code, alpha = score)) +
   geom_tile(color = "lightgray") +
   theme_minimal(base_size = base_size, base_family = base_family) +
   coord_equal() +
@@ -49,7 +49,8 @@ spectrogram <- function(code, matches_df, num_cols = 40,
         axis.line = element_blank(), axis.text = element_blank(),
         panel.background = element_blank(), panel.grid = element_blank(),
         legend.key.size = unit(legend_size, "cm")) +
-  scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
+  scale_fill_brewer(type = "qual", na.value = "lightgray", palette = 6) +
+  scale_alpha(range = c(0.6, 1), guide = FALSE)
 
 }
 
