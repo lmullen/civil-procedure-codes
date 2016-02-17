@@ -27,5 +27,7 @@ for (i in seq_along(rmd)) {
 cat("</ul>")
 ```
 
+You may also be interested in the materials for various talks we have given about this project.
 
-- [AHA 2016 lightening talk slides](talks/aha2016.html)
+- [AHA 2016 lightening talk slides](talks/aha2016/aha2016.html)
+- [Digital Humanities Working Group, George Mason University](talks/dh-working-group/dh-working-group.pdf)
