@@ -132,9 +132,9 @@ A similarity matrix is a common input to many algorithms and visualizations. Fro
 
 ## Clustering the borrowings
 
-We used a clustering algorithm to group similar sections together. There are innumerable clustering algorithms, but we needed one that could work with a sparse matrix and one whose assumptions aligned with the problem we were working on. We used the affinity propagation clustering algorithm.^[Brendan J. Frey and Delbert Dueck, "Clustering by Passing Messages Between Data Points," *Science* 315 (2007): 972--976.] That algorithm assumes that there is an "exemplar" item in each cluster. That assumption exactly matches the case with the Field code, where a single section (likely from NY1850) had many borrowings. Furthermore, even though the affinity propagation clustering algorithm did not fully converge on our peculiar dataset, it did do an adequate job of clustering the documents initially. Because there was an exemplar section for each cluster, we were able to merge clusters where the exemplar sections had a high Jaccard similarity score. 
+We used a clustering algorithm to group related sections together. There are innumerable clustering algorithms, but we needed one that could work with a sparse matrix and one whose assumptions matched the characteristics of our problem. We decided to use affinity propagation clustering.^[Brendan J. Frey and Delbert Dueck, "Clustering by Passing Messages Between Data Points," *Science* 315 (2007): 972--976.] That algorithm assumes that each cluster has an "exemplar" item which the other items are similar to. That assumption fits nicely with borrowings from the Field Code, where a single section (likely from the 1850 New York code) had many borrowings. Furthermore, even though the affinity propagation clustering algorithm did not fully converge with our peculiar dataset, it did an adequate job clustering the documents. Because there was an exemplar section for each cluster, we were able to merge clusters whose exemplars had a high Jaccard similarity score. 
 
-The result was a set of approximately 2,900 clusters which contained at least five sections. This probably overstates the number of ur-sections in the corpus. Each cluster contained a list of the section IDs that belonged to it. The biggest cluster, for instance, contained 103 sections, which concerned the use of affidavits in pleading. Scholars in digital literary studies often speak of "deformance" of texts.^[Stephen Ramsay, *Reading Machines: Toward an Algorithmic Criticism* (University of Illinois Press, 2011), ch. 3.] Clustering the sections of the codes deformed them because it pulled the sections out of the codes from which they had been embedded in, and placed them in chronological order. This allowed us to see the development and spread of the law. You might consider this a method of distant reading which then permits a kind of close reading. Consider this (admittedly more important than usual) excerpt from one of the clusters which concerned the competence of witnesses:
+The result was a set of approximately 2,900 clusters which contained at least five sections, though this probably overstates the number of ur-sections in the corpus. Each cluster contained a list of the section that belonged to it. The biggest cluster, for instance, which concerned the use of affidavits in pleading, contained 103 sections. Scholars in digital literary studies often speak of the "deformance" of texts.^[Stephen Ramsay, *Reading Machines: Toward an Algorithmic Criticism* (University of Illinois Press, 2011), ch. 3.] Clustering the sections of the codes deformed them by pulling the sections out of their context within specific codes and by arranging them by topic in chronological order. Deforming the codes allowed us to see the development and spread of the law. Consider this (admittedly more significant than typical) excerpt from a cluster of sections about the competence of witnesses:
 
 ```
 Cluster ID: 10382          Documents in cluster: 20
@@ -165,30 +165,33 @@ truly; 4. Negroes, mulattocs and Indians, or persons one half or more of Indian
 blood, in an action or proceeding to which a white person is a party.
 ```
 
+Reading through those chronologically arranged sections, it became apparent how the original New York section was borrowed but adapted to include several different versions of a racial exclusion based on blood quantum.
+
 ## Networks of borrowings
 
-A matrix of similarities can be thought of as an adjacency matrix to a network graph. We created network graph of the code to code borrowings. In an effort not to make this a typical hairball, we filtered the edges so that each code was connected to another code only if it borrowed at least fifty sections.
+A matrix of similarities can also be thought of as the adjacency matrix of a network graph. Instead of creating a network graph of section to section borrowings (which would be practically the same thing as clustering), we moved up a level of abstraction to create a network graph of code to code borrowings. Because even our efforts at determining the best match for each section sometimes attributed a section to an incorrect code, we pruned the edges of the graph so that each code was connected to another code only if it borrowed at least fifty sections or twenty percent of its sections.
 
-```{r, fig.fullwidth=TRUE, fig.cap="Code to code borrowings.", fig.height=3}
+```{r, fig.fullwidth=TRUE, fig.cap="Code to code borrowings. The arrows indicate that a code contributed sections to another code. The color of the nodes indicates the number of steps to get to one of the New York codes. We could move up a further level of abstraction to consider state to state borrowings, which would show us the structure more clearly, albeit at a considerable loss of detail.", fig.height=3}
 set.seed(21000)
 ggraph(codes_g, "igraph", algorithm = "nicely") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
-                    alpha = sections_borrowed),
+                    alpha = sections_borrowed,
+                    color = as.factor(sections_borrowed)),
                 arrow = arrow(type = "closed", ends = "first",
                               length = unit(0.10, "inches"),
                               angle = 15)) +
-  geom_node_point(aes(color = as.factor(distance)), size = 2) +
+  geom_node_point(alpha = 0.95, aes(color = as.factor(distance)), size = 2) +
+  geom_node_text(aes(label = name), size = 1.5, family = "serif") +
   scale_edge_width("Sections borrowed", range = c(0.25, 1), guide = "none") + 
-  scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
-  scale_color_brewer(palette = "Set1", "Distance from a NY code") +
-  ggforce::theme_no_axes(base_size = 4, base_family = "serif") +
-  geom_node_text(aes(label = name), size = 1.5) +
+  scale_edge_color_grey(start = 0.5, end = 0.6, guide = "none") +
+  scale_edge_alpha(range = c(0.98, 0.99), guide = "none") +
+  scale_color_brewer(palette = "Dark2", "Distance from a NY code") +
+  ggforce::theme_no_axes(base_size = 5, base_family = "serif") +
   theme(legend.position = "bottom", 
         panel.border = element_blank())
 ```
 
-This network shows the structure of the borrowings. In particular, it demonstrates the centrality of New York's code, especially the eponymous Field Code of 1850. The New York code then became the basis of other families of codes. Those codes heavily edited NY1850, but within the families (which were often based on the proximity of states) the borrowings tended to be much more close. Yet states could and did sometimes borrow from multiple states. Notice that this network graph moves both geographically an chronologically. It is later codes which tend to be on the outside of the network diagram, and they are the most distant from the original Field Code in both time and borrowings.^[If we move up a level of abstraction we can consider not code to code but state to state borrowings. This shows us the pattern of borrowings more clearly, albeit at a considerable loss of detail. While that is a constant challenge in any kind of visualization work, it is especially a challenge here where we know that our measures of borrowings can be inaccurate for individual sections, though they are reliable on the whole.]
-
+This network shows the structure of borrowings within the corpus. This network graph expands both geographically an chronologically. Later codes tend to be on the outside of the diagram, and they are the most distant from the original Field Code in both time and similarity. The New York codes, especially the eponymous Field Code of 1850, are central to the entire network. The Field Code became the basis of other families of codes, which adapted it to different circumstances. Those families of codes tended to be regional, and the ties within the families of codes are somewhat tighter than the ties of the regional exemplar to the Field Code. Yet state code commissioners could and did sometimes borrow from multiple states.
 
 ```{r, eval=FALSE, fig.fullwidth=TRUE, fig.cap="State to state borrowings.", fig.height=3}
 set.seed(210)
