@@ -34,7 +34,8 @@ clusters <- read_csv("../../out/clusters/clusters.csv")
 
 \begin{marginfigure}
 \includegraphics{../aha2016/field.jpg}
-\caption{David Dudley Field II (1805--1894).}
+\caption{David Dudley Field II (1805--1894). Daguerreotype by Matthew Brady, circa 1844 to 1860, DAG no. 084, Library of Congress, Prints and Photographs Division, Washington, DC: \url{http://www.loc.gov/pictures/item/2004663945/
+}.}
 \end{marginfigure}
 
 After the American Revolution, most states were common law jurisdictions, sometimes with courts of chancery. These courts had a complex system of pleading defined by case law. By the 1840s, lawyers and the mercantile classes called for the simplification and rationalization of civil procedure through codification. Factions for and against codification debated about whether codes were laws passed by democratic legislatures or anti-democratic legal elites, whether codification served only the needs of wealthy capitalists, and whether the purity of Anglo-Saxon civilization derived from the common law would be maintained. The economic capital New York was the first state to codify its procedure in 1848, thanks to the efforts of David Dudly Field. By the end of the century, New York's Field Code became the model for the codes of civil procedure in most states.
@@ -124,7 +125,8 @@ knitr::kable(sample_matrix, align = "c",
              caption = "A subset of the filtered similarity matrix.")
 ```
 
-This matrix required filtering based on what we knew about the process of borrowing. For instance, a code from 1851 obviously did not borrow from a code from 1877. Furthermore, in chains of borrowing (e.g., NY1850 $\rightarrow$ CA1851 $\rightarrow$ CA1868 $\rightarrow$ CA1872 $\rightarrow$ MT1895) the latest section might have a high similarity to all of its parents, but it was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code, (6) giving preference to codes from the same state, unless (7) there was a substantially higher match from a different code. The result was a sparse matrix of the most likely matches for each section, with at most one match for each section.
+
+This matrix required filtering based on what we knew about the process of borrowing.\marginnote{Read this table as \texttt{row} borrows from \texttt{column}.} For instance, a code from 1851 obviously did not borrow from a code from 1877. Furthermore, in chains of borrowing (e.g., NY1850 $\rightarrow$ CA1851 $\rightarrow$ CA1868 $\rightarrow$ CA1872 $\rightarrow$ MT1895) the latest section might have a high similarity to all of its parents, but it was in fact borrowed only from the most recent parent. We therefore filtered the similarity matrix to remove (1) matches within the same code; (2) anachronistic matches; (3) spurious matches beneath a certain threshold. Then if a section had multiple matches, we kept the match from (5) the chronologically closest code, (6) giving preference to codes from the same state, unless (7) there was a substantially higher match from a different code. The result was a sparse matrix of the most likely matches for each section, with at most one match for each section.
 
 # Learning from the borrowings
 
@@ -188,54 +190,33 @@ ggraph(codes_g, "igraph", algorithm = "nicely") +
   scale_color_brewer(palette = "Dark2", "Distance from a NY code") +
   ggforce::theme_no_axes(base_size = 5, base_family = "serif") +
   theme(legend.position = "bottom", 
-        panel.border = element_blank())
+        panel.border = element_blank(),
+        legend.key.size = unit(0.30, "cm"))
 ```
 
 This network shows the structure of borrowings within the corpus. This network graph expands both geographically an chronologically. Later codes tend to be on the outside of the diagram, and they are the most distant from the original Field Code in both time and similarity. The New York codes, especially the eponymous Field Code of 1850, are central to the entire network. The Field Code became the basis of other families of codes, which adapted it to different circumstances. Those families of codes tended to be regional, and the ties within the families of codes are somewhat tighter than the ties of the regional exemplar to the Field Code. Yet state code commissioners could and did sometimes borrow from multiple states.
 
-```{r, eval=FALSE, fig.fullwidth=TRUE, fig.cap="State to state borrowings.", fig.height=3}
-set.seed(210)
-ggraph(states_g, "igraph", algorithm = "graphopt") +
-  geom_edge_fan(aes(edge_width = sections_borrowed, 
-                    alpha = sections_borrowed),
-                arrow = arrow(type = "closed", ends = "first",
-                              length = unit(0.10, "inches"),
-                              angle = 15)) +
-  geom_node_point(size = 3, aes(color = region)) +
-  scale_edge_width("Sections borrowed", range = c(0.25, 1), guide = "none") + 
-  scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
-  scale_color_brewer(palette = "Dark2", "Region") +
-  ggforce::theme_no_axes(base_size = 4, base_family = "serif") +
-  geom_node_text(aes(label = name), size = 1.5) +
-  theme(legend.position = "bottom", 
-        panel.border = element_blank())
-```
-
 ## Borrowings within each code
 
-Finally, each of those nodes on the network diagram can be individualy investigated to get a more detailed perspective on how the codes were borrowed. We did this by creating a kind of "spectrograph" or fingerprint of which sections in a code were borrowed from which other codes. Take the case of Washington state's 1855 code. 
+Finally, we created a "spectrograph" visualization in order to get a fuller picture of how each code compiled sections from other codes. These visualizations showed the origin of each section of a code. We can use these spectrographs to follow the some of the connected nodes on the network diagram. Take Washington's 1855 code. 
 
-
-```{r, fig.cap="Borrowed sections in Washington's 1855 code. Each section in the code is represented by a square, the color of which indicates where it was borrowed from."}
-spectrogram("WA1855", best_matches, white_list = 4)
+```{r, fig.margin=FALSE, fig.cap="Borrowed sections in Washington's 1855 code. Each section in the code is represented by a square, the color of which indicates where it was borrowed from."}
+spectrogram("WA1855", best_matches, white_list = 4, 
+            base_size = 6, base_family = "serif", legend_size = 0.3)
 ```
 
-We can observe that most of the code is borrowed from some source or another. While there is a fair bit of "other" which are probably sections which we cannot adequately attribute, the pattern of borrowing is clear: IN1852 and OR1854 provide the majority of the borrowings, and they do so in two bands. This pattern is curious, because one might expect Washington to borrow from Oregon and California but Indiana is not an obvious choice. And why do the borrowings fall into these bands? Regulations on judgment were borrowed from Oregon, while enforcement provisions came from Indiana. We think this is because one of the Washington code commissioners, Edward Lander, was an Indiana appelate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. In other words, the law in this case moved with judges and lawyers who picked the parts they knew best.
 
-Of course we can also demonstrate in an obvious way when codes were borrwed heavily from one source, yet we can also note the unusual places in the code where apparently later innovations from Oregon were borrowed, or where the California codes were not strictly borrowed.
-
-```{r}
-spectrogram("NV1861", best_matches, white_list = 4)
-
-spectrogram("NM1865", best_matches, white_list = 8)
+```{r, fig.margin=TRUE, fig.cap="Borrowed sections in California's 1851 code. This code, which is the regional exemplar for much of the western codes, is almost entirely derived from the Field Code, with the exception of sections modified for California in its 1850 code. Those too were ultimately derived from New York."}
+spectrogram("CA1851", best_matches, white_list = 3, 
+            base_size = 12, base_family = "serif", legend_size = 0.3)
 ```
 
-# Conclusions
+While there are a number of "other" sections, the pattern of borrowing is clear: Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. Those two bands of borrowings correspond to regulations on judgement from Oregon and enforcement provisions from Indiana. We think this pattern is because one of the Washington code commissioners, Edward Lander, was an Indiana appelate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. The law was created by the commissioners, and they picked the laws that they knew best.
 
-There are two sets of conclusions, or at least observations, which can be drawn from this work in progress. 
+# Conclusions about method and interpretation
 
-We think that the methodology of this kind of work has a number of applications to historical problems. First, question framing. One very useful thing to do when framing a digital historical problem is to begin with exploratory data analysis of a large corpus---to let the sources drive the questions. We have modeled an approach that is at the opposite side of the interpretative spiral, by forming a corpus to answer an already formed historical question. The use of *medium data* permits us a close relationship between traditional and digital historical methods, which is our second point. Our methods produced useful historical knowledge because the digital methods were closely connected to assumptions we knew to be true about the data from our traditional historical work. To give a brief list of those harmonies: we knew that code commissioners worked with "the scissors and paste-pot," as political debates about the codes frequently complained, and we knew from examining codes in thea archives that commisions literally marked up the legislation of other states.^[*Rocky Mountain News*, January 20, 1877.] That knowledge, particularly the knowledge that the borrowings happened at the level of the section, justified our use of the minhash/LSH algorithm. Our knowledge that particular sections were frequently borrowed and thus were exemplars justified our use of the affinity propagration algorithm. And our assumptions about how codes were passed from state to state made network analysis an obvious fit.^[We might call these an example of the "no free lunch theorem" in action. See David Robinson, "K-means clustering is not a free lunch," *Variance Explained*, January 16, 2015: <http://varianceexplained.org/r/kmeans-free-lunch/>.] And third, we think that this method is widely applicable to different historical questions and sources, almost without modification in the case of corpora where the documents can be readily divided into sections. This method could be pursued in other legal documents such as treatises or statutes; it could also be pursued in sources of other domains, such as hymnbooks or tracts.
+By framing our historical questions around "medium data" we enjoyed a useful symbiosis of traditional and digital historical methods. Our computational methods produced useful historical knowledge they were justified by what we knew about the data from traditional historical work. We knew that code commissioners worked with "the scissors and paste-pot,"^[*Rocky Mountain News*, January 20, 1877.] as political debates from the era frequently complained, and we knew codes in the archives that commisions literally marked up the legislation of other states.^[The Nevada code was created by marking up a printed copy of California's code. Detail from Council Bill 21, First Territorial Legislative Session (1861), Nevada State Library, Archives and Public Records.] Knowing that borrowings happened section by section justified our use of the minhash/LSH algorithm, and the nature of the borrowings justified our use of affinity propagration clustering. And knowing how codes passed from state to state made network analysis an obvious fit.^[This is an example of the "no free lunch theorem" in action. See David Robinson, "K-means clustering is not a free lunch," *Variance Explained*, January 16, 2015: <http://varianceexplained.org/r/kmeans-free-lunch/>, citing David H. Wolpert and William G. Macready, "No Free Lunch Theorems for Optimization" *IEEE Transactions on Evolutionary Computation* 1, no. 1 (April 1997): 67--82, <http://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf>.] 
 
-Finally, the article that we are writing about the Field code will bring together what we have learned through traditional historical work and the digital methods described above. But we can sum up what we have learned primarily from the digital methods. This study is significant because it gets at the heart of lawmaking in U.S. history. Lawyers and judges, politicians and newspaper editors warred over whether codes that were drafted by commissioners and borrowed wholesale from one another were actually democratic laws or the imposition of a legal elite. Furthermore, these borrowings called into question the extent to which the United States was actually a federal system of laws. We have documented the scope and content of the exact borrowings. We have shown the dominance of New York's laws in a supposedly federal system, and shown exactly the extent to which code commissioners borrowed from that code and its descendants. Economic centers, which needed certain kinds of laws tied up with the expansion of markets and American capitalism, were in fact legal centers. But we have also demonstrated that regional distinctions were also significant, so that regional economic centers like California and Ohio generated separate Western and Midwestern families of codes. Finally we have shown how haphazard the process of codification could be, as in the case of the Washington code cited above where judges from jurisdictions borrowed laws that they were familiar with, and in the case of New Mexico, which borrowed Missouri's laws because those were the law books which were actually available.
+Our method is applicable to many historical questions and sources, especially corpora where the documents can be readily divided into sections. We may pursue it with other legal documents, such as treatises or statutes, or with sources for religious history, such as hymnbooks or tracts.
 
-The specific provisions of the Field code aren't in continued use in every jurisdiction, (though in states like Missouri the Field Code provisions survive virtually unchanged) but the basic ideas embedded in the Field Code are standard practice which have spread throughout the entire country. Without too much exaggeration we might say that our method has revealed the spine of modern American legal practice.
+We are writing an article with a fuller statement of our historical interpretations, but to sum up what we learned from the computational methods: This study is significant because it gets at the heart of lawmaking in U.S. history. Lawyers and judges, politicians and newspaper editors warred over whether codes that were drafted by commissioners and borrowed wholesale from one another were actually democratic laws or the imposition of a legal elite. Furthermore, these borrowings called into question the extent to which the United States was actually a federal system of laws. We have shown the dominance of New York's laws in a supposedly federal system, and demonstrated the extent to which code commissioners borrowed from the Field Code and its descendants. Despite the notion that states were equal and soverign, economic centers were in fact legal centers. But we have also demonstrated that regional distinctions were also significant, with states like California and Ohio creating separate Western and Midwestern families of codes. Finally we have shown how haphazard the process of codification could be, as in the case of the 1855 Washington code cited above, or in the case of New Mexico, which borrowed Missouri's laws because those were the law books available to the commissioners. In most jurisdictions the exact language of the Field Code is not currently on the books, but its basic provisions for civil procedure are in force throughout the United States.^[But in some states such as Missouri the Field Code provisions survive nearly unchanged.] Without too much exaggeration we might say that our method has revealed the spine of modern American legal practice.
