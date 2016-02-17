@@ -3,7 +3,8 @@
 # or a character vector of codes to white list.
 spectrogram <- function(code, matches_df, num_cols = 40,
                         white_list = NULL, title = NULL,
-                        base_size = 16, base_family = "") {
+                        base_size = 16, base_family = "",
+                        legend_size = 0.5) {
   require(dplyr)
   require(stringr)
   require(ggplot2)
@@ -46,7 +47,8 @@ spectrogram <- function(code, matches_df, num_cols = 40,
   theme(legend.position = "bottom",
         axis.ticks = element_blank(),
         axis.line = element_blank(), axis.text = element_blank(),
-        panel.background = element_blank(), panel.grid = element_blank()) +
+        panel.background = element_blank(), panel.grid = element_blank(),
+        legend.key.size = unit(legend_size, "cm")) +
   scale_fill_brewer(type = "qual", na.value = "gray", palette = 6)
 
 }
