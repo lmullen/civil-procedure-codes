@@ -35,6 +35,13 @@ Spectrogram of borrowings in CA1850. I expect it will show heavily reliance on N
 spectrogram("CA1850", best_matches, white_list = 7)
 ```
 
+CA1851
+
+```{r}
+spectrogram("CA1851", best_matches, white_list = 3)
+```
+
+
 Spectrogram of borrowings in MD1855. I expect to see reliance on English legislation (GB1852 and GB1854), amidst original material.
 
 ```{r}
@@ -45,6 +52,12 @@ Spectrogram of borrowings in WA1855. An earlier version show two long runs of bo
 
 ```{r}
 spectrogram("WA1855", best_matches, white_list = 8)
+```
+
+NV1861
+
+```{r}
+spectrogram("NV1861", best_matches, white_list = 4)
 ```
 
 
@@ -155,7 +168,7 @@ spectrogram("NY1876", best_matches, white_list = 8)
 ```
 
 ```{r}
-spectrogram("NY1879", best_matches, white_list = 8)
+spectrogram("NY1879", best_matches, white_list = 3)
 ```
 
 Here I'm looking for the reverse of the previous spectrograms. Rather than illustrate sections BORROWED FROM elsewhere, can we illustrate sections in the original Field Code that GET BORROWED elsewhere, and instead of coloring by where they end up, color based on how many times a particular section appears throughout the corpus?
