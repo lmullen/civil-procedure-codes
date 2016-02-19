@@ -39,6 +39,7 @@ most_borrowed <- function(matches_df, matching_code, weighted = FALSE) {
       group_by(match_section) %>% 
       summarize(n = n()) %>% 
       mutate(match_code = "All codes",
+             n = ifelse(n == 1, NA, n),
              score = scales::rescale(n, from = c(0, max(n, na.rm = TRUE)))) %>% 
       rename(borrower_section = match_section)
   }
@@ -51,7 +52,6 @@ most_borrowed <- function(matches_df, matching_code, weighted = FALSE) {
   all_sections %>% 
     left_join(matches_df, by = "borrower_section") %>% 
     mutate(borrower_code = matching_code) 
-    
   
 }
 
@@ -74,6 +74,5 @@ borrowings_spectrogram("NY1848")
 borrowings_spectrogram("MA1836")
 borrowings_spectrogram("MD1855")
 borrowings_spectrogram("CA1851")
-
 ```
 
