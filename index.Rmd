@@ -1,15 +1,20 @@
 ---
-title: "Analysis of Text Reuse in the Field Code"
-author: "Lincoln Mullen and Kellen Funk"
+title: "The Migration of the Field Code"
+author: "Kellen Funk and Lincoln Mullen"
 ---
 
-This is an analysis notebook for detecting text reuse in codes of civil procedure---the "Field codes"---in the nineteenth-century United States. It is a collaboration between [Kellen Funk](http://kellenfunk.org/) and [Lincoln Mullen](http://lincolnmullen.com).
+This is an analysis notebook for detecting text reuse in legal codes of civil procedure---the "Field codes"---in the nineteenth-century United States. It is a collaboration between [Kellen Funk](http://kellenfunk.org/) and [Lincoln Mullen](http://lincolnmullen.com). This [working paper](talks/dh-working-group/dh-working-group.pdf) has the most up-to-date summary of what we are doing.
 
 See these links for more details:
 
 - [Kellen's posts about the project](http://kellenfunk.org/field-code/)
 - [An Introduction to the textreuse Package, with Suggested Applications](http://lincolnmullen.com/blog/an-introduction-to-the-textreuse-package/)
 - [Detecting Text Reuse in Nineteenth-Century Legal Documents](http://lincolnmullen.com/blog/detecting-text-reuse-in-legal-documents/)
+
+You may also be interested in the materials for various talks we have given about this project.
+
+- [AHA 2016 lightening talk slides](talks/aha2016/aha2016.html)
+- Digital Humanities Working Group, George Mason University: [paper](talks/dh-working-group/dh-working-group.pdf), [slides](talks/dh-working-group-slides/dh-working-group-slides.html)
 
 This notebook contains our work in progress. This is the most recent analysis in progress. There is more in the [repository](https://github.com/lmullen/civil-procedure-codes).
 
@@ -27,7 +32,3 @@ for (i in seq_along(rmd)) {
 cat("</ul>")
 ```
 
-You may also be interested in the materials for various talks we have given about this project.
-
-- [AHA 2016 lightening talk slides](talks/aha2016/aha2016.html)
-- Digital Humanities Working Group, George Mason University: [paper](talks/dh-working-group/dh-working-group.pdf), [slides](talks/dh-working-group-slides/dh-working-group-slides.html)
