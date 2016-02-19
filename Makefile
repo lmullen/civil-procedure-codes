@@ -2,9 +2,10 @@ OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 INCLUDES  := $(wildcard www-lib/*.html)
-NOTEBOOKS   := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
+NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
+NOTEBOOKS := $(filter-out article.html, $(NOTEBOOKS))
 
-all : $(NOTEBOOKS) cache/corpus-lsh.rda cache/network-graphs.rda article/article.pdf
+all : $(NOTEBOOKS) cache/corpus-lsh.rda cache/network-graphs.rda article.pdf
 
 codes : $(CLEAN_CODES)
 
@@ -18,9 +19,8 @@ cache/corpus-lsh.rda : $(SPLIT_CODES)
 cache/network-graphs.rda : cache/corpus-lsh.rda
 	Rscript --vanilla scripts/network-graphs.R
 
-article/article.pdf : article/article.Rmd cache/corpus-lsh.rda cache/network-graphs.rda
-	R --slave -e "set.seed(100); rmarkdown::render('article/$(<F)')"
-
+article.pdf : article.Rmd cache/corpus-lsh.rda cache/network-graphs.rda
+	R --slave -e "set.seed(100); rmarkdown::render('$(<F)', output_format = 'pdf_document')"
 
 %.html : %.Rmd cache/corpus-lsh.rda cache/network-graphs.rda $(INCLUDES)
 	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
@@ -56,6 +56,7 @@ temp/%.txt : pdf/%.pdf
 clean :
 	rm -rf $(NOTEBOOKS)
 	rm -rf temp/*
+	rm -f article.pdf
 
 .PHONY : clean-splits
 clean-splits :

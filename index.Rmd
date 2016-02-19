@@ -20,7 +20,7 @@ This notebook contains our work in progress. This is the most recent analysis in
 
 ```{r echo=FALSE, results='asis'}
 rmd <- Sys.glob("*.Rmd")
-rmd <- rmd[rmd != "index.Rmd"]
+rmd <- rmd[!rmd %in% c("index.Rmd", "article.Rmd")]
 html <- sub(".Rmd", ".html", rmd)
 lines <- lapply(rmd, readLines)
 yaml <- lapply(lines, rmarkdown:::parse_yaml_front_matter)
