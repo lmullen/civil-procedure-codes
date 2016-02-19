@@ -1,0 +1,79 @@
+---
+title: "Most Borrowed Sections"
+author: "Kellen Funk and Lincoln Mullen"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Which sections of the Field Code were most borrowed? By borrowed we mean both directly and also several generations down the tree.
+
+```{r, message=FALSE}
+library(dplyr)
+load("cache/corpus-lsh.rda")
+source("R/helper.R")
+source("R/spectrogram.R")
+```
+
+This is a hacky way of solving it. (The hackiness mostly comes from bending things to fit the spectrogram function.)
+```{r}
+borrowed_from <- function(code, matches_df = all_matches, threshold = 0.2) {
+  require(dplyr)
+  matches_df %>% 
+    filter(match_code == code,
+           borrower_year > extract_date(code),
+           score >= threshold)
+}
+
+most_borrowed <- function(matches_df, matching_code, weighted = FALSE) {
+  if (weighted) {
+    matches_df <- matches_df %>% 
+      group_by(match_section) %>% 
+      summarize(score = sum(score, na.rm = TRUE)) %>% 
+      mutate(match_code = "All codes",
+             score = scales::rescale(score, from = c(0, max(score, na.rm = TRUE)))) %>% 
+      rename(borrower_section = match_section)
+  } else {
+    matches_df <- matches_df %>% 
+      group_by(match_section) %>% 
+      summarize(n = n()) %>% 
+      mutate(match_code = "All codes",
+             score = scales::rescale(n, from = c(0, max(n, na.rm = TRUE)))) %>% 
+      rename(borrower_section = match_section)
+  }
+  
+  all_sections <- best_matches %>% 
+    filter(borrower_code == matching_code) %>% 
+    select(borrower_section)
+    
+  
+  all_sections %>% 
+    left_join(matches_df, by = "borrower_section") %>% 
+    mutate(borrower_code = matching_code) 
+    
+  
+}
+
+borrowings_spectrogram <- function(code) {
+  spectrogram(code, most_borrowed(borrowed_from(code), code, weighted = FALSE))
+}
+```
+
+Most of New York 1850 is borrowed, but not the title sections as you would expect.
+
+```{r}
+borrowings_spectrogram("NY1850")
+```
+
+Some other codes:
+
+```{r}
+borrowings_spectrogram("NY1829")
+borrowings_spectrogram("NY1848")
+borrowings_spectrogram("MA1836")
+borrowings_spectrogram("MD1855")
+borrowings_spectrogram("CA1851")
+
+```
+
