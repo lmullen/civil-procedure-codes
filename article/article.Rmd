@@ -1,0 +1,11 @@
+---
+title: 'The “Paste-Pot” Field Code: The Migration of Law in the Nineteenth-Century
+  United States'
+author: "Kellen Funk and Lincoln Mullen"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
