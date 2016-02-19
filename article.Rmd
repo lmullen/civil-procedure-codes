@@ -12,8 +12,53 @@ library(readr)
 library(ggplot2)
 library(ggraph)
 knitr::opts_chunk$set(echo = FALSE)
-# load("cache/corpus-lsh.rda")
-# load("cache/network-graphs.rda")
-# clusters <- read_csv("out/clusters/clusters.csv")
+load("cache/corpus-lsh.rda")
+load("cache/network-graphs.rda")
+clusters <- read_csv("out/clusters/clusters.csv")
 ```
 
+# Introduction: "The scissors and the paste-pot"
+
+## Nevada's borrowings
+
+Vignette showing how Nevada borrowed from California.
+
+![The session bill for Nevada’s procedure acts consisted of actual pages from Wood’s Digest of California Law, 1857 edition. The sections have been renumbered by hand and references to California replaced with Nevada. Detail from Council Bill 21, First Territorial Legislative Session (1861), Nevada State Library, Archives and Public Records.](img/morris-bill.jpg)
+
+Nevada's code shows the pattern of borrowings, and also the pressures that led to those kinds of borrowings: statehood, economy.
+
+## Nevada to California to New York
+
+Nevada's code was borrowed from California, but California was borrowed from New York. 
+
+Brief discussion of the stakes of these kinds of borrowings.
+
+Historians have long known that the borrowings dependent on New York happened.
+
+![Map of first instance of Field Codes.](img/field-code-states-map.jpeg)
+
+# The Problem Stated
+
+Merely noticing the borrowings does not do justice to the migration of the Field Code. We have to ask questions about what was borrowed, by whom, and how it was modified.
+
+Questions such as these make us reconsider the ways that we look at the Field Code. Since critical legal history [?] scholars have focused on the reception of the code. The presumed narrative is that "conservative" judges stood in the way of implementing the Field Code reforms. This question misses the antecedent question of the coherence of the Field Code. On the one hand, the Field Code itself sometimes spoke at cross purposes. But we can further generalize to talk about "the Field Code" in terms of not just a single printed document from New York, though even New York revised its code year after year, but all the borrowings in the aggregate, and the pattern that they form.
+
+So we need to ask about the patterns of borrowings, the structure latent within them. We have already discussed the Nevada to California to New York connection. What were the family trees of the codes, and what kinds of borrowings were there within the different places? What reforms did states make? How did they innovate?
+
+These questions are fundamental to nineteenth century legal history and indeed, to U.S. history more generally. We want to demonstrate that the U.S., so far from being a place characterized by federalism, was a place where the fundamental laws of each state tended to be drawn from a single place, New York, because of its commercial power. OTHER BIG POINTS
+
+# How we did our work.
+
+We have to explain how we did our work first to lend credibility to the claims below, and also to make it clear exactly what the evidentiary basis of the visualizations is. 
+
+Our methods work because we were reverse engineering the paste pot. Our methodological contributions are these: (1) starting with a problem rather than a source base. (2) Applying methods which have been used in computer science or literary history to legal history. (3) Being explicit about the process of working in different scales. (4) Deforming the text.
+
+Gathering a corpus and OCRing it
+
+Minhash/LSH.
+
+Finding the best borrowings.
+
+Learning from the code: clusters, networks, spectrographs, most frequent borrowings from New York.
+
+Having described our methods, now we are going to walk you through the process that we used to generate historical knowledge from our computations. 
