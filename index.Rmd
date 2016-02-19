@@ -3,7 +3,7 @@ title: "The Migration of the Field Code"
 author: "Kellen Funk and Lincoln Mullen"
 ---
 
-This is an analysis notebook for detecting text reuse in legal codes of civil procedure---the "Field codes"---in the nineteenth-century United States. It is a collaboration between [Kellen Funk](http://kellenfunk.org/) and [Lincoln Mullen](http://lincolnmullen.com). This [working paper](talks/dh-working-group/dh-working-group.pdf) has the most up-to-date summary of what we are doing.
+This is an analysis notebook for detecting text reuse in legal codes of civil procedure---the "Field codes"---in the nineteenth-century United States. It is a collaboration between [Kellen Funk](http://kellenfunk.org/) and [Lincoln Mullen](http://lincolnmullen.com). This [working paper](talks/dh-working-group/Funk-Mullen.Migration-Field-Code.working-paper.pdf) has the most up-to-date summary of what we are doing.
 
 See these links for more details:
 
@@ -14,7 +14,7 @@ See these links for more details:
 You may also be interested in the materials for various talks we have given about this project.
 
 - [AHA 2016 lightening talk slides](talks/aha2016/aha2016.html)
-- Digital Humanities Working Group, George Mason University: [paper](talks/dh-working-group/dh-working-group.pdf), [slides](talks/dh-working-group-slides/dh-working-group-slides.html)
+- Digital Humanities Working Group, George Mason University: [paper](talks/dh-working-group/Funk-Mullen.Migration-Field-Code.working-paper.pdf), [slides](talks/dh-working-group-slides/dh-working-group-slides.html)
 
 This notebook contains our work in progress. This is the most recent analysis in progress. There is more in the [repository](https://github.com/lmullen/civil-procedure-codes).
 
