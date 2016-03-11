@@ -55,6 +55,25 @@ Our methods work because we were reverse engineering the paste pot. Our methodol
 
 Gathering a corpus and OCRing it
 
+```{r}
+sample_corpus <- sections[c("NY1850-006060", "NY1850-006070",
+                            "CA1851-000030", "CA1851-000040")]
+
+names(sample_corpus) <- c("NY1850-554", "NY1850-555", "CA1851-001",
+                          "CA1851-002")
+
+replace_na <- function(m) {
+  m[is.na(m)] <- ""
+  m
+}
+
+pairwise_compare(sample_corpus, jaccard_similarity) %>% 
+  round(2) %>% 
+  replace_na() %>% 
+  knitr::kable(align = "l")
+```
+
+
 Minhash/LSH.
 
 Finding the best borrowings.
