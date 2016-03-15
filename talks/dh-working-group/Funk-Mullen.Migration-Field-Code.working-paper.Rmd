@@ -210,7 +210,7 @@ spectrogram("CA1851", best_matches, white_list = 3,
             base_size = 12, base_family = "serif", legend_size = 0.3)
 ```
 
-While there are a number of "other" sections, the pattern of borrowing is clear: Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. Those two bands of borrowings correspond to regulations on judgement from Oregon and enforcement provisions from Indiana. We think this pattern is because one of the Washington code commissioners, Edward Lander, was an Indiana appelate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. The law was created by the commissioners, and they picked the laws that they knew best.
+While there are a number of "other" sections, the pattern of borrowing is clear: Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. Those two bands of borrowings correspond to regulations on judgement from Oregon and enforcement provisions from Indiana. We think this pattern is because one of the Washington code commissioners, Edward Lander, was an Indiana appellate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. The law was created by the commissioners, and they picked the laws that they knew best.
 
 # Conclusions about method and interpretation
 
