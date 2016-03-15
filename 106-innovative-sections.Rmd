@@ -1,0 +1,84 @@
+---
+title: "Innovations in codes"
+author: "Lincoln Mullen"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The aim of this document is to figure out which sections were innovative (or at least, not borrowed) in a code.
+
+```{r}
+library(textreuse)
+library(purrr)
+library(dplyr)
+library(readr)
+load("cache/corpus-lsh.rda")
+source("R/helper.R")
+```
+
+Function to get the non-matching sections.
+
+```{r}
+innovative_sections <- function(code_id, matches_df = best_matches) {
+  require(dplyr)
+  matches_df %>% 
+    filter(borrower_code == code_id,
+           is.na(match_section))
+}
+```
+
+Test on a single code.
+
+```{r}
+innovative_sections("CA1851")
+```
+
+Functions to write the innovative sections to disk.
+
+```{r}
+write_sections <- function(sections_df, corpus = sections, filename = NULL) {
+  require(stringr)
+  if (nrow(sections_df) == 0) return(NA)
+  corpus <- corpus[sections_df$borrower_section]
+  
+  texts <- lapply(corpus$documents, content) %>% 
+    vapply(str_wrap, character(1))
+  
+  num_sections <- length(texts)
+  code_name <- texts %>% names %>% extract_code_names() %>% unique %>% `[`(1)
+  
+  separator <- "------------------------------------------------------------\n"
+  
+  output_header <- str_c("Innovative sections (i.e., sections without best matches)\n",
+                         "Code name: ", code_name, "\n",
+                         "Number of sections: ", num_sections, "\n\n"
+                         )
+  
+  output <- map2(names(texts), texts, function(name, text) {
+    str_c("\n", separator, "\n\n",
+          "Section ID: ", name, "\n\n",
+          text, "\n\n")
+  })
+  
+  output <- str_c(output, collapse = "")
+  output <- str_c(output_header, output, collapse = "")
+    
+  if (is.null(filename)) filename <- str_c("innovations/", code_name, ".txt")
+  
+  message("Writing ", filename)
+  writeLines(output, filename)
+  
+}
+```
+
+Write all the innovative sections to disk:
+
+```{r}
+unlink("innovations", recursive = TRUE)
+dir.create("innovations", showWarnings = FALSE)
+all_codes <- best_matches$borrower_code %>% unique %>% sort
+all_codes %>% map(innovative_sections) %>% walk(write_sections)
+```
+
