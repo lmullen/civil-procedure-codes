@@ -43,7 +43,7 @@ m[-5 , -1]
 Just to be sure, verify that tokenizing with skip n-grams for a value of `k = 0` is the same thing as tokenizing with just n-grams.
 
 ```{r}
-all(tokenize_ngrams(WA, n = 5) ==  tokenize_skip_ngrams(WA, n = 5, k = 0))
+all(tokenize_ngrams(WA, n = 5) == tokenize_skip_ngrams(WA, n = 5, k = 0))
 ```
 
 A function to calculate the Jaccard similarity for arbitrary values of `n` and `k`.
@@ -107,7 +107,7 @@ valid_params <- comparisons %>%
   select(-current, -ratio) %>% 
   spread(cf, score) %>% 
   filter(control < 0.02,
-         WA > 0.01) 
+         WA >= 0.009) 
 valid_params %>% 
   arrange(desc(WA))
 ```
@@ -126,7 +126,7 @@ We can try to plot that relationship between the control and WA for different va
 comparisons %>% 
   select(-current, -ratio) %>% 
   spread(cf, score) %>% 
-  filter(WA > 0.01) %>% 
+  filter(WA >= 0.009) %>% 
   ggplot(aes(x = control, label = paste0("n:", n, ",k:", k))) +
   geom_point(aes(y = WA, color = "WA")) +
   geom_point(aes(y = CA, color = "CA")) +
