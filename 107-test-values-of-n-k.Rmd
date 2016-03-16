@@ -1,0 +1,140 @@
+---
+title: "Testing values of n-grams and similarity scores"
+author: "Lincoln Mullen"
+---
+
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+load("cache/corpus-lsh.rda")
+library(dplyr)
+library(textreuse)
+library(ggplot2)
+library(ggrepel)
+library(tidyr)
+```
+
+We are using n-grams as the tokens for detecting document similarity. We want to know for n-grams or skip n-grams, which values of `n` and `k` are optimal. To test these we are going to use four sections from the codes of civil procedure. They all have the same legal effect of abolishing the distinction between law and equity and creating the form of civil action. But they do with this with more or less linguistic similarity to the original New York provision. WA1855 has the same structure but nearly completely changes the wording. CA1851 has only the second half of the provision. FL1870 borrows the provision mostly unchanged. And as a kind of a control, we will include a random section from TX1855 with no connection to the original provision.
+
+The text of the sections.
+
+```{r}
+NY <- sections[["NY1850-006060"]] %>% content()
+NY
+WA <- sections[["WA1855-000020"]] %>% content()
+WA
+CA <- sections[["CA1851-000030"]] %>% content()
+CA
+FL <- sections[["FL1870-000600"]] %>% content()
+FL
+control <- sections[["TX1855-005820"]] %>% content()
+control
+```
+
+Now a comparison of the similarity among the sections using 5-grams.
+
+```{r}
+id <- c("NY1850-006060", "WA1855-000020", "CA1851-000030", "FL1870-000600",
+        "TX1855-005820")
+sections_subset <- sections[id]
+m <- pairwise_compare(sections_subset, jaccard_similarity) %>% round(2)
+m[-5 , -1]
+```
+
+Just to be sure, verify that tokenizing with skip n-grams for a value of `k = 0` is the same thing as tokenizing with just n-grams.
+
+```{r}
+all(tokenize_ngrams(WA, n = 5) ==  tokenize_skip_ngrams(WA, n = 5, k = 0))
+```
+
+A function to calculate the Jaccard similarity for arbitrary values of `n` and `k`.
+
+```{r}
+similarity <- function(x, y, n, k) {
+  jaccard_similarity(tokenize_skip_ngrams(x, n = n, k = k),
+                     tokenize_skip_ngrams(y, n = n, k = k))
+}
+similarity_safe <- failwith(NA_real_, f = similarity, quiet = TRUE)
+```
+
+The current similarity scores we are working with for `n = 5`, `k = 0`.
+
+```{r}
+current_values <- data_frame(
+  cf = c("WA", "CA", "FL", "control"),
+  current = c(
+    similarity(WA, NY, n = 5, k = 0),
+    similarity(CA, NY, n = 5, k = 0),
+    similarity(FL, NY, n = 5, k = 0),
+    similarity(control, NY, n = 5, k = 0)
+  )
+)
+```
+
+Calculate the similarity scores for all combinations of `n` and `k`.
+
+```{r}
+comparisons <-  expand.grid(n = 2:8, k = 0:4,
+                                   cf = c("WA", "CA", "FL", "control"),
+                                   stringsAsFactors = FALSE) %>% 
+  rowwise() %>% 
+  mutate(score = similarity_safe(NY, get(cf), n = n, k = k)) %>% 
+  left_join(current_values) %>% 
+  mutate(ratio = score / current,
+         score = round(score, 3),
+         current = round(current, 3),
+         ratio = round(ratio, 3),
+         cf = factor(cf, levels = c("WA", "CA", "FL", "control"))) %>% 
+  ungroup()
+```
+
+Make a plot of the similarity scores. (Note that the y-axes vary.)
+
+```{r}
+ggplot(comparisons, aes(x = n, y = score, color = as.factor(k))) +
+  geom_line() +
+  facet_grid(cf ~ k, labeller = label_both, scales = "free_y") +
+  theme_bw() +
+  guides(color = FALSE) +
+  ggtitle("Similarity scores for values of n and k")
+```
+
+This is basically what we would expect. Increasing values of `n` and increasing values of `k` both decrease the Jaccard score. It is not simply the case that a high Jaccard similarity score is a good thing, because that creates more false positives. We can rule out any value of `n` or `k` which creates a similarity score for the control which is appreciably above 0. So we can immediately rule out values of `n` that are less than 3 when `k` is 0. The question is which values of `n` and `k` create the highest value for the WA section that is better than the current Jaccard similarity score (approx. 0.01) without creating more false positives. 
+
+To put that logic into a table, these are the mostly likely to be useful settings of `n` and `k`. First the most useful settings optimizing for the highest values for WA.
+
+```{r}
+valid_params <- comparisons %>% 
+  select(-current, -ratio) %>% 
+  spread(cf, score) %>% 
+  filter(control < 0.02,
+         WA > 0.01) 
+valid_params %>% 
+  arrange(desc(WA))
+```
+
+Now optimizing for the highest ratio between WA and the control.
+
+```{r}
+valid_params %>% 
+  mutate(ratio_WA_to_control = WA / control) %>% 
+  arrange(desc(ratio_WA_to_control), desc(WA))
+```
+
+We can try to plot that relationship between the control and WA for different values of `n` and `k`.
+
+```{r}
+comparisons %>% 
+  select(-current, -ratio) %>% 
+  spread(cf, score) %>% 
+  filter(WA > 0.01) %>% 
+  ggplot(aes(x = control, label = paste0("n:", n, ",k:", k))) +
+  geom_point(aes(y = WA, color = "WA")) +
+  geom_point(aes(y = CA, color = "CA")) +
+  geom_text_repel(aes(y = WA)) +
+  geom_text_repel(aes(y = CA)) +
+  labs(title = "Similarity scores for control vs WA and CA for values of n and k",
+       x = "Similarity score for control",
+       y = "Similarity score for matching section")
+```
+
+It would seem like there are several choices that can increase the similarity score of Washington. The safest choice is `n = 3, k = 0`. The riskiest choice is probably `n = 2, k = 0`, though `n = 2, k = 3` might also work. We can discard the option of `n = 2, k = 3` since that will create many more tokens than `n = 2, k = 0` (about 4 times as many) for not much gain. We might be best off using tri-grams.
