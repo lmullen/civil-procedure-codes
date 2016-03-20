@@ -1,0 +1,105 @@
+---
+title: "Maps"
+author: "Lincoln Mullen"
+date: "March 19, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Make 
+
+```{r}
+library(dplyr)
+library(stringr)
+library(textreuse)
+library(readr)
+load("cache/corpus-lsh.rda")
+source("R/helper.R")
+```
+
+
+```{r}
+ny_codes <- c("NY1848", "NY1849", "NY1850", "NY1851", "NY1853")
+map_matches <- all_matches %>% 
+  filter(xor(borrower_code %in% ny_codes, match_code %in% ny_codes)) 
+  
+map_matches_ny_borrower <- map_matches %>% 
+  filter(borrower_code %in% ny_codes) %>% 
+  select(-borrower_state) %>% 
+  mutate(match_section2 = borrower_section,
+         borrower_section2 = match_section) %>% 
+  select(-match_section, -borrower_section) %>% 
+  rename(borrower_section = borrower_section2, match_section = match_section2) %>%
+  select(borrower_section, match_section, score)
+
+map_matches_not_ny <- map_matches %>% 
+  filter(!(borrower_code %in% ny_codes)) %>% 
+  select(borrower_section, match_section, score)
+
+map_matches <- bind_rows(map_matches_ny_borrower, map_matches_not_ny) %>% 
+  mutate(borrower_code = extract_code_names(borrower_section),
+         borrower_year = extract_date(borrower_section),
+         borrower_state = extract_state(borrower_section),
+         match_code = extract_code_names(match_section),
+         match_year = extract_date(match_section),
+         match_state = extract_state(match_section))
+
+map_matches <- map_matches %>% 
+  filter(borrower_year >= match_year) %>% 
+  group_by(borrower_section) %>% 
+  arrange(desc(score)) %>% 
+  slice(1) %>% 
+  ungroup() %>%  
+  filter(score >= 0.2)
+
+map_matches <- data_frame(borrower_section = names(sections)) %>% 
+  left_join(map_matches, by = "borrower_section") %>% 
+  mutate(score = ifelse(is.na(score), 0, score))
+
+map_summary <- map_matches %>% 
+  group_by(borrower_state) %>% 
+  summarize(score = mean(score)) %>% 
+  arrange(desc(score)) 
+```
+
+```{r}
+library(ggplot2)
+library(broom)
+library(USAboundaries)
+library(rgeos)
+library(maptools)
+library(scales)
+us <- us_states()
+us_fortified <- tidy(us, region = "stusps") %>% 
+  left_join(map_summary, by = c("id" = "borrower_state")) %>% 
+  filter(id != "AK",
+         id != "HI",
+         id != "PR")
+
+ggplot() +
+  geom_polygon(data = us_fortified,
+               aes(x = long, y = lat, group = group, fill = 1 - score),
+               color = "black", size = 0.25) +
+  scale_fill_distiller(name = "Avg. dissimilarity score", palette = "YlGn",
+                       breaks = pretty_breaks(n = 5)) +
+  coord_map("albers", lat0=30, lat1=40) +
+  theme_classic() +
+  labs(title = "Strength of borrowings from Field Code",
+       x = NULL, y = NULL) +
+  theme(axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        legend.position = "bottom")
+```
+
+```{r}
+ggplot(map_summary, aes(x = borrower_state, y = score)) +
+  geom_bar(stat = "identity") +
+  theme_classic() +
+  coord_flip()
+```
+
+
+
