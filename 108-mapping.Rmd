@@ -9,8 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Make 
-
 ```{r}
 library(dplyr)
 library(stringr)
@@ -68,8 +66,8 @@ map_summary <- map_matches %>%
   summarize(score = mean(score)) %>% 
   arrange(desc(score)) 
 
-intervals <- classIntervals(map_summary$score, n = 5, style = "jenks")
-map_summary$score <- cut(map_summary$score, breaks = intervals$brks)
+# intervals <- classIntervals(map_summary$score, n = 5, style = "jenks")
+# map_summary$score <- cut(map_summary$score, breaks = intervals$brks)
 ```
 
 ```{r}
