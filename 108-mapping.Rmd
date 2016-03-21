@@ -50,22 +50,28 @@ map_matches <- bind_rows(map_matches_ny_borrower, map_matches_not_ny) %>%
          match_year = extract_date(match_section),
          match_state = extract_state(match_section))
 
-map_matches <- map_matches %>% 
+regions <- read_csv("regions.csv")
+
+map_matches_sections <- map_matches %>% 
   filter(borrower_year >= match_year) %>% 
   group_by(borrower_section) %>% 
   arrange(desc(score)) %>% 
   slice(1) %>% 
   ungroup() %>%  
-  filter(score >= 0.2)
-
+  filter(score >= 0.2) %>% 
+  count(borrower_code) %>% 
+  mutate(year = extract_date(borrower_code)) %>% 
+  mutate(state = extract_state(borrower_code)) %>% 
+  left_join(regions)
+  
 map_matches <- data_frame(borrower_section = names(sections)) %>% 
   left_join(map_matches, by = "borrower_section") %>% 
   mutate(score = ifelse(is.na(score), 0, score))
 
 map_summary <- map_matches %>% 
-  filter(borrower_code %in% list2) %>% # Just the codes Kellen picked
-  group_by(borrower_state) %>% 
-  summarize(score = mean(score)) %>% 
+  # filter(borrower_code %in% list2) %>% # Just the codes Kellen picked
+  group_by(borrower_state) %>%
+  summarize(score = sum(score)) %>% 
   arrange(desc(score)) 
 
 intervals <- classIntervals(map_summary$score, n = 5, style = "jenks")
@@ -108,5 +114,13 @@ ggplot(map_summary, aes(x = borrower_state, y = score)) +
   coord_flip()
 ```
 
+
+```{r}
+library(ggrepel)
+ggplot(map_matches_sections, aes(x = year, y = n, color = region, group = state)) +
+  geom_point() +
+  geom_line() 
+    # geom_label_repel(aes(label = state))
+```
 
 
