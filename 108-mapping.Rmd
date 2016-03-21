@@ -18,6 +18,9 @@ library(textreuse)
 library(readr)
 load("cache/corpus-lsh.rda")
 source("R/helper.R")
+list1 <- read_lines("compare-to-NY-list-1.txt")
+list2 <- read_lines("compare-to-NY-list-2.txt")
+library(classInt)
 ```
 
 
@@ -60,9 +63,13 @@ map_matches <- data_frame(borrower_section = names(sections)) %>%
   mutate(score = ifelse(is.na(score), 0, score))
 
 map_summary <- map_matches %>% 
+  filter(borrower_code %in% list2) %>% # Just the codes Kellen picked
   group_by(borrower_state) %>% 
   summarize(score = mean(score)) %>% 
   arrange(desc(score)) 
+
+intervals <- classIntervals(map_summary$score, n = 5, style = "jenks")
+map_summary$score <- cut(map_summary$score, breaks = intervals$brks)
 ```
 
 ```{r}
@@ -72,6 +79,7 @@ library(USAboundaries)
 library(rgeos)
 library(maptools)
 library(scales)
+library(RColorBrewer)
 us <- us_states()
 us_fortified <- tidy(us, region = "stusps") %>% 
   left_join(map_summary, by = c("id" = "borrower_state")) %>% 
@@ -81,13 +89,12 @@ us_fortified <- tidy(us, region = "stusps") %>%
 
 ggplot() +
   geom_polygon(data = us_fortified,
-               aes(x = long, y = lat, group = group, fill = 1 - score),
+               aes(x = long, y = lat, group = group, fill = score),
                color = "black", size = 0.25) +
-  scale_fill_distiller(name = "Avg. dissimilarity score", palette = "YlGn",
-                       breaks = pretty_breaks(n = 5)) +
+  scale_fill_manual("Avg. dissimilarity score", values = brewer.pal(5, "YlGn")) +
   coord_map("albers", lat0=30, lat1=40) +
   theme_classic() +
-  labs(title = "Strength of borrowings from Field Code",
+  labs(title = "Strength of borrowings from Field Code (List 2)",
        x = NULL, y = NULL) +
   theme(axis.ticks = element_blank(),
         axis.text = element_blank(),
