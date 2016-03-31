@@ -23,12 +23,21 @@ library(classInt)
 
 
 ```{r}
+regions <- read_csv("regions.csv")
 ny_codes <- c("NY1848", "NY1849", "NY1850", "NY1851", "NY1853")
+ca_codes <- c("CA1850", "CA1851", "CA1858", "CA1868", "CA1872")
+ia_codes <- c("IA1851", "IA1859")
+mo_codes <- c("MO1849", "MO1856", "MO1879")
+ky_codes <- c("KY1851", "KY1854")
+oh_codes <- c("OH1853", "OH1879")
+searched_for_codes <- oh_codes
+
 map_matches <- all_matches %>% 
-  filter(xor(borrower_code %in% ny_codes, match_code %in% ny_codes)) 
+  filter(xor(borrower_code %in% searched_for_codes,
+             match_code %in% searched_for_codes)) 
   
 map_matches_ny_borrower <- map_matches %>% 
-  filter(borrower_code %in% ny_codes) %>% 
+  filter(borrower_code %in% searched_for_codes) %>% 
   select(-borrower_state) %>% 
   mutate(match_section2 = borrower_section,
          borrower_section2 = match_section) %>% 
@@ -37,7 +46,7 @@ map_matches_ny_borrower <- map_matches %>%
   select(borrower_section, match_section, score)
 
 map_matches_not_ny <- map_matches %>% 
-  filter(!(borrower_code %in% ny_codes)) %>% 
+  filter(!(borrower_code %in% searched_for_codes)) %>% 
   select(borrower_section, match_section, score)
 
 map_matches <- bind_rows(map_matches_ny_borrower, map_matches_not_ny) %>% 
@@ -60,11 +69,24 @@ map_matches <- data_frame(borrower_section = names(sections)) %>%
   left_join(map_matches, by = "borrower_section") %>% 
   mutate(score = ifelse(is.na(score), 0, score))
 
-map_summary <- map_matches %>% 
-  filter(borrower_code %in% list2) %>% # Just the codes Kellen picked
-  group_by(borrower_state) %>% 
-  summarize(score = mean(score)) %>% 
-  arrange(desc(score)) 
+# map_summary <- 
+  
+  map_matches %>% 
+  # filter(borrower_code %in% list2) %>% # Just the codes Kellen picked
+  mutate(borrower_code = extract_code_names(borrower_section)) %>% 
+  mutate(borrower_state = extract_state(borrower_code)) %>% 
+  mutate(borrower_year = extract_date(borrower_year)) %>% 
+  filter(score != 0) %>% 
+  group_by(borrower_code) %>% 
+  summarize(score = mean(score),
+            n = n()) %>% 
+  arrange(borrower_code) %>% 
+  # mutate(state = extract_state(borrower_code)) %>% 
+  #   left_join(regions) %>% 
+  #   ggplot(aes(x = n, y = score, color = region)) +
+  #   geom_point() +
+  #   ggtitle("Number of sections borrowed from NY vs average similarity of borrowing")
+  write_csv("out/summary-all-codes-with-matches-to-oh.csv")
 
 # intervals <- classIntervals(map_summary$score, n = 5, style = "jenks")
 # map_summary$score <- cut(map_summary$score, breaks = intervals$brks)
@@ -89,10 +111,10 @@ ggplot() +
   geom_polygon(data = us_fortified,
                aes(x = long, y = lat, group = group, fill = score),
                color = "black", size = 0.25) +
-  scale_fill_manual("Avg. dissimilarity score", values = brewer.pal(5, "YlGn")) +
+  scale_fill_manual("Avg. similarity score", values = brewer.pal(5, "YlGn")) +
   coord_map("albers", lat0=30, lat1=40) +
   theme_classic() +
-  labs(title = "Strength of borrowings from Field Code (List 2)",
+  labs(title = "Strength of borrowings from Field Code (All codes)",
        x = NULL, y = NULL) +
   theme(axis.ticks = element_blank(),
         axis.text = element_blank(),
