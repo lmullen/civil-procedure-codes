@@ -52,7 +52,6 @@ spectrogram <- function(code, matches_df, num_cols = 50,
         plot.margin = unit(c(0, 0, 0, 0), "cm"),
         plot.title = element_text(hjust = 0.5)) +
   scale_fill_brewer(type = "qual", na.value = "lightgray", palette = 6) +
-  scale_fill_manual(na.value = "lightgray")
   scale_alpha(range = c(0.6, 1), guide = FALSE)
 }
 
