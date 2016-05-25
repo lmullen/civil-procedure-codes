@@ -1,9 +1,9 @@
 # The `white_list` argument takes either a count numeric, in which case it
 # white lists at most that number of codes to be explicitly named in the viz,
 # or a character vector of codes to white list.
-spectrogram <- function(code, matches_df, num_cols = 40,
+spectrogram <- function(code, matches_df, num_cols = 50,
                         white_list = NULL, title = NULL,
-                        base_size = 16, base_family = "",
+                        base_size = 12, base_family = "",
                         legend_size = 0.5) {
   require(dplyr)
   require(stringr)
@@ -42,16 +42,18 @@ spectrogram <- function(code, matches_df, num_cols = 40,
   geom_tile(color = "lightgray") +
   theme_minimal(base_size = base_size, base_family = base_family) +
   coord_equal() +
-  labs(x = NULL, y = NULL, title = title,
-       fill = "Section borrowed from") +
+  labs(x = NULL, y = NULL, fill = "Section borrowed from") +
+  ggtitle(label = title) +
   theme(legend.position = "bottom",
         axis.ticks = element_blank(),
         axis.line = element_blank(), axis.text = element_blank(),
         panel.background = element_blank(), panel.grid = element_blank(),
-        legend.key.size = unit(legend_size, "cm")) +
+        legend.key.size = unit(legend_size, "cm"),
+        plot.margin = unit(c(0, 0, 0, 0), "cm"),
+        plot.title = element_text(hjust = 0.5)) +
   scale_fill_brewer(type = "qual", na.value = "lightgray", palette = 6) +
+  scale_fill_manual(na.value = "lightgray")
   scale_alpha(range = c(0.6, 1), guide = FALSE)
-
 }
 
 col_vector <- function(n, cols) {
