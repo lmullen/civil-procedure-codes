@@ -50,6 +50,7 @@ states_edges <- summary_matches %>%
          match_state = extract_state(match_code),
          borrower_date = extract_date(borrower_code),
          match_date = extract_date(match_code)) %>%
+  mutate(borrower_state = ifelse(borrower_state == "DT", "SD", borrower_state)) %>%
   filter(!is.na(match_code),
          borrower_date >= match_date,
          borrower_state != match_state) %>%

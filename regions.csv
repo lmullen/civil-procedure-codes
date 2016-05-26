@@ -5,18 +5,18 @@ AZ,West
 CA,West
 CO,West
 DC,South
-DT,West
+SD,West
 FL,South
 IA,Midwest
 ID,West
 IN,Midwest
-KS,Midwest
+KS,West
 MN,Midwest
 MO,Midwest
 MT,West
 NC,South
 ND,West
-NE,Midwest
+NE,West
 NM,West
 NV,West
 OH,Midwest
@@ -29,7 +29,7 @@ WA,West
 WI,Midwest
 WV,South
 WY,West
-KY,South
+KY,Midwest
 NY,New York
 IL,Midwest
 MA,New England
