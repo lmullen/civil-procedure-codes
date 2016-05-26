@@ -63,14 +63,14 @@ spectrogram("WA1855", best_matches, white_list = c("CA1850", "CA1851", "IN1852",
 
 NV1861
 
-```{r NV1861-borrowings, fig.height=4.5}
+```{r NV1861-borrowings, fig.height=4}
 spectrogram("NV1861", best_matches, white_list = 5)
 ```
 
 
 The point of this and the next exercise is not to show borrowings from all sources, but similarity between two sources. Our normal spectrogram of NV1861 will show heavy reliance on California. I want this to show that even though Nevada is two steps away from New York, it's text is still very similar to New York throughout.
 
-```{r NV1861-to-NY, fig.height=4.5}
+```{r NV1861-to-NY, fig.height=4}
 all_NV1861 <- data_frame(borrower_code = "NV1861",
                          borrower_section = all_matches %>% 
                            filter(borrower_code == "NV1861") %>% 
@@ -163,6 +163,6 @@ spectrogram("NY1876", best_matches, white_list = c("NY1829", "NY1850", "NY1853",
 
 NY1879
 
-```{r NY1879-matches, fig.height=7}
+```{r NY1879-matches, fig.height=6.5}
 spectrogram("NY1879", best_matches, white_list = c("NY1853", "NY1876"))
 ```
