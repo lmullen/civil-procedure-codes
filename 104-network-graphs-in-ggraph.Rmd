@@ -10,6 +10,7 @@ library(igraph)
 library(ggplot2)
 library(ggraph)
 library(stringr)
+library(purrr)
 load("cache/corpus-lsh.rda")
 load("cache/network-graphs.rda")
 source("R/helper.R")
@@ -56,4 +57,52 @@ ggraph(states_g, "igraph", algorithm = "nicely") +
         panel.border = element_blank())
 ```
 
+Get section-to-section network graphs.
+
+```{r}
+library(igraph)
+sections_edge_list <- best_matches %>% 
+  select(borrower_section, match_section, score) %>% 
+  filter(!is.na(match_section))
+sections_g <- graph_from_data_frame(sections_edge_list, directed = TRUE)
+sections_g <- decompose(sections_g, min.vertices = 5)
+sections_v_count <- sapply(sections_g, vcount) 
+hist(sections_v_count,main = "Number of vertices in section to section graphs")
+
+section_of_interest <- "NY1850-006060"
+has_section <- function(x, section) section %in% x
+sections_g %>% 
+  lapply(vertex_attr, "name") %>% 
+  sapply(has_section, section_of_interest) %>% 
+  which()
+
+# 484 for witness testimony
+# 1 for abolishing chancery
+```
+
+```{r}
+plot_graph <- function(g, title = "A cluster of borrowings", subtitle = NULL) {
+plot <- ggraph(g, "igraph", algorithm = "nicely") +
+  geom_edge_fan(aes(edge_width = score, 
+                    alpha = score),
+                arrow = arrow(type = "closed", ends = "first",
+                              length = unit(0.10, "inches"),
+                              angle = 15)) +
+  geom_node_point(size = 6, alpha = 0.5, color = "lightblue") +
+  geom_node_text(aes(label = name)) +
+  scale_edge_width("Similarity score", range = c(1, 2), guide = "none") + 
+  scale_edge_alpha(range = c(0.3, 0.4), guide = "none") +
+  ggforce::theme_no_axes() +
+  labs(title = title,
+       subtitle = subtitle) +
+  theme(legend.position = "bottom",
+        panel.border = element_blank())
+}
+
+set.seed(100)
+abolish_chancery <- sections_g[[1]]
+V(abolish_chancery)$name <- str_replace_all(V(abolish_chancery)$name, "-\\d+", "")
+civil_action <- plot_graph(abolish_chancery, title = 'The Creation of "A Civil Action"')
+ggsave("out/civil-action-sections-network.png", civil_action, width = 8, height = 6)
+```
 
