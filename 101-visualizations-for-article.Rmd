@@ -162,7 +162,20 @@ spectrogram("NC1868", best_matches, white_list = 8)
 Spectrogram of borrowings in CO1868. Should show heavy reliance on Illinois law.
 
 ```{r}
-spectrogram("CO1868", best_matches, white_list = 8)
+spectrogram("CO1868", best_matches, white_list = c("IL1866", "IN1843", "IA1839"))
+```
+
+CO1877: companion visualization of Colorado under the Field code
+
+```{r}
+spectrogram("CO1877", best_matches, white_list = 8) 
+```
+
+
+MT 1895
+
+```{r}
+spectrogram("MT1895", best_matches, white_list = 8)
 ```
 
 
