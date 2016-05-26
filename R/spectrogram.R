@@ -38,7 +38,7 @@ spectrogram <- function(code, matches_df, num_cols = 50,
 
   # Make the plot
   matches_df %>%
-  ggplot(aes(x = column, y = -row, fill = match_code, alpha = score)) +
+  ggplot(aes(x = column, y = -row, fill = match_code)) +
   geom_tile(color = "lightgray") +
   theme_minimal(base_size = base_size, base_family = base_family) +
   coord_equal() +
@@ -51,8 +51,37 @@ spectrogram <- function(code, matches_df, num_cols = 50,
         legend.key.size = unit(legend_size, "cm"),
         plot.margin = unit(c(0, 0, 0, 0), "cm"),
         plot.title = element_text(hjust = 0.5)) +
-  scale_fill_brewer(type = "qual", na.value = "lightgray", palette = 6) +
-  scale_alpha(range = c(0.6, 1), guide = FALSE)
+  scale_fill_manual(na.value = "lightgray",
+                    values = c(
+                      CA1850 = "firebrick1",
+                      CA1851 = "firebrick2",
+                      CA1858 = "firebrick3",
+                      CA1872 = "darkred",
+                      DC1857 = "mediumorchid",
+                      GB1852 = "mediumorchid",
+                      IA1839 = "mediumorchid",
+                      IL1866 = "mediumorchid",
+                      IN1843 = "mediumorchid",
+                      IN1852 = "darkolivegreen4",
+                      LA1844 = "mediumorchid",
+                      MA1858 = "mediumorchid",
+                      MN1859 = "mediumorchid",
+                      MO1849 = "gold3",
+                      NE1866 = "mediumorchid",
+                      NY1829 = "darkorchid1",
+                      NY1848 = "gold1",
+                      NY1849 = "goldenrod1",
+                      NY1850 = "orange1",
+                      NY1851 = "goldenrod4",
+                      NY1853 = "orange3",
+                      NY1876 = "mediumorchid",
+                      OR1854 = "coral2",
+                      Other  = "mediumorchid",
+                      TX1855 = "mediumorchid",
+                      WI1849 = "deepskyblue1",
+                      WI1856 = "deepskyblue3",
+                      WI1858 = "deepskyblue4"
+                    ))
 }
 
 col_vector <- function(n, cols) {
