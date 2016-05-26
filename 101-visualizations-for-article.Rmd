@@ -86,7 +86,8 @@ matches_to_NY <- all_matches %>%
          score >= 0.1,
          match_year <= 1861) %>% 
   group_by(borrower_section) %>% 
-  arrange(desc(score)) %>% 
+  filter(score >= max(score) - 0.1) %>% 
+  arrange(desc(match_code)) %>% 
   slice(1) %>% 
   ungroup() 
 
@@ -116,7 +117,8 @@ matches_to_NY <- all_matches %>%
          score >= 0.1,
          match_year <= 1859) %>% 
   group_by(borrower_section) %>% 
-  arrange(desc(score)) %>% 
+  filter(score >= max(score) - 0.1) %>% 
+  arrange(desc(match_code)) %>% 
   slice(1) %>% 
   ungroup() 
 
