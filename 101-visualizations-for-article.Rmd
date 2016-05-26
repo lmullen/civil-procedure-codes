@@ -4,7 +4,7 @@ author: "Lincoln Mullen"
 date: "November 3, 2015"
 ---
 
-```{r setup,}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 ```
 
@@ -36,39 +36,41 @@ source("R/spectrogram.R")
 
 Spectrogram of borrowings in CA1850. I expect it will show heavily reliance on NY1849 amidst original material.
 
-```{r fig.height=3}
-spectrogram("CA1850", best_matches, white_list = 7)
+```{r ca1850-borrowings, fig.height=3}
+spectrogram("CA1850", best_matches, white_list = c("LA1844", "NY1829", "NY1849",
+                                                   "NY1848"))
 ```
 
 CA1851
 
-```{r fig.height=4}
+```{r CA1851-borrowings, fig.height=3.5}
 spectrogram("CA1851", best_matches, white_list = 3)
 ```
 
 
 Spectrogram of borrowings in MD1855. I expect to see reliance on English legislation (GB1852 and GB1854), amidst original material.
 
-```{r, fig.height=2.5}
-spectrogram("MD1855", best_matches, white_list = 7)
+```{r MD1855-borrowings, fig.height=2.5}
+spectrogram("MD1855", best_matches, white_list = c("GB1852"))
 ```
 
 Spectrogram of borrowings in WA1855. An earlier version show two long runs of borrowings from Oregon and Indiana. If the latest data, still visualizes that kind of splicing, I think it's a great illustration.
 
-```{r}
-spectrogram("WA1855", best_matches, white_list = 8)
+```{r WA1855-borrowings, fig.height=4.5}
+spectrogram("WA1855", best_matches, white_list = c("CA1850", "CA1851", "IN1852",
+                                                   "NY1853", "OR1854", "WI1849"))
 ```
 
 NV1861
 
-```{r fig.height=4.5}
-spectrogram("NV1861", best_matches, white_list = 4)
+```{r NV1861-borrowings, fig.height=4.5}
+spectrogram("NV1861", best_matches, white_list = 5)
 ```
 
 
 The point of this and the next exercise is not to show borrowings from all sources, but similarity between two sources. Our normal spectrogram of NV1861 will show heavy reliance on California. I want this to show that even though Nevada is two steps away from New York, it's text is still very similar to New York throughout.
 
-```{r}
+```{r NV1861-to-NY, fig.height=4.5}
 all_NV1861 <- data_frame(borrower_code = "NV1861",
                          borrower_section = all_matches %>% 
                            filter(borrower_code == "NV1861") %>% 
@@ -80,6 +82,7 @@ all_NV1861 <- data_frame(borrower_code = "NV1861",
 matches_to_NY <- all_matches %>% 
   filter(borrower_code == "NV1861",
          str_detect(match_code, "NY"),
+         match_code != "NY1829",
          score >= 0.1,
          match_year <= 1861) %>% 
   group_by(borrower_section) %>% 
@@ -90,44 +93,14 @@ matches_to_NY <- all_matches %>%
 NV1861toNY <- all_NV1861 %>% left_join(matches_to_NY) %>% 
   arrange(borrower_section) 
 
-spectrogram("NV1861", NV1861toNY, white_list = 5,
+spectrogram("NV1861", NV1861toNY, white_list = 7,
             title = "Sections in NV1861 with high similarity to NY codes")
-```
-
-Like the previous query for NV1861, Iowa is two steps away from New York. This time, however, the text is much less similar to New York. I only want one visualization for this, but I'm not sure if IA1851 or the revision IA1859 will be better, so can we do both?
-
-IA1851
-
-```{r}
-all_IA1851 <- data_frame(borrower_code = "IA1851",
-                         borrower_section = all_matches %>% 
-                           filter(borrower_code == "IA1851") %>% 
-                           `$`("borrower_section") %>%
-                           unique() %>%
-                           sort()
-                        )
-
-matches_to_NY <- all_matches %>% 
-  filter(borrower_code == "IA1851",
-         str_detect(match_code, "NY"),
-         score >= 0.1,
-         match_year <= 1851) %>% 
-  group_by(borrower_section) %>% 
-  arrange(desc(score)) %>% 
-  slice(1) %>% 
-  ungroup() 
-
-IA1851toNY <- all_IA1851 %>% left_join(matches_to_NY) %>% 
-  arrange(borrower_section) 
-
-spectrogram("IA1851", IA1851toNY, white_list = 10,
-            title = "Sections in IA1851 with matches to NY codes")
 ```
 
 
 IA1859
 
-```{r}
+```{r IA1859-to-NY}
 all_IA1859 <- data_frame(borrower_code = "IA1859",
                          borrower_section = all_matches %>% 
                            filter(borrower_code == "IA1859") %>% 
@@ -139,6 +112,7 @@ all_IA1859 <- data_frame(borrower_code = "IA1859",
 matches_to_NY <- all_matches %>% 
   filter(borrower_code == "IA1859",
          str_detect(match_code, "NY"),
+         match_code != "NY1829",
          score >= 0.1,
          match_year <= 1859) %>% 
   group_by(borrower_section) %>% 
@@ -155,38 +129,40 @@ spectrogram("IA1859", IA1859toNY, white_list = 10,
 
 Spectrogram of borrowings in NC1868. Should show heavy reliance on one or another New York Code, with scattered provisions coming from elsewhere.
 
-```{r}
-spectrogram("NC1868", best_matches, white_list = 8)
+```{r NC1868-matches}
+spectrogram("NC1868", best_matches, white_list = c("CA1858", "OR1862", "MN1859",
+                                                   "NY1849", "CA1850", "WI1858",
+                                                   "NY1853", "NY1851", "NY1850",
+                                                   "WI1856"))
 ```
 
 Spectrogram of borrowings in CO1868. Should show heavy reliance on Illinois law.
 
-```{r}
-spectrogram("CO1868", best_matches, white_list = c("IL1866", "IN1843", "IA1839"))
+```{r CO1868-matches, fig.height=3.5}
+spectrogram("CO1868", best_matches, white_list = c("IL1866"))
 ```
 
 CO1877: companion visualization of Colorado under the Field code
 
-```{r}
+```{r CO1877-matches, fig.height=4}
 spectrogram("CO1877", best_matches, white_list = 8) 
 ```
 
-
 MT 1895
 
-```{r}
+```{r MT1895-matches, fig.height=7.5}
 spectrogram("MT1895", best_matches, white_list = 8)
 ```
 
+NY1876
 
-Same query as number 6 and 7, but like Louisiana, the point is to show that no one borrows the later New York Code, the one that departs from the Field tradition.
-
-```{r, fig.height=6.5}
-spectrogram("NY1876", best_matches, white_list = 8)
+```{r NY1876-matches, fig.height=6.5}
+spectrogram("NY1876", best_matches, white_list = c("NY1829", "NY1850", "NY1853",
+                                                   "NY1848", "NY1849", "NY1851"))
 ```
 
-```{r, fig.height=7.75}
-spectrogram("NY1879", best_matches, white_list = 3)
+NY1879
+
+```{r NY1879-matches, fig.height=7}
+spectrogram("NY1879", best_matches, white_list = c("NY1853", "NY1876"))
 ```
-
-
