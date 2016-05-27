@@ -168,3 +168,48 @@ NY1879
 ```{r NY1879-matches, fig.height=6.5}
 spectrogram("NY1879", best_matches, white_list = c("NY1853", "NY1876"))
 ```
+
+```{r NY-most-borrowed, fig.height=8}
+all_NY1850 <- data_frame(borrower_code = "NY1850",
+                         borrower_section = all_matches %>% 
+                           filter(borrower_code == "NY1850") %>% 
+                           `$`("borrower_section") %>%
+                           unique() %>%
+                           sort()
+                        )
+
+NY1850_match_counts <- all_matches %>% 
+  filter(match_code == "NY1850",
+         borrower_year > 1850,
+         score >= 0.1) %>% 
+  count(match_section) 
+
+left_join(all_NY1850, NY1850_match_counts, 
+          by = c("borrower_section" = "match_section")) %>% 
+  select(section = borrower_section, n) %>% 
+  mutate(n = ifelse(n < 6, NA, n)) %>% 
+  mutate(n = cut(n, c(seq(0, 40, 5), 85))) %>% 
+  mutate(.,
+         column = col_vector(nrow(.), 50),
+         row = row_vector(nrow(.), 50)) %>% 
+  ggplot(aes(x = column, y = -row, fill = n)) +
+  geom_tile(color = "lightgray") +
+  scale_fill_brewer(palette = "YlOrBr", na.value = "white", 
+                    labels = c("6-10", "11-15", "16-20", "21-25", "26-30",
+                               "31-35", "36-40", "40+")) +
+  labs(x = NULL, y = NULL, fill = "Number of time borrowed") + 
+  coord_equal() + 
+  theme_minimal() + 
+  theme(legend.position = "bottom",
+      axis.ticks = element_blank(),
+      axis.line = element_blank(), axis.text = element_blank(),
+      panel.background = element_blank(), panel.grid = element_blank(),
+      legend.key.size = unit(0.5, "cm"),
+      plot.margin = unit(c(0, 0, 0, 0), "cm"),
+      plot.title = element_text(hjust = 0.5)) +
+  ggtitle("Most frequently borrowed sections in NY1850")
+
+
+
+```
+
