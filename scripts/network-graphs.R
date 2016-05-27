@@ -31,6 +31,8 @@ edges_n <- summary_matches %>%
   ungroup()
 
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE)
+
+
 node_distances <- distances(codes_g,
                             mode = "out",
                             to = c("NY1848", "NY1849", "NY1850",
@@ -41,6 +43,12 @@ nodes_n <- data_frame(name = names(node_distances),
                       distance = node_distances)
 
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE, vertices = nodes_n)
+
+g_ids <- V(codes_g)$name
+g_ids <- ifelse(g_ids == "DT1862", "ND1862", g_ids)
+g_ids <- ifelse(g_ids == "DT1868", "ND1868", g_ids)
+g_ids <- ifelse(g_ids == "DT1887", "SD1887", g_ids)
+V(codes_g)$name <- g_ids
 
 min_state_sections <- 100
 max_state_connections <- 2

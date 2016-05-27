@@ -14,14 +14,14 @@ library(purrr)
 load("cache/corpus-lsh.rda")
 load("cache/network-graphs.rda")
 source("R/helper.R")
-set.seed(82892)
+set.seed(82893)
 ```
 
 The network graphs aren't very pretty so far, so we are going to see if we can do better in [ggraph](https://github.com/thomasp85/ggraph).
 
 
 ```{r fig.width=12, fig.height=12}
-ggraph(codes_g, "igraph", algorithm = "fr") +
+ggraph(codes_g, "igraph", algorithm = "nicely") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
                     alpha = sections_borrowed),
                 arrow = arrow(type = "closed", ends = "first",
