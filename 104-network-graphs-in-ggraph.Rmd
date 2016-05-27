@@ -20,7 +20,7 @@ set.seed(82892)
 The network graphs aren't very pretty so far, so we are going to see if we can do better in [ggraph](https://github.com/thomasp85/ggraph).
 
 
-```{r}
+```{r fig.width=12, fig.height=12}
 ggraph(codes_g, "igraph", algorithm = "fr") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
                     alpha = sections_borrowed),
@@ -51,6 +51,12 @@ ggraph(states_g, "igraph", algorithm = "nicely") +
   geom_node_text(aes(label = name)) +
   scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") + 
   scale_edge_alpha(range = c(0.3, 0.4), guide = "none") +
+  scale_color_manual(values = c("South" = "steelblue1",
+                                "West" = "coral2",
+                                "Atlantic" = "darkgoldenrod2",
+                                "New England" = "mediumorchid2",
+                                "Midwest" = "palegreen2",
+                                "New York" = "peru")) + 
   ggforce::theme_no_axes() +
   labs(title = "State to state borrowings") +
   theme(legend.position = "bottom",
