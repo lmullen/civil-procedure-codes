@@ -41,14 +41,15 @@ ggraph(codes_g, "igraph", algorithm = "nicely") +
 Now make a plot of state to state borrowings.
 
 ```{r}
+set.seed(473)
 ggraph(states_g, "igraph", algorithm = "nicely") +
-  geom_edge_fan(aes(edge_width = sections_borrowed, 
-                    alpha = sections_borrowed),
-                arrow = arrow(type = "closed", ends = "first",
+  geom_edge_fan2(aes(edge_width = sections_borrowed, 
+                    alpha = 0.9),
+                arrow = arrow(type = "open", ends = "first",
                               length = unit(0.20, "inches"),
                               angle = 15)) +
-  geom_node_point(size = 6, alpha = 0.75, aes(color = region)) +
-  geom_node_text(aes(label = name)) +
+  # geom_node_point(size = 6, alpha = 0.15) +
+  geom_node_text(aes(label = name), size = 5) +
   scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") + 
   scale_edge_alpha(range = c(0.3, 0.4), guide = "none") +
   scale_color_manual(values = c("South" = "steelblue1",
