@@ -87,6 +87,7 @@ spectrogram <- function(code, matches_df, num_cols = 50,
                       OR1862 = "chocolate1",
                       Other  = "lightgray",
                       TX1855 = "mediumorchid",
+                      WA1855 = "chocolate3",
                       WI1849 = "deepskyblue1",
                       WI1856 = "deepskyblue3",
                       WI1858 = "deepskyblue4"

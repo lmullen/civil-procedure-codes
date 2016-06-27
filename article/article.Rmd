@@ -13,11 +13,18 @@ title: The Spine of American Legal Practice
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(dplyr)
 library(igraph)
 library(ggplot2)
 library(ggraph)
-load("../cache/network-graphs.rda")
+library(stringr)
+library(scales)
+library(textreuse)
 source("../R/helper.R")
+source("../R/section-matches.R")
+source("../R/spectrogram.R")
+load("../cache/corpus-lsh.rda")
+load("../cache/network-graphs.rda")
 set.seed(82893)
 ```
 
@@ -104,7 +111,7 @@ The result was a matrix of similarity scores, with over 45,000 genuine matches. 
 
 ## 3. Patterns of borrowing among Field Code jurisdictions
 
-Having developed a method for finding legislative borrowings, we next sought to visualize the broader patterns revealed by those borrowings. We did this first by aggregating the section to section borrowings into code to code borrowings. By counting how many sections each code borrowed from each other code, we were able to show the connections from one code to another.
+The computational evidence that we assembled revealed patterns in how law migrated at several different scales of analysis.
 
 ```{r code-to-code-network, fig.width=12, fig.height=12, fig.cap = "The structure of borrowings among nineteenth-century codes of civil procedure. Note that several versions of New York's Field Code were at the center of the network, while other states such as California and Ohio became centers of regional variations on the Field Code."}
 ggraph(codes_g, "igraph", algorithm = "nicely") +
@@ -124,23 +131,40 @@ ggraph(codes_g, "igraph", algorithm = "nicely") +
         panel.border = element_blank())
 ```
 
-The resulting network graph (**Figure X: Network Graph**) tells the genealogy of civil procedure in the United States. The New York codes, especially the finished draft of 1850, are central to the entire network.[^38] Yet it is important to note that New York spurred different traditions within the procedural network. Variations in the Field drafts meant that different states could borrow different versions of the Field Code. The 1850 New York code was the primary progenitor of several families of codes in California, Kentucky, Iowa, and Ohio, each of which in turn became major contributors to the law of neighboring states. The 1851 New York code became the progenitor of codes for Wisconsin, Florida, North Carolina, and South Carolina. Mississippi and Missouri borrowed from the New York 1849 code. These variations point out how the Field Code was always a moving target. While Field considered the 1850 New York Code to be the definitive, ideal version of the code, it was really all of the New York codes from 1848 to 1853 that became models for other jurisdictions, likely due to whatever material a given commission had on hand. The Field Code was not a single volume on the shelf, but a series of volumes any one of which might be more accessible in different regions and different eras.
+At the broadest scale of analysis, we aggregated the section-to-section borrowings into a summary of how many sections each code (or statute) borrowed from each other code. We therefore can show the connections from one code to another. The resulting network graph reveals the genealogy of civil procedure in the United States.
 
-Even later New York codes can be considered a separate family. In 1876 a New York commission produced a new code attempting to consolidate all the statutory amendments subsequent to the 1851 Field Code. David Dudley Field was upset by the changes introduced in this revised code, called the Throop Code. A count by a "friend" of Field's found that only three sentences of the Field Code had carried over word-for-word into the Throop Code. Nevertheless, many of the changes were purely formal, and Field speculated that these changes had been made only "so that \[the code\] should not appear to be the same thing as before." With respect to Mr. Field or his "friend," we were able to find that the connection was between the Throop Code and the Field Code was somewhat stronger than he thought, and the Throop Code was indeed a descendant, if much revised, from the Field Code.
+The New York Field Codes, especially the finished draft of 1850, are central to the entire network.[^38] New York gave rise to different regional traditions within the procedural network. Variations in the Field drafts meant that different states could borrow different versions of the Field Code. The 1850 New York code was the primary progenitor of several families of codes in California, Kentucky, Iowa, and Ohio, each of which in turn became major contributors to the law of neighboring states. The 1851 New York code became the progenitor of codes for Wisconsin, Florida, North Carolina, and South Carolina. Mississippi and Missouri borrowed from the New York 1849 code. While Field considered the 1850 version to be the definitive, ideal version of the code, all of the New York codes from 1848 to 1853 became models for other jurisdictions. In many cases, the commissions likely used whatever version of the code they had at hand. The Field Code was not a single volume on the shelf, but a series of volumes, any of which might be more accessible in different regions and in different years. 
 
-Finally, our corpus included a number of statutes which stood outside the Field Code tradition, such as Virginia and West Virginia regulations, statutes from Massachusetts and Maine, and southern codes from Georgia to Louisiana. These statutes show that the dominance of the Field Code was not total, and a number of older jurisdictions remained outside of its ambit.[^39] But virtually every jurisdiction established or reconstructed after 1850 became a part of the Field Code network, and no other tradition achieved anywhere near the same coherence across state lines.
+Even later New York codes can be considered a separate family. In 1876 a New York commission produced a new code attempting to consolidate all the statutory amendments subsequent to the 1851 Field Code. David Dudley Field was upset by the changes introduced in this revision, called the Throop Code. A count by a "friend" of Field's found that only three sentences of the Field Code had carried over word-for-word into the Throop Code. Nevertheless, many of the changes were purely formal, and Field speculated that these changes had been made only "so that \[the code\] should not appear to be the same thing as before."[^1] With respect to Mr. Field or his "friend," we found that the connection was between the Throop Code and the Field Code was somewhat stronger than he thought, and the Throop Code was indeed a descendant, if much revised, from the Field Code.
 
-We have so far discussed code to code borrowings which give us a macroscopic view of the corpus as a whole. But because the fundamental unit of comparison is section to section, it is possible to get a more detailed look at the kinds of borrowings that codes made of one another, by looking at each section in a code and seeing which other code it was borrowed from. These visualizations show how each code was put together. Codes at different removes from New York tended to have different patterns of borrowing. To illustrate this, we will follow one branch of the Field Code network, beginning with the family started by California's 1851 code.
+Finally, our corpus included a number of statutes which stood outside the Field Code tradition, such as Virginia and West Virginia regulations, statutes from Massachusetts and Maine, and southern codes from Georgia to Louisiana. These statutes show that the dominance of the Field Code was not total, and a number of older jurisdictions remained outside of its ambit.[^39] But nearly every jurisdiction established or reconstructed after 1850 became a part of the Field Code network, and no other tradition achieved anywhere near the same coherence across state lines.
 
-<!-- ![](media/image04.png){width="6.5in" height="3.7916666666666665in"} -->
+In addition to the overview of the pattern of borrowings between codes, we can also see the pattern of borrowings within each code. We can visualize where each section of a code was borrowed from. These visualizations show how each code was put together. Codes at different removes from New York tended to have different patterns of borrowing. To illustrate this, we will follow one branch of the Field Code network, beginning with the family started by California's 1851 code.
+
+```{r ca1850-borrowings, fig.height=3, fig.width=6.5}
+spectrogram("CA1850", best_matches, white_list = c("LA1844", "NY1829", "NY1849",
+                                                   "NY1848"))
+```
+
 California's 1851 code borrowed heavily from two sources. The bulk of the code was taken directly from New York's 1849 or 1850 codes (which are difficult to distinguish exactly from one another.[^40] The remainder of the code was borrowed from California's 1850 code. The 1850 version was in turn borrowed from the New York codes **TODO: might as well show this, esp. since CA1850 is so impressive**. As we would expect, the bulk of the borrowings that come from California instead of directly from New York are at the beginning of the code, where the 1850 code had made amendments specific to the borrowing from California. (Many of the non-matching sections are tables of contents.) The main point is that that the majority of the code was lifted more or less directly from New York, with minor amendments specific to California. California made few to no innovations to the Field Code beyond a rearrangement of its provisions.
 
-<!-- ![](media/image05.png){width="6.5in" height="4.291666666666667in"} -->
+```{r CA1851-borrowings, fig.height=3.5, fig.width=6.5}
+spectrogram("CA1851", best_matches, white_list = 3)
+```
+
 The pattern of borrowings in the Washington 1855 code was a rather different case. The Washington code was definitely in the lineage of the 1851 California code, since it borrowed sections from both California directly and from Oregon, which was derived from California. While there are a number of "other" sections, the pattern of borrowing is clear: Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. Those two contiguous bands of borrowings correspond to regulations on judgement from Oregon and enforcement provisions from Indiana. This pattern likely came about because one of the Washington code commissioners, Edward Lander, was an Indiana appellate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. While working on the Washington code, they must have each used the law (and the law books) that they knew best. As a second generation variation on a regional code, the Washington code drew from different sources.
+
+```{r WA1855-borrowings, fig.height=4.5, fig.width=6.5}
+spectrogram("WA1855", best_matches, white_list = c("CA1850", "CA1851", "IN1852",
+                                                   "NY1853", "OR1854", "WI1849"))
+```
 
 Finally, we can consider the case of Washington's revised 1873 code as an example of one of the last "leaves" on the family tree of the Field Code. The bulk of this code was lifted from the Washington 1855 code with only small amendments. The main exception was a probate code drawn from California's 1872 code.[^41] Like many of the last generation codes, the text of the procedure code had stabilized in a local manifestation of a regional tradition. The code was still genuinely a Field Code, with a great deal of similarity to the original New York Field Codes, but its specific form depended on the many edits and rearrangements that state code commissioners had made to the text.
 
-<!-- ![](media/image03.png){width="6.5in" height="4.666666666666667in"} -->
+```{r WA1873-borrowings, fig.height=4.5, fig.width=6.5}
+spectrogram("WA1873", best_matches)
+```
+
 So far we have retained the context of the surrounding sections within a particular code. But since our fundamental unit of comparison is section to section, we can use a technique called clustering to deform the texts (as a literary scholar might say) in order to see the textual history of how particular regulations embedded in individual sections changed over time.[^42]
 
 We used a clustering algorithm to group related sections together. Clustering is the process of taking a set of objects (in this case, sections of the field codes) which have distances between one another (in this case, the Jaccard similarity is easily converted into a distance measure), and grouping items which are are most alike together. There are innumerable clustering algorithms, but we needed one that could work with a sparse matrix and one whose assumptions matched the characteristics of our problem. We decided to use affinity propagation clustering.[^43] That algorithm assumes that each cluster has an "exemplar" item which the other items are similar to. That assumption fits nicely with borrowings from the Field Code, where a single section (likely from the 1850 New York code) had many borrowings, but where there could also be innovative sections in other stages.[^44]
@@ -331,9 +355,9 @@ IL 1866    | A negro, mulatto or Indian shall not be a witness in any court, or 
 
 [^37]: We have released two repositories with all the code used for this project. Lincoln Mullen, "textreuse: Detect Text Reuse and Document Similarity," R package version 0.1.3 (2015--): <https://github.com/ropensci/textreuse>, includes the LSH and other algorithms that we used for general purpose application. (This package was peer-reviewed by rOpenSci, a collective of academic developers who use the R programming language.) A second repository contains all of our code specific to the migration of the Field Code: <https://github.com/lmullen/civil-procedure-codes/>.
 
-[^38]: This is obvious from the visualization, but also confirmed by all measures of centrality used in network analysis. A network is simply a list of edges (in our case the number of sections borrowed) between nodes (in our case, the codes). Because even our efforts at determining the best match for each section sometimes attributed a section to an incorrect code, we pruned the edges of the graph so that each code was connected to another code only if it borrowed at least fifty sections or twenty percent of its sections. On networks see {CITATION}.
+[^38]: That New York codes are central is obvious from the visualization, but we also confirmed this by formal measures of centrality used in network analysis. A network is simply a list of edges (in our case the number of sections borrowed) between nodes (in our case, the codes). Because even our efforts at determining the best match for each section sometimes attributed a section to an incorrect code, we pruned the edges of the graph so that each code was connected to another code only if it borrowed at least fifty sections or twenty percent of its sections. 
 
-    Within New York there was a definite chronological progression from the 1848, 1849, 1850, 1851, and 1853 versions of the code, but the development is not chronologically linear. The state legislature enacted the 1848, 1849, and 1851 codes, and these show stronger relational similarities. The 1850 and 1853 were David Dudley Field's ideal drafts of the code which were never enacted. They were, however, printed with wide margins, quality typesetting, and---in the 1850 draft---extensive explanatory notes, all with an eye towards other jurisdictions copying them as a model. Those two codes show stronger similarity to one another than to the enacted drafts.
+    Within New York there was a definite chronological progression from the 1848, 1849, 1850, 1851, and 1853 versions of the code, but the development was not chronologically linear. The state legislature enacted the 1848, 1849, and 1851 codes, and these show strong similarities in their relationships. The 1850 and 1853 versions were David Dudley Field's ideal drafts of the code which were never enacted. They were, however, printed with wide margins, quality typesetting, and---in the 1850 draft---extensive explanatory notes, all with an eye towards other jurisdictions copying them as a model. Those two codes show stronger similarity to one another than to the enacted drafts.
 
 [^39]: Non-Field jurisdictions occasionally exhibited a borrowing relationship within a state or across two states. In in a few unusual instances they contributed to codes which were derived from the Field Code. For example, Alabama's 1852 Code provided a few sections to Tennessee's 1858 code, and some states like Wisconsin copied, along with the Field Code, large passages of pre-code legislation from earlier in the state's history.
 
@@ -400,3 +424,5 @@ IL 1866    | A negro, mulatto or Indian shall not be a witness in any court, or 
 [^70]: See, for instance, the summary of the states-as-laboratories literature in Brian Galle & Joseph Leahy, "Laboratories of Democracy? Policy Innovation in Decentralized Governments," 58 *Emory Law Journal* 1333 (2009).
 
 [^71]: See Daniel Ernst, *Tocqueville's Nightmare: The Administrative State Emerges in America, 1900-1940* (Oxford: Oxford University Press, 2014); Jerry L. Mashaw, *Creating the Administrative Constitution: The Lost One Hundred Years of American Administrative Law* (Yale Law Library 2012); Gautham Rao, *National Duties: Custom Houses and the Making of the American State* (University of Chicago 2016).
+
+[^72]: David Dudley Field, The Latest Edition of the New York Code of Civil Procedure (1878), 21.
