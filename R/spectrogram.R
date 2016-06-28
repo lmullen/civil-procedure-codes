@@ -45,6 +45,7 @@ spectrogram <- function(code, matches_df, num_cols = 50,
   labs(x = NULL, y = NULL, fill = "Section borrowed from") +
   ggtitle(label = title) +
   theme(legend.position = "bottom",
+        text = element_text(family = "Palatino"),
         axis.ticks = element_blank(),
         axis.line = element_blank(), axis.text = element_blank(),
         panel.background = element_blank(), panel.grid = element_blank(),
