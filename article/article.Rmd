@@ -113,7 +113,7 @@ The result was a matrix of similarity scores, with over 45,000 genuine matches. 
 
 ## 3. Patterns of borrowing among Field Code jurisdictions
 
-The computational evidence that we assembled revealed patterns in how law migrated at several different scales of analysis. We used the similarity matrix as the input to three different digital history techniques: network analysis, visualizations, and clustering.
+The computational evidence that we assembled revealed patterns in how law migrated at several different scales of analysis.^[Our attention to big and small scales is the main aim described in Shawn Graham, Ian Milligan, and Scott Weingart, *Exploring Big Historical Data: The Historian’s Macroscope* (Imperial College Press, 2015).] We used the similarity matrix as the input to three different digital history techniques: network analysis, visualizations, and clustering.
 
 At the broadest scale of analysis, we aggregated the section-to-section borrowings into a summary of how many sections each code (or statute) borrowed from each other code. We therefore can show the connections from one code to another. The resulting network graph reveals the genealogy of civil procedure in the United States.
 
