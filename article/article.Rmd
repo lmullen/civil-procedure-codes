@@ -115,22 +115,27 @@ The computational evidence that we assembled revealed patterns in how law migrat
 
 At the broadest scale of analysis, we aggregated the section-to-section borrowings into a summary of how many sections each code (or statute) borrowed from each other code. We therefore can show the connections from one code to another. The resulting network graph reveals the genealogy of civil procedure in the United States.
 
-```{r code-to-code-network, fig.width=12, fig.height=12, fig.cap = "The structure of borrowings among nineteenth-century codes of civil procedure. Note that several versions of New York's Field Code were at the center of the network, while other states such as California and Ohio became centers of regional variations on the Field Code."}
+```{r code-to-code-network, fig.width=6.5, fig.height=7, fig.cap = "The structure of borrowings among nineteenth-century codes of civil procedure. Note that several versions of New York's Field Code were at the center of the network, while other states such as California and Ohio became centers of regional variations on the Field Code."}
+set.seed(3728)
 ggraph(codes_g, "igraph", algorithm = "nicely") +
   geom_edge_fan(aes(edge_width = sections_borrowed, 
                     alpha = sections_borrowed),
                 arrow = arrow(type = "closed", ends = "first",
                               length = unit(0.20, "inches"),
                               angle = 15)) +
-  geom_node_point(aes(colour = as.factor(distance)), size = 10) +
+  geom_node_point(aes(colour = as.factor(distance)), size = 5) +
   scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") + 
   scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +
   scale_color_discrete("Distance from a NY code") +
   ggforce::theme_no_axes() +
-  geom_node_text(aes(label = name), size = 6) +
-  labs(title = "The migration of law through borrowings in nineteenth-century codes of civil procedure") +
+  geom_node_text(aes(label = name), size = 3, family = "Palatino") +
+  labs(title = "The migration of the Field Code",
+       subtitle = "Codes of civil procedure connected by borrowed sections") +
   theme(legend.position = "bottom",
-        panel.border = element_blank())
+        panel.border = element_blank(),
+        text = element_text(family = "Palatino"),
+        legend.title = element_text(size = 10),
+        legend.text = element_text(size = 8))
 ```
 
 The New York Field Codes, especially the finished draft of 1850, are central to the entire network.[^38] New York gave rise to different regional traditions within the procedural network. Variations in the Field drafts meant that different states could borrow different versions of the Field Code. The 1850 New York code was the primary progenitor of several families of codes in California, Kentucky, Iowa, and Ohio, each of which in turn became major contributors to the law of neighboring states. The 1851 New York code became the progenitor of codes for Wisconsin, Florida, North Carolina, and South Carolina. Mississippi and Missouri borrowed from the New York 1849 code. While Field considered the 1850 version to be the definitive, ideal version of the code, all of the New York codes from 1848 to 1853 became models for other jurisdictions. In many cases, the commissions likely used whatever version of the code they had at hand. The Field Code was not a single volume on the shelf, but a series of volumes, any of which might be more accessible in different regions and in different years. 
