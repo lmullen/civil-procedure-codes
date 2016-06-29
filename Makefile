@@ -5,7 +5,7 @@ INCLUDES  := $(wildcard www-lib/*.html)
 NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
 NOTEBOOKS := $(filter-out article.html, $(NOTEBOOKS))
 
-all : $(NOTEBOOKS) cache/corpus-lsh.rda cache/network-graphs.rda article/article.pdf
+all : $(NOTEBOOKS) cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf
 
 codes : $(CLEAN_CODES)
 
@@ -19,7 +19,7 @@ cache/corpus-lsh.rda : $(SPLIT_CODES)
 cache/network-graphs.rda : cache/corpus-lsh.rda
 	Rscript --vanilla scripts/network-graphs.R
 
-article/article.pdf : article/article.Rmd 
+article/Funk-Mullen.Spine-of-Legal-Practice.pdf : article/Funk-Mullen.Spine-of-Legal-Practice.Rmd
 	R --slave -e "set.seed(100); rmarkdown::render('$^', output_format = 'all')"
 
 %.html : %.Rmd cache/corpus-lsh.rda cache/network-graphs.rda $(INCLUDES)
