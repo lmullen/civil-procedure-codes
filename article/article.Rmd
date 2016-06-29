@@ -88,13 +88,13 @@ Because most codes were public statutes, they were widely printed and distribute
 
 The most important step we took in processing the files was to split each section of the code into its own text file. Codes varied in how they were organized, but they all divided specific regulations into *sections* (or, on occasion, *articles*). Not only does the discursive form of these texts provide a handy organizational scheme for digital methods, but historically sections were also the way legislators borrowed their texts. Codifiers took their sources apart by sections, rearranging here, editing, drafting, and then re-combining there. Despite the fact that states differed widely on what topics they included in "civil procedure," sectioning the codes allowed us to assess similarity even among codes of quite different lengths and coverage. For instance, we know that California's 1851 code was derived from New York's 1850 code. (Stephen Johnson Field, David Dudley Field's brother, was the lawyer who imported New York's code into California.[^33]) But the New York code is over 150,000 words long, whereas California's code was just over 50,000 words long. Those disparate lengths mean that comparing all of the California code to all of the New York code is less meaningful than comparing each section in the California code to each section in the New York code, where matching sections will have a similar length.
 
-Having divided the texts according to a historically justified pattern, our next step was to compare each section to every other section and measure the similarity between them. To continue the New York-to-California example, consider the following pairs of sections. The first pair is from the final draft of the New York Field Code. These sections completely abolished prior practice and began to rebuild the procedure system from the ground up:
+Having divided the texts according to a historically justified pattern, our next step was to compare each section to every other section and measure the similarity between them. To continue the New York-to-California example, consider the following pairs of sections. The first pair is from the final draft of the New York Field Code. These sections completely abolished prior practice and began to rebuild the procedure system from the ground up (figure 3).
 
-> § 554. The distinction between actions at law and suits in equity, and the forms of all such actions and suits, heretofore existing, are abolished; and, there shall be in this state, hereafter, but one form of civil action, for the enforcement or protection of private rights and the redress or prevention of private wrongs, which shall be denominated a civil action. § 555. In such action, the party complaining is known as the plaintiff, and the adverse party as the defendant.
+![Final Report of the Commissioners on Practice and Pleadings (New York, 1850), 225--25,  §§ 554--555.](NY1850-text.png)
 
-In the theory of Euro-American lawyers, California had no prior practice to abolish, so the code began more simply:
+In the theory of Euro-American lawyers, California had no prior practice to abolish, so the code began more simply (figure 4).
 
-> § 1. There shall be in this State but one form of Civil Action, for the enforcement or protection of private rights, and the redress or prevention of private wrongs. §2. In such action the party complaining shall be known as the plaintiff, and the adverse party as the defendant.
+![1851 California Laws 51 §§ 1--2.](CA1851-text.png)
 
 The pairs are obviously related to one another, both in terms of their legal force and in terms of the actual words used.
 
@@ -131,7 +131,7 @@ ggraph(codes_g, "igraph", algorithm = "nicely") +
                 arrow = arrow(type = "closed", ends = "first",
                               length = unit(0.20, "inches"),
                                angle = 15)) + 
-  geom_node_point(aes(shape = as.factor(distance)), size = 5) +   
+  geom_node_point(aes(color = as.factor(distance)), size = 5) +   
   scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") +    
   scale_edge_alpha(range = c(0.3, 0.6), guide = "none") +   
   scale_color_discrete("Distance from a Field Code") +
