@@ -14,7 +14,7 @@ output:
     fig_caption: True
     md_extensions: '-tex_math_single_backslash'
     pandoc_args: ["--smart"]
-title: The Spine of American Legal Practice
+title: "The Spine of American Law: Digital History Methods and U.S. Legal Practice"
 ---
 
 ```{r setup, include=FALSE} 
