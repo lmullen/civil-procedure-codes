@@ -1,7 +1,5 @@
 ---
 author:
-- Kellen Funk
-- Lincoln Mullen
 fontfamily:
 - mathpazo
 fontsize: 12pt
