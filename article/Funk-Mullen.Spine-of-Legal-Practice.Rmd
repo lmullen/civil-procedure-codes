@@ -43,8 +43,6 @@ load("../cache/network-graphs.rda")
 set.seed(82893)
 ```
 
-*This article is currently under peer review at the American Historical Review.*
-
 \  
 
 At the opening of the first Nevada legislature in 1861, Territorial Governor James W. Nye, a former New York lawyer, instructed the assembly that they would have to forsake their inherited Mormon statutes that were ill adapted to "the mining interests" of the new territory. "Happily for us, a neighboring State whose interests are similar to ours, has established a code of laws" sufficiently attractive to "capital from abroad." That neighbor was California, and Nye urged that California's "Practice Code" be enacted in Nevada, as far as it could "be made applicable."[^1] Territorial Senator William Morris Stewart, a famed mining lawyer who would lead the U.S. Senate during Reconstruction, followed the instructions perhaps too well. Stewart literally cut and pasted the latest *Wood's Digest* of the California Practice Act into the session bill, crossing out *state* and *California* and substituting *territory* and *Nevada* where necessary. Stewart copied not just California's procedure code but also its method of codification, for California had in turn borrowed its code by modifying New York's.
