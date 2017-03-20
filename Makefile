@@ -3,17 +3,17 @@ CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 INCLUDES  := $(wildcard www-lib/*.html)
 
-all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf index.html
+all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf index.html 
 
 # Clean up the codes in `text/`
 legal-codes/%.txt : text/%.txt
 	Rscript --vanilla scripts/clean-text.R $^ $@
 
 # Split the codes into sections
-legal-codes-split/%-SPLIT.txt : legal-codes/%.txt $(CLEAN_CODES)
-	mkdir -p legal-codes-split
+legal-codes-split/%-SPLIT.txt : legal-codes/%.txt
+	@mkdir -p legal-codes-split
 	Rscript --vanilla scripts/split-code.R $<
-	touch $@
+	@touch $@
 
 # Find the similarities in the split codes
 cache/corpus-lsh.rda : $(SPLIT_CODES)
@@ -38,11 +38,9 @@ clean :
 
 .PHONY : clean-splits
 clean-splits :
-	rm -rf text/*
 	rm -f legal-codes/*
 	rm -rf legal-codes-split
 	rm -f cache/corpus-lsh.rda
-	mkdir legal-codes-split
 
 .PHONY : clobber
 clobber : clean clean-splits
@@ -58,3 +56,4 @@ lsh : cache/corpus-lsh.rda
 
 .PHONY : article
 article : article/Funk-Mullen.Spine-of-Legal-Practice.pdf
+
