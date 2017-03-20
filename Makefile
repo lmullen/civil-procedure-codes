@@ -25,7 +25,7 @@ cache/network-graphs.rda : cache/corpus-lsh.rda
 
 # Create the article
 article/Funk-Mullen.Spine-of-Legal-Practice.pdf : article/Funk-Mullen.Spine-of-Legal-Practice.Rmd cache/corpus-lsh.rda cache/network-graphs.rda
-	R --slave -e "set.seed(100); rmarkdown::render('$^', output_format = 'all')"
+	R --slave -e "set.seed(100); rmarkdown::render('$<', output_format = 'all')"
 
 # Create a listing of the files in the notebook home page
 index.html : index.Rmd $(INCLUDES)
