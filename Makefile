@@ -3,52 +3,32 @@ CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 INCLUDES  := $(wildcard www-lib/*.html)
 
-all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf
+all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf index.html
 
-codes : $(CLEAN_CODES)
-
-splits : $(SPLIT_CODES)
-
-lsh : cache/corpus-lsh.rda
-
-cache/corpus-lsh.rda : $(SPLIT_CODES)
-	Rscript --vanilla scripts/corpus-lsh.R
-
-cache/network-graphs.rda : cache/corpus-lsh.rda
-	Rscript --vanilla scripts/network-graphs.R
-
-article/Funk-Mullen.Spine-of-Legal-Practice.pdf : article/Funk-Mullen.Spine-of-Legal-Practice.Rmd
-	R --slave -e "set.seed(100); rmarkdown::render('$^', output_format = 'all')"
-
-%.html : %.Rmd cache/corpus-lsh.rda cache/network-graphs.rda $(INCLUDES)
-	R --slave -e "set.seed(100); rmarkdown::render('$(<F)')"
-
-index.html : index.Rmd $(INCLUDES) $(filter-out index.html, $(NOTEBOOKS))
-
-legal-codes-split/%-SPLIT.txt : legal-codes/%.txt $(CLEAN_CODES)
-	Rscript --vanilla scripts/split-code.R $<
-	touch $@
-
+# Clean up the codes in `text/`
 legal-codes/%.txt : text/%.txt
 	Rscript --vanilla scripts/clean-text.R $^ $@
 
-text/%.txt : temp/%.txt
-	cp $^ $@
+# Split the codes into sections
+legal-codes-split/%-SPLIT.txt : legal-codes/%.txt $(CLEAN_CODES)
+	mkdir -p legal-codes-split
+	Rscript --vanilla scripts/split-code.R $<
+	touch $@
 
-temp/%.txt : pdf/%.pdf
-	mkdir -p temp
-	@echo "\nBursting $^ into separate files"
-	pdftk $^ burst output temp/$*.page-%04d.pdf
-	@echo "\nConverting the PDFs for $^ to the image files"
-	for pdf in temp/$*.page-*.pdf ; do \
-		convert -density 600 -depth 8 $$pdf $$pdf.png ; \
-	done
-	@echo "\nDoing OCR for each page in $^"
-	for png in temp/$*.page-*.pdf.png ; do \
-		tesseract $$png $$png tesseract-config ; \
-	done
-	@echo "\nConcatenating the text files into $@"
-	cat temp/$*.page-*.pdf.png.txt > temp/$*.txt
+# Find the similarities in the split codes
+cache/corpus-lsh.rda : $(SPLIT_CODES)
+	Rscript --vanilla scripts/corpus-lsh.R
+
+# Create the network graph data from the split codes
+cache/network-graphs.rda : cache/corpus-lsh.rda
+	Rscript --vanilla scripts/network-graphs.R
+
+# Create the article
+article/Funk-Mullen.Spine-of-Legal-Practice.pdf : article/Funk-Mullen.Spine-of-Legal-Practice.Rmd cache/corpus-lsh.rda cache/network-graphs.rda
+	R --slave -e "set.seed(100); rmarkdown::render('$^', output_format = 'all')"
+
+# Create a listing of the files in the notebook home page
+index.html : index.Rmd $(INCLUDES)
 
 .PHONY : clean
 clean :
@@ -66,3 +46,15 @@ clean-splits :
 
 .PHONY : clobber
 clobber : clean clean-splits
+
+.PHONY : codes
+codes : $(CLEAN_CODES)
+
+.PHONY : splits
+splits : $(SPLIT_CODES)
+
+.PHONY : lsh
+lsh : cache/corpus-lsh.rda
+
+.PHONY : article
+article : article/Funk-Mullen.Spine-of-Legal-Practice.pdf
