@@ -2,10 +2,8 @@ OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 INCLUDES  := $(wildcard www-lib/*.html)
-NOTEBOOKS := $(patsubst %.Rmd, %.html, $(wildcard *.Rmd))
-NOTEBOOKS := $(filter-out article.html, $(NOTEBOOKS))
 
-all : $(NOTEBOOKS) cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf
+all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf
 
 codes : $(CLEAN_CODES)
 
