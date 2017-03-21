@@ -5,7 +5,7 @@ library("stringr")
 library("textreuse")
 source("R/helper.R")
 source("R/section-matches.R")
-options("mc.cores" = 6L)
+options("mc.cores" = 8L)
 
 h <- 120
 b <- 60
