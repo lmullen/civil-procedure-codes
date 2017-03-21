@@ -67,7 +67,7 @@ states_edges <- summary_matches %>%
   filter(sections_borrowed >= min_state_sections) %>%
   top_n(max_state_connections, sections_borrowed)
 
-state_nodes <- read.csv("regions.csv")
+state_nodes <- read.csv("scripts/regions.csv")
 
 states_g <- graph_from_data_frame(states_edges, directed = TRUE,
                                   vertices = state_nodes)
