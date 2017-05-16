@@ -55,8 +55,9 @@ clean :
 clean-splits :
 	rm -f legal-codes/*
 	rm -rf legal-codes-split
-	rm -f cache/corpus-lsh.rda
 
 .PHONY : clobber
-clobber : clean clean-splits
+clobber : clean
+	rm -f cache/*
+	rm -rf out/*
 
