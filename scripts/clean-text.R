@@ -12,7 +12,9 @@ text <- read_file(in_file)
 # Corrections in this file are literal substrings, not patterns. E.g. "adjoum"
 # should be corrected to "adourn" in both the word "adjourn" and the word
 # "adjournment".
-corrections <- read_csv("scripts/ocr-corrections.csv")
+corrections <- read_csv("scripts/ocr-corrections.csv",
+                        col_types = cols(pattern = col_character(),
+                                         replacement = col_character()))
 
 cleaned <- text %>%
   stri_replace_all_fixed(corrections$pattern, corrections$replacement,
