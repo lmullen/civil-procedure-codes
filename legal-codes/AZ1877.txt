@@ -1,4 +1,3 @@
-
 Sec. 39. At the opening of court on the day trial jurors have
 been summoned to appear, the clerk must call the names of those sum
 moned, and the court may then hear the excuses of jurors summoned.
@@ -22,6 +21,7 @@ with summoned in the manner hereinbefore prescribed.
 
 Sec. 42. All acts and parts of acts in conflict with the provisions
 of this act are hereby repealed.
+
 Sec. 43. This act shall take effect and be in force from and after its
 passage.
 
@@ -108,7 +108,7 @@ interest, the action may be continued in the name of the original party, or
 the court may allow the person to whom the transfer is made to be substi
 tuted in the action.
 
-Sec. 1?. The court may determine any controversy between parties
+Sec. 17. The court may determine any controversy between parties
 before it, when it can be done without prejucice to the rights of others or
 by saving their rights; but when a complete determination of the contro
 versy cannot be had without the presence of other parties, the court shall
@@ -138,7 +138,7 @@ his duties, for an act done by him in virtue of his office, or against a per
 son who by his command or in his aid does any thing touching the duties
 of such officer.
 
-Sec^JQ. In allptjiercasgs thejtc£ion shall be tried in the county
+Sec. 20. In all other cases thejtc£ion shall be tried in the county
 in which the pgStios, or Boate-m thein, r-ooido at the commuiu-imml) uf fehe
 notion, m lilm ill fi n liniil iimy vr fwmd; or if none of the parties reside in
 the Territory, the same may be tried in any county which the plaintifff may
@@ -176,12 +176,11 @@ Sec. 25. The time in which the summons shall require the defend
 ant to answer the complaint, shall be as follows:
 1st. If the defendant is served within the county in which the action is
 brought, twenty days.
-/
 2d. If the defendant is served out of the county, but in the district in
 which the action is brought, thirty days.
 3d. In all other cases, forty days.
 
-Sec. 2G. There shall also be inserted in the summons a notice, in
+Sec. 26. There shall also be inserted in the summons a notice, in
 substance as follows:
 1st. In an action arising on contract for the recovery only of money or
 damages, that the plaintifff will take judgment for a sum specified therein,
@@ -210,7 +209,7 @@ office of the clerk in which the complaint is filed; such summons may also
 returned as above directed, with his affidavit, showing the time and manner
 of serving the same, and the complaint therewith.
 
-Sec. 20. The summons shall be served by delivering a copy there
+Sec. 29. The summons shall be served by delivering a copy there
 of attached to the copy of the complaint, as follows:
 1st. If the suit be against a corporation, to the president or other head
 of the corporation, secrej^rj, <:gasb^erW(grj:managing agent thereof, or to
@@ -249,8 +248,8 @@ mortgage, or for the complete determination of the title of real estate
 against the unknown heirs of any deceased party residing out of the Terri
 tory, they may be sued as the unknown heirs of the deceased, and service .
 of the summons may be made in the manner provided in this section. Vf
-^ ^f
-("2467) Sec. 31. The order shall direct the publication to be made in ^ ^*/^
+
+Sec. 31. The order shall direct the publication to be made in ^ ^*/^
 some newspaper to be designated as most likely to give notice to the person
 */dFs
 to be served, the last of which insertions shall be sixty days from the first.
@@ -355,7 +354,8 @@ or answer, the defendant shall be deemed to have waived the same, except
 ing only the objection to the jurisdiction of the court, and the objection
 that the complaint does not state facts sufficient to constitute a cause of
 action.
-(24855) Sec. 46. The answewof the defendant shall contain, first, in re
+
+Sec. 46. The answewof the defendant shall contain, first, in re
 spect to each allegation of the complaint controverted by the defendant, a
 specific denial thereof, or a denial thereof according to his information and
 belief, or any knowledge thereof sufficient to form a belief.
@@ -430,33 +430,33 @@ adverse party, within five days after a demand thereof in writing, a copy of the
 a judge thereof, may order a further account, when the one delivered is too
 general, or is defective in any particular.
 
-Sec 57. If irrelevant or redundant matter be inserted in a plead
+Sec. 57. If irrelevant or redundant matter be inserted in a plead
 ing, it may be stricken out by the court on motion of any person ag
 grieved thereby.
 
-Sec 58. In an action for the recovery of real property, such
+Sec. 58. In an action for the recovery of real property, such
 property shall be described, with its metes and bounds, in the complaint.
 
-Sec 59. In pleading a judgment or other determination of a court
+Sec. 59. In pleading a judgment or other determination of a court
 or officer of especial jurisdiction, it shall not be necessary to state the facts
 conferring jurisdiction, but such judgment or determination may be stated
 to have been duly given or made. If such allegation be controverted, the
 party pleading shall be bound to establish, on the trial, the facts conferring
 jurisdiction.
 
-Sec 60. In pleading the performance of conditions precedent in
+Sec. 60. In pleading the performance of conditions precedent in
 a contract, it shall not be necessary to state the facts showing such perform
 ance; but it may be stated generally that the party duly performed all the
 conditions on his part; and, if such allegation be controverted, the party
 pleading shall establish on the trial the facts showing such performance.
 
-Sec 61. In pleading a private statute, or a right derived there
+Sec. 61. In pleading a private statute, or a right derived there
 from, it shall be sufficient to refer to such statute by its title and the day
 of its passage, and the court shall thereupon take judicial notice thereof ;
 except in this code it shall be sufficient to refer to the chapter by number
 and its title.
 
-Sec 62. In an action for libel or slander, it shall not be necessary
+Sec. 62. In an action for libel or slander, it shall not be necessary
 to state in the complaint any extrinsic facts for the purpose of showing the
 application to the plaintifff of the defamatory matter out of which the cause
 of action arose; but it shall be sufficient to state generally that the same
@@ -488,21 +488,21 @@ belong to one only of these classes, and shall affect all the parties to the
 action, and not require different places of trial, and shall be separately
 stated.
 
-Sec G5. Every material allegation of the complaint, not specifi
+Sec 65. Every material allegation of the complaint, not specifi
 cally controverted by the answers, shall, for the purpose of the action, be
 taken as true. But the allegation of new matter in the answer shall be
 deemed controverted by the adverse party, as upon a direct denial or avoid
 ance, as the case may require.
 
-Sec. G6. A material allegation in a pleading is one essential to
+Sec. 66. A material allegation in a pleading is one essential to
 the claim or defense, and which could not bo stricken from the pleading
 without leaving it insufficient.
 
-Sec*. G7. After the decision of a demurrer, and on the payment
+Sec*. 67. After the decision of a demurrer, and on the payment
 of the costs of the same, the defendant may answer upon such terms as the
 court shall direct.
 
-Sec. G8. The court shall, in furtherance of justice and on such
+Sec. 68. The court shall, in furtherance of justice and on such
 terms as may be proper, amend any pleadings or proceedings by adding or
 striking out the name of any party, or by correcting a mistake in the name
 of a party, or a mistake in any other respect, and may on like terms at
@@ -521,7 +521,7 @@ may be just, such defendant or his legal representative at any time within
 two years after the rendition of any judgment in such action, to appear
 and answer to the merits of the original action.*
 
-Sec. G9. When the plaintifff is ignorant of the name of a defen
+Sec. 69. When the plaintifff is ignorant of the name of a defen
 dant, such defendant may be designated in any pleading or proceeding by
 any name; and when his true name is discovered the pleading or proceed
 ing' may be amended accordingly.
@@ -715,7 +715,8 @@ Sec. 96. If a judgment be recovered against the sheriff, upon his
 liability as bail, and an execution thereon be returned unsatisfied in whole
 or in part, the same proceedings may be had, on his official bond, for the
 recovery of the whole or any deficiency as in other cases of delinquency.
-(2533; Sec. 9?. A defendant arrested may, at any time before the justi
+
+Sec. 97. A defendant arrested may, at any time before the justi
 fication of bail, apply to the judge who made the order or the court in
 which the action is pending, upon reasonable notice to the plaintifff to va
 cate the order of arrest, or to reduce the amount of bail. If the applica
@@ -901,7 +902,7 @@ If the application be made upon affidavits on the part of the defendant,
 but not otherwise, the plaintifff may oppose the same by affidavits or other
 evidence in addition to those on which the injunction was granted.
 
-Se<j. 119. If, upon such application, it satisfactorily appear that
+Sec. 119. If, upon such application, it satisfactorily appear that
 there is not sufficient ground for the injunction, it shall bo dissolved; or, if
 it satisfactorily appear that the extent of the injunction is too great, it shall
 be modified.
@@ -1120,7 +1121,8 @@ Sec. 142. Upon the return of the writ of attachment, if it ap
 pear to the court that an excess of property has been attached, the court
 may, by order, reduce the amount to what will be sufficient to satisfy the
 demands of the plaintifff, with costs.
-(2571)) Sec. 143. The sheriff shall return the writ of attachment with
+
+Sec. 143. The sheriff shall return the writ of attachment with
 the summons, if issued at the same time; otherwise, within twenty days
 after its receipt, with a certificate of his proceedings endorsed thereon or
 attached thereto. The provisions of this chapter shall not apply to any
@@ -1245,7 +1247,7 @@ ing; and in the absence of the adverse party, unless the court for good
 cause otherwise direct, may proceed with his case, and take a dismissal of
 the action or a verdict or judgment, as the case may require.
 
-Sec 1 60. A motion to postpone a trial on the ground of the ab
+Sec 160. A motion to postpone a trial on the ground of the ab
 sence of evidence shall only be made up on affidavit, showing the materiality
 •As amended by.act of 1866.
 of the evidence expected to be obtained, and that due diligence has been
@@ -1437,22 +1439,19 @@ Sec. 184. A reference may be ordered upon the agreement of the
 parties filed with the clerk, or entered in the minutes:
 1. To try any or all of the issues in an action or proceeding, whether of
 fact or of law; and to report a judgment thereon;
-2. To ascertain a fact necessary to enable the court to proceed and deter
-mine the case.
+2. To ascertain a fact necessary to enable the court to proceed and determine the case.
 
 Sec. 185. When the parties do not consent, the court may, upon
 the application of either, or of its own motion, direct a reference in the
 following cases:
 1. When the trial of an issue of fact requires the examination of a long
 account on either side; in which case the referees may be directed to hear
-and decide the whole issue; or report upon any specific question of fact in
-volved therein;
+and decide the whole issue; or report upon any specific question of fact involved therein;
 2. When the taking of an account is necessary for the information of the
 court before judgment, or for carrying a judgment or order into effect;
 3. When a question of fact, other than upon the pleadings, arises upon
 motion or otherwise, in any stage of the action; or,
-4. When it is necessary for the information of the court in a special pro
-ceeding.
+4. When it is necessary for the information of the court in a special proceeding.
 
 Seo. 186. A reference may be ordered to any person or persons,
 not exceeding three, agreed upon by the parties. If the parties do not
@@ -1786,8 +1785,6 @@ character and condition of the property;
 2d. In case of other personal property, by posting a similar notice in
 three public places of the precinct or county where the sale, is to take place,
 not less than five nor more than ten days successively;
-\
-b*
 3d. In case of real property, by posting a similar notice, particularly
 describing the property, for twenty days successively, in three public places
 of the precinct or county where the property is situated, and also where
@@ -1798,8 +1795,7 @@ Sec. 224. An officer selling without the notice prescribed by the
 last section shall forfeit five hundred dollars to the aggrieved party, in
 addition to his actual damages; and a person willfully taking down or
 defacing the notice posted, if done before the sale or the satisfaction of the
-judgment (if the judgment be satisfied before sale), shall forfeit five hun
-dred dollars.
+judgment (if the judgment be satisfied before sale), shall forfeit five hundred dollars.
 
 Sec. 225. All sales of property under execution shall be made at
 auction to the highest bidder, and shall be made between the hours of nine
@@ -1950,7 +1946,8 @@ for the price paid on the sale, with interest. Such judgment shall be
 a lien on the real estate of the judgment debtor only from the time of its
 revival.
 Proceedings Supplementary to the Execution.
-( 2676) Sec. 240. When an execution against property of the judgment
+
+Sec. 240. When an execution against property of the judgment
 debtor, or of any one of several debtors in the same judgment, issued to the
 sheriff of the county where he resides, or, if he do not reside in this Terri
 tory, to the sheriff of the county where the judgment roll is filed, is re
@@ -2001,7 +1998,8 @@ his personal services, at any time within thirty days next preceding the
 order, shall not be so applied, when it shall be made to appear by the
 debtor's affidavit or otherwise that such earnings are necessary for the use
 of a family supported wholly or partly by his labor.
-(2682j Sec. 246. If it appear that a person or corporation alleged to have
+
+Sec. 246. If it appear that a person or corporation alleged to have
 property of the judgment debtor or indebted to him, claims an interest in
 the property adverse to him or denies the debt, the court or judge may au
 thorize, by an order made to that effect, the judgment creditor to institute
@@ -2022,7 +2020,7 @@ may be punished by the court or judge ordering the reference, for a con
 tempt.
 Actions in Particular Cases. —Actions for the Foreclosure of Mortgages.
 
-Sec' 248. In an action for the foreclosure or satisfaction of a
+Sec. 248. In an action for the foreclosure or satisfaction of a
 mortgage of real property, or the satisfaction of a lien or encumbrance upon
 property, real or personal, the court shall have power by its judgment to
 direct a sale of the property, or any part of it, and to direct the application
@@ -2105,7 +2103,7 @@ good cause shown, grant an order allowing such party the right to enter
 upon the property and make survey and measurement thereof for the pur
 poses of the action.
 
-Sec 2G1. The order shall describe the property, and a copy
+Sec 261. The order shall describe the property, and a copy
 thereof shall be served on the owner or occupants, and thereupon such
 party may enter upon the property, with necessary surveyors or assistants,
 and may make such survey and measurements; but if any unnecessary in
@@ -2116,9 +2114,7 @@ conveyance, whatever its terms, so as to enable the owner of the mortgage
 to recover possession of the real property without a foreclosure and sale.
 
 Sec. 263. The court may, by injunction, on good cause shown,
-restrain the party in possession from doing any act to the injury of real pro
-perty during the foreclosure of a mortgage thereon, or after a sale on exe
-cution before a conveyance.
+restrain the party in possession from doing any act to the injury of real property during the foreclosure of a mortgage thereon, or after a sale on execution before a conveyance.
 
 Sec 264. When real property shall have been sold on execution,
 the purchaser thereof, or any person who may have succeeded to his inter
@@ -2190,14 +2186,12 @@ proof to the satisfaction of the court before the judgment of sale shall be
 made; and where service of the complaint has been made by publication,
 like proof shall be required of the right of the absent or unknown parties
 before such judgment is rendered, except that where there are several un
-known persons having an interest in the property, their rights may be con
-sidered together in the action, and not as between themselves.
+known persons having an interest in the property, their rights may be considered together in the action, and not as between themselves.
 
 Sec. 274. The plaintifff shall produce to the court, on the hearing
 of the case, the certificate of the recorder of the county where the property
 is situated, showing whether there were or not any liens outstanding of
-record upon the property, or any part thereof, at the time of the com
-mencement of the action.
+record upon the property, or any part thereof, at the time of the commencement of the action.
 
 Sec. 275. If it appear by the certificate of the recorder that there
 were outstanding liens of record at the time of the commencement of the
@@ -2229,7 +2223,7 @@ complaint, to the satisfaction of the court, that the property, or any part of
 it, is so situated that partition cannot be made without great prejudice to
 the owners, the court may order a sale thereof. Otherwise, upon the
 requisite proofs being made, it shall order a partition according to the
-respective rights of the parties, as ascertained by the qpurt, and appoint
+respective rights of the parties, as ascertained by the court, and appoint
 three referees therefore; and shall designate the portion to remain undivided
 for the owners whose interests remain unknown or are not ascertained.
 
@@ -2246,11 +2240,8 @@ property divided and the shares allotted to each party, with a particular
 description of each share.
 
 Sec. 280. The court may confirm or set aside the report, and, if
-necessary, appoint new referees. Upon the report being confirmed, judg
-ment shall be rendered that such partition be effectual forever; which judg
-ment shall be binding and conclusive:
-1st. On all persons named as parties to the action and their legal repre
-sentatives, who have at the time any interest in the property divided, or
+necessary, appoint new referees. Upon the report being confirmed, judgment shall be rendered that such partition be effectual forever; which judgment shall be binding and conclusive:
+1st. On all persons named as parties to the action and their legal representatives, who have at the time any interest in the property divided, or
 any part thereof, as owners in fee, or as tenants for life or for years; or as
 entitled to the reversion, remainder, or the inheritance of such property, or
 of any part thereof, after the termination of a particular estate therein;
@@ -2258,8 +2249,7 @@ and who, by any contingency, may be entitled to a beneficial interest in the
 property, or who have an interest in any undivided share thereof as tenants
 for years or for life;
 2d. On all persons interested in the property who may be unknown, to
-whom notice shall have been given of the action for partition by publica
-tion; and
+whom notice shall have been given of the action for partition by publication; and
 3d. On all other persons claiming from such parties or persons, or either
 of them.
 
@@ -2309,8 +2299,7 @@ therein, or as directed by the court.
 Sec. 288. When the proceeds of sales of any shares or parcels be
 longing to persons who are parties to the action and who are known are
 paid into court, the action may be continued, as between such parties, for
-the determination of their respective claims thereto, which shall be ascer
-tained and adjudged by the court. Further testimony may be taken in
+the determination of their respective claims thereto, which shall be ascertained and adjudged by the court. Further testimony may be taken in
 court, or by a referee, at the discretion of the court, and the court may, if
 necessary, require such parties to present the facts or law in controversy, by
 pleadings, as in an original action.
@@ -2351,8 +2340,7 @@ such party or deposited in court for him, as the case may require.
 
 Sec. 294. If the persons entitled to such estate for life or years
 be unknown, the court shall provide for the protection of their rights in
-the same manner, as far as may he, as if they were known and had ap
-peared.
+the same manner, as far as may he, as if they were known and had appeared.
 
 Sec. 295. Tn all cases of sales, when it appears that any person
 has a vested or contingent future right or estate in any of the property
@@ -2384,8 +2372,7 @@ may also give directions to them respecting the disposition of the proceeds
 of the sale.
 
 Sec. 300. When a party entitled to a share of the property, or an
-encumbrancer entitled to have his lien paid out of the sale, becomes a pur
-chaser, the referees may take his receipt for so much of the proceeds of the
+encumbrancer entitled to have his lien paid out of the sale, becomes a purchaser, the referees may take his receipt for so much of the proceeds of the
 sale as belong to him.
 
 Sec 301. The conveyances shall be recorded in the county where
@@ -2396,8 +2383,7 @@ summons have been served by publication, and against all persons claiming
 for them, or either of them.
 
 Sec 302. When there are proceeds of a sale belonging to an un
-known owner or to a person without the Territory, who has no legal repre
-sentative within it, the same shall be invested in securities on interest, for
+known owner or to a person without the Territory, who has no legal representative within it, the same shall be invested in securities on interest, for
 the benefit of the persons entitled thereto.
 
 Sec 303. When the security of the proceeds of sale is taken, or
@@ -2413,36 +2399,31 @@ hands delivered to the referees, agree upon the shares and proportions to
 which they are respectively entitled; or when shares and proportions have
 been previously adjudged by the court, such securities shall be taken in the
 names of, and payable to, the parties respectively entitled thereto; and
-shall be delivered to such parties upon their receipt therefore. Such agree
-ment and receipt shall be returned and filed with the clerk.
+shall be delivered to such parties upon their receipt therefore. Such agreement and receipt shall be returned and filed with the clerk.
 
 Sec 305. The clerk in whose name a security is taken, or by
 whom an investment is made, and his successor in office, shall receive the
 interest and principal as it becomes due, and apply and invest the same as
 the court may direct; and shall file in his office all securities taken, and
 keep an account in a book provided and kept for that purpose, in the clerk's
-office, free for inspection by all persons, of investments and monies re
-ceived by him thereon, and the disposition thereof.
+office, free for inspection by all persons, of investments and monies received by him thereon, and the disposition thereof.
 
 Sec 306. When it appears that partition cannot be made equal
 between the parties according to their respective rights, without prejudice
 to the rights and interests of some of them, and a partition be ordered by
 judgment, the court may adjudge compensation to be made by one party to another on account of the inequality of partition. But such compensation
-shall not be required to be made to others, by owners unknown, nor by in
-fants, unless, in case of an infant, it appear that he has personal property
+shall not be required to be made to others, by owners unknown, nor by infants, unless, in case of an infant, it appear that he has personal property
 sufficient for that purpose, and that his interest will be promoted thereby.
 
 Sec 307. When the share of an infant is sold, the proceeds of
-the sale may be paid by the referee making the sale to his general guar
-dian, or the special guardian appointed for him in the action, upon giving
+the sale may be paid by the referee making the sale to his general guardian, or the special guardian appointed for him in the action, upon giving
 the security required by law, or directed by order of the court.
 
 Sec. 308. The guardian who may be entitled to the custody and
 management of the estate of an insane person, or other person adjudged
 incapable of conducting his own affairs, whose interest in real property
 shall have been sold, may receive, in behalf of such persons, his share of
-the proceeds of such real property from the referee, on executing, with suf
-ficient sureties, an undertaking approved by a judge of the court or judge
+the proceeds of such real property from the referee, on executing, with sufficient sureties, an undertaking approved by a judge of the court or judge
 or probate that he will faithfully discharge the trust reposed in him, and
 will render a true and just account to the person entitled, or to his legal
 representative.
@@ -2467,8 +2448,7 @@ respective parties. When, however, a litigation arises between some of
 the parties only, the court may require the expenses of such litigation to
 be paid by the parties thereto, or any of them.
 
-Sec 311. The court, with the consent of the parties, may ap
-point a single referee instead of three referees, in the proceedings under
+Sec 311. The court, with the consent of the parties, may appoint a single referee instead of three referees, in the proceedings under
 the provisions of this chapter; and the single referee, when thus appointed,
 shall have all the powers and perform all the duties required of the three
 referees.
@@ -2477,7 +2457,7 @@ Actions for the Usurpation of an Office or Franchise.
 Sec 312. An action may be brought by the attorney-general, in
 the name of the Territory, upon his own information, or upon the com
 plaint of a private party, against any person who usurps, intrudes into, or
-unlawfully holds or exercises any public office, civil or military, or any franchise within this Territory. And it shall be the duty of the attorneygeneral to bring the action, whenever he has reason to believe that any such
+unlawfully holds or exercises any public office, civil or military, or any franchise within this Territory. And it shall be the duty of the attorney general to bring the action, whenever he has reason to believe that any such
 office or franchise has been usurped, intruded into, or unlawfully held or
 exercised by any person, or when he is directed to do so by the governor;
 provided, that any person claiming such office or franchise may bring such
@@ -2489,8 +2469,7 @@ also set forth in the complaint the name of the person rightly entitled to
 the office, with a statement of his right thereto; and in such case, upon
 proof by affidavit that the defendant has received fees or emoluments be
 longing to the office, and by means of his usurpation thereof, an order may
-be granted by a judge of the supreme court, or a district judge, for the ar
-rest of such defendant, and holding him to bail; and thereupon he may be
+be granted by a judge of the supreme court, or a district judge, for the arrest of such defendant, and holding him to bail; and thereupon he may be
 arrested and held to bail in the same manner and with the same effect, and
 subject to the same rights and liabilities, as in other civil actions where the
 defendant is subject to arrest.
@@ -2507,9 +2486,7 @@ bond as may be required by law, to take upon himself the execution of the
 office.
 
 Sec. 316. If judgment be rendered upon the right of the person
-so alleged to be entitled, in favor of such person, he may recover, by ac
-tion, the damages which he shall have sustained by reason of the usurpa
-tion of the office by the defendant.
+so alleged to be entitled, in favor of such person, he may recover, by action, the damages which he shall have sustained by reason of the usurpation of the office by the defendant.
 
 Sec. 317. When several persons claim to be entitled to the same
 office or franchise, one action may be brought against all such persons, in
@@ -2519,26 +2496,22 @@ Sec. 318. When a defendant, against whom such action has been
 brought, is adjudged guilty of usurping or intruding into, or unlawfully
 holding, any office, franchise or privilege, judgment shall be rendered that
 such defendant be excluded from the office, franchise or privilege, and that
-he pay the costs of the action. The court may also, in its discretion, im
-pose upon the defendant a fine not exceeding five thousand dollars; which
+he pay the costs of the action. The court may also, in its discretion, impose upon the defendant a fine not exceeding five thousand dollars; which
 fine, when collected, shall be paid into the treasury of the Territory.
 Of Actions against Steamers, Vessels and Boats.
 
 Sec. 319. All steamers, vessels and boats shall be liable:
-1st. For supplies furnished for their use at the request of their respec
-tive owners, masters, agents or consignees;
+1st. For supplies furnished for their use at the request of their respective owners, masters, agents or consignees;
 2d. For services rendered on board at the request of, or contract with,
 their respective owners, masters, agents or consignees;
-3d. For materials furnished in their construction, or repair, or equip
-ment.
+3d. For materials furnished in their construction, or repair, or equipment.
 4th. For their wharfage and anchorage within the Territory;
 5th. For non-performance or mal-performance of any contract for the
 transportation of persons or property made by their respective owners,
 masters, agents or consignees;
 6th. For injuries committed by them to persons or property; provided,
 that the wages of mariners, boatmen and others employed in the service of
-such steamers, vessels and boats shall have preference over all other de
-mands.
+such steamers, vessels and boats shall have preference over all other demands.
 
 Sec 320. Actions for demands arising upon any of the grounds
 specified in the preceding section may be brought directly against such
@@ -2565,9 +2538,7 @@ as the case may be, he will pay all costs and damages that may be awarded
 against him, and all damages which may be sustained by such steamer,
 vessel or boat, from the attachment, not exceeding the sum specified in the
 undertaking, which shall in no case be less than five hundred dollars when
-the attachment is issued against a steamer or vessel, or less than two hun
-dred dollars when issued against a boat. The undertaking shall be accom
-panied by an affidavit of each of the sureties, that he is a resident and
+the attachment is issued against a steamer or vessel, or less than two hundred dollars when issued against a boat. The undertaking shall be accompanied by an affidavit of each of the sureties, that he is a resident and
 freeholder or householder of the county, and worth double the amount
 specified in the undertaking over and above all his just debts and liabilities.
 The clerk shall file the undertaking and affidavits.
@@ -2578,16 +2549,13 @@ steamer, vessel or boat, with its tackle, apparel and furniture, and keep
 the same in his custody until discharged by due course of law; unless the
 owner, master, agent or consignee thereof give him security by the under
 taking of at least two sufficient sureties, in an amount sufficient to satisfy
-the demand in suit, which shall be specified in the writ, besides costs; in which case he release such steamer or other property and return such un
-dertaking with his writ.
+the demand in suit, which shall be specified in the writ, besides costs; in which case he release such steamer or other property and return such undertaking with his writ.
 
 Sec. 326. The sheriff to whom the writ is directed and delivered
 shall execute the same without delay, and shall, unless the undertaking
 mentioned in the last section be given, attach and keep in his custody the
-steamer, vessel or boat named therein, with its tackle, apparel and furni
-ture, until discharged by due course of law; but the sheriff shall not be
-authorized by any such writ to interfere with the discharge of any mer
-chandise on board of such steamer, vessel or boat, nor with the removal of
+steamer, vessel or boat named therein, with its tackle, apparel and furniture, until discharged by due course of law; but the sheriff shall not be
+authorized by any such writ to interfere with the discharge of any merchandise on board of such steamer, vessel or boat, nor with the removal of
 any trunks or other property of passengers, or of the captain, mate, sea
 men, steward, cook or other persons employed on board.
 
@@ -2598,15 +2566,12 @@ the undertaking filed on the behalf of the plaintifff, and may require sure
 ties to justify, as in actions against individuals upon bail on arrest.
 
 Sec. 328. All proceedings in actions under the provisions of this
-chapter shall be conducted in the same manner as in actions against indi
-viduals, except as otherwise herein provided; and in all proceedings subse
-quent to the complaint the steamer, vessel or boat may be designated as
-defendant.
+chapter shall be conducted in the same manner as in actions against individuals, except as otherwise herein provided; and in all proceedings subsequent to the complaint the steamer, vessel or boat may be designated as defendant.
 
 Sec 329. After the appearance to the action of the owner,
 master, agent or consignee, the attachment may, on motion, be discharged
 in the same manner, and on like terms and conditions as attachments in
-other cases, subject to the provisions of section three hundred and thirtyone.
+other cases, subject to the provisions of section three hundred and thirty one.
 
 Sec 330. If the attachment he not discharged, and a judgment
 be recovered in the action in favor of the plaintifff, and an execution bo
@@ -2616,20 +2581,17 @@ apparel and furniture, or such interest therein as may be necessary, and
 shall apply the proceeds of sale as follows:
 1. When the action is brought for demands other than the wages of
 mariners, boatmen, and others employed in the service of the steamer,
-vessel or boat sold, to the payment of the amount of such wages, as speci
-fied in the execution.
+vessel or boat sold, to the payment of the amount of such wages, as specified in the execution.
 2. To the payment of the judgment and costs, including his fees; and,
 3. He shall pay any balance remaining to the owner, master, agent or
-consignee, who may have appeared in the action; or, if there be no appear
-ance, then into court, subject to the claim of any party or parties legally
+consignee, who may have appeared in the action; or, if there be no appearance, then into court, subject to the claim of any party or parties legally
 entitled thereto.
 
 Sec 331. Any mariner, boatman, or other person employed in
 the service of the steamer, vessel or boat attached, who may wish to assert
 his claim for wages against the same, the attachments being issued for
 other demands than such wages, shall file an affidavit of his claim, setting
-forth the amount and the particular service rendered, with the clerk of tho court; and thereafter no attachment shall be discharged upon filing an un
-dertaking, unless the amount of such claim, or the amount determined as
+forth the amount and the particular service rendered, with the clerk of tho court; and thereafter no attachment shall be discharged upon filing an undertaking, unless the amount of such claim, or the amount determined as
 provided in the next section, be covered thereby in addition to the other
 requirements; and any execution issued against such steamer, vessel or
 boat, upon judgment recovered thereafter, shall direct the application of
@@ -2699,13 +2661,10 @@ Sec. 340. When the party who has the right to appeal wishes a
 statement of the case to be annexed to the record of the judgment or order,
 he shall, within twenty days after the entry of such judgment or order,
 prepare such statement, which shall contain the grounds upon which he in
-tends to rely on the appeal, and so much of the evidence as may be neces
-sary to explain the grounds, and no more, and shall serve a copy thereof
+tends to rely on the appeal, and so much of the evidence as may be necessary to explain the grounds, and no more, and shall serve a copy thereof
 upon the adverse party. The respondent may, within five days thereafter,
 prepare amendments to the statement, and serve a copy on the appellant.
-If such amendments are admitted, the statement shall be corrected accord
-ingly; and, if not admitted, the statement and amendment shall be pre
-sented to the judge who tried or heard the case, upon notice of two days to
+If such amendments are admitted, the statement shall be corrected accordingly; and, if not admitted, the statement and amendment shall be presented to the judge who tried or heard the case, upon notice of two days to
 the respondent, and a true statement shall thereupon be settled by such
 judge.
 
@@ -2717,8 +2676,7 @@ notify an appearance before the judge, they shall respectively be deemed,
 the former to have agreed to the statement as proposed, and the latter to
 have agreed to the amendments as proposed.
 
-Sec. 342. The several periods of time above limited may be en
-larged, upon good cause shown by the judge before whom the cause was
+Sec. 342. The several periods of time above limited may be enlarged, upon good cause shown by the judge before whom the cause was
 tried.
 
 Sec. 343. The statement, when settled by the judge, shall be
@@ -2737,12 +2695,11 @@ not apply to appeals taken from an order made upon affidavits filed; but
 such affidavits shall be annexed to the order in the place of the statement
 mentioned in those sections.
 
-Sec. 34G. Upon an appeal from a judgment, the court may re
+Sec. 346. Upon an appeal from a judgment, the court may re
 view any intermediate order involving the merits and necessarily affecting
 the judgment.
 
-Sec. 347. Upon an appeal from a judgment or order, the appel
-late court may reverse, affirm or modify the judgment or order appealed
+Sec. 347. Upon an appeal from a judgment or order, the appellate court may reverse, affirm or modify the judgment or order appealed
 from, in the respect mentioned in the notice of appeal, and as to any or all
 of the parties; and may set aside or confirm, or modify, any or all of the
 proceedings subsequent to, or dependent upon, such judgment or order;
@@ -2751,7 +2708,8 @@ or order is reversed or modified, the appellate court may make complete
 restitution of all property and rights lost by the erroneous judgment or
 order;Band, when it appears to the appellate court that the appeal was
 made for delay, it may add to the costs such damages as may be just.
-(.i784) Sec 348. On an appeal from a final judgment, the appellant
+
+Sec 348. On an appeal from a final judgment, the appellant
 shall furnish the court a copy of the notice of appeal, the judgment roll,
 and the statement annexed, certified by the clerk to be a correct copy. On
 appeal from a judgment rendered on an appeal or order, the appellant shall
@@ -2767,7 +2725,8 @@ upon issue the execution upon application therefore; and whenever costs are
 awarded to a party by an order of any court of record, such party may hare
 execution therefore in like manner as upon a judgment.
 Appeals to the Supreme Court from the District Court.
-(278"i) Sec. 349. An appeal may be taken to the supreme court from
+
+Sec. 349. An appeal may be taken to the supreme court from
 the district courts in the following cases:
 2. From the final judgment rendered in an action or special proceeding
 commenced in those courts or brought into those courts from another court;
@@ -2860,11 +2819,11 @@ ceedings in the court below upon the judgment or order appealed from;
 except that where it directs the sale of perishable property, the court below
 may order the property to be sold and the proceeds therof to be deposited,
 to abide the judgment of the appellate court.
-(•-2795) Sec. 359. Appeals in the supreme court from a final judgment,
+Sec. 359. Appeals in the supreme court from a final judgment,
 and from a judgment rendered on an appeal, shall be heard at a general
 term. Appeals in all other cases may be heard at a special term.*
 
-Sec. 3G0. When judgment is rendered upon the appeal, it shall
+Sec. 360. When judgment is rendered upon the appeal, it shall
 be certified by the clerk of the supreme court to the clerk with whom the
 judgment roll is filed. In cases of appeal from the judgment, the clerk
 with whom the roll is filed shall attach the certificate to the judgment
@@ -2875,15 +2834,13 @@ ceived, and minute against the entry of the order appealed from a refer
 ence to the certificate, with a brief statement that such order has been
 affirmed, reversed or modified, as the case may be, by the supreme court, on
 appeal.
-Appeals from Justices' Courts. —Appeals to the District Courts from
-Justices' Courts.
 
 Sec. 361. In all appeals from justices' courts to the district court
 after the returns are filed, the court shall proceed to examine such returns
 and render judgment thereon as the right of the case shall appear, without
 regard to technicalities or imperfections in pleadings, if they do not tend to
 the prejudice of the rights of any party.
-•As amended by act of 1865.
+
 
 Sec. 362. Such judgment may be rendered upon the returns, or
 the court may order the same to be tried anew in the district court, as sub
@@ -4170,7 +4127,8 @@ cinct, village or city where the property is situated.
 
 Sec. 538. Judgment, upon confession, may be entered up in any
 justices' court in the Territory specified in the confession.
-(V5975) Sec. 539. Justices' courts shall have jurisdiction of an action
+
+Sec. 539. Justices' courts shall have jurisdiction of an action
 upon the voluntary appearance of the parties, without summons, without
 regard to their residences or the place where the cause of action arose, or
 the subject-matter of the action may exist.
