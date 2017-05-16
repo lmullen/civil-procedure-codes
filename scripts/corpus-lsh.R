@@ -1,8 +1,7 @@
-library("readr")
-library("plyr")
-library("dplyr")
-library("stringr")
-library("textreuse")
+suppressPackageStartupMessages(library(readr))
+suppressPackageStartupMessages(library(dplyr))
+suppressPackageStartupMessages(library(stringr))
+suppressPackageStartupMessages(library(textreuse))
 source("R/helper.R")
 source("R/section-matches.R")
 options("mc.cores" = 8L)
@@ -50,13 +49,14 @@ best_matches <- data_frame(borrower_section = names(sections)) %>%
          match_state = extract_state(match_section)) %>%
   arrange(borrower_section, match_section)
 
-split_matches <- dlply(best_matches, "borrower_code", identity)
+split_matches <- plyr::dlply(best_matches, "borrower_code", identity)
 
 summary_matches <- summarize_borrowings(best_matches)
 
 save(sections, buckets, scores, all_matches, best_matches, summary_matches,
      file = "cache/corpus-lsh.rda")
 
+dir.create("out", showWarnings = FALSE)
 dir.create("out/matches", showWarnings = FALSE)
 write_csv(all_matches, "out/matches/all_matches.csv")
 write_csv(best_matches, "out/matches/best_matches.csv")
