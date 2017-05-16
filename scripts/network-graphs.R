@@ -32,15 +32,20 @@ edges_n <- summary_matches %>%
 
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE)
 
+the_field_codes <- c("NY1848", "NY1849", "NY1850", "NY1851", "NY1853")
+
+is_field_code <- function(x) {
+  ifelse(x %in% the_field_codes, TRUE, FALSE)
+}
 
 node_distances <- distances(codes_g,
                             mode = "out",
-                            to = c("NY1848", "NY1849", "NY1850",
-                                   "NY1851", "NY1853"),
+                            to = the_field_codes,
                             algorithm = "unweighted") %>%
                     apply(1, min, na.rm = TRUE)
 nodes_n <- data_frame(name = names(node_distances),
-                      distance = node_distances)
+                      distance = node_distances,
+                      field_code = is_field_code(name))
 
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE, vertices = nodes_n)
 
