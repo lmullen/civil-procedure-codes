@@ -3,7 +3,7 @@ CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
 SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 INCLUDES  := $(wildcard www-lib/*.html)
 
-all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf index.html
+all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf index.html clusters
 
 # Clean up the codes in `text/`
 .PHONY : codes
@@ -35,6 +35,15 @@ network : cache/network-graphs.rda
 cache/network-graphs.rda : cache/corpus-lsh.rda
 	Rscript --vanilla scripts/network-graphs.R
 
+# Create the clusters
+.PHONY : clusters
+clusters : out/clusters/DONE.txt
+
+out/clusters/DONE.txt : cache/corpus-lsh.rda
+	mkdir -p out/clusters
+	Rscript --vanilla scripts/cluster-sections.R && \
+	touch $@
+
 # Create the article
 .PHONY : article
 article : article/Funk-Mullen.Spine-of-Legal-Practice.pdf
@@ -49,12 +58,16 @@ index.html : index.Rmd $(INCLUDES)
 clean :
 	rm -rf $(NOTEBOOKS)
 	rm -rf temp/*
-	rm -f article.pdf
 
 .PHONY : clean-splits
 clean-splits :
 	rm -f legal-codes/*
 	rm -rf legal-codes-split
+
+.PHONY : clean-clusters
+clean-clusters :
+	rm -rf out/clusters
+	rm -f cache/clusters.rds
 
 .PHONY : clobber
 clobber : clean
