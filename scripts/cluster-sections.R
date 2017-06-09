@@ -30,6 +30,7 @@ rownames(m) <- section_names
 # Now use affinity propagation clustering to create clusters.
 cluster_cache <- "cache/clusters.rds"
 if (!file.exists(cluster_cache)) {
+  message("Clustering ... ... ... ... ...")
   timing <- system.time(
     clu <- apcluster(s = m,
                      maxits = 200e3, convits = 5e3,
@@ -37,7 +38,7 @@ if (!file.exists(cluster_cache)) {
                      lam = 0.900,
                      seed = 42325,
                      includeSim = TRUE,
-                     details = TRUE
+                     details = FALSE
     )
   )
   message("Created ", length(clu@clusters), " clusters. ", "Timing: ")
