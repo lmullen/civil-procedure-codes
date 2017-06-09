@@ -1,0 +1,77 @@
+Exemplar: CA1872-015990
+Earliest: NY1850-019990
+Documents in cluster: 7
+Cluster ID: 2836
+
+-----------------------------------------------
+
+NY1850-019990
+
+1831. Notwithstanding the taking of a deposition mentioned in sections 1826 and
+1829, it may be excluded from the case, upon proof that sufficient notice was
+not given to the party, against whom it is offered, to enable him to attend the
+taking thereof, or that the taking was not in all respects fair.
+
+-----------------------------------------------
+
+
+NY1853-018530
+
+1706. Notwithstanding the taking of a deposition mentioned in sections 1701 and
+1704, it may be excluded from the case: » upon proof that sufficient notice was
+not given to the party: against whom it is offered, to enable him to attend the
+taking thereof or that the taking was not in all respects fair.
+
+-----------------------------------------------
+
+
+CA1872-015990
+
+2033. Notwithstanding the taking of a deposition, it may be excluded from the
+case upon proof that sufficient notice was not given to the party against whom
+it is offered to enable him to attend the taking thereof, or that the taking was
+not in all respects fair.
+
+-----------------------------------------------
+
+
+CA1880-021100
+
+2033. Notwithstanding the taking of a deposition, it may be excluded from the
+case upon proof that sufficient notice was not given to the party against whom
+it is offered to enable him to attend the taking thereof, or that the taking was
+not in all respects fair.
+
+-----------------------------------------------
+
+
+ID1881-010450
+
+970. Notwithstanding the taking of a deposition. it may be excluded from the
+case upon proof that sufficient notice was not given to the party against. whom
+it is offered to enable him to attend the taking thereof, or that the taking was
+not in all respects fair.
+
+-----------------------------------------------
+
+
+MT1895-019020
+
+3362. Notwithstanding the taking of a deposition, it may be excluded from the
+case upon proof that sufficient notice was not given to the party against whom
+it is offered to enable him to attend the taking thereof, or that the taking was
+not in all respects fair.
+
+-----------------------------------------------
+
+
+UT1898-011390
+
+3458. Deposition excluded for irregularity. Notwithstanding the taking of a
+deposition, it may be excluded from the case upon proof that sufficient notice
+was not given to the party against whom it is offered to enable him to attend
+the taking thereof, or that the taking was not in all respects fair. [C. L.
+
+-----------------------------------------------
+
+

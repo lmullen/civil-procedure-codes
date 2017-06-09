@@ -1,0 +1,72 @@
+Exemplar: AZ1887-006550
+Earliest: CA1872-013170
+Documents in cluster: 5
+Cluster ID: 1840
+
+-----------------------------------------------
+
+CA1872-013170
+
+1684. The Commissioners must report their proceedings, and the partition
+agreed upon by them, to the Probate Court, in writing, and the Court may,
+for sufficient reasons, set aside the report and commit the same to the same
+Commissioners, or appoint others; and When such report is finally coniirmed, a
+certified copy of the judgment or decree of partition made thereon, attested by
+the Clerk, under the seal of the Court, must be recorded in the office of the
+Recorder of the county where the lands lie.
+
+-----------------------------------------------
+
+
+CA1880-017320
+
+1684. The commissioners must report their proceed ings, and the partition
+agreed upon by them, to the court, in writing, and the court may, for sufficient
+reasons, set aside the report and commit the same to the same com missioners, '
+or appoint others; and when such report is finally confirmed, a certified copy
+of the judgment, or de cree of partition made thereon, attested by the clerk
+under the seat of the court, must he recorded in the office of the recorder of
+the county where the lands lie. [In effect Julv 16th, 1880.]
+
+-----------------------------------------------
+
+
+AZ1887-006550
+
+298. The commissioners must report their proceedings, and the partition
+agreed upon by them, to the probate court, in writing, and the court may,
+for sufficient reasons, set aside the report and commit the same to the same
+commissioners, or appoint others; and when such report is finally confirmed, a
+certified copy of the judgment or decree of partition made thereon, attested by
+the clerk, under the seal of the court, must be recorded in the office of the
+recorder of the county where the lands lie.
+
+-----------------------------------------------
+
+
+DT1887-013140
+
+5938. The commissioners must report their proceedi11g:s, and the par .. tition
+agreed upon by them, to the pr .. obate court, in writing, and the court may,
+for sufficient reasons, set aside the report and commit the same to the same
+commissioners, or appoint others; and when such report is finally conflrmed, a
+certified copy of the judgment 01'" decree of partition made thereon, attestecl
+by the judge, under the se!l,l of the court, must be recorded i11 the office of
+tl.1e register of deeds of the county where the lancls lie. ~
+
+-----------------------------------------------
+
+
+MT1895-016060
+
+2869. The commissioners must report their proceedings, and the parti­ tion
+agreed upon by them, to the court or judge, in writing, and the court or
+judge may, for sufficient reasons, set aside the report, and commit the same
+to the same commissioners, or appoint others; and when such report is finally
+confirmed, a certified copy of the order of partition made thereon, attested
+by the clerk under the seal of the court, must be recorded in the office of the
+county clerk of the county where the lands lie.
+
+-----------------------------------------------
+
+

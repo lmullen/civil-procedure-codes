@@ -1,0 +1,69 @@
+Exemplar: CA1872-003570
+Earliest: CA1868-000690
+Documents in cluster: 6
+Cluster ID: 2399
+
+-----------------------------------------------
+
+CA1868-000690
+
+65. Every material allegation of the complaint or cross complaint not
+controverted by the answer thereto, shall for the purposes of the action he
+taken as true: the statement of matters in avoidance shall on the trial be
+deemed controverted by the adverse party.
+
+-----------------------------------------------
+
+
+CA1872-003570
+
+462. Every material allegation of the complaint, not controverted by the answer,
+must, for the purposes of the action, be taken as true; the statement of any new
+matter in the answer, in avoidance or constituting a defense or counterclaim,
+must, on the trial, be deemed controverted by the opposite party.
+
+-----------------------------------------------
+
+
+CO1877-000770
+
+72. Every material allegation of the complaint; or answer, not controverted by
+the answer or replication‘ thereto, shall, for the purposes of the action, be
+taken as true. The statement in the replication of matter in avoidance shall, on
+the trial, be deemed controverted by the adverse party. .
+
+-----------------------------------------------
+
+
+CA1880-004440
+
+462. Every material allegation of the complaint, not controverted by the answer,
+must, for the purposes of the action, be taken as true; the statement of auy new
+mat ter in the answer, in avoidance or constituting a defense or counterclaim,
+must, on the trial, be deemed contro verted by the opposite party. Admissions
+and replications—8 Cal. 275; 12 Cal. 403; 15 Cal. 638; 19 Cal. 28; 31 Cal. 231;
+32 Cal. 450; 34 Cal. 160; 40 Cal. 110; 41 Cal. 133,279; 44 CaL 100; 48 Cal.
+483 ; 49 Cal. 301; 52 Cal. 565.
+
+-----------------------------------------------
+
+
+ID1881-002770
+
+259. Every material allegation of the complaint, not controverted by the answer,
+must, for the purposes of the action, be taken as true; the statement of any new
+matter in the answer, in avoidance or constitutino a defense or counterclaim,
+must , on the trial, be (feemed controverted by the oppo ite party.
+
+-----------------------------------------------
+
+
+UT1898-015480
+
+3690. New matter in answer deemed controverted. The statement of any new matter
+in the answer in avoidance or constituting a defense or counter claim, must on
+the trial be deemed controverted by the opposite party. [C. L.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,87 @@
+Exemplar: CA1858-001660
+Earliest: CA1851-001690
+Documents in cluster: 10
+Cluster ID: 2165
+
+-----------------------------------------------
+
+CA1851-001690
+
+154. An issue of law shall be tried by the Court, unless it be referred, upon
+consent, as provided in Chapter VL of this Title.
+
+-----------------------------------------------
+
+
+CA1858-001660
+
+154. An issue of law shall be tried by the court, unless it be referred, upon
+consent, as provided in chapter six of this title.
+
+-----------------------------------------------
+
+
+NV1861-001660
+
+154. An issue of law shall be tried by the court“ unless it be referred, upon
+assent, as provided in chapter sixl of this title.
+
+-----------------------------------------------
+
+
+ID1864-001670
+
+154. An issue of law shall be tried~by the court, unless it be referred, upon
+consent, as provided in chapter six of this title. ' ' y
+
+-----------------------------------------------
+
+
+AZ1865-001570
+
+156. An issue of law shall be tried by the court, unless it be referred, upon
+consent, as provided in this chapter.
+
+-----------------------------------------------
+
+
+MT1865-001370
+
+126. An issue of law shall he tried by the court unless it be referred upon
+consent, as otherwise provided. '
+
+-----------------------------------------------
+
+
+CA1868-001580
+
+154. An issue of law shail be tried by the Court, unless it be referred, upon
+consent. as provided in Chapter VI of this Title.
+
+-----------------------------------------------
+
+
+NV1869-001710
+
+156. An issue of law shall be tried by the Court unless it be referred, upon
+consent, as provided in Chapter Six of this Title.
+
+-----------------------------------------------
+
+
+UT1870-001670
+
+155. An issue of law shall be tried by the Court unless it. be referred, upon
+consent, as provided in Chapter Six of this Title.
+
+-----------------------------------------------
+
+
+AZ1877-001310
+
+156. An issue of law shall be tried by the court, unless it be referred, upon
+consent, as provided in this chapter.
+
+-----------------------------------------------
+
+

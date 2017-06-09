@@ -1,0 +1,61 @@
+Exemplar: CA1872-015100
+Earliest: NY1850-018970
+Documents in cluster: 6
+Cluster ID: 2805
+
+-----------------------------------------------
+
+NY1850-018970
+
+1737. The effect of the judicial record of a court of admiralty of’ a foreign
+country, is the same as if it were the record of a court of admiralty of the
+United States.
+
+-----------------------------------------------
+
+
+OR1862-008510
+
+729. The effect of the judicial record of a. court of admiralty of a foreign
+country, is the same as if it were the record of a court of admiralty of the
+United States.
+
+-----------------------------------------------
+
+
+CA1872-015100
+
+1914. The effect of the judicial record of a Court of admiralty of a foreign
+country is the same as if it were the record of a Court of admiralty of the
+United States.
+
+-----------------------------------------------
+
+
+CA1880-019760
+
+1914. The effect of the judicial record of a court of admiralty of a foreign
+country is the same as if it were the record of a court of admiralty of the
+United States.
+
+-----------------------------------------------
+
+
+OR1892-008810
+
+739. [729.] The effect of a judicial record of a court 1a., was. of admiralty of
+a foreign country is the same as if it were the record of a court of admiralty
+of the United States.
+
+-----------------------------------------------
+
+
+MT1895-018070
+
+3202. The effect of the judicial record of a court of admiralty of a foreign
+country is the same as if it were the record of a court of admiralty of the
+United States.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,79 @@
+Exemplar: CA1851-004890
+Earliest: NY1850-020400
+Documents in cluster: 6
+Cluster ID: 2107
+
+-----------------------------------------------
+
+NY1850-020400
+
+1867. Upon proof of personal service upon the person, who is, or is expected to
+be the adverse party, of the order, copy of the affidavit, and of a notice that
+the examination will be taken before a judge of the supreme court, or county
+judge of the county wherein the witness resides or may be at a specified time
+and place, such judge may take the deposition of the witness conditionally, and
+the examination may, if necessary, be adjourned from time to time.
+
+-----------------------------------------------
+
+
+CA1851-004890
+
+439. Upon proof of personal service upon the person who is expected to be the
+adverse party of the order, copy of the affidavit, and of a notice that the
+examination will be taken before a District Judge, or County Judge of the county
+wherein the witness resides, or may be at a specified time and place; such Judge
+may take the deposition of the witness, and the examination may, if necessary,
+be adjourned from time to time.
+
+-----------------------------------------------
+
+
+NY1853-018750
+
+1724. Upon proof of personal service upon the person, who is, or is expected to
+be, the adverse party, of the order, copy of the affidavit, and of a notice that
+the examination will be taken before a judge at the supreme court, or county
+judge of the county wherein the witness resides or may be at a speciiied time
+and place, such judge may take the deposition of the witness conditionally, and
+the examination may, if necessary, be adjourned from time to time.
+
+-----------------------------------------------
+
+
+CA1858-004810
+
+489. Upon proof of personal service upon the person who is expected to be the
+adverse party, of the order, copy of the aiiidavit, and of a notice that the
+examination will be taken before a district judge, or county judge of the county
+wherein the witness resides, or may be at a specified time and place, such judge
+may take a deposition of the witness, and the examination may, if necessary, be
+adjourned from time to time.
+
+-----------------------------------------------
+
+
+AZ1865-004420
+
+441. Upon proof of personal service upon the erson who is expected to be the
+adverse party, of the order, copy of. the a davit, and of a notice that the
+examination will be taken before a district judge or notary public of the county
+wherein the witness resides, or may be at a specified time and place; such judge
+or notary may take the deposition of the witness, and the examination may, if
+necessary, be adjOurned from time to time.
+
+-----------------------------------------------
+
+
+AZ1877-003520
+
+441. Upon proof of personal service upon the person who is expected to be the
+adverse party of the order, copy of the affidavit, and of a notice that the
+examination will be taken before a district judge or notary public of the county
+wherein the witness resides, or may be at a spe cified time and place; such
+judge or notary may take the deposition of the witness, and the examination may,
+if necessary, be adjourned from time to time.
+
+-----------------------------------------------
+
+

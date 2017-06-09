@@ -1,0 +1,132 @@
+Exemplar: CA1858-005990
+Earliest: CA1851-006100
+Documents in cluster: 9
+Cluster ID: 2243
+
+-----------------------------------------------
+
+CA1851-006100
+
+549. The defendant under arrest on his appearance'with the odicer may demand
+a trial immediately; and upon such demand being made, the trial shall not be
+delayed beyond three hours, except by the trial of another action pending at
+the time; or he may have an adjournment, and be diScharged on giving bail, as
+provided in the next section. An adjournment at the request of the plaintifff,
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed notwithstanding; and the defendant shall be subject to arrest on the
+execution in the same manner as if he had not been so discharged.
+
+-----------------------------------------------
+
+
+CA1858-005990
+
+549. The defendant under arrest, on his appearance with the officer, may demand
+a trial immediately ; and upon such demand being made, the trial shall not be
+delayed beyond three hours, except by the trial of another action pending at
+the time ; or he may have an adjournment, and be discharged on giving bail, as
+provided in the next section. An adjournment at the request of the plaintifff,
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed, notwithstanding; and the defendant shall be subject to arrest on
+the execution in the same manner as if he had not been so discharged.
+
+-----------------------------------------------
+
+
+NV1861-005450
+
+491. The defendant under arrest, on his appearance with the officer, may demand
+a trial immediately; and upon such demand being made, the trial shall not be
+delayed beyond f three hours, except by the trial of another action pending at
+the time; or he may have an adjournment, and be discharged on giving bail, as
+provided in the next section. An adjournment at the request of the plaintifff,
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed notwithstanding, and the defendant shall be subject to arrest on the
+execution, in the same manner as if he had not been so discharged.
+
+-----------------------------------------------
+
+
+ID1864-005590
+
+503. The defendant under arrest, on his appearance with the oiiicer, may demand
+a trial immediately; and upon such demand being made, the trial shall not be
+delayed beyond three hours, except by the trial of another action pending at
+the time; or he may have an adjournment, and be discharged on giving bail, as
+provided in the next section. An adjournment at the re nest of the plaintifff,
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed, notwithstanding; and the defendant shall be subject to arrest on
+the execution, in the same manner as if he had not‘ been so discharged.
+
+-----------------------------------------------
+
+
+AZ1865-005520
+
+551. The defendant under arrest on his appearance with tlie officer may demand
+a trial immediately ; and upon such demand being made, the trial shall not be
+delayed. beyond three hours, except by the trial of another action pending at
+the time; Or he may have an adjournment, and be ,dis— charged on giving bail,
+as provided in the next section. An adjournment at the request of the plaintifff
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed notwithstanding; and the defendant shall be subject to arrest on the
+execution in the game manner as if he had not been so discharged.
+
+-----------------------------------------------
+
+
+MT1865-006120
+
+565. The defendant under arrest, on his appearance with the officer, may demand
+a trial immediately, and upon such demand being made, the trial shall not be
+delayed beyond three hours, except by the trial of another action pending at the
+same time, or he may have an adjournment, and be discharged on giving bail, as
+provided in the next section. An adjournment at the request of the plaintifff
+beyond three hours shall discharge the defendant from arrest, but the action may
+proceed as in other cases.
+
+-----------------------------------------------
+
+
+CA1868-005480
+
+649. The defendant nuder arrest on bis appearance with the officer, may demand
+a trial immediately; and upon such demand being made, the trial shall not be
+delayed beyond three hours, except by the trial of another action pending at the
+same time; or he may have an adjournment, and be dis­ charged on giving bail,
+as provided in the next section. An adjournment at the request of the pluintitf,
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed notwithstanding; and the defendant shall be subject to arrest on the
+execution in the same manner as if he had not be~n so discharged.
+
+-----------------------------------------------
+
+
+NV1869-005760
+
+525. The defendant under arrest, on his appearance with the officer, may demand
+a trial immediately; and upon such demand beihg made, the trial shall not be
+delayed beyond three hours, except by the trial of another action pending at
+the time, or he may have an adjourn~ ment, and be discharged on giving bail, as
+provided in the next section. An adjournment at the request of the plaintifff,
+beyond three hours, shall discharge the defendant from arrest, but the action
+may proceed not— withstanding; and the defendant shall be subject to arrest on
+the execution in the same manner as if he had not’been so discharged.
+
+-----------------------------------------------
+
+
+UT1870-005710
+
+523. The defendant under arrest, on his appearance with the officer, may demand
+a trial immediately; and upon such demand being made, the trial shall not be
+delayed beyond twelve hours, except by the trial of another action nding at
+the time, or he may have an adjournment, and be 'scharged on giving bail, as
+provided in the next Section. An adjournment at the request of the plaintifff,
+beyond twelve hours, shall discharge the defendant from arrest; but the action
+may proceed notw1thstanding; and the defendant shall be sub'ect to arrest, on
+the execution, in the same manner as if he ad not been so dischar d.
+
+-----------------------------------------------
+
+

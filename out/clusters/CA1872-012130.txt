@@ -1,0 +1,63 @@
+Exemplar: MT1895-014870
+Earliest: CA1872-012130
+Documents in cluster: 5
+Cluster ID: 9863
+
+-----------------------------------------------
+
+CA1872-012130
+
+1548. Sales at public auction must be made in the county where the land is
+situated; but when the land is situated in two’ or more counties, it may be
+sold in either. The sale must be made between the hours of nine o’clock in the
+morning and the setting of the sun on the same day, and must be made on the day
+named in the notice of sale, unless the same is postponed.
+
+-----------------------------------------------
+
+
+CA1880-016050
+
+1548. Sales at public auction must be made in the county where the land is
+situated, but when the land is situated in two or more counties it may be
+sold in either. The sale must be made between the hours of nine o'clock in the
+morning and the setting of the sun on the same day, and must be made on the
+day named in the notice of sale, Postponement unless theof same sale—sees. is
+postponed. 1557, 1558.
+
+-----------------------------------------------
+
+
+AZ1887-005450
+
+192. Sales at public auction must be made in the county where the land is
+situated, but when the land is situated in two or more counties, it may be
+sold in either. The sale must be made between the hours of nine o'clock in the
+morning and the setting of the sun on the same day, and must be made on the day
+named in the notice of sale, unless the same is postoned. P
+
+-----------------------------------------------
+
+
+DT1887-011870
+
+5832. Sales at public auction must be made i11 the county where the land is
+situated; but when the land -is situated i11 two or more counties, it may be
+sold i11 either. The sale must be made between the hours of nine o'clock in the
+morning and the setting of the sun on the same day, and must be made on the day
+named in the notice of sale, unless the same is postponed.
+
+-----------------------------------------------
+
+
+MT1895-014870
+
+2681. Sales at public auction must be made in the county where the land is
+situated, but when the land is situated in two or more counties, it may be
+sold in either. The sale must be made between the hours of nine o'clock in the
+morning and the setting of the sun on the same day, and must be made on the day
+named in the notice of sale, unless the same is postponed.
+
+-----------------------------------------------
+
+

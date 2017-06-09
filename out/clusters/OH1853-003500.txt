@@ -1,0 +1,68 @@
+Exemplar: KS1868-003200
+Earliest: OH1853-003500
+Documents in cluster: 6
+Cluster ID: 7273
+
+-----------------------------------------------
+
+OH1853-003500
+
+312. Any party to a civil action or proceeding may compel any adverse party,
+or person for whose benefit such action or proceeding is instituted, prosecuted
+or defended, at the trial or by deposition, to testify as a Witness in the same
+manner, and subject to the same rules as other witnesses.
+
+-----------------------------------------------
+
+
+KS1859-003550
+
+322. Any party to a civil action or proceeding may compel any adverse party or
+person, for whose benefit such action or proceeding is instituted, prosecuted
+or defended, at the trial or by deposition, to testify as a witness in the same
+manner, and subject to the same rules as other witnesses.
+
+-----------------------------------------------
+
+
+MT1865-003500
+
+318. Any party to a civil action or proceeding may compel any adverse party or
+person for whose benefit such action or proceeding is instituted, prosecuted
+or defended at the trial or by deposition, to testify as a witness, in the same
+manner and subject to the same rules as other witnesses.
+
+-----------------------------------------------
+
+
+KS1868-003200
+
+821. Any party to a civil action or proceeding may compel any adverse party or
+person, for whose benefit such action or proceeding is instituted, prosecuted or
+defended, at the trial, or by deposition, to testify as a. witness in the same
+manner, and subject to the same rules, as other witnesses.
+
+-----------------------------------------------
+
+
+OK1893-003740
+
+333. Any party to a civil action or proceeding may compel any adverse party or
+person, for whose benefit such action or proceeding is instituted, prosecuted
+or defended, at the trial, or by deposition. to testify as a witness in the same
+manner, and subject to the same rules, as other witnesses.
+
+-----------------------------------------------
+
+
+CT1908-001740
+
+Adverse parties may be compelled to testify. Any party to a civil action may
+compel any adverse party, or any person for whose immediate and adverse benefit
+such action or proceeding is in stituted, prosecuted, or defended, to testify
+as a witness in his behalf, in the same manner and subject to the same rules as
+other witnesses.
+
+-----------------------------------------------
+
+

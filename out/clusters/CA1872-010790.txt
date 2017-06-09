@@ -1,0 +1,48 @@
+Exemplar: CA1872-010790
+Earliest: CA1872-010790
+Documents in cluster: 5
+Cluster ID: 2563
+
+-----------------------------------------------
+
+CA1872-010790
+
+1376. An entry in the minutes of the Court, that the required proof was made and
+notice given, shall be conclusive evidence of the fact of such notice.
+
+-----------------------------------------------
+
+
+CA1880-014340
+
+1376. An entry in the minutes of the court, that the required proof was made and
+notice given, shall be conclusive evidence of the fact of such notice. * Entry
+in the minutes—when insufficient, 7 Cal. 234.
+
+-----------------------------------------------
+
+
+AZ1887-004130
+
+62. An entry in the minutes of the court, that the required proof was made and
+notice given, shall be conclusive evidence of the fact of’ such notice. ‘
+
+-----------------------------------------------
+
+
+DT1887-010530
+
+5716. An antry in the minutes of the court, that the re .. quir .. ed proof was
+made and notice given, shall be-conclusive en­ dence of the fact of such notice.
+
+-----------------------------------------------
+
+
+MT1895-013510
+
+2445. An entry in the minutes of the court, that the required proof was made and
+notice given, shall be conclusive notice of the fact of such no­ tice.
+
+-----------------------------------------------
+
+

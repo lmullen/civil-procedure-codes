@@ -1,0 +1,55 @@
+Exemplar: CA1872-015530
+Earliest: NY1850-019440
+Documents in cluster: 6
+Cluster ID: 2827
+
+-----------------------------------------------
+
+NY1850-019440
+
+1781. The law makes certain evidence necessary to the validity of particular
+acts, or the proof of particular facts.
+
+-----------------------------------------------
+
+
+OR1862-008920
+
+767. Certain evidence is necessary to the validity of particular acts, or the
+proof of particular facts.
+
+-----------------------------------------------
+
+
+CA1872-015530
+
+1967. The law makes certain evidence necessary to the validity of particular
+acts, or the proof of particular facts.
+
+-----------------------------------------------
+
+
+CA1880-020420
+
+1967. The law makes certain evidence necessary to the validity of particular
+acts, or the proof of particular facts.
+
+-----------------------------------------------
+
+
+OR1892-009260
+
+777. [767.] Certain evidence is necessary to the §)§(§;,_11'1§52' validity of
+particular acts or the proof of particular facts. Indm
+
+-----------------------------------------------
+
+
+MT1895-018520
+
+3270. The law makes certain evidence necessary to the validity of particular
+acts, or the proof of particular facts.
+
+-----------------------------------------------
+
+

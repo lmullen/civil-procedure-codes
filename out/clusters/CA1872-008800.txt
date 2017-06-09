@@ -1,0 +1,68 @@
+Exemplar: MT1895-011210
+Earliest: CA1872-008800
+Documents in cluster: 5
+Cluster ID: 9827
+
+-----------------------------------------------
+
+CA1872-008800
+
+1113. When any election held for an office exercised in and for a county is
+contested on account of any malconduct on the part of the Board of Judges of
+any township election,‘ or any member thereof‘, the election cannot be annulled
+and set aside upon any proof thereof, unless the rejection of the vote of
+such township, or townships, would change the result as to such oiiice in the
+remaining vote of the county.
+
+-----------------------------------------------
+
+
+CA1880-011740
+
+1113. When any election held for an office exercised in and for a county is
+contested on account of any malconduct on the part of the board of judges of
+any town ship election, or any member thereof, the election cannot be annulled
+and set aside upon any proof thereof, unless the rejection of the vote of such
+township or townships would change the result as to such office in the remaining
+vote of the county. Malconduct of judges—see sec. 1112ra. Township, or precinct,
+20 Cal. 50; 31 Cal. 173; and see Voting Pkecinots, sec. 1116m.
+
+-----------------------------------------------
+
+
+ID1881-008170
+
+760. When any election held for an office exer-r cised in and for a county is
+contested on account of any malconduct on the part of the Board of Judges of
+any precinct election, or any member thereof, the election cannot be annulled
+and set aside upon any proof thereof, unless the re'ection of the vote of such
+precinct, or precincts, wonl chan the result as to such office in the remaining
+vote of t 9 county.
+
+-----------------------------------------------
+
+
+UT1884-007370
+
+995. When ainy election held for an office exercised in mid for a county is
+contested on account of any malconduct on the part of the board of judges of'
+lly precinct election, or any memiber thereof, the election cannot Ihe annulled
+and set aside upon any 1)roof thereof, unless the rejection of the vote of
+such precinct or precincts, would change the result as to such office in the
+remaining vote of the county.
+
+-----------------------------------------------
+
+
+MT1895-011210
+
+2012. When any election held for an office exercised in and for a county is
+contested on account of any malconduct on the part of the Board of Judges of
+any election district or precinct, or any member thereof, the election cannot be
+annulled and set aside upon any proof thereof, unless the rejection of the vote
+of such district or precinct would change the result as to such office in the
+remaining vote of the county.
+
+-----------------------------------------------
+
+

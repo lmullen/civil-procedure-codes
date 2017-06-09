@@ -1,0 +1,44 @@
+Exemplar: MN1851-002170
+Earliest: NY1850-003670
+Documents in cluster: 5
+Cluster ID: 8921
+
+-----------------------------------------------
+
+NY1850-003670
+
+334. The appointment of a referee, is denominated a reference.
+
+-----------------------------------------------
+
+
+MN1851-002170
+
+48. The appointment of a referee is denominated a reference.
+
+-----------------------------------------------
+
+
+NY1853-003500
+
+323. The appointment of a referee, is denominated a reference.
+
+-----------------------------------------------
+
+
+MN1859-002210
+
+48. The appointment of a referee is denominated a reference.
+
+-----------------------------------------------
+
+
+OR1862-011190
+
+939. The appointment of a referee, is denominated a reference. The manner and
+occasion of making an order of reference are elsewhere provided for in this
+code.
+
+-----------------------------------------------
+
+

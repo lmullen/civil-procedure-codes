@@ -1,0 +1,241 @@
+Exemplar: CA1858-006980
+Earliest: CA1851-007100
+Documents in cluster: 19
+Cluster ID: 2270
+
+-----------------------------------------------
+
+CA1851-007100
+
+645. If an action be brought against a Sheriff for an act done by virtue of
+his office, and he give written notice thereon to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclgive
+evidence of his right to recover against such sureties; and the Courtc’ or
+Judge in vacation may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+CA1858-006980
+
+645. If an action be brought against a sheriff for an act done by virtue of
+his office, and he give Written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties; and the court or judge
+in vacation may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+NV1861-006330
+
+575. an action be brought against a sheriff for an act done by virtue of his
+office, and he give written noticci thereon to his sureties on any bond of
+indemnity received by' him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties; and the court or judge
+in vacation may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, includinor costs.
+
+-----------------------------------------------
+
+
+ID1864-006500
+
+590. If an action be brought against a sheriff for an act done by virtue of
+his oilice, and he give written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties; and the court or judge
+ID vacation may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+AZ1865-006390
+
+638. If an action be brought against a sherif for an act done by virtue of
+his office, and he give written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties ; and the court or judge
+in vacation may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+MT1865-004740
+
+431. In an action brought against a sheriff for an act done by virtue of
+his office, if he give written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment received therein shall be sudicient
+evidence of his right to recover against such sureties;- and the court or judge,
+in vacation, may on motion, upon notice of live days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+CA1868-006420
+
+645. If an action be brought against a sheriff for an act done by virtue of
+his office, and he give written notice thereon to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties; and the court or judge
+in vacation may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+NV1869-006440
+
+591. If an action be brought against a Sheriff for an act done by virtue of
+his office, and he give written notice thereon to the sureties on any bond of
+indemnity received by him. the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties, and the Court or Judge
+in vacation, may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs. .
+
+-----------------------------------------------
+
+
+UT1870-006410
+
+589. If an action be brought against a Territorial Marshal, or Sheriii‘, for
+an act done by virtue of his office, and he give written notice thereof to the'
+sureties on any bond of indemnity received by him, the {Edgment recovered therem
+shall be conclusive evidence of 's right to recover against such sureties, and
+the Court, or Judge in vacation may, on motion, upon notice of five days, order
+judgment to be entered up ainst them for the amount so recovered, including
+costs.
+
+-----------------------------------------------
+
+
+CA1872-008410
+
+1055. If an action is brought against a Sheriff for an act done by virtue of
+his office, and he A gives written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein is conclusive evidence
+of his right to recover against such sureties; and the Court, or Judge in
+vacation, may, on motion, upon notice of five days, order judgment to be entered
+up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+AZ1877-005170
+
+638. If an action be brought against a sheriff for an act one by virtue of his
+office, and he give written notice thereof to the sure^ ties on any bond of
+indemity received by him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sure ties; and the court or judge,
+in vacation, may, on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+CO1877-004780
+
+412. In an action brought against a sheriff for an act done by virtue of
+his office, if he give written notice thereof to the surties on any bond of
+indemnity received by him, the judgment recovered therein shall be sufficient
+evidence of his right to recover against such sureties; and the court, or judge
+in vacation, may on motion, upon notice of five days, order judgment to be
+entered up against them for the amount so r'ecovered,'including costs.
+
+-----------------------------------------------
+
+
+CA1880-011270
+
+1055. If an action be brought against a sheriff for an act done by virtue of
+his office, and he give written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclu sive
+evidence of his right to recover against such sureties; and the court may, on
+motion, upon notice of five days, order judgment to be entered up against them
+for the amount so recovered, including costs. [In effect April 15th, 1880.]
+Indemnifier
+
+-----------------------------------------------
+
+
+ID1881-007740
+
+720. If an action is brought a ainst a Sheriff for an act done by virtue of
+his office, an he gives written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein is conclusive evidence
+of his right to recover against such sureties; and the Court, or Judge in
+vacation, may, on motion, upon notice of five days, order judgment to he entered
+up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+UT1884-007020
+
+936. If an action is brought against a sheriff for :m act done by virtue of
+his office, and lie give written notice thereof to the sureties on any bond
+of indemnity receive(] by him, the jlgment recovered therein is conelusive
+evi~lence of his right to recover against such sureties; aild file court, or
+judge, ill vacation, may, on ulotioll, 1pon notice of live days, order Judgment
+to be entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+AZ1887-001730
+
+158. If an action be brought against a sheriff for an act done by virtue of
+his office, and he give written notice thereof to the sureties. on any bond of
+indemnity received by him. the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties, and the court or judge
+in vacation, may on motion upon notice of five days, order judgment to be
+entered up against them for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+MT1895-010670
+
+1898. If an action be brought against a sheriff for an act done by virtue of
+his office, and he give written notice thereof to the sureties on any bond of
+indemnity received by him, the judgment recovered therein shall be conclusive
+evidence of his right to recover against such sureties, and the court may on
+motion, upon notice of five days, order judgment to be entered up against them
+for the amount so recovered, including costs.
+
+-----------------------------------------------
+
+
+UT1898-012170
+
+3492. Judgment against sureties on indemnity bond to sheriff. Notice. If an
+action is brought against a sheriff for an act done by virtue of his office, and
+he give written notice thereof to the sureties on any bond of indemnity received
+by him, the judgment recovered therein is conclusive evidence of his right to
+recover against such sureties; and the court or judge, in vacation, may. on
+motion, upon notice of five days, order judgment to be entered up against them
+for the amount so recovered, including costs. [C. L. § 3712. Cal. C. Civ. P. $
+1055. Sheriff may have execution or attaching creditor made a party, § 2922.
+
+-----------------------------------------------
+
+
+AZ1901-001670
+
+-229.) The court may render such other judgments and in such form as may be
+authorized by law. a g a" n sKt "heMir 1439, (^ec. 230-) If an action be brought
+against a sheriff for conclusive, when. an act ^one fa virtne of his office, and
+he give written notice thereof to the sureties on any bond of indemnity received
+by him, the judgment recovered therein shall be conclusive evidence of his right
+to recover against such sureties, and the court, or judge in vacation, may, on
+mo tion, upon notice of five days, order judgment to be entered up against them
+for the amount so recovered, including costs. enteredItbyiacierk
+
+-----------------------------------------------
+
+

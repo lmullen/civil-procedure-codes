@@ -1,0 +1,63 @@
+Exemplar: NE1855-008990
+Earliest: IA1851-008990
+Documents in cluster: 7
+Cluster ID: 10321
+
+-----------------------------------------------
+
+IA1851-008990
+
+2398. A witness may be interrogated as to his previous conviction for a felony.
+But no other proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+
+NE1855-008990
+
+2398. A witness may be interrogated as to his previous conviction for a felony.
+But no other proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+
+NE1857-007050
+
+11. A witness may be interrogated as to his previous convictions for a felony.
+But no other proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+
+NE1859-003670
+
+320. A witness may be interrogated as to his previous convictions for a felony.
+But no other proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+
+DT1862-003220
+
+318. A witness may be interrogated as to his previous convictions for a felony.
+But no other proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+
+NE1866-003720
+
+338. A witness may be interrogated as to his previous conviction for a felony.
+But no other proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+
+WY1870-003500
+
+335. A witness may be interrogated as to his previous conviction for felony. But
+no other "proof of such conviction is competent except the record thereof.
+
+-----------------------------------------------
+
+

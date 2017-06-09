@@ -1,0 +1,55 @@
+Exemplar: CA1872-012220
+Earliest: CA1872-012220
+Documents in cluster: 5
+Cluster ID: 2649
+
+-----------------------------------------------
+
+CA1872-012220
+
+1557. If at the time appointed for the sale, the executor or administrator deems
+it for the interest of all persons concerned therein that the same be postponed,
+he may postpone it from time to time, not exceeding in all three months.
+
+-----------------------------------------------
+
+
+CA1880-016140
+
+1557. If, at the time appointed for the sale, the ex ecutor or administrator
+deems it for the interest of all persons concerned therein that the same be
+postponed, he may postpone it from time to time, not exceeding in all three
+months.
+
+-----------------------------------------------
+
+
+AZ1887-005540
+
+201. If, at the time appointed for the sale, the executor or administrator deems
+it for the interest of all persons concerned therein that the same be postponed,
+he may postpone it from time to time. not exceeding in all three months.
+
+-----------------------------------------------
+
+
+DT1887-011960
+
+5841. If, at the time appointed for the sale, the executor or administrator
+deems it for the interest of the persons con­ cerned therein that the same be
+postponed, he may postpone it from time to time, not exceeding in all three
+months.
+
+-----------------------------------------------
+
+
+MT1895-014960
+
+2690. If, at the time appointed for the sale, the executor or adminis­ trator
+deems it for the interest of all persons concerned therein that the same be
+postponed, he may postpone it from time to time, not exceeding in all three
+months.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,135 @@
+Exemplar: CA1858-006960
+Earliest: CA1851-007080
+Documents in cluster: 12
+Cluster ID: 2269
+
+-----------------------------------------------
+
+CA1851-007080
+
+643. The Supreme Court may make rules not inconsistent with the Constitution and
+laws of the State, for its own government, and the government of the District
+Courts, and the Superior Court of the City of San Francisco; but such rules
+shall not be in force until thirty days after their adoption and publication.
+
+-----------------------------------------------
+
+
+CA1858-006960
+
+643. The supreme court may make rules not inconsistent with the constitution and
+laws of the state, for its own government, and the government of the district
+courts; but such rules shall not be in force until thirty days after their
+adoption and publication.
+
+-----------------------------------------------
+
+
+NV1861-006320
+
+574. The supreme court may make rules not inconsist- ; ent with the constitution
+and laws of the territory, for its own 1 government, and the government of the
+district courts; but such rules shall not he in force until thirty days after
+their adoption and ublication.
+
+-----------------------------------------------
+
+
+NV1861-006620
+
+604. Each district court shall have power to make rules, not inconsistent with
+the constitution and laws of this territory, for its own government and the
+government of its officers, but such rules shall not be in force until thirty
+days after their adoption and publication, and no rule shall be made imposing
+any tax or charge upon any legal proceeding, or making an allowance to any
+officer for services.
+
+-----------------------------------------------
+
+
+ID1864-006490
+
+589. The supreme court may make rules, not inconsistent With the constitution
+and laws of the territory, for its own government and the government of the
+district courts; but such rules shall not be In force until thirty days after
+their adoption and publication.
+
+-----------------------------------------------
+
+
+ID1864-006790
+
+619. Each district court shall have power. to make rules, not inconsistant with
+the constitution and laws of this territory, for its own government and the
+government of its oiiicers, but such rules shall not be in. force until thirty
+days after their adoption and publication, and no rule shall be made im sing any
+tax or charge upon any legal proceeding, or mgng an allowance to any officer for
+servlces.
+
+-----------------------------------------------
+
+
+AZ1865-006380
+
+637. The supreme court may make rules not inconsistent With the laws of the
+Territory for its own government and the government of the district courts,
+but such rules shall not be in force until thirty days after their adoption and
+publication.
+
+-----------------------------------------------
+
+
+MT1865-004680
+
+425. The supreme court may make rules not inconsistent with the constitution
+and laws of this Territory for its own government and the government of the
+district courts, and the probate court may make such rules for its government,
+but such rules shall not be in force until thirty days after their adoption and
+publication. If the supreme court fail to make rules for the government of the
+district courts, the district courts may make their own rules, and until the
+meeting of the supreme court such district courts may make their own rules, to
+be published as above provided.
+
+-----------------------------------------------
+
+
+CA1868-006400
+
+643. The supreme court may make rules not inconsistent with tbe constitution and
+laws of the State, for its own government, and the government of the district
+courts, and the superior court of the City of San Fraucisco ; but such rules
+shall not be in force until thirty days lifter their adop­ tion and publication.
+
+-----------------------------------------------
+
+
+NV1869-006430
+
+590. The Supreme Court may make rules not inconsistent with the Constitution
+and laws of the State, for its own government and the government of the District
+Courts ; but such rules shall not be in force until thirty days after their
+adoption and publication.
+
+-----------------------------------------------
+
+
+UT1870-006400
+
+588. The Supreme Court may make rules not inconsistent with the Or anic Act and
+laws of the Territory, for its own government an the government of the District
+Court; but such rules shall not be in force until thirty days after their
+ad0ption and publication.
+
+-----------------------------------------------
+
+
+AZ1877-005160
+
+637. The supreme court may make rules, not inconsistent with the laws of the
+Territory, for its own government and the govern ment of the district courts,
+but such rules shall not be in force until thirty days after their adoption and
+publication.
+
+-----------------------------------------------
+
+

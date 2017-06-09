@@ -1,0 +1,316 @@
+Exemplar: CA1872-005930
+Earliest: CA1851-003010
+Documents in cluster: 18
+Cluster ID: 2415
+
+-----------------------------------------------
+
+CA1851-003010
+
+273. If it appear by the certificate of the Recorder that there 3 were
+outstanding liens of record at the time of the commencement of z the action, and
+the persons holding or claiming such liens are not made parties to the action,
+the Court shall either order such parties to be brought in by an amendment, or
+supplemental complaint, or appoint a referee to ascertain whether their liens
+have been paid; or if not paid, what amount remains due, and their order among
+the liens held by the parties who have appeared and answered; and whether the
+amount remaining due thereon has been secured in any way, and if secured, the
+extent and nature of the security.
+
+-----------------------------------------------
+
+
+OR1854-004920
+
+9. If it appear by the certificate of the recorder or the clerk that there
+were liens of record at the time of the commencement ot action, and the persons
+holding or claiming such liens, be not made parties to the action, the court
+shall either order such parties to be brought in by an amendment or supplemental
+complaint, or appoint a referee to ascertain whether their liens have been paid,
+or if not paid what amount remains due, and the date of their liens, and whether
+the amount remaining due thereon has been secured in any way, and if secured,
+the nature and extent of the security.
+
+-----------------------------------------------
+
+
+CA1858-002950
+
+273. If it appear by the certificate of the recorder that there were outstanding
+liens of record at the time of the commencement of the action, and the
+persons holding or claiming such liens are not made parties to the_action,
+the court shall either order such parties to be brought in by an amendment, or
+supplemental complaint, or appoint a referee to ascertain whether their liens
+have been paid; or if not paid, what amount remains due, and their order among
+the liens held by the parties who have appeared and answered ; and whether the
+amount remaining due thereon has been secured in any way, and if secured, the
+extent and nature of the security.
+
+-----------------------------------------------
+
+
+NV1861-007270
+
+670. If it appear by the certificate of the recorder that there were outstanding
+liens'of record at the time of the commencement of the action, and the
+persons holding or claiming such liens are not made parties to the action,
+the court shall either order such parties to be brought in by an amendment, or
+supplemental complaint, or ap oint a referee to ascertain whether their liens
+have been paid) ; or if not paid, what amount remains due, and their order among
+the liens held by the' parties who have appeared and answered ; and whether the
+amount remaining due thereon has been secured in any way, and if secured, the
+extent and nature of the security.
+
+-----------------------------------------------
+
+
+ID1864-007510
+
+689. If it appears by the certificate of the recorder that there were
+outstanding liens of record at the time of the commencement of the action, and
+the persons holding or claiming such liens were not made parties to the action,
+the court shall either order such parties to be brought in by an amendment, or
+supplemental complaint, or appoint a referee to ascertain whether their liens
+have been aid; or if not aid, what amount remains due, and their or er among the
+iens held by the parties who have appeared and answered; and whether the amount
+remaining due thereon has been secured in any way, and if secured, the extent
+and nature of the security.
+
+-----------------------------------------------
+
+
+AZ1865-002760
+
+275. If it appear by the certificate of the recorder that there wereoutstanding
+liens of record at the time of the commencement of the action, and the persons
+holding or claiming such aliens are not made parties to the action, the
+court shall either order such parties to: be brought in by an. amendment or
+supplemental complaint, or appoint a referee to ascertain whether their liens
+have been paid, or if not paid, what amount remains. due, and their order among
+the hens held by the parties who have appeared and answered; and whether the
+amount - remaining due thereon has.been secured in any way, and if secured, the
+extent and nature of the security.
+
+-----------------------------------------------
+
+
+MT1865-005450
+
+501. If it appears, by the certificate of the recorder, that there were
+outstanding liens of record at the time of the commencement of the action, and
+the person holding or claiming such liens were not made parties to the action,
+the court shall either order such parties to be brought in by an amendment or
+supplemental complaint, or appoint a referee to ascertain whether their liens
+have been paid, or if not paid what amounts remain due, and their order among
+the liens, among the parties who have appeared and answered, and whether the
+amount remaining due thereon has been secured in any way, and if secured, the
+extent and nature of the security. ‘
+
+-----------------------------------------------
+
+
+CA1868-002780
+
+273. If it shall appear to the court, by the certificate of the county recorder,
+or county clerk, or by the sworn or verified statement of any person who may
+have examined or searched the records, that there are outstanding liens or
+Incumbrances of record upon such real property, or any part or portion thereof.
+which existed and were of record at the time of the commencement of said action,
+and the persons holding such liens are not made parties to the action, the
+court shall either order such persons to be made parties to the action, by an
+amendment or supplemental complaint, or appoint a referee to ascertain whether
+or not such liens or ineumbrauccs have been paid, or if not paid, what amount
+remains due thereon, and their order among the liens or in­ eumbrances severally
+held by the said persons and the parties to the said action, and whether the
+amount remaining due thereon has been secured in any manner, and ·if secured,
+the nature and extent of the security.
+
+-----------------------------------------------
+
+
+NV1869-003010
+
+275. If it shall appear to the Court, by the certificate of the County Recorder
+or County Clerk, or by the sworn or verified ,statement of any person who may
+have examined or searched the records, that there are outstanding liens or
+encumbrances of record ‘upon such real prOperty or any part thereof, which
+existed and were of record at the time of the commencement of said action,
+and the persons holding such liens are not made parties to the action, the
+Court shall either order such persons to be made parties to the action, by an
+amendment or supplemental complaint, or appoint a referee to ascertain whether
+or not such liens or encumbrances have been paid, or if not paid, what amount
+remains due thereon, and their order ameng the liens or encumbrances severally
+held by the said persons and the parties to said action, and whether the amount
+remaining due thereon has been secured in any manner, and if secured, the nature
+and extent of the security.
+
+-----------------------------------------------
+
+
+UT1870-002960
+
+273. If it shall appear to the Court, by the certificate of the County Recorder,
+or Count Clerk, or by the sworn or verified statement of an person w 0 may
+have examined or searched the records, t at there are outstanding liens, or'
+encumbrances of record upon such real prOpert , or any thereof, which existed
+and were of record at; the time of t e commencement of said action, and the
+persons hold' such liens are not made parties to the action, the Court sh
+either order such persons to be made parties to the action, by an amendment or
+supplemental complaint, or ap int a referee to ascertain whether or not such
+liens or incum rances have been aid, or if not paid, what amount remains due
+thereon, and t eir order among the liens or encumbrances ,severall held by the
+said persons and the parties to said action, an whether the amount remainin due
+thereon has been secured in any manner, and if seCure , the nature and extent of
+the secunty.
+
+-----------------------------------------------
+
+
+CA1872-005930
+
+761. If it appears to the Court, by the certificate of the County Recorder
+or County Clerk, or by the sworn or verified statement of any person who may
+have examined or searched the records, that there are outstanding liens or
+encumbrances of record upon such real property, or any part or portion thereof,
+which existed and were of record at the time of the commencement of the action,
+and the persons holding such liens are not made parties to the action, the Court
+must either order such persons to be made parties to the action, by an amendment
+or supplemental complaint, or appoint a referee to ascertain Whether or not
+such liens or encumbrances have been paid, or if not paid, what amount remains
+due thereon, and their order among the liens or encumbrances severally held by
+such persons and the parties to the action, and whether the amount remaining due
+thereon has been secured in any manner, and if secured, the nature and extent of
+the security.
+
+-----------------------------------------------
+
+
+ND1877-005830
+
+557. If it appear to the court by the certificate of the register of deeds,
+or clerk of the district court, or by the sworn or verified statement of any
+person who may have examined or searched the records that there are outstanding
+liens or encumbrances of record upon such real property, or any part or portion
+thereof, which existed and were of record at the time of the commencement of the
+action and the persons holding such liens are not made parties to the action,
+the court must either order such persons to be made parties to the action by an
+amendment or supplemental complaint, or appoint a referee to ascer tain whether
+or not such liens or encumbrances have been paid, or, if not paid, what amount
+remains due thereon, and their order among the liens or encumbrances severally
+held by such persons and the parties to the action, and whether the amount
+remaining due thereon has been secured in any manner, and if secured, the nature
+and extent of the security.
+
+-----------------------------------------------
+
+
+AZ1877-002260
+
+275. If it appear by the certificate of the recorder that there were outstanding
+liens of record at the time of the commencement of the action, and the persons
+holding or claiming such liens are not made parties to the action, the court
+shall either order such parties to be brought in by an amendment or supplemental
+complaint, or appoint a referee to ascertain whether their liens have been paid,
+or, if not paid, what amount remains due, and their order among the liens held
+by the parties who have appeared and answered; and whether the amount remaining
+due thereon has been secured in any way, and, if secured, the extent and nature
+of the security.
+
+-----------------------------------------------
+
+
+CA1880-008330
+
+761. If it appears to the court, by the certificate of the county recorder
+or county clerk, or by the sworn or verified statement of any person who may
+have examined or searched the records, that there are outstanding liens or
+encumbrances of record upon such real property, or any part or portion thereof,
+which existed and were of record at the time of the commencement of the action,
+and the persons holding such liens are not made parties to the action, the
+court must either order such persons to plemental be made parties complaint,
+to theoraction, appoint by an a referee amendment to ascertain or sup whether
+or not such liens or encumbrances have been paid, or if not paid, what amount
+remains due thereon, and their order among the liens or encumbrances .severally
+held by such persons and the parties to the action, and whether the amount
+remaining due thereon has been secured in any manner, and if secured, the nature
+and extent of the security.
+
+-----------------------------------------------
+
+
+ID1881-005390
+
+496. If it appears to the Court, by the certificate of the County Recorder or
+Clerk, or by the sworn or verified statement of any rson who may have examined
+or searched the records, t at there are outstanding liens or encumbrances of
+record u n such real property, or any part or portion thereof, w ich existed
+and were of record at the time of the commencement of the action, and the
+persons holding such liens are not made parties to the action, the Court must
+either order such persons to be made arties to the action, by an amendment or
+supplementa complaint, or appoint a referee to ascertain whether or not such
+liens or encumbrances have been paid, or if not paid, what amount remains due
+thereon, and their order among the liens or encumbrances severally held by such
+persons and the parties to the action, and whether the amount remaining due
+thereon has been secured in any manner, and if secured, the nature and extent of
+the securitv.
+
+-----------------------------------------------
+
+
+DT1887-006950
+
+5371. If it appear to the court by the certificate of the register of deeds, or
+clerk of the district court, or by the sworn or verified statement of any person
+who may have examined 01" searched the recorcls that there are outstanding liens
+or incum­ brances of record upon such real property, or any part or portion
+thereof, which existed and were of record at the time of the com­ mencement
+of the action, and the persons holcling such liens are not made parties to
+the action, the court must either order such persons to be made parties to the
+action by a11 amendment or supplemental complai nt, or appoint a l"eferee to
+ascertain whetl1er 01" not such liens or encumbrances have been paid, or, if not
+paicl, what amount remains due thereon, ancl their .. order among the liens 01·
+encumbrances severally held by such persons and the parties to the action, and
+whether the amount remain­ ing due thereon has been secured ~11 any manner, and.
+'if secured, the nature ancl extent of the security.
+
+-----------------------------------------------
+
+
+MT1895-007320
+
+1353. If it appears to the court, by the certificate of the clerk of the court
+and county clerk, or by the sworn or verified statement of any person who may
+have examined or searched the records, that there are outstanding liens or
+encumbrances of record upon such real property, or any part or portion thereof,
+which existed and were of record at the time of the commencement of the action,
+and the persons holding such liens are not made parties to the action, the
+court must either order such persons to be made parties to the ac­ tion, by an
+amendment or supplemental complaint, or appoint a referee to ascertain whether
+or not such liens or encumbrances have been paid, or if not paid, what amount
+remains due thereon, and their order among the liens or encumbrances severally
+held by such persons and the parties to the action, and whether the amount
+remaining due thereon has been secured in any man­ ner, and if secured, the
+nature and extent of the security.
+
+-----------------------------------------------
+
+
+UT1898-012640
+
+3531. Rights of lienholders not summoned to be adjusted. If it appears to the
+court by the certificate of the county recorder, or clerk, or by the sworn or
+verified statement of any person who may have examined or searched the records,
+that there are outstanding liens or encumbrances of record upon such real
+property, or any part or portion thereof, which existed and were of record at
+the time of the commencement of the action, and the persons holding such liens
+are not made parties to the action, the court must either order such persons
+to be made parties to the action by an amendment or supplemental complaint, or
+appoint a referee to ascertain whether or not such liens or encumbrances have
+been paid, or if not paid, what amount remains due thereon, and their order
+among the liens or encumbrances severally held by such persons and the parties
+to said action, and whether the amount remaining due thereon has been secured in
+any manner, and if secured, the nature and extent of the security. [C. L.
+
+-----------------------------------------------
+
+

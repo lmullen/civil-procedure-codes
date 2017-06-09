@@ -1,0 +1,52 @@
+Exemplar: NE1855-003150
+Earliest: IA1851-003150
+Documents in cluster: 5
+Cluster ID: 10141
+
+-----------------------------------------------
+
+IA1851-003150
+
+1838. Such confession can be only for money due or to become due, or to secure
+a person against contingent liabilities on behalf of the defendant, and must be
+for a specified sum.
+
+-----------------------------------------------
+
+
+NE1855-003150
+
+1838. Such confession can be only for money due or to become due, or to secure
+a person against contingent liabilities on behalf of the defendant, and must be
+for a specified sum.
+
+-----------------------------------------------
+
+
+NE1857-003480
+
+2. Such confession can only be for money due or to become due, or to secure a
+person against contingent liabilities on behalf of the defendant, and must be
+for a specified sum.
+
+-----------------------------------------------
+
+
+IA1859-007260
+
+782. Such confession can be only tor money due, or to become due, or to secure
+a person against contingent liabilities on behalf of the defendant, and must be
+for a specified sum.
+
+-----------------------------------------------
+
+
+NM1897-005810
+
+3078. Such confession can be only for money due, or to become due, or to secure
+a person : vainst contingent liabilities on behalf of the defendant, and must be
+for a specified sum.
+
+-----------------------------------------------
+
+

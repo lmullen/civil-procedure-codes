@@ -1,0 +1,74 @@
+Exemplar: CA1872-009130
+Earliest: CA1872-009130
+Documents in cluster: 5
+Cluster ID: 2483
+
+-----------------------------------------------
+
+CA1872-009130
+
+1154. Whenever a person is committed to jail on an execution issued on a
+judgment recovered in a civil action, the creditor, his agent, or attorney must
+advance to the jailer, on such commitment, suiiicient money for the support of
+the prisoner for one week, and must make the like advance for every successive
+week of his imprisonment; and in case of failure to do so, the jailer must
+forthwith discharge such prisoner from custody, and such discharge has the same
+effect as if made by order of the creditor.
+
+-----------------------------------------------
+
+
+CA1880-012070
+
+1154. Whenever a person is committed to jail on an execution issued on a
+judgment recovered in a civil action, the creditor, his agent or attorney, must
+advance to the jailer, on such commitment, sufficient money for the support of
+the prisoner for one week, and must make the like advance for every successive
+week of his impris onment, and in case of failure to do so, the jailer must
+forthwith discharge such prisoner from custody ; and such discharge has the
+same effect as if made by order of the creditor Advance to the jailer—credit
+permissible, 60 Cal. 306.
+
+-----------------------------------------------
+
+
+ID1881-008530
+
+794. Whenever a person is committed to jail, on an execution issued on a
+judgment recovered in a civil action, the creditor, his agent, or attorney must
+advance to the jailer on such commitment, sufiicient money for the board of
+the prisoner at the rate provided by law, for one week, and must make the like
+advance for every successive week of his imprisonment; and in case of failure to
+do so, the jailer must forthwith discharge such prisoner from custody, and such
+discharge has the same effect as if made by order of the creditor.
+
+-----------------------------------------------
+
+
+MT1895-011590
+
+2071. Whenever a prisoner is committed to jail on an execution issued on a
+judgment recovered in a civil action, the creditor, his agent or attorney. must
+advance to the jailer, on such commitment, sufficient money for the sup­ port of
+the prisoner for one week, and must make the like advance for every successive
+week of his imprisonment, and in case of failure to do so, the jailer must
+forthwith discharge such prisoner from custody; and such discharge has the same
+effect as if made by order of the creditor.
+
+-----------------------------------------------
+
+
+UT1898-003590
+
+3044. Plaintiff must advance jailer's costs. Whenever a debtor is committed to
+jail on execution in a civil action, the creditor, his agent, or attor ney, must
+advance to the jailer, on such commitment, sufficient money for the support of
+the prisoner for one week, and must make the like advance for evensuccessive
+week of his imprisonment, and in case of a failure to do so, the jailer must
+forthwith discharge such prisoner from custody ; and such discharge shall have
+the same effect as if made by order of the creditor. [C. L. § 3785. Cal. C. Civ.
+P. 1 1154. Payment of cost of keeping person committed on civil process, § 582.
+
+-----------------------------------------------
+
+

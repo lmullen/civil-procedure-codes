@@ -1,0 +1,117 @@
+Exemplar: CA1851-006500
+Earliest: CA1851-006500
+Documents in cluster: 11
+Cluster ID: 2133
+
+-----------------------------------------------
+
+CA1851-006500
+
+588. At the time appointed for the trial, the Justice shall proceed to call,
+from the jurors summoned, the names of the persons to constitute the jury for
+the trial of the issue. The jury by consent of the parties may consist of any
+number not more than twelve nor less than three.
+
+-----------------------------------------------
+
+
+CA1858-006390
+
+588. At the time appointed for the trial, the justice shall proceed té call,
+from the jurors summoned, the names of the persons to constitute the jury for
+the trial of the issue. The jury, by consent of the parties, may consist of any
+number not more than twelve nor less than three.
+
+-----------------------------------------------
+
+
+NV1861-005830
+
+528. At the time appointed for the trial, the justice, shall proceed to call,
+from the jurors summoned, the names of the persons to constitute the jury for
+the trial of the issue. The jury, by consent of the parties, may consist of any
+number, not more than twelve, nor less than three.
+
+-----------------------------------------------
+
+
+ID1864-006000
+
+543. At the time appointed for the trial, the justice shall proceedto call,
+from the jurors summoned, the names of the persons to constitute the jury for
+the trial of the issue. The jury, by consent of the parties, may consist or any
+number not more than six nor less than three. ‘
+
+-----------------------------------------------
+
+
+AZ1865-005910
+
+590. At the time appointed for the trial, the justice shall proceed to i call
+from the jurors for the trial of the issue. The jury, by consent of the parties,
+may consist of any number more than six nor less than three.
+
+-----------------------------------------------
+
+
+MT1865-006490
+
+602. At the time appointed for the trial, the justice shall proceed to call
+from the jurors summoned the names of the persons to constitute the jury for
+the trial of the issue. The jury, by consent of the parties, may consist of
+any number not more than twelve nor less than six, and shall not be summoned
+until their legal fees for one day’s service shall be paid into the hands of the
+justice by the party demanding the jury.
+
+-----------------------------------------------
+
+
+CA1868-005870
+
+588. At the time appointed for the trial, the justice shall proceed to call,
+from the jurors summoned, thenames of the persons to constitute the jury for the
+trial of the issue. The jury by consent of the parties may consist of any number
+not more than twelve nor less than three.
+
+-----------------------------------------------
+
+
+NV1869-005970
+
+546. At the time appointed for the trial the Justice shall proceed to call
+fromthe jurors summoned the names of the persons to constitute the jury for
+the trial of the issue. The jury, by consent of the parties, may consist of any
+number not more than twelve, nor less than four. 7 ‘
+
+-----------------------------------------------
+
+
+UT1870-005930
+
+544. At the time appointed for the trial, the Justice shall proceed to call
+from the jurors summoned, the names of the persons to constitute the jury for
+the trial of the issue. The jury, by consent of the parties, may consist of any
+number not more than six nor less than three.
+
+-----------------------------------------------
+
+
+AZ1877-004720
+
+590. At the time appointed for the trial, the justice shall proceed to call from
+the jurors for the trial of the issue. The jury, by con sent of the parties, may
+consist of any number not more than six nor less than three.
+
+-----------------------------------------------
+
+
+AZ1887-008350
+
+36. At the time appointed for the trial, the justice shall proceed to call the
+names of the jurors summoned. The jury shall consist of six persons, but may,
+by consent of both parties, consist of any number less than six and not under
+three.
+
+-----------------------------------------------
+
+

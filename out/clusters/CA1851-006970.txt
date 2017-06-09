@@ -1,0 +1,136 @@
+Exemplar: CA1858-006850
+Earliest: CA1851-006970
+Documents in cluster: 15
+Cluster ID: 2265
+
+-----------------------------------------------
+
+CA1851-006970
+
+634. Justices of the Peace may, in all cases, require a deposit of money, or an
+undertaking, as security for costs of Court, before issuing asurnmons.
+
+-----------------------------------------------
+
+
+CA1858-006850
+
+634. Justices of the peace may, in all cases, require a deposit of money, or an
+undertaking, as security for costs of court, before issuing a summons.
+
+-----------------------------------------------
+
+
+NV1861-006290
+
+572. Justices of the peace may, in all cases, require a ; deposit of money, or
+an undertaking, as security for costs of ‘ court, before issuing a summons.
+
+-----------------------------------------------
+
+
+ID1864-006460
+
+587. Justices of the peace may, in all cases, require a deposit of money or an
+undertaking, as security for costs of court, before issuing a summons. _ . _
+
+-----------------------------------------------
+
+
+AZ1865-006360
+
+635. Justices of the peace may in all cases require a deposit of money, or an
+undertaking, as security for costs of court, before issuing a summons.
+
+-----------------------------------------------
+
+
+MT1865-006940
+
+645. Justices of the peace may in all cases require a deposit of money, or an
+undertaking, as surety for costs of court, before issuing a summons.
+
+-----------------------------------------------
+
+
+CA1868-006310
+
+634. Justices of the peace may, in all cases, require a deposit of money, or an
+undertaking, ae security for costs of court, before i88Uing a summons.
+
+-----------------------------------------------
+
+
+NV1869-006410
+
+588. Justices of the Peace may in all cases require a deposit of money, or an
+undertaking, as security for costs of Court, before issuing a summons. . .
+
+-----------------------------------------------
+
+
+UT1870-006370
+
+586. Justices of the Peace may, in all cases, require a deposit of money, or an
+undertaking, as security for costs of Court, before issuing a summons. .
+
+-----------------------------------------------
+
+
+CA1872-007470
+
+923. Justices may in all cases require a deposit of money or an undertaking, as
+security for costs of Court, before issuing a summons.
+
+-----------------------------------------------
+
+
+AZ1877-005140
+
+635. Justices of the peace may, in all cases, require a de posit of money, or an
+undertaking, as security for costs of court, before issuing a summons.
+
+-----------------------------------------------
+
+
+CA1880-010060
+
+923. Justices may, in all cases, require a deposit of money or an undertaking,
+as security for costs of court, before issuing a summons. Prepayment of fees—
+sec. 91. S 924. The prevailing .party in Justices' Courts is en
+
+-----------------------------------------------
+
+
+ID1881-006840
+
+634. Probate and Justices’ Courts may in all cases require a deposit of money or
+an undertaking, as M security for costs of Court, before issuing a summons.
+
+-----------------------------------------------
+
+
+MT1895-009410
+
+1684. Justices may, in all cases, require a deposit of money or an undertaking,
+as security for costs of court, before issuing a summons.
+
+-----------------------------------------------
+
+
+UT1898-016820
+
+3769. Security for costs may be required. Justices of the peace may in all cases
+require a deposit of money or an undertaking as security for costs of court,
+before filing the complaint. If the plaintifff is a non-resident, however,
+the defendant may demand that the plaintifff make a deposit of money or give
+an undertaking with two good sureties in any sum not exceeding one hundred
+dollars, as the court may determine, for payment of costs adjudged against
+the plaintifff ; and all proceedings shall stop unless such undertaking is
+given, and if not given within twenty days, the suit shall be dismissed without
+prejudice. [C. L. § 3628. Cal. C. Civ. P. \ 923*. Qualifications of sureties
+generally, i 349,!.
+
+-----------------------------------------------
+
+

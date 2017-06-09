@@ -1,0 +1,63 @@
+Exemplar: DT1862-000720
+Earliest: OH1853-000750
+Documents in cluster: 8
+Cluster ID: 4068
+
+-----------------------------------------------
+
+OH1853-000750
+
+63.’ In all cases, the return must state the time and manner of service.
+
+-----------------------------------------------
+
+
+KS1859-000820
+
+71. In all cases, the return must state the time and manner of service.
+
+-----------------------------------------------
+
+
+NE1859-000760
+
+62. In all cases, the return must state the time and manner of service.
+
+-----------------------------------------------
+
+
+DT1862-000720
+
+60. In all cases the return must state the time and manner of service. _
+
+-----------------------------------------------
+
+
+NE1866-000770
+
+70. In all cases the return must state the time and manner of service.
+
+-----------------------------------------------
+
+
+KS1868-000640
+
+65. In all cases, the return must state the time and manner of service.
+
+-----------------------------------------------
+
+
+WY1870-000750
+
+69. In all cases the return must state the time and manner of service.
+
+-----------------------------------------------
+
+
+OK1893-000810
+
+11. In all cases the return must state the time and manner of service.
+
+-----------------------------------------------
+
+

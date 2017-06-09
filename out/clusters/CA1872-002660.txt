@@ -1,0 +1,50 @@
+Exemplar: CA1872-002660
+Earliest: CA1872-002660
+Documents in cluster: 5
+Cluster ID: 2388
+
+-----------------------------------------------
+
+CA1872-002660
+
+350. An action is commenced, within the meaning of this Title, when the
+complaint is filed.
+
+-----------------------------------------------
+
+
+CA1880-003080
+
+350. An action is commenced, within the meaning of this title, when the
+complaint is filed. Action commenced—19 Cal. 577 ; 21 Cal. 351, 367 ; 34 Cal.
+166; 35 Cal. 122. Amended complaint—not referred to, 50 Cal. 525 ; 53 Cal. 102.
+Issuance of summons—no lontrer commencement of action, in gen eral, see sees.
+406, 839; formerly, 19 Cal. 577.
+
+-----------------------------------------------
+
+
+ID1881-001820
+
+168. An action is commenced, within the meanin of this Chapter, when the
+complaint is filed.
+
+-----------------------------------------------
+
+
+UT1884-001680
+
+208. An action is conuwneeed, within the meaning of this title, when the
+comlaint is filed.
+
+-----------------------------------------------
+
+
+MT1895-002640
+
+540. An action is commenced within the meaning of this Title, when the complaint
+is filed.
+
+-----------------------------------------------
+
+

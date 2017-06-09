@@ -1,0 +1,61 @@
+Exemplar: NE1857-004590
+Earliest: IN1852-005850
+Documents in cluster: 5
+Cluster ID: 10382
+
+-----------------------------------------------
+
+IN1852-005850
+
+600. Where there are two or more plaintifffs ordefendants, any one or more of
+the plaintifffs may recover against one or more of the defendants, the premises
+or any part thereof, or any interest therein, or damages according to the right
+of the parties; but the recovery shall not be for a greater interest than that
+claimed.
+
+-----------------------------------------------
+
+
+TX1855-006060
+
+526. Where there are two or more plaintifffs or defendants, any one or more of
+the plaintifffs may recover against one or more of the defendants, the premises
+or any part thereof, or any interest therein, or damages according to the right
+of the parties.
+
+-----------------------------------------------
+
+
+NE1857-004590
+
+10. When there are two or more plaintifffs or defendants, any one or more of the
+plaintifffs may recover against one or more of the defendants, the premises or
+any part thereof, or any interest therein, or damages, according to the right
+of the parties; but the recovery shall not be for a greater interest than that
+claimed.
+
+-----------------------------------------------
+
+
+IA1859-009250
+
+965. Where there are two or more plaintifffs or defendants, any one or more
+plaintifffs may recover against one or more of the defendants, the premises
+01" any part thereof or any interest therein, or damages according to the light
+of the parties; but the recovery shall not be for a greater interest than that
+claimed. ,
+
+-----------------------------------------------
+
+
+OK1891-007130
+
+11. Where there are two or more plaintifffs or de_fendants, any one or more of
+the plaintifffs may recover against one or more of the defendants the premises
+or any part thereof, or interest therein, or damages according to the right
+of the parties, but the recovery shall not be for a greater interest than that
+claimed.
+
+-----------------------------------------------
+
+

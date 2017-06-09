@@ -1,0 +1,79 @@
+Exemplar: CA1872-007110
+Earliest: CA1872-007110
+Documents in cluster: 6
+Cluster ID: 2445
+
+-----------------------------------------------
+
+CA1872-007110
+
+886. When the cause of action or counterclaim arises upon an account or
+instrument for the payment of money only, the Court, at any time before the
+trial, may, by an order under his hand, require the original to be exhibited
+to the inspection of, and a copy to be furnished to, the adverse party, at such
+time as may be fixed in the order; or, if such order is not obeyed, the account
+or instrument cannot be given in evidence.
+
+-----------------------------------------------
+
+
+CA1880-009700
+
+886. When the cause of action or counterclaim arises upon an account or
+instrument for the payment of money only, the court, at any time before the
+trial, may, by an order under his hand, require the original to be exhibited to
+the inspection of, and a copy to be furnished to, the ad verse party, at such
+time as may be fixed in the order; or, if such order is not obeyed, the account
+or instrument cannot Order for be inspection—sec. given in evidence. 1000.
+
+-----------------------------------------------
+
+
+ID1881-006460
+
+598. When the cause of action or counter claim arises upon an account or
+instrument for the payment of money only, the Court, at any time before the
+trial, may, by an order under his hand, require the original to be exhibited
+to the inspection of, and a copy to be tnrnished to, the adverse party, at such
+time as may be fixed in the order; or, if such order is not obeyed, the account
+or instrument cannot be given in evidence.
+
+-----------------------------------------------
+
+
+DT1887-015080
+
+6100. When the cause of action or counterclaim arises upon an account or
+instrument for the payment of money only, the court, at any time before the
+trial, may, by a11 order under his hand, require the original to be exhibited to
+the inspection of, and a copy to be furnished to the adverse par .. ty, at such
+time as may be fixed in the order; or, if such order is not obeyed, the account
+or instrument cannot be given in evidence.
+
+-----------------------------------------------
+
+
+OK1891-009520
+
+12. When the cause of action or counterclaim arises iupon an account or
+instrument for the payment of money only, the court at any time before the
+trial may by an order under his hand require the original to be exhibited to
+the inspection of and a copy to be furnished to the adverse party at such time
+as may be fixed in the order; or if such order is not obeyed, the account or
+instrument cannot be given in evidence.
+
+-----------------------------------------------
+
+
+UT1898-015970
+
+3721. Exhibition of account may be required. Refusal. When the cause of action
+or counterclaim arises upon an account or instrument for the payment of money
+only, the court, at any time before the trial, may, by an order, require the
+original to be exhibited to the inspection of and a copy to be furnished to the
+adverse party, at such time as may be fixed in the order; or if such order is
+not obeyed, the account or instrument cannot be given in evidence. [('. L
+
+-----------------------------------------------
+
+

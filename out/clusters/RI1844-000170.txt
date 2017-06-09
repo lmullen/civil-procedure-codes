@@ -1,0 +1,63 @@
+Exemplar: RI1872-003460
+Earliest: RI1844-000170
+Documents in cluster: 6
+Cluster ID: 17762
+
+-----------------------------------------------
+
+RI1844-000170
+
+15. Personal estate when mortgaged and in the pos session of the mortgagor,
+and while the same is redeemable, may be attached on mesne process or execution
+against the mortgagor in the same manner as his other personal estate.
+
+-----------------------------------------------
+
+
+RI1857-002590
+
+3. Personal estate, when mortgaged and in the possession of the mortgagor, and
+while the same is redeemable either at law or in equity, may be levied on by
+execution against the mortgagor, in the same manner as on his personal estate.
+
+-----------------------------------------------
+
+
+RI1872-001150
+
+4. Personal estate, when mortgaged and in the possession of tne mortgagor,
+and while the same is redeemable at law or in equity, may be attached on mesne
+process against the mortgagor, in the same manner as his other personal estate.
+
+-----------------------------------------------
+
+
+RI1872-003460
+
+4. Personal estate, when mortgaged and in the possession of the mortgagor, and
+while the same is redeemable either at law or in equity, may be levied on by
+execution against the mortgagor, in the same manner as on his personal estate.
+
+-----------------------------------------------
+
+
+RI1892-003580
+
+4. Personal estate, when mortgaged and in the possession of the mortgagor, and
+while the same is redeemable at law or in equity, may be attached on writ of
+attachment against the mort gagor, in the same maimer as his other personal
+estate.
+
+-----------------------------------------------
+
+
+RI1892-004190
+
+4. Personal estate, when mortgaged and in the possession of the mortgagor,
+and while the same is redeemable either at law or in equity, may be levied on
+by execution against the mortgagor in the same manner as on his unincumbered
+personal estate.
+
+-----------------------------------------------
+
+

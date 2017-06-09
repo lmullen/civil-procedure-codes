@@ -1,0 +1,83 @@
+Exemplar: NY1891-002370
+Earliest: NY1876-003210
+Documents in cluster: 8
+Cluster ID: 14730
+
+-----------------------------------------------
+
+NY1876-003210
+
+298. The clerk of the court is entitled, in addition to his salary, for any
+service performed by him, to the fee allowed by law to a county clerk, for
+a similar service, performed in the supreme court, or the court of oyer and
+terminer.
+
+-----------------------------------------------
+
+
+NY1876-003330
+
+310. The clerk of the court is entitled, in addition to his salary, for any
+service performed by him, to the fee allowed by law to a county clerk, for a
+similar service.
+
+-----------------------------------------------
+
+
+NY1879-003260
+
+298. The clerk of the court is entitled, in addition to bis salary, for any
+service performed by him, to the fee allowed by law to a county clerk, for
+a similar service, performed in the supreme court, or the court of oyer and
+terminer.
+
+-----------------------------------------------
+
+
+NY1879-003380
+
+810. The clerk of the court is entitled, in addition to his salary, for any
+service performed by him, to the fee allowed by law to a county clerk, for a
+similar service.
+
+-----------------------------------------------
+
+
+NY1883-003060
+
+298. Clerk may charge fees. The clerk of the court is entitled, in addition
+to his salary, for any service performed by him, to the fee allowed by law to
+a county clerk, for a similar service, performed in the supreme court, or the
+court of oyer and terminer.
+
+-----------------------------------------------
+
+
+NY1883-003180
+
+310. Clerk may charge fees. The clerk of the court is entitled, in addition to
+his salary, for any service performed by him, to the fee allowed by law to a
+county clerk, for a similar service.
+
+-----------------------------------------------
+
+
+NY1891-002370
+
+298. The clerk of the court is entitled, in addition to his salary, for any
+service performed by him, to the fee allowed by law to a county clerk, for
+a similar service, performed in the supreme court, or the court of oyer and
+terminer.
+
+-----------------------------------------------
+
+
+NY1891-002490
+
+310. The clerk of the court is entitled, in addition to his salary, for any
+service performed by him, to the fee allowed by law to a county clerk, for a
+similar service.
+
+-----------------------------------------------
+
+

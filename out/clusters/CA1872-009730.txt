@@ -1,0 +1,48 @@
+Exemplar: CA1872-009730
+Earliest: CA1872-009730
+Documents in cluster: 5
+Cluster ID: 2509
+
+-----------------------------------------------
+
+CA1872-009730
+
+1231. At any time before the expiration of the time of publication any person
+may file his objections to the application. '
+
+-----------------------------------------------
+
+
+CA1880-012840
+
+1231. At any time before the expiration of the time of publication, any person
+may file his objections to the application.
+
+-----------------------------------------------
+
+
+ID1881-009110
+
+848. At any time before the expiration of the time of publication any person
+mayfile his objections to the application.
+
+-----------------------------------------------
+
+
+MT1895-012250
+
+2194. At any time before the expiration of the time of publication, any person
+may file his objections to the application.
+
+-----------------------------------------------
+
+
+UT1898-014860
+
+3665. Objections to application. At any time before the expiration of the time
+of publication, any person may file his objections to the application. [C. L. §
+3838. Cal. C. Civ. P. I 1231.
+
+-----------------------------------------------
+
+

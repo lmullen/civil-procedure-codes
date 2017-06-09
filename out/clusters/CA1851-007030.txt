@@ -1,0 +1,62 @@
+Exemplar: CA1851-007030
+Earliest: CA1851-007030
+Documents in cluster: 5
+Cluster ID: 2140
+
+-----------------------------------------------
+
+CA1851-007030
+
+639. In all actions for violation of an ordinance where the fine, forfeiture, or
+penalty imposed by‘ the ordinance is less than fifty dollars, the trial shall be
+by the Court. In actions where the fine, forfeiture, or penalty imposed by the
+ordinance is over fifty dollars, the defendant shall be entitled, if demanded by
+him, to a jury of six persons.
+
+-----------------------------------------------
+
+
+CA1858-006910
+
+639. In all cases for violation of an ordinance where the fine, forfeiture, or
+penalty imposed by the ordinance, is less than fifty dollars,. the trial shall’
+be by the court. In actions where the fine, forfeiture, or penalty imposed
+by the ordinance, is over fifty dollars, the defendant shall be entitled, if
+demanded by him, to a jury of six persons.
+
+-----------------------------------------------
+
+
+CA1868-006360
+
+839. In all actions for violation of an ordinance where the line, forfeiture, or
+penalty imposed by the ordinance is lees than lift.y dollars, the trial shall be
+by the court. In actions where the fine, forfeiture, or penalty imposed by the
+ordinance is over fift y dollars, the defendant shnll be enti­ tied, if demanded
+by him, to a jury of six persons.
+
+-----------------------------------------------
+
+
+CA1872-007530
+
+932. In all actions for violation of an ordinance, where the fine, forfeiture,
+or penalty imposed by the ordinance is less than fifty dollars, the trial must
+be by the Court. In actions where the fine, forfeiture, or penalty imposed by
+the ordinance is over iifty d'ollars, the defendant is entitled to a trial by
+jury.
+
+-----------------------------------------------
+
+
+CA1880-010130
+
+932. In all actions for violation of an ordinance, where the fine, forfeiture,
+or penalty imposed by the or dinance is less than fifty dollars, the trial must
+be by the court. In actions where the fine, forfeiture, or penalty im posed by
+the ordinance is over fifty dollars, the defendant is entitled to a trial by
+jury.
+
+-----------------------------------------------
+
+

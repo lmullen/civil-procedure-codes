@@ -1,0 +1,123 @@
+Exemplar: CA1872-006830
+Earliest: CA1872-006830
+Documents in cluster: 10
+Cluster ID: 2432
+
+-----------------------------------------------
+
+CA1872-006830
+
+858. The proceedings on demurrer are as follows: 1. If the demurrer to the
+complaint is sustained, the plaintifff may, Within such time, not exceeding
+two days, as the Court allows, amend his complaint; 2. If the demurrer to a
+complaint is overruled, the defendant may answer forthwith; 3. If the demurrer
+to an answer is sustained, the defendant may amend his answer within such time,
+not exceeding two days, as the Court may allow; 4. If the demurrer to an answer
+is overruled, the action must proceed as if no demurrer had been interposed.
+
+-----------------------------------------------
+
+
+CA1880-009390
+
+858. The proceedings on demurrer are as follows : 1. If the demurrer to the
+complaint is sustained, the plaintifff may, within such time, not exceeding
+two days, as the court allows, amend his complaint; 2. If the demurrer to a
+complaint is overruled, the de fendant may answer forthwith ; 3. If the demurrer
+to an answer is sustained, the de fendant may amend his answer within such time,
+not ex ceeding two days, as the court may allow; 4. If the demurrer to an answer
+is overruled, the action must proceed as if no demurrer had been interposed.
+Proceedings on demurrer—compare sees. 472, 636.
+
+-----------------------------------------------
+
+
+ID1881-006150
+
+569. The proceedings on demurrer are as folows: 1. If the demurrer to the
+complaint is sustained,Qthe plaintifff may, within such time, not exceeding
+two days, as the Court allows, amend his complaint; 2. If the demurrer to a
+complaint is overruled, the defendant may answer forthwith; 3. If the demurrer
+to an answer is sustained, the defendant may amend his answer within such time,
+not exceeding two days, as the Court may allow; 4. If the demurmr to an answer
+is overruled, the actigp must proceed as if no demurrer had been interD6 .
+
+-----------------------------------------------
+
+
+DT1887-014670
+
+6064. The proceedings 011 demurrer are as follows: 1. If the demurrer to the
+complaint is sustained, the plaintifff may, within such time, not exceeding
+two days, as the court allows, amend his complaint. 2. If the demurrer to a
+complaint is overruled, the defendant may answer forthwith. 3. If the demurrer
+to an answer is sustained, the defendant may amend his answer within such
+time, not exceeding two days, as the court may allow. 4. If the demurrer to a11
+answer is overruled, the plaintifff may, if the answer contain new matter, reply
+forthwith. If the answer does not contain new matter, the action must proceed as
+if no demurrer had been interposed.
+
+-----------------------------------------------
+
+
+OK1891-009230
+
+7. The proceedings on demurrer are as follows: First. If the demurrer to the
+complaint is sustained, the plaintifff may, within such time, not exceeding
+two days, as the court allows, amend his complaint. Second. If the demurrer
+to a complaint is overruled, the defendant may answer forthwith. Third. If the
+demurrer to an answer be sustained, the defendant may amend his answer within
+such time, not exceeding two days, as the court may allow. ' Fourth. If the
+demurrer to an answer is overruled, the plaintifff may, if the answer contain
+new matter, reply forthwith. If the answer does not contain new matter, the
+action must proceed as if no demurrer had been interposed.
+
+-----------------------------------------------
+
+
+MT1895-008590
+
+1527. The proceedings on demurrer are as follows. 1. If the demurrer to the
+complaint is sustained, the plaintifff may, within such time, not exceeding
+two days, as the court allows, amend his complaint. 2. If the demurrer to
+a complaint is overruled, the defendant may answer forthwith . .3'· If the
+demurrer to an answer is sustained, the defendant may amend his answer within
+such time, not exceeding two days, as the court may allow. 4. If the demurrer
+to an answer is overruled, the action must proceed as if no demurrer had been
+interposed.
+
+-----------------------------------------------
+
+
+UT1898-015530
+
+1. If the demurrer to the complaint is sustained, the plaintifff may, within
+such time, not exceeding two days, as the court allows, amend his complaint.
+
+-----------------------------------------------
+
+
+UT1898-015540
+
+2. If the demurrer to a complaint is overruled, the defendant may answer
+forthwith.
+
+-----------------------------------------------
+
+
+UT1898-015550
+
+3. If the demurrer to an answer is sustained, the defendant may amend his answer
+within such time, not exceeding two days, as the court may allow.
+
+-----------------------------------------------
+
+
+UT1898-015560
+
+4. If the demurrer to an answer is overruled, the action must proceed as if no
+demurrer had been interposed. [C. L. § 3563. Cal. C. Civ. P. I 8.18.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,203 @@
+Exemplar: CA1872-008630
+Earliest: CA1851-005260
+Documents in cluster: 19
+Cluster ID: 2463
+
+-----------------------------------------------
+
+CA1851-005260
+
+471. On the return day of the alternative, or the day on which the I application
+of the writ is noticed, or such further day as the Court may i allow, the party
+on whom the writ or notice shall have been served may ' show cause by answer
+under oath, made in the same manner as an answer to a complaint in a civil
+action.
+
+-----------------------------------------------
+
+
+CA1858-005180
+
+471. On the return of the alternative, or the day on which the applicationof the
+writ is noticed, or such further day as the court may allow, the party on whom
+the writ or notice may have been served, may show cause by answer under oath,
+made in the same manner as an answer to a complaint in a civil action.
+
+-----------------------------------------------
+
+
+NV1861-004660
+
+418. On the return ay of the alternative, or the day on which the application
+of the writ is noticed, or such further day as the court may allow, the party on
+whom the writ or notice shall have been served, may show cause by answer under
+oath, made in the same manner as an answer to a complaint in a civil action.
+
+-----------------------------------------------
+
+
+ID1864-004790
+
+429. On the return da of the alternative, or the day on which the application
+of t e writ is noticed, or such further day as the court may allow, the party on
+whom the writ or notice shall have been served, may show cause by answer under
+oath, made in the same manner as an answer to a complaint in a civil action.
+
+-----------------------------------------------
+
+
+AZ1865-004740
+
+473. On the return day of the alternative, or the day on which the application
+of the writ is noticed, or such further day as the court may allow, the party
+on whom the writ or notice shall have been served may show cause by answer under
+oath, made in the same manner as an answer to a complaint in a civil action. '
+" .
+
+-----------------------------------------------
+
+
+MT1865-004270
+
+387. On the return day of the alternative, or the day on which the application
+of the writ is noticed, or such further day as the court may allow, the party on
+whom the writ or notice shall have been served, may show cause, by answer, under
+oath, made in the same manner as an answer to a complaint in a civil action.
+
+-----------------------------------------------
+
+
+CA1868-004720
+
+471. On the retnrn day of the alternative, or the day on which the application
+of the writ is noticed, or such further day as the court may allow, the party
+on whom the writ or notice sball have been served may show cause by answer under
+oath, made in the same manner as an answer i.o a complaint in a civil action.
+
+-----------------------------------------------
+
+
+NV1869-004970
+
+451. On the return day of the alternative, or the day on which the application
+of the writ is noticed, or such further day as the Court may allow, the party
+on whom the writ or notice shall have been served may show cause by answer under
+oath, made in the same manner as an answer to a complaint in a civil action. ,
+
+-----------------------------------------------
+
+
+UT1870-004910
+
+449. On t e return da of the alternative, or the 1 day on which the a plication
+of t e writ is noticed, or such V further day as the (gurt ma allow, the party
+on whom the writ or notice shall have een served may show cause by answer under
+oath, made in the same manner as an answer to a complaint in a civil action.
+
+-----------------------------------------------
+
+
+CA1872-008630
+
+1089. On the return of the alternative, or the day on which the application
+for the writ is noticed, the party on whom the writ or notice has been served
+may show cause by answer, under oath, made in the same manner as an answer to a
+complaint in a civil action.
+
+-----------------------------------------------
+
+
+ND1877-007320
+
+699. On the return of the alternative writ, or the day on which the application
+for the writ is noticed, the party on whom the writ or notice has been served
+may show cause by answer, under oath, made in the same manner as an answer to a
+complaint in a civil action.
+
+-----------------------------------------------
+
+
+AZ1877-003720
+
+473. On the return day of the alternative, or the day on which the application
+of the writ is noticed, or such further day as the court may allow, the party
+on whom the writ or notice shall have been served may show cause by answer under
+oath, made in the same manner as an answer to a complaint in a civil action.
+
+-----------------------------------------------
+
+
+CO1877-003520
+
+305-. On the return of the alternative, or the day; on which the application
+of the writ is noticed, or such‘ further day as the court or judge may allow
+the party on whom-the writ or notice shall have been served, may show cause
+by answer under oath, made in the same manner as an answer to a complaint in a
+civil action.
+
+-----------------------------------------------
+
+
+CA1880-011510
+
+1089. On the return of the alternative, or the day on which the application
+for the writ is noticed, the party on whom the writ or notice has been served
+may show cause by answer under oath, made in the same manner as an answer to a
+complaint in a civil action. Answer—sec. 437, and notes; 27 Cal. 655.
+
+-----------------------------------------------
+
+
+ID1881-007970
+
+742. On the return of the alternative, or the day on which the application for
+the writ is noticed, the party on whom the writ or notice has been served may
+show cause by answer, under oath, made in the same manner as an answer to a
+complaint in a civil action.
+
+-----------------------------------------------
+
+
+CO1884-002430
+
+337. ($05.) On the return of the alternative, of the day on which the
+application of the writ is noticed, or such further day as the court or judge
+may allow, the party on wh_0m the writ or notice shall have been served, may
+show cause by answer under oath, made in the same manner as an answer to a
+complaint in a civil action. [-lury, verdiet—ﬂ-rtltled—0rder—(‘ounty llt§l5"lt|
+lt'tl 'Damages.]
+
+-----------------------------------------------
+
+
+DT1887-008740
+
+5521. On the return of the alternative writ, or the day on which the application
+for the writ is noticed, the party on whom the writ or notice has been served
+may show cause by answer, under oath, made i11 the same manner as a11. answer to
+a complaint in a civil action,
+
+-----------------------------------------------
+
+
+MT1895-010970
+
+1965. On the return of the alternative, or the day on which the applica­ tion
+for the writ is noticed, the party on whom the writ or notice has been served
+may show cause by answer under oath, made in the same manner as an answer to a
+complaint in a civil action.
+
+-----------------------------------------------
+
+
+UT1898-014630
+
+3645. Answer. Verification. On the return day of the alternative, or the day on
+which the application for the writ is noticed, (or such further day as the court
+may allow, ) the party on whom the writ or notice has been served may show cause
+by answer under oath, made in the same manner as an answer to a complaint in a
+civil action. [C. L. § 3734. Cal. C. Civ. P. i 1089*.
+
+-----------------------------------------------
+
+

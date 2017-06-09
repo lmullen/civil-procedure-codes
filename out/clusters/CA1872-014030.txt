@@ -1,0 +1,73 @@
+Exemplar: AZ1887-007600
+Earliest: CA1872-014030
+Documents in cluster: 5
+Cluster ID: 1860
+
+-----------------------------------------------
+
+CA1872-014030
+
+1791. All sales of real estate of wards must be for cash, or for part cash and
+part deferred payments, not to exceed three years, hearing date from date of
+sale, as, in the discretion of the Probate Judge, is most beneiicial to the
+ward. Guardians making sales must demand and receive from the purchasers bond
+and mortgage on the real estate sold, with such additional security as the Judge
+deems necessary and sufiicient to secure the faithful payment of the deferred
+payments and the interest thereon.
+
+-----------------------------------------------
+
+
+CA1880-018290
+
+1791. All sales of real estate of wards must be for cash, or for part cash and
+part deferred payments, the credit in no case to exceed three years from date
+of sale, as in the discretion of the court is most beneficial to the ward.
+Guardians making sales must demand and receive from the purchasers, in case of
+deferred pay ments, notes, and a mortgage on the real estate sold, with such
+additional Becurity as the court deems neces sary and sufficient to secure the
+prompt payment of the amounts so deferred, and the interest thereon. [In effect
+April 15th, 1880.]
+
+-----------------------------------------------
+
+
+AZ1887-007600
+
+400. All sales of real estate of wards must be for cash, or for part cash and
+part deferred payments, not to exceed three years, hearing date from date of
+sale, as in the discretion of the probate judge is most beneficial to the ward.
+Guardians making sales must demand and receive from the purchasers bond and
+mortgage on the real estate sold, with such additional security as the judge
+deems necessary and sufficient to secure the faithful payment of the deferred
+payments and the interest thereon.
+
+-----------------------------------------------
+
+
+DT1887-014190
+
+6023. All sales of real estate of wards must be for cash.. or for part cash and
+part deferred payments, not to exceed 'three­ years, bearing date from date of
+sale, as, in the discretion of theprobate judge is most beneficial to the ward.
+Guardians making sales must demancl and receive from the purchasers bond and
+mortgage 011 the real estate sold, with such additional security as. the judge
+deems necessary and sufficient to secure the faithful . payment of the deferred
+payments and the interest thereon.
+
+-----------------------------------------------
+
+
+MT1895-016890
+
+3014. All sales of real estate of wards, must be for cash, or for part cash and
+part def erred payments, the credit in no case to exceed three years from date
+of sale, as in the discretion of the court or judge is most beneficial to the
+ward. Guardians making sales must demand and receive from the pur- chasers, in
+case of def erred payments, notes and a mortgage on the real estate sold, with
+such additional security as the court or judge deems necessary and sufficient to
+secure the prompt payments of the amounts so deferred and the interests thereon.
+
+-----------------------------------------------
+
+

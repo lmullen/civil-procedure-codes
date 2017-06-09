@@ -1,0 +1,57 @@
+Exemplar: NE1866-007920
+Earliest: IA1851-006550
+Documents in cluster: 5
+Cluster ID: 10545
+
+-----------------------------------------------
+
+IA1851-006550
+
+2163. If the defendant be found to have exercised merely certain individual
+powers and privileges to which he was not entitled, the jugment shall be the
+same as above directed, but only in relation to those particulars in which he is
+thus exceeding the lawful exercise of his rights and privileges.
+
+-----------------------------------------------
+
+
+NE1855-006550
+
+2163. If the defendant be found to have exercised merely certain individual
+powers and privileges to which he was not entitled, the jugment shall be the
+same as above directed, but only in relation to those particulars in which he is
+thus exceeding the lawful exercise of his rights and privileges.
+
+-----------------------------------------------
+
+
+NE1857-005770
+
+13. If the defendant be found to have exercised merely certain individual powers
+and privileges to which he was not entitled, the judgment shall be the same as
+above directed, but only in relation to those particulars in which he is thus
+exceeding the lawful exercise of his rights and privileges.
+
+-----------------------------------------------
+
+
+NE1866-007920
+
+716. If the defendant be found to have exercised merely certain individual
+powers and privileges to which he was not entitled, the judgment shall be the
+same as above directed, but only in relation to those particulars in which he is
+thus exceeding the lawful exercise of his rights and privileges.
+
+-----------------------------------------------
+
+
+WY1870-007630
+
+736. If the defendant be found to have exercised merely certain individual
+powers and privileges to which he was not entitled, the judgment shall be the
+same as above directed, but only in relation to those particulars in which he is
+thus exceeding the lawful exercise of its rights and privileges. ‘
+
+-----------------------------------------------
+
+

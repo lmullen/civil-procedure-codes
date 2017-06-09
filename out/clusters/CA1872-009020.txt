@@ -1,0 +1,53 @@
+Exemplar: CA1872-009020
+Earliest: CA1872-009020
+Documents in cluster: 5
+Cluster ID: 2478
+
+-----------------------------------------------
+
+CA1872-009020
+
+1143. Any person confined in jail, on an execution issued on a judgment rendered
+in a civil action, must be discharged therefrom upon the conditions in this
+Chapter specified.
+
+-----------------------------------------------
+
+
+CA1880-011960
+
+1143. Any person confined in jail on an execution issued on a judgment rendered
+in a civil action, ruust be discharged therefrom upon the conditions in this
+chapter specified.
+
+-----------------------------------------------
+
+
+ID1881-008420
+
+783. Any person confined in jail, on an execution issued on a udgment rendered
+in a civil action, must be discharged therefrom upon the conditions in this
+Chapter specified.
+
+-----------------------------------------------
+
+
+MT1895-011480
+
+2060. Any person confined in jail on an execution issued on a judg­ ment
+rendered in a civil action, must be discharged therefrom upon the condi­ tions
+of this Chapter specified.
+
+-----------------------------------------------
+
+
+UT1898-003500
+
+3036. Discharge from arrest as provided in this chapter. Any person confined in
+jail on an execution issued on a judgment recovered in a civil action, must be
+discharged therefrom upon the conditions in this chapter speci fied. [C. L. §
+3774. Cal. C. Civ. P. \ 1143. Execution against the person, \\ 3233, 3236.
+
+-----------------------------------------------
+
+

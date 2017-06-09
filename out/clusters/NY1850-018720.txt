@@ -1,0 +1,42 @@
+Exemplar: CA1880-019420
+Earliest: NY1850-018720
+Documents in cluster: 5
+Cluster ID: 2942
+
+-----------------------------------------------
+
+NY1850-018720
+
+1712. Writings are of two kinds: 1. Public: and, 2. Private.
+
+-----------------------------------------------
+
+
+NY1853-017890
+
+1645. Writings are of two kinds: 1. Public: and, 2. Private.
+
+-----------------------------------------------
+
+
+OR1862-008250
+
+704. Writings are of two kinds: 1. Public; and, 2. Private.
+
+-----------------------------------------------
+
+
+CA1872-014850
+
+1887. Writings are of two kinds: 1. Public; and, 2. Private.
+
+-----------------------------------------------
+
+
+CA1880-019420
+
+1887. "Writings are of two kinds: 1. Public; and, 2. Private.
+
+-----------------------------------------------
+
+

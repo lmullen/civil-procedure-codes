@@ -1,0 +1,150 @@
+Exemplar: CA1858-000260
+Earliest: CA1850-000270
+Documents in cluster: 13
+Cluster ID: 2145
+
+-----------------------------------------------
+
+CA1850-000270
+
+22. Civil Actions in the District Court shall be commenced by the filing of a
+complaint with the Clerk of the Court in which the action is brought, who shall
+endorse on it the day, month, and year, when he received it.
+
+-----------------------------------------------
+
+
+CA1851-000260
+
+22. Civil actions in the District Courts, Superior Court of the City of
+San Francisco, and the County Courts, shall be commenced by the filing of a
+complaint with the Clerk of the Court in which the action is brought, and the
+issuance of a summons thereon.
+
+-----------------------------------------------
+
+
+CA1858-000260
+
+22. Civil actions in the district courts and the county courts, shall be
+‘commenced by the filing of a complaint with the clerk of the court in which the
+action is brought, and the issuing of a summons thereon. Provided, that after
+the filing of the complaint, a defendant in the action may appear, answer or
+demur, whether the summons has been issued or not, and such appearance, answer
+or demurrer, shall be deemed a waiver of summons.
+
+-----------------------------------------------
+
+
+NV1861-000240
+
+22. Civil actions in the district court, and the probate courts, shall be
+commenced by the filing of a com laint with the clerk of the court in which the
+action is brought, and the: issuing of a summons thereon; provided, that, after
+the filing of the complaint, a defendant in the action may appear, answer or
+demur, whether the summons has been issued or not, and such appearance, answer
+or demurrer, shall be deemed a waiver of summons.
+
+-----------------------------------------------
+
+
+ID1864-000260
+
+22. Civil actions in the district court, and the probate courts, shall be
+commenced b the filing of a com laint with the clerk of the court in whic the
+action is brou E issuing of a summons thereon: Provided, That the filing of the
+complaint, a defendant in the action may ap ear, answer or demur, whether the
+summons has been issue or not, and such appearance, answer or demurer, shallbe
+deemed awaiver of summons.
+
+-----------------------------------------------
+
+
+MT1865-000240
+
+22. Civil actions in the district and probate courts shall be commenced by
+the filing of a complaint with the clerk of the court in which the action is
+brought, and the issuing of a summons thereon, Provided, that after the filing
+of the complaint, a defendant in the action may appear‘, answer or demur,
+whether the summons has been issued or not, and such appearance, answer or
+demur(r)er shall be deemed a waiver of summons.
+
+-----------------------------------------------
+
+
+AZ1865-000230
+
+22. Civil. actions in the district courts shall :be commenced by the filing. of
+a complaint with the clerk of the court in which the action is brought, and'the-
+issuance of a summons thereon. - /
+
+-----------------------------------------------
+
+
+CA1868-000250
+
+22. Civil actions in the district courts, superior court of the City of
+San Francisco, and the county courts, shall be commenced by the filing of a
+complaint with the clerk of the court in which the action is brought, and the
+issuing of a summons thereon; provided, that after the tiling of the com­ plaint
+a defendant in the action may appear, answer or demur, whether the summons has
+been issued or not; and such appearauce, answer or demurrer· shall be deemed a
+waiver of summons.
+
+-----------------------------------------------
+
+
+NV1869-000260
+
+22. Civil action in the District Courts shall be commenced by the filing of' a
+complaint with the Clerk of the Court, and the issuance of a summons thereon;
+provided, that after the filing of the com- I plaint a defendant in the action
+may appear, answer or demur, whether the summons has been issued or not, and
+such appearance, answer or demurrer, shall be deemed a waiver of summons.
+
+-----------------------------------------------
+
+
+UT1870-000240
+
+22. Civil action in the courts shall be commenced by the. filing of
+acomplaintwith the Clerk of the Court, and the issuanceof a summons thereon;
+provided, that after the a filing of the complaint a defendant in the action may
+appear, answer or demur, whethergthe summons has been issued or not, and such ap
+arance,; answer .or demurrer, shall be deemed a waiver o the summons. ' ‘ ~
+
+-----------------------------------------------
+
+
+WY1870-000660
+
+60. A civil action must be commenced by filing in the oilice of the clerk of
+the proper court a petition, and causing summons to be issued thereon; Provided,
+That after the filing of the petition any defendant in the action may appear
+and answer or demur, whether the summons has been issued or not, and such
+appearance, answer or demurrer, shall be deemed a waiver of summons.
+
+-----------------------------------------------
+
+
+CO1877-000320
+
+29. Civil actions in the district courts and; county courts shall be commenced
+by the filing of a com-. plaint with the clerk of the court in which the action
+is brought, and the issuing of a summons therein; provided, that afterthe filing
+of the complaint a defendant in the action may enter his appearance therein,
+personally or by attorney, which appearance shall be equivalent to personal
+service of the summons upon him.
+
+-----------------------------------------------
+
+
+AZ1877-000280
+
+22. Civil actions in the district courts shall be commenced by the filing of
+a complaint with the clerk of the couit in which the action is brought and the
+issuance of a summons thereon.
+
+-----------------------------------------------
+
+

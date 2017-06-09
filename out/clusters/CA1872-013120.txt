@@ -1,0 +1,73 @@
+Exemplar: AZ1887-006500
+Earliest: CA1872-013120
+Documents in cluster: 6
+Cluster ID: 1839
+
+-----------------------------------------------
+
+CA1872-013120
+
+1679. When both distribution and partition are made, the several shares in the
+real and personal estate must be set out to each, individual in proportion to
+his right, by metes and bounds, or description, so that the same can be easily
+distinguished, unless two or more of the parties interested consent to have
+their shares setiout so as to be held by them in common and undivided.
+
+-----------------------------------------------
+
+
+WA1873-009350
+
+324. The several shares in the real · and per­ sonal estate shall be set out
+to each-Individual in proportion to his right, by such metes, bounds· and
+descriptions, that the same may be easily distinguished, unless two or more of
+the parties shall consent to have their shares set out so as to be held by them
+in common and undivided.
+
+-----------------------------------------------
+
+
+CA1880-017260
+
+1679. When both distribution and partition are made, the several shares in the
+real and personal estate must be set out to each individual in proportion to
+his right, by metes and bounds, or description, so that the same can be easily
+distinguished, unless two or more of the parties in terested consent to have
+their shares set out so as to be held by them in common and undivided.
+
+-----------------------------------------------
+
+
+AZ1887-006500
+
+293. When both distribution and partition are made the several shares in the
+real and personal estate must be set out to each individual in proportion to
+his right by metes and bounds or description, so that the same can be easily
+distinguished, unless two or more of the parties interested consent to have
+their shares set out so as to be held by them in common and undivided.
+
+-----------------------------------------------
+
+
+DT1887-013090
+
+5933. When both distribution and partition are made, the several shares in the
+real and personal estate must be set out to each individual in proportion to
+his right, by metes and bounds, or description, so that the same can be easily
+distin .. guished, unless two or more of the parties interested consent to have
+their shares set out so as to be held by them in common and undi vided. ·
+
+-----------------------------------------------
+
+
+MT1895-016010
+
+2864. When both distribution and partition are made, the several shares in the
+real and personal estate must be set out to each individual in pro­ portion to
+his right, by metes and bounds, or description, so that the same can be easily
+distinguished, unless two or more of the parties interested consent to 'have
+their shares set out so as to be held by them in common and undivided.
+
+-----------------------------------------------
+
+

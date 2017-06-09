@@ -1,0 +1,63 @@
+Exemplar: AZ1887-004490
+Earliest: CA1872-011140
+Documents in cluster: 5
+Cluster ID: 1779
+
+-----------------------------------------------
+
+CA1872-011140
+
+1423. If, aiter granting letters of administration on the ground of intestacy,
+a will of the decedent is duly proved and allowed by the Court, the letters of
+administration must be revoked, and the power of the administrator ceases, and
+he must render an account of his administration within such time as the Court
+shall direct.
+
+-----------------------------------------------
+
+
+CA1880-014800
+
+1423. If, after granting letters of administration on the ground of intestacy,
+a will of the decedent is duly proved and allowed by the court, the letters of
+adminis tration must be revoked, and the power of the adminis trator ceases, and
+he must render an account of his ad ministration within such time as the court
+shall direct. Letters must be revoked—but formal removal unnecessary, 49 Cal. t
+497. Account of administration—sec. 622 et acq.
+
+-----------------------------------------------
+
+
+AZ1887-004490
+
+98. If, after granting letters of administration on the ground of intestacy,
+a will of the decedent is duly proved and allowed by the court, the letters of
+administration must be revoked, and the power of the administrator ceases, and
+he must render an account of his administration within such time as the court
+shall direct.
+
+-----------------------------------------------
+
+
+DT1887-010900
+
+5751. If, after granting letters of administration on the ·ground of intestacy,
+a will of the decedent is duly proved and allowed by the court, the letters of
+administration must be revoked, and the power of the administrator ceases, a11d
+he must 'render an account of his administration within such time as the court
+shall direct.
+
+-----------------------------------------------
+
+
+MT1895-013850
+
+2510. If, after granting letters of administration on the ground of in­ testacy,
+a will of the decedent is duly proved and allowed by the court or judge, the
+letters of administration must be revoked, and the power of the ad­ ministrator
+ceases, and he must render an account of his administration within such time as
+the court or judge shall direct.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,57 @@
+Exemplar: NE1855-003060
+Earliest: IA1851-003060
+Documents in cluster: 5
+Cluster ID: 10138
+
+-----------------------------------------------
+
+IA1851-003060
+
+1830. In other cases the court shall assess the damages unless a jury be
+demanded by the party not in default.
+
+-----------------------------------------------
+
+
+NE1855-003060
+
+1830. In other cases the court shall assess the damages unless a jury be
+demanded by the party not in default.
+
+-----------------------------------------------
+
+
+NE1857-003610
+
+16. In other cases, the court shall assess the damages, unless a jury be
+demanded by the party not in fault.
+
+-----------------------------------------------
+
+
+IA1859-004860
+
+550. When the action is for a money demand, and the amount of' the proper
+judgment is a mere matter of computation, the Clerk shall ascertain the amount.
+When 1ong accounts are to be examined, the Court may refer the matter. In other
+cases the Court shall assess the damages, unless a jury be demanded by the party
+not in default. The proper amount having been ascertained by either of the above
+methods, judgment shall be rendered therefore.
+
+-----------------------------------------------
+
+
+NM1897-005030
+
+3000. In case of default adjudged against a party for non-appearance or for
+failure to plead or amend his pleadings. as required by law or the rules of
+the court, when the action is for a money demand, and the amount of the proper
+judgment is a mere matter of computation, the clerk shall ascertain the amount.
+When long accounts are to be examined the court may refer the matter. In other
+cases the court shall assess the damages unless a jury be demanded by the party
+not in default. The proper amount having been ascertained by either of the above
+methods, judgment shall be rendered therefore.
+
+-----------------------------------------------
+
+

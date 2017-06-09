@@ -1,0 +1,64 @@
+Exemplar: CA1858-006900
+Earliest: CA1851-007020
+Documents in cluster: 6
+Cluster ID: 2267
+
+-----------------------------------------------
+
+CA1851-007020
+
+638. On the return of the summons the defendant may plead to the complaint, or
+he may answer or deny the same. Such plea, answer, or denial, may be oral or
+in writing, and immediately thereafter the case shall be tried, unless for good
+cause shown an adjournment be granted.
+
+-----------------------------------------------
+
+
+CA1858-006900
+
+638. On the return of the summons the defendant may plead to the complaint, or
+he may answer or deny the same. Such plea, answer, or denial, may be oral or
+in writing, and immediately thereafter the case shall be tried, unless for good
+cause shown, an adjournment be granted.
+
+-----------------------------------------------
+
+
+CA1868-006350
+
+638. On the return of the summons the defendant may plead to the complaint, or
+he may answer or deny the same. Such plea, answer, or denial, may be oral or
+in writing, and immediately thereafter the case shall be tried, unlees for good
+cause shown an adjournment be granted.
+
+-----------------------------------------------
+
+
+CA1872-007520
+
+931. On the return of the summons, the defendant may answer the complaint. The
+answer may be oral or in Writing, and immediately thereafter the case must be
+tried, unless, for good cause shown, an adjournment is granted.
+
+-----------------------------------------------
+
+
+CA1880-010120
+
+931. On the return of the summons the defendant may answer the complaint. The
+answer may be oral or in writing, and immediately thereafter the case must be
+tried, unless, for good cause shown, an adjournment is granted.
+
+-----------------------------------------------
+
+
+MT1895-009540
+
+1702. On the return of the summons the defendant may answer the complaint. The
+answer may be oral or in writing, and immediately thereafter the case must be
+tried, unless, for good cause shown, an adjournment is granted.
+
+-----------------------------------------------
+
+

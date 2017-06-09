@@ -1,0 +1,79 @@
+Exemplar: KS1859-004750
+Earliest: OH1853-004710
+Documents in cluster: 8
+Cluster ID: 7215
+
+-----------------------------------------------
+
+OH1853-004710
+
+415. When a judgment is recovered against one or more persons jointly indebted
+upon contract, those who were not originally summoned, may be made parties to
+the judgment by action. '
+
+-----------------------------------------------
+
+
+KS1859-004750
+
+427. When a judgment is recovered against one or more.‘ persons jointly indebted
+upon contract, those who were not originally summoned may be made parties to the
+judgment by ‘action.
+
+-----------------------------------------------
+
+
+NE1859-004980
+
+429. When a judgment is recovered against one or more persons jointly indebted
+upon contract, those who were not originally summoned may be made parties to the
+judgment by action.
+
+-----------------------------------------------
+
+
+DT1862-004470
+
+427. When a judgment is recovered against oge or more persons, jointly indebted
+upon contract, those who were not originally summoned may be made parties to the
+judgment by action.
+
+-----------------------------------------------
+
+
+NE1866-005230
+
+471. When a judgment is recovered against one or more persons jointly indebted
+upon contract, those who were not originally summoned may be made parties to the
+judgment by action.
+
+-----------------------------------------------
+
+
+KS1868-004360
+
+438. When a judgment is recovered against one or more persons, jointly indebted
+upon contract, those who were not originally summoned may be made parties to the
+judgment, by action.
+
+-----------------------------------------------
+
+
+WY1870-004860
+
+467. When a judgment is recovered against one or more persons jointly indebted
+upon contract,,those who were not originally summoned may be made parties to the
+judgment by action.
+
+-----------------------------------------------
+
+
+OK1893-004970
+
+11. When a judgment is recovered against one or more persons, jointly indebted
+upon contract, those who were not originally summoned may be made parties to the
+judgment, by ofaction.
+
+-----------------------------------------------
+
+

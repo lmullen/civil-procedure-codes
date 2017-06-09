@@ -1,0 +1,54 @@
+Exemplar: NY1853-018440
+Earliest: NY1850-019900
+Documents in cluster: 5
+Cluster ID: 12541
+
+-----------------------------------------------
+
+NY1850-019900
+
+1822. The deposition of a witness out of the state: may be taken upon commission
+issued from the court or, without commission, before a commissioner appointed by
+the governor of this state to take depositions in other states.
+
+-----------------------------------------------
+
+
+NY1853-018440
+
+1697. The deposition of a witness out of the state, may be taken upon commission
+issued from the court, or, without commission, before a commissioner appointed
+by the governor of this state to take depositions in other states.
+
+-----------------------------------------------
+
+
+OR1862-009490
+
+806. The deposition of a witness out of the state, may be taken upon commission
+issued from the court, or without commission, before a commissioner appointed by
+the governor of this state to take depositions in other states or countries.
+
+-----------------------------------------------
+
+
+OR1892-009610
+
+816. [806.] The deposition of a witness out of the state may be taken upon
+commission issued from the court, or without commission before a commissioner
+appointed by the governor of this state to take deposi tions in other states or
+countries. on. 11,1862, 3‘ am. Commission, how and by whom issued.
+
+-----------------------------------------------
+
+
+AK1900-007090
+
+645. The deposition of a Witness out of the district may be taken upon
+commission issued from the court, or Without commission before a commissioner
+appointed by the overnor of the district to take depositions in any State,
+Territory, or istrict of the United States, or in any foreign country.
+
+-----------------------------------------------
+
+

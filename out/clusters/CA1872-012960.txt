@@ -1,0 +1,68 @@
+Exemplar: AZ1887-006320
+Earliest: CA1872-012960
+Documents in cluster: 5
+Cluster ID: 1833
+
+-----------------------------------------------
+
+CA1872-012960
+
+1651. If the Whole of the debts have been paid by the first distribution, the
+Court must direct the payment of legacies and the distribution of the estate
+among the heirs, legatees, or other persons entitled, as provided in the next
+Chapter; but if there be debts remaining unpaid, or if, for other reasons,
+the estate be not in a proper condition to be closed, the Court must give such
+extension of time as may be reasonable for a iinal settlement of the estate.
+
+-----------------------------------------------
+
+
+CA1880-017040
+
+1651. If the whole of the debts have been paid by the first distribution, the
+court must direct the payment of legacies and the distribution of the estate
+among the heirs, legatees, or other persons entitled, as provided in the next
+chapter; but if there be debts remaining unpaid, or if, for other reasons, the
+estate be not in a proper con dition to be closed, the court must give such
+extension of time as may be reasonable, for a final settlement of the estate.
+
+-----------------------------------------------
+
+
+AZ1887-006320
+
+276. If the whole of the debts have been paid by the first distribution, the
+court must direct the payment of legacies and the distribution of the estate
+among the heirs, legatees, or other persons entitled, as provided in the next
+chapter; but if there be debts remaining unpaid, or if, for other reasons,
+the estate be not in a proper condition to be closed, the court must give such
+extension of time as may be reasonable for a final settlement of the estate.
+
+-----------------------------------------------
+
+
+DT1887-012890
+
+5916. If the whole of the debts have been paid by the first clistribution, the
+court must direct the payment of legacies and the distribution of the estate
+among the heirs, legatees, or other persons entitled as provided in the next
+chapter; but if there be debts remaining unpaid, or, if, for other reasons,
+the estate be not in a proper condition to be closed, the court must give such
+extension of time as may be reasonable for a final set­ tlement of the estate.
+
+-----------------------------------------------
+
+
+MT1895-015790
+
+2818. If the whole of the debts have been paid by the first distribu­ tion, the
+court or judge must direct the payment of legacies and the distribution of the
+estate among the heirs, legatees, or other persons entitled, as provided in the
+next Chapter; but if there be debts remaining unpaid, or if, for other reasons,
+the estate be not in a proper condition to be closed, the court or judge must
+give such extension of time as may be reasonable, for the final settlement of
+the estate.
+
+-----------------------------------------------
+
+

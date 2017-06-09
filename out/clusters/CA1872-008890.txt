@@ -1,0 +1,76 @@
+Exemplar: MT1895-011300
+Earliest: CA1872-008890
+Documents in cluster: 5
+Cluster ID: 9831
+
+-----------------------------------------------
+
+CA1872-008890
+
+1122. The Court must be governed, in the trial and determination of such
+contested election, by the rules of law and evidence governing the determination
+of questions of law and fact, so far as the same may be applicable; and may
+dismiss the proceedings if the statement of the cause or causes of the contest
+is sufficient, or for want of prosecution. After hearing the proofs and
+allegations of the parties, the Court must pronounce judgment in the premises,
+either conf1rming or annulling and setting aside such election.
+
+-----------------------------------------------
+
+
+CA1880-011830
+
+1122. The pourt must be governed, in the trial and determination of such
+contested election, by the rules of law and evidence governing the determination
+of ques tions of law and fact, so far as the same may be applica ble; and may
+dismiss the proceedings if the statement of the cause or causes of the contest
+is insufficient, or for want of prosecution. After hearing the proofs and alle
+gations of the parties, the court must pronounce judg ment in the premises,
+either confirming or annulling and setting aside such election. Dismiss the
+proceedings—not discretionary, 15 Cal. 117. After hearing the proofs, etc.—no
+default, judgment obtainable by contestant, 34 Cal. 635; burden on contestant,
+12 Cal. 352.
+
+-----------------------------------------------
+
+
+ID1881-008260
+
+769. The Court must be governed, in the trial; and determination of such
+contested election, by the rules of law and evidence governing the determination
+of (‘uestions of law and fact, so far as the same may he app icable; and may
+dismiss the proceedings if the statement of the cause or causes of the contest
+is insntlicient, or for want of prosecution. After hearing the proofs and
+allegations of the parties, the Court must pronounce judgment in the premises,
+either confirming or annulling and setting aside such election.
+
+-----------------------------------------------
+
+
+UT1884-007460
+
+1004. The cou't must I)e governed, in the trial and determination of such
+contested election, Iby the rules 42 of law and evidence governing file
+deterinination of qestions of' liw and fitet, so fill as file same mia1y be
+applicable; and may dismiss the proceedings if the statemeat of, the catise
+or causes of the contest is insufficient, or fbir waNt of posecution. After
+hearing the proofI, and allegations of the parties, the court must prnoiunee
+iudgineit in the premises, either confiruing or Itiltlliug 'id setting aside
+such election.
+
+-----------------------------------------------
+
+
+MT1895-011300
+
+2021. The court must be governed, in the trial and determination of such
+contested election, by the rules of law and evidence governing the deter­
+mination of questions of law and fact, so far as the same may be applicable;
+and may dismiss the proceedings if the statement of the cause or causes of
+the contest is insufficient, or for want of prosecution. After hearing the
+proofs and allegations of the parties, the court must pronounce judgment in the
+premises,either confirming or annulling and setting aside such election.
+
+-----------------------------------------------
+
+

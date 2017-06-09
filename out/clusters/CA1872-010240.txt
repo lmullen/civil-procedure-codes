@@ -1,0 +1,68 @@
+Exemplar: CA1872-010240
+Earliest: CA1872-010240
+Documents in cluster: 5
+Cluster ID: 2532
+
+-----------------------------------------------
+
+CA1872-010240
+
+1301. If the person named in a will as executor, for thirty days after he has
+knowledge of the death of the testator, and that he is named as executor, fails
+to petition the proper Court for the probate of the will, and that letters
+testamentary be issued to him, he may be held to have renounced his right to
+letters, and the Court may appoint any other competent person administrator,
+unless good cause for delay is shown.
+
+-----------------------------------------------
+
+
+CA1880-013650
+
+1301. If the person named in a will as executor, for thirty days after he has
+knowledge of the death of the testator, and that he is named as executor, fails
+to peti tion the proper court for the probate of the will, and that letters
+testamentary be issued to him, he may be held to have renounced his right to
+letters, and the court may appoint any other competent person administrator,
+unless good cause for delay is shown. Failure of executor to petition—does not
+affect jurisdiction, 22 Cal. 395.
+
+-----------------------------------------------
+
+
+AZ1887-003570
+
+7. If the person named in a will as executor, for thirty days. after he has
+knowledge of the death of the testator, and that he is named as executor, fails
+to petition the proper court for the probate of the will, and that letters
+testamentary he issued to him, he has renounced his right to letters, and the
+court may appoint any other competent person administrator, unless good cause
+for delay is shown.
+
+-----------------------------------------------
+
+
+DT1887-009860
+
+5662. If tl1e person named in a will as executor. for thirty days after 11e
+has knowledge of the death of the testator, and that he is named as executor,
+fails to petition the proper court for the probate of the will, and that letters
+testamentary be issued to him, he may be held to have renounced his right to
+letters, ancl the court 111ay appoint any other competent person administrator,
+unless good cause for delay is shown.
+
+-----------------------------------------------
+
+
+MT1895-012960
+
+2323. If the person named in a will as executor, for thirty days after he has
+knowledge of the death of the testator, and that he is named as execu­ tor,
+fails to petition to the proper court for the probate of the will, and that
+letters testamentary be issued to him, he may be held to have renounced his
+right to letters, and the court or judge may appoint any other competent person
+administrator, unless good cause for delay is shown.
+
+-----------------------------------------------
+
+

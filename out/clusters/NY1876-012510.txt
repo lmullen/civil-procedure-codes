@@ -1,0 +1,54 @@
+Exemplar: NY1891-010460
+Earliest: NY1876-012510
+Documents in cluster: 5
+Cluster ID: 14824
+
+-----------------------------------------------
+
+NY1876-012510
+
+1164. When an issue of fact, to be tried by a jury, is brought to trial, the
+clerk, under the direction of the court, must openly draw, out of the box, as
+many of the ballots, one after another, as are sufficient to form a jury.
+
+-----------------------------------------------
+
+
+NY1879-012360
+
+1164. When an issue of fact, to be tried by a jury, is brought to trial, the
+clerk, under the direction of the court, must openly draw, out of the box, as
+many of the ballots, one after another, as are suffi­ cient. to form a jury.
+
+-----------------------------------------------
+
+
+NY1883-011530
+
+1164 Clerk to draw ballots. When an issue of fact to be tried by a jury, is
+brought to trial, the clerk, under the direction of the court must openly draw,
+out of the box, as many of the ballots, one after another, as are sufficient to
+form a jury.
+
+-----------------------------------------------
+
+
+NY1891-010460
+
+1164. When an issue of fact, to be tried by a jury, is brought to trial, the
+clerk, under the direction of the court, must openly draw, out of the box, as
+many of the ballots, one after another, as are sufficient to form a jury.
+
+-----------------------------------------------
+
+
+MT1895-005510
+
+1050. When an issue of fact, to be tried by a jury, is brought to trial, the
+clerk, under the direction of the court, must openly draw out of the trial juror
+box, as many of the ballots, one after another, as are sufficient to form a
+jury.
+
+-----------------------------------------------
+
+

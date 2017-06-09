@@ -1,0 +1,55 @@
+Exemplar: WA1855-004850
+Earliest: IN1852-007140
+Documents in cluster: 6
+Cluster ID: 20076
+
+-----------------------------------------------
+
+IN1852-007140
+
+730. No sheriff or other officer shall be liable to a civil action for obeying
+any writ of habeas cmyms or order of discharge made thereon.
+
+-----------------------------------------------
+
+
+WA1855-004850
+
+449. No sheriff or other officer shall be liable to a civil action for obeying
+any writ of habeas corpus or order of discharge made thereon. .
+
+-----------------------------------------------
+
+
+DC1857-006910
+
+13. The marshal or other officer shall not be liable to a ciril action for
+obeying any writ of habeas corpus, or order of discharge made thereon.
+
+-----------------------------------------------
+
+
+KS1868-006770
+
+676. No sheriff or other officer shall be liable to a civil action for obeying
+any writ of habeas corpus or order of discharge made thereon.
+
+-----------------------------------------------
+
+
+WA1873-005310
+
+488. No sheriff or other officer shall be liable to a civil action for obeying
+any writ of habeas corpus or order of discharge made thereon.
+
+-----------------------------------------------
+
+
+OK1893-007770
+
+11. No sheriff or other officer shall be liable to aluf civil action for obeying
+any writ of habeas corpus or order of discharge made thereon.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,65 @@
+Exemplar: CA1872-009850
+Earliest: CA1872-009850
+Documents in cluster: 5
+Cluster ID: 2518
+
+-----------------------------------------------
+
+CA1872-009850
+
+1246. All persons in occupation of, or having or claiming an interest in any
+of the property described in the complaint, or in the damages for the taking
+thereof, though not named, may appear, plead, and defend, each in respect to his
+own property or interest, or that claimed by him, in like manner as if named in
+the complaint.
+
+-----------------------------------------------
+
+
+CA1880-013080
+
+1246. All persons in occupation of, or having or claiming an interest in, any
+of the property described in the complaint, or in the damages for the taking
+thereof, though not named, may appear, plead, and defend, each in respect to his
+own property or interest, or that claimed by him, in like manner as if named in
+the complaint. Occupants—deemed owners, 7 Cal. 577. Interest in the property—
+adverse, 47 Cal. 549. Appearance—46 Cal. 19 : generally, sec. 1014. Plead and
+defend—cross-complaint, 47 Cal. 549: proceedings by-rival corporations, 23 Cal.
+323; 31 Cal. 215; 36 Cal. 639.
+
+-----------------------------------------------
+
+
+ID1881-009240
+
+859. All persons in occupation of, or having or claiming an interest in any
+of the pro ierty described in the complaint, or in the damages for the taking
+thereof, though not named, may appear, plead, and defend, each in respect to his
+own property or interest, or that claimed by him, in like manner as if named in
+the complaint.
+
+-----------------------------------------------
+
+
+MT1895-012390
+
+2219. All persons named in the complaint, in occupation of, or claim­ ing an
+interest in, any of the property described in the complaint, or in the damages,
+for the taking thereof, though not named, may appear, answer or de­ mur, each in
+respect to his own property or interest.
+
+-----------------------------------------------
+
+
+UT1898-013860
+
+3595. All parties in interest may appear. All persons in occupation of,
+or having or claiming an interest in, any of the property described in the
+complaint, or in the damages for the taking thereof, though not named, may
+appear, plead, and defend, each in respect to his own property or interest, or
+that claimed by him, in like manner as if named in the complaint. [C. L. § 3849.
+Cal. C. Civ. P. ? 1246.
+
+-----------------------------------------------
+
+

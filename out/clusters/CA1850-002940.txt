@@ -1,0 +1,104 @@
+Exemplar: AZ1865-003430
+Earliest: CA1850-002940
+Documents in cluster: 12
+Cluster ID: 1580
+
+-----------------------------------------------
+
+CA1850-002940
+
+274. The several periods of time, above limited, may be enlarged, upon good
+cause shown, by the Judge before whom the cause was tried, or by one of the
+Justices of the Supreme Court.
+
+-----------------------------------------------
+
+
+CA1851-003720
+
+340. The several periods of time above limited may be enlarged, upon good cause
+shown by the Judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+CA1858-003660
+
+340. The several periods of time above limited may be enlarged, upon good cause
+shown, by the judge before whom the cause wastried.
+
+-----------------------------------------------
+
+
+NV1861-003040
+
+278. The several periods of time above limited may be enlarged upon good cause
+shown by the judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+ID1864-003150
+
+288. Tlhe several perio s of time above limited may be enlarged upon good cause
+shown by the judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+AZ1865-003430
+
+342. The several periods of time above limited may be enlarged, upon good cause
+shown by the judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+MT1865-002740
+
+255. The several periods of time above limited may be enlarged upongood cause
+shown by the judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+CA1868-003450
+
+340. The several periods of time above limited may be enlarged, upon good cause
+shown by the judge before whom the cause w1U! tried.
+
+-----------------------------------------------
+
+
+NV1869-003630
+
+334. The several periods of time above limited may be enlarged, upon good cause
+shown, by the Judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+UT1870-003570
+
+332. The several periods of time above limited may be enlarged, upon good cause
+shown, by the Judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+AZ1877-002760
+
+342. The several periods of time above limited may be enlarged, upon good cause
+shown by the judge before whom the cause was tried.
+
+-----------------------------------------------
+
+
+CO1877-003950
+
+342. The several periods of time above limited may be enlarged, upon good cause
+shown, by the judge before whom the cause was tried.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,73 @@
+Exemplar: AZ1887-005980
+Earliest: CA1872-012640
+Documents in cluster: 6
+Cluster ID: 1820
+
+-----------------------------------------------
+
+CA1872-012640
+
+1612. No executor or administrator is chargeable upon any specialipromise to
+answer damages or to pay the debts ‘of the testator or intestate out of his
+own estate, unless the agreement for that purpose, or some memorandum or note
+thereof‘, is in writing and signed by such executor or administrator, or by some
+other person by him thereunto specially authorized.
+
+-----------------------------------------------
+
+
+WA1873-008840
+
+274. No executor or administrator shall be chargeable upon any special promise
+to answer damages or to pay the debts of the testator or intestate out of his
+own estate, unless the agreement for that purpose or some memorandum or note
+thereof is m writing, and signed by such executor or administrator, or by some
+other person by him thereunto specially authorized.
+
+-----------------------------------------------
+
+
+CA1880-016580
+
+1612. No executor or administrator is chargeable upon any special promise to
+answer damages or to pay the debts of the testator or intestate out of Ms own
+estate, unless the agreement for that purpose, or some memoran dum or note
+thereof, is in writing and signed by such ex ecutor or administrator, or by some
+othei; person by him thereunto specially authorized. Compare—sec. 1973, subd. 2.
+
+-----------------------------------------------
+
+
+AZ1887-005980
+
+242. No executor or administrator is chargeable upon any special promise to
+answer damages or to pay the debts of the testator or intestate out of his
+own estate, unless the agreement for that purpose, or some memorandum or note
+thereof, is in writing and signed by such executor or administrator, or by some
+other person by him thereunto specially authorized. -
+
+-----------------------------------------------
+
+
+DT1887-012470
+
+5882. No executor or aclministrator is chargeable upon any special promise to
+answer damages or to pay the clebts of the testator or intestate out of his
+own estate, unless the agreement for that purpose, or some memorandum or note
+thereof', is in writing and signed by such executor or administrator, or by some
+other person by him thereunto specially authorized. ,
+
+-----------------------------------------------
+
+
+MT1895-015440
+
+2770. No executor or administrator is chargeable upon any special promise to
+answer damages or to pay the debts of the testator or intestate out of his
+own estate, unless the agreement for that purpose, or some memorandum or note
+thereof, is in writing and signed by such executor or administrator, or by some
+other person by him thereunto especially authorized.
+
+-----------------------------------------------
+
+

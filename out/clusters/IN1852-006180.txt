@@ -1,0 +1,71 @@
+Exemplar: WA1855-004430
+Earliest: IN1852-006180
+Documents in cluster: 6
+Cluster ID: 20067
+
+-----------------------------------------------
+
+IN1852-006180
+
+633. In rendering judgment of foreclosure, the court shall order the mortgaged
+premises, or so much thereof as may be necessary, to be sold to satisfy the
+mortgage and costs of the action. The payment of the mortgage-debt with interest
+and costs at any time before sale, shall satisfy the judgment. ° ‘
+
+-----------------------------------------------
+
+
+TX1855-006470
+
+559. In rendering judgment of foreclosure, the Court shall order the mortgaged
+property, or so much thereof as may be necessary, to be sold to satisfy the
+mortgage and costs of the suit. The payment of the mortgage debt, with interest
+and costs, at any time before sale, shall satisfy the judgment.
+
+-----------------------------------------------
+
+
+WA1855-004430
+
+410 In rendering judgment of foreclosure, the court shall order the mortgaged
+premises, or so much thereof as may be necessary, to be sold to satisfy the
+mortgage and costs of the action. The payment of the mortgage debt, with
+interest and costs at any time before sale, shall satisfy the judgment. , ' '
+
+-----------------------------------------------
+
+
+DC1857-005120
+
+2. In rendering judgment of foreclosure, the court shall order the mortgaged
+premises, or so much thereof as may be necessary, to be sold to satisfy the
+mortgage and costs of the action. The payment of the mortgage debt, with
+interest and coats, at any time before sale, shall satisfy the judgment.
+
+-----------------------------------------------
+
+
+WA1873-004870
+
+446. In rendering judgment of foreclosure the court shall order the mortgaged
+premises, or so much thereof as may be necessary, to be sold to satisfy the
+mortgage and costs of the action. The payment of the mortgage debt, with
+interest and costs at any time before sale, shall satisfy the judgment.
+
+-----------------------------------------------
+
+
+OK1891-007390
+
+12. In rendering judgment of foreclosure, the court shall give personal judgment
+against any party to the suit liable upon any agreement or agreements, for the
+payment of any sum or sums -of money secured by the mortgage, and shall order
+the mortgaged premises, or so much thereof as may be necessary to satisfy the
+mortgage and judgment and costs of the action, to be first sold, before levy
+of execution upon other property of the defendant. The payment of the mortgaged
+debt, with interest and costs, at any time before sale, shall satisfy the
+judgment.
+
+-----------------------------------------------
+
+

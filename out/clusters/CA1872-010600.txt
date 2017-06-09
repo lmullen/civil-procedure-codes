@@ -1,0 +1,54 @@
+Exemplar: AZ1887-003940
+Earliest: CA1872-010600
+Documents in cluster: 5
+Cluster ID: 1764
+
+-----------------------------------------------
+
+CA1872-010600
+
+1352. When an unmarried iavoman, appointed executrix, marries, her authority is
+extinguished. When a married Woman is named as exect utrix, she may be appointed
+and serve in every respect as a feme sole.
+
+-----------------------------------------------
+
+
+CA1880-014030
+
+1352. When an unmarried woman, appointed execu trix, marries, her authority is
+extinguished. When a married woman is named as executrix, she may be ap pointed
+and serve in every respect as afemme sole. Unmarried woman—appointed executrix,
+marries, 18 CaL 20: ap plication to widow, 42 Cal. 462. Married woman—not to be
+administratrix, sec. 1370.
+
+-----------------------------------------------
+
+
+AZ1887-003940
+
+43. When an unmarried woman, appointed executrix, marries, her authority is
+extinguished. When a married woman is named as executrix, she may be appointed
+and serve in every respect as a feme sale.
+
+-----------------------------------------------
+
+
+DT1887-010310
+
+5697. When an unmarried woman, appointed executrix, marries, her authority is
+extinguished. When a married. woman is named as executr ix, she may be appointed
+and serve i11 every respect as a 'femme sole.
+
+-----------------------------------------------
+
+
+MT1895-013320
+
+2403. When an unmarried woman appointed executrix marries, her authority is not
+extinguished. When a married woman is named as executrix she may be appointed
+and serve in every respect as an unmarried woman.
+
+-----------------------------------------------
+
+

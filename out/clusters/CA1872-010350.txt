@@ -1,0 +1,72 @@
+Exemplar: AZ1887-003680
+Earliest: CA1872-010350
+Documents in cluster: 5
+Cluster ID: 1755
+
+-----------------------------------------------
+
+CA1872-010350
+
+1314. The jury, after hearing thecase, must return a special verdict upon the
+issues submit» ted to them by the Court, upon which the judgment of the Court
+must be rendered, either admitting the will to probate or rejecting it. In
+either case, the proofs of the subscribing witnesses must be reduced to writing.
+If the will is admitted to probate, the judgment, will, and proofs must be
+recorded.
+
+-----------------------------------------------
+
+
+CA1880-013780
+
+1314. The jury, after hearing the case, must return a special verdict upon the
+issues submitted to them by the court; upon which the judgment of the court must
+be rendered, either admitting the will to probate or reject nesses ing it. must
+In either be reduced case, the to writing. proofs of If thethe subscribing will
+is admit wifrted to probate, the judgment, will, and proofs must be recorded.
+Special verdict—conclusiveness of, sec. 1317; 34 Cal. 687: verdict generally,
+sees. 624-628. Judgment of the court—need not be formal, 22 Cal. 51. Proofs
+reduced to writing—see sec. 1316.
+
+-----------------------------------------------
+
+
+AZ1887-003680
+
+18. The jury, after hearing the case, must return a special verdict upon the
+issues submitted to them by the court; upon which the judgment of the court must
+be rendered. either admitting the will to probate or rejecting it. In either
+case, the proofs of the subscribing witnesses must be reduced to writing. If the
+will is admitted to probate the judgment, will and proofs must be recorded.
+
+-----------------------------------------------
+
+
+DT1887-009980
+
+5672. The court, after hearing the case, must give 111 writing the findings
+of fact and conclusions of law upo1?- the issues submitted, and upon these the
+court must render judg­ ment, either admitting the will to probate or rejecting
+it. 111 either case, the proofs of the subscribing witnesses must be reduced to
+writing. If the will be admitted to probate, the Judgment, will, and proofs must
+be recorded. . .
+
+-----------------------------------------------
+
+
+MT1895-013060
+
+2341. When a jury is demanded, the District Court must empanel a jury to try
+the case, in the manner provided for empaneling juries in courts of record ;
+and the trial must be conducted in accordance with the provisions of Part II.,
+Title VIII., Chapter IV., of this Code. A trial by the court must be conducted
+as provided in Part II., Title VIII., Chapter V., of this Code. Sec, 2342. The
+jury, after hearing the case, must return a special verdict upon the issues
+submitted to them by the court ; upon which the judgment of the court must be
+rendered, either admitting the will to probate or rejecting it. In either case,
+the proofs of the subscribing witnesses must be reduced to writing. If the will
+be admitted to probate, the judgment, will and proofs must be recorded.
+
+-----------------------------------------------
+
+

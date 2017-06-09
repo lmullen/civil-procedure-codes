@@ -1,0 +1,52 @@
+Exemplar: CA1872-014640
+Earliest: NY1850-018470
+Documents in cluster: 5
+Cluster ID: 2791
+
+-----------------------------------------------
+
+NY1850-018470
+
+1690. The language of a writing is to be interpreted, according to the meaning
+it bears in the place of its execution, unless the parties have reference to a
+different place.
+
+-----------------------------------------------
+
+
+OR1862-008020
+
+683. The language of awriting is to be interpreted, according to the meaning
+it bears in the place of its execution, unless the parties have reference to a
+diiferent place.
+
+-----------------------------------------------
+
+
+CA1872-014640
+
+1857. The language of a writing is to be interpreted according to the meaning
+it bears in the place of its execution, unless the parties have reference to a
+different place.
+
+-----------------------------------------------
+
+
+OR1892-008230
+
+693. [6S3.] The language of a writing is to be in terpreted according to
+the meaning it bears in the place of its execution, unless the parties have
+reference to a different place.
+
+-----------------------------------------------
+
+
+MT1895-017590
+
+3131. The language of a writing is to be interpreted according to the meaning
+it bears in the place of its execution, unless the parties have reference to a
+different place.
+
+-----------------------------------------------
+
+

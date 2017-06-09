@@ -1,0 +1,611 @@
+Exemplar: CA1858-007170
+Earliest: CA1851-006450
+Documents in cluster: 30
+Cluster ID: 2279
+
+-----------------------------------------------
+
+CA1851-006450
+
+583. The trial may he :uljourmbd by consent, or upon application 1 of either
+party, without the consent of the other, for a period not exceeding ten days
+(except as provided in the next section), as follows : let. The party asking
+the adjournment shall, if required by his adversary, prove by his own oath,
+or otherwise, that he cannot, for want of material testimony, which he expects
+to procure, safely proceed to trial : 2d. The party asking the adjournment
+shall also, if required by the adverse party, consent that the testimony of any
+witness of such advhrse party, who is in attendance, be then taken by deposition
+before the justice, which shall accordingly be done; and the testimony so
+taken may be read on the trial with the same effect, and subject to the same
+objections, as if the witness were produced.
+
+-----------------------------------------------
+
+
+DC1857-008370
+
+40. The party applying for the adjournment shall alao, if required by the
+adverse party, consent that the testimony of any witness of such adverse party,
+who is in attendance, be taken by deposition before the justice, which shall be
+done accordiug ly, and the testimony so taken may be read on trial with the same
+effect aai subject to the same objections as if the witness were produced.
+
+-----------------------------------------------
+
+
+CA1858-007170
+
+664. The party obtaining the postponement of a trial, in any court of record
+shall also, if required by the adverse party, consent that the testimony of any
+witness of such adverse party, who is in attendance, be then taken by deposition
+before a judge or clerk of the court in which the case is pending, or before
+such notary public as the court may indicate, which shall accordingly be done,
+and the testimony so taken may be read on the trial with the same effect, and
+subject to the same objections, as if the witness were produced.
+
+-----------------------------------------------
+
+
+CA1858-006340
+
+583. The trial may be adjourned by consent, or upon application of either
+party, without the consent of the other, for a period not exceeding ten days,
+(except as provided in the next section,) as follows: 1st. The party asking
+the adjournment shall, if required by his adversary, prove by his own oath, or
+otherwise, that he cannot, for want of material testimony, which he expects to
+procure, safely proceed to trial, and shall show in what respect the testimony
+expected is material, and that he has used due diligence to procure it, and
+has been unable to do so ; 2d. The party asking the adjournment shall also, if
+required by the adverse party, consent that the testimony of any witness of such
+padverse party, who is in attendance, be then taken by deposition before the
+justice, which shall accordingly be done, and the testimony so taken may be read
+on the trial, with the same effect, and subjectto the same objections as if the
+witness were produced. But such objections shall {:4} 7:-2.2,(le at the time of
+taking the deposition; 3d. The court may also require the moving party to state
+upon affidavit the evidence which he expects to obtain, and if the adverse party
+thereupon admit that such evidence would be given, and that it be considered
+as actually given on the trial, or offered and overruled as improper, the trial
+shall not be postponed.
+
+-----------------------------------------------
+
+
+UT1859-005090
+
+455. The party applying for the adjournment shall also, if required by the
+adverse party, consent that the testimony of any witness of such adverse party
+who is in attendance be then taken by deposition before the justice, which
+shall be done accordingly; and the testimony so taken, may be read on the trial
+with the same effects and subject to the same objections as if the witness were
+produced.
+
+-----------------------------------------------
+
+
+NV1861-006470
+
+589. The party obtaining the postponement of a trial in any court of record,
+shall also, if required by the adverse party, consent that the testimony of any
+witness of such adverse party, who is in attendance, be then taken by deposition
+before a judge or clerk of the court in which the case is pending, or before
+such notary public as the court may indicate, which shall accordingly be done,
+and the testimony so taken may be read on the tria with the same effect, and
+subject to the same objections, as if the witness were produced.
+
+-----------------------------------------------
+
+
+NV1861-005780
+
+523. The trial may be adjourned by consent, or upon application of either
+party, without the consent of the other, for a period not exceeding ten days
+(except as provided in the next section), as follows: First. The party asking
+the adjournment shall, if required by his adversary, prove, by his own oath, or
+otherwise, that he cannot, for want of material testimony, which he expects to
+procure, safely proceed to trial, and shall show in what respect the testimony
+expected is material, and that he has used due diligence to procure it, and
+has been unable to do so. Second. The party asking the adjournment shall, also,
+if required by the adverse party, consent that the testimony of any witness of
+such adverse party who is in attendance, be then taken by deposition before the
+justice, which shall accordingly be done, and the testimony so taken may be read
+on the trial, with the same effect, and subject to the same objections as if the
+witness were roduced ; but such objections shall be made at the time of tailing
+the deposition. Third. The court may also require the moving party to state,
+upon affidavit, the evidence which he expects to obtain, and if the adverse
+party thereupon admit that such evidence would be given, and that it is to be
+considered as actually given on the trial, or offered and overruled as improper,
+the trial shall not be postponed.
+
+-----------------------------------------------
+
+
+ID1864-006660
+
+606. The par? obtaining the postponement of a trial in any court of recor ,
+shall also, if required by the adverse party, consent that the testimony of any
+witness of such adverse party, who is in attendance, be then taken by deposition
+before a judge or clerk of the court in which the cause is pending, or before
+such notary ublic as the court may indicate, which shall accordingly be clbne,
+and the testimon so taken may be read_ on_the trial with the same effect, an
+subject to the same object1ons, as If the wltness were produced.
+
+-----------------------------------------------
+
+
+ID1864-005940
+
+537. The trial may be adjourned by consent, or upon the application of either
+party, Without the consent of the other, for a period not exceeding ten days
+(except as rovided in the next section), as follows: First. The party as ing
+the adjournment shall, if required by his adversary, prove, by his own oath, or
+otherwise, that he cannot, for Want of material testimon , which he expects to
+procure, safely proceed to trial, and shal show in what respects the testimony
+expected is material, and that he has used due diligence to procure it, and
+has been unable to do so. Second. The party asking the adjournment shall, also,
+if required by the adverse party, consent that the testimony of any Witness
+of such adverse party who is in attendance, be then taken by deposition before
+the justice, which shall accordingly be done, and the testimony so taken ma be
+read on the trial, with the same effect, and subject to t e same objections as
+if the witness were produced; but such objections shall be made at the time of
+taking the deposition. Third. The court may also require the moving party to
+state, u n affidavit, the evidence which he expects to obtain, and i the adverse
+party thereupon admit that such evidence would be given, and that it is to be
+considered as actually given on the trial, or offered and overruled as improper,
+the trial shall not be postponed.
+
+-----------------------------------------------
+
+
+MT1865-004900
+
+447. The party postponing a trial in any court of record, shall also, if
+required by the adverse party, consent that the testimony of any witness of such
+adverse party who is in attendance be then taken before any judge or clerk of
+the court in which the cause is pending, or before any notary public, or other
+ofricer authorized to take depositions, as the court may indicate, which shall
+accordingly be done, and the testimony so taken may be read A in the trial
+with the same effect, and subject to the same objections, as if the witness was
+produced.
+
+-----------------------------------------------
+
+
+AZ1865-005860
+
+585. The trial may be adjourned by consent, or upon application of either party,
+without the consent of the other, for a period not exceeding ten days (except as
+provided in the next section), as follows: 1st. The party asking the adjournment
+shall, if required by his adversary, prove by his own oath, or otherwise, that
+he cannot, for want of material _ testimony which he expects to procure, safely
+proceed to trial. 2d. The party asking ‘the adjournment shall also, if required
+by the adverse party, consent that the testimony of any witness of such adverse
+party who 18 in attendance, be then taken by deposition before the justice,
+which shall accordingly be done ; and the testimony so taken may be read on
+the trial with the same effect, and subject to the same objections, as if the
+witness were produced.
+
+-----------------------------------------------
+
+
+MT1865-006430
+
+595. Upon the return day of the summons, if a jury he demanded, or if the
+justice be actually engaged in other oilicial business, he may adjourn the
+trial without the consent of either party as follows: First, When a party who
+is not a resident of T the county is in attendance, the adjournment not to
+exceed twentyfour hours; when the defendant in attendance is under arrest, the
+adjournment not to exceed three hours. Second, In other cases not to exceed five
+days. SEC 596. The trial may be adjourned by consent, or upon the application
+of either party without the consent of the other, for a period not exceeding
+ten days (except as provided in the next section) as follows: First, The party
+asking the adjournment shall, if required by his adversary, prove by his own
+oath or otherwise that he cannot, for want of material testimony which he
+expects to procure, safely proceed to trial, and shall show in what respects
+the testimony expected is material and the diligence he has used to procure
+it. Second, The party asking the adjournment shall also, if required by the
+adverse party, consent that the testimony of any witness of the adverse party
+who is in attendance be then taken by deposition before the justice, which
+shall accordingly be done, and the testimony so taken may be read on the trial
+with the same effect and subjections as if the witness were present; but such
+objections shall be made at the time of taking the deposition. Third, The court
+may also require the moving party to state upon affidavit the evidence which he
+expects to obtain, and if the adverse party thereupon admit that such evidence
+would be given, and that it is considered as actually given on the trial, or
+offered and overruled as improper, the trial shall not be postponed. It shall
+appear by the aiiidavit of the party or otherwise that due diligence has been
+used to obtain the evidence wanting before a postponement of the trial is made
+therefore.
+
+-----------------------------------------------
+
+
+CA1868-006590
+
+76. The party obtaining the postponement of a trial in any court. of record,
+shall also, if required by the ad­ verse party, consent that the testimony
+of any witness of such adverse party who is in attendance, be then taken by
+deposition before a judge or clerk of the court in which the case is pending, or
+before such notary public a11 the court may indicate, which shall accordingly be
+done, and the testimony so taken may be read on the trial with the same effect
+and subject to the same objections WI if the witnesaes were pro­ duced.
+
+-----------------------------------------------
+
+
+CA1868-005820
+
+583. The trial may be adjourned by consent, or npon application of either
+party, without the consent of the other, for 11 period not. exceeding ten days,
+(except as provided in the next section), RB follows: · First. The party aaklng
+the adjournment shall, if reqnired by his adversary, prove, by hie own oath or
+otherwise, that be cannot, for want of material testimony, which he ex­ pects to
+proc·ure, safely proceed to trial, and shall show in what respect the testimony
+expected is material, and that he has used due diligeuce to procure it, and
+has been unable to do so. Second. The party asking the adjournment shall also,
+if required by the adverse party, consent that the testimony of any witnees of
+such adverse party who is in attendance, be then taken by deposition before the
+justice, which shall ac­ cordingly be done, and the testimouy so taken may be
+read on the trial, with the same effect and subject to the same objections as
+if the witness were produced ; but such objec­ tions shall be made at the time
+of taking the deposition. Third. The court mayalso require the moving party to
+state, upon affidavit, the evidence which be expects to obtain, and if the ad
+verse party thereupon admit that such evidence would be given, and that it be
+considered as actually given on the trial, or offered and overruled as improper,
+the trial shall not be postponed.
+
+-----------------------------------------------
+
+
+NV1869-005920
+
+541. The trial maybe adjourned by consent or upon application of either
+party, without the consent of the other, for a period not exceeding ten days,
+(except as provided in the next section) as follows: First—The party asking
+the adjournment shall, if required by his adversary, prove, by his own oath or
+otherwise, that he cannot, for want of material testimony which he expects to
+procure, safely proceed to trial, and shall show in what respect the testimony
+expected is material, and that he has used due diligence to procure it, and
+has been unable to do so. Second—The party asking the adjournment shall also,
+if required by the adverse party, consent that the testimony of any witness
+of such adverse party who is in attendance, be then taken by deposition before
+the Justice, which shall accordingly be done, and the testi— mony so taken may
+be read on the trial, with the same effect and subject to the same objections
+as if the witness were produced. But such objections shall be made at the time
+of taking the deposition. Third—The Court may also require the moving party
+to state upon affidavit the evidence which he expects to obtain, and if the
+adverse party thereupon admit that such evidence would be given, and that it be
+considered as actually given on the trial, or offered and overruled as improper,
+the trial shall not be postponed.
+
+-----------------------------------------------
+
+
+NV1869-001750
+
+160. A motion to postpone a trial, on the ground of the absence of evidence,
+shall only be made upon affidavit showing the materiality of the evidence
+expected to be obtained, and that due diligence has been used to procure it.
+The Court may also require the moving party to state upon affidavit the evidence
+which haexpects to obtain ;“‘and if the adverse party thereupon admit that such
+evidence would be given, and that it be considered as actually given on the
+trial, or offered and overruled as improper, the trial shall not be postponed.
+The party obtaining the postponement of a trial shall also, if required by the
+adverse party, consent that the testimony of any witness of such adverse party
+who is in attendance, be then taken by deposition before a Judge or Clerk of the
+Court in which the case is pending, or before such Notary Public as the Court
+may indicate, which shall accordingly be done, and the testimony so taken may
+be read on the trial with the same effect, and subject to the same objections
+as if the witnesses were produced. In actions involving the title to mining
+claims and quartz ledges, if it, be made to appear to the satisfaction of the
+Court that in order that . 1 slice may be done. and the action fairly tried
+on its real merits, it is essary that further developments should be made,
+and that the party plying has been guilty of no laches and is acting in good
+faith, the t shall grant the postpOnement of the trial of the action, giving
+th rty.a reasonable time in which to prepare f'or trial. And in' grant: g such
+postponement the Court may, in its discretion, annex as a condition thereto,“
+an order that the party obtaining such postponement shall not, pending the trial
+of the action, remove from the premises in controversy any valuable quartz rock,
+earth or ores, and for any violation of an order so made, the Court or the Judge
+thereof may punish for contempt, as in the cases of violation :of an order of
+injunction, and may also vacate"the order of postponement.
+
+-----------------------------------------------
+
+
+UT1870-005880
+
+539. The trial may be adjourned by consent or u n application of either
+party, without the consent of the ot er, for a period not exceeding ten days,
+(except as provided inthe next Section) as follows: First—The party asking
+the adjournment shall, if required by his adversary, prove, by his own oath or
+otherwise, that he cannot, for want of material testimony which he expects to
+procure, safely proceed to trial, And shall show in what res ct the testlmony
+eXpected is material, and that he has use due dili ence to procure it, and has
+been unable to do so. Second—%‘he arty asking the adjournment shall also, if
+required by the verse party, consent that the testimony of any witness of such
+adverse party, who is in attendance be then taken by deposition before the
+Justice, which shall accordin ly be done, and the testimony so taken may be
+read on the tria , with the same effect and subject to the same objections as
+if the witness were produced. But such objections shall be made at the time of
+taking the deposition. Third—The Court ma also require the moving arty to state
+upon affidavit the evi ence which he expects to o tain, and if the adverse arty
+thereupon admit that such evidence would be given, an that it be considered
+as actually given on the trial, or offered and overruled as immoper, the trial
+shall not be postponed.
+
+-----------------------------------------------
+
+
+UT1870-001710
+
+159. A motion to postpOne a trial, on the ground of the absence of evidence,
+shall only be made upon affidavit »showing the materiality of the evidence
+eXpected to be ob-' :tained, and that due diligence has been’used to procure
+it. The Court may also require the moving party to state, 11 n affidavit,“
+the evidence which he ex ‘ects to obtain; an if the adverse party thereupon
+admit t at such evidence would be given, and that it be considered as actually
+given on the trial, or offered and overruled as imprOper, the trial shall not
+be postponed. ' The party obtaining the postponement of a trial shal also, if
+required by the adverse party, consent that the testimony of any witness of such
+adverse party, who is in attendance, be then taken b deposition before a Judge
+or Clerk of the Court in which t e case is pendi , or before such other officer
+as the Court may indicate, whichnsiall accordingl ' be done, and the testimony
+so taken may be-read on the trial w1t the same effect, and subject to the same
+ob'ections as if the witnessess were produced. In actions. invofving the title
+to mining claims and uartz 1e es, if it be made to appear to the satisfaction of
+t e Court t at in order that justice may be done, and the action fairly tried on
+its real merits, it is neces.sary that further deveIOpments should be made, and
+that the party applying has been guilty of no laches and is acting in goo faith,
+the Court shall' grant the postponement of the trial of the action, giving the
+party a reasonable time in which to prepare for trial. And in granting such
+postponement, the Court may, in .its- discretion,'annex as a condition thereto,
+an order that the party obtaining such postponement shall not, pending the trial
+of the action, remove from the premises 1n contmversy, any valuable'quartz rock,
+earth or' ores, and for any violation of an order so made; the Court,'=or Judge
+thereof, may punish for contempt, as in the cases of violation of an order of
+injunction, and may also ‘vacate 'th'e‘o'rder of postponement.
+
+-----------------------------------------------
+
+
+CA1872-004640
+
+596. The party obtaining a postponement of a trial in any Court of record must,
+if required by the adverse party, consent that the testimony of any Witness of
+such adverse party, Who is in attendance, be then taken by deposition before
+a Judge or Clerk of the Court in which the case is pending, or before such
+Notary Public as the Court may indicate, which must accordingly be done; and the
+testimony so taken may be read on the trial, with the same effect, and subject
+to the same objections, as if the witnesses were produced.
+
+-----------------------------------------------
+
+
+CO1877-004910
+
+425. The party postponing a trial in any court of record_shall also, if required
+by the adverse party, consent that the testimony of any witness of such adverse
+party, who is in attendance, be then taken before any judge or clerk of the
+court in which the action is pending, or before any notary public or other
+officer authorized to take depositions, as the court may direct, which shall
+accordingly be done; and the testimony so taken may be read on the trial with
+the same effect, and subject to the same objections as if the witness was
+produced.
+
+-----------------------------------------------
+
+
+AZ1877-004670
+
+585. The trial may be adjourned by consent, or upon applica tion of either
+party, without the consent of the other, for a period not ex ceeding ten days
+(except as provided in the next section), as follows : 1st. The party asking
+the adjournment shall, if required by his adversary, prove by his own oath, or
+otherwise, that he cannot, for want of material testimony which he expects to
+procure, safely proceed to trial. 2d. The party asking the adjournment shall
+also, if required by the ad verse party, consent that the testimony of any
+witness of such adverse party who is in attendance be then taken by deposition
+before the justice, which shall accordingly be done; and the testimony so
+taken may be read on the trial with the same effect, and subject to the same
+objections, as if the wit ness were produced.
+
+-----------------------------------------------
+
+
+AZ1877-001320
+
+157. An issue of fact shall be tried by a jury, unless a jury trial is waived
+or a reference be ordered, as provided in this chapter. Where there are issues
+both of law and fact to the same complaint, the issues of law shall be first
+disposed of. Sec 158. The clerk shall enter causes upon the calendar of the
+court according to the date of the issue. Causes once placed on the calen dar
+for a general or special term, if not tried or heard at such term, shall remain
+upon the calendar from court to court until finally disposed of. Sec 159. Either
+party may bring the issue to trial or to a hear ing; and in the absence of the
+adverse party, unless the court for good cause otherwise direct, may proceed
+with his case, and take a dismissal of the action or a verdict or judgment, as
+the case may require. Sec 160. A motion to postpone a trial on the ground of the
+ab sence of evidence shall only be made up on affidavit, showing the materiality
+•As amended by.act of 1866. of the evidence expected to be obtained, and that
+due diligence has been used to procure it. The court may also require the moving
+party to state, upon affidavit, the evidence which he expects to obtain; and if
+the adverse party thereupon admit that such evidence would be given, and that
+it be considered as actually given on the trial, or offered and overruled as im
+proper, the trial shall not be postponed; provided, that the party obtaining a
+postponement of a trial in any court of record shall also, if required by the
+adverse party, consent that the testimony of any witness of such adverse party
+who is in attendance be taken by deposition before a judge or clerk of the
+court in which the case is pending, or before a notary public to be named by the
+court, which shall accordingly be done; and the testimony so taken may be read
+on the trial with the same effect and subject to the same objections as if the
+witnesses were produced. Trial iy Jury. —Formation of the Jury.
+
+-----------------------------------------------
+
+
+CA1880-005910
+
+595. A motion to postpone a trial on the ground of the absence of evidence can
+only be made upon affidavit showing the materiality of the evidence expected
+to be obtained, and that due diligence has been used to procure It. A. trial
+shall be postponed when it appears to the court that the attorney of record,
+party, or principal wit ness is actually engaged in attendance upon a session
+of the Legislature of this State as a member thereof. The court may require the
+moving party, where application is made on account of the absence of a material
+witness, to state upon affidavit the evidence which he expects to ob tain ; and
+if the adverse party thereupon admits that such evidence would be given, and
+that it be considered, as actually given on the trial, or offered and overruled
+as im proper, the trial must not be postponed. [In effect March 2nd, 1880.]
+Postponement, grounds of—affidavit for, etc. see Continuance. CONTINUANCE.
+Admission—by opponent, extent of, 41 Cal. 521. Affidavits—showing Absence
+witness, Expected Materiality of evidence,in:4 Cal. 241; of 43 Cal. 344;see
+Kern valley evidence. Bank r. Chester, June 3rd, 1880, 5 Pac. C. L. J. 520. Hue
+diligence, 4 Cal.Valley 241 : 8 Cal. 48, 89; 17 Cal. Y23; 29 Cal. 563 ; 45 Cal.
+280; 47 Cal. 162; Kern Bank v. Chester, June 3rd, 1880, 5 Pac. C. L. J. 620.
+Expected evidence, June 3rd, 1880, 5 Pac. C. L. J. 520. Bad faith-46 Cal. 114.
+Costs on—sec. 1029. Counsel—absence of, 19 Cal. 118: mistake of, 9 Cal. 212:
+35 Cal. 452: sickness Depositions—of of, 4 Cal. 190; absent 41 Cal. witnesses,
+626. postponement for taking, 2 Cal. 473, 598. Diligence, due—see Affidavits.
+Discretion—decision as to continuance, Is matter of, 9 Cal. 212; 11 Cal.
+161 ; 20 Cal. 181 ; 23 Cal. 157 ; 32 Cal. 102. Evidence—absence of, diligence,
+expected, materiality of, see Af fidavits. Generally, 1 Cal. 404 ; 2 Cal. 183,
+270; 3 Cal. 185; 6 Cal. 249; 7 Cal. 418; 14 Grounds Cal. 358;^1for—see Cal.
+95;Affidavits, 53 Cal. 491. Counsel, Depositions, Pabtt. Legislature—attendance
+at, as ground for; inserted In section by amdt. 1880. Materiality—of evidence.
+See Affidavits. Party, absence of—32 Cal. 102. Review decision as to—see on
+trial, bill of11exceptions, only whereofrefusal, 47 Cal. 162: onDiscretion:
+motion for new Cal. 21; 20 Cal. 450; and see 17 Cal. 316. Showing for—see
+Affidavits. Stipulation as to—must be In writing. See note to sec. 283, subd. I§
+596. The party obtaining a postponement of a trial in any court of record must,
+if required by the adverse party, consent that the testimony of any witness of
+such adverse party, who is in. attendance, be then taken by deposition before
+a judge or clerk of the court in which the case is pending, or before such
+notary public as the court may indicate, which must accordingly be done, and the
+testimony so taken may be read on the trial, with the same effect, and subject
+to the same objections, as if the witnesses were produced. Depositions—in the
+State, sees. 2019-2021, 2031-2038. 'chapter IV.
+
+-----------------------------------------------
+
+
+ID1881-003950
+
+365. The party obtaining a postponement of a trial in any Court of record must,
+if required by the ad» verse party, consent that the testimony of any witness
+of such adverse party, who is in attendance, be then taken by deposition before
+a Judge or Clerk of the Court in which the case is pending, or before such
+Notary Public as the Court may indicate, which must accordingly be done; and the
+testimony so taken may be read on the trial, with the same effect, and subject
+to the same objections, as if the witnesses were produced.
+
+-----------------------------------------------
+
+
+UT1884-003690
+
+473. The party obtaining at postponement of' a trial must, if required by the
+adverse party, coinscnt that the te.stimony of any witness of suich adver.se
+party, who is in attendance, be then taken by deposition before 'tju dge or
+clerk of the court in which the ese is pending, or before te. such other officer
+us the court may ii d icate, which must accordingly be done, and the testi'mony
+so taken may be read oii the trial with the saiue effect, anud subject to the
+same objections, as if' the witnesses were produced. 1n actions involving the
+title to mining elainis and quartz 1Iltenlt ledges, if' it be tiade to appear
+to the satisfaction of the court that in order that ~justice may be done,
+and the action firly tried ,11 its real merits, it is necessary that f'nrther
+developments should l)e made, and that the party applying has been guilty of
+110 laches and is acting in good faith, the court shall grant the postponemeut
+of the trial of' the action, giving the party a reasonable time in which to
+prepare ior trial. And in grnting such postponement, the court may, in its
+dis'rction, annex as a condition thereto, an order' that the party obtaining
+such postponement shall not, pending the trial of the action, remove f'om
+the premises in controversy any valuable quartz rock, earth or ores, and for
+any violation of an order so made, the court, or ju(ge thereof, may pnish for
+('ontempt, as in the ases oif' violation of' an order of' injunction, and may
+also vta('itt( the order of( postponement.
+
+-----------------------------------------------
+
+
+AZ1887-001160
+
+105. The party obtaining a continuance of a trial, shall also, if required by
+the adverse party, consent that the testimony of any witness of such adverse
+party who is in attendance be taken by deposition before a judge or clerk of a
+court, or stenographer or notary public. to be named by the court, which shall
+accordingly be done; and the testimony so taken may be read on the trial by
+either party with the same effect and subject to the same objections as if the
+witnesses were produced.
+
+-----------------------------------------------
+
+
+MT1895-005490
+
+1040. The party obtaining a postponement of a trial in any court of record must,
+if required by the adverse party, consent that the testimony of any witness of
+such adverse party, who is in attendance, be then taken by deposition before
+a judge or clerk of the court in which the case is pending, or before such
+notary public as the court may indicate, which must accordingly be done, and the
+testimony so taken may be read on the trial, with the same effect, and subject
+to the same objections, as if the witnesses were produced. Article I. Formatio«
+of tl,e j•ry. I I. Co11d11ct of tje trial. II I. Tje verdict, S«tio• 1050.
+1051. 1052. 1053. 105+ 1055. 1056. 1057. 1058. 1059. roso, 1o61. 1o6:1. 1o63. 14
+FORMATION OF THE JURY. Cieri, to draw ha/lot. Mode of drawi•g ha/lot. Per.ro11.s
+draw• to form i•ry. Ballot.s drawn, wje• deposited ;,, a11otl,e,,. /Joa. Wke•
+to he ret#r.ed to box, Ballot.s of ah.rentees ret11r•ed to /,0111. New J•ry •ay
+he draw« w/,e11 a•otjer is i•Ja,ie/ed. Ballot.s wile,, draw• /ro111 Bo11t No. 3.
+New /a11el •o ohject,011. C/,a/le11ge. Cl,a/lenge for cafl.Je. C!,a/le11ge, loiv
+fried. Order of c/,a/lenge. Vaca•cy to he ft/led. Form of oat/,.
+
+-----------------------------------------------
+
+
+UT1898-005010
+
+3134. Id. Testimony of witnesses present may be taken. Order when mining case
+continued. The party obtaining a postponement of a trial must, if required by
+the adverse party, consent that the testimony of any witness of such adverse
+party, who is in attendance, be then taken by deposition before a judge or clerk
+of the court in which the case is pending, or before such other officer as the
+court may direct, which must accordingly be done, and the testimony so taken may
+be read on the trial with the same effect, and subject to the same objections,
+as if the witnesses were produced. In actions involving the
+
+-----------------------------------------------
+
+
+UT1898-005020
+
+to mining claims, if it be made to appear to the satisfaction of the court
+that in order that justice may be done and the action fairly tried on its
+merits, it is necessary that further developments should be made, and that
+the party applying has been guilty of no laches and is acting in good faith,
+the court shall grant the postponement of the trial of the action, giving the
+party a reasonable time in which to prepare for trial. And in granting such
+postponement, the court may, in its discretion, annex as a condition thereto, an
+order that the party obtaining such |K)stponement shall not, pending the trial
+of the action, remove from the prem ises in controversy any valuable quartz,
+rock, earth, or ores, and for any violation of an order so made, the court,
+or judge thereof, may punish for contempt as in the cases of violation of an
+order of injunction, and may also vacate the order of postponement. [C. L. §
+3354. CM. C. Civ. P. ? 596*. mining claim, 3515, 3516. Taking of depositions,
+When testimony officially reported may be used generally, <!(} 3455-3465. at
+subsequent trial, \ 3475. Order for survey of
+
+-----------------------------------------------
+
+
+AZ1901-001160
+
+176.) The party obtaining a continuance of a trial shall also, if required by
+the adverse party, consent that the testimony of any witness or such adverse
+party who is in attendance be taken by deposition before a judge or clerk of the
+court, or stenographer or notary public to be named by the court, which shall
+accordingly be done ; and the testimony so taken may be read on the trial by
+either party with the same effect and subject to the same objections as if the
+witnesses were produced. 1386.
+
+-----------------------------------------------
+
+

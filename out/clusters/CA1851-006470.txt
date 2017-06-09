@@ -1,0 +1,212 @@
+Exemplar: CA1872-007020
+Earliest: CA1851-006470
+Documents in cluster: 17
+Cluster ID: 2441
+
+-----------------------------------------------
+
+CA1851-006470
+
+585. No adjournment shall be granted for a period longer than ten days, upon
+the application of either party, except upon condition that such party file an
+undertaking, wtih sureties, to be approved by the justice, to the effect that
+they will pay to the opposite party the amount of any judgment which may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+CA1858-006360
+
+585. No adjournment shall be granted for a period longer than ten days, upon
+the application of either party, except upon condition that such party file an
+undertaking, with sureties, to be approved by the justice, to the effect that
+they will pay to the opposite the amount of any judgment which may be recovered
+against the party applying.
+
+-----------------------------------------------
+
+
+NV1861-005800
+
+525. No adjournment shall be granted for a period longer than ten days, upon
+the application of either party, except on condition that such party file an
+undertaking, with sureties to be approved by the justice, to the effect that
+they will pay to the opposite party the amount of any judgment which may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+ID1864-005960
+
+539. No adjournment shall be granted for a period longer than ten days, upon
+the application of either party, except on condition that such party file an
+undertaking, with sureties to be approved by the justice, to the effect that
+they will pay to the opposite party the amount of any judgment which may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+AZ1865-005880
+
+587. No adjournment shall be granted for a period longer than ten days upon
+the application of either party, except upon condition that such party file an
+undertaking, with sureties, to be approved by the justice, to the effect that
+they will pay to the .opposite party the amount of any judgmentxwhich may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+MT1865-006450
+
+598. No adjournment shall be granted for a period longer than ten days upon
+the application of either party, except on condition that such party file an
+undertaking, with sureties to be approved by the justice, to the effect that
+they will pay to the opposite party the amount of any judgment that may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+CA1868-005840
+
+585. No adjonrnment shall be granted for a period longer than ten days, upon
+the application of either party, exceptupon condition that such party file an
+undertaking, with sureties, to be approved by the justice, to the effect that
+they will P,llY to the opposite party the amount of any judg­ ment which may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+NV1869-005940
+
+543. No adjournment shall be granted for a period longer 1 than ten days, upon
+'the application of either party, except upon condi‘* tion that such party file
+an undertaking, with sureties, to be approved by the Justice, to the effect
+that they will pay to the opposite party the amount of any judgment that may be
+recovered against the party applying, in the money or currency claimed in the
+pleading of the plaintifff. .
+
+-----------------------------------------------
+
+
+UT1870-005900
+
+541. No adjournment shall be granted for a period longer than ten days, upon
+the application of either party, except upon conditlon that such party file an
+undertaking, with sureties, to be approved by the Justice, to the effect that
+they will pay to the opposite party, the amount of any judgment that may be
+recovered f§ainst the party applying.
+
+-----------------------------------------------
+
+
+CA1872-007020
+
+877. No adjournment must, unless by consent, be granted for a period longer than
+ten days, upon the application of either party, except upon condition that such
+party file an undertaking, in an amount fixed by the Justice, with two sureties,
+to be approved by the Justice, to the effect that they will pay to the opposite
+party the amount of any judgment which may be recovered against the party
+applying, not exceeding the sum specified in the undertaking.
+
+-----------------------------------------------
+
+
+AZ1877-004690
+
+587. No adjournment shall be granted for a period longer than ten days upon
+the application of either party, .except upon condition that such party file an
+undertaking, with sureties, to be approved by the justice, to the effect that
+they will pay to the opposite party the amount of any judgment which may be
+recovered against the party applying.
+
+-----------------------------------------------
+
+
+CA1880-009610
+
+877. No adjournment must, unless by consent, be granted for a period longer
+than ten days, upon the appli cation of either party, except upon condition that
+such party file an undertaking, in an amount fixed by the jus tice, with two
+sureties, to be approved by the justice, to the effect that they will pay to
+the opposite party the amount of any judgment which may be recovered against the
+party applying, not exceeding the sum specified in the undertaking. Undertakings
+—see sec. 876n.
+
+-----------------------------------------------
+
+
+ID1881-006370
+
+589. No adjournment must, unless consent, be granted for a period longer than
+ten days, upon the application of either party, except upon condition that such
+party file an undertaking, in an amount fixed by the Court, with two sureties,
+to be approved by the Court, to the effect that they will pay to the opposite
+party the amount of any judgment which may be recovered against the party
+applying, not exceeding the sum specified in the undertaking.
+
+-----------------------------------------------
+
+
+DT1887-014960
+
+6088. No adjournment must, unless 1Jy consent, be granted for a periocl longer
+than ten days, upon the 0:Qplication of either ·party, except upon condition
+that such party .. .Tle an undertaking, .m an amount fixed by the justice, with
+·tvvo sureties, to be .approved by the justice, to tho effect that they will
+pay to the -opposite party the amount of any judgment which may be recov­ red
+against the party applying, not exceeding the sum specified .in the undertaking.
+ARTICLE 10. TRIALS. .Section, Section. 6089. Issues classified. 6096. Jury, how
+drawn. '6090. Issues of law. 6097. Challenges and talesmen. t>091. Issues of
+fact. 6098. Jury less than twelve. 6092 .. Issues of law tried by the court.
+6099. Oath of jury. ·6093. Issues of fact tried bythejury. . 6100. Production
+and tnspectdon of papers. '6094. Jury may oe waived. 6101. Genuineness admitted
+if not denied. (>095. Failure of one party to appear. .
+
+-----------------------------------------------
+
+
+OK1891-009390
+
+5. No adjournment must, unless by consent, be granted for a period longer than
+ten days, upon the application of 3 either party, except upon condition that
+such party file an undertaking in an amount fixed by the justice, with two
+sureties, to be approved by the justice, to the effect that they will pay to the
+opposite party the amount of any judgment which may be recov-ered against the
+party applying, not exceeding the sum specified in the undertaking. ARTICLE 9. —
+TRIALS.
+
+-----------------------------------------------
+
+
+MT1895-008870
+
+1594. No adjournment must, unless by consent, be granted for a period longer
+than ten days, upon the application of either party, except upon condition that
+such party file an undertaking, in an amount fixed by the justice, with two
+sureties, to be approved by the justice, to the effect that they will pay to
+the opposite party the amount of any judgment which may be recovered against the
+party applying, not exceeding the sum specified in the undertaking.
+
+-----------------------------------------------
+
+
+UT1898-015870
+
+3713. Id. Undertaking required if for more than thirty days. No adjournment
+must be granted, unless by consent, for a period longer than thirty days, upon
+the application of either party, except upon condition that such party file an
+undertaking in an amount fixed by the court, with two sureties, to be approved
+by the justice, to the effect that they will pay to the opposite party the
+amount of any judgment which may be recovered against the party applying, not
+exceeding the sum specified in the undertaking. [C. L. § 3583*. Cal. C. Civ. P.
+ji 877*. Qualifications of sureties generally, i 34Ki.
+
+-----------------------------------------------
+
+

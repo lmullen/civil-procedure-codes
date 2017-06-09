@@ -1,0 +1,70 @@
+Exemplar: CA1858-006560
+Earliest: CA1851-006660
+Documents in cluster: 7
+Cluster ID: 2257
+
+-----------------------------------------------
+
+CA1851-006660
+
+603. Those provisions of this Act, and no other, which are referred to in this
+Title, and in respect to which no special provision is made in this Title, shall
+be applicable to Justices’ Courts, and proceedings therein.
+
+-----------------------------------------------
+
+
+CA1858-006560
+
+603. Those provisions of this act, which are referred to in this title, and
+no other, shall, in addition to the provisions embraced in this title, be
+applicable to justices’ courts and proceedings therein.
+
+-----------------------------------------------
+
+
+NV1861-006000
+
+543. Those provisions of this act which are referred to in this title, and
+no other, shall, in addition to the provisions embraced in this title, be
+applicable to justices’ courts and proceedings therein.
+
+-----------------------------------------------
+
+
+ID1864-006170
+
+558. Those provisions‘ of this act which are referred. to in this title, and
+no other, shall, in addition to the provisions embraced in this title, be
+applicable to justices’ courts and proceedin therein.
+
+-----------------------------------------------
+
+
+CA1868-006020
+
+603. Those provisions of this act which are referred to in this title and
+no other, shall, in addition to the provisions embraced in this title, be
+applicable to justices' courts and proceedings tberein.
+
+-----------------------------------------------
+
+
+NV1869-006140
+
+561. Those provisions of this Act which are referred to in this Title and
+no other, shall, in addition to the provisions embraced in this Title, be
+applicable to Justices’ Courts and proceedings therein.
+
+-----------------------------------------------
+
+
+UT1870-006100
+
+559. Those provisions of this Act which are referred to in this Title and no
+other, shall, in addition to the rovisions embraced in this Title, be applicable
+to Justices’ ‘ourts and roceedings therein.
+
+-----------------------------------------------
+
+

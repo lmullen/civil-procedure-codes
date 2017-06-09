@@ -1,0 +1,190 @@
+Exemplar: NV1861-000260
+Earliest: CA1851-000280
+Documents in cluster: 15
+Cluster ID: 10752
+
+-----------------------------------------------
+
+CA1851-000280
+
+24. The summons shall state generally the nature of the action; the parties
+thereto; the Court in which it is brought; the County in which the complaint is
+filed; and require the defendant to appear and answer the complaint within the
+time mentioned in the next sectjon, after the service of summons, exclusive of
+the day of service; or that judgment, by default, will be taken against him.
+
+-----------------------------------------------
+
+
+DC1857-001240
+
+3. The summons shall require the defendant to appear and answer the complaint,
+or that judgment by default will be taken against him.
+
+-----------------------------------------------
+
+
+CA1858-000280
+
+24. The summons shall state the parties to the action, the court in which it is
+brought, the county in which the complaint is filed, and require the defendant
+to appear and answer the complaint within the time mentioned in the next
+section, after the service of summons, exclusive of the day of service, or that
+judgment by default will be taken against him, according to the prayer of the
+complaint, briefly stating the sum or other relief demanded in the complaint.
+
+-----------------------------------------------
+
+
+NV1861-000260
+
+24. The summons shall state the parties to the action, ‘ the court in which it
+is brought, the county in which the complaint is filed, the cause and general
+nature of the action, and 'require the defendant to appear and answer the
+complaint, within the time mentioned in the next section, after the service of
+summons, exclusive of the day of service, or that judgment by default will be
+taken against him, according to the pra er of the complaint, briefly stating the
+sum of money or ot er relief demanded in the complaint.
+
+-----------------------------------------------
+
+
+ID1864-000280
+
+24. he summons shall state the parties to the action, the court in which it
+is brought, the county in which the complaint is filed, the cause and general
+nature of the action, and require the defendant to ap ear and answer the
+complaint, with, in the time mentioned in t e next section, after the service
+of summons, exclusive of the day of service, or that judgment by default will be
+taken against him, according to the pra er of the complaint, briefly stating the
+sum of money or ot er relief demanded in the complaint; and the clerk shall also
+indorse on the summons the names of the plaintifff's attorneys.
+
+-----------------------------------------------
+
+
+AZ1865-000250
+
+24. The summons shall state the parties to the action, the court in which it is
+brought, the county in- which the complaint is filed, and require the defendant
+to appear and answer the complaint within the time mentioned in the‘next sectin,
+after the service of summons,» exalusive of the day of service :- or; that -
+judgment, by default,le be taken against him.
+
+-----------------------------------------------
+
+
+MT1865-000260
+
+24. The summons shall state the parties to the action, the court in which it
+is brought, the county in which the complaint is filed, and, if the action is
+brought for money, the amount demanded by the plaintifff; and shall require the
+defendant to appear and answer the complaint on the return day of the summons;
+and the clerk shall also indorse on the summons the names of the plaintifff’s
+attorneys.
+
+-----------------------------------------------
+
+
+CA1868-000270
+
+24. The summons shall state the parties to the action, the court in which it
+is brought, the county in which the complaint is filed, the cause and general
+nature of the action, and require the defendant to appear and answer the com­
+plaint within the time mentioned in the next section, after the service of
+summons, exclusive of the day of service, or that judgment by default will be
+taken agalnst him, according to the prnye1· of the complaint, briefly stating-
+the sum of money or other relief demanded in the complaint, and the clerk shall
+also indorse on the summons the names of the plaintifff'ts attorneys.
+
+-----------------------------------------------
+
+
+CA1868-000280
+
+24. The summons shall state the parties to the action, the court in which it is
+brought, the county in which the complaint is filed, and require the defendant
+to appear and answer the complaint, within the time mentioned in the next
+section, after the service of summons exclusive of the day of service, or that
+judgment by default will be taken against him according to the prayer of the
+complaint, briefly slating the sum or other relief demanded in the complaint.
+
+-----------------------------------------------
+
+
+NV1869-000280
+
+24. The summons shall state the parties to the action, the Court in which it is
+brought, the county in which the complaint is filed, the cause general nature of
+the action, and require the defendant to appear‘an‘d answer the complaint within
+the time mentioned in the next section, after the service of summons, exclusive
+of the day of service; or that judgment by default will be taken against him,
+according to the prayer of the complaint; briefly stating the‘sum of money or
+other relief demanded in the complaint. The names of the plaintifff’s attorneys
+shall be indorsed upon the summons. ’
+
+-----------------------------------------------
+
+
+UT1870-000260
+
+24. The summons shall state yr the parties to the action, the .Court in which
+it is brought," the County in which the complaint ,is liled,the, cause ,and-
+general" natureof- the action, and require the defendant appear and-answer the
+complaintgwithin the time mentioned in the next Section, after the service of
+summons, exclusive of the day of serviCe; or that judgment by default will be
+taken against him, according to the prayer of the com laint, briefly stating the
+sum of money or other relief deman ed in the complaint. ”
+
+-----------------------------------------------
+
+
+CO1877-000340
+
+31. The summons shall state the parties to the action, the court in which it
+is brought, the county in which the complaint is filed, the cause and general
+nature of the action, and require the defendant to appear and answer .the’
+complaint within the time mentioned in the next section, after the service of
+the summons, exclusive of the day of service, or that judgment by default will
+be taken against him according to the prayer of the complaint, briefly stating
+the sum of money or other relief demanded in the complaint; and the clerk: shall
+also endorse on the summons the names of the plaintifff ’s attorneys.
+
+-----------------------------------------------
+
+
+AZ1877-000300
+
+24. The summons shall state the parties to the action, the court in which it is
+brought, the county in which the complaint is filed, and require the defendant
+to appear and answer the complaint within the time mentioned in the next section
+after the service of summons, exclusive of the day of service; or that judgment
+by default will be taken against him.
+
+-----------------------------------------------
+
+
+AZ1887-000540
+
+47. The summons shall state the parties to the action, the court in which it is
+brought, the county in which the complaint is filed, and require the defendant
+to appear and answer the complaint within the time mentioned in the next section
+after the service of summons, exclusive of the day of service; or that judgment
+by default will be taken against him.
+
+-----------------------------------------------
+
+
+AZ1901-000500
+
+107.) The summons shall state the parties to the action, the court in which
+it is brought, the county in which the com plaint, is filed, and require the
+defendant to appear and answer the complaint within the time mentioned in the
+next section after the service of summons, exclusive of the day of service ; or
+that judgment by default will be taken against him. 28 Sum mon9 may be issued
+within one y ear after complaint filed. Copy of com plaint must be at tached to
+sum mons. Service In suits against cities and towns. Service on cor porations.
+
+-----------------------------------------------
+
+

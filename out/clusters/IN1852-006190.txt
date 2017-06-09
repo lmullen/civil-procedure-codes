@@ -1,0 +1,70 @@
+Exemplar: WA1855-004440
+Earliest: IN1852-006190
+Documents in cluster: 6
+Cluster ID: 20068
+
+-----------------------------------------------
+
+IN1852-006190
+
+634. When there is an express written agreement for the payment of _ the sum of
+money secured, contained in the mortgage, or any separate instrument, the court
+shall direct in the order of sale that the balance due on the mortgage and costs
+which may remain unsatisfiedafter the sale of the mortgaged premises, shall be
+levied of any property of the mort age-debtor.
+
+-----------------------------------------------
+
+
+TX1855-006480
+
+560. The Court shall direct in the order of sale, that the balance due on the
+mortgage, and costs which may remain unsatisfied after the sale of the mortgaged
+property, shall be levied of any property of the mortgage debtor, not exempt
+from execution.
+
+-----------------------------------------------
+
+
+WA1855-004440
+
+411. When there is an express written agreement for the payment of the sum of
+money secured, contained in the mortgage, or any separate instrument, the court
+shall direct, in the order of the sale, that the balance due on the mortgage,
+and costs which may remain unsatisfied after the sale of the mortgaged premises,
+shall be levied of any property of the mortgage debtor.
+
+-----------------------------------------------
+
+
+DC1857-005150
+
+3. The court shall direct in the order of sale that the sum due on the mortgage
+and costs which may remain unsatisfied after the sale of the mortgaged premises,
+shall be levied on any property of the mortgage debtor.
+
+-----------------------------------------------
+
+
+WA1873-004880
+
+447. When there is an express agreement for the payment of the sum of money
+secured contained in the mortgage or any separate instrument, the court shall
+direct in the order of the sale that the balance due on the mortgage, and costs
+which may remain unsatisfied after the sale of the mortgaged premises, shall be
+levied of any property of the mortgage debtor. .
+
+-----------------------------------------------
+
+
+OK1891-007410
+
+14. When there is an express written agreement for the payment of the sum of
+money secured contained in the mortgage or any separate instrument, and the
+court shall direct, in the order of sale, the balance due on the mortgage, and
+costs which may remain unsatisfied after the sale of mortgaged premises, shall
+be levied of any property of the mortgage-debtor.
+
+-----------------------------------------------
+
+

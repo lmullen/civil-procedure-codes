@@ -1,0 +1,61 @@
+Exemplar: CA1872-010210
+Earliest: CA1872-010210
+Documents in cluster: 5
+Cluster ID: 2530
+
+-----------------------------------------------
+
+CA1872-010210
+
+1298. Every custodian of a will, within thirty days after receipt of information
+that the maker thereof is dead, must deliver the same to the Probate Court
+having jurisdiction of the estate, or to the executor named therein. A failure
+to comply with the provisions of this section makes the‘ person failing
+responsible for all damages sustained by any one injured thereby.
+
+-----------------------------------------------
+
+
+CA1880-013590
+
+1298. Every custodian of a will, within thirty days after receipt of information
+that the maker thereof is dead, must deliver the same to the Superior Court
+having jurisdiction of the estate, or to the executor named therein. A failure
+to comply with the provisions of tljis
+
+-----------------------------------------------
+
+
+AZ1887-003540
+
+4. Every custodian of a will, within thirty days after receiptof information
+that the maker thereof is dead, must deliver the same to the probate court
+having jurisdiction of the estate, or to the executor named therein. A
+failure to comply with the provisions of this section makes the person failing
+responsible for all damages sustained by any one injured‘ thereby.
+
+-----------------------------------------------
+
+
+DT1887-009810
+
+5659. Every custodian of a will within thirty days after receipt of inf ormation
+that t he maker thereof is dead, must deliver the same to the probate cour·t
+having jurisdiction of the estate, or to the executor named therein, A failure
+to comply with the provisions of this section makes the person fail ing re­
+sponsible for all damages sustained by any 011e injured thereby.
+
+-----------------------------------------------
+
+
+MT1895-012930
+
+2320. Every custodian of a will, within thirty days after receipt of information
+that the maker thereof is dead, must deliver the same to the Dis­ trict Court
+having jurisdiction of the estate, or to the executor named therein. A failure
+to comply with the provisions of this Section makes the person fail­ ing
+responsible for all damages sustained by anyone injured thereby.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,74 @@
+Exemplar: CA1872-011720
+Earliest: CA1872-011720
+Documents in cluster: 6
+Cluster ID: 2623
+
+-----------------------------------------------
+
+CA1872-011720
+
+1498. When a claim is rejected, either by the executor or administrator, or
+the Probate Judge, the holder must bring suit in the proper Court against the
+executor or administrator, within three months after the date of its rejection,
+if it be then due, or within two months after it becomes due, otherwise the
+claim is forever barred.
+
+-----------------------------------------------
+
+
+WA1873-008030
+
+197. When a claim is rejected by either the executor, administrator or the judge
+of probate court, the holder must bring suit in the proper court against the
+ekecu. tor or administrator within three months after it becomes due, otherwise
+the claim shall be forever barred.
+
+-----------------------------------------------
+
+
+CA1880-015560
+
+149a When a claim is rejected either by the exec utor or administrator, or a
+judge of the Superior Court, the holder must bring suit in the proper court
+against the executor or administrator within three months after the date of
+its rejection, if it be then due, or within two months after it becomes due,
+otherwise the claim shall be forever barred. [In effect April 16th, 1880.] Time
+for bringing snit-rsec. 1501 ; 2 Cal. 385; 19 Cal. 85: 34 Cal. 225.
+
+-----------------------------------------------
+
+
+AZ1887-005040
+
+151. When a claim is rejected, either by the executor or. administrator, or
+the probate judge, the holder must bring suit in the proper -court against
+theexecutor or administrator, within three months after date of its rejection,
+if it be then due, or within two months after it becomes due, otherwise the
+claim is forever barred.
+
+-----------------------------------------------
+
+
+DT1887-011460
+
+5796. When a claim is rejected; either by the executor· 01" administrator, 01'
+the judge of the probate court, the holder· must bring suit in the proper court,
+to wit, before a justice of' the peace, 01' in the district court, according
+to its amount, against the executor or administrator, within three months after
+the· date of its rejection, if it be then due, or within two months after it
+becomes due, otherwise tho claim is f orever barred.
+
+-----------------------------------------------
+
+
+MT1895-014450
+
+2608. When a claim is rejected either by the executor or administrator, or the
+judge, the holder must bring suit in the proper court against the execu­ tor or
+administrator within three months after the date of its rejection, if it be then
+due, or within two months after it becomes due, otherwise the claim shall be
+forever barred.
+
+-----------------------------------------------
+
+

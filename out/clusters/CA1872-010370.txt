@@ -1,0 +1,58 @@
+Exemplar: CA1880-013800
+Earliest: CA1872-010370
+Documents in cluster: 5
+Cluster ID: 2918
+
+-----------------------------------------------
+
+CA1872-010370
+
+1316. The testimony of each Witness, reduced to Writing and signed by him,
+shall be good evidence in any subsequent contests concerning the validity of the
+will, or the sufliciency of the proof thereof, if the Witness be dead, or has
+permanently removed from this State. ‘
+
+-----------------------------------------------
+
+
+CA1880-013800
+
+1316. The testimony of each witness, reduced to writing and signed by him,
+shall be good evidence in any subsequent contests concerning the validity of the
+will, or the sufficiency of the proof thereof, if the ■witness be dead, or has
+permanently removed from this State.
+
+-----------------------------------------------
+
+
+AZ1887-003700
+
+20. The testimony of each witness, reduced to writing and signed by him, shall
+be good evidence in any subsequent contests concerning the validity of the
+will, or the sufficiency of the proof thereof, if the witness be dead or has
+permanently removed from this territory.
+
+-----------------------------------------------
+
+
+DT1887-010000
+
+5674. The testimony of each witness, reduced to writing and signed by him,
+shall be taken, kept and filed by the judge, and shall be good evidence i11
+any subsequent contests or trials concerning the validity of the will, or th e
+sufficiency of the proof thereof', if the witness be dead, 01 .. has permanently
+1 .. emoved from this territory.
+
+-----------------------------------------------
+
+
+MT1895-013080
+
+2344. The testimony of each witness, reduced to writing and signed by him, shall
+be good evidence in any subsequent contests concerning the valid­ ity of the
+will, or the sufficiency of the proof thereof, if the witness be dead, or has
+permanently removed from this State.
+
+-----------------------------------------------
+
+

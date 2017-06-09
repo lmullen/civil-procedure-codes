@@ -1,0 +1,53 @@
+Exemplar: CA1872-011660
+Earliest: CA1872-011660
+Documents in cluster: 5
+Cluster ID: 2620
+
+-----------------------------------------------
+
+CA1872-011660
+
+1491. The time expressed in the notice must be ten months after its first
+publication, when the estate exceeds in value the sum of ten thousand dollars,
+and four months when it does not.
+
+-----------------------------------------------
+
+
+CA1880-015450
+
+1491. The time expressed in the notice must be ten months after its first
+publication when the estate exceeds in value the sum of ten thousand dollars,
+aud four months when it does not. Figures of appraisement govern—My. P. Rep.
+203.
+
+-----------------------------------------------
+
+
+AZ1887-004970
+
+144. The time expressed in the notice must be ten months after its first
+publication, when the estate exceeds in value the sum of three thousand dollars,
+and four months when it does not.
+
+-----------------------------------------------
+
+
+DT1887-011380
+
+5788. The time expressed in the notice must be six months after its first
+publioation, when the estate exceeds in value the sum of five thousand clollars,
+and four months when it does not.
+
+-----------------------------------------------
+
+
+MT1895-014380
+
+2601. The time expressed in the notice must be ten months after its first
+publication when the estate exceeds in value the sum of ten thousand dollars,
+and four months when it does not.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,60 @@
+Exemplar: MO1856-003860
+Earliest: MO1835-004140
+Documents in cluster: 5
+Cluster ID: 9529
+
+-----------------------------------------------
+
+MO1835-004140
+
+The supreme court, in appeals or writs of error, shall examine the record, and
+award a new trial; reverse or aliirm the judgxnent or decision of the circuit
+court, or give such judgment as such court ought to have given, as to them shall
+seem agreeable to law. Vflien the facts in a special verdict are insufficiently
+found, they may remand the cause,and order another trial to ascertain the facts.
+
+-----------------------------------------------
+
+
+AR1838-002840
+
+In all appeals and writs of error, the supreme court shall examine the record,
+award a new trial, reverse or affirm the judgment or decision of the circuit
+court, or give such judgment as such court ought to have given, as may seem most
+agreeable to law.
+
+-----------------------------------------------
+
+
+AR1838-002850
+
+When the facts in a special verdict are insufficiently found, the supreme court
+may remand the cause, and order another trial to ascertain the facts.
+
+-----------------------------------------------
+
+
+MO1856-003860
+
+35. The Supreme COurt, in appeals or writs of error, shall examine the record
+and award a new trial, reverse or affirm the jdugment or decision of the circuit
+court, or give such judgment as such court ought to have given, as to them shall
+seem agreeable to law. When the facts in a special verdict are insufficiently
+found, they may remand the cause, and order another trial to ascertain the
+facts.
+
+-----------------------------------------------
+
+
+MO1879-003180
+
+3776. The supreme court, in appeals or writs of error, shall examine the record
+and award a new trial, reseverse or affirm the judgment or decision fo the
+circuit court, or give such judgment as such court ought to have given, as
+to them shall seem agreeable to law. When the facts in a special verdict are
+insufficiently found, they may remand the cause and order another trial to
+ascertain the facts.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,75 @@
+Exemplar: AZ1887-004320
+Earliest: CA1872-010980
+Documents in cluster: 5
+Cluster ID: 1774
+
+-----------------------------------------------
+
+CA1872-010980
+
+1398. If the Probate Judge is satisfied that the maqer requires investigation,
+a citation must be issued to the executor or administrator, requiring him
+to appear, at a time and place to be therein specified, to show cause why he
+should not give further security. The citation must be served personally on
+the executor or administrator, at least five days before the return day. If he
+has absconded, or cannot be found, it may be served by leaving a copy of it at
+his last place of residence, or by such publication as the Court or J udge may
+order.
+
+-----------------------------------------------
+
+
+CA1880-014570
+
+1398. If the court, or a judge thereof, is satisfied t.liat the matter requires
+investigation, a citation must be issued to the executor or administrator,
+requiring him to appear, at a time and place to be therein specified, to show
+cause why he should not give further security. The citation must be served
+personally on the executor or administrator, at least five days before the
+return day. If he has absconded, or cannot be found, it may be served "by
+leaving a copy of it at liis place of residence, or by such publication as the
+court or a judge thereof may or der. [In effect April 16th, 1880.]
+
+-----------------------------------------------
+
+
+AZ1887-004320
+
+81. If the probate judge is satisfied that the matter requires investigation,
+a citation must be issued to the executor or administrator, requiring him to
+appear, at a time and place to be therein specified, to -show cause why he
+should not give further security. The citation must be served personally on the
+executor or administrator, at least live days before the return day. If he has
+absconded, or cannot be found, it may be served by leaving a copy of it at his
+place of residence, or by such publication as the court or judge may order.
+
+-----------------------------------------------
+
+
+DT1887-010730
+
+5735· If the judge 18 satisfied that the matter requires Investig'ation, a
+c1tat1011 must be issued to the executor· or admin- . · } · istrator, requrrmg
+11m to appear .. , at a time and place to be therein speci~ed,. to show cause
+why he should not give further security. The c1tat1011 must be served personally
+011 the executor or admin­ istrator, at least five days before the 1~et1t11"11
+clay. If l1e has absconded, or cannot be found, it may be ser .. ved by leaving
+a copy of it at his last place of residence, 01' by such publication as the
+judge may order.
+
+-----------------------------------------------
+
+
+MT1895-013700
+
+2481. If the court or judge is satisfied that the matter requires inves­
+tigation, a citation must be issued to the executor or administrator, requiring
+him to appear, at a time and place therein specified, to show cause why he
+should not give further security. The citation must be served personally on the
+executor or administrator, at least five days before the return day. If he has
+absconded or cannot be found, it may be served by leaving a copy of it at his
+place of residence, or by such publication as the court or judge may order.
+
+-----------------------------------------------
+
+

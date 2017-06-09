@@ -1,0 +1,70 @@
+Exemplar: NE1859-006660
+Earliest: IA1851-006300
+Documents in cluster: 7
+Cluster ID: 10490
+
+-----------------------------------------------
+
+IA1851-006300
+
+2140. An heir, whether a minor or of full age, may maintain these actions for
+injuries done in the time of his ancestor as well as in his own time, unless
+barred by the statute of limitations.
+
+-----------------------------------------------
+
+
+NE1855-006300
+
+2140. An heir, whether a minor or of full age, may maintain these actions for
+injuries done in the time of his ancestor as well as in his own time, unless
+barred by the statute of limitations.
+
+-----------------------------------------------
+
+
+NE1857-005090
+
+10. An heir, whether a, minor or of full age, may maintain these actions for
+injuries done in the time of his ancestors as well as in his own time, unless
+barred by the statute of limitations.
+
+-----------------------------------------------
+
+
+NE1859-006660
+
+579. An heir, whether a minor or of full age, may maintain these actions for
+injuries done in the time of his ancestors as well as in his own time, unless
+barred by the statute of limitations.
+
+-----------------------------------------------
+
+
+DT1862-006010
+
+575. An heir, whether a minor or of full age, may maintain these actions for
+injuries done in the time of his ancestors, as well as in his owri time, unless
+barred by the statute of limitations.
+
+-----------------------------------------------
+
+
+NE1866-007080
+
+639. An heir, whether a minor or of full age, may maintain these actions for
+injuries done in the time of his ancestors as well as in his own time, unless
+barred by the statute of limitations.
+
+-----------------------------------------------
+
+
+WY1870-006570
+
+633. An heir, whether aminor or of full age, may maintain these actions for
+injuries done in the time of his ancestors as well as in his own time, unless
+barred by the statutes of limitations.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,69 @@
+Exemplar: CA1872-014420
+Earliest: NY1850-018230
+Documents in cluster: 6
+Cluster ID: 2782
+
+-----------------------------------------------
+
+NY1850-018230
+
+1667. Direct evidence is that which proves the fact in dispute, directly,
+without an inference or presumption, and which in itself, if true, conclusively
+establishes that fact. For example, if the fact in dispute be an agreement, the
+evidence of a witness who was present and witnessed the making of it, is direct.
+
+-----------------------------------------------
+
+
+OR1862-007720
+
+662. Direct evidence is that which proves the fact in ilispute, directly,
+without an inference or presumption, and which in itself, if true, conclusively
+establishes that fact. For example: If the fact in dispute be an agreement,
+the evidence of a witness’ who was préisent and witnessed the making of it, is
+direct.
+
+-----------------------------------------------
+
+
+CA1872-014420
+
+1831. Direct evidence is that which proves the fact in dispute, directly,
+without an inference or presumption, and which in itself, if true, conclusively
+establishes that fact. For example: if the fact in dispute be an agreement, the
+evidence of a Witness who was present and witnessed the making of it, is direct.
+
+-----------------------------------------------
+
+
+CA1880-018810
+
+1831. Direct evidence is that which proves the fact in dispute directly,
+without an inference or presumption, and which in itself, if true, conclusively
+establishes that fact. For example: if the fact in dispute be au agree ment, the
+evidence of a witness who was present and witnessed the making of it, is direct.
+
+-----------------------------------------------
+
+
+OR1892-007950
+
+672. [662.] Direct evidence is that which proves the fact in dispute directly,
+without an inference or pre sumption, and which in itself, if true, conclusively
+estab lishes that fact. For example: if the fact in dispute be an agreement, the
+evidence of a witness who was present and witnessed the making of it is direct.
+
+-----------------------------------------------
+
+
+MT1895-017360
+
+3108. Direct evidence is that which proves the fact in dispute direct­ ly
+without an inference or presumption, and which in itself, if true, conclusive­
+ly establishes that fact. For example, if the fact in dispute be an agreement,
+the evidence of a witness who was present and witnessed the making of it, is
+direct.
+
+-----------------------------------------------
+
+

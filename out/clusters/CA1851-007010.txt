@@ -1,0 +1,61 @@
+Exemplar: CA1868-006340
+Earliest: CA1851-007010
+Documents in cluster: 6
+Cluster ID: 2303
+
+-----------------------------------------------
+
+CA1851-007010
+
+637. Immediately after tiling the complaint, a summons shall be issued, directed
+to the defendant, and returnable either immediately, or at any time designated
+therein, not exceeding four days from the date of its issuance.
+
+-----------------------------------------------
+
+
+CA1858-006890
+
+637. Immediately after filing the complaint, a summons shall be issued, directed
+to the defendant, and returnable either immediately, or at atime designated
+therein, not exceeding four days from the date of its issuance.
+
+-----------------------------------------------
+
+
+CA1868-006340
+
+637. Immediately after filing the complaint, a summons shall be issued, directed
+to the defendant, and returnable either immediately, or at any time designated
+therein, not exceeding four days from the date of its issuance. Answer.
+
+-----------------------------------------------
+
+
+CA1872-007510
+
+930. Immediately after filing the complaint a summons must be issued, directed
+to the defendant, and returnable either immediately or at any time designated
+therein, not exceeding four days from the date of its issuing. .
+
+-----------------------------------------------
+
+
+CA1880-010110
+
+930. Immediately after filing the complaint, a sum mons must be issued, directed
+to the defendant, and re turnable either immediately or at any time designated
+therein, not exceeding four days from the date of its issuing.
+
+-----------------------------------------------
+
+
+MT1895-009530
+
+1701. Immediately after filing the complaint, a summons must be issued, directed
+to the defendant, and returnable either immediately or at any time designated
+therein, not exceeding four days from the date of its issuing.
+
+-----------------------------------------------
+
+

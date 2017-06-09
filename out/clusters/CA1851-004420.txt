@@ -1,0 +1,121 @@
+Exemplar: CA1851-004420
+Earliest: CA1851-004420
+Documents in cluster: 10
+Cluster ID: 2093
+
+-----------------------------------------------
+
+CA1851-004420
+
+398. A licensed physician or surgeon shall not, without the consent of his
+patient, be examined as a witness, as to any information acquired in attending
+the patient, which 'was necessary to enable him to prescribe or act for the
+patient.
+
+-----------------------------------------------
+
+
+CA1858-004340
+
+398. A licensed physician or surgeon shall not, without the consent of his
+patient, be examined as a witness, as to any information acquired in attending
+the patient, which was necessary to enable him to prescribe or act for the
+patient.
+
+-----------------------------------------------
+
+
+NV1861-003840
+
+346. A licensed physician or surgeon shall not, with_out the consent of his
+patient, be examined as a witness, as to any information acquired in attending
+the patient, which was necessary to enable him to prescribe or act for the
+patient.
+
+-----------------------------------------------
+
+
+ID1864-003950
+
+856. A licensed physician or surgeon shall not, without the consent of his
+patient, be examined as a witness as to any information acquired in attending
+the patient, which was e necessary to enable him to prescri or act for the
+patient.
+
+-----------------------------------------------
+
+
+AZ1865-004010
+
+400. A licensed physician or surgeon shall not, without the consent of his
+patient, be examined as a witness as to any information acquired in attending
+the patient which was necessary to enable him to prescribe or act for the
+patient.
+
+-----------------------------------------------
+
+
+CA1868-004030
+
+398. A licensed physician, or surgeon, shall not. with· out tLe consent of hie
+patient, be examined as a witness as to any information acquired in attending
+the patient, which was necessary to enable him to prescribe, or act, for the
+pa­ tient; provided, however, in any suit, or prosecution, against a physician,
+or surgeon, for malpractice, if the patient, or party, suing, or prosecuting,
+shall give such consent, and any such witness shall give testimony, then such
+physician, or surgeon, defendant, may call any other physicians, or sur­ geons,
+as witnesses, on behalf of defendant, without the consent of such patient, or
+party, suing, or prosecuting.
+
+-----------------------------------------------
+
+
+NV1869-004200
+
+384. A licensed physician or surgeon shall not, without the consent of his
+patient, be examined as a witness as to any information acquired in attending
+the patient, which was necessary to enable him to prescribe or act for the
+patient; provided, however, in any suit or prosecution against a physician or
+surgeon for malpractice, if the patient or party suing or prosecuting shall
+require or give such consent, and any such witness shall give testimony, then
+such physician or surgeon, defendant, may call any other physicians or surgeons
+as witnesses on behalf of defendant, without the consent of such patient or
+party suing or prosecuting.
+
+-----------------------------------------------
+
+
+UT1870-004140
+
+382. A licensed physician or surgeon shall not, without the consent of his
+patient, be examined as a witness as to any information ac uired in attending
+the atient, which was necessary to enable im to prescribe or act or the patient:
+provided, however, in any suit or prosecution against a physician or surgeon
+for malpractice, if the patient or party sueing or rosecuting shall require or
+give such consent, and any suc witness shall give testimony, then such physician
+or surgeon, defendant, may call any other physicians or surgeons as witnesses
+on behalf. of defendant, without the consent of such patient or party sueing or
+prosecuting.
+
+-----------------------------------------------
+
+
+UT1898-010740
+
+4. A physician or surgeon cannot, without the consent of his patient, be
+examined in a civil action as to any information acquired in attending the
+patient which was necessary to enable him to prescribe or act for the patient.
+
+-----------------------------------------------
+
+
+AK1900-011380
+
+1038. A physician or surgeon shal not,_ against the objection of his patient,
+be examined in a civil action or roceeding as to any information acquired in
+attending the patient W ich was necessary to enable him to rescribe or act for
+the patient.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,255 @@
+Exemplar: CA1851-002110
+Earliest: NY1850-008870
+Documents in cluster: 29
+Cluster ID: 2037
+
+-----------------------------------------------
+
+NY1850-008870
+
+804. A new trial is a re-examination of an issue of fact, in the same court,
+after a trial and decision by a jury, court, or referees.
+
+-----------------------------------------------
+
+
+CA1851-002110
+
+192. A new trial is a reexamination of an issue of fact, in the same court,
+after a trial and decision by a jury, Court, or referees.
+
+-----------------------------------------------
+
+
+MN1851-002270
+
+58. A new trial is a re-examination of an issue of fact in the same court, after
+a trial and decision by a ‘my, court, or referees.
+
+-----------------------------------------------
+
+
+NY1853-008720
+
+797. A new trial is are-examination of an issue of fact, in the same court,
+after a trial and decision by ajury, court, or referees.
+
+-----------------------------------------------
+
+
+OR1854-002340
+
+35. A new trial is a re-examination of an issue of fact in the same court, after
+a trial and decision by a jury, court, or re- ferees.
+
+-----------------------------------------------
+
+
+WA1855-002300
+
+215. A new trial is a re-examination of an issue, in the same court "after a
+trial and decision by a jury, court or referees.
+
+-----------------------------------------------
+
+
+CA1858-002080
+
+192. A new trial is a re-examination of an issue of fact in the same court,
+after a trial and decision by a jury, court, or referees.
+
+-----------------------------------------------
+
+
+MN1859-002310
+
+58. A new trial is a re-examination of an issue of fact in the same court, after
+a trial and decision by a jury, court, or referees.
+
+-----------------------------------------------
+
+
+UT1859-001630
+
+143. A new trial is a re-examination of an issue of fact in the same court,
+after a trial and decision of a jury or court.
+
+-----------------------------------------------
+
+
+NV1861-002070
+
+192. A new trial is a re-examination of an issue of fact, . 1n the same court,
+after a. trial and demsnon by a jury, court, or referees, 1n actions at law; but
+in chancery cases, such reexamination shall be called a rehearing, and motions
+for a new trial, or rehearing, as the case may he, shall be conducted as in this
+article provided.
+
+-----------------------------------------------
+
+
+OR1862-002730
+
+231. A new trial is a re-examination of an issue of factiin the same court,
+after a trial and decision or verdict by a court or jury.
+
+-----------------------------------------------
+
+
+ID1864-002100
+
+195. A new trial is a re-examination of an issue of fact, in the same court,
+after a trial and decision by a jury, court or referees in actions at law; but,
+in chancery cases, such re-examination shall be called a re-hearing; and motions
+for a new trial or re-hearing, as the case may he, shall be conducted as in this
+article provided.
+
+-----------------------------------------------
+
+
+AZ1865-001950
+
+194. A new trial is a reexamination of an issue of fact in the same court, after
+a trial and decision by a jury, court, or referees.
+
+-----------------------------------------------
+
+
+MT1865-001790
+
+168. A new trial is a re-examination of an issue of fact in the same court
+after a trial and decision by a jury, court, or referees in action at law, but
+in chancery cases such re-examination shall be called a re-hearing, and motions
+for a new trial or rehearing, as the case may he, shall be conducted as in this
+article provided.
+
+-----------------------------------------------
+
+
+CA1868-001960
+
+192. A new trial is a re-examination of an issue of fact in the same court,
+after a trial and decision by a jury, court, or referees.
+
+-----------------------------------------------
+
+
+NV1869-002120
+
+194. A new trial is a re-examination of an issue of faCt in the same Court after
+a trial and decision by a jury, Court, or referees.
+
+-----------------------------------------------
+
+
+UT1870-002070
+
+192; A new trial is a reexamination of an issue of] fact in the same Court after
+atrial and decision by a. a jury, Court, or referees.
+
+-----------------------------------------------
+
+
+CA1872-005100
+
+656. A new trial is a reexamination of an issue of fact in the same Court after
+a trial and decision by a jury or Court, or by referees.
+
+-----------------------------------------------
+
+
+WA1873-002580
+
+242. A new trial is a re-examination of an is­ sue in the same court after a
+trial and decision by a jury, court or referees.
+
+-----------------------------------------------
+
+
+CO1877-002220
+
+198. A new trial is a re-examination. of an. issue of fact in the same court,
+after a trial and decision by. a jury, court, or referees.
+
+-----------------------------------------------
+
+
+ND1877-002980
+
+285. A new trial is a re-examination of an issue of fact in the same court after
+a trial and decision by a jury or court, or by referees.
+
+-----------------------------------------------
+
+
+CA1880-006890
+
+656. A new trial is a re-examination of an issue of fact in the same court after
+a trial and decision by a jury orNew court, trial—see or by note referees. to
+next section.
+
+-----------------------------------------------
+
+
+ID1881-004450
+
+410. A new trial is a re-examination of an issue of fact in the same Court after
+a trial and decision by a jury or Court, or by referees.
+
+-----------------------------------------------
+
+
+CO1884-001440
+
+192. (198) A new trial is a re-examination of an issue of fact in the same
+court, after a trial and decision by a jury, court, or referees. ' [New
+trlal.causcs.]
+
+-----------------------------------------------
+
+
+UT1884-004130
+
+533. A new trial is a re-examination of' an issue of fact in the same court.
+afte'r a trial and decision by a jury, or court, or by referees.
+
+-----------------------------------------------
+
+
+OR1892-002940
+
+234. [231.] A new trial is a re-examination of an issue of fact in the same
+court after a trial and decision or verdict by a court or jury.
+
+-----------------------------------------------
+
+
+MT1895-006170
+
+1170. A new trial is a re-examination of an issue of fact in the same court
+after a trial and decision by a jury or court, or by referees.
+
+-----------------------------------------------
+
+
+UT1898-007800
+
+3291. New trial defined. A new trial is a re-examination of an issue of fact in
+the same court after a trial and decision by a jury, court, judicial officer,
+or referees. [C. L. § 3399. Bate v. Am. Fork, 7 U. 189; 26 P. 296. White v Cal.
+C. Civ. P. I 656. Order granting new trial will not be reversed V. P. Ky. Co.,
+8 U. 56; 29 P. 1030. Tousey v. Etzel. except for manifest error or clear abuse
+of discre 9 U. 329; 34 P. 291. tion. Davis v. Utab Sou. Ky. Co., 3 U. 218; 2 P.
+521.
+
+-----------------------------------------------
+
+
+AK1900-002470
+
+225. A new trial is a reexamination of an issue of fact in the same court after
+a trial and decision or verdict by a court or jury.
+
+-----------------------------------------------
+
+

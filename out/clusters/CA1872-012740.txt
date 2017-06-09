@@ -1,0 +1,66 @@
+Exemplar: AZ1887-006080
+Earliest: CA1872-012740
+Documents in cluster: 5
+Cluster ID: 1823
+
+-----------------------------------------------
+
+CA1872-012740
+
+1625. If the Judge is -satisfied, either from the oath of the applicant or from
+any other testimony otfered, that the facts alleged are true, and considers the
+showing of the applicant sufficient, he must direct a citation to be issued to
+the executor or administrator, requiring him to appear at some day to be named
+in the citation, which must be during a term of the Court, and render an exhibit
+as prayed for.
+
+-----------------------------------------------
+
+
+WA1873-008940
+
+284. If the probate court be satisfied, either from the oath of the applicant or
+from any other testimony that may be offered, that the facts alleged are true,
+arid shall con­ sider the showing of the applicant sufficient, a citation shall
+be issued to the executor or administrator requiring him to appear on some day
+named in the citation, which shall be dur­ ing the term of a court, and render
+an exhibit as prayed for.
+
+-----------------------------------------------
+
+
+CA1880-016690
+
+1625. If the court, or a judge thereof, is satisfied, either from the oath of
+the applicant or from any other testimony offered, that the facts alleged are
+true, and con siders the showing of the applicant sufficient, he must direct
+a citation to be issued to the executor or adminis trator, requiring him to
+appear, at some day to be named in the citation, and render an exhibit as prayed
+for. [In effect April 16th, 1880.]
+
+-----------------------------------------------
+
+
+AZ1887-006080
+
+252. If the judge is satisfied, either from the oath of the applicant or from
+any other testimony offered, that the facts alleged are true, and considers the
+showing of the applicant sufficient, he must direct a citation to be issued to
+the executor or administrator, requiring him to appear at some day to be named
+in the citation, which must be during a term of the court, and render an exhibit
+as prayed for.
+
+-----------------------------------------------
+
+
+MT1895-015540
+
+2783. If the court or judge is satisfied, either from the oath of the ap­
+plicant or from any other testimony offered, that the facts alleged are true,
+and considers the showing of the applicant sufficient, he must direct a citation
+to be issued to the executor or administrator, requiring him to appear, at some
+day to be named in the citation, and render an exhibit as prayed for.
+
+-----------------------------------------------
+
+

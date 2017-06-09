@@ -1,0 +1,68 @@
+Exemplar: CA1872-011350
+Earliest: CA1872-011350
+Documents in cluster: 5
+Cluster ID: 2605
+
+-----------------------------------------------
+
+CA1872-011350
+
+1448. The discharge or bequest in a will, of any debt or demand of the testator
+against the executor named, or any other person, is not valid against the
+creditors of the decedent, but is a specific bequest of the debt or demand. It
+must be included in the inventory, and, if necessary, applied in the payment of
+the debts. If not necessary for that purpose, it must be paid in the same manner
+and proportion as other specific legacies.
+
+-----------------------------------------------
+
+
+CA1880-015040
+
+1448. The discharge or bequest in a will, of any debt or demand of the testator
+against the executor named, or any other person, is not valid against the
+creditors of the decedent, but is a specific bequest of the debt or de mand.
+It must be included in the inventory, and if nec essary, applied in the payment
+of the debts. If not nec essary for that purpose, it must be paid in the same
+manner and proportion as other specific legacies. Demand—or claim, meaning of,
+52 Cal. 568.
+
+-----------------------------------------------
+
+
+AZ1887-004710
+
+119. The discharge or bequest in a will, of any debt or demand of the testator
+against the executor named, or any other person, is not valid against the
+creditors of the decedent, but is a specific bequest of the debt or demand. It
+must be included in the inventory, and, if necessary, applied in the payment of
+his debts. If not necessary for that purpose, it must be paid in the same manner
+and proportion as other specific legacies.
+
+-----------------------------------------------
+
+
+DT1887-011110
+
+5768. The discharge 01' bequest. in a will of ariy debt or· demand of the
+testator against the executor named,' or any other person, is not valid against
+the creditors of the decedent, but is a. specific bequest of the debt or demand.
+It must be included i11. the inventory, and, if necessary, applied in the
+payment of the· debts. If not necessary for that purpose, it must be paid in
+the· same manner and proportion as other specific legacies.
+
+-----------------------------------------------
+
+
+MT1895-014090
+
+2555. The discharge or bequest in a will, of any debt or demand of the testator
+against the executor named, or any other person, is not valid against the
+creditors of the decedent, but is a specific bequest of the debt or demand. It
+must be included in the.inventory, and if necessary, applied in the payment of
+the debts. If not necessary for that purpose, it must be paid in the same manner
+and proportion as other specific legacies.
+
+-----------------------------------------------
+
+

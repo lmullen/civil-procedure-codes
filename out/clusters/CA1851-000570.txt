@@ -1,0 +1,88 @@
+Exemplar: CA1858-000570
+Earliest: CA1851-000570
+Documents in cluster: 9
+Cluster ID: 2148
+
+-----------------------------------------------
+
+CA1851-000570
+
+52. The verification of the answer required in the last section may be omitted
+when an admission of the truth of the complaint might subject the party to
+prosecution for felony.
+
+-----------------------------------------------
+
+
+CA1858-000570
+
+52. The verification of the answer required in the last section may be omitted
+when an admission of the truth of the complaint might subject the party to
+prosecution for felony.
+
+-----------------------------------------------
+
+
+NV1861-000550
+
+52. The verification of the answer or replication, re.quired in the last
+section, may be omitted when an admission of the truth of the complaint or
+answer might subject the party to prosecution for felony or misdemeanor.
+
+-----------------------------------------------
+
+
+ID1864-000570
+
+52. The verification of the answer or replication, required in the last section,
+may be omitted when an admission of the truth of com laint or answer might
+subject» the party to prosecution for fe ony or misdemeanor.
+
+-----------------------------------------------
+
+
+AZ1865-000530
+
+52. The verification of the answer required in the .last : section may. be
+omitted, when an admission of the truth of the complaint mightsubject the party
+to prosecution for felony.
+
+-----------------------------------------------
+
+
+CA1868-000560
+
+52. The verification of the answer, required in the last section, may be omitted
+when an admission of the troth of the complaint might subject the party to
+prosecution for fel­ ony or misdemeanor.
+
+-----------------------------------------------
+
+
+NV1869-000570
+
+52. The verification of the answer required in the last Section may be omitted
+when an admission of the truth of the complaint might subject the party to
+prosecution for felony.
+
+-----------------------------------------------
+
+
+UT1870-000540
+
+52. The verification of the answer required in the last Section may be omitted
+when an admission of the truth of Eh? complaint might subject the party to
+prosecution for e on .
+
+-----------------------------------------------
+
+
+AZ1877-000500
+
+52. The verification of the answer required in the last sec tion may be omitted,
+when an admission of the truth of the complaint might subject the party to
+prosecution for felony.
+
+-----------------------------------------------
+
+

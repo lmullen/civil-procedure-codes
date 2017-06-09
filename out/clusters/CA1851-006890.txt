@@ -1,0 +1,51 @@
+Exemplar: WA1855-007210
+Earliest: CA1851-006890
+Documents in cluster: 5
+Cluster ID: 20136
+
+-----------------------------------------------
+
+CA1851-006890
+
+626. An appeal shall be taken by filing a notice of appeal with the Justice, and
+serving a copy on the adverse party. The motion ‘ahall state whether the appeal
+is taken from the whole or a part of the judgment, and if from a part, what
+part.
+
+-----------------------------------------------
+
+
+WA1855-007210
+
+161. Such appeal shall be taken within twenty days after the judgment is
+rendered, or the decision made, and shall be by filing a notice of appeal with
+the justice, and serving a copy thereof on the adverse party or his attorney. ,
+
+-----------------------------------------------
+
+
+UT1859-005690
+
+508. Such appeal shall be taken within twenty days after the judgment is
+rendered or the decision made, and shall be by filing a notice of appeal with
+the justice and serving a copy on the adverse party or his attorney.
+
+-----------------------------------------------
+
+
+AZ1865-006280
+
+627. An appeal shall be taken by filing a notice of appeal with the justice and
+serving a copy on the adverse party.
+
+-----------------------------------------------
+
+
+AZ1877-005060
+
+627. An appeal shall be taken by filing a notioe of appeal with the justice and
+serving a copy on the adverse party. ,
+
+-----------------------------------------------
+
+

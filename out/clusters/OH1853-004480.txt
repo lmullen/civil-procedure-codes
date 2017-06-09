@@ -1,0 +1,61 @@
+Exemplar: NE1859-004740
+Earliest: OH1853-004480
+Documents in cluster: 6
+Cluster ID: 10462
+
+-----------------------------------------------
+
+OH1853-004480
+
+396. A sheriff may act as a master commissioner under the second subdivision of
+the preceding section. Sales made under the same, shall conform in all respects
+to the laws regulating sales of lands upon execution.
+
+-----------------------------------------------
+
+
+KS1859-004530
+
+408. A sherif may act as master commissioner under the second sub-division of
+the preceding section. Sales made under the same shall conform, in all respects,
+to the laws regulating sales of lands upon execution.
+
+-----------------------------------------------
+
+
+NE1859-004740
+
+410. A sheriff may act as a master commissioner under the second subdivision of
+the preceding section. Sales made under the same, shall conform in all respects
+to the laws regulating sales of land upon execution.
+
+-----------------------------------------------
+
+
+DT1862-004240
+
+408. A sheriff may act as master commissioner under the second subdivision of
+the preceding section. Sales made under the same shall conform in all respects
+to the laws regulating sales of land upon execution.
+
+-----------------------------------------------
+
+
+NE1866-005000
+
+452. A sheriff may act as a master commissioner under the second subdivision of
+the preceding section. Sales made under the same shall conform in all respects
+to the laws regulating sales of land upon execution.
+
+-----------------------------------------------
+
+
+WY1870-004650
+
+448. A sherid" may act as master commissioner under the second subdivision of
+the preceding section. Sales made under the same shall conform in all respects
+to the laws regulating sales of land upon execution.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,68 @@
+Exemplar: CA1872-007080
+Earliest: CA1872-007080
+Documents in cluster: 6
+Cluster ID: 2443
+
+-----------------------------------------------
+
+CA1872-007080
+
+883. A jury may be waived: 1. By consent of parties, entered in the docket; 2.
+By a failure of either party to demand a jury before the commencement of the
+trial of an issue of fact; 3. By the failure of either party to appear at the
+time fixed for the trial of an issue of fact.
+
+-----------------------------------------------
+
+
+CA1880-009670
+
+883. A jury may be waived— 1. By consent of parties, entered in the docket; 2.
+By a failure of either party to demand a jury before the commencement of the
+trial of an issue of fact; 3. By the failure of either party to appear at the
+time fixed for the trial of an issue of fact. Waiver of jury—compare sec. 631,
+and notes.
+
+-----------------------------------------------
+
+
+ID1881-006430
+
+595. A jury may be waived: 1. By consent of parties, entered in the (locket;
+2. By a failure of either party to demand a jury before the commencement of the
+trial of an issue of fact; ~ 3. By the failure of either party to appear at the
+time fixed for the trial of an issue of fact.
+
+-----------------------------------------------
+
+
+DT1887-015020
+
+6094. A jury may be waived: 1. By consent of parties, entered in the docket,
+2. By a failure of either party to demand a jurv before the commencement of the
+trial of an issue of fact. 3. By the failure of either party to appear at the
+time fixed for the trial of an issue of fact.  a
+
+-----------------------------------------------
+
+
+OK1891-009460
+
+6. A jury may be waived: . First. By consent of parties, entered in the docket.
+_ Second. By a failure of either party to demand a jury before the commencement
+of the trial of an issue of fact. . Third. By the failure of either party to
+appear at the time fixed for the trial of an issue of fact. . _
+
+-----------------------------------------------
+
+
+MT1895-008940
+
+1605. A jury may be waived: 1. By consent of parties entered in the docket. 2.
+By a failure of either party to demand a jury before the commencement of the
+trial of at1 issue of fact. 3. By the failure of either party to appear at the
+time fixed for the trial of an issue of fact. ·
+
+-----------------------------------------------
+
+

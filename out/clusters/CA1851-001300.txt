@@ -1,0 +1,335 @@
+Exemplar: CA1851-001300
+Earliest: CA1851-001300
+Documents in cluster: 24
+Cluster ID: 2022
+
+-----------------------------------------------
+
+CA1851-001300
+
+120. In an action upon a contract, express or implied, made after the passage
+of this Act, for the direct payment of money, which con- ‘ tract is made, or is
+payable in this State, and is not secured by a mortgage upon real or personal
+property, the plaintifff at the time of issuing the summons, or at any time
+afterwards, may have the property of the defendant attached as security for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment as hereinafter provided.
+
+-----------------------------------------------
+
+
+CA1851-006120
+
+551. In an action upon a contract, eipress or implied, made after I the passage
+of this Act, for the direct payment of money, which contract is made or payable
+in this State, and is not secured by mortgage upon real or personal property,
+the plaintifff at the time of issuing the summons. or at any time afterwards,
+may have the property of the defendant attached as security for the satisfaction
+of any judgment that may be recovered, unless the defendant give security to pay
+such judgment, as hereinafter provided. '
+
+-----------------------------------------------
+
+
+CA1851-003510
+
+321. The plaintifff, at the time of issuing the summons, or at any time
+afterwards, may have the steamer, vessel, or boat, against which the action is
+brought, with its tackle, apparel, and furniture attached, as security for the
+satisfaction of any judgment that may be recovered therein.
+
+-----------------------------------------------
+
+
+CA1858-006010
+
+551. In an action upon a contract, express or implied, made after the passage of
+this act, for the direct payment of money, which contract is made or payable in
+this state, and is not secured by mortgage upon real or personal property, the
+plaintifff, at the time of issuing the summons, or at any time afterwards, may
+have the property of the defendant attached as security for the satisfaction of
+any judgment that may be recovered, unless the defendant give security to pay
+such judgment, in all cases specified in section one hundred and twenty of this
+act.
+
+-----------------------------------------------
+
+
+CA1858-003450
+
+321. The plaintifff, at the time of issuing the summons, or at any time
+afterwards, may have the steamer, vessel or boat, against which the action is
+brought, with its tackle, apparel, and furniture, attached, as security for the
+satisfaction of any judgment that may be recovered therein.
+
+-----------------------------------------------
+
+
+ID1864-005610
+
+505. In an action upon a contract, express or implied, made after the passage
+of this act, for the direct payment of money, which contract is made or is
+payable in this territory, and is not secured by mor ge, lien or pledge on real
+or personal property, the plainti ' at the time of issuing the summons, or at
+any time afterwards, may have the property of the defendant attached as security
+for the satisfaction of any judgment that may be recovered, unless the defendant
+give security to pay such judgment, as hereinafter provided.
+
+-----------------------------------------------
+
+
+ID1864-001290
+
+120. The plaintifff, at the timeof issuing the summons, or at any time
+afterwards, may have the property of the defendant attached, as security for
+the satisfaction of any judgment that may be recovere , unless the defendant ‘vs
+security to pay such judgment, in the following cases: irst. In an action upon a
+contract, express or implied, for the direct payment of money, which contract is
+made or is payable in this territory, and is not secured by a mortgage, lein or
+pledge upon real or personal property; or if so secured, that such securi_ has
+beenrendered nugatory by the act of the defendant. econd. In an action upon a
+contract, expressor implied, against a defendant not residin in this territory.
+
+-----------------------------------------------
+
+
+AZ1865-001210
+
+120. The plaintifff, at the time of issuing the summons, or at any , time
+afterwards, may have the property of the defendant attached as securit for the
+satisfaction of- any judgment that may be recovered, unless the de endant give
+security to pay such judgment, as hereinafter provided in the following cases:
+lst. In an action upon a contract, express or implied, for the direct payment
+of money, and which is not secured by a mortgage upon real or personal property.
+2d. In an action upon a contract, express or implied, against a defendant not
+residing in this Territory.
+
+-----------------------------------------------
+
+
+AZ1865-005540
+
+553. In an action upon a contract, express or implied, made after the _ passage
+of this chapter for the direct payment of money, which contract is made or is
+payable in this Territory, and is not secured by mortgage upon real or personal
+property, the plaintifff at the time of issuing the summons, or at any time
+afterwards, may have the property bf the defendant attached as security.for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment as hereinafter provided.
+
+-----------------------------------------------
+
+
+AZ1865-003240
+
+323. The plaintifff, at~the time of issuing the summons, or at any time
+afterwards, may have the steamer, vessel, or boat, against which the action is
+brought, with its tackle, apparel, and furniture, attached, as security for the
+satisfaction of any judgment that may be recovered therein.
+
+-----------------------------------------------
+
+
+CA1868-005500
+
+551. In an action upon a contract, express or implied, made after the passage of
+this act, for the direct payment of money; which contract is made or is payable
+in this State and is not secured by mortgage, lien, or pledge upon real or per­
+sonal property, the plaintifff at the time of issuing the sum­ mons or at any
+time afterwards, may have the property of the defendant. attached as security
+for the satisfaction of any judgment that may be recovered, uulesa the defendant
+give security to pay such judgment, as hereinafter provided.
+
+-----------------------------------------------
+
+
+CA1868-001240
+
+120. The plaintifff, at the time of issuing his [the] sum­ mons, or at any time
+afterwards, may have the property of the defendant attached as security for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment, as hereinafter provided, in the following cases:
+First. In an action upon ll contract, express or implied, for the direct payment
+of money, which contract is made or is payable in this State, and is not secured
+by mortgage, lien, or pledge, upon real or personal property, or, if so secured,
+that such security has been rendered nugatory by the act of the defendant.
+Second. In au action upon a contract, express or implied, against a defendant
+not residing in this State.
+
+-----------------------------------------------
+
+
+CA1868-003260
+
+321. The plaintifff, at the time of iesuing' the summons, or at any time
+afterwards, may have the steamer, vessel, or boat, against which the action is
+brought, with its tackle, apparel, and furniture attached, as security for the
+satiafae­ tion of any judgment that may be recovered therein.
+
+-----------------------------------------------
+
+
+NV1869-001330
+
+123. The plaintifff, at the time of issuing the summons, or at any time
+afterwards, may have the property of the defendant attached, as security for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment, as hereinafter provided in the following cases:
+First—In an action upon a contract for the direct payment of money, made, or
+by the terms thereof, payable in this State, whiclf‘is not secured by mortgage,
+lien or pledge upon real or personal property situated or being in this State,
+or, if so secured, when such security has been rendered nugatory by the act
+of the defendant. Second—In an action upon a contract against a defendant not
+residing in this State.
+
+-----------------------------------------------
+
+
+UT1870-001290
+
+122. The plaintifff, at the time of issuing. the summons, or at any time
+afterwards,.may have the , prOperty of the defendant attached, as security for
+the satisfaction of any judgment that may be recovered, unless the defendant
+give security .to pay such judgment, as hereinafter provided in the followin
+cases: In an action 11 on a contract, which is not secured y mort age, lien or.
+'ed e upon real or personal prOperty, situate or being in t 's erritory, or, if
+so secured, when such security has been rendered nugatory the defendant, against
+a defendant not residing in this Territory, or ainst a person Who has departed
+or is about to depart from the erritory or County wherein the action is brought,
+or who stands in“ defiance of an officer,- or conceals himself so that process
+cannot be served on him, or who is disposing of his prOperty with intentito
+defraud his creditors. ’ ‘
+
+-----------------------------------------------
+
+
+CA1872-004170
+
+537. The plaintifff, at the time of issuing the summons, or at any time
+afterward, may have the property of the defendant attached as security for
+the satisfaction of any judgment that may be recovered, unless defendant give
+security to pay such judgment, as in this Chapter provided, in the following
+cases: 1. In an action upon a contract, express or implied, for the direct
+payment of money, which contract is made or is payable in this State, and is
+not secured by mortgage, lien, or pledge upon real or personal property; or,
+if so secured, that such security has been rendered nugatory by the act of
+the defendant; 2. In an action upon a contract, express or implied, against a
+defendant not residing in this State.
+
+-----------------------------------------------
+
+
+CA1872-006460
+
+817. The plaintifff, at the time of issuing the summons, or at any time
+afterwards, may have the steamer, vessel, or. boat against which the action is
+brought, with its tackle, apparel, and furniture, attached as security for the
+satisfaction of any judgment that may be recovered therein.
+
+-----------------------------------------------
+
+
+CA1880-005170
+
+537. The plaintifff, at the time of issuing the sum mons, or at any time
+afterward, may have the property of the defendant attached, as security for the
+satisfaction of any judgment that may be recovered, unless the de fendant give
+security to pay such judgment, as in this
+
+-----------------------------------------------
+
+
+CA1880-005180
+
+provided, in the following cases : 1. In an action upon,a contract, express
+or implied, for the direct payment of money, where the contract is made or is
+payable in this State, and is not secured by any mortgage or lien upon real
+or personal property, or any pledge of personal property, or, if originally so
+secured, such security has, without any act of the plaintifff, or the person to
+whom the security was given, become valueless ; 2. In an action upon a contract,
+express or implied, against a defendant not residing in this State. [In effect
+July 1st, 1874.] Attachment, generally—auxiliary nature of, 6 Cal. 777 :
+statutory strictness to,9release Cal. 262; Cal. 155:effect whenof,void, 13 Cal.
+18 Cal. 378; 42 Cal,as135: by 18plaintifff, 32 Cal. 674:441; malicious Issuance,
+complaint for, 50 Cal. 115; and see Sharp v. Miller, March 18th, 18S0: death 29
+Cal. 47 Cal. 50 Cal. 365, 367: of partnership, doesdissolves. not dissolve it,
+359 52 ;Cal. 650: 622; dissolution generally, sees. 556-558 and notes: sheriff's
+duties, sees. 540n, 542, 55u, and return, sees. 559:539levy,
+
+-----------------------------------------------
+
+
+ID1881-003430
+
+318. The plaintifff, at the time of issuing the summons, or at any time
+afterward, may have the property of the defendant attached, as security for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment, as in this chapter provided, in the following
+cases: J. In an action upon a contract, for the direct payment of money,
+where the contract is not secured by any mortgage or hen upon real or personal
+property, or fetid)’ pledge of personal propert '; or, if ori iualiy so secu ,
+such security has, without any act of t ie plaintifff, or the person to whom the
+security was given, become valueless; 2. In an action n on a contract, against a
+defendant not residing in this 'Ferritory.
+
+-----------------------------------------------
+
+
+OR1892-001830
+
+144. [142.] The plaintifff, at the time of issuing the reu2s,1is§5'tL_ Laws of
+summons, or any time afterwards, may have the property p-115 of the defendant
+attached, as security for the satisfaction When plaintﬂ! ma have of any judgment
+that may be recovered, unless the de- de end-M's propert fondant give security
+to pay such judgment, as in this mwhe
+
+-----------------------------------------------
+
+
+MT1895-004690
+
+890. The plaintifff, at the time of issuing the summons, or at any time
+afterward, may have the property of the defendant attached, as security for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment, as is in this Chapter provided, as follows : In
+an action upon a contract, express or implied, for the direct payment of money,
+where the contract is not secured by any mortgage or lien upon real or personal
+property, or any pledge of personal property, or, if originally secured, such
+security has, without any act of the plaintifff, or the person to whom the
+security was given, become valueless.
+
+-----------------------------------------------
+
+
+UT1898-003950
+
+3064. When and in what cases issued. The plaintifff, at the time of issuing
+the summons, or at any time afterward, may have the property of the defendant,
+not exempt from execution, attached as security for the satisfaction of any
+judgment that may be recovered, unless the defendant give security to pay such
+judgment, as in this chapter provided, in the following cases: in an action upon
+a judgment or upon a contract express or implied, which is not secured by any
+mortgage or lien upon real or personal property situate or being in this state,
+or, if originally so secured, when such security has, without any act of the
+plain tiff, or of the person to whom the security was given, become valueless;
+against a defendant who—
+
+-----------------------------------------------
+
+
+AK1900-001500
+
+135. The plaintifff, at the time of issuin the summpns, or at any time
+afterwards, may have the property of t e defendant attached as security for the
+satisfaction of any judgment that may be recovered, unless the defendant give
+security to pay such judgment, as in this cha ter provided, in t e following
+cases: irst. In an action upon a contract, express or implied, for the direct
+payment of money, and which is not secured by mort age, lien, or pledge u
+11 real or personal property, or, if so secure , when such security as been
+rendered nugatory by the act of the defendant. Second-. In an action upon a
+contract, express or implied, against a defendant not residin in the district.
+’ ,
+
+-----------------------------------------------
+
+

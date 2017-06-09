@@ -1,0 +1,54 @@
+Exemplar: CA1872-013670
+Earliest: CA1872-013670
+Documents in cluster: 5
+Cluster ID: 2734
+
+-----------------------------------------------
+
+CA1872-013670
+
+1750. When a guardian has been appointed by the Court for a minor under the age
+of fourteen years, the minor, at any time after he attains that age, may appoint
+his own guardian, subject to the approval of the Probate Judge.
+
+-----------------------------------------------
+
+
+CA1880-017860
+
+1750. When a guardian has been appointed by the court for a minor under the age
+of fourteen years, the minor, at any time after he attains that age, may appoint
+his own guardian, subject to the approval of the court. [In effect April 15th,
+1880.]
+
+-----------------------------------------------
+
+
+AZ1887-007060
+
+346. When a guardian has been appointed by the court for a minor under the
+age of fourteen years, the minor, at any time after he at-tains that age, may
+appoint his own guardian, subject to the approval of theprobate judge.
+
+-----------------------------------------------
+
+
+DT1887-013710
+
+5986. When 'a guardian has been appointed by the courtfor a minor under the age
+of fourteen years, the minor, at any time after he has attained that age, may
+appoint his own guard-: ian, subject to the approval of the probate judge. ·
+
+-----------------------------------------------
+
+
+MT1895-016520
+
+2953. When a guardian has been appointed by the court or judge, for a minor
+under the age of fourteen years, the minor, at any time after he at. tains
+that age, may appoint his own guardian, subject to the approval of the court or
+judge.
+
+-----------------------------------------------
+
+

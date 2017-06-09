@@ -1,0 +1,82 @@
+Exemplar: CA1872-007500
+Earliest: CA1851-007000
+Documents in cluster: 6
+Cluster ID: 2451
+
+-----------------------------------------------
+
+CA1851-007000
+
+636. Civil actions in Recorders’ and Mayors’ Courts shall be commenced by filing
+a complaint, setting forth the violation of the ordinance complained of, with
+such particulars of time, place, and manner of violation, as to enable the
+defendant to understand distinctly the cha-p raster of the violation complained
+of, and to answer the complaint. The ordinance may be referred to by its title.
+The complaint shall be verified by the oath of the party complaining, or of his
+attorney, or agent.
+
+-----------------------------------------------
+
+
+CA1858-006880
+
+636. Civil actions in recorders’ and mayors’ courts shall be commenced by filing
+the complaint, setting forth the violation of the ordinance complained of,
+with such particulars of time, place, and manner of violation, as to enable the
+defendant to understand distinctly the character of the violation complained
+of, and to answer the complaint. The ordinance may be referred to by its title.
+The complaint shall be verified by the oath of the party complaining, or of his
+attorney or agent.
+
+-----------------------------------------------
+
+
+CA1868-006330
+
+838. Civil actions in recorders' and mayol'B' courts shall be commenced by
+filing a complaint, setting forth the viola­ tion of the ordinance complained
+of, with such particulars of time, place, and manner of violation, as to
+enable the defend­ ant to understand distinctly the character of the ~olation
+complained of, and to answer the complaint. The oPrlinance may be referred
+to by its title. The complaint shall be veri­ fied by the oath of the party
+complaining, or of his attorney, or agent.
+
+-----------------------------------------------
+
+
+CA1872-007500
+
+929. Civil actions in Police Courts are commenced by filing a complaint, setting
+forth the violation of the ordinance complained of, with such particulars of
+time, place, and manner of violation as to enable the defendant to understand
+distinctly the character of the violation complained of, and toanswer the
+complaint. The ordinance may be referred to by its title. The complaint must be
+verified by the oath of the party complaining, or of his attorney or agent.
+
+-----------------------------------------------
+
+
+CA1880-010100
+
+929. Civil actions in Police Courts are commenced by filing a complaint, setting
+forth the violation of the ordi nance complained of, with such particulars of
+time, place, and manner of violation as to enable the defendant to understand
+distinctly the character of the violation com plained of, and to answer the
+complaint. The ordinance may be referred to by its title. The complaint must be
+verified by the oath of the party complaining, or of his attorney or agent.
+
+-----------------------------------------------
+
+
+MT1895-009520
+
+1700. Civil actions in police courts are commenced by filing a com­ plaint,
+setting forth the violation of the ordinance complained of, with such
+particulars of time, place and manner of violation as to enable the defendant to
+understand distinctly the character of the violation complained of, and to an­
+swer the complaint. The ordinance may be referred to by its Title and Sec­ tion,
+and the number thereof.
+
+-----------------------------------------------
+
+

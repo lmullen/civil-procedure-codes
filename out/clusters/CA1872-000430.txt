@@ -1,0 +1,88 @@
+Exemplar: CA1872-000570
+Earliest: CA1872-000430
+Documents in cluster: 5
+Cluster ID: 2322
+
+-----------------------------------------------
+
+CA1872-000430
+
+44. Its appellate jurisdiction extends: 1. To all civil actions for relief
+formerly given in Courts of equity; 2. To all civil actions in which the subject
+of litigation is not capable of pecuniary estimation; 3. To all civil actions in
+which the subject of litigation is capable of pecuniary estimation which involve
+the title or possession of real estate, or the legality of any tax, impost,
+assessment, toll, or municipal fine, or in which the demand, exclusive of
+interest, or the value of the property in controversy, amounts to three hundred
+dollars; 4. To all special proceedings; 5. To all cases arising in the Probate
+Courts; and, 6. To all criminal actions amounting to felony, on questions of law
+alone.
+
+-----------------------------------------------
+
+
+CA1872-000570
+
+57. The jurisdiction of the District Courts extends: a 1. To all civil actions
+for relief formerly given in Courts of equity; 2. To all civil actions in
+which the subject of litigation is not capable of pecuniary estimation; 3.
+To all civil actions (except actions of forcible entry and detainer) in which
+the subject of litigation is capable of pecuniary estimation, which involve
+the title or possession of real estate, or the legality of any tax, impost,
+assessment, toll, or municipal fine, or in which the demand, exclusive of
+interest, or the value of the property in controversy, amounts to three hundred
+dollars; ' 4. To all special proceedings not within the jurisdiction of the
+County and Probate Courts, as defined in this Code; 5. To the issuance of
+writs of mandate, review, prohibition, habeas corpus, and all writs necessary
+to the exercise of its powers; 6. To the trial of all indictments for treason,
+misprision of treason, murder, and manslaughter.
+
+-----------------------------------------------
+
+
+CA1872-000860
+
+85. Its original jurisdiction extends: 1. To actions to prevent or abate a
+nuisance; 2. To actions of forcible entry and detainer; 3. To proceedings
+in insolvency; 4. To all special casesor proceedings in which the law giving
+the remedy or authorizing the proceedings confers the jurisdiction upon it;
+5. To the issuance of writs of mandate, review, prohibition, habeas corpus,
+and all writs necessary to the exercise of its powers; 6. To inquire, by the
+intervention of a Grand Jury, of all public offenses committed or triable in the
+county; 7. To the trial of all indictments, except for treason, misprision of
+treason, murder, and manslaughter.
+
+-----------------------------------------------
+
+
+CA1880-010500
+
+964. The foregoing section does not apply in cases appealed from Justices',
+Police, or other inferior courts, except cases of forcible entry and detainer,
+and cases in volving the title or possession of real property, or the legality
+of any tax, impost, assessment, toll, or municipal line, or in which the demand,
+exclusive of interest, or the value of the property in controversy, amounts to
+three hundred dollars. Appeals to Superior Court—sec. 974 et seq. Forcible entry
+and detainer—concurrent jurisdiction of Justices' Courts, sec. 113, subd. 1.
+
+-----------------------------------------------
+
+
+ID1881-000300
+
+26. The jurisdiction of the District Courts extends: 1. To all civil actions for
+relief formerly given in Courts of Equity; 2. To all civil actions in which the
+subject of litigation is not capable of pecuniary estimation; 3. To all civil
+actions in which the subject of litigation is capable of pecuniary estimation,
+which involve the title or possession of real estate, or the legality of any
+tax. im st, assessment, toll, or municipal fine, or in which t e demand, or
+the value of the property in controversy exceeds one hundred dollars; * 4.
+To all special proceedings; 5. To the issuance of writs of mandate, review,
+prohibition, habeas corpus, and all writs necessary to the exercise of its
+powers; 6. To the trial of all indictments; 7. Its appellate urisdiction extends
+to all cases arising in Probate or Justices Courts; and to all other matters and
+cases wherein an appeal is allowed by law.
+
+-----------------------------------------------
+
+

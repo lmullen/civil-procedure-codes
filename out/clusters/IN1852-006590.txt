@@ -1,0 +1,79 @@
+Exemplar: DC1857-006050
+Earliest: IN1852-006590
+Documents in cluster: 6
+Cluster ID: 3506
+
+-----------------------------------------------
+
+IN1852-006590
+
+674. When any action is brought against two or more defendants upon a contract,
+any one or more of the defendants being surety for the others. the surety may,
+upon a written comp aim to the court, cause the question of suretyship to be
+tried and determined, upon the issue made by the parties, at the trial of ‘the
+cause, or at any time before or after the trial, or at a subsequent term; but
+such proceedings shall not affect the proceedings of the plaintifff.
+
+-----------------------------------------------
+
+
+TX1855-006590
+
+570. When any suit is brought against two or more defendants upon a contract,
+any one or more of the defendants being surety for the others, the surety may,
+upon a written complaint to the Court, cause the question of suretyship to be
+tried and determined upon the issue made for the parties defendant, at the trial
+of the cause, or at any time before or after the trial, or at a subsequent term;
+but such proceedings shall not delay the suit of the plaintifff.
+
+-----------------------------------------------
+
+
+WA1855-004630
+
+428. When any action is brought against two or more defendants upon a contract,
+any one or "more of the defendants being surety for the Others, the Surety may,
+upon a Written complaint to the court, cause the question of securityship to be
+tried, and determined upon the issues made by the parties at the trial of the
+cause, or at any time before or after the trial. 01‘.at a subsequent term, but
+such proceedings» shall not adect the proceedings of the plaintifff.
+
+-----------------------------------------------
+
+
+DC1857-006050
+
+3. When any action is brought against two or more defendants on a contract, any
+one or more of the defendants being surety for the others, the surety may, upon
+a written complaint to the court, cause the question of suretyship to be tried
+and determined, upon the issue made by the parties, at the trial of the cause,
+or at any time before or after the trial, or at a subsequent term; but such
+proceedings shall not affect the proceedings of the plaintifff'.
+
+-----------------------------------------------
+
+
+WA1873-005100
+
+467. When any action is brought against two or more defendants upon a contract,
+any one or more of the defendants being surety for the others, the surety may,
+upon a written complaint to the court, cause the question of se­ curityship to
+be tried and determined upon the issues made by the parties at the trial of the
+cause, or at any time before or after the trial, or at a subsequent term, but
+such proceed­ ings shall not affect the proceedings of the plaintifff.
+
+-----------------------------------------------
+
+
+OK1891-008220
+
+3. When an action is brought against two or more defendants upon a contract,any
+one or more of the defendants being surety for the others, {he surety may, upon
+a written complaint to the court, cause the question of suretyship to be tried
+and determined upon the issue made by the parties at trial of the cause, or at
+any time before or after the trial, or at a subsequent term; but such proceeding
+shall not effect the proceedings of the plaintifff.
+
+-----------------------------------------------
+
+

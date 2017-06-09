@@ -1,0 +1,92 @@
+Exemplar: AZ1887-007030
+Earliest: CA1872-013640
+Documents in cluster: 5
+Cluster ID: 1851
+
+-----------------------------------------------
+
+CA1872-013640
+
+1747. The Probate Judge of each county, when it appears necessary or convenient,
+may appoint guardians for the persons and estates, or either of them, of minors
+who have‘ no guardian legally appointed by will, and who are inhabitants or
+residents of the county, or who reside without the State and have estate Within
+the county. Such appointment may be made on the petition of a relative or other
+person, in behalf of such minor. Before making the appointment, the Judge must
+cause such notice as he deems reasonable to be given to the relatives of the
+minor residing in the county, and to any person under whose care such minor may
+be, as he deems reasonable.
+
+-----------------------------------------------
+
+
+CA1880-017830
+
+1747. The Superior Court of each county, when it ap pears uecessary or
+convenient, may appoint guardians for the persons and estates, or either of
+them, of minors who have no guardian legally appointed by will or deed, and
+who are inhabitants or residents of the county, or who reside without the State
+and have estate within the county. Such appointment may be made on the petition
+of a relative or other person on behalf of the minor, or on the petition of
+the minor, if fourteen years of age. Be fore making such appointment, the
+court must cause such notice as such court deems reasonable to be given to
+any person having the care of such minor, and to such rela tives of the minor
+residing in the county as the court may deem proper. [In effect April 15th,
+1880.] Powers and duties of guardians nee. 1768 et seq. Guardian and ward—see
+Civil Code, sees. 236-258. Guardian ad litem—see sec. 1759. Guardian of minoT—
+minors generally, see Civil Code, sees. 25, 26. 203. 204 : control of District
+Courts over minors, before arodts. 1880. 4 Cal. 362: on petition of minor, see
+sec. 1748: administrator also, 33 Cal. 45: legislative Letters ofappointment
+guardianship—when of, when unconstitutional, need not actually 52 Cal. issue,
+482.15 Cal. 226. Non-resident minor—notice of application for guardianship of,
+19 Cal. 629.
+
+-----------------------------------------------
+
+
+AZ1887-007030
+
+343. The probate judge of each county when it appears necessary or convenient,
+may appoint guardians for the persons and estates, or either, or both of them,
+of minors who have no guardian legally appointed by will, or deed, and who are
+inhabitants or residents of the county, or who reside without the territory,
+and have estate within the county. Such appointment may be made on the petition
+of a relative or other person, in behalf of such minor. Before making such
+appointment, the judge must cause such notice as he deems reasonable to be given
+to the relative of the minor residing in the county, and to any person having
+care of such minor.
+
+-----------------------------------------------
+
+
+DT1887-013680
+
+5983. The probate court _of each coun~y, when it appears, necessary or
+convenient, may appoint guarq1?'ns for the persons-and estates, or either, or
+both of them, of minors who have no· guardian legally appointed by will, or-
+deed, and who are inhabi-. tants or residents of the county, or who reside
+without the terri­ tory and have estate within the county, Such appointment ·may
+be made on the petition of a relative or other person m behalf of" such minor.
+Before making the appointment the judge must. cause such notice as he deems
+reasonable to be given to the rela-. tives of the minor residing in the county,
+and to any person hav- ing care of such minor. . . . .
+
+-----------------------------------------------
+
+
+MT1895-016490
+
+2950. The District Court of each county, when it appears necessary or
+convenient, may appoint guardians for the persons and estates, or either of
+them, of minors who have no guardian legally appointed by will or deed, and who
+are inhabitants or residents of the county, or who reside without the State and
+have estate within the county. Such appointment may be made on the petition of
+a relative or other person on behalf of the minor, or on the petition of the
+minor, il fourteen years of age. Before making such appointment, the court or
+judge must cause such notice as.the court or judge deems reasonable to be given
+to any person having the care of such minor, and to such relatives of the minor
+in the county as the court or judge may deem proper.
+
+-----------------------------------------------
+
+

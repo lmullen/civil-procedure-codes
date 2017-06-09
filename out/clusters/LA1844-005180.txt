@@ -1,0 +1,942 @@
+Exemplar: NY1849-003030
+Earliest: LA1844-005180
+Documents in cluster: 76
+Cluster ID: 11276
+
+-----------------------------------------------
+
+LA1844-005180
+
+619. The verdict may be either general or special. A general verdict is that
+by which the jury pronounce at the same time on the fact and the law, either in
+favor of plaintifff or defendant. A special verdict, is that by which the jury
+pronounces on the facts only, leaving to the court the right of giving judgment
+on these facts and the law applicable to them.
+
+-----------------------------------------------
+
+
+NY1848-002860
+
+215. The verdict of a jury is either gen'eral or special. A general verdict, is
+that by wich they pronounce generally upon all or any of the issues, either in
+favor of file plaintifffed. or defendant. A special verdict is th'at by which
+the jury find the facts only, leaving the jugment to the court.
+
+-----------------------------------------------
+
+
+NY1849-003030
+
+260. A general verdict, is that by which the jury pronounce generally upon all
+or any of the issues, either in favor of the plaintifff or defendant. A special
+verdict is that by which the jury find the facts only leaving the judgment to
+the court.
+
+-----------------------------------------------
+
+
+MO1849-001170
+
+2. The verdict of a jury is either general or special. A general verdict is that
+by which they pronounce generally upon all or any of the issues, either in favor
+of the plaintid' or defendant. A special verdict is that by which the jury find
+the facts only, leaving the judgment to the court. -‘
+
+-----------------------------------------------
+
+
+CA1850-001640
+
+153. A general verdict is that by which the jury pronounce generally upon all
+or any of the issues, either in favor of the plaintifff or defendant. A special
+verdict is that by which the jury find the facts only, leaving the judgment to
+the court.
+
+-----------------------------------------------
+
+
+NY1850-008700
+
+790. The verdict of a jury is either general or special. A general verdict, is
+that by which they pronounce generally upon all or any of the issues either in
+favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving the judgment to the court. It must present
+the conclusions of fact as established by the evidence, and not the evidence to
+prove them, and those conclusions of fact must be so presented, as that nothing
+remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+NY1851-003040
+
+260. A general verdict is that by which the jury pronounce generally upon _all
+or any of the issues, either in favor of the plaintifff or defendant. A special
+verdict is that by which the jury find the facts only, leaving the judgment to
+the court. _
+
+-----------------------------------------------
+
+
+CA1851-001900
+
+174. The verdict of a jury is either general or spwial. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which
+the jury find the facts only, leaving the judgment to the Court. The special
+verdict shall present the conclusions of fact as established by the evidence,
+and not the evidence to prove them ; and those conclusions of fact shall be
+so presented, as that nothing shall remain to the Court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+KY1851-004050
+
+368. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce, generally, upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which
+the jury find the facts only. ltmust present the facts as established by the
+evidence, and not the evidence to prove them; and they must be so presented as
+that nothing remains ,to the court but to draw from them conclusions of law. '
+
+-----------------------------------------------
+
+
+MN1851-002030
+
+34. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon «all or any of the issues, either
+in favor~of the plaintifff or defendant. A special verdict is that by which
+the jury find the facts only, leaving the jnd ent to the court; it must present
+the conclusionsof fact, as estab ished by the evidence, and not the evidence to
+prove them; and these conclusions of fact must be so presented, as that nothing
+remains to the court, but to draw from them conclusions of law. .
+
+-----------------------------------------------
+
+
+IN1852-003270
+
+335. The ‘verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or-any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving judgment thereon to the court.
+
+-----------------------------------------------
+
+
+NY1853-008550
+
+783. The verdict of a jury is either general or special. A general verdict, is
+that by which they pronounce generally upon all or any of the issues either in’
+favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving the judgment to the court. It must present
+the conclusions of fact as established by the evidence, and not the evidence to
+prove them, and ‘those conclusions of fact must be so presented, as that nothing
+remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+OH1853-003110
+
+275. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce, generally, upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which
+the jury finds the facts only. It must present the facts as establis ed by the
+evidence, and not the evidence to prove them; and they must be so presented as
+that nothing remains to the court, but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+OR1854-002140
+
+18. The verdict of a jury is either general or special. A general verdict is
+that by which the jury pronounce generally upon or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+KY1854-003700
+
+356. The verdict of a jury is either general or special. A general verdict is
+that by which they prono~nce, general­ ly, upon n11 or any of the issues, either
+in favor of the plain­ tiff or defendant. A special verdict is that by whicn
+the jury find the facts only. It must present the facts as estab­ lished by the
+evidence, and not the evidence to prove them ; and they must be so presented as
+that nothing remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+WA1855-002090
+
+198. The verdict of a jury is either general or special. A general verdict
+is that by which the jury pronounces generally upon all or any of the issues,
+either in favor of the plaintili’ or defendant. A special verdict is that by
+which the jury find the facts only, leaving the judgment to the court. .
+
+-----------------------------------------------
+
+
+TX1855-004570
+
+392. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally, upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which they
+find the facts only. It must present the facts as established by the evidence,
+and not the evidence to prove them; and they must be so presented, as that
+nothing remains to the Court, but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+MO1856-002060
+
+20. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury finds the facts only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+DC1857-002910
+
+16. The verdict of a jury is either general or special, A gen­ eral verdict is
+that by which they pronounce generally upon a.II or any. of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which
+the jury find the facts only, leaving the judg­ ment to the court. The special
+verdict shall present the conclusions of fact as established by the evidence,
+and not the evidence to prove them; and those conclusions of fa.ct shall be
+so presented as that nothing shall remain to the court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+WI1858-002670
+
+10. A general verdict is that by which the jury pronounce generally upon all
+or any of the issues, either in favor of the plaintifff or defendant. A special
+verdict is that by which the jury find the facts only, leaving the judgment to
+the court.
+
+-----------------------------------------------
+
+
+CA1858-001870
+
+174. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which the
+jury find the facts only, leaving the judgment to the court. The special verdict
+shall present the conclusions of fact as established by the evidence, and not
+the evidence to prove them ; and those conclusions of fact shall be so presented
+as that nothing shall _ _ remain to the court but to draw from them conclusions
+of law.
+
+-----------------------------------------------
+
+
+UT1859-001480
+
+131. The verdict of a jury is either general or special. A general verdict is
+that by which the jury pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+MN1859-002070
+
+34. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving the judgment to the court; it must present
+the conclusions of fact, as established by the evidence, and not the evidence to
+prove them; and those conclusions of fact must be so presented, as that nothing
+remains to the court, but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+KS1859-003180
+
+286. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally, upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury finds facts only. It must present the facts as established by the evidence,
+and not the evidence to prove them, and they must be so presented as that
+nothing remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+NE1859-003160
+
+274. The verdict of a jury is either general or spe-Theverdictmay cial. A
+general verdict is that by which they pronounce, generally, upon all or any of
+the issues, either in favor of the plaintifff or defendant. A special verdict
+is that by which the jury finds the facts only. It must present Ihe facts as
+established by the evidence, and not the evidence to prove them; and they must
+be so presented as that nothing remains to the court, but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+IA1859-004120
+
+475. A special verdict is one in which the jury finds facts only, it must
+present the ultimate facts as established by the evi­ dence, and not the
+evidence to prove them so that nothing remains to the Court but to draw from
+them its conclusions of law.
+
+-----------------------------------------------
+
+
+NV1861-001860
+
+174. The verdict of a jury is‘either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; 8. special verdict is that by which
+thejury find the facts only, leaving the judgment to the court. The special
+verdict shall present the conclusions of fact as established by the evidence,
+and not theevidence to prove them; and those conclusions of fact shall be
+so presented as that nothing shall remain to the ecurt but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+OR1862-002470
+
+210. The verdict of a jury is either general or special. A general verdict is
+that by which the jury pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+DT1862-002730
+
+272. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by ‘which
+the jury hnds the facts only. It must present the facts as established by the
+evidence, and not the evidence to prove them; and they must be so presented as
+that nothing remains to the court, but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+NY1864-002870
+
+260. [215.] (Am'd 1849.) General and special verdicts defined. A general verdict
+is that by which the jury pronounce gener ally upon all or any of the issues,
+either in favor of the plaintifff or defendant. A special verdict is that by
+which the jury find the facts only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+ID1864-001870
+
+174. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce enerally upon all or any of the issues, either
+in favor of the p aintiif or defendant; a special verdict is that by which the
+jury find the facts only, leaving the judgment to the court. The special verdict
+shall present the conclusions of fact as established by the evidence, and not
+the evidence to rove them; and those conclusions of fact shall so be presente as
+that nothing shall remain to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+AZ1865-001770
+
+176. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which
+the jury find the facts only, leaving the judgment to the court. 'The special
+verdict shall present the conclusions of fact as established by the ev1dence,
+and not the evidence to prove them; and those conclusions of fact shall be
+so presented as that nothing shall remain to the court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+MT1865-001580
+
+146. The verdict of the jury shall be either general or special. A general
+verdict is that by which they pronounce generally upon all or any of the issues,
+either in favor of the plaintifff or defendant. A special verdict is that by
+which they find the facts only, leaving the jltdgment to the court. The special
+verdict shallpresent the conclusions of fact as established by the evidence,
+and not the evidence to prove them; and those conclusions of fact shall be
+so presented as that nothing shall remain to the court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+NE1866-003250
+
+292. The verdict of a jury is either general or special. A general verdict is
+that by which theypronounce, ' generally, upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which
+the jury finds the facts only. It must present the facts as established by the
+evidence, and not the evidence to prove them ; and they must be so resented as
+that nothing remains to the court but to draw om them conclusions of law.
+
+-----------------------------------------------
+
+
+KY1867-003810
+
+356. Verdict may be general or special. The verdict of a jury is either general
+or special. A general verdict is that by which they pronounce, generally, upon
+all or any of the issues, either in favor of the plaintifff or defendant. A
+special verdict is that by which the jury find the facts only. It must present
+the facts as established by the evidence, and not the evidence to prove them;
+and they must be so presented, as that nothing remains to the court, but to draw
+from them conclusions of law. (Notes.)
+
+-----------------------------------------------
+
+
+DT1868-002600
+
+213. A general verdict s that by which the jury. pronounces generally upon all
+or any of the issues, either in favor of the plaintifff or defendant. A special
+‘verdict is that by which the jury find the facts only, leaving the judgment to
+the court.
+
+-----------------------------------------------
+
+
+NC1868-002660
+
+232. A general verdict is that by which the jury pronounce generally upon all
+or any of the issues, either in favor of the plaintifff or defendant. .A special
+verdict is that by which the jury find the facts only, leaving the judgment to
+the court. l ‘
+
+-----------------------------------------------
+
+
+CA1868-001780
+
+174. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the isaues, either
+in favor of the plaintifff or defendant; a special verdict is that by which
+the jury find the facts only, leaving the judgment to the court. The special
+verdict shall present the conclusions of fact as established by the evidence,
+and not the evidence to prove them ; and those conclusions of fact shall be
+so presented, as that nothing shall remain to the court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+AR1868-004230
+
+358. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce, generally, upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find the facts only. It mqst present the facts as estab-' lished by the
+evidence, and not the evidence to prove them; and they must be so presented as
+that nothing remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+KS1868-002850
+
+285. The verdict of a jury is either general or special. A general verdict is
+that by which they pro­ nounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury finds facts only. It must present the facts as established by the evidence,
+and not the evi­ dence to prove them ; and they m ust be so presented as that
+nothing :remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+NV1869-001920
+
+176. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which the
+jury find the facts only, leaving the judgment to the Court. The special verdict
+shall present the conclusions of fact as established by the evidence, and not
+the evidence to prove them ; and those conclusions of fact shall be so presented
+as that nothing shall remain to the Court but to draw from them conclu'sions'of
+law.
+
+-----------------------------------------------
+
+
+FL1870-002220
+
+206. A general verdict is that by which the jury pronounce generall u on all
+or any of the issues, either in favor of plaintifff or de en_ ant. A special
+verdict is that by which the jury find the facts only, leaving the judgment to
+the court.
+
+-----------------------------------------------
+
+
+SC1870-002290
+
+284. A general verdict is that by which the jury pronounce generall upon all
+or an of the issuw, either _in favor of the plaintifff or defen ant. A special
+verdict is that by which the jury iind the facts only, leaving the judgment to
+the Court.
+
+-----------------------------------------------
+
+
+UT1870-001880
+
+175. The verdict of the, jury, is either general or special, A general verdict
+is that by which they' pronounce generally 11 on all or any of the issues,
+either in favor of the plaintifff or efendant; a s ecial verdict is that by
+which the 'ury iind. the facts only, caving the judgment to the“ Court. he
+special verdict shall present the conclusions of fact as estabhshed by the
+evidence, and not the evidence to prove them; and those conclusions of fact.
+shall be so presented as that nothing shall remain to the Court butfto draw from
+them conclusion of law. b All verdicts shall be given in Writing and be si ned
+by the foreman of the jury; .
+
+-----------------------------------------------
+
+
+WY1870-003000
+
+289. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce, generally, upon all or any of the issues, either
+in favor‘ of the plaintifff or defendant. A special verdict is that by which
+the jury finds the facts only. It must present the facts as established by the
+evidence, and not the evidence to prove them ; H and they must be so presented
+as that nothing remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+CA1872-004830
+
+624. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which the
+jury find the facts only, leaving the judgment to the Court. The special verdict
+must present the conclusions of fact as established by the evidence, and not the
+evidence to prove them; and those conclusions of fact must be so presented as
+that nothing shall remain to the Court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+NY1873-002620
+
+260. [215.] (Am'd 1849.) General and special verdicts defined. A general verdict
+is that by which the jury pronounce generally upon all or any of the issues,
+either in favor of the plaintifff or defendant. A special verdict is that by
+which the jury rind the facts only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+WA1873-002260
+
+214. The verdict of a jury is either general or special. A general verdict is
+that by which the jury pro· nounces generally upon all or any of the issues
+either in favor of the plaintifff or defendant. A special verdict is that by
+which the jury find the facts, only, leaving the judgment to the court.
+
+-----------------------------------------------
+
+
+AR1874-002330
+
+4677. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either in
+favor of the plaintifff or defendant. .
+
+-----------------------------------------------
+
+
+AR1874-002340
+
+4678. A special verdict is that by which the jury find the facts only. It must
+present the facts as established by the evidence, and not the evidence to prove
+them; and they must be so presented as that nothing remains to the court but to
+draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+AZ1877-001480
+
+176. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues either in
+favor of the plaintifff or defendant; a special verdict is that by which the
+jury find the facts only, leaving the judgment to the court. The special verdict
+shall present the conclusions of fact as estab lished by the evidence, and not
+the evidence to prove them; and those con clusions of fact shall be so presented
+as that nothing shall remain to the court but to draw from them conclusions of
+law.
+
+-----------------------------------------------
+
+
+CO1877-001980
+
+179. The verdict of a jury is either general or‘ special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either in
+favor of plaintifff or defendant. A special verdict is that by which! the jury
+find the facts only, leaving the judgment to the court. The special verdict
+shall present the conclusions of fact, as established by the evidence, and not
+the evidence to prove them; and these conclusions of fact shall be so presented
+as that nothing shall remain to the court but to draw from them conclusions of
+law.
+
+-----------------------------------------------
+
+
+ND1877-002730
+
+200. The verdict of a jury is either general or special : 1. A general verdict
+is that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; and, 2. A special verdict is that
+by which the jury find the facts only, leaving the judgment to the court. The
+special verdict must present the conclusions of fact as established by the
+evidence, and not the evidence to prove them; and these conclusions of fact must
+be so presented as that nothing shall remain to the court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+MO1879-001690
+
+3628. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the pla.intiff or defendant. A special verdict is that by which the
+jury finds the facts only, leaving the judgment to the court. ‘
+
+-----------------------------------------------
+
+
+OH1879-003420
+
+5200. The verdict of a jury must he either general or special; a general verdict
+is that by which the jury finds, generally, upon all or any of the issues, in
+favor of either the plaintifff or defendant; a special verdict is that by which
+the jury finds the facts only, and it must pre­ sent the facts as established
+by the evidence, and not the evidence to prove the facts; and the facts must
+be so presented that nothing shall remain to the court but to draw from them
+conclusions of law.
+
+-----------------------------------------------
+
+
+SC1880-002420
+
+284. A general verdict is that by which the jury prodefined. verd'anounce
+generally upon all or any of the issues, either in favor of the plaintifff or
+defendant. A special verdict is that by which the jury find the facts only,
+leaving the judgment to the Court. when jury to
+
+-----------------------------------------------
+
+
+CA1880-006390
+
+624. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce gener ally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which the
+jury rind the facts only, leaving the judgment to the court. The special verdict
+must present the conclusions of fact as established by the evidence, and not the
+evi dence to prove them : and those conclusions of fact must be so presented,
+as that nothing shall remain to the court but to draw from them conclusions
+of law. Verdict, scope of—confined by pleadings and Issues, as to amending,
+seegenerally,
+
+-----------------------------------------------
+
+
+ID1881-004150
+
+384. The verdict of a jury is either general or special. A general verdict is
+that b which they pronounce generally upon all or any of t e issues, either in
+favor of the plaintifff or defendant; a special verdict is that by which the
+‘my find the facts only, leaving the judgment to the ourt. The special verdict
+must present the conclusions of fact as established by the evidence, and not the
+evidence to prove them; and those conclusions of fact must be so presented as
+that nothing shall remain to the Court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+CO1884-001380
+
+180. (1_79.) The verdict of a jury is either neral o\ilep:¢aI:; A general
+verdict is that by which they pronounce general y UP?" 9' giic‘ is of the
+issues. either in favor of plaintifff or defendant: A special V: “rt that by
+which thejury ﬁnd the facts only, leaving the Judgment to lrehgi by; The special
+verdict shall present the conclusions of fact, as estab 18 . the evidence,
+and not the evidence to prove them; and these conclusions of fact shall be
+so presented as that nothing shall remain to the court but I0 draw from them
+conclusions of law. . [What verdict shall specify In actions for possession.
+etc_. ‘Rh par. sec. 271. Ch; 2* W‘ Report of oomml.asloners—or ven.’|tct—ln
+condemnation. 240 to ‘M4. ch. '11. roll Special verdict, when propcr—(.‘onrt may
+dlroet-Inconsistent-y-]
+
+-----------------------------------------------
+
+
+UT1884-003880
+
+495. The verdict of the jury is either general or special. A general verdit is
+that by which they pro- nounee generally upon all or any of the issues, either
+in fivor of the plaintifff or defendant; it special verdict is that by which the
+jury find the flcts only, leaving the judgment to the court. The special verdict
+must present the conclusions of fact as established by the evidence, and not
+the e'vidence to prove them; and those conclusions of fact must be so presented
+as that nothiing shall remain to the coult but to draw fiom them conclusions of
+law.
+
+-----------------------------------------------
+
+
+AR1884-002320
+
+5140. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either in
+favor of the plaintifff or defendant.
+
+-----------------------------------------------
+
+
+AR1884-002330
+
+5141. A special verdict is that by which the jury finds the facts only. It must
+present the facts as established by the evidence, and not the evidence to prove
+them, and they must be so presented as that nothing remains to the court but
+to draw from them conclusions of law. (bbb) As to amendment of verdict, see
+Woodruff v. Webb, 32–613. As to defective verdict, see Hanks r. IIarris, 29–324.
+
+-----------------------------------------------
+
+
+WY1886-002050
+
+223. The verdict of a jury must he either gmi- oral or special ; a general
+verdict is that by which the jury finds, generafiy upon all or any of the
+issues in favor of either file plaintifff or defendant; a special verdict is
+that by wfhich the jury finds the fhcts only, and it mast present the facts as
+established by the evidence, and not the evidence to prove the facts; and the
+facts must be so presented that nothing shall remain to file court but to draw
+from them conclusions of law.
+
+-----------------------------------------------
+
+
+DT1887-003220
+
+5060. The verdict of a jury is either 'general or special: ·1. A gener .. al
+verdict is that by which Lhey pronounce ge11- erally 11po11 all or any of the
+issues, either i11 favor of the plaintifff 01 .. defendant; and, . 2. A special
+verdict is that by which the jury find the facts 011ly, leaving the judgment
+to the court. . The special verdict must present the conclusions .of fact as
+established by the evidence, and not the evidence to prove tl1e111; and these
+conclusions of fact must be so presented as that nothing shall remain to the
+court but to draw f1,01n· them 0011clu- sions of law.
+
+-----------------------------------------------
+
+
+WY1887-002450
+
+2563. The verdict of a jurv must be either general or special; a general verdict
+is that bv which the jurv finds generally upon all or anv of the issues in
+favor of either the plaintifff or defendant; a special verdict is that by which
+the jurv rinds the facts only, and it must present the facts as established
+by the evidence, and not the evidence to prove the facts; and the facts must
+be so presented that nothing shall remain to the court but to draw from them
+conclusions of law. [S. L. 1S86, ch. 60, § 223. R. S. O., § 5200.] When jury may
+render general or special verdict.
+
+-----------------------------------------------
+
+
+OH1889-003570
+
+5200. Special and general verdiot. The verdict of a jury must be either general
+or special ; a general verdict is that by which the jury finds, generally,
+upon all or any of the issues, in favor of either the plaintifff or defendant;
+a special verdict is that by which the jury finds the facts only, and it must
+present the facte as established by the evidence, and not the evidence to
+prove the facts; and the facts must be bo presented that nothing shall remain
+to the court but to draw from them conclusions of law. [51 v. 57, I 27o ; S.
+& C. 1024.] Upon the trial of an issue of fact, a special verdict should find
+facts to which the law gives a determinate effect, conclusive of the issue;
+and no judgment can be rendered on findings of facts which are in the nature of
+evidence only, and are not in law conclusive upon the questions at issue, 10 O.
+S. 118 ; see 20 O. 168, 281 ; 12 O. S. 175 ; see 45 O. 8. 491.
+
+-----------------------------------------------
+
+
+OK1891-002810
+
+27. The verdict of the jury is either general or special. A general verdict is
+that by which they pronounce gen- ' erally upon all or any of the issues, either
+in favor of the plaintifff or defendant. A special verdict is that by which the
+jury find facts only, leaving judgment thereon to the court.
+
+-----------------------------------------------
+
+
+OR1892-002660
+
+213. [210 a..] The verdict of a jury is either general 06.11.1862. $210a. or
+special. A general verdict is that by which the jury pronounce generally upon
+all or any of the issues, either . favor of the plamtdf . . or defendant. in
+A special verd1ct Yerclicts are is that by Wh1Ch the jury ﬁnd the facts only,
+leaving the s ec:aL VerJudgment to the court. Form of verdict. -“There the form
+of the verdict is open court, the plain ' . therenditionoftheverdict, insistupon
+ed upon in a verdict in a diﬂerent form: Sezey v. cannot, after Addison, 40 Cal.
+408.
+
+-----------------------------------------------
+
+
+SC1893-002920
+
+282. A general verdict is that by which the jury pro special verdicts dettned.
+nounce generally upon all or any of the issues, either in favor of /o., 9284;"
+the plaintifff or defendant. A special verdict is that by which the jury find
+the facts only, leaving the judgment to the Court.
+
+-----------------------------------------------
+
+
+OK1893-003350
+
+297. The verdict of a jury is either general or special. A general verdict.is
+that by.which they pronounce generally ujion all or any of the issues, either in
+favor of the plaintifff or defendant. special verdict is that by which the jury
+finds facts only. It must present the facts as established by the evidence, and
+not the evidence to prove them; and they must be so presented as that nothing
+remains to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+AR1894-002320
+
+5829. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either in
+favor of the plaintifff or defendant.
+
+-----------------------------------------------
+
+
+AR1894-002330
+
+5830. A special verdict is that by which the jury finds the facts only. It must
+present the facts as established by the evidence, and not the evi dence to prove
+them, and they must be so presented as that nothing remains to the court but to
+draw from them conclusions of law (C4.)
+
+-----------------------------------------------
+
+
+MT1895-005780
+
+1100. The verdict of a jury is either general or special. A general verdict is
+that by which they pronounce generally upon all or any of the issues, either
+in favor of the plaintifff or defendant; a special verdict is that by which the
+jury find the facts only, leaving the judgment to the court. The special verdict
+must present the conclusions of fact as established by the evidence and not the
+evidence to prove them ; and those conclusions of fact must be so presented, as
+that nothing shall remain to the court but to draw from them conclusions of law.
+
+-----------------------------------------------
+
+
+OH1896-003340
+
+5199. Discharge. When verdiot corrected. If no disagreement be expressed, and
+neither party require the jury to be polled, or, on the polling, each juror
+answer in the affirmative, the verdict is complete, and the jury shall be
+discharged from the case; and if the verdict be defective in form only, it may,
+with the assent of the jurors, before they are discharged, be corrected by the
+court. [51 v. 57, § 273, 274; S. & C. 1024.] And under the former practice,
+2 O. 31 ; 3 O. 384 ; W. 645 ; see 2 C. 8. C. R. 132 ; but not by a court of
+error, 5 O. 228 ; 9 O. 131 ; nor after the verdict is received and the jury
+discharged, 11 O. 472. j> 5200. Special and general verdiot. The verdict of
+a jury must be either general or special ; a general verdict is that by which
+the jury finds, generally, upon all .or any of the issues, in favor of either
+the plaintifff or defendant ; a special verdict is that by which the jury finds
+the facts only, and it must present the facts as established by the evidence,
+and not the evidence to prove the facts ; and the facts must be so presented
+that nothing shall remain to the court but to draw from them conclusions of
+law. [51 v. 57, \ 275 ; S. & C. 1024.] Upon the trial of an issue of fact, a
+special verdict should find facts to which the law gives a determinate effect,
+conclusive of the issue; and no judgment can be rendered on findings of facts
+which are in the nature of evidence only, and are not in law conclusive upon
+the questions at issue, 10 O. S. 148; see 20 O.168,231; 12 O.8.175; see 45 O. 8.
+470 : 12O. S. 175. j> 5201. When Jury may rentier general or special ver dict.
+In all actions the jury, unless otherwise di rected by the court, may, in its
+discretion, render either a general or a special verdict ; but the court shall,
+at the request of either party, direct them to give a special verdict in writing
+upon all or any of the issues, and in all cases, when requested by either party,
+the court shall instruct the jurors, if they render a general verdict, to find
+specially upon par ticular questions of fact, to be stated in writing, and shall
+direct a written finding thereon, and the ver dict and finding must be filed
+with the clerk and en tered on the journal. [91 v. 298 ; 51 v. 57,i 276.] The
+right of the court to direct, 8 O. S. 570, and of the jury to render a special
+verdict, discretionary, 12 0. S. 618.
+
+-----------------------------------------------
+
+
+UT1898-005510
+
+3162. Verdict either general or special. Defined. The verdict of the jury is
+either general or special. A general verdict is that by which they pronounce
+generally upon all or any of the issues, either in favor of the plaintifff or
+defendant; a special verdict is that by which the jury find the facts only,
+leaving the judgment to the court. The special verdict must present the con
+clusions of fact as established by the evidence, and not the evidence to prove
+them ; and those conclusions of fact must be so presented that nothing shall
+remain to the court but to draw from them conclusions of law. [C. L. § 3373.
+Cal. C. Civ. P. } 624. Eeport of referee on the facts has the effect of a
+Bpecial verdict, (S 3177.
+
+-----------------------------------------------
+
+
+AK1900-002210
+
+203. The verdict of a jury is either general or special. A eneral verdict is
+that by which the jury pronounce generally upon a or any of the issues, either
+in favor of the lplllaintiif or defendant. A s ial verdict is that by which the
+jury d the facts only, leaving t e judgment to the court.
+
+-----------------------------------------------
+
+

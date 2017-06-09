@@ -1,0 +1,221 @@
+Exemplar: CA1858-005220
+Earliest: CA1851-005300
+Documents in cluster: 18
+Cluster ID: 2228
+
+-----------------------------------------------
+
+CA1851-005300
+
+475. If no notice for a new trial be given, or if given, be denied, the Clerk,
+within five days after the rendition of the verdict or denial of the motion,
+shall transmit to the Court in which the application for the writ is pending, a
+certified copy of the verdict attached to the order of trial; aRer which either
+party may bring on the argument of the application, upon reasonable notice to
+the adverse party.
+
+-----------------------------------------------
+
+
+CA1858-005220
+
+475. If no notice for a new trial be given, or if given, be denied, the clerk,
+within five days after the rendition of the verdict or denial of the motion,
+shall transmit to the court in which the application for the writ is pending,
+a certified copy of the. verdict attached to the order of trial; after which,
+either party may bring on the argument of the application, upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+NV1861-004700
+
+422. If no notice of a new trial be given, or if given be denied, the clerk,
+within five days after the rendition of the verdict or denial of the motion,
+shall transmit to the court in which the application for the writ is pending,
+a certified copy , of the verdict attached to the order of trial ; after which
+either party may bring on the argument of the application, upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+ID1864-004830
+
+433. If no notice of a new trial be given, or if given, be denied, the clerk,
+within five days after the rendition of the verdict or denial of the motion,
+shall transmit to the court in which the application for the writ is pending, a
+certified cop of the verdict attached to the order of trial; after_ which either
+party may bring on the argument of the application, upon reasonable notice to
+the adverse party.
+
+-----------------------------------------------
+
+
+AZ1865-004780
+
+477. If no notice for a new trial be given, or if given, be denied, the clerk,
+within five days after the rendition of the verdict or denial of the motion,
+shall transmit to the court in which the application for the writ is pending, a
+certified copy of the verdict attached to the order of trial; after which either
+party may bring on the argument of the application, upon reasonable notice to
+the adverse party. ‘
+
+-----------------------------------------------
+
+
+MT1865-004310
+
+391. If no notice-of a motion for a new trial be given, or if given be denied,
+the clerk within five days after the rendition of the verdict, or denial of the
+motion, shall transmit to the court in which the application for the writ is
+pending, a certified copy of the verdict, attached to the order of trial, after
+which either party may bring on the argument of the application upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+CA1868-004760
+
+475. If no notice for R new trial be given, or if given, be denied. the clerk,
+within five days after the rendition of the verdict or denial of the motion,
+shall transmit to the court in which the application for the writ is pending,
+a certi­ fled copy of the verdict attached to the order of trial; after which
+either party may bring on the argument of the appli­ cation, upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+NV1869-005010
+
+455. If no notice for a new trial be given, or if given be denied, the Clerk,
+within five days after the rendition of the verdict, or denial of the motion,
+shall transmit to the Court in which the application for the writ is pending,
+a certified copy of the verdict, attached to the order of trial ; after which
+either party may g on the argument of the application, upon reasonable notice to
+the se party.
+
+-----------------------------------------------
+
+
+UT1870-004950
+
+453. If no notice for a new trial be given, or if given be denied, the Clerk,
+within five days after the rendition of the verdict, or denial of the motion,
+shall transmit to the Court in which the ap lication for the writ is pending,
+a certified COpy of the ver ict attached to the order of trial; after which,
+either party may bring on the argument of the application, upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+CA1872-008670
+
+1093. If no notice of a motion for a new trial be given, or if given, the motion
+be denied, the Clerk, within five days after rendition of the verdict or denial
+of the motion, must transmit to the Court in which the application for the writ
+is pending, a certified copy of the verdict attached to the order of trial; aRer
+which either party may bring on the argument of the application, upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+CO1877-003560
+
+309. If no notice for a new trial be given, or if given, it be denied, the
+clerk, within five days after the rendition of the verdict or denial of the
+motion, shall transmit to the court, in which the application for the writ is
+pending, a certified copy of the verdict attached to the order of trial, after
+which either party may bring on the argument of the application upon reasonable
+notice to the adverse party.
+
+-----------------------------------------------
+
+
+ND1877-007360
+
+703. If no notice of a motion for a new trial be given, or, if given, the motion
+be denied, the clerk, within five days after rendition of the verdict or denial
+of the motion, must transmit to the court in which the application for the writ
+is pending, a certified copy of the verdict attached to the order of trial,
+after which either party may bring on the argument of the application, upon
+reasonable notice to the adverse party.
+
+-----------------------------------------------
+
+
+CA1880-011550
+
+1093. If no notice of a motion for a new trial be given, or, if given, the
+motion be denied, the clerk, within rive days after rendition of the verdict or
+denial of the motion, must transmit to the court in which the applica tion for
+the writ is pending, a certified copy of the verdict attached to the order of
+trial; after which either party may bring on the argument of the application,
+upon rea sonable notice to the adverse party.
+
+-----------------------------------------------
+
+
+ID1881-008010
+
+746. If no notice of a motion for a new trial be given, or if given, the motion
+be denied, the Clerk, within five days after rendition of the verdict or denial
+of the motion, must transmit to the Court in which the a plication for the writ
+is pending, a certified cop of t 1e verdict attached to the order of trial;
+after whic either party may bring on the argument of the application, upon
+reasonable notice to the adverse party;
+
+-----------------------------------------------
+
+
+CO1884-002470
+
+341. (309,) If no notice for a new trial be given, or 1f_g1veu, it big denied,
+the clerk, within ﬁve days after the rendition of the verdict or denia of the
+motion, shall transmit to the court in which the application for tfile writ is
+nding. a certiﬁed copy of the verdict attached to the order of man, after W ioh
+either party may bring on the ai'_t;'t1i11ei1t of the application upo reasonable
+notice to the adverse pz1l't_\'_
+
+-----------------------------------------------
+
+
+DT1887-008780
+
+5525. If no notice of a motion for a ~ew: trial be given, or, if given, the
+motion be denied, the clerk, w~th111 five days ct:ftttr rendition of the ver ..
+diet or denial of the mot1011, must tr .. ansmi · .o the court in which the
+application for tl1.e writ is rending, a ce~th· fled copy of the ver .. dict
+attached to the 01 .. der of trial., atter whic either party may bring on the
+argument of the application, upon reasonable notice to the adverse party.
+
+-----------------------------------------------
+
+
+MT1895-011010
+
+1969. If no notice of a motion for a new trial be given, or, if given, the
+motion be denied, the argument must proceed at any time the court or judge may
+direct.
+
+-----------------------------------------------
+
+
+UT1898-014660
+
+3649. When application pending in supreme court, verdict transmitted. Argument.
+If no notice of a motion for a new trial be given, or, if given, the motion
+be denied, if the application for the writ is pending in the supreme court the
+clerk of the district court must within five days transmit to the supreme court
+a certified copy of the verdict attached to the order of trial ; after which
+either party may bring on the argument of the application in the court in which
+it is pending upon reasonable notice to the adverse party. [C. L.
+
+-----------------------------------------------
+
+

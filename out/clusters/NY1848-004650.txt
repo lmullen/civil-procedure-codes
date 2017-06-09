@@ -1,0 +1,133 @@
+Exemplar: NY1891-006700
+Earliest: NY1848-004650
+Documents in cluster: 18
+Cluster ID: 14780
+
+-----------------------------------------------
+
+NY1848-004650
+
+358. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+MO1849-001980
+
+2. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+NY1850-013360
+
+1226. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+KY1851-006380
+
+588. An application for an order, is a motion.
+
+-----------------------------------------------
+
+
+MN1851-006280
+
+14. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+NY1853-013180
+
+1216. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+KY1854-007040
+
+691. An application for an order, is a motion.
+
+-----------------------------------------------
+
+
+TX1855-005590
+
+483. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+MN1859-006200
+
+14. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+KY1867-007450
+
+691. What is a motion. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+AR1868-008120
+
+705. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+NY1876-008310
+
+768. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+NY1879-008160
+
+768. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+NY1883-007660
+
+768. Id. ; of a motion. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+AR1884-002980
+
+5204. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+KY1888-006990
+
+623 [691]. Motion defined. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+NY1891-006700
+
+768. An application for an order is a motion.
+
+-----------------------------------------------
+
+
+AR1894-002900
+
+5889. An application for an order is a motion.
+
+-----------------------------------------------
+
+

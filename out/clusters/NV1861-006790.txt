@@ -1,0 +1,70 @@
+Exemplar: ID1864-007040
+Earliest: NV1861-006790
+Documents in cluster: 7
+Cluster ID: 6517
+
+-----------------------------------------------
+
+NV1861-006790
+
+621. A judge of the supreme court, or of the district court, shall not act as
+attorney or counsel in any court, except in an action or proceeding to which he
+is a party on the record.
+
+-----------------------------------------------
+
+
+ID1864-007040
+
+644. A judge of the supreme court or of the district court shall not act as
+attorney or counsel in any court, except in an action or proceeding to which he
+is a party on the record.
+
+-----------------------------------------------
+
+
+MT1865-004980
+
+455. A judge of the supreme court, or of the district court, shall not act as
+attorney or counsel in any court, except in an action in which he is a party to
+the record. A
+
+-----------------------------------------------
+
+
+CA1872-001450
+
+172. A Justice of the Supreme Court, or Judge of the District Court, cannot
+act as attorney or counsel in any Court of this State, except in an action or
+proceeding to which he is a party on the record.
+
+-----------------------------------------------
+
+
+CO1877-004990
+
+433. A judge of the supreme court, or of the district court, shall not act as
+attorney or counsel in any court, except in an action in which he is a party to
+the record.
+
+-----------------------------------------------
+
+
+ID1881-000690
+
+61. A Justice of the Supreme Court, or Judge of the District Court, cannot act
+as attorney or counsel in any Court, except in an action or proceeding to which
+he is a party on the record.
+
+-----------------------------------------------
+
+
+UT1884-000630
+
+78. A justice of the supreme court, or judge of the district court, cannot act
+as attorney or counsel in any court except in an action or proceeding to which
+lie is a part, on the record.
+
+-----------------------------------------------
+
+

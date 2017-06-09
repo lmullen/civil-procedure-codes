@@ -1,0 +1,291 @@
+Exemplar: CA1851-003910
+Earliest: CA1851-003910
+Documents in cluster: 18
+Cluster ID: 2081
+
+-----------------------------------------------
+
+CA1851-003910
+
+358. When judgment is rendered upon the appeal, it shall be certified by the
+Clerk of the Supreme Court to the Clerk with whom the judgment roll is filed,
+or the order appealed from is entered. In cases of appeal from the judgment, the
+Clerk with whom the roll is filed shall attach the certificate to the judgment
+roll, and enter a minute of the judgment of the Supreme Court on the docket
+against the original entry. In cases of appeal from an order, the Clerk shall
+enter at length in the records of the Court the certificate received, and minute
+against the entry of the order appealed from a reference to the certificate,
+with a brief statement that such order has been adirmed, reversed, or modi—
+fied, as the case may be, by the Supreme Court, on appeal.
+
+-----------------------------------------------
+
+
+CA1858-003840
+
+358. When judgment is rendered upon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk with whom the judgment roll is filed,
+or the order appealed from is entered. In cases of appeal from the judgment, the
+clerk with Whom the roll is filed shall attach the certificate to the judgment
+roll, and enter a minute of the judgment of the supreme court on the docket
+against the original entry. In cases of an appeal from the order, the clerk
+shall enter at length in the records of the court the certificate received,
+and minute against the entry of the order appealed from, a reference to the
+certificate, with a brief statement that such order has been ailirmed, reversed,
+or modified, as the case may be, by the supreme court, on appeal.
+
+-----------------------------------------------
+
+
+NV1861-003230
+
+296. When judgment is rendered upon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk with whom the judgment roll is filed,
+or the order appealed from is entered. In cases of appeal from the judgment, the
+clerk with whom the roll is filed shall attach the certificate to the judgment
+roll, and enter a minute of the j ud ment of the supreme court on the docket
+against the origina entry. In cases of a peal from an order, the clerk shall
+enter at length in the recor s of the court the certificate received, and minute
+against the entry of the order appealed from a reference to the certificate,
+with a brief statement that such order had been affirmed, reversed, or modified,
+as the case may be, by the supreme court, on appeal.
+
+-----------------------------------------------
+
+
+ID1864-003340
+
+806. When judgment is rendered upon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk with whom the judgment roll is filed, or
+the order appealed from is entered. case of appeal from the judgment, the clerk
+with whom the roll is filed shall attach the certificate to the judgment roll,
+and enter a minute of the judgment of the supreme court on the docket against
+the original entry. In cases of appeal from an order, the clerk shall enter at
+length in the record of the court the certificate received, and minute a inst
+the entry of the order appealed from a reference to t e certificate, with a
+brief statement that such order had been affirmed, reversed, or modihed, as the
+case may be, by the supreme court, on appeal.
+
+-----------------------------------------------
+
+
+AZ1865-003610
+
+360. When judgment is rendered upon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk with whom the judg— , ment-roll is
+filed. In cases of appeal from the judgment, the clerk with whom the roll is
+filed shall attach the certificate to the j udgment-roll, and enter a minute of
+the judgment of the supreme court on the docket against the original entry. In
+case of appeal from an order, the clerk shall enter at length in the records of
+the court the certificate received, and minute against the entry of the order
+appealed, from a reference to the certificate, with a brief ,‘statement that
+such order has been affirmed, reversed, or modified, as. the case may be, by the
+supreme court on appeal.
+
+-----------------------------------------------
+
+
+MT1865-002930
+
+273. When judgment is rendered upon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk of the court in which the judgment
+appealed from is entered, who shall enter the same at length in the order book
+and minutes against the judgment or order appealed from, a reference to the
+judgment of the supreme court, with a brief statement that such judgment or
+order has been affirmed, reversed, or modiiied, as the case may be.
+
+-----------------------------------------------
+
+
+CA1868-003630
+
+358. When judgment is rendered npon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk with whom the judgment roll is filed,
+or the order ap· pealed from is entered. In cases of appeal from the judg·
+ment, the clerk with whom the roll is filed shall attach the certificate to
+the judgment roll, and enter 9: minute of the judgment of the supreme court
+on the docket against the original entry. In cases of appeal from an order,
+the clerk shall enter at length in the records of the court the certificate
+received, and minute against the entry of the order appealed from a reference
+to the certificate, with 11. brief statement that such order bas been affirmed,
+reversed, or modified, as the case may he, by the supreme court, on appeal.
+
+-----------------------------------------------
+
+
+NV1869-003800
+
+351. When judgment is rendered upon the appeal, it shall be certified by the
+Clerk of the Supreme Court to the Clerk with whom the judgment roll is filed or
+the order appealed from is entered. In cases'of' appeal from the judgment, the
+Clerk with whom the roll is filed shall attach the certificate to the judgment
+roll and enter a minute of the judgment of the Sapreme Court on the docket
+against the original entry. In cases of appeal from an order, the Clerk shall
+enter at length in the records of the Court the certificate received, and minute
+against the entry of the order appealed from a reference to the certificate,
+with a brief statement that the order has been affirmed, reversedl or modified,
+as the case may be, by the Supreme Court, on appea .
+
+-----------------------------------------------
+
+
+UT1870-003740
+
+349. When judgment is rendered upon the appeal, 1t shall be certified by the
+Clerk of the Supreme Court to the Clerk with whom the judgment roll is filed
+or the order appealed from is entered. In cases of a eal from the judgment
+the Clerk with whom the roll is ed, shall attach the certificate to the
+judgment roll, and enter _a minute of the judgment of the Supreme Court on the
+docket against the origmal entry. In case of appeal from an order, the Clerk
+shall enter .at length in the records of the Court the certificate received,
+and minute against the ent of the order appealed from a reference to the
+certificate, wit a brief stamment that the order has been amrmed, reversed or
+modified, as the case may be, by the Su reme Court, on appeal.
+
+-----------------------------------------------
+
+
+CA1872-007770
+
+958. When judgment is rendered upon the appeal, it must be certified by the
+Clerk of the Supreme Court to the Clerk with Whom the judgment roll is filed,
+or the order appealed from is entered. In cases of appeal from the judgment,
+the Clerk with whom the roll is filed must attach the certificate tothe judgment
+roll, and enter a minute of the judgment of the Supreme Court on the docket,
+against the original entry. In cases of appeal from an order, the Clerk must
+enter at length in the records of the Court the certificate received, and minute
+against the entry of the order appealed from, a reference to the certificate,
+with a brief statement that such order has been aliirmed, reversed, or modified,
+by the Supreme Court on appeal.
+
+-----------------------------------------------
+
+
+AZ1877-002920
+
+360. When judgment is rendered upon the appeal, it shall be certified by the
+clerk of the supreme court to the clerk with whom the judgment roll is filed. In
+cases of appeal from the judgment, the clerk with whom the roll is filed shall
+attach the certificate to the judgment roll, and enter a minute of the judgment
+of the supreme court on the docket against the original entry. In case of appeal
+from an order, the clerk shall enter at length in the records of the court the
+certificate re ceived, and minute against the entry of the order appealed from
+a refer ence to the certificate, with a brief statement that such order has been
+affirmed, reversed or modified, as the case may be, by the supreme court, on
+appeal.
+
+-----------------------------------------------
+
+
+CO1877-004150
+
+360. When judgment is rendered upon appeal, it shall be certified by the clerk
+of the supreme court to the clerk with whom the judgment roll is bled or order
+appealed from is entered. In cases of appeal from the judgment, the clerk
+with whom the roll is filed shall attach the certificate of the clerk of the
+supreme court to the judgment roll, and enter a minute of the judgment of the
+supreme court on the docket against the original entry. In cases of appeal
+from an order, the clerk shall enter at length in the records of the court the
+certincate received from the clerk of the supreme court, and minute against the
+entry of the order appealed from, reference to the certificate, with a brief
+statement that such order has been affirmed, reversed or modified, as the case
+may be, by the supreme court on appeal. ’
+
+-----------------------------------------------
+
+
+CA1880-010420
+
+958. When judgment is rendered upon the appeal, it must be certified by the
+clerk of the Supreme Court to the clerk with whom the judgment roll is filed,
+or the order appealed from is entered. In cases of appeal from the judgment,
+the clerk with whom the roll is filed must at tach the certificate to the
+judgment roll, and enter a min ute of the judgment of the Supreme Court on the
+docket,against the original entry. In cases of appeal from an order, the clerk
+must enter at length in the records of the court the certificate received, and
+minute against the en try of the order appealed from, a reference to the certifi
+cate, with a brief statement that such order has been affirmed, reversed,
+or modified by the Supreme Court on appeal. I Judgment Remittitur—amendment
+rendered on appeal—sel. after, 19 Cal.53n: 127: rehearing, costs, 3 Cal.
+
+-----------------------------------------------
+
+
+ID1881-007120
+
+661. When judgment is rendered a n the appeal. it must be certified by the Clerk
+of t e Supreme Court to the Clerk with whom the judgment roll is filed, or the
+order appealed from is entered. In cases of appeal from the judcrment, the Clerk
+with whom the roll 18 filed must attach the certificate to the judgment roll,
+and enter a minute of the judgment of the Supreme Court on the docket, against
+the ori inal entry. In cases of appeal from an order, the Cler must enter at
+length in the records of the Court the certificate received, and minute against
+the entry of the order appealed from, a. reference to the certificate, with a
+brief statement that such order has been ailirmed, reversed, or modified, by the
+Supreme Court on appeal.
+
+-----------------------------------------------
+
+
+AZ1887-003340
+
+305. When judgment is rendered on appeal or writ error it shall be certilied
+by the clerk of the supreme court to the clerk with whom the judgment roll is
+filed. The clerk shall attach the certificate to the judgment roll and enter a
+minute of the judgment of the supreme court on the docket against the original
+entry.
+
+-----------------------------------------------
+
+
+AZ1887-003360
+
+306. Any party desiring a rehearing of any matter deter-» mined by said courts,
+may within fifteen days after the date of entry of the judgment or decision
+of the court, file with the clerk of said court his motion in writing for a
+rehearing thereof, in which motion the grounds relied upon for the rehearing
+shall be distinctly specified, and the name and residence of the counsel of the
+opposing party if known, and if not known then the name and residence of the
+opposing party as shown in the record; provided, that should the court adjourn
+within less time than the fifteen days after the rendition of the judgment it
+may make such rules and regulations in reference to the filing of the motion
+as to it may seem best for the promotion of the interest of all the parties
+concerned. '
+
+-----------------------------------------------
+
+
+MT1895-009830
+
+1744. When judgment is rendered upon the appeal, it must be certi­ fied by the
+clerk of the Supreme Court to the clerk with whom the judgment roll is filed,
+or the order appealed from is entered. In cases of appeal from the judgment,
+the clerk with whom the roll is filed must attach the certificate to the
+judgment roll, and enter a minute of the judgment of the Supreme Court on the
+docket against the original entry. In cases of appeal from an order, the clerk
+must enter at length in the records of the court, the certificate received,
+and minute against the entry of the order appealed from, a reference to the
+certificate, with a brief statement that such order has been affirmed, reversed
+or modified by the Supreme Court on appeal.
+
+-----------------------------------------------
+
+
+AZ1901-003130
+
+385.) When a motion for a rehearing is made, the posed of. mandate shall
+not issue until the same is disposed of. certifledento court Sec- 38f30 When
+judgment is rendered on appeal or writ of error it shall be certified by the
+clerk of the supreme court to the clerk with whom the judgment roll is filed.
+The clerk shall attach the certificate to the judgment roll and enter a minute
+of the judgment of the supreme court on the docket against the original entry,
+and return therewith the record in the case. 1596Sec. 387.) Any party desiring a
+rehearing of any matter determined by said court may, within fifteen days after
+the date of entry of the judgment or decision and opinion of the court, file
+with the clerk of said court his motion, in writing, for a rehearing thereof, in
+which motion the ground relied upon for the rehearing shall be speci fied, and a
+copy thereof shall be served on the opposite party or his at torney.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,66 @@
+Exemplar: AZ1877-003580
+Earliest: CA1872-016400
+Documents in cluster: 5
+Cluster ID: 21784
+
+-----------------------------------------------
+
+CA1872-016400
+
+2094. An oath is usually administered as follows: The person who swears,
+expressing his assent, when addressed in the following form: “You do swear, in
+the presence of the everlasting God, that the evidence you shall give in this
+issue (or matter) pending between and , shall be the truth, the Whole truth, and
+nothing but the truth, so help you God.”
+
+-----------------------------------------------
+
+
+CA1880-021590
+
+2094. An oath, or affirmation, in an action or pro ceeding, may be administered
+as follows, the person who swears, or affirms, expressing his assent when
+addressed in the following form: "You do solemnly swear (or af firm, as the
+case may be) that the evidence you shall give in this issue, (or matter) pending
+between and, truth, and nothing but the truth, so help you God." [In effect July
+1st, 1874.]
+
+-----------------------------------------------
+
+
+ID1881-010700
+
+993. An oath, or affirmation, in an action or pro», ceeding, ma be administered
+as follows, the person who swears, or a 'rms, expressing his assent when
+addressed in the following form : “ You do solemnly swear (or affirm, as the
+case may be), that the evidence you shall give in this issue (or matter),
+pending between and , shall be the truth, the whole truth, and nothing but the
+truth, so help you God.”
+
+-----------------------------------------------
+
+
+MT1895-019500
+
+3431. An oath or affirmation, in an action or proceeding, may be ad­ ministered
+as follows, the person who swears, or affirms, expressing his assent when
+addressed in the following form: "You do solemnly swear (or affirm, as the case
+may be) that the evidence you shall give in this issue (or matter), pending
+between---and---, shall be the truth, the whole truth, and nothing but the
+truth, so help you God."
+
+-----------------------------------------------
+
+
+UT1898-011110
+
+3438. Form of oath or affirmation. An oath, or affirmation, in an action or
+proceeding, may be administered as follows, the person who swears or affirms
+expressing his assent when addressed in the following form : " You do solemnly
+swear (or affirm, as the case may be,) that the evidence yon shall give in this
+issue (or matter) pending between and shall be the truth, the whole truth, and
+nothing but the truth, so help you God." [C. L. § 3974. Cal. C. Civ. P. ? 2094.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,59 @@
+Exemplar: CA1872-013650
+Earliest: CA1872-013650
+Documents in cluster: 5
+Cluster ID: 2732
+
+-----------------------------------------------
+
+CA1872-013650
+
+1748. If the minor is under the age of fourteen years, the Probate Judge may
+nominate and appoint his guardian. If he is above the age of fourteen years, he
+may nominate his own guardian, who, if approved by the Judge, must be appointed
+accordingly.
+
+-----------------------------------------------
+
+
+CA1880-017840
+
+1748. If the minor is under the age of fourteen years, the court may nominate
+and appoint his guardian. If he is fourteen years of age, he may nominate his
+own guar dian, who, if approved by the court, must be appointed accordingly. [In
+effect April 15th, 1880.]
+
+-----------------------------------------------
+
+
+AZ1887-007040
+
+344. If the minor is under the age of fourteen years, the probate judge may
+nominate and appoint his guardian. If he is above the age of fourteen years, he
+may nominate his own guardian, who, if approved by the judge, must be appointed
+accordingly.
+
+-----------------------------------------------
+
+
+DT1887-013690
+
+5984. If the minor is under the age of fourteen years, the. p robate judge
+may nominate and appoint his guardian," If he is ~ above the age of fourteen
+years he mayno·minate his own guardian, who, if approved by the judge, must
+be .appointed accord­ ingly. And the probate court, in appointing a guardian, is
+to be-­ guided by the considerations named in section 2642, of the civil code. .
+'
+
+-----------------------------------------------
+
+
+MT1895-016500
+
+2951. If the minor is under the age of fourteen years, the court or judge
+may nominate and appoint his guardian. If he is fourteen years of age, he may
+nominate his own guardian, who, if approved by the court or judge, must be
+appointed accordingly.
+
+-----------------------------------------------
+
+

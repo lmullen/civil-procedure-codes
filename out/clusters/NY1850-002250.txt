@@ -1,0 +1,70 @@
+Exemplar: CA1872-001250
+Earliest: NY1850-002250
+Documents in cluster: 7
+Cluster ID: 2335
+
+-----------------------------------------------
+
+NY1850-002250
+
+203. When a court is held at a place appointed, as provided in the last two
+sections, every person held to appear at the court must, appear at the place so
+appointed.
+
+-----------------------------------------------
+
+
+NY1853-002070
+
+190 When a court is held at a place appointed, as provided in the last two
+sections, every person held to appear at the court must appear at the place so
+appointed. ‘
+
+-----------------------------------------------
+
+
+NV1861-006860
+
+629. When the court is held at a place appointed as provided in the last
+section, every person held to appear at the court, shall appear at the place so
+appointed.
+
+-----------------------------------------------
+
+
+CA1872-001250
+
+143. When the Court is held at a place appointed, as provided in the last
+section, every person held to appear at the Court must appear at the place so
+appointed.
+
+-----------------------------------------------
+
+
+ID1881-000590
+
+51. When the Court is held at a place a (pointed as provided in the last
+section, every person he to appear at the Court must appear at the place so ap
+ointed.
+
+-----------------------------------------------
+
+
+UT1884-000520
+
+63. When the court is held at a place appointed provided in the last preceding
+section, every person held to apear at the court must appear at the place bo
+appointed.
+
+-----------------------------------------------
+
+
+MT1895-000750
+
+141. When the court is held at the place appointed, as provided in the last
+Section, every person held to appear at the court must appear at the place so
+appointed.
+
+-----------------------------------------------
+
+

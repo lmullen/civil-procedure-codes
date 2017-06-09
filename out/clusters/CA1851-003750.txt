@@ -1,0 +1,113 @@
+Exemplar: CA1858-003690
+Earliest: CA1851-003750
+Documents in cluster: 11
+Cluster ID: 2191
+
+-----------------------------------------------
+
+CA1851-003750
+
+343. The provisions of the last five preceding sections shall not Y apply to
+appeals taken from an order made at a special term upon at’ri- i davits filed;
+but such affidavits shall be annexed to the order in the place of the statement
+mentioned in those sections.
+
+-----------------------------------------------
+
+
+CA1858-003690
+
+343. The provisions of the last five preceding sections shall not apply to
+appeals taken from an order made upon affidavit filed; but such affidavits
+shall be annexed to the order in the place of the statement mentioned in those
+sections.
+
+-----------------------------------------------
+
+
+NV1861-003070
+
+281. The provisions of the last preceding sections shall not appl to appeals
+taken from an order made upon allidavit filed, gut such atiidavits shall
+be annexed to the order ‘ in the place of the statement mentioned in those
+sections.
+
+-----------------------------------------------
+
+
+ID1864-003180
+
+291. The provisions of the last precedgif sections shall not apply to appeals
+taken from an order m e upon an affidavit filed, but such affidavit shall be
+annexed to the order ,in the place of the statement mentioned in those sections.
+
+-----------------------------------------------
+
+
+AZ1865-003460
+
+345. The provisions of the last live preceding sections shall not apply to
+appeals taken from an order made upon aiiidavits filed; but such affidavits
+shall be annexed to the order in the place of the statement mentioned in those
+sections.
+
+-----------------------------------------------
+
+
+MT1865-002770
+
+258. The provisions of the last preceding sections shall not apply to appeals
+taken from an order made upon an affidavit filed, but such affidavit shall be
+annexed to the order in the place of the statement mentioned in those sections.
+
+-----------------------------------------------
+
+
+CA1868-003480
+
+343. The provisions of the last five preceding sections shall not apply to
+appeals taken from an order made upon affidavit filed, but such affidavits shall
+be annexed to the order in place of the statement mentioned in those sections.
+
+-----------------------------------------------
+
+
+NV1869-003660
+
+337. The provisions of the last five preceding sections shall not apply to
+appeals taken from anorder made upon affidavit filed, but such affidavit shall
+be annexed to the order, in the place of the state' ment mentioned in those
+sections.
+
+-----------------------------------------------
+
+
+UT1870-003600
+
+835. The provisions of the East 'five preceding Sections - shall not a p y to 'a
+als taken from an 'order made uponaffidavit xfile , but‘s‘uc affidavit shall be
+annexed to the order, in the place of the statement mentioned in those Sections.
+
+-----------------------------------------------
+
+
+AZ1877-002790
+
+345. The provisions of the last five preceding sections shall not apply to
+appeals taken from an order made upon affidavits filed; but such affidavits
+shall be annexed to the order in the place of the statement mentioned in those
+sections.
+
+-----------------------------------------------
+
+
+CO1877-003980
+
+345. The provisions of the last five preceding sections shall not apply’ to
+appeals taken from an order made upon affidavit filed, but such affidavit
+shall be annexed to the order in the place of the statement mentioned in those
+sections. , '
+
+-----------------------------------------------
+
+

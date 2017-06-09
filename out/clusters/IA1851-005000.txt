@@ -1,0 +1,78 @@
+Exemplar: IN1852-005880
+Earliest: IA1851-005000
+Documents in cluster: 7
+Cluster ID: 7047
+
+-----------------------------------------------
+
+IA1851-005000
+
+2015. The result of such new trial (if granted after the close of the term at
+which the first trial took place) shall in no case affect the interest of third
+persons, acquired in good faith for a valuable consideration since the former
+trial.
+
+-----------------------------------------------
+
+
+IN1852-005880
+
+603. The result of the new trial, if application therefore is made after the
+close of the term at which the judgment is rendered, shall in no case affect the
+interest of third persons, acquired in good faith for avaluable consideration
+since the former trial.
+
+-----------------------------------------------
+
+
+TX1855-006120
+
+532. The result of the new trial, if application therefore be made after
+the close of the term at which the judgment was rendered, shall in no case
+affect the interest of third persons, acquired in good faith, for a valuable
+consideration, since the former trial, and before the application for a new
+trial.
+
+-----------------------------------------------
+
+
+NE1855-005000
+
+2015. The result of such new trial (if granted after the close of the term at
+which the first trial took place) shall in no case affect the interest of third
+persons, acquired in good faith for a valuable consideration since the former
+trial.
+
+-----------------------------------------------
+
+
+NE1857-004650
+
+16. The result of such new trial (if granted after the close of the term at
+which the first trial took place) shall in no case affect the interests of third
+persons, acquired in good faith for a valuable consideration since the former
+trial.
+
+-----------------------------------------------
+
+
+IA1859-009300
+
+970. The result of such new trial (if granted after the close of the term at
+which the first trial took place,) shall in no case, affect the interest of
+third persons, acquired in good faith for a reliable consideration, since the
+former trial.
+
+-----------------------------------------------
+
+
+OK1891-007190
+
+17. The result of the new trial, if application therefore is made after
+the close of the term'at which the judgment is‘ rendered, shall in no case
+effect the interest of third persons, acquired in good faith, for a valuable
+consideration, since the former trial.
+
+-----------------------------------------------
+
+

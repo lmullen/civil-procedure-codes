@@ -1,0 +1,151 @@
+Exemplar: CA1851-005620
+Earliest: CA1858-005510
+Documents in cluster: 15
+Cluster ID: 21804
+
+-----------------------------------------------
+
+CA1858-005510
+
+505. When an application is made to a court or referee to postpone‘ a trial,
+the payment of costs occasioned by the postponement may be imposed, in the
+discretion of the court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+NV1861-004990
+
+449. When an application is made to a court or referee to postpone a trial,
+the payment of costs occasioned by the postponement may be imposed, in the
+discretion of the court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+ID1864-005130
+
+461. When an application is madoto acourt or referee to postpone a ‘trial, the
+payment of costs occasioned by the costs shall be allowed in an action for the
+recovery of money or postponement may be imposed, in the discretion of the court
+or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+MT1865-004500
+
+408. When an application is made to a court or referee to postpone a trial, the
+payment of costs occasioned by the postponement may be imposed in the discretion
+of the court or referee as a condition of granting the same.
+
+-----------------------------------------------
+
+
+CA1868-005030
+
+505. When an application is made to a court or referee to postpone a trial,
+the payment. of costs occasioned by the postponement may he imposed, in the
+discretion of the court 01· referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+NV1869-005300
+
+482. When an applicati'bn is made to a Court or referee to postpone a trial,
+theQayment of costs occasionbd by the postpoth may be imposed, in the discretion
+of the Court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+UT1870-005240
+
+480. When an application is made to a Court or referee to postpone a trial,
+the payment of costs occasioned by the postponement, may be imposed, in the
+discretion of the Court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+CA1872-008200
+
+1029. When an application is made to a Court or referee to postpone a trial,
+the payment of costs occasioned by the postponement may be imposed, in the
+discretion of the Court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+ND1877-004030
+
+389. When an application is made to a court or referee to postpone a trial,
+the payment of costs occasioned by the postponement, may be imposed, in the
+discretion of the court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+CA1880-011030
+
+1028. The fees of referees are five dollars to each for every day spent in the
+business of the reference ; but the parties may agree, in writing, upon any
+other rate of com pensation, and thereupon such rate shall bo allowed. Reference
+—generally, sees. 638-645. Referees in partition—compensation of, sees. 768,
+796. S 1029. When an application is made to a court or referee to postpone a
+trial, the payment of costs occa sioned by the postponement may be imposed,
+in the dis cretion of the court or referee, as a condition of granting the
+Postponement—generally, same. sees. 595, 596.
+
+-----------------------------------------------
+
+
+ID1881-007540
+
+700. When an ap lication is made to a Court or referee to postpone a tria , the
+ayment of costs occasioned by the postponement maylbe imposed, in the discretion
+of the Court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+UT1884-006810
+
+911. Whenin application is Illade to a court or referee to postpone a trial, the
+payment of costs occa- sioned by the postponlment, may be imposed in the dis-
+cretion of' file court or referee, as a condition of' granting the same.
+
+-----------------------------------------------
+
+
+DT1887-004860
+
+5199. When a11 application is made to a court 01"' 1 .. eferee to postpone a
+trial: the paYI?e11t of .costs occasioned by the post­ ponement may be ·imposed,
+111 the discretion of the court 01 .. ref­ eree, as a condition of granting the
+same.
+
+-----------------------------------------------
+
+
+MT1895-010340
+
+1857. When an application is made to the court or referee to postpone a trial,
+the payment of costs occasioned by the postponement may be imposed, in the
+discretion of the court or referee, as a condition of granting the same.
+
+-----------------------------------------------
+
+
+UT1898-009440
+
+3346. Costs on granting continuance. When an application is made to a court
+or referee to postpone a trial, the payment of costs occasioned by the
+postponement, may be imposed in the discretion of the court or referee, as
+a con dition of granting the same. [C. L. § 3G91. Cal. C. Civ. P. ? 1029.
+Postponement, costs, § 3133. Referee may postpone, 2 3177.
+
+-----------------------------------------------
+
+

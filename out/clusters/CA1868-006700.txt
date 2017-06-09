@@ -1,0 +1,91 @@
+Exemplar: CA1872-003100
+Earliest: CA1868-006700
+Documents in cluster: 6
+Cluster ID: 2394
+
+-----------------------------------------------
+
+CA1868-006700
+
+2. When an order re made, transferring an action or proceeding for trial,
+the clerk of the court or justice of the peace, shall transmit the pleadings
+and papers therein, to the clerk or justice of the court to which it has been
+trans­ ferred. If the transfer is made on the ground that a judge or justice
+is disqualified from acting, the costs and fees thereof, and of re-entering and
+filing the pleadings and papers anew, are to abide the event of the action or
+proceeding ; in other cases they are to be paid by the party at whose instance
+the order is made.
+
+-----------------------------------------------
+
+
+CA1872-003100
+
+399. When an order is made transferring an action or proceeding for trial, the
+Clerk of the Court, or Justice of the Peace, must transmit the pleadings and
+papers therein to the Clerk or Justice of the Court to which it is transferred.
+The costs and fees thereof, and of iiling the papers anew, must be paid by the
+party at whose instance the order was made. The Court to which an action or
+proceeding is transferred has and exercises over the same the like jurisdiction
+as if it had been originally commenced therein.
+
+-----------------------------------------------
+
+
+CA1880-003570
+
+399. When an order is made transferring an action or proceeding for trial, the
+clerk of the court, or justice of the peace, must transmit the pleadings and
+papers therein to the clerk or justice of the court to which it is transferred.
+The costs and fees thereof, and of filing the papers anew, must he paid by the
+party at whose instance the order was made. The court to which an action or
+proceeding is transferred has and exercises over the same the like juris diction
+as if it had been originally commenced therein.
+
+-----------------------------------------------
+
+
+ID1881-002270
+
+212. When an order is made transferring an: action or proceeding for trial, the
+Clerk of the Court, or‘ Justice of the Peace, must transmit the leadings and
+papers therein to the Clerk or Justice oi? the Court to which it is transferred.
+The costs and fees thereof, and: of filing the papers anew, must be aid by the
+party at whose instance the order was m e. The Court to; which an action or
+proceeding is transferred has and‘ exercises over the same the like jurisdiction
+as if it had been originall commenced therein.
+
+-----------------------------------------------
+
+
+MT1895-003200
+
+617. When an order is made transferring an action or proceeding for trial,
+the clerk of the court. or justice qf the peace must transmit the pleading and
+papers therein to the clerk or justiee of the court to which it is transferred.
+The costs and fees thereof. and of filing. the papers anew, must be paid by
+the party at whose instance the order was made. The court to which an action or
+proceeding is transferred has and exercises over the same the like jurisdiction
+as if it hod been originally commenced taerein.
+
+-----------------------------------------------
+
+
+UT1898-001450
+
+2936. Id. Transfer of papers. Costs. Effect. When an order is made transferring
+an action or proceeding for trial, the clerk of the court must transmit
+the pleadings and papers therein to the clerk of the court to which it is
+transferred. The costs and fees thereof and of filing the papers anew must be
+paid by the party at whose instance the order was made; provided, that when said
+order is made for the reason that the cause was commenced in the wrong county,
+and this appears affirmatively upon the face of the complaint, said costs of
+transfer and filing the papers anew shall Ik; paid by the plaintifff in the
+action within ten days after the making of such order or said cause dismissed
+for want of juris diction. The court to which an action or proceeding is
+transferred shall have and exercise the like jurisdiction as though it had been
+originally commenced therein.
+
+-----------------------------------------------
+
+

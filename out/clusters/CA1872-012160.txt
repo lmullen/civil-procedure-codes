@@ -1,0 +1,53 @@
+Exemplar: CA1872-012160
+Earliest: CA1872-012160
+Documents in cluster: 5
+Cluster ID: 2643
+
+-----------------------------------------------
+
+CA1872-012160
+
+1551. The executor or administrator must, when the sale is made upon a credit,
+take the notes of the purchaser for the purchase money, with a mortgage on the
+property to secure their payment.
+
+-----------------------------------------------
+
+
+CA1880-016080
+
+1551. The executor or administrator must, when the sale is made upon a credit,
+take the notes of the pur chaser for the purchase-money, with a mortgage on the
+property to secure their payment. Credit sale—interest, 9 Cal. 181. Payment by
+offset—on mortgage claim, 39 Cal. 306.
+
+-----------------------------------------------
+
+
+AZ1887-005480
+
+195. The executor or administrator must, when the sale is made upon a credit,
+take the notes of the purchaser for the purchase money, with a mortgage on the
+property to secure their payment.
+
+-----------------------------------------------
+
+
+DT1887-011900
+
+5835. The executor or administrator must, when the sale is made 11pon a credit,
+take the notes of the purchaser for the purchase money with a mortgage on the
+property to secure their payment.
+
+-----------------------------------------------
+
+
+MT1895-014900
+
+2684. The executor or administrator must, when the sale is made upon a credit,
+take the notes of the purchaser for the purchase money, with a mort­ gage on the
+property to secure the payment.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,81 @@
+Exemplar: CA1851-002710
+Earliest: NY1850-009940
+Documents in cluster: 6
+Cluster ID: 2050
+
+-----------------------------------------------
+
+NY1850-009940
+
+903. In an action for the foreclosure or satisfaction of a mortgage of real
+property, or the satisfaction of a lien or encumbrance upon property, real
+or personal the court has power, by its judgment, to direct a sale of the
+property, or any part of it; the application of the proceeds to the payment of
+the amount due on the mortgage, lien, or encumbrance with costs; and execution,
+for the balance, against any party liable thereforee, as principal, surety, or
+otherwise.
+
+-----------------------------------------------
+
+
+CA1851-002710
+
+246. In an action for the foreclosure or satisfaction of a mortgage of real
+property, or the satisfaction of a lien or encumbrance upon property, real or
+personal, the Court shall have power by its judgment to direct a sale of the
+property, or any part of it; the application of the proceeds to the payment of
+the amount due on the mortgage, lien, or encumbrance, with costs, and execution
+for the balance.
+
+-----------------------------------------------
+
+
+NY1853-009770
+
+894. In an action for the foreclosure or satisfaction of a mortgage of real
+property, or the satisfaction of a lien or encumbrance upon property, real
+or personal, the court has power, by its judgment, to direct a sale of the
+property, or any part of it; the application of the proceeds to the payment of
+the amount due on the mortgage, lien, or encumbrance with costs; ‘and execution,
+for the balance, against any party liable therefore, as principal, surety, or
+otherwise.
+
+-----------------------------------------------
+
+
+CA1858-002660
+
+246. In an action for the foreclosure or satisfaction of a mortgage of real
+property, or the satisfaction of a lien or encumbrance upon property, real or
+personal, the court shall have power by its judgment to direct a sale of the
+property, or any part of it; the application of the proceeds to the paymetn of
+the amount due on the mortgage, lien or encumbrance, with costs, and execution
+for the balance.
+
+-----------------------------------------------
+
+
+AZ1865-002490
+
+248. In an action for the foreclosure or satisfaction of a mortgage of real
+property, or the satisfaction of a lien or encumbrance upon property, real or
+personal, the court shall have power by its judgment to direct a sale of the
+property, or any part of it, and to direct the application of the proceeds to
+the payment of the amount due on the mortgage, lien, or encumbrance, with costs,
+and execution for the balance.
+
+-----------------------------------------------
+
+
+AZ1877-002020
+
+248. In an action for the foreclosure or satisfaction of a mortgage of real
+property, or the satisfaction of a lien or encumbrance upon property, real or
+personal, the court shall have power by its judgment to direct a sale of the
+property, or any part of it, and to direct the application of the proceeds to
+the payment of the amount due on the mortgage, lien or encumbrance, with costs
+and execution for the balance.
+
+-----------------------------------------------
+
+

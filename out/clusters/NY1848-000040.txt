@@ -1,0 +1,348 @@
+Exemplar: NY1850-000110
+Earliest: NY1848-000040
+Documents in cluster: 36
+Cluster ID: 11331
+
+-----------------------------------------------
+
+NY1848-000040
+
+2. An action is a regular judicial proceeding, in which a prosecutes another
+party, for the enforcement or protec- tion of a right, the redress or prevention
+of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+NY1849-000030
+
+2. An action is an ordinary proceeding in a court of by which a party prosecutes
+another party for the enforcement or protection of a right, the redress or
+prevention of a wrong, or the f punishment of a public offense.
+
+-----------------------------------------------
+
+
+NY1850-000110
+
+7. An action is an ordinary proceeding in a court of justice, by which one party
+prosecutes another, for the enforcement or protection of a right, the redress or
+prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+NY1850-000200
+
+16. A civil action is prosecuted by one party against another, for the
+enforcement or protection of a right, or the redress or prevention of a wrong.
+
+-----------------------------------------------
+
+
+NY1851-000040
+
+2. An action is an ordinary proceeding in a court of justice, by which a party
+prosecutes another party for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public otfenee.
+
+-----------------------------------------------
+
+
+KY1851-000040
+
+3. A civil action is an ordinary proceeding in a court of justice, by one
+party against another, for the enforcement or protection of a private right,
+or the-redress or prevention of a private wrong. It may also be brought for the
+recovery of a penalty or forfeiture.
+
+-----------------------------------------------
+
+
+NY1853-000080
+
+7. An action is an ordinary proceeding in a court of justice, by which one party
+prosecutes another, for the enforcement or protection of a right, the redress or
+prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+NY1853-000170
+
+16. A civil action is prosecuted by one party against another for the
+enforcement or protection of a right, or the redress or prevention of a wrong.
+
+-----------------------------------------------
+
+
+KY1854-000040
+
+3. A civil action is an ordinary proceeding in a court of justice, by one
+party against another, for the enforcement or protection of a private right,
+or the redress or prevention of a private wrong. It may also be brought for the
+recovery of a penalty or forfeiture. IN
+
+-----------------------------------------------
+
+
+TX1855-000030
+
+3. A suit is an ordinary proceeding in a Court of justice, by one party against
+another, for the enforcement or protection of a private right, or the redress
+or prevention of a private wrong. It may also be brought for the recovery of a
+penalty, forfeiture, or escheat.
+
+-----------------------------------------------
+
+
+WI1856-000030
+
+2. An action is an ordinary proceeding in a court of Definition justice, by
+which a party prosecutes another party for the an enforcement or protection of-
+a right, the redress or prevention of a wrong, or the prevention of a public
+offense. Definition
+
+-----------------------------------------------
+
+
+WI1858-000030
+
+2. An action is an ordinary proceeding in a court of justice, by which a party
+prosecutes another party for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the prevention of a public offense.
+
+-----------------------------------------------
+
+
+KS1859-000040
+
+4. An action is an ordinary proceeding in a court of justice, by which a party
+prosecutes another party, for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+IA1859-000030
+
+2. A civil action is an ordinary proceeding in a court of justice, by one party
+against another, for the enforcement or pro­ tection of a private right, or the
+redress or prevention of a private wrong. It may also be brought, in certain
+cases, for the recevery of a penalty or a forfeiture.
+
+-----------------------------------------------
+
+
+KY1867-000030
+
+3. Civil action defined. A civil action is an ordinary pro ceeding in a court
+of justice, by one party against another, for the enforcement or protection of a
+private right, or the redress or pre vention of a private wrong. It may also be
+brought for the recovery of a penalty or forfeiture. (Notes.)
+
+-----------------------------------------------
+
+
+DT1868-000030
+
+2. An action is an ordinary procceding in a court of justice, by which a party
+prosecutes another party for the enforcement or protection of 9. right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+KS1868-000040
+
+4. An action is an ordinary proceeding in a court of justice by which a party
+prosecutes another party for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+NC1868-000030
+
+2. An action is an ordinary proceeding in a court of justice, by which a party
+prosecutes another party, for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public oil'ence.
+
+-----------------------------------------------
+
+
+AR1868-000040
+
+3. A civil action is an ordinary proceeding in a court of justice, by one
+party against another, for the enforcement or protection of a private right,
+or the redress or prevention of a private wrong. It may also be brought for the
+recovery’ of a penalty or forfeiture.
+
+-----------------------------------------------
+
+
+FL1870-000050
+
+2. An action is an ordinary proceeding in a court of justice, by Which a party
+prosecutes another party for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+WY1870-000070
+
+5. Anaction is an ordinary proceeding in a court of justice, by which a party
+prosecutes another party, for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+CA1872-000220
+
+22. An action is an ordinary proceeding in a Court of justice by which one party
+prosecutes another for the enforcement or protection of a right, the redress or
+prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+CA1872-000300
+
+30. A civil action is prosecuted by one party against another for the
+enforcement or protection of a right, or the redress or prevention of a Wrong.
+
+-----------------------------------------------
+
+
+NY1873-000020
+
+2. [2.] (Am'd 1849.) Definition of an action. An action is an ordinary
+proceeding in a court of justice, by which a pally prosecutes another party for
+the enforcement or protection of a right, the redress or prevention of a wrong,
+or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+AR1874-000060
+
+4448. A civil action is an ordinary proceeding in a court of justice, by one
+party against another, for the enforcement or protection of a private right,
+or the redress or prevention of a private wrong. It may also be brought for the
+recovery of a penalty or forfeiture.
+
+-----------------------------------------------
+
+
+ND1877-000130
+
+12. An action is an ordinary proceeding in a court of justice, by which a party
+prosecutes another party for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the pun ishment of a public offense.
+
+-----------------------------------------------
+
+
+CA1880-000210
+
+22. An action is an ordinary proceeding in a court of justice, by which one
+party prosecutes another, for the enforcement or protection of a right, the
+redress or preven tion of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+SC1880-000030
+
+2. An action is an ordinary proceeding in a Court of Jus- Action, tice, by
+which a party prosecutes another party for the enforcement 4-36. 8-62, na. or
+protection of a right, the redress or prevention of a wrong, or the punishment
+of a public offense.
+
+-----------------------------------------------
+
+
+CA1880-000290
+
+30. A civil action is prosecuted by one party against another for the
+enforcement or protection of a right, or the redress or prevention of a wrong.
+See sec. 307, et seq.
+
+-----------------------------------------------
+
+
+AR1884-000030
+
+4912. A civil action is an ordinary proceeding in a court of justice by one
+party against another for the enforcement or protection of a private right, or
+the redress or prevention of a private wrong. It may also be brought for the
+recovery of a penalty or forfeiture.
+
+-----------------------------------------------
+
+
+DT1887-000170
+
+4811. All action is an ordinary proceeding in a court of justice, by which a
+party prosecutes another party for the en- forcement or protection of a right,
+tho redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+OK1893-000080
+
+11. An action is an ordinary proceeding in a court of justice by which a party
+prosecutes another party for the enforce-M ment or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+SC1893-000040
+
+2. An action is an ordinary proceeding in a Court of jus- Definition o f
+tice, by which a party prosecutes another party for the enforce- ib ^ ment or
+protection of a right, the redress or prevention of a wrong, or the punishment
+of a public offense. There is no cause of action under the Code, which did
+not maintain an action at law or a bill in equity, before its adoption. —
+Southern Porcelain Co. v. Thew, 5 S. C, 5. Under the Code equitable relief may
+be enforced in an action which seeks relief formerly obtainable only in a Court
+of law. —Parker v. Jacobs, 14 S. C, 112. Attachment being a form of process
+incident to an action, is embraced in the term "action'"; is not a special
+proceeding. —Camp bell v. Home In. Co., 1 S. C, 158 ; Allen v. Partlow, 3 S. C,
+417. Appeal from Probate Court to Circuit Court upon the merits is an action,
+not a special pro ceeding.—Henderson v. Hyatt, 8 S. C, 112.
+
+-----------------------------------------------
+
+
+AR1894-000020
+
+5602. A civil action is an ordinary proceeding in a court of justice by one
+party against another for the enforcement or protection of a private right, or
+the redress or prevention of a private wrong. It may also be brought for the
+recovery of a penalty or forfeiture.
+
+-----------------------------------------------
+
+
+MT1895-019810
+
+3471. An action is an ordinary proceeding in a court of justice by which one
+party prosecutes another for the enforcement or protection of a right, the
+redress or prevention of a wrong, or the punishment of a public offense.
+
+-----------------------------------------------
+
+
+MT1895-019890
+
+3479. A civil action is prosecuted by one party against another for the
+enforcement or protection of a right, or the redress or prevention of a wrong.
+
+-----------------------------------------------
+
+

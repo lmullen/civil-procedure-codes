@@ -1,0 +1,307 @@
+Exemplar: CA1851-005150
+Earliest: CA1851-005150
+Documents in cluster: 37
+Cluster ID: 2111
+
+-----------------------------------------------
+
+CA1851-005150
+
+461. The writ shall be served in the same manner as a summons in civil action,
+except when otherwise expressly directed by the Court.
+
+-----------------------------------------------
+
+
+CA1851-005330
+
+478. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by order of the Court.
+
+-----------------------------------------------
+
+
+KY1851-006430
+
+593. A notice to a corporation may be served in the same manner as a summons in
+an action against it.
+
+-----------------------------------------------
+
+
+KY1854-007090
+
+696. A notice to a corporation may be served in the same manner as a summons in
+an action against it.
+
+-----------------------------------------------
+
+
+DC1857-006450
+
+8. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by order of the court.
+
+-----------------------------------------------
+
+
+DC1857-006560
+
+6. The writ shall be served in tho same manner as a summons in a civil action,
+except where otherwise expressly directed by the court or judge.
+
+-----------------------------------------------
+
+
+CA1858-005070
+
+461. The writ shall be served in the same manner as a summons in civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+CA1858-005250
+
+478. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by order of the court.
+
+-----------------------------------------------
+
+
+NV1861-004730
+
+425. The writ shall be served in the same manner 381 a summons in a civil
+action, except when otherwise expressly' directed by order of the court.
+
+-----------------------------------------------
+
+
+NV1861-004550
+
+408. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+ID1864-004860
+
+436. The writ shall be served in the same manner as v a summons in a civil
+action, except when otherwise expressly directed by order of the court.
+
+-----------------------------------------------
+
+
+ID1864-004680
+
+419. The writ shall be served in the same manner as a summons in a civil action;
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+AZ1865-004640
+
+463. The writ shall be served in the same manner as a summons in civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+AZ1865-004810
+
+480. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise exPressly directed by order of the court.
+
+-----------------------------------------------
+
+
+MT1865-004340
+
+894. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by order of the court.
+
+-----------------------------------------------
+
+
+MT1865-004160
+
+377. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+KY1867-007500
+
+696. How served on a corporation. A notice to a corpora tion may be served in
+the same manner as a summons in an action against it.
+
+-----------------------------------------------
+
+
+CA1868-004620
+
+461. The writ shall be served in the same mammer a11 a summons in civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+CA1868-004790
+
+478. The writ shall be served in the same manner W! a summons in a civil action,
+except when otherwise expressly directed by order of the court.
+
+-----------------------------------------------
+
+
+AR1868-008170
+
+710. A notice to a corporation may be served in the same manner as a summons in
+an action against it.
+
+-----------------------------------------------
+
+
+NV1869-004860
+
+441. The writ shall be served in the same manner as a summons in civil action,
+except when otherwise expressly directed by the Court.
+
+-----------------------------------------------
+
+
+NV1869-005040
+
+458. The writ shall be served in'the same manner as a sum- ' none in a civil
+action, except when otherwise expressly directed by ‘ order of ‘ the Court.
+
+-----------------------------------------------
+
+
+UT1870-004980
+
+456. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by order of the Court.
+
+-----------------------------------------------
+
+
+UT1870-004800
+
+439. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by the Court.
+
+-----------------------------------------------
+
+
+CA1872-008530
+
+1073. The writ must be served in the same manner as a summons in civil action,
+except when otherwise expressly directed by the Court.
+
+-----------------------------------------------
+
+
+AR1874-003010
+
+4746. A notice to a corporation may he served in the same manner as a summons in
+an action against it.
+
+-----------------------------------------------
+
+
+CO1877-003410
+
+296. The writ shall be served in the same manner as a summons in civil actions,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+ND1877-007230
+
+690. The writ must be served in the same manner as a sum mons in civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+CO1877-003590
+
+312. The writ shall be served in the same manner as a summons in a civil action,
+except when otherwise expressly directed by order of the court or judge.
+
+-----------------------------------------------
+
+
+CA1880-011410
+
+1073. The writ must be served in the same manner as a summons in civil action,
+except when otherwise ex pressly directed by the court. Service of writ—on
+public tribunal, etc., and proof of same, Su preme Ct. rule 28. Service of
+summons—sec. 410 etseq.
+
+-----------------------------------------------
+
+
+ID1881-007870
+
+732. The writ must be served in the same manner as a summons in civil action,
+except when other— wise expressly directed by the Court.
+
+-----------------------------------------------
+
+
+CO1884-002370
+
+328. (296-) The writ shall be served in the same manner as a euth mons in civil
+actions, except when otherwise expressly directed by the court. [Extent of
+revtem]
+
+-----------------------------------------------
+
+
+AR1884-003030
+
+5209. A notice to a corporation may be served in the same manner as a summons in
+an action against it.
+
+-----------------------------------------------
+
+
+DT1887-008640
+
+5512. The writ must be served in the same manner as a summons in civil action,
+except when otherwise expressly directed by the court.
+
+-----------------------------------------------
+
+
+AR1894-002960
+
+5894. A notice to a corporation may be served in the same manner as a summons in
+an action against it.
+
+-----------------------------------------------
+
+
+MT1895-010860
+
+1946. The writ must be served in the manner as a summons in civil action, except
+when otherwise expressly directed by the court or judge.
+
+-----------------------------------------------
+
+
+UT1898-014480
+
+3635. Writ served as a summons. The writ must be served in the same manner as a
+summons in a civil action, except when otherwise expressly directed by the court
+or judge. [C. L. § 3724. Cal. C. Civ. P. ? 1073.
+
+-----------------------------------------------
+
+

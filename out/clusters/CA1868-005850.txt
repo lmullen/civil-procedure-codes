@@ -1,0 +1,75 @@
+Exemplar: CA1872-007090
+Earliest: CA1868-005850
+Documents in cluster: 8
+Cluster ID: 2444
+
+-----------------------------------------------
+
+CA1868-005850
+
+586. If either party shall fail to appear at the time fixed for trial, or at the
+time to which the trial has been adjourned, the trial may proceed at the request
+of the adverse party, and judgment shall be rendered in conformity with the
+pleadings and proofs.
+
+-----------------------------------------------
+
+
+CA1872-007090
+
+884. If either party fails to appear at the time fixed for trial, the trial may
+proceed at the request of the adverse party.
+
+-----------------------------------------------
+
+
+CA1880-009680
+
+884. If either party fails to appear at the time fixed for trial, the trial may
+proceed at the request of the ad verse Compare—sec. party. 594.
+
+-----------------------------------------------
+
+
+ID1881-006440
+
+596. If either part fails to appear at the time fixed for trial, the trial may
+proceed at the request of the adverse party.
+
+-----------------------------------------------
+
+
+DT1887-015030
+
+6095. If either party fails to appear at the time fixed for trial, the trial may
+proceed, at the request of the adver .. se party.
+
+-----------------------------------------------
+
+
+OK1891-009470
+
+7. If either party fails to appear at the time FIXCCI for trial, the trial may
+proceed, at the request of the adverse party.
+
+-----------------------------------------------
+
+
+MT1895-008950
+
+1606. If either party fails to appear at the time fixed for trial, the trial may
+proceed at the request of the adverse party.
+
+-----------------------------------------------
+
+
+UT1898-015950
+
+3719. Trial to proceed on failure of party to appear. If either party fails to
+appear at the time fixed for trial, the trial may proceed at the request of the
+adverse party. [C. L. $ 3590. Cal. C. Civ. P. i 884. Order of trial, district
+court, \ 3147.
+
+-----------------------------------------------
+
+

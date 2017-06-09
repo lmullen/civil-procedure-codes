@@ -1,0 +1,71 @@
+Exemplar: KS1859-001430
+Earliest: OH1853-001350
+Documents in cluster: 9
+Cluster ID: 7177
+
+-----------------------------------------------
+
+OH1853-001350
+
+116. The title of a cause shall not be changed in any of its stages.
+
+-----------------------------------------------
+
+
+IA1859-002830
+
+855. The title ot a cause shall not be changed in any of iti stages of transit
+from one Court to another.
+
+-----------------------------------------------
+
+
+KS1859-001430
+
+126. The title of a cause shall not be changed in any of its stages.
+
+-----------------------------------------------
+
+
+NE1859-001380
+
+115. The title of a cause shall not be changed in any of Its stages.
+
+-----------------------------------------------
+
+
+DT1862-001340
+
+113. The title of a cause shall not be changed in any of its stages.
+
+-----------------------------------------------
+
+
+NE1866-001380
+
+123. The title of a cause shall not be changed in any of its stages. <
+
+-----------------------------------------------
+
+
+KS1868-001170
+
+117. The title of a cause shall not be changed in any of its stages.
+
+-----------------------------------------------
+
+
+WY1870-001330
+
+126. The title of a cause shall not be changed in any of its stages.
+
+-----------------------------------------------
+
+
+OK1893-001420
+
+11. The title of a cause shall not be changed in any of its stages.
+
+-----------------------------------------------
+
+

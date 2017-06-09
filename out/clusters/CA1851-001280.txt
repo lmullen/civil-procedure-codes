@@ -1,0 +1,135 @@
+Exemplar: CA1868-001230
+Earliest: CA1851-001280
+Documents in cluster: 13
+Cluster ID: 2283
+
+-----------------------------------------------
+
+CA1851-001280
+
+119. If upon such application it satisfactorily appear that there is i
+not sufficient ground for the injunction, it shall be dissolved; or if it
+satisfactorily appear that the extent of the injunction is too great, it shall
+be modified.
+
+-----------------------------------------------
+
+
+DC1857-002140
+
+9. If upon such application it satisfactorily appear that. there is not
+sufficient ground for the injunction, it shall be diasolved, or if it
+satisfactorily appear that the extent of the injunction is too great, it shall
+be moained,
+
+-----------------------------------------------
+
+
+CA1858-001270
+
+119. If upon such application it satisfactorily appear that there is not
+suiiicient ground for the injunction, it shall be dissolved ; or if it
+satisfactorily appear that the extent of the injunction is too great, it shall
+be modified.
+
+-----------------------------------------------
+
+
+NV1861-001250
+
+119. If, upon such application, it satisfactorily appear that there is
+not sufficient ground for the injunction, it shall be dissolved; or if it
+satisfactoril y appear that the extent of the injunction is too great, it shall
+be modified.
+
+-----------------------------------------------
+
+
+ID1864-001270
+
+119. If, upon such application, it satisfactorily appear that there is
+not sufficient ground for the injunction, it shall be dissolved; or if it
+appear_that the extent of the injunction is too great, it shall be modiiied.
+
+-----------------------------------------------
+
+
+AZ1865-001200
+
+119. If upon such application it satisfactorily appear that there is not
+suiiicient ground for the injunction, it shall be dissolved; or, if it satiso
+factorily appear that the extent of the injunction is too great, it shall be
+modified.
+
+-----------------------------------------------
+
+
+MT1865-000970
+
+90. If upon such application it satisfactorily appears that there is not
+suiiicient ground for the injunction, it shall be’ dissolved, or if it appear
+that the extent of the injunction is too great, it shall be modified.
+
+-----------------------------------------------
+
+
+CA1868-001230
+
+119. If upon such application it satisfactorily appear that there is not
+sufficient ground for the injunction, it shall be dissolved ; or if it
+eatiefactorily appear that the extent of the injunction is too great, it shall
+be modified.
+
+-----------------------------------------------
+
+
+CA1872-004160
+
+533. If upon such application it satisfactorily appear that there is
+not suiiicient ground for the injunction, it must be dissolved; or if it
+satisfactorily appear that the extent of the injunction is too great, it must be
+modified.
+
+-----------------------------------------------
+
+
+AZ1877-000940
+
+119. If, upon such application, it satisfactorily appear that there is
+not sufficient ground for the injunction, it shall bo dissolved; or, if it
+satisfactorily appear that the extent of the injunction is too great, it shall
+be modified. Attachment.
+
+-----------------------------------------------
+
+
+CA1880-005160
+
+533. If upon such application it satisfactorily appear that there is not
+sufficient ground for the injunction, it must be dissolved ; or if it
+satisfactorily appear that the extent of the injunction is too great, it must be
+modified. See sec. 532n.
+
+-----------------------------------------------
+
+
+ID1881-003410
+
+317. If upon such application it satisfactorily appear that there is
+not sumcient ground for the injunction, it must be dissolved; or if it
+satisfactorily appear that the extent of the injunction is too great, it must be
+modihed.
+
+-----------------------------------------------
+
+
+MT1895-004650
+
+879. If, upon such application, it satisfactorily appear that there is not
+sufficient ground for the injunction order, it shall be dissolved; or, if it
+satis­ factorily appear that the extent of the injunction order is too great, it
+shall be modified.
+
+-----------------------------------------------
+
+

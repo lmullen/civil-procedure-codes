@@ -1,0 +1,73 @@
+Exemplar: CA1872-013220
+Earliest: CA1872-013220
+Documents in cluster: 5
+Cluster ID: 2713
+
+-----------------------------------------------
+
+CA1872-013220
+
+1693. When personal property remains in the hands of the agent unclaimed
+for a year, and it appears to the Court that it is for the benefit of those
+interested, it shall be sold under the order of the Court, and the proceeds,
+after deducting the expenses of the ‘sale allowed by the Court, must be paid
+into the State Treasury. ‘ When the payment is made, the agent must take from
+the Treasury duplicate receipts, one of which he must file in the office of the
+Controller, and the other in the Probate Court.
+
+-----------------------------------------------
+
+
+CA1880-017380
+
+1693. When personal property remains in the hands of the agent unclaimed
+for a year, and it appears to the court that it is for the benefit of those
+interested, it shall be sold under the order of the court, and the proceeds,
+after deducting the expenses of the sale allowed by the court, must be paid
+into the State treasury. When the payment is made, the agent must take from
+the treasury duplicate receipts, one of which he must file in the office of the
+controller, and the other in the court. [In effect July 16th, 1880.] Paid into
+the State treasury—But not distributed among the other heirs, 6 Cal. 418.
+
+-----------------------------------------------
+
+
+AZ1887-006650
+
+308. When personal property remains in the hands of the agent unclaimed
+for a year, and it appears to the court that it is for the benefit of those
+interested, it should be sold under the order of the court, and the proceeds,
+after deducting the expenses of the sale allowed by the court, must be paid into
+the territorial treasury. When the payment is made, the agent must take from
+the treasury duplicate receipts, one of which he must file in the office of the
+auditor, and the other in the probate court.
+
+-----------------------------------------------
+
+
+DT1887-013200
+
+5943. When personal property remains in the hands of the agent unclaimed
+for a year, and it appears to the court that it is for the benefit of those
+interested, it shall be sold under the order of the court, and the proceeds,
+after deducting .. the expenses of the sale allowed by the court, must be paid
+into the territorial treasury. Whe11 the payment is made, the agent must take
+from the treasury duplicate receipts, 011e of which he must file in the office
+of the territorial auditor, and the other in the probate court.
+
+-----------------------------------------------
+
+
+MT1895-016120
+
+2882. When the personal property remains in the hands of the agent unclaimed
+for a year,and it appears to the court or judge that it is for the bene­ fit of
+those interested, it shall be sold under the order of the court or judge, and
+the proceeds, after deducting the expenses of the sale allowed by the court or
+judge, must be paid into the State treasury. When the payment is made, the agent
+must take from the treasury duplicate receipts, one of which he must file in the
+office of the State Auditor, and the other in the court.
+
+-----------------------------------------------
+
+

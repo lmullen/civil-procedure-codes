@@ -1,0 +1,47 @@
+Exemplar: NY1864-000320
+Earliest: NY1848-000550
+Documents in cluster: 5
+Cluster ID: 12551
+
+-----------------------------------------------
+
+NY1848-000550
+
+42. A general term shall be 4eld by at least two of the judges of those courts
+respectively, and a special term by a single judge.
+
+-----------------------------------------------
+
+
+NY1849-000450
+
+36. A general term shall be held by at least two of the judges of those courts
+respectively, and a special term by a single u . .
+
+-----------------------------------------------
+
+
+NY1851-000450
+
+36. A general term\shall be held by at least mat the judges of those courts
+respectively, and a special at by a single judge.
+
+-----------------------------------------------
+
+
+NY1864-000320
+
+36. [42.] By whom held. A general term shall be held by at least two of the
+judges of those courts respectively, and a special term by a single judge.
+
+-----------------------------------------------
+
+
+NY1873-000380
+
+36. [42.] By whom held. A general term shall be held by at least two of the
+judges of those courts respectively, and a special term by a single judge.
+
+-----------------------------------------------
+
+

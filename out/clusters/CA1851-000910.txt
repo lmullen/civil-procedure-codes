@@ -1,0 +1,127 @@
+Exemplar: CA1858-000910
+Earliest: CA1851-000910
+Documents in cluster: 13
+Cluster ID: 2151
+
+-----------------------------------------------
+
+CA1851-000910
+
+84. If the bail neglect or refuse to pay the judgment within ten days aher they
+are finally charged, judgment against such bail for the amount of such original
+judgment, may be, by order of the Court, upon atiidavit of such neglect or
+refusal, entered against the bail.
+
+-----------------------------------------------
+
+
+CA1858-000910
+
+84. If the bail neglect or refuse to pay the judgment within ten days after they
+are finally charged, an action may be commenced against such bail for the amount
+of such original judgment.
+
+-----------------------------------------------
+
+
+NV1861-000890
+
+84. If the bail neglect or refuse to pay the judgment. within ten days after
+they are finally charged, an action may be commenced against such bail for the
+amount of such original judgment.
+
+-----------------------------------------------
+
+
+ID1864-000900
+
+84. If the bail neglect or refuse to pay the judgment within ten days after they
+are finally charged, an action may be commenced against such bail for the amount
+of suc original judgrment.
+
+-----------------------------------------------
+
+
+AZ1865-000850
+
+84. If the bail neglect or refuse to pay the judgment within ten days after
+they are finally charged, judgment againstpsuch bail for the , amount of “such
+original; judgment may be, by order of the court, upon affidavit of "such
+neglect or refusal, entered against the bail.
+
+-----------------------------------------------
+
+
+CA1868-000880
+
+84. If the bail neglect or refuse to pay the judgment within ten days after they
+are finally charged, an action may be commenced against such bail for the amount
+of such original judgment.
+
+-----------------------------------------------
+
+
+NV1869-000910
+
+84. If the bail neglect or refuse to pay. the judgment within ten days after
+they are finally charged, an action may be commenced against such bail for the
+amount of such original judgment.
+
+-----------------------------------------------
+
+
+UT1870-000880
+
+84. If the bail neglect; or refuseto gay the judgment within ten days after
+they are finally charge ,,an action may be commenCed. against such bail for, the
+amount of such original judgment.
+
+-----------------------------------------------
+
+
+CA1872-003800
+
+490. If the bail neglect or refuse to pay the judgment within ten days after
+they are finally charged, an action may be commenced against such bail for the
+amount of the original judgment.
+
+-----------------------------------------------
+
+
+CA1880-004750
+
+490. If the bail neglect or refuse to pay the judg ment within ten days after
+they are finally charged, an action may be commenced against such bail for the
+amount of the original judgment.
+
+-----------------------------------------------
+
+
+ID1881-003040
+
+282. If the bail neglect or refuse to pay the 2 judgment within ten days after
+they are finally charged, an action may be connnenced against such bail for the
+amount of the original judgment.
+
+-----------------------------------------------
+
+
+MT1895-004170
+
+812. If the bail neglect or refuse to pay the judgment within ten days after
+they are finally charged, an action may be commenced against such bail for the
+amount of such original judgment.
+
+-----------------------------------------------
+
+
+UT1898-003320
+
+3021. Action against bail. If the bail neglect or refuse to pay the judgment
+within ten days after they are finally charged, an action may be com menced
+against such bail for the amount of the original judgment. [C. L. § 3272. Cal.
+C. Civ. P. I 490.
+
+-----------------------------------------------
+
+

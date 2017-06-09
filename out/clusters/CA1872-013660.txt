@@ -1,0 +1,73 @@
+Exemplar: CA1872-013660
+Earliest: CA1872-013660
+Documents in cluster: 6
+Cluster ID: 2733
+
+-----------------------------------------------
+
+CA1872-013660
+
+1749. If the guardian nominated by the minor is not approved by the Judge, or if
+the minor resides out of the State, or if, after being duly cited by the Judge,
+he neglects for .ten days to nominate a suitable person, the Judge may nominate
+and appoint the guardian, in the same manner as if the minor were under the age
+of fourteen years.
+
+-----------------------------------------------
+
+
+WA1873-009700
+
+357. If the guardian nominated by the minor be not approved by the judge, or
+if the minor shall reside out of the Territory, or if, after being duly cited
+by the court, he shall neglect for ten days to nominate a suitable person, the­
+court may appoint the zuurdlan in the same manner as if the minor were under
+ti ... , · age of fourteen years.
+
+-----------------------------------------------
+
+
+CA1880-017850
+
+1749. If the guardian nominated by the minor is not approved by the court, or if
+the minor resides out of the State, or if, after being duly cited by the court,
+he neglects for ten days to nominate a suitable person, the court or judge may
+nominate and appoint the guardian in the same manner as if the minor were under
+the age of fourteen years. [In effect April 15th, 1880.]
+
+-----------------------------------------------
+
+
+AZ1887-007050
+
+345. ‘If the guardian nominated by the minor is not approved by the judge, or
+if the minor resides out of the territory, or if, after being duly cited by the
+judge, he neglects for ten days to nominate a suitable person, the judge may
+nominate and appoint the guardian, in the same manner as if the minor were under
+the age of fourteen years.
+
+-----------------------------------------------
+
+
+DT1887-013700
+
+5985. If the guardian nominated by the minor be not ap- proved by the judge, or
+if the minor resides out of the territory, or if, after being duly cited by the
+judge, he neglects for ten: days to nominate a suitable person, the judge may
+nominate and, appoint the guardian, i11 the same manner as if the minor was.
+under the age of fourteen years. · ·
+
+-----------------------------------------------
+
+
+MT1895-016510
+
+2952. If the guardian nominated by the minor is not approved by the court or
+judge, or if the minor resides out of the State, or if, after being duly cited
+by the court or judge, he neglects for ten days to nominate a suitable person,
+the court or judge may nominate and appoint the guardian in the same manner as
+if the minor were under the age of fourteen years.
+
+-----------------------------------------------
+
+

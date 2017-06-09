@@ -1,0 +1,106 @@
+Exemplar: AZ1877-004080
+Earliest: CA1851-005750
+Documents in cluster: 10
+Cluster ID: 1627
+
+-----------------------------------------------
+
+CA1851-005750
+
+517. When a written notice of a motion is necessary, it shall be given, if the
+Court be held in the same district with both parties, tive days before the time
+appointed for the hearing; otherwise, ten days; but the Court or Judge may, by
+an order to show cause, prescribe a shorter time.
+
+-----------------------------------------------
+
+
+CA1858-005640
+
+517. When a written notice of a motion is necessary, it shall be given, if the
+court be held in the same district with both parties, five days before the time
+appointed for the hearing, otherwise ten days ; but the court, or judge, or
+county judge, may prescribe a shorter time.
+
+-----------------------------------------------
+
+
+NV1861-005110
+
+460. When a written notice of a motion is necessary, it shall be given, if
+the court be held in the same district with both parties, five days before the
+time appointed for the hearing; otherwise ten days; but the court, or judge, or
+probate judge, may prescribe a shorter time.
+
+-----------------------------------------------
+
+
+ID1864-005250
+
+472. When a written notice of a motion is necessary, it shall be given, if
+the court be held in the same district with both parties, five days before the
+time appointed for the hearin ; otherwise ten days; but the court or judge, or
+probate ~ju ge, may prescribe a shorter time.
+
+-----------------------------------------------
+
+
+AZ1865-005200
+
+519. When a written notice of a motion is necessary, it shall— be given, if
+the court be held in the same district with both parties, hve days before the
+time appointed for the hearing; otherwise ten days, but the court or judge may
+prescribe a shorter time.
+
+-----------------------------------------------
+
+
+CA1868-005150
+
+517, When a written notice of a motion is necessary, it shull be given, if the
+court be held in the same district with both parties five days before the time
+appointed for the hearing; otherwise tendays, but the court, or judge, or county
+judge may prescribe a shorter time.
+
+-----------------------------------------------
+
+
+NV1869-005420
+
+493. When a written notice of a motion is necessary, it shall be given, if the
+Court be held in the same district where both parties reside, five days before
+the time appointed for‘the hearing; otherwise ten days, but the Court or Judge
+may prescribe a shorter time.
+
+-----------------------------------------------
+
+
+UT1870-005360
+
+491. hen a written notice of a motion is necessary, it shall be given ten
+days before the time a pointed for 3:11: hearing, but the Court, or Judge, may
+prescri a shorter 6.
+
+-----------------------------------------------
+
+
+AZ1877-004080
+
+519. When a written notice of a motion is necessary, it shall be given, if the
+court be held in the same district with both parties, five days before 'the
+time appointed for the hearing; otherwise ten days, but the court or judge may
+prescribe a shorter time.
+
+-----------------------------------------------
+
+
+CO1877-004540
+
+390. When a written notice of a motion is necessary, ti shall be given, if
+the court be held in teh same district with both parties, five days before the
+time appointed for the hearing; otherwise, ten days. But the court or judge may
+prescribe a shorter time.
+
+-----------------------------------------------
+
+

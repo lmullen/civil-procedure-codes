@@ -1,0 +1,52 @@
+Exemplar: CA1872-015410
+Earliest: NY1850-019270
+Documents in cluster: 5
+Cluster ID: 2818
+
+-----------------------------------------------
+
+NY1850-019270
+
+1767. When an entry is repeated, in the regular course of business, one being
+copied from another, at or near the time of the transaction, all the entries are
+equally regarded as originals.
+
+-----------------------------------------------
+
+
+OR1862-008810
+
+758. Then an entry is repeated, in the regular course of business, one being
+copied from another, at or near the time of the transaction, all the entries are
+equally regarded as originals.
+
+-----------------------------------------------
+
+
+CA1872-015410
+
+1947. When an entry is repeated in the regular course of business, one being
+copied from another at or near the time of the transaction, all the entries are
+equally regarded as originals.
+
+-----------------------------------------------
+
+
+CA1880-020190
+
+1947. When an entry is repeated in the regular course of business, one being
+copied from another at or near the time of the transaction, all the entries are
+equally regarded as originals. Entry copied—from slate, 14 CaL 573.
+
+-----------------------------------------------
+
+
+MT1895-018370
+
+3238. When an entry is repeated in the regular course of business, one being
+copied from another or at or near the time of the transaction, all the entries
+are equally regarded as originals.
+
+-----------------------------------------------
+
+

@@ -1,0 +1,73 @@
+Exemplar: AZ1887-007550
+Earliest: CA1872-013980
+Documents in cluster: 6
+Cluster ID: 1859
+
+-----------------------------------------------
+
+CA1872-013980
+
+1786. If any person appears and objects to the granting of any order prayed for
+under the provisions of this Article, and it appears to the Court that either
+the petition or the objection thereto is sustained, the Court may, in granting
+or refusing the order, award costs to the party prevailing, and enforce the
+payment thereof.
+
+-----------------------------------------------
+
+
+OH1879-014450
+
+6163. If any party shall, in his answer, object to the granting an order for
+the sale of the real estate, by an executor or administrator, and it shall on
+hearing appear to the court that either the petition or the objection thereto is
+unreasonable, it may, in its discretion, award costs to the party prevailing on
+that issue.
+
+-----------------------------------------------
+
+
+CA1880-018240
+
+1786. If any person appears1 and objects to the granting of any order prayed for
+under the provisions of T his article, and it appear to the court that either
+the peti tion or the objection thereto is sustained, the court may, in granting
+or refusing the order, award costs to the party prevailing, and enforce the
+payment thereof.
+
+-----------------------------------------------
+
+
+AZ1887-007550
+
+395. If any person appears and objects to the granting of any order prayed for
+under the provisions of this article, and it appears to the court that either
+the petition or the objection thereto is sustained, the court may, in granting
+or refusing the order, award costs to the party prevailing and enforce the
+payment thereof.
+
+-----------------------------------------------
+
+
+DT1887-014080
+
+6018. If any person appears and objects to the granting -of any order prayed for
+under the provisions of this article, and it appears to the court that either
+the petition or the objection ·thereto is sustained, the court may, in granting
+or refusing the -order, award costs to the party prevailing, ancl enforce the
+payment thereof. ·
+
+-----------------------------------------------
+
+
+MT1895-016840
+
+3009. If any person appears and objects to the granting of any order prayed for
+under the provisions of this Article, and it appear to the court or judge that
+either the petition or the objection thereto is sustained, the court or judge
+may, in granting or refusing the order, award the costs to the party prevailing,
+and enforce the payment thereof.
+
+-----------------------------------------------
+
+

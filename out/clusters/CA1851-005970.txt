@@ -1,0 +1,110 @@
+Exemplar: CA1858-005860
+Earliest: CA1851-005970
+Documents in cluster: 10
+Cluster ID: 2240
+
+-----------------------------------------------
+
+CA1851-005970
+
+537. Justices’ Courts shall have jurisdiction of an action upon the voluntary
+appearance of the parties without summona‘without regard to their residences, or
+the place where the cause of action arose, or the subject matter of the action
+may exist.
+
+-----------------------------------------------
+
+
+CA1858-005860
+
+537. Justices’ courts shall have jurisdiction of an action upon the voluntary
+appearance of the parties without summons, without regard to their residences,
+or the place where the cause of action arose, or the subject matter of the
+action may exist.
+
+-----------------------------------------------
+
+
+NV1861-005320
+
+479. Justices’ courts shall have jurisdiction of an. action upon the voluntary
+appearance of the parties without summons, without regard to their residences,
+or the place where the cause of action arose, or the subject-matter of the
+action may exist. '
+
+-----------------------------------------------
+
+
+ID1864-005460
+
+491. Justices’ courts shall have jurisdiction of an action upon the voluntary
+appearance of the parties without summons, without regard to their residences,
+or the place where the cause of action arose or the subject matter of the action
+may exist.
+
+-----------------------------------------------
+
+
+AZ1865-005400
+
+539. Justices’ courts shall have jurisdiction of an action upon the voluntary
+appearance of the parties, without summons, without regard to their residences
+or the place where the cause of action arose, or the subject matter of the
+action may exist.
+
+-----------------------------------------------
+
+
+MT1865-005990
+
+553. Justices’ courts shall have jurisdiction of an action‘ upon the voluntary
+appearance of the parties without summons, without regard to their residences
+or the place where the cause of action arose or the subject matter of the action
+may exist:
+
+-----------------------------------------------
+
+
+CA1868-005350
+
+537. Justices' courts shall have jurisdiction of an action and the persons
+of the parties thereto, upon the voluntary appearance of the parties without
+summons, and without re­ gard to their residences or the place where the cause
+of'­ action arose or the subject matter of the action may exist. The plaintifff
+may commence an action by summons, either in the township or city where the
+contract was by its terms to be performed, or in which the defendant resides, as
+be may eleet.
+
+-----------------------------------------------
+
+
+NV1869-005630
+
+513. Justices’ Courts shall have jurisdiction of. an action 3 upon the voluntary
+appearance of the parties without summons, with- 5 out regard to {their
+residences, or the place where the cause of action me, or the subject matter of
+the action may exist.
+
+-----------------------------------------------
+
+
+UT1870-005580
+
+511. Justices’ Courts shall have jurisdiction of an action upon the voluntary
+appearance of the parties without summons, without regard to t eir residences or
+the place where the cause of action arose, or the subject matter of action may
+ex1s -.
+
+-----------------------------------------------
+
+
+AZ1877-004270
+
+539. Justices' courts shall have jurisdiction of an action upon the voluntary
+appearance of the parties, without summons, without regard to their residences
+or the place where the cause of action arose, or the subject-matter of the
+action may exist. Summons, Arrest, Attachment and Claim of Personal Property.
+
+-----------------------------------------------
+
+
