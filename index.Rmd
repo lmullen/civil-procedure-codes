@@ -3,7 +3,7 @@ title: "The Migration of the Field Code"
 author: "Kellen Funk and Lincoln Mullen"
 ---
 
-This is an analysis notebook for detecting text reuse in legal codes of civil procedure---the "Field codes"---in the nineteenth-century United States. It is a collaboration between [Kellen Funk](http://kellenfunk.org/) and [Lincoln Mullen](http://lincolnmullen.com). This [working paper](talks/dh-working-group/Funk-Mullen.Migration-Field-Code.working-paper.pdf) has the most up-to-date summary of what we are doing.
+This is an analysis notebook for detecting text reuse in legal codes of civil procedure---the "Field codes"---in the nineteenth-century United States. It is a collaboration between [Kellen Funk](http://kellenfunk.org/) and [Lincoln Mullen](http://lincolnmullen.com). You can read a [preprint of our article](https://osf.io/preprints/socarxiv/w8un4/) accepted for publication in the *American Historical Review*. This older [working paper](https://osf.io/preprints/socarxiv/nfg92/) describes our method.
 
 See these links for more details:
 
