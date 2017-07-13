@@ -172,8 +172,9 @@ network_g <- ggraph(codes_g, "igraph", algorithm = "nicely") +
         legend.text = element_text(size = 8),
         plot.title = element_text(face = "bold"))
 print(network_g)
-ggsave("../out/figures/02-network-graph.svg", network_g, width = 10, height = 7)
-ggsave("../out/figures/02-network-graph.pdf", network_g, width = 10, height = 7)
+ggsave("../out/figures/figure-05.svg", network_g, width = 10, height = 7)
+ggsave("../out/figures/figure-05.pdf", network_g, width = 10, height = 7)
+ggsave("../out/figures/figure-05.png", network_g, width = 10, height = 7)
 ```
 
 The New York Field Codes, especially the finished draft of 1850, were central to the entire network.[^39] New York gave rise to different regional traditions within the procedural network. Variations in the Field drafts meant that different states could borrow different versions of the Field Code. Field’s 1850 draft---never actually enacted in New York---was the primary progenitor of several families of codes in California, Kentucky, Iowa, and Ohio, each of which in turn became major contributors to the law of neighboring states. The 1851 New York code---a small revision to the original 1848 code---became the progenitor of codes for Wisconsin, Florida, North Carolina, and South Carolina. While Field considered the 1850 version to be the definitive, ideal version of the code, all of the New York codes from 1848 to 1853 became models for other jurisdictions. In many cases, the commissions likely used whatever version of the code they had at hand. The Field Code was not a single volume on the shelf, but a series of drafts, any of which might be more accessible in different regions and in different years.
@@ -190,8 +191,9 @@ California's 1850 code, enacted in the period when California was entering the U
 spec_CA1850 <- spectrogram("CA1850", best_matches, white_list = c("LA1844", "NY1829", "NY1849",
                                                    "NY1848"), base_size = 10)
 print(spec_CA1850)
-ggsave("../out/figures/03-spec_CA1850.svg", spec_CA1850, width = 7, height = 3)
-ggsave("../out/figures/03-spec_CA1850.pdf", spec_CA1850, width = 7, height = 3)
+ggsave("../out/figures/figure-06.svg", spec_CA1850, width = 7, height = 3)
+ggsave("../out/figures/figure-06.pdf", spec_CA1850, width = 7, height = 3)
+ggsave("../out/figures/figure-06.png", spec_CA1850, width = 7, height = 3)
 ```
 
 When Stephen Field revised California’s code in 1851, he largely redrafted it from the updated code his brother David Dudley had completed for New York in 1850. This includes the portion of the code on new trials previously borrowed from Louisiana.[^42] The remainder of the code was borrowed from the 1850 California code. (Many of the non-matching sections are tables of contents.) Thus California based the majority of its law of civil remedies entirely on New York's code not once, but twice. California made few to no innovations to the Field Code beyond a rearrangement of its provisions and their application to the new state’s particular system of courts.
@@ -199,8 +201,9 @@ When Stephen Field revised California’s code in 1851, he largely redrafted it 
 ```{r CA1851-borrowings, fig.height=3.5, fig.align="center"}
 spec_CA1851 <- spectrogram("CA1851", best_matches, white_list = 3, base_size = 10)
 print(spec_CA1851)
-ggsave("../out/figures/04-spec_CA1851.svg", spec_CA1851, width = 7, height = 3.5)
-ggsave("../out/figures/04-spec_CA1851.pdf", spec_CA1851, width = 7, height = 3.5)
+ggsave("../out/figures/figure-07.svg", spec_CA1851, width = 7, height = 3.5)
+ggsave("../out/figures/figure-07.pdf", spec_CA1851, width = 7, height = 3.5)
+ggsave("../out/figures/figure-07.png", spec_CA1851, width = 7, height = 3.5)
 ```
 
 The pattern of borrowings in the Washington 1855 code was a rather different case. The Washington code was definitely in the lineage of the 1851 California code, since it borrowed sections from both California directly as well as from Oregon (which was also derived from California). Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. The contiguous bands of borrowings correspond to regulations on judgement borrowed from Oregon and enforcement provisions borrowed from Indiana. This pattern likely came about because one of the Washington code commissioners, Edward Lander, was an Indiana appellate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. While working on the Washington code, they must have each used the law (and the law books) that they knew best. As a second generation variation on a regional code, the Washington code drew from a variety of sources, even though all these sources basically agreed on the substance of the law.
@@ -210,8 +213,9 @@ spec_WA1855 <- spectrogram("WA1855", best_matches, white_list = c("CA1850", "CA1
                                                    "NY1853", "OR1854", "WI1849"),
             base_size = 10)
 print(spec_WA1855)
-ggsave("../out/figures/05-spec_WA1855.svg", spec_WA1855, width = 7, height = 4.5)
-ggsave("../out/figures/05-spec_WA1855.pdf", spec_WA1855, width = 7, height = 4.5)
+ggsave("../out/figures/figure-08.svg", spec_WA1855, width = 7, height = 4.5)
+ggsave("../out/figures/figure-08.pdf", spec_WA1855, width = 7, height = 4.5)
+ggsave("../out/figures/figure-08.png", spec_WA1855, width = 7, height = 4.5)
 ```
 
 Finally, we can examine one of the outermost leaves on the family tree of the Field Code in Washington’s revised code of 1873. The bulk of this code was taken from the early Washington code with only small amendments. The main exception was lengthy set of sections on probate drawn from California's 1872 code. Like many of the last generation codes, the text of the procedure code had stabilized as a local manifestation of a regional tradition. The code was still genuinely a Field Code, with a great deal of similarity to the original New York Field Codes, but its specific form depended on the many edits and rearrangements that code commissioners from several states had made to the text.
@@ -219,8 +223,9 @@ Finally, we can examine one of the outermost leaves on the family tree of the Fi
 ```{r WA1873-borrowings, fig.height=4.5, fig.align="center"}
 spec_WA1873 <- spectrogram("WA1873", best_matches, base_size = 10)
 print(spec_WA1873)
-ggsave("../out/figures/06-spec_WA1873.svg", spec_WA1873, width = 7, height = 4.5)
-ggsave("../out/figures/06-spec_WA1873.pdf", spec_WA1873, width = 7, height = 4.5)
+ggsave("../out/figures/figure-09.svg", spec_WA1873, width = 7, height = 4.5)
+ggsave("../out/figures/figure-09.pdf", spec_WA1873, width = 7, height = 4.5)
+ggsave("../out/figures/figure-09.png", spec_WA1873, width = 7, height = 4.5)
 ```
 
 So far we have retained the context of the surrounding sections within a particular code. But since our fundamental unit of comparison is section to section, we can use a technique called clustering to group sections based on their similarity to one another, regardless of which code they come from. There are innumerable clustering algorithms, but we used the affinity propagation clustering algorithm because its assumptions aligned with the characteristics of our problem. That algorithm finds an "exemplar" item which is most characteristic of the other items in the cluster. That assumption fits nicely with borrowings from the Field Code, where a single section (likely from a Field Code) had many borrowings, but where there could also be innovative sections from other states that might be more influential.[^43]
