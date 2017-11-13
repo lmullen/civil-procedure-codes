@@ -56,7 +56,6 @@ index.html : index.Rmd $(INCLUDES)
 
 .PHONY : clean
 clean :
-	rm -rf $(NOTEBOOKS)
 	rm -rf temp/*
 
 .PHONY : clean-splits
