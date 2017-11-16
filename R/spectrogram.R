@@ -4,7 +4,7 @@
 spectrogram <- function(code, matches_df, num_cols = 50,
                         white_list = NULL, title = NULL,
                         base_size = 12, base_family = "",
-                        legend_size = 0.5) {
+                        legend_size = 0.5, bw = FALSE) {
   require(dplyr)
   require(stringr)
   require(ggplot2)
@@ -37,7 +37,7 @@ spectrogram <- function(code, matches_df, num_cols = 50,
     title <- str_c("Borrowed sections in ", code)
 
   # Make the plot
-  matches_df %>%
+  the_plot <- matches_df %>%
   ggplot(aes(x = column, y = -row, fill = match_code)) +
   geom_tile(color = "lightgray") +
   theme_minimal(base_size = base_size, base_family = base_family) +
@@ -51,8 +51,30 @@ spectrogram <- function(code, matches_df, num_cols = 50,
         panel.background = element_blank(), panel.grid = element_blank(),
         legend.key.size = unit(legend_size, "cm"),
         plot.margin = unit(c(0, 0, 0, 0), "cm"),
-        plot.title = element_text(hjust = 0.5)) +
-  scale_fill_manual(na.value = "white",
+        plot.title = element_text(hjust = 0.5))
+  if (bw) {
+    # the_plot <- the_plot + scale_fill_brewer(type = "qual", palette = "Set3")
+    # the_plot <- the_plot + scale_fill_brewer(type = "seq", palette = "Greys",
+    #                                          direction = -1)
+    the_plot <- the_plot + scale_fill_manual(na.value = "white",
+                    values = c(
+                        CA1850 = "#969696",
+                        CA1851 = "#BDBDBD",
+                        CA1872 = "#BDBDBD",
+                        IN1852 = "#252525",
+                        LA1844 = "#969696",
+                        NY1829 = "#BDBDBD",
+                        NY1848 = "#636363",
+                        NY1849 = "#252525",
+                        NY1850 = "#252525",
+                        OR1854 = "#636363",
+                        OR1862 = "#BDBDBD",
+                        WA1855 = "#636363",
+                        WI1849 = "#D9D9D9",
+                        Other = "#F7F7F7"
+                        ))
+  } else {
+    the_plot <- the_plot + scale_fill_manual(na.value = "white",
                     values = c(
                       AZ1865 = "lightpink3",
                       AZ1887 = "lightpink3",
@@ -93,6 +115,8 @@ spectrogram <- function(code, matches_df, num_cols = 50,
                       WI1856 = "deepskyblue3",
                       WI1858 = "deepskyblue4"
                     ))
+  }
+  the_plot
 }
 
 col_vector <- function(n, cols) {

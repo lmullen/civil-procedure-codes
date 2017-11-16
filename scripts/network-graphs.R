@@ -32,7 +32,8 @@ edges_n <- summary_matches %>%
 
 codes_g <- graph_from_data_frame(edges_n, directed = TRUE)
 
-the_field_codes <- c("NY1848", "NY1849", "NY1850", "NY1851", "NY1853")
+the_field_codes <- c("NY1848", "NY1849", "NY1850", "NY1851", "NY1853",
+                     "NY1864", "NY1873")
 
 is_field_code <- function(x) {
   ifelse(x %in% the_field_codes, TRUE, FALSE)
