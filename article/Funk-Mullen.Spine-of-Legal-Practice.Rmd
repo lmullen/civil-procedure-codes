@@ -154,14 +154,16 @@ network_g <- ggraph(codes_g, "igraph", algorithm = "nicely") +
   scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") +    
   scale_edge_alpha(range = c(0.5, 0.5), guide = "none") +   
   scale_color_manual(name = "Distance from a Field Code",
-                     values = c("0" = "#ff0000",
-                                "1" = "#1d91c0",
-                                "2" = "#41b6c4",
-                                "3" = "#7fcdbb",
-                                "4" = "#c7e9b4",
-                                "5" = "#edf8b1",
-                                "6" = "#ffffd9",
-                                "Inf" = "#dfc27d")) +
+                     values = c("Field code" = "#e41a1c",
+                                "Original borrower" = "#377eb8",
+                                "Subsequent borrower" = "#4daf4a",
+                                "Independent" = "#984ea3"
+                                # "3" = "#7fcdbb",
+                                # "4" = "#c7e9b4",
+                                # "5" = "#edf8b1",
+                                # "6" = "#ffffd9",
+                                # "Inf" = "#dfc27d"
+                                )) +
   ggforce::theme_no_axes() +  
   geom_node_text(aes(label = name), size = 5, family = "Palatino") +
   labs(title = "The migration of the Field Code",
@@ -190,11 +192,15 @@ In addition to the overview of the relationship between codes, we can also see m
 California's 1850 code, enacted in the period when California was entering the Union as a state, was borrowed almost entirely from New York's 1849 Field Code. The compiler Elisha Crosby did lift one portion from the mixed civilian/common law code of Louisiana, the rules for ordering a new trial to revisit an earlier jury’s verdict. New trials were not provided for in the New York Code until the finished draft in 1850. Most of the sections that were not borrowed, as with many of the codes, have to do with parts that describe the system of courts or provide sample forms of pleading or sheriff’s writs that were peculiar to each state.
 
 ```{r CA1850-borrowings, fig.height=3, fig.align="center"}
-spec_CA1850 <- spectrogram("CA1850", best_matches, 
-                           white_list = c("LA1844", "NY1829", "NY1849", "NY1848"),
+best_matches_combine_ny <- best_matches %>% 
+  mutate(match_code = ifelse(match_code == "NY1848" | match_code == "NY1849",
+                             "NY1848-49",
+                             match_code))
+spec_CA1850 <- spectrogram("CA1850", best_matches_combine_ny, 
+                           white_list = c("LA1844", "NY1848-49"),
                            base_size = 10)
-spec_CA1850_bw <- spectrogram("CA1850", best_matches, 
-                              white_list = c("LA1844", "NY1829", "NY1849", "NY1848"),
+spec_CA1850_bw <- spectrogram("CA1850", best_matches_combine_ny, 
+                              white_list = c("LA1844", "NY1848-49"),
                               base_size = 10, bw = TRUE)
 if (!bw) {
   print(spec_CA1850) 
@@ -212,9 +218,13 @@ ggsave("../out/figures/figure-06-bw.png", spec_CA1850_bw, width = 7, height = 3)
 When Stephen Field revised California’s code in 1851, he largely redrafted it from the updated code his brother David Dudley had completed for New York in 1850. This includes the portion of the code on new trials previously borrowed from Louisiana.[^42] The remainder of the code was borrowed from the 1850 California code. (Many of the non-matching sections are tables of contents.) Thus California based the majority of its law of civil remedies entirely on New York's code not once, but twice. California made few to no innovations to the Field Code beyond a rearrangement of its provisions and their application to the new state’s particular system of courts.
 
 ```{r CA1851-borrowings, fig.height=3.5, fig.align="center"}
-spec_CA1851 <- spectrogram("CA1851", best_matches, 
+best_matches_ca1851 <- best_matches %>% 
+    mutate(match_code = ifelse(match_code == "NY1848" | match_code == "NY1849" | match_code == "NY1850",
+                             "NY1848-50",
+                             match_code))
+spec_CA1851 <- spectrogram("CA1851", best_matches_ca1851, 
                            white_list = 3, base_size = 10)
-spec_CA1851_bw <- spectrogram("CA1851", best_matches, 
+spec_CA1851_bw <- spectrogram("CA1851", best_matches_ca1851, 
                               white_list = 3, base_size = 10, bw = TRUE)
 if (!bw) {
   print(spec_CA1851) 
@@ -232,12 +242,17 @@ ggsave("../out/figures/figure-07-bw.png", spec_CA1851_bw, width = 7, height = 3.
 The pattern of borrowings in the Washington 1855 code was a rather different case. The Washington code was definitely in the lineage of the 1851 California code, since it borrowed sections from both California directly as well as from Oregon (which was also derived from California). Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. The contiguous bands of borrowings correspond to regulations on judgement borrowed from Oregon and enforcement provisions borrowed from Indiana. This pattern likely came about because one of the Washington code commissioners, Edward Lander, was an Indiana appellate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. While working on the Washington code, they must have each used the law (and the law books) that they knew best. As a second generation variation on a regional code, the Washington code drew from a variety of sources, even though all these sources basically agreed on the substance of the law.
 
 ```{r WA1855-borrowings, fig.height=4.5, fig.align="center"}
-spec_WA1855 <- spectrogram("WA1855", best_matches, 
-                           white_list = c("CA1850", "CA1851", "IN1852", 
+best_matches_wa1855 <- best_matches %>% 
+  mutate(match_code = ifelse(match_code == "CA1850" | match_code == "CA1851",
+                             "CA1850-51",
+                             match_code))
+
+spec_WA1855 <- spectrogram("WA1855", best_matches_wa1855, 
+                           white_list = c("CA1850-51", "IN1852", 
                                           "OR1854"),
                            base_size = 10)
-spec_WA1855_bw <- spectrogram("WA1855", best_matches, 
-                              white_list = c("CA1850", "CA1851", "IN1852", 
+spec_WA1855_bw <- spectrogram("WA1855", best_matches_wa1855, 
+                              white_list = c("CA1850-51", "IN1852", 
                                              "OR1854"),
                               base_size = 10, bw = TRUE)
 if (!bw) {

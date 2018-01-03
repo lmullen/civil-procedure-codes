@@ -44,7 +44,17 @@ node_distances <- distances(codes_g,
                             to = the_field_codes,
                             algorithm = "unweighted") %>%
                     apply(1, min, na.rm = TRUE)
-nodes_n <- data_frame(name = names(node_distances),
+# Change labels of field codes
+code_names <- names(node_distances)
+node_distances <- ifelse(is.infinite(node_distances), NA_integer_, node_distances)
+node_distances <- ifelse(node_distances >= 2, 2, node_distances)
+node_distances <- as.character(node_distances)
+node_distances <- ifelse(node_distances == "0", "Field code",
+                         ifelse(node_distances == "1", "Original borrower",
+                         ifelse(node_distances == "2", "Subsequent borrower",
+                         node_distances)))
+node_distances <- ifelse(is.na(node_distances), "Independent", node_distances)
+nodes_n <- data_frame(name = code_names,
                       distance = node_distances,
                       field_code = is_field_code(name))
 
