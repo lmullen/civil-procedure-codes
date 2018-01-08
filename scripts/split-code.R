@@ -7,7 +7,7 @@ in_file <- args[1]
 stem <- in_file %>%
   basename() %>%
   str_replace("\\.txt", "")
-out_file_stem <- str_c("legal-codes-split/", stem)
+out_file_stem <- str_c("procedure-code-sections/", stem)
 doc <- read_file(in_file)
 
 # Use pattern_clean on files we have cleaned up; otherwise use pattern_fuzzy. We

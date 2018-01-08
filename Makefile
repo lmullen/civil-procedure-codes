@@ -1,23 +1,23 @@
-OCR_OUTPUTS := $(patsubst pdf/%.pdf, text/%.txt, $(wildcard pdf/*.pdf))
-CLEAN_CODES := $(patsubst text/%.txt, legal-codes/%.txt, $(wildcard text/*.txt))
-SPLIT_CODES := $(patsubst legal-codes/%.txt, legal-codes-split/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
+OCR_OUTPUTS := $(patsubst pdf/%.pdf, procedure-codes/%.txt, $(wildcard pdf/*.pdf))
+CLEAN_CODES := $(patsubst procedure-codes/%.txt, cleaned-codes/%.txt, $(wildcard procedure-codes/*.txt))
+SPLIT_CODES := $(patsubst cleaned-codes/%.txt, procedure-code-sections/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
 INCLUDES  := $(wildcard www-lib/*.html)
 
 all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-Legal-Practice.pdf index.html clusters
 
-# Clean up the codes in `text/`
+# Clean up the codes in `procedure-codes/`
 .PHONY : codes
 codes : $(CLEAN_CODES)
 
-legal-codes/%.txt : text/%.txt
+cleaned-codes/%.txt : procedure-codes/%.txt
 	Rscript --vanilla scripts/clean-text.R $^ $@
 
 # Split the codes into sections
 .PHONY : splits
 splits : $(SPLIT_CODES)
 
-legal-codes-split/%-SPLIT.txt : legal-codes/%.txt
-	@mkdir -p legal-codes-split
+procedure-code-sections/%-SPLIT.txt : cleaned-codes/%.txt
+	@mkdir -p procedure-code-sections
 	Rscript --vanilla scripts/split-code.R $<
 	@touch $@
 
@@ -51,6 +51,14 @@ article : article/Funk-Mullen.Spine-of-Legal-Practice.pdf
 article/Funk-Mullen.Spine-of-Legal-Practice.pdf : article/Funk-Mullen.Spine-of-Legal-Practice.Rmd cache/corpus-lsh.rda cache/network-graphs.rda
 	R --slave -e "set.seed(100); rmarkdown::render('$<', output_format = 'all')"
 
+# Update certain files in the research compendium for AHR
+.PHONY : compendium
+compendium :
+	zip compendium/all-section-matches.csv.zip out/matches/all_matches.csv
+	zip compendium/best-section-matches.csv.zip out/matches/best_matches.csv
+	zip -r compendium/procedure-codes.zip procedure-codes/
+	zip -r compendium/procedure-code-sections.zip procedure-code-sections/
+
 # Create a listing of the files in the notebook home page
 index.html : index.Rmd $(INCLUDES)
 
@@ -60,8 +68,8 @@ clean :
 
 .PHONY : clean-splits
 clean-splits :
-	rm -f legal-codes/*
-	rm -rf legal-codes-split
+	rm -f cleaned-codes/*
+	rm -rf procedure-code-sections
 
 .PHONY : clean-clusters
 clean-clusters :
@@ -72,4 +80,3 @@ clean-clusters :
 clobber : clean
 	rm -f cache/*
 	rm -rf out/*
-
