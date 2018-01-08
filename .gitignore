@@ -6,7 +6,6 @@ temp
 plots
 out
 codes
-packrat/src/
 cache
 legal-codes-split
 clusters
@@ -26,3 +25,4 @@ compendium
 untracked
 cleaned-codes
 procedure-code-sections
+packrat/src/
