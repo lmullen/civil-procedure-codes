@@ -456,7 +456,6 @@ Package: svglite
 Source: CRAN
 Version: 1.2.1
 Requires: BH, Rcpp, gdtools
-
 Package: textreuse
 Source: CRAN
 Version: 0.1.4
