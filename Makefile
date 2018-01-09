@@ -7,9 +7,9 @@ all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of
 # Setup tasks
 .PHONY : setup packrat dirs
 
-setup : | packrat dirs 
+setup : | packrat dirs
 
-packrat : 
+packrat :
 	Rscript -e "packrat::restore()"
 
 dirs :
@@ -55,7 +55,6 @@ cache/network-graphs.rda : cache/corpus-lsh.rda
 clusters : out/clusters/DONE.txt
 
 out/clusters/DONE.txt : cache/corpus-lsh.rda
-	mkdir -p out/clusters
 	Rscript --vanilla scripts/cluster-sections.R && \
 	touch $@
 
