@@ -73,6 +73,7 @@ compendium :
 	zip -r compendium/procedure-codes.zip procedure-codes/
 	zip -r compendium/procedure-code-sections.zip procedure-code-sections/
 	zip -r compendium/clusters-of-sections.zip out/clusters/
+	git archive --format=zip --output=compendium/field-code-analysis.zip master
 
 .PHONY : clean
 clean :
