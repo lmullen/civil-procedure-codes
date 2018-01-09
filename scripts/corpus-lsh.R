@@ -10,7 +10,7 @@ h <- 120
 b <- 60
 minhash <- minhash_generator(n = h, seed = 623)
 
-sections <- TextReuseCorpus(dir = "legal-codes-split",
+sections <- TextReuseCorpus(dir = "procedure-code-sections",
                             tokenizer = tokenize_ngrams, n = 5,
                             keep_tokens = FALSE,
                             minhash_func = minhash)
