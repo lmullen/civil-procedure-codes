@@ -15,6 +15,11 @@ packrat :
 dirs :
 	mkdir -p cleaned-codes proc
 	mkdir -p procedure-code-sections
+	mkdir -p out
+	mkdir -p out/clusters
+	mkdir -p out/figures
+	mkdir -p out/matches
+	mkdir -p cache
 
 # Clean up the codes in `procedure-codes/`
 .PHONY : codes
