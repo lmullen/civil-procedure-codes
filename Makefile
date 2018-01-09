@@ -89,7 +89,17 @@ clean-clusters :
 	rm -rf out/clusters
 	rm -f cache/clusters.rds
 
+.PHONY :  clean-compendium
+clean-compendium : 
+	rm -f compendium/all-section-matches.csv.zip
+	rm -f compendium/best-section-matches.csv.zip
+	rm -f compendium/procedure-codes.zip
+	rm -f compendium/procedure-code-sections.zip
+	rm -f compendium/clusters-of-sections.zip
+	rm -f compendium/field-code-analysis.zip
+
 .PHONY : clobber
 clobber : clean
 	rm -f cache/*
 	rm -rf out/*
+
