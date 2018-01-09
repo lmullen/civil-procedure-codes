@@ -21,3 +21,8 @@ To reproduce our analysis, run the folllwing steps using GNU Make.
 
 1. Run `make setup && make codes && make splits` to create directories for the results, install the R packages from packrat, clean the codes text files, and split them into sections.
 2. Running `make all` will then run all the analytical code in the repository in the proper order. Various subtasks, documented in the `Makefile` will create pieces of the analysis, such as finding the matches between sections (`make lsh`), creating the network graph (`make network`), creating the clusters (`make clusters`), and creating the article and visualizations (`make article`).
+
+### License
+
+The code in this repository is made available under the MIT license. See file `LICENSE.txt` for details.
+
