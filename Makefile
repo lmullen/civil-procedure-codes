@@ -1,8 +1,20 @@
 OCR_OUTPUTS := $(patsubst pdf/%.pdf, procedure-codes/%.txt, $(wildcard pdf/*.pdf))
 CLEAN_CODES := $(patsubst procedure-codes/%.txt, cleaned-codes/%.txt, $(wildcard procedure-codes/*.txt))
-SPLIT_CODES := $(patsubst cleaned-codes/%.txt, procedure-code-sections/%-SPLIT.txt, $(wildcard legal-codes/*.txt))
+SPLIT_CODES := $(patsubst cleaned-codes/%.txt, procedure-code-sections/%-SPLIT.txt, $(wildcard cleaned-codes/*.txt))
 
 all : cache/corpus-lsh.rda cache/network-graphs.rda article/Funk-Mullen.Spine-of-American-Law.pdf clusters
+
+# Setup tasks
+.PHONY : setup packrat dirs
+
+setup : | packrat dirs 
+
+packrat : 
+	Rscript -e "packrat::restore()"
+
+dirs :
+	mkdir -p cleaned-codes proc
+	mkdir -p procedure-code-sections
 
 # Clean up the codes in `procedure-codes/`
 .PHONY : codes
@@ -16,7 +28,6 @@ cleaned-codes/%.txt : procedure-codes/%.txt
 splits : $(SPLIT_CODES)
 
 procedure-code-sections/%-SPLIT.txt : cleaned-codes/%.txt
-	@mkdir -p procedure-code-sections
 	Rscript --vanilla scripts/split-code.R $<
 	@touch $@
 
