@@ -72,7 +72,7 @@ compendium :
 	zip -j compendium/best-section-matches.csv.zip out/matches/best_matches.csv
 	zip -r compendium/procedure-codes.zip procedure-codes/
 	zip -r compendium/procedure-code-sections.zip procedure-code-sections/
-	zip -r compendium/clusters-of-sections.zip out/clusters/
+	zip -j -r compendium/clusters-of-sections.zip out/clusters/
 	git archive --format=zip --output=compendium/field-code-analysis.zip master
 
 .PHONY : clean
