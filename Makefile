@@ -68,8 +68,8 @@ article/Funk-Mullen.Spine-of-American-Law.pdf : article/Funk-Mullen.Spine-of-Ame
 # Update certain files in the research compendium for AHR
 .PHONY : compendium
 compendium :
-	zip compendium/all-section-matches.csv.zip out/matches/all_matches.csv
-	zip compendium/best-section-matches.csv.zip out/matches/best_matches.csv
+	zip -j compendium/all-section-matches.csv.zip out/matches/all_matches.csv
+	zip -j compendium/best-section-matches.csv.zip out/matches/best_matches.csv
 	zip -r compendium/procedure-codes.zip procedure-codes/
 	zip -r compendium/procedure-code-sections.zip procedure-code-sections/
 	zip -r compendium/clusters-of-sections.zip out/clusters/
