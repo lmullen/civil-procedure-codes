@@ -1,6 +1,6 @@
 ## The Spine of American Law
 
-This repository contains the analytical code for [Kellen Funk](http://kellenfunk.org) and [Lincoln A. Mullen](http://lincolnmullen.com), "The Spine of American Law: Digital Text Analysis and U.S. Legal Practice," _American Historical Review_ 123, no. 1 (February 2018). The article studies borrowing in legal codes of civil procedure in the nineteenth-century United States. Please note that this repository produces the final analysis and visualizations for the project, but the text of the article is that of the "author's accepted manuscript," or pre-print. You can find pre-prints of the article at [SSRN](https://ssrn.com/abstract=3001377) and [SocArXiv](https://osf.io/preprints/socarxiv/w8un4/).
+This repository contains the analytical code for [Kellen Funk](http://kellenfunk.org) and [Lincoln A. Mullen](http://lincolnmullen.com), "The Spine of American Law: Digital Text Analysis and U.S. Legal Practice," _American Historical Review_ 123, no. 1 (2018): 132-164, <https://doi.org/10.1093/ahr/123.1.132>. The article studies borrowing in legal codes of civil procedure in the nineteenth-century United States. Please note that this repository produces the final analysis and visualizations for the project, but the text of the article is that of the "author's accepted manuscript," or pre-print. You can find pre-prints of the article at [SSRN](https://ssrn.com/abstract=3001377) and [SocArXiv](https://osf.io/preprints/socarxiv/w8un4/).
 
 ### Description of repository
 
