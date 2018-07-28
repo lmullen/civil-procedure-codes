@@ -170,11 +170,13 @@ NY1879
 spectrogram("NY1879", best_matches, white_list = c("NY1853", "NY1876"))
 ```
 
+This makes a spectrogram not of which sections in NY 1850 did the borrowing, but of which sections were borrowed the most.
+
 ```{r NY-most-borrowed, fig.height=8}
 all_NY1850 <- data_frame(borrower_code = "NY1850",
                          borrower_section = all_matches %>% 
                            filter(borrower_code == "NY1850") %>% 
-                           `$`("borrower_section") %>%
+                           pull(borrower_section) %>%
                            unique() %>%
                            sort()
                         )
@@ -185,20 +187,24 @@ NY1850_match_counts <- all_matches %>%
          score >= 0.1) %>% 
   count(match_section) 
 
-left_join(all_NY1850, NY1850_match_counts, 
-          by = c("borrower_section" = "match_section")) %>% 
-  select(section = borrower_section, n) %>% 
-  mutate(n = ifelse(n < 6, NA, n)) %>% 
-  mutate(n = cut(n, c(seq(0, 40, 5), 85))) %>% 
+NY1850_for_plotting <- left_join(all_NY1850, NY1850_match_counts, 
+          by = c("borrower_section" = "match_section")) 
+max_n <- NY1850_for_plotting$n %>% max(na.rm = TRUE)
+
+NY1850_for_plotting %>% 
+  # select(section = borrower_section, n) %>% 
+  mutate(n = ifelse(n < 2, NA, n)) %>% 
+  # mutate(n = cut(n, c(seq(0, 40, 5), 85))) %>% View
+  mutate(n = cut(n, c(seq(0, 80, 10), max_n))) %>% 
   mutate(.,
          column = col_vector(nrow(.), 50),
          row = row_vector(nrow(.), 50)) %>% 
   ggplot(aes(x = column, y = -row, fill = n)) +
   geom_tile(color = "lightgray") +
   scale_fill_brewer(palette = "YlOrBr", na.value = "white", 
-                    labels = c("6-10", "11-15", "16-20", "21-25", "26-30",
-                               "31-35", "36-40", "40+")) +
-  labs(x = NULL, y = NULL, fill = "Number of times borrowed") + 
+                    labels = c("2-10", "11-20", "21-30", "31-40", "41-50",
+                               "51-60", "61-70", "71-80", "80+", "")) +
+  labs(x = NULL, y = NULL, fill = "Number of similar sections in subsequent codes") + 
   coord_equal() + 
   theme_minimal() + 
   theme(legend.position = "bottom",
@@ -208,9 +214,6 @@ left_join(all_NY1850, NY1850_match_counts,
       legend.key.size = unit(0.5, "cm"),
       plot.margin = unit(c(0, 0, 0, 0), "cm"),
       plot.title = element_text(hjust = 0.5)) +
-  ggtitle("Most frequently borrowed sections in NY1850")
-
-
-
+  labs(title = "Most influential sections in NY1850")
 ```
 
