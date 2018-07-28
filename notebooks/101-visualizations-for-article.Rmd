@@ -204,7 +204,7 @@ NY1850_for_plotting %>%
   scale_fill_brewer(palette = "YlOrBr", na.value = "white", 
                     labels = c("2-10", "11-20", "21-30", "31-40", "41-50",
                                "51-60", "61-70", "71-80", "80+", "")) +
-  labs(x = NULL, y = NULL, fill = "Number of similar sections in subsequent codes") + 
+  labs(x = NULL, y = NULL, fill = "Number of similar sections\nin subsequent codes") + 
   coord_equal() + 
   theme_minimal() + 
   theme(legend.position = "bottom",
@@ -212,8 +212,9 @@ NY1850_for_plotting %>%
       axis.line = element_blank(), axis.text = element_blank(),
       panel.background = element_blank(), panel.grid = element_blank(),
       legend.key.size = unit(0.5, "cm"),
-      plot.margin = unit(c(0, 0, 0, 0), "cm"),
+      plot.margin = unit(c(0.0, 0.0, 0.0, 0.0), "cm"),
       plot.title = element_text(hjust = 0.5)) +
   labs(title = "Most influential sections in NY1850")
+ggsave("out/diss/NY1850-most-borrowed.png", width = 6.5, height = 7.5)
 ```
 
