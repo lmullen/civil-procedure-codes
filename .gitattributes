@@ -1,0 +1,8 @@
+text=auto
+*.html linguist-detectable=false
+*.ipynb linguist-detectable=false
+*.sql linguist-language=sqlpl
+*.Rmd linguist-language=R
+*.rmd linguist-language=R
+*.Qmd linguist-language=R
+*.qmd linguist-language=R
